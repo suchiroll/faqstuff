@@ -1,0 +1,14 @@
+Title: No Sidetone during a Phone Call
+Id: 4578
+Legacy Id: 5704
+
+Question:
+I have SE215 earbuds and the Earphone Accessory Cable for use my iPhone. Everything works but I can't hear myself talk through the earbuds. Is this by design?
+
+
+Answer:
+
+	Hearingones voicein the earphones, while making a call, is called sidetone.The level of sidetone is determined by the mobile phone and its related audio circuits, not by the earphones. Shure earphones do not have a circuit that provides sidetone.
+	
+	Echo with CBL-M+-K when using my phone
+

@@ -1,0 +1,12 @@
+Title: RoHS and lead-free compliance
+Id: 3089
+Legacy Id: 3221
+
+Question:
+Do Shure products meet the European RoHS standard?
+
+
+Answer:
+
+	Shures RoHS / WEEE program was initiated in 2003. We are conversant with these regulations, as well as other relevant U.S. and international compliance matters such as safety and electromagnetic compatibility. Major corporate programs addressed RoHS and WEEE internally and with our suppliers. Shure products are compliant in accordance with the RoHS directives.The majority of products were compliant by the end of 2006.
+

@@ -1,0 +1,14 @@
+Title: White Label Stylus with SC35C Cartridge
+Id: 4981
+Legacy Id: 6247
+
+Question:
+Can I use the n-whlb stylus on a sc35c cartridge?
+
+
+
+Answer:
+The N-WHLB stylus will fit into the SC35C cartridge body.
+		However, as with any hybrid cartridge such as this, please read:
+ Use an Alternate Phono Stylus? Buy an New Old Phono Stylus?
+

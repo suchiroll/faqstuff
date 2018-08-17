@@ -1,0 +1,28 @@
+Title: PSM 200 Low Volume Level
+Id: 4081
+Legacy Id: 4654
+
+Question:
+Reading the manual for the PSM 200 wireless IEM, it shows the mic going into the the transmixer and then out to the board. I've plugged my mic into the input and the volume that I'm getting in the ear pieces is not very good. The earphones are good and I'm pretty sure I have them in right, when I listen to my MP3 player with them they sound amazing. Also noticed that I really had to be loud into the mic to make the green light on the transmixer light up. Am I missing something or not running correctly? I'm a little disapointed in the volume I'm getting, even with the input control on the transmixer and battery pack volumes at max it's not very loud.
+
+
+Answer:
+
+	1) What is the make/model of the mic being use?
+	
+	2) What type of mic cable is being used?What type of connectors are on the cable?
+
+	ANSWER: The mic is a Shure SM58, cord is a livewire (brandnew) XLR conector.
+	
+	-----------------------------------------------------------
+	Please try this test and respond with the results.
+	
+	1) Use the headphone output of the mixing board to drive the input of the P2T transmitter.When this setup is used, is the P2R/earphones sound level loud enough?
+	Michael,
+	
+	ANSWER: Sorry I havent responded, did not have a chance to experiment with the unit until this past weekend. I have to appologize, problem was traced to a bad cord. Not just one but two brand new Live Wire mic cords were bad, I will now be turning my wrath toward Live Wire. The PSM 200 works great and I totally fell in love with it this weekend during rehersals, so great to be able to hear yourself. Sorry again and thank you for trying to work it out with me.
+	
+	------------------------------------------------------------
+	You are welcome.You have learned what very few people want to believe -defective cables are the #1 cause of sound system issues.Cables should always be the first item suspected during troubleshooting.
+	
+

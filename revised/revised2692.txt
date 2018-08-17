@@ -1,0 +1,12 @@
+Title: R1000ED Replacement
+Id: 2692
+Legacy Id: 2796
+
+Question:
+My 83 year old mother has a realistic lab 400 with a "r1000ed" broken needle. I've tried to look up its replacement and I think it is N75ED-t2.Is this r1000ed an original shure cartridge?
+
+
+Answer:
+
+	The stylus was the model N75ED-T2. The R1000ED is a Shure cartridge that was made for Radio Shack.
+

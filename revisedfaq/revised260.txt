@@ -1,0 +1,21 @@
+Title: Mic placement for marching band
+Id: 260
+Legacy Id: 266
+
+Question:
+I have 4 Shure SM91 mic's, and I need to know the best placement for them along a football field to record a marching band, I have access for the sideline to about 50 feet fro the side line, I will be running the mic's through a mixer then into my video camera.
+
+Answer:
+
+	First, let us say that SM91s would not be our first choice for your application. You would be better using the KSM137, KSM109, SM81 or PG81 as these mics can be easily mounted on mic stands.
+	
+	Try the following techniques as a start:
+	
+	(1) Place 2 microphones at the 50 yard line in an X-Y stereo configuration. Then place the other 2 microphones at the 30 (or 35); on each side of the 50.
+	
+	(2) Evenly space all 4 microphones along the sideline, e.g., each 40 and each 25.
+	
+	(3) Place one mic at the 50, one mic at each 30 (or 35), and then the last mic up near the press box to capture some ambience.
+	
+	Technique number (1) would have to be stereo. The other two techniques could be either stereo or mono. Experimentation is the key! Whatever technique satisfies your ear is the right technique to use.
+

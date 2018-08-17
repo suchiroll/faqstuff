@@ -1,0 +1,14 @@
+Title: Will a QLX-D transmitter work with a ULX-D receiver and vice versa?
+Id: 4498
+Legacy Id: 5612
+
+Question:
+Will a QLX-D transmitter work with a ULX-D receiver and vice versa?
+
+
+Answer:
+
+	Yes, but both devices must have the same operating frequency band, such as G50. Group and Channel settings within the frequency band are the same for ULX-D and QLX-D.
+	
+	The Group and Channel number for each device have to be set manually, as the InfraRed sync will not work.Also, the encryption feature is not availablewith this type of hybrid system.
+

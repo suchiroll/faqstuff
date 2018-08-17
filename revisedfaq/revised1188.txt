@@ -1,0 +1,21 @@
+Title: 55S Microphone
+Id: 1188
+Legacy Id: 1232
+
+Question:
+I have a 55S microphone (looks to be from the 50's) that seems to be in good condition, except that the threads for (what I think is) the amphenol connector at the base of the microphone are very bent after being dropped. As a result I don't currently know if it works or not. This leads to two questions for you: 1. Could I run the bent threads through a die and re-cut the threads? Or is there a more modern connector that will work with out screwing on to the microphones' base? 2. Is there a way I could test to see if the internal electronics of the microphone still work with an ohm meter or similar device? This would be of primary concern because it would be pointless to repair the connector only to find out the microphone doesn't work. Any advice you could offer would be greatly appreciated.
+
+
+P.S. I down loaded a copy of the user manual from your web site; its fantastic idea to have copies of old manuals available on-line.
+
+
+Answer:
+
+	1. The connector that mates up is the original Amphenol connector. For connector and cabling information, please see the following link:
+	
+	Mic cable for Shure 55S
+	
+	2. In order to test the microphone cartridge with an ohmmeter, you would need to unsolder the transformer from the cartridge. At that point, you can put an ohmmeter across the cartidge. The resistance should be less than 100 ohms, and probably closer to 10 ohms.
+	
+	Tom Ellis is a microphone collector and canassist with repair and reconditioning of your 55S.
+

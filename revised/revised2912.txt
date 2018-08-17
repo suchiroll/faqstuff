@@ -1,0 +1,16 @@
+Title: Monaural Phono Cartridge necessary for mono 1950's jazz records?
+Id: 2912
+Legacy Id: 3037
+
+Question:
+I like the Shure V15 (mfg in the 90s) I'm using the Radio Shack labeled version, are there any recommendations on stylus or cartridges to use for Jazz MONO Phono records made in the 50s era. I'll be using this on a Grace 714 wooden tonearm mounted on a Technics SP-10 with a sorbane (sp?) mat. THANKS so much for your help and consideration.
+
+
+Answer:
+
+	There is no advantage to using a true monophonic pickup for these types of recordings. Modern stereo pickups are superior because they have compliance in the vertical AND horizontal planes, and are less likely to cause record wear and damage. A monophonic pickup tends to be very stiff in the vertical direction.
+	
+	The Shure/Radio Shack V15, configured for monaural operation, will do a good job reproducing your monaural recordings. The monaural connections help cancel noise caused by record wear and dirt in the groove. The stylus size is proper for the Long Playing records from the 1950s.
+	
+	Use a Y-cable to sum the two outputs from your turntable. This connects the left and right signal in parallel, thus summed together for monaural operation.
+

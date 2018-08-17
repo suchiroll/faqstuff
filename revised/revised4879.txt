@@ -1,0 +1,14 @@
+Title: CA91C Microphone
+Id: 4879
+Legacy Id: 6137
+
+Question:
+What is the Shure CA91C microphone?
+
+
+Answer:
+
+	This omnidirectional microphone, with a ceramic element, was manufactured by Shure in Chicago duringthe 1940s and 1950s. This mic was sold as an OEM product to tape recorder manufacturers and packaged with the tape recorder. One such tape recorder manufacturer was Crescent Industries.
+	
+	The CA91C had a circular, plastic/bakelite case; a cloth-covered cable; and a 1/4 male phone plug connector. The typical case color was dark brown or light tan. The grill had a cross-hatch pattern resembling a waffle.
+

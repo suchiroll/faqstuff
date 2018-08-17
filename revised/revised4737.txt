@@ -1,0 +1,16 @@
+Title: Set up of the BLX88 to work with two mic transmitters
+Id: 4737
+Legacy Id: 5909
+
+Question:
+My new BLX88 receiver came set from the factory at "A1" and "A2." These settings are on the front panel. Do I set the two mic transmitters to "A1" and to "A2."
+
+
+Answer:
+
+	Yes. You must set the microphones to match the Groupand Channel settings on the front of the BLX88 dual receiver.A1, forexample, is Group A and Channel 1. If A1 is used for the first mic and for one of the BLX88 receivers, then the second mic and the other receiver must be set to A2 or A3 or A4, etc.
+
+	Please refer to the BLX User Guide on how to use the SCAN feature of the BLX88 dual receiver. SCAN selects the best Group/Channel to use at your specific venue.
+	
+	Also, the BLX88 receiver has two output jacks for the two audio signals. Both BLX88 outputs must be connected to the audio system in order to hear both mics.
+

@@ -1,0 +1,13 @@
+Title: SCM820, Dante, MXWANI
+Id: 4519
+Legacy Id: 5637
+
+Question:
+Is it feasible to use a SCM820 with Dante to send 8 channels of microphones to an MXWANI8 over CAT-5 in order to break back out to analog?
+
+
+Answer:
+
+	Yes, this can be done using Dante Controller. Route the 8 "Direct Out" transmit channels from the SCM820 to the 8 "Output" Receive channels of the MXWANI.  
+	
+	This can also be done from an ANI4IN to an MXWANI.

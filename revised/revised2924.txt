@@ -1,0 +1,18 @@
+Title: RXP3 cartridge with the N104E stylus
+Id: 2924
+Legacy Id: 3050
+
+Question:
+Please advise specification for the above cartridge, such as frequency response, etc
+
+
+Answer:
+
+	RXP3
+	Biradial stylus (0.2x 0.7 mils)
+	Tracking Force: 3/4 to 1 1/2 grams
+	Channel Balance: within 2 dB
+	Minimum Channel Separation at 1kHz: 25 dB
+	Frequency Response: 20 - 20,000 Hz +/- 2 dB
+	Output Level: 5.0 mV at 1 kHz at 5cm/second peak velocity
+

@@ -1,0 +1,12 @@
+Title: SBC902 Stand Alone Battery Charger for GLX-D
+Id: 4454
+Legacy Id: 5556
+
+Question:
+Is there a stand alone battery charger for the GLXD SB902 battery?
+
+
+Answer:
+
+	Yes. The model is SBC902.
+

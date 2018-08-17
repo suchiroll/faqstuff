@@ -1,0 +1,11 @@
+Title: SM57 internal XLR connections
+Id: 1911
+Legacy Id: 1972
+
+Question:
+I'm the sound technician at my college, and I've been put in charge of fixing one of our SM57 microphones (normally I'd just take it to the repair place, but I don't have time to do that in this case). The problem is that the plug pulled out of the housing, and now I've got the three pronged male plug, prongs labeled 1,2,and 3, and two wires, red and blue, that need to be soldered back on. I know 1 is the ground, but I don't know which wire is supposed to connect to 2 and which to 3.
+
+
+Answer:
+
+	Red to pin 3. Blue to pin 2.

@@ -1,0 +1,17 @@
+Title: WinRadio on MacBook with Wireless Workbench 5
+Id: 3533
+Legacy Id: 3737
+
+Question:
+Can I use a WinRadio with Wireless Workbench 5 on my MacBook?
+
+
+Answer:
+
+	The current WinRadio device that we are recommending for use with Wireless Workbench, the WR-G305e or WR-G305e/WFM, is only available in a Windows compatible version.Apples Boot Camp software, included with Mac OS X 10.5 Leopard, lets you install and use Microsoft Windows and Windows-based applications on your Intel-based Mac. If you reboot your MacBook in the Windows environment, you can then use Wireless Workbench with the WinRadio device. Additionally, if you need to use both Windows and Mac applications, and would like to do so without rebooting, there is additional software called Fusion by VMWare that will eliminate the need to reboot.
+	
+	For more information:
+	www.winradio.com
+	www.vmware.com/products/fusion
+	www.apple.com/support/bootcamp
+

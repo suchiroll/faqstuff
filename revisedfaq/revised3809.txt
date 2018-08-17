@@ -1,0 +1,31 @@
+Title: Wireless microphone is not loud enough
+Id: 3809
+Legacy Id: 4047
+
+Question:
+I have a Shure wireless system and it is not loud enough. I have to hold the mic very close to my mouth and speak loudly. I can also hear audio if I scratch the mic grill. Do I need a different mic element?
+
+
+Answer:
+
+	The problem is not the mic element. The problem is a level mis-match between the wireless receiver output and the device to which it is connected. This scenario is common and the explanation is simple.
+	
+	The audio output level of many wireless mic systems is Mic level. This means the output level is the equivalent of a wired microphone, like a Shure SM58. A typical Mic level output is 1 to 3 millivolts (mV). This Mic level signal cannot properly drive an input that requires Aux level (100 mV), or Line level (1,000 mV or 1 V). When you speak loudly into the mic and hold it close to your mouth, the audio output level increases dramatically, and the system then works as expected.
+	
+	The options are:
+	
+	1) Connect the wireless receiver into a Mic level input of the following device. If the device has a selectable input, make certain the input is set to Mic level. If there is an input gain control, set it to Maximum. If there is an input attenuator control, set it to Minimum/No Attenuation.
+	
+	2) If there is no Mic level input, connect the wireless receiver output into a Shure SCM268 or SCM262 mixer. The mixer will increase the audio level from Mic level to Aux level or to Line level. In place of the Shure mixer, use a device like the Radio Design Labs FP-MP1 Microphone Preamp.
+	
+	
+	Helpful hint #1: A Mic level input is typically a female XLR connector. An Aux level or Line level input is typically an RCA jack, 1/4 phone jack, or 3.5 mm phone jack. Please note that just because one connector mates properly with another does NOT mean that the levels match.
+	
+	What do typical audio connectors look like?
+	
+	Helpful hint #2: Substitute a wired mic, like a Shure SM58, for the wireless receiver. If the SM58 has the same low output complaint as above, then the device input is definitely Aux level or Line level.
+	
+	Helpful hint #3: Different wireless receivers have different output levels. This is true within the Shure line and with competitive brands. Consult the User Guide of each wireless receiver to determine its output signal level. Mic Level can vary as much as 20 dB between different receivers. On certain Shure receivers, the audio output level is 14 dB greater using the 1/4 phone jack compared to the XLR. Some wireless receivers have a Line / Mic switch near the XLR output. Selecting Line will boost the output signal level significantly.
+	
+	Helpful hint #4: The mic-to-mouth distance is a critical element of loudness.A lapel microphone, positioned on the chest, will never be as loud as a handheld microphone, positioned close to the mouth. A lapel microphone, held close to the mouth,can be as loud as the handheld microphone.
+

@@ -1,0 +1,15 @@
+Title: Connect mono mics to stereo camera
+Id: 339
+Legacy Id: 346
+
+Question:
+I have a camcorder (Canon XL-1) with XLR inputs for left and right channels. Most mics I own seem to be mono or one channel. If I want the input from the mic to be recorded in stereo, what do I need to do. Get a "Y" stereo splitter? What if I had a 4 mic mixer? Could I have 4 sound sources and record them all in stereo (2 channels) with the same technique or solution? I don't want the audio on my video tape to be mono.
+
+Answer:
+
+	To be precise, one mic signal going to both channels on your recorder is not stereo. It is simply mono recorded on two tracks. Stereo implies two different but related audio signals.
+	
+	We will assume that the Canon XL-1 is not supplying phantom power or bias to the mics. In that case, a simple Y adapter will work. Go to: Markertek to find XLR to XLR Y adapters.
+	
+	When using a four input mono mixer, like the Shure SCM268, the Y adapter can be used to feed the Canon Left and Right inputs.
+

@@ -1,0 +1,19 @@
+Title: UC wireless features
+Id: 874
+Legacy Id: 901
+
+Question:
+I am considering buying a Shure wireless system and was using your feature comparison chart. I noticed some features that I do not know what are. Also, I was unable to find out from your site. Would you please give me a brief description of each so I can make a more educated decision?
+
+Tone Key Squelch; TTL Logic Control Capability; Attenuator Switch on Body-Pack Transmitter; "LEMO" Style Connector Body-Pack Option.
+
+Answer:
+
+	Tone Key Squelch: an electronic circuit that eliminates any audible pop when turning the transmitter on or off.
+	
+	TTL Logic Control Capability: connection points on the UC receiver that sends a signal to other equipment whenever the transmitter is turned on OR the battery is low.
+	
+	Attenuator Switch on Body-Pack Transmitter: allows guitars and other high-output instruments to be used with the UC transmitter without distortion.
+	
+	LEMO Style Connector Body-Pack Option: a specialized, expensive audio connector used almost exclusively in the theater market.
+

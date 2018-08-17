@@ -1,0 +1,16 @@
+Title: C50J Cable Specs
+Id: 2419
+Legacy Id: 2512
+
+Question:
+I'm considering the internet purchase of a Shure C50J microphone cable. I was thinking this might be a good match with my Shure SM48 microphone. But I having trouble finding specifics for the cable. Your website provided the length (50 ft.) but I'm also interested in knowing the gauge, number of conductors, shielding. etc. before I buy it.
+
+
+Answer:
+
+	The C50J is an inexpensive cable. It has two inner conductors of 22 gauge. The shielding is a spiral wrap with about 85% coverage.
+	
+	If you are looking for a 50 foot cable that will last a lifetime, the C50J is not the answer.
+	
+	For high quality 50 foot cables: www.gepco.com
+

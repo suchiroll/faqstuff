@@ -1,0 +1,12 @@
+Title: Replacement stylus for M44MR cartridge
+Id: 3413
+Legacy Id: 3603
+
+Question:
+My Rockola jukebox has a Shure M44MR cartridge. Is there a current replacement stylus that will fit it?
+
+
+Answer:
+
+	Yes, the N44-7 replacement stylus will fit.
+

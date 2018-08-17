@@ -1,0 +1,13 @@
+Title: VP wireless - using two traveling frequencies
+Id: 1231
+Legacy Id: 1277
+
+Question:
+I'm interested in buying 2 VPL/93 Wireless units. My question is it possible to use the two universal traveling frequencies 169.445 V and the 171.80 W at the same time or are the frequencies too close to one another. I want to have the two universals so as to give myself the greatest amount of trouble free use throughout the country.
+
+
+
+Answer:
+
+	Yes, frequency V and frequency W may be used at the same time.
+

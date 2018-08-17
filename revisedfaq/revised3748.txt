@@ -1,0 +1,40 @@
+Title: Brief History Of Shure Phonograph Cartridges
+Id: 3748
+Legacy Id: 3984
+
+Question:
+Please provide a brief overview of Shure's developments in phono cartridges.
+
+
+Answer:
+
+	A Brief History of Shure Phonograph Products: 1933 - 1998
+	
+	1933: Shure begins to supply OEM crystal pickups to various manufacturers of record players
+	
+	1937: Shure introduces the model 99A Zephyr - a balanced tracking crystal record reproducer. This product featured a full-floating, non-resonant tone arm; low needle-point impedance; and needle tilt that kept the stylus in true alignment with the record groove.
+	
+	1951: Shure offers a complete line of crystal and ceramic pickups, including direct-drive single sided; vertical drive turnover; vertical drive single sided; muted stylus; and lever type. The exact meaning of each term is sadly no longer known.
+	
+	1955: Shure introduces the ML44 Series known as the Music Lovers Cartridge. It is a ceramic pickup with a twin-lever coupling and the ability to play three speeds of records. Two styli (1 mil and 3 mil) were interchangeable by the user.
+	
+	1957: The M1 Studio Dynetic Cartridge is debuted and it is integrated into the M16 studio dynetic phono reproducer (tone arm). The Dynetic principle is a moving magnet with a stationary coil. Tracking force is one gram and the diamond stylus tip has a radius of 0.0007 inch. Each unit is custom produced and individually tested.
+	
+	1958: Shure introduces the M3D stereo Dynetic Cartridge. It is the worlds first moving magnet stereo cartridge and features stereo channel separation at 1,000 Hz of 20 dB or better.
+	
+	1964: The V15 Stereo Dynetic High Fidelity Cartridge is first sold. It features a 15 degree vertical tracking angle, a bi-radial elliptical stylus (0.0002 x 0.0009 inch), and is subjected to exacting quality control and inspections that are unique in the industry.
+	
+	1966: The V15 Type II superceded the V15. This new V15 was designed using an analog computer and introduced the concept of Trackability - the ability to maintain contact between the stylus tip and the record groove at all frequencies using a minimum tracking force. A flip-action stylus guard was another new feature.
+	
+	1970: The V15 Type II Improved features a flatter frequency response and an upgrade diamond stylus.
+	
+	1973: The V15 Type III debuts with a uniformly flat, unaccented, uncolored frequency response. This was accomplished by reducing the stylus mass by 25% and by employing a new laminated pole piece design.
+	
+	1978: Shure introduces the V15 Type IV. It features a viscous-damped Dynamic Stabilizer that overcomes most record warps. The Stabilizer brush also cleans the record and reduces any static charge. A hyper-ellipitical, nude mounted stylus tip improved the tip-to-groove contact area.
+	
+	1982: The V15 Type V features a MASAR polished stylus tip to reduce friction. The ultra-thin beryllium stylus shank dramatically improves trackability. A Duo-Point alignment gauge is used during installation to minimize lateral tracking angle error.
+	
+	1983: The V15 Type V-MR features a Micro-Ridge stylus shaped that emulates the shape of a cutting stylus. This greatly improves trackability in the high frequency range.
+	
+	1997: The V15VxMR is introduced with improvements in the stylus design and pole piece design to provide a warmer and more musical sound quality.
+

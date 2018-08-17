@@ -1,0 +1,19 @@
+Title: Me75P Wiring
+Id: 4563
+Legacy Id: 5688
+
+Question:
+What is the function of each pin at the rear of the Me75P cartridge?
+
+Answer:
+
+	Looking at the rear of this P mount cartridge:
+	
+	Upper pin left = right channel positive.Upper pin right = left channel positive
+	
+	Lower pin left = right channel negative/ground.Lower pin right = left channel negative/ground.
+	
+	Use bright illumination to see the markings molded into the black plastic.
+	
+	Color code for phono cartridge wiring
+

@@ -1,0 +1,12 @@
+Title: Beta 98 H/C Gooseneck Length
+Id: 2631
+Legacy Id: 2733
+
+Question:
+What is the gooseneck length of the Beta 98 H/C?
+
+
+Answer:
+
+	The flexible gooseneck on the Beta 98H/C and WB98H/C is 7 cm (2 3/4 in.).
+

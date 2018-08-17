@@ -1,0 +1,20 @@
+Title: KSM32 and KSM44 output levels
+Id: 2570
+Legacy Id: 2669
+
+Question:
+What is the output level on the KSM32 and the KSM44?
+
+
+Answer:
+
+	KSM32:
+	- 36dBV per Pascal
+	
+	KSM44:
+	- 31dBV per Pascal - cardioid
+	- 37dBV per Pascal - omnidirectional
+	- 36dBV per Pascal - bidirectional
+	
+	One Pascal equals 94 dB SPL.
+

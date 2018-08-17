@@ -1,0 +1,16 @@
+Title: Crown microphone to a Shure bodypack?
+Id: 982
+Legacy Id: 1011
+
+Question:
+How do I connect a Crown CM-10E,GLM-100E,CM-311E, CM-311AE,CM-312E,or CM-312AE to a Shure bodypack?
+
+
+Answer:
+
+	Please see the links below:
+	
+	Crowns Technical Bulletin #3
+	
+	Pinout for Shure transmitters
+

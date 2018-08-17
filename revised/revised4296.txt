@@ -1,0 +1,14 @@
+Title: BLX - number of individual frequencies
+Id: 4296
+Legacy Id: 5365
+
+Question:
+For a BLX systems sold in the United States, how many individual frequenices are programmed into a receiver?
+
+
+Answer:
+
+	The quantity is 123. Note that certain frequencies may be re-used in different groups. For example, Group B Channel 1 might be the same exact frequency at Group D Channel 0.
+
+	Under ideal conditions, the maximum theoretical compatible systems available within one frequency group are 12.
+

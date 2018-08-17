@@ -1,0 +1,9 @@
+Title: How many SCM820-DAN can be connected together?
+Id: 5455
+Legacy Id: 
+
+Question:
+How many SCM820-DAN can be connected together? I'm designing a system with 64 microphones.
+
+Answer:
+SCM820-DAN mixers can be linked to form large automixes of up to 12 units (96 channels of audio). Mixers in the same link group operate under shared IntelliMix settings. A back-panel auto link button enables mixers to automatically link when they join the network. To link specific mixers, custom groups can be created and managed from the GUI.

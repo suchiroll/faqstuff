@@ -1,0 +1,16 @@
+Title: ULX-D Sync Problem
+Id: 4093
+Legacy Id: 4679
+
+Question:
+I am having a problem with the ULX-D sync feature. It is inconsistent. Do you have a solution?
+
+
+Answer:
+
+	Solution: Set the ULX-D receiver display brightness to High (UtilitiesDisplayBrightnessHigh) via the front panel menu. This should resolve the sync communication problem.
+
+	
+
+	The root cause is a red LED indicator on the front panel of ULX-D receiver. Depending upon menu settings, external conditions, and other variables, this red LED can interfere with the infra-red sync signal. As of April 2012, Shure Engineering is developing multiple resolutions (firmware, and/or hardware, and/or onboard software) for thissync issue. These resolutions will be promptly implemented into new ULX-D production
+

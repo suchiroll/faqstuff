@@ -1,0 +1,15 @@
+Title: Microphone for round table discussions for broadcasting
+Id: 2151
+Legacy Id: 2222
+
+Question:
+We would like to buy a mic for our radio station for round table discussions. In a booth with a 1 meter radius table, we would like to hang a mic from the ceiling that would pick up the voice of the guests. Which mic do you recommend for this purpose. Thanks in advance.
+
+
+
+Answer:
+
+	Consider the MX202 series. Note that this mic does require phantom power for operation.
+	
+	Please note that a mic that is 1 meter away from a talker sounds much different than a mic that is 1 cm away from a talker. And 1 cm is the typical distance used by radio announcers.
+

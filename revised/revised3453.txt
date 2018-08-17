@@ -1,0 +1,22 @@
+Title: V15 Type IV Styli Appearances
+Id: 3453
+Legacy Id: 3647
+
+Question:
+How can I tell the difference between the VN45E, VN45HE and VN45MR stylus by appearance?
+
+
+Answer:
+
+	I only have photos for reference:
+	
+	VN45MR- The word SHURE is black.
+	
+	VN45HE - The word SHURE is white (or perhaps silver)
+	
+	VN478E - The word SHURE is white, on a green background.
+	
+	VN4G - The word SHURE is red.
+	
+	I find no reference to a model VN45E.
+

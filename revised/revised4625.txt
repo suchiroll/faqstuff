@@ -1,0 +1,13 @@
+Title: DDS-5900 Mic Control
+Id: 4625
+Legacy Id: 5784
+
+Question:
+A question about the available push-button controls for the DDS-5900 microphones. We plan to order a bunch of the FP 5921 OL2 button overlays (with just the talk button, no mute). Can these be programmed/set up in the system to be a latching push to talk control such that they push once to activate the mic and push again to deactivate the mic?
+
+Answer:
+
+	Yes. The push to activate mic and push to deactivate mic is the normal behavior if the system is in the Automatic Conference Operating Mode.In this mode, a delegate can activate their mic by pushing the speak button unless the maximum number of speakers or delegates that has been set is reached (8 open mics is the system limit).
+	
+	Keep in mind that operating in this mode does not allow for a Request Queue, though mics can also still be activated from the web browser speak list if desired.
+

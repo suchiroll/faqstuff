@@ -1,0 +1,14 @@
+Title: Are my earbuds compatible with your PSM system?
+Id: 216
+Legacy Id: 217
+
+Question:
+The group that I do sound for has had a Garwood in ear monitor system. We need to replace for unseen circumstances. I was wondering if the molded monitors would be compatible with either the Shure PSM700 or the PSM600, and which system is the better of the two. We have IEMII molded ear plugs with a 1/8" connector. Thank you for your time.
+
+
+Answer:
+
+	All Shure in-the-ear monitors use 1/8 stereo headphone connections, so your custom ear pieces will work fine with any of our PSM systems.
+	
+	Basically, the PSM700 offers full frequency agility, where as the PSM600 only offers a couple frequencies per system. Also, the PSM700 offers more simultaneous systems.
+

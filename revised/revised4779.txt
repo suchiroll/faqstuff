@@ -1,0 +1,20 @@
+Title: Model E98M Phono Cartridge
+Id: 4779
+Legacy Id: 5963
+
+Question:
+What is the replacement stylus for the model E98M?
+
+
+
+Answer:
+
+	1) E98M is not a standard Shure model number.
+	
+	2) E98M was an OEM model number. Read: Shure OEM Products: 1940s to 1990s
+	
+	3) The replacement stylus/needle for E98M was NDC-HE.Shure has not made or sold the NDC-HE for over 20 years.
+	
+	4) Please see the following link for sources where you can purchase discontinued Shure styli.You may find the NDC-HE at one of these sources:
+	Sources for Discontinued Styli and Phono Cartridges
+

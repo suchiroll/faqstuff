@@ -1,0 +1,23 @@
+Title: Problem with Model SM10A and extension cable
+Id: 1879
+Legacy Id: 1939
+
+Question:
+I recently purchased a SM10A corded head-worn microphone. I plugged it into our PA system directly, and it worked fine. The short cable on the head set was way to short to run into the PA, so I added a standard XLR microphone cable as an extension for the head set. When doing this the signal is extremely weak. So I tried another cable that we know functions correctly and had the same results. Do I need to modify the connections on the XLR female connections on the head set? Any help that you can offer would be a blessing.. Also, the system that we have is all Mackie...A Mackie 16 channel board and a Mackie 1400i power amp, so we have more than enough watts.
+
+Answer:
+
+	You should be able to run 1,000 feet of cable with little loss in signal. We have never heard of this problem.
+	
+	We suggest a test with an ohmmeter. Without an extension cable, measure the dc resistance of the SM10A across XLR pins 2 and 3. It should be under 100 ohms.
+	
+	Next measure across pin 2 and 1. It should be an open circuit (infinite ohms). Do the same across pins 3 and 1. The results should be the same.
+	
+	Now add an XLR to XLR extension cable and do the same measurements. The results should be nearly identical. If not, there is a problem with the extension cable.
+	
+	If the results are the same, the SM10 should work fine with the extension cable.
+	
+	Last resort: Send the SM10A and an extension cable to Shure Service for investigation. Contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

@@ -1,0 +1,12 @@
+Title: Which wireless for traveling around the U.S.?
+Id: 844
+Legacy Id: 869
+
+Question:
+I travel all over the United States singing and I'm looking for a wireless microphone that I won't have problems with.  I have been looking at the UC Series.  Can you give me a recommendation.
+Thanks
+
+Answer:
+
+	All current Shure wireless systems are frequency agile. Thus, any of them can be used to travel around the U.S. The more expensive the system, the more frequencies it can tune to, thus providing a better chance of getting away from any possible interferring sources. Most of our systems include a scan function to find a clear frequency in the city that you are in. However, before you buy any wireless system, please take the time to read the following link. You will then better understand the quirks of every professional wireless mic system. Introduction to Wireless Microphone Systems
+

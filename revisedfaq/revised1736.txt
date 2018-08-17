@@ -1,0 +1,70 @@
+Title: Miking for barbershop quartets
+Id: 1736
+Legacy Id: 1795
+
+Question:
+I know this is a long question but I'm looking for manufacturers recommendations for mike selection ( usage if you have time) for both live performances and recordings for barbershop quartets (a cappella male voices). Live performance micing is always difficult as we need to capture the full natural voice with all the overtones. The locations can be small rooms, large auditoriums, convention centers, or outdoor venues (these can be noisy, windy, whatever). Most quartets need monitors and in-ear monitors are not possible. Feedback becomes a major issue as to the high mike levels (we sing 3 feet away from the mics.) Excerpts from the current guidelines that we are currently using are outlined below (the full guidelines are downloadable from the societies webpage: www.spebsqsa.com) I'm just trying to keep the recommended list up to date. I thank you for any assistance you can give. We have never published a list of recommended mics or techniques for recording (although there is an article in this months on-line harmonizer.) I'm really looking for verification of the mike info we are currently using.
+
+SPEBSQSA
+Microphone and Sound System Guidelines
+Written by Glen Glancy and Bill Lightner
+Edited by Doug Maddox
+October 22,1999
+
+This document establishes a common source of microphone and sound system guidelines for the members of the Society.
+
+We reccomend small diaphragm cardioid condenser microphones, which are suitable for use with both quartets and choruses. We do not recommend large diaphragm condenser microphones – the choice for vocal recording – for SPEBSQSA events. When floor monitor speakers are used at the singing position, the typical loss of pattern control at low frequencies in these microphones results in feedback.
+
+In simple terminology, the monitors cannot be loud enough to be of benefit to the performers before the sound from the monitors is picked up by the microphones and re-amplified, causing what is known as feedback. Small diaphragm microphones provide better low frequency pattern control and therefore can be used successfully with floor monitor speakers.
+
+Quartet Microphone Setup
+A pair of the same microphones should be mounted to a single mic stand using a device called a 3stereo bar.2 A stereo bar is a simple flat bar that attaches at the center of a standard mic stand and has a slug at each end for attaching a standard mic clip to the bar. Microphones attached in such a manner can then be aimed by adjusting the clips to point the capsules in relationship to the performers.
+
+Choosing a Mic Stand
+If the stage is a permanent one, we recommend an Atlas Soundolier MS25 stand with a boom attachment. This is a heavy-duty stand with a tripod-shaped heavyweight cast iron base. It is capable of supporting the microphones on a boom without additional weights to hold the stand in place. The boom attachment places the vertical portion of the stand out of the way of hand gestures by the performers. Straw hats, canes, and other props have a knack for finding their way against a mic stand.
+
+If the stage is a temporary one, we recommend an Atlas Soundolier BS36 stand placed on the solid floor in front of the stage, weighted if necessary, and extended to place the microphones on a boom at stage height. You have seen this method used for the past several years at Internationals. It keeps the stage noises caused by performer movement from being picked up mechanically through the stand.
+
+Aligning the Microphones
+The microphones should be at mid-chest height for a 3standard2 six-foot barbershop singer or higher. The microphones should be adjusted so the capsules are at the same point in space, perfectly aligned vertically with one atop the other, and as close as possible without the microphone bodies touching each other (Figure A). Since you can actually see the capsules on most of the microphones we recommend, this should be easily accomplished before placing the windscreens on the mics. When viewed from the top, looking down at the mics (Figure B), the capsules should create a pickup radius of about 180 degrees horizontally. So, if you begin with the capsules 90 degrees to each other and increase that angle by moving the capsules another 15 degrees each, you should be close to correct. The capsules should appear to crossfire and aim at quartet singing positions one and four. Only mic tests, which are described later, will confirm the accuracy of the alignment.
+
+Marking the Toe-Line Radius
+The next essential step – critical in competition but proper for shows as well – is to mark a standard radius on the floor that the performers are not allowed to cross. This 3toe-line2 radius should be approximately 36 inches from the center point of the microphone setup. Mark the floor with white tape or some other highly visible method that the performers will be able to see even with stage lights in their eyes.
+
+Placing the Floor Monitor Speakers
+Floor monitor speakers should be placed behind the microphones, between the lip of the stage and the rear of the microphone arrangement. Place the speakers as close to the vertical mic stand as possible, angled out to face the performers. One speaker should serve performers one and two, and the other should serve performers three and four. The speakers should project sound toward the least sensitive area of the microphone pattern. With cardioid microphones, the least sensitive area is the backside of the capsule; therefore, you would aim the speakers at the tail of those microphones. Slight adjustments may be necessary to find the best sound gain before feedback, but generally this location will serve the needs of the performers. Adjustment of monitor EQ will be necessary to maximize available gain before feedback.
+
+Testing the Microphones
+The off-axis pattern variations of the microphones are sufficiently different to require the following steps, although the setup may appear to match the preceding instructions.
+
+Perform the following steps to test the microphones:
+1. A single person, a talker, should alternately stand at quartet singing positions one and four, speaking directly on axis to each of the microphones, while the sound system operator adjusts the signal levels to match when heard in the house speakers. An appointed listener should be in the house to confirm this matching process.
+2. The talker should stand exactly between the microphones and, while speaking, move his head within a one-foot side-to-side distance to assure that no coloration of the sound occurs between the pickup of the two microphones. This sound variation is caused by 3phasing,2 which is a time domain problem between the two capsules. To fix a phasing problem, move one microphone along its own axis, in towards the other microphone or out away from the other microphone, until no 3seam2 in the coverage area can be discerned. It is important to retain the angle of the capsules to each other and move only the relationship of the capsules in the horizontal plane. The mechanical center between two microphones and the acoustical center between them may not be the same due to the physical makeup and construction of the particular microphone model. This is a result of construction techniques employed to tune the pickup pattern to the manufacturer1s design criteria.
+3. Confirm that this pair of microphones picks up all four voices with equal level. The talker should speak into the mics while moving around the toe line through the four singing positions. The listener should perceive no apparent level difference for those four positions.
+
+To verify the mic levels
+· If the two outside singers appear to be louder than the two center singers, reduce the angle of the mics from the 110-120 degree setup to a setup closer to 90 degrees.
+· If the center singers are too loud, increase the angle of the mics beyond the 120- degree point. This is a subtle adjustment. A couple of degrees will make a difference. Be sure to re-check the center pickup point if you have to make this change.
+
+Proper setup and testing will result in a microphone arrangement that will provide an accurate and sonically awesome representation of the quartet's barbershop sound that will both interface with a mono sound reinforcement system and also provide an excellent stereo pickup for recording.
+
+
+Answer:
+
+	A superb document! Well written and scientifically correct.
+	
+	We suggest the following Shure mics, and offer a few other items.
+	
+	Mic selections from Shure:
+	KSM141
+	KSM137
+	SM137
+	SM81
+	SM94
+	PGA81
+	
+	Effective outdoor windscreen for SM81, SM94, PG81:
+	A81WS
+	
+	Alternative to a stereo bar: Shure A27M
+

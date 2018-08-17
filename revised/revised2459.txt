@@ -1,0 +1,12 @@
+Title: Device to hang a mic from its own cable
+Id: 2459
+Legacy Id: 2554
+
+Question:
+Is there a device made that allows a mic to hang from its own cable?
+
+
+Answer:
+
+	The device is callen an auditorium hanger and is made by Neumann. The model number is MNV87.
+

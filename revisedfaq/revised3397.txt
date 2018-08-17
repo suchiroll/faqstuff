@@ -1,0 +1,11 @@
+Title: Cable for SM98 and WM98
+Id: 3397
+Legacy Id: 3587
+
+Question:
+What is the part number for the 3' 8" (1.1 meter) audio cable that connects the SM98 or WM98 to a Shure wireless transmitter? This cable has a 3 pin TA4F connector on the mic end and a TA4F connector on the transmitter end.
+
+
+Answer:
+
+	The Shure part number for this cable is 90A4039.

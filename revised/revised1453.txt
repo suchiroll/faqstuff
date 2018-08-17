@@ -1,0 +1,42 @@
+Title: Overload protection on U4S/D and UA840 antenna supply
+Id: 1453
+Legacy Id: 1506
+
+Question:
+It seems distressingly easy to burn out the DC supply used to power the UA830 remote antennae, by connecting a shorted BNC cable or aerial. Is there a reason why there seems to be no current limiting or other protection on this supply? For a private user this may not be such a problem, but for a hire company such as ourselves, where the units are frequently used out of our immediate control and with a wide range of other equipment, it's a constant worry. It would certainly reduce our repair bill.
+
+
+---- 07/30/2001 09:01 AM ----------------------------------------------
+Hi..
+
+I'm referring to the DC supply present on the BNC inputs of the U4S and U4D receivers and the UA840 antenna distribution amplifier.
+
+
+---- 07/30/2001 01:27 PM ----------------------------------------------
+Hi..
+
+Your third item (the 'polyfuse') is interesting. Will this polyfuse tolerate shorts of indefinite duration? If it does it may be the answer to my problem.
+
+
+Answer:
+
+	What DC supply are you referring to? Shure does not sell a separate DC supply. Please be specific and we will answer your question promptly.
+	
+	At 07/30/2001 09:17 AM we wrote - We will address the U4S and U4D receivers. The same circuit design is used in the UA840 distribution amplifier and you may use the same ideas in it.
+	
+	1. Do you need the 12V bias? If not, remove R334 and R390 which is disconnect the 12V bias from the BNC connectors.
+	
+	2. If you need the 12V bias and find that a shorted condition is burning up inductors L311 and L327, permanently remove the inductors and replace each with a shorting wire. In reviewing the circuit, these inductors seem to provide no function except as a fuse if too much current is drawn.
+	
+	3. The 12V bias circuit is also internally protect by a polyfuse that increases its resistance exponentially when too much current is being drawn from the BNC connector. Once the short is removed, the polyfuse cools down and within minutes returns to normal.
+	
+	4. Consider adding a BNC to BNC adapter that blocks DC when the unit is being sent out with an amateur.
+	Such a device is:
+	Pomona Model 5297
+	BNC male - BNC female - blocks DC on the inner conductor; 1000pF cap in series
+	www.pomonaelectronicscom
+	
+	We hope these ideas prove useful.
+	
+	At 07/30/2001 01:43 PM we wrote - Yes. The polyfuse will tolerate shorts of indefinite duration. It is like a thermistor; as the current draw increases, its resistance increases exponentially. Another name for this type of device is a PTC thermistor: Positive Temperature Coefficient.
+

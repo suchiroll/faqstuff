@@ -1,0 +1,30 @@
+Title: How far away will my microphone pick up?
+Id: 76
+Legacy Id: 76
+
+Question:
+Which microphone has the best reach or range?
+
+
+Answer:
+
+	The Myth of Microphone Reach
+
+	Shure is often asked How far away will my microphone pick up? or Which microphone has the best reach? Both questions are based on a misunderstanding of how microphones work. This bulletin attempts to debunk the myth of microphone reach.
+
+	Myth: A microphone reaches out to capture sound.
+
+	Fact: A thermometer can only measure the temperature at its location; likewise a microphone can only respond to sound waves that travel to its location. It cannot reach out and capture the sound wave from a distance. A microphone measures local rapid variations in air pressure and provides an electrical output that mirrors these variations. These rapid air pressure variations are sensed as sound if they are within the hearing frequency range of 20 - 20,000 Hertz. The microphone is stimulated only by the sound waves that travel to it. Also,a microphone does not stop working at a certain distance away from a sound source. If a sound wave has enough energy to reach the microphone, then the microphone will provide an output signal that is proportional in strength to the sound wave.
+
+	Myth: A directional microphone enhances sound waves which approach from the front.
+
+	Fact: A directional microphone merely rejects sounds from directions other than the front. An omnidirectional microphone hears equally well in all directions. It does not reject any sound as it is insensitive to the direction of the passing sound wave. A unidirectional microphone hears well in certain directions and not so well in other directions. As an example, a cardioid microphone does not reject sound waves which approach from the front; is slightly deaf to sounds approaching from the left or right; and is very deaf to sounds approaching from the rear. So a cardioid microphone appears to enhance sound waves from the front, by being far less sensitive to sound waves from the left, right, and rear.
+
+	Myth: A microphone has a reach specification that can be measured in feet or meters.
+
+	Fact: A microphones effectiveness at different distances is primarily dependent on the background noise level. Lets use an example. For a nature film, you want to record the call of a wolf in the wilderness of Canada. The recording conditions are superb. There is no wind; the closest town is 100 miles away; your equipment is a state-of-the-art digital recorder with a quiet mic preamplifier. Your microphone is an omnidirectional dynamic. You spot a wolf about 1/2 mile away and start the recorder. The wolf howls for two minutes and you obtain a fantastic recording. [If you believe in microphone reach, your microphone has a reach of at least 1/2 mile.] The next week you are back in New York City. A wolf escapes from the Bronx Zoo, takes the subway to Manhattan, and is now howling on 6th Avenue at 59th Street, which happens to be 1/2 mile from your studio. You immediately activate your digital recorder and hang the same omnidirectional microphone outside your window to record the wolf, but much to your surprise all you hear is traffic and wind noise when you play back the recording. The wolf cannot be heard even though you saw it howling through your binoculars. Did the reach of the microphone somehow change? No, only the ambient noise conditions changed.
+
+	Myth: A shotgun microphone is like a zoom lens on a camera.
+
+	Fact: Using a shotgun mic is like taking a photo with the lens aimed down a cardboard tube. The image being photographed is not brought any closer, but the unwanted images to the sides are reduced or eliminated. A shotgun mic seems to bring the desired sound source closer because the unwanted sounds from the side and rear are attenuated. It is tempting,but misleading,to compare light with sound. Light waves and sound waves do have similarities, but many more differences. The most important difference is in wavelength. The wavelength of light is measured in millionths of an inch. The wavelength of sound is measured in inches and feet. For a zoom lens to be effective, its diameter must be hundreds of thousands times larger than the wavelength. A typical camera zoom lens is approximately 3 inches in diameter. But a zoom lens for sound waves (using the same ratio) would have to be tens, even hundreds, of miles in diameter. There is an acoustical device, called a parabolic reflector, that can be combined with a microphone for distant pickup. However, it will be limited by unwanted ambient noise. To be effective at lower frequencies, the parabolic reflector must be six to eight feet in diameter. It is the extremely long wavelengths that make sound so difficult to control, manipulate, and focus.
+

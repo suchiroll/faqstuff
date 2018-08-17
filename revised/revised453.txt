@@ -1,0 +1,13 @@
+Title: Can I use a WL93-6T or a WL185 for a flamenco guitar
+Id: 453
+Legacy Id: 462
+
+Question:
+We are users of Shure wireless systems and some WL93-6T and WL185 microphones. We would like to know whether it is possible to use the above mentioned mics to connect flamenco guitars to the wireless system. Which kind/type of microphone would be the best choice for a wireless transmission of the sound of these particular guitars?
+
+
+Answer:
+
+	The WL50 would be our choice, not the WL93.  Experiment to find the best position on the guitar. There is no one best position; it depends upon the unique projection of each guitar.
+	
+	However, flamenco guitar is typically played over a great dynamic range. Even the best wireless system may not be able to reproduce the dynamic range of the guitar. Audition it before you play an event, and understand that a wireless system will not have the dynamic range of a wired microphone set up.

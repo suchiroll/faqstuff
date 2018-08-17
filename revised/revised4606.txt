@@ -1,0 +1,13 @@
+Title: CBL-M+-K uneven cable length
+Id: 4606
+Legacy Id: 5762
+
+Question:
+I have the CBL accessory cable that I am using with my iphone. I noticed that the cable lengths from the split are not equal. The side with the control on it is about a half inch longer than the other side. It seems to make them hang unequally, is this by design?
+
+
+
+Answer:
+
+	Sometimes the tolerances of the different cable sections add up in the wrong way and there is a slight difference in length.This is not necessarily on purpose, but the design does allow for a certain amount of difference in length.If this length difference is an issue, please contact Shure Service/Repair to have the CBL accessory replaced.
+

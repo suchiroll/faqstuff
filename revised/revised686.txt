@@ -1,0 +1,19 @@
+Title: Recording vinyl records onto computer
+Id: 686
+Legacy Id: 703
+
+Question:
+Greetings - I want to burn some CD's on my computer from some of my vinyl 33rpm jazz records (which have been carefully stored for 30 years). I'm thinking of upgrading the cartridge in my JVC turntable to a Shure model 94 (the existing cartridge is a Euphonics FM type). My computer appears to have an analog to digital card with a Line In jack as well as the necessary software using the MP3 format. My question is this: What signal level and impedance is required at the input to the computer? I'm guessing there must be some sort of standard governing this. Where in my stereo system should I connect the feed to the computer? I suspect the output level directly from the cartridge is too low.
+
+
+Answer:
+
+	Do not plug the output of a phonograph cartridge directly into the sound card. A phonograph cartridge must be plugged into a properly designed phono input that has the correct RIAA equalization.
+	
+	Unfortunately, the signal level and impedance for the input of the computer sound card is not standard. However, most (but not all) Line In jacks are similar. The tape out jacks on your stereo system should be able to feed the Line In of the sound card. You can get an adapter cable (#42-2483) from Radio Shack that goes from 2 RCA connectors to an 1/8 stereo plug.
+	
+	Other devices to consider:
+	TerraTec Phono PreAmp Studio: http://www.terratec.net
+	
+	Rolls GCi404 Audio Computer Interface: http://www.rolls.com
+

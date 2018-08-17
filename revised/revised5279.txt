@@ -1,0 +1,76 @@
+Title: Shure X2u Specifications
+Id: 5279
+Legacy Id: 5384
+
+Question:
+I am considering using multiple of your X2u for an ocean going Linux based robotic system. Can you say what the likely actual power consumption is? Can you say what the full set of sampling frequencies is?
+
+
+Answer:
+
+	X2u SPECIFICATIONS
+	Note: specifications are subject to change.
+
+	
+
+	Frequency Response
+	20 to 20,000 Hz 1 dB
+
+	
+
+	Input Impedance
+	(@ 1 kHz)
+	1.6 k
+
+	
+
+	Maximum Input Level
+	0 dBV
+
+	
+
+	Power Requirements
+	USB-powered, 500 mA, maximum
+
+	
+
+	Phantom Power Supply
+	48 V, 10 mA
+
+	
+
+	Digital Noise Floor
+	(20 Hz to 20 kHz, A-weighted)
+	Minimum MIC GAIN setting: 81 dB FS
+	Maximum MIC GAIN setting: 78 dB FS
+
+	
+
+	Sampling Rate
+	up to 48 kHz
+
+	
+
+	Bit Depth
+	16 bit
+
+	
+
+	Peak Signal Indicator
+	(Tri-color)
+	OFF: 30 dB FS
+	Green: 30 to 12 dB FS
+	Yellow: 12 to 0 dB FS
+	Red: 0 (digital converter clipped)
+
+	
+
+	Adjustable Gain Range
+	50 dB
+
+	
+
+	Headphone Output
+	3.5 mm (1/8 inch)
+	60 mW @ 32 
+

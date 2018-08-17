@@ -1,0 +1,15 @@
+Title: Will any UC transmitter work with any UC receiver?
+Id: 2762
+Legacy Id: 2870
+
+Question:
+Will any UC transmitter work with any UC receiver?
+
+
+Answer:
+
+	Absolutely not. The UC wireless systems was available in several different frequency bands depending on the country in which it is sold.
+	
+	As an example, in the United States, the UC was available in the UB band (692 to 716 MHz) and in the UA band (782 to 806 MHz). A transmitter in the UA band will not work with a receiver in the UB band, and vice versa.
+	
+	This frequency band concept also applies to the Shure ULX series and the Shure UHF series of wireless microphones.

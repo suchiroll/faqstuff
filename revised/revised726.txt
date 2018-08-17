@@ -1,0 +1,24 @@
+Title: Recording using a Marantz cassette recorder
+Id: 726
+Legacy Id: 745
+
+Question:
+I would like to obtain a microphone for recording an acoustic guitar with a Marantz PMD 221 mono cassette recorder. Looking though your FAQ I found an entry for an inquiry on using this recorder for other purposes (recording conferences - the SM63 or VP64 were recommended) and it was suggested that your A96F Line Matching Transformer should be used (this recorder uses a mini-plug and the mic input is rated 0.3 mV/9 k ohms). I presently use a condenser mic with an internal battery that is rated 1 k ohms at 1,000 hz and it seems to work acceptably for general use.
+
+
+I am considering yourPG81 and my question is whether this mic will work with the internal battery and a patch cord (XLR female to 3.5mm mini-plug) alone or whether I need to purchase the A96F? Also, could I use the SM57 without a transformer? Finally, I can find the mics at various places but where can I order the transformer if it is needed and if it is not does Shure make an XLR to mini-plug patch cord?
+
+
+Thank you for any assistance you can provide. I also want to say that I have spent a couple of hours going through the information provided on your web site and it is simply unmatched in detail and quality and is much appreciated.
+
+
+Answer:
+
+	ThePG81 will probably work fine with just an adapter cable.
+	
+	The SM57 has an output level of 0.19 mV with an input of 74 dB SPL. The SM57 may or may not work ok with the just an adapter cable. It depends on how well the input circuitry of the recorder is. If the input circuitry has enough range and is quiet enough, it could work just fine.
+	
+	The RP325 is a female XLR to 3.5 mm adapter cable. It is 10 feet long. One of the possible problems with using this cable instead of a transformer is that the cable connection between the microphone and the recorder will be unbalanced. This means that the cable connection will be more susceptible to electro-magnetic interference.
+	
+	The A96F and RP325 can be ordered from Shure Parts: 800-516-2525.
+

@@ -1,0 +1,15 @@
+Title: X2u and DAW Software Compatibility
+Id: 3739
+Legacy Id: 3975
+
+Question:
+Can the X2u be used with every DAW (Digital Audio Workstation) software package?
+
+
+Answer:
+
+	The Shure X2u can be used with most, but not all, popular DAW recording software. The X2u USB interface uses the software audio driver that is supplied with the operating system of your computer. In a Windows PC, it is known as DirectSound (or DirectX); in an Apple computer, it is known as Core Audio. The X2u does not come with its own software driver.
+	
+	Some DAW recording software will only work with hardware interfaces supplied with ASIO (Audio Stream Input Output) drivers. The X2u does not have ASIO drivers; therefore the X2u may not be appropriate for ASIO software. For the exact requirements of your recording software, contact the software publisher for the proper drivers, settings, etc.
+	
+	Note: The X2u cannot be used with Avid Pro Tools software up to and including version 8.

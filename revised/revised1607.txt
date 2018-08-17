@@ -1,0 +1,17 @@
+Title: Conference/lecture recording
+Id: 1607
+Legacy Id: 1663
+
+Question:
+Do you have a microphone that you would suggest that will provide good quality recordings in a conference room/lecture hall. (very large room)?
+
+
+I use an Olympus DS-2000 digital voice recorder.
+
+
+Answer:
+
+	Shure does not have information about this recorder. Please see: Will microphone model X work with my device that needs a mic?
+	
+	It is important to understand what a microphone can and cannot do when the microphone is at a great distance from the sound source. Please read the following: What is the distance factor of a microphone?
+

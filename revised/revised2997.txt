@@ -1,0 +1,17 @@
+Title: Reducing the gain of ULX handheld transmitter
+Id: 2997
+Legacy Id: 3125
+
+Question:
+Is there any way to further reduce the audio gain of the ULX handheld transmitter? The level peaks even though the manual gain control has been reduced to minimum.
+
+
+Answer:
+
+	Try reducing the receiver gain to the 1/2 way position (-6dB from maximum gain) and listen for distortion. If the vocalist is right on top of the microphone, the low frequency information (from the mic's proximity effect) may be pushing the de-emphasis network in the receiver a little too hard, so reducing the receiver level may help.
+	
+	Focus on what you're actually hearing and not what the meter is reading. Designing an audio meter for a companded wireless is tough and it does not always provide the most accurate information. There should be some headroom left in the system even when the red LED is lit.
+	
+	There is no modification to create more front-end attenuation. The wireless microphone head and front-end of the ULX are designed to handle over 140 dBSPL before clipping, so there should be plenty of headroom. If you are hearing clipping, and the transmitter is at minimum gain, there may be something wrong with your ULX system - perhaps the transmitter (or receiver) audio section has not been aligned properly.
+	
+	Often when clipping is heard, it is when listening through headphones, and the actual cause can be over-driving the headphone amplifier. This is also something to check.

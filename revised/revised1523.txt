@@ -1,0 +1,11 @@
+Title: How do I connect my ST6000 mixer to my tape deck?
+Id: 1523
+Legacy Id: 1577
+
+Question:
+I have a Shure ST6000 mixer, a Sony dual cassette deck, a Radio Shack unidirectional dynamic mic, and a Kenwood stereo receiver.  How do I connect all these?  I am a novice obviously, and am in desperate need to record my vocals (voiceover material-no singing) on a cassette.  I have also purchased 2 different adaptors, hoping to help.  Please let me know if you can offer any advice.
+
+Answer:
+
+	Stop! The ST6000 mixer was designed for only teleconferencing use and requires special speech microphones. It is of no use for your musical purposes. Sorry, someone sold you the wrong type of mixer.
+

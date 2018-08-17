@@ -1,0 +1,13 @@
+Title: VP89 capsule / interference tube with SM89 electronics
+Id: 3938
+Legacy Id: 4187
+
+Question:
+Will the VP89 capsule/interference tube work with the SM89 handle/electronics?
+
+
+
+Answer:
+
+	Yes.
+

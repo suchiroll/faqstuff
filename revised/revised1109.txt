@@ -1,0 +1,14 @@
+Title: Picking up voices in a choir
+Id: 1109
+Legacy Id: 1145
+
+Question:
+We're looking for a omnidirection microphone- actually 2 - which can pick up a 20 voice choir either hung from above or on mike stands. This application is for a church. Can you give us a recommendation?
+
+
+Answer:
+
+	If these microphones are going to be used for sound reinforcement, you should not use omnidirectional microphones. Unidirectional, specifically cardioid, pickup patterns will accommodate choirs if they are postioned correctly.
+	
+	Please refer to this site for ideas on microphone positioning and model numbers: How do I mic a choir?
+

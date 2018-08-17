@@ -1,0 +1,22 @@
+Title: Omnidirectional Mic Element for Shure Handheld Transmitter
+Id: 3914
+Legacy Id: 4160
+
+Question:
+I require an omnidirectional mic element for a Shure handheld transmitter. The mic is used for audience questions and few people know how to speak into a directional mic.
+
+
+Answer:
+
+	NOTE: Not all Shure handheld transmitters have interchangeable mic elements.
+	
+	The Shure VP68 wireless mic capsule, introduced in June 2011, is sold as the model RPW124.The VP68 audio pick-up pattern is omnidirectional (all directions), so the mic can be held upside down, or sideways, and the talker will still be heard.This is a useful attribute when the mic is spoken into by a person that typically does not use a mic, e.g., an audience member asking a question, a family member giving a wedding toast, or a citizen addressing the city council.
+	
+	Other useful attributes of the VP68 omnidirectional mic capsule are:
+	1) Minimal wind noise when used outdoors.
+	2) Minimal handling noise as the user touches, bumps,or moves the mic.
+	3) Minimal P popping when the user speaks words beginning with P, B, or T.
+	4) No proximity effect [excessive bass] when the mic is positioned close to the mouth.
+	
+	These forgiving attributes are beneficial for the novice mic user, plus these attributes improve the intelligibility of the spoken word.
+

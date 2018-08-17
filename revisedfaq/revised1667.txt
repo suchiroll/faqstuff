@@ -1,0 +1,13 @@
+Title: G12CN gooseneck specifications
+Id: 1667
+Legacy Id: 1724
+
+Question:
+Please advise the diameter of G12CN gooseneck. Please advise the maximum weight of microphone which the gooseneck can support. Can it support the SM57 microphone?
+
+
+Answer:
+
+	The diameter is approximately 1/2". The maximum weight depends upon the angle of the gooseneck. Due to leverage, the gooseneck will support less weight as its position becomes more horizontal.
+	
+	In general, the SM57 can be supported by a 1/2" gooseneck with a 12" length.

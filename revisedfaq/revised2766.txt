@@ -1,0 +1,44 @@
+Title: Learning recording mic techniques
+Id: 2766
+Legacy Id: 2874
+
+Question:
+I'm starting the recording process and would love to speak with someone very experienced in achieving the sound I'm looking for. I have purchased two KSM27 microphones after reading Mark Parsons review in modern drummer a few years back and they are outstanding (as he said).
+
+
+I'm looking to achieve an open, raw, drum sound similar to old style recording methods (like old R  B recordings and Led Zepplin-type) where room mic's are utilized over close-mic's. Any suggestions?
+
+
+I am aware that the type of room makes a huge difference in that sound, so I can state that we are using a large (400 seat) church sanctuary, with hard-wood flooring, high ceilings, curved concrete walls at the back of the room, and huge curtain baffles (on the walls) for absorption . There is also a carpeted stage elevated about 3 feet off the flooring.
+
+
+The style of music we're playing is fairly loud classic-rock type, ala Cream, Zepplin, with varying levels of intensity (i.e.: both acoustic and electric guitars). We are a 3-piece band and wish to achieve a "live" band sound on our recording, utilizing the correct mic's and techniques.
+
+
+(1) I guess the real question is placement; how can I achieve this classic sound using these and other Shure mic's?
+
+A) for the drumset
+
+B) for the guitar's (lead electric/acoustic and bass)
+
+C) for vocals
+
+
+We'll have time to experiment but if you have anyone experienced in this kind of recording using Shure products, I'd be grateful for your time.
+
+
+Answer:
+
+	Great question, but impossible to answer. Mic placement is an art, not a science.
+	
+	There are fundamentals that first must be learned. Please see: Educational Articles - Online booklets and bulletins
+
+	
+	We also suggest you subscribe to Mix Magazine as it regularly has articles on miking techniques of different engineers. You will see that each has different ideas and secrets, that is the art portion.
+	
+	The most important suggestion: Experiment and document. Every professional recording engineer keeps a notebook detailing mic selection, mic placement, mixer EQ settings, and the sound quality of each. Start with the ideas in the Studio Recording book linked above; make detailed notes so you can later recreate a sound you liked; and then experiment.
+	
+	Here is one example used for Led Zepplin: close mike the guitar amp with a Shure SM57 and also mike the amp from 15 feet away another Shure 57. Each mic goes to a different mixer input. Adding in some of the remote mic adds a fullness to the sound.
+	
+	Good luck and have fun learning the art of miking technique.
+

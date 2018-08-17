@@ -1,0 +1,19 @@
+Title: Shure Crystal Microphone - Model 9822B
+Id: 2423
+Legacy Id: 2517
+
+Question:
+I searched through your discontinued products catalogs for the Shure Crystal Microphone that I bought today at the Toledo HamFest, alas, I did not find any spec sheets for the Chicago Model 9822B. Any information that you could send me on this product would be greatly appreciated. :) I opened it up and there were two sets of numbers on the element: 1 41 and 99-131. I take it this means it was manufactured in January of 1941 and the other was the batch of crystals? Anyway, the mic was in great shape relatively.. the plug was missing but I soldered on a connector, tried it out and it sounded great! Although the paint was brown, is this model still considered to be a green bullet? (I'm just learning about microphones, please excuse my ignorance.) If you have any spec sheets, user guides or other documentation, I'd be interested in receiving them. Thanks for your help!
+
+
+
+Answer:
+
+	It is likely that your mic was made by Shure for Chicago Music. If this is true, your model is considered an OEM product: Original Equipment Manufactured.
+
+	The model number 9822B has never been used for a product sold under ONLY the Shure name. Our archival records only list Shure branded products, so we have retained no information of a Chicago Model 9822B.
+	
+	If you send us a photo, we may be able to find a Shure branded model that is similar.
+	
+	What are the different versions of the Green Bullet?
+

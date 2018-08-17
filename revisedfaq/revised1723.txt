@@ -1,0 +1,25 @@
+Title: Hum with T4N receiver
+Id: 1723
+Legacy Id: 1782
+
+Question:
+I'm using T4N Diversity Receiver with a power supply of Model PS20E (230 VAC, 50 Hz). I noticed that there is a humming sound coming out in my speaker, especially when microphone volume is raised in my amplifier.
+
+
+1) Is there any remedy to eliminate this unusual sound?
+
+
+2) Is there any problem with our cycle (Hertz) in our country?
+
+
+3) Is the squelch control have to do with it?
+
+
+Answer:
+
+	1) There maybe a ground loop. Read the following link for help:
+	http://www.jensen-transformers.com/an/an004.pdf
+	
+	2) Unlikely.
+	
+	3) No.

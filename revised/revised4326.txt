@@ -1,0 +1,18 @@
+Title: WCB6 Cleaning
+Id: 4326
+Legacy Id: 5406
+
+Question:
+I use the WCB6 microphone for theater work. The mics get clogged with make-up, dirt, and sweat. Please provide guidance on how to clean.
+
+
+Answer:
+
+	In order to protect the WCB6, the protective end cap needs to be on the unit at all times.This protects the mic capsule from debris and dirt. Also use the foam windscreen over the end cap.
+
+	Use isoproyl alcohol to clean the cable.Please do not use alcohol on the mic capsule/element as it can harm the unit.Use the alcohol only on the cable. 
+
+	Soap and water may also be used,but again not on the mic capsule.There is no cleaning agent that is safe to use on the actual mic capsule.That is why using the protective end cap is essential. To clean the end cap, remove it, clean it with the alcohol, and then make sure it is completely dry before putting it back on the unit.
+
+	If the audio level on the unit is low, even after cleaning and/or replacing the protective cap,there may be significant debris in the capsule itself.If this is the case, the mic should be sent for repair/replacement.
+

@@ -1,0 +1,12 @@
+Title: SystemOn security compliance
+Id: 5029
+Legacy Id: 6321
+
+Question:
+Has SystemOn been tested for security compliance when loaded onto a central server?
+
+
+Answer:
+
+	A penetration test is an attack on a computer system that looks for security weaknesses, potentially gaining access to the computers features and data. Shure has already completed such a test for SystemOn.
+

@@ -1,0 +1,19 @@
+Title: Operational principle of the Uniphase network - how is a microphone made to be directional?
+Id: 5060
+Legacy Id: 6373
+
+Question:
+Please explain the operational principle of Uniphase - the acoustical network first used in the Shure Unidyne Model 55, and in other Shure microphones like the SM58.
+
+
+
+Answer:
+
+	The Uniphase acoustical network and principle was invented by Shure engineer Ben Bauer in the late 1930s. Nearly every modern directional microphoneemploys the Uniphase network or a variation. It is difficult to simplify Uniphase because it involves advanced mathematics. Below is a gross simplification:
+	
+	Sound waves approaching the microphone from the rear, or from the sides, enter into the microphone housing via openings behind the diaphragm.These sound waves are time-delayed by having to pass through a labyrinth of various porous materials (such as cloth or felt) and by having to travel down acoustical hallways.Once time-delayed, the sound waves emerge at the back of the diaphragm - attempting to push the diaphragm outward, while the original sound waves passing around the microphone attempt to push the diaphragm inward. The inward push is cancelled (though never completely) by the outward push, so the diaphragm moves very little. Thus, sound wavesfrom the rear, or from the sides, produce almost no output signal from the microphone - because the diaphragm is essentially stationary.
+	
+	
+	
+	The microphone diaphragm is the vertical red line in the above illustration.
+

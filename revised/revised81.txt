@@ -1,0 +1,28 @@
+Title: How do I mic an accordion?
+Id: 81
+Legacy Id: 81
+
+Question:
+How do I mic an accordion?
+
+
+Answer:
+
+	Mikingan accordion for amplification is a mystery to most players. This briefly explains microphone selection and placement as both influence the sound of your amplified accordion.
+
+	An accordion radiates a different timbre in every direction and each accordion surface produces a distinct timbre. By adjusting the mic position relative to the accordion, tonal balance can be dramatically altered. An accordion is designed to sound best at a distance, i.e. two or more feet away. It is at a distance that the numerous sounds radiating from the accordion surfaces combine into a pleasing composite. A microphone placed at a distance tends to pick up a well-balanced tone quality. In contrast, a mic placed very close to the accordion tends to emphasize the surface that the microphone is near. Therefore, the sound from a closely placed mic will not be representative of the accordion as a whole. Keeping the above in mind, here are fundamentals to observe when miking a accordion:
+
+	
+		When using a mic on a floor stand, Shure suggests a condenser unidirectional microphone with a flat (neutral) frequency response. Suggested Shure models are the KSM137 or SM81 (best); the SM137 (better); or the PGA81 (good). A unidirectional mic boosts the bass progressively as it is placed closer to the accordion. This is proximity effect. When miking less than one foot away, be aware of this effect. Premium mics, like the Shure SM81, often have a switch to reduce proximity effect.
+	
+		For initial mic positioning, close one ear with a finger while someone plays your accordion. Listen with your other ear. Move around until you find a spot that sounds good. Try the mic there. To help minimize feedback, place the microphone as close as possible to the accordion. But remember that miking too close will color the accordions timbre.
+	
+		When amplifying your accordion, you may encounter feedback. In these cases, position the mic very close to the loudest part of the accordion. Then experiment with mic choice, loudspeaker location, and equalization to obtain your desired timbre and sound level.
+	
+		Instead of a microphone on a floor stand, some players wear a miniature lapel mic to pick up the accordion. Experiment with different placements, for example: on the shirt collar; on the breast pocket; or on eyeglasses near the ear. Suggested Shure models for this type of miking are the MX183 (omnidirectional), MX184 (supercardioid), MX185 (cardioid), SM93 (micro-miniature omnidirectional), or Beta 98A (cardioid). Wireless versions of all of these models are available.
+	
+		Placing a microphone inside of an accordion is very tricky. First, there is mechanical noise inside of the accordion that is not heard outside. Placing a microphone inside will pick up this noise. Second, physically mounting a microphone to the accordions internal structure will greatly increase the amount of vibration noise picked up by the mic. [To prove this to yourself, place a live microphone on a table surface and knock on the table. Listen to the amount of low frequency noise. Now lift the mic one inch above the table and knock again. Notice the reduction of vibration noise when the mic is not touching the vibrating table surface.] Third, an internal mic will be closer to some reeds than other reeds. Therefore, an internal mic will inevitably pick up some notes louder than others. Always keep in mind that a difference of only one inch can make a tremendous difference in what the mic picks up. In general, Shure does not recommend mounting a microphone inside of an accordion.
+
+
+	Remember, there is no one perfect way to mike an accordion as there is no single ideal mic to use. Like playing, it is part science and part art. Choose and place the mic to get the sound you want. Experiment and listen!
+

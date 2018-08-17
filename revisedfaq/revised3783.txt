@@ -1,0 +1,11 @@
+Title: Surge Protector for Exterior Antenna
+Id: 3783
+Legacy Id: 4019
+
+Question:
+I have an application where I need to remote 2 antennas on a SLX system. I'm concerned about surge. I have 2 choices of EDCO surge protectors. Either a CCTV-DF which is rated to 2 GHZ or a EDCO CX-HFN.
+
+Answer:
+
+	The EDCO CX-HFN looks appropriate for the job.   Note the EDCO product used N connectors and the SLX wireless uses BNC. Thus adapters or adapter cables will be required.   For such adapters, check:  www.pasternack.com
+

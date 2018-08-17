@@ -1,0 +1,12 @@
+Title: SCM810 breakout terminals for the logic connector
+Id: 2415
+Legacy Id: 2508
+
+Question:
+Do you offer a break-out cable for the LOGIC CONNECTOR?
+
+
+Answer:
+
+	Sorry, we do not. 
+	Do an internet search for DB25 Terminal Block.

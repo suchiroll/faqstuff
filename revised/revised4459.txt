@@ -1,0 +1,12 @@
+Title: ULX-D Dante Connection to Symetrix Device
+Id: 4459
+Legacy Id: 5569
+
+Question:
+Please provide details on connecting ULX-D to a Symetrix device using Dante.
+
+
+Answer:
+
+	http://www.symetrix.co/wp-content/uploads/2013/11/Shure-Dante-Series-Wireless_11-2013.pdf
+

@@ -1,0 +1,14 @@
+Title: Mounting a microphone on a grand piano
+Id: 2239
+Legacy Id: 2319
+
+Question:
+Is there a low profile way of mounting a microphone on a grand piano?
+
+
+Answer:
+
+	Consider the Piano Barre. It fits over the piano soundboard. Mics mounted on the Piano Barre can be moved to a variety of locations.
+	
+	* Shure was informed in January 2017 that the Piano Barre is no longer manufactured. An alternative is: The Piano Mount
+

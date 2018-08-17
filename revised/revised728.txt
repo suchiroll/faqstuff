@@ -1,0 +1,15 @@
+Title: What is the (audio) frequency response of the wireless systems?
+Id: 728
+Legacy Id: 747
+
+Question:
+I seem to remember seeing that the UHF wireless system has an audio frequency range of 20 to 15,000 Hz.  Is this correct?  Does any system go up to 18,000Hz?
+
+It would be extremely helpful if your comparison page gave the (audio) frequency response for each of your wireless systems.  :)
+
+Answer:
+
+	Due to the frequency modulation scheme that wireless systems use, the frequency response is limited to 50 to 15,000 Hz.
+	
+	The Audio Frequency Range is listed in either the User Guide or User Guide Supplement of all of our wireless systems.
+

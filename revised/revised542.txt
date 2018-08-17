@@ -1,0 +1,39 @@
+Title: Voice Mic with excellent ambient rejection
+Id: 542
+Legacy Id: 553
+
+Question:
+Which Shure studio microphone would be best suited to recording spoken voice in an environment where there is background office noise/traffic noise at a level of approximately -32dB when the voice level is at 0dB. I've been through all of the pages on the web site and am inclined towards testing the following models:
+
+
+Beta 58A
+
+SM58
+
+Beta 57A
+
+KSM32
+
+SM7A
+
+
+Can you give me any guidance among these models as to which might be particularly well-suited to this task? I want to maintain a warm vocal sound while minimizing ambient leakage.
+
+
+
+Answer:
+
+	If the background noise is non-directional, then a supercardioid microphone will provide the most rejection. All of our Beta microphones are supercardioid.
+	
+	The KSM32 and SM7A will provide more of a warm bodied sound than the Beta microphones, but have cardioid polar patterns.
+	
+	For a comparison of the different polar patterns, download our online booklet Microphone Techniques for Music - Sound Reinforcement.
+	
+	Page 9 of the booklet has a chart that compares polar patterns, including each patterns sensitivity to ambient sound.
+	
+	You might also want to consider constructing a 3 sided enclosure (about a 2 foot cube) to sit on the table and surround the microphone position to help isolate it from the room. Placing acoustical absorptive material on the inside of the enclosure is highly recommended.
+	
+	Also, see our online sound examples of the ambient rejection for different microphones:
+	
+	Miking a talker in a noisy room - AUDIO DEMO
+

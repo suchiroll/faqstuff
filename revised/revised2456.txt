@@ -1,0 +1,12 @@
+Title: 444T preamp
+Id: 2456
+Legacy Id: 2551
+
+Question:
+444T bought at hamfest has no preamp. Can I get a replacement circuit?
+
+
+
+Answer:
+
+	Sorry, Shure no longer has parts for the 444T.

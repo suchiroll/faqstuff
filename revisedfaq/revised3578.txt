@@ -1,0 +1,13 @@
+Title: Phantom Power and Cable Length
+Id: 3578
+Legacy Id: 3784
+
+Question:
+I am designing an installation that uses Shure MX series mics. The cable run from the mic back to the mixer is nearly 1000 feet. Will phantom power work properly over such a long run?
+
+
+Answer:
+
+	The amount of phantom current provided is small, 10 mA or less, and the impedance of the mic cable run is low. Both of these factors make phantom power viable over long mic cable runs.
+	
+	Make certain the mic cable chosen has a low capacitance per unit length rating.  If not, the high frequency response of the mic may be adversely affected.

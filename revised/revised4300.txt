@@ -1,0 +1,12 @@
+Title: X2u and Windows 8
+Id: 4300
+Legacy Id: 5369
+
+Question:
+Is the Shure X2u compatible with Windows 8?
+
+
+Answer:
+
+	Based on testing at Shure, the X2u appears to be compatible with the Windows 8 operating system. If you are using Windows 8 with the X2u, and have hints on how best to employ this combination, please send your ideas for posting to: support@shure.com
+

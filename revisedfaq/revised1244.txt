@@ -1,0 +1,19 @@
+Title: Beta 98 - wiring of mini 3-pin XLR
+Id: 1244
+Legacy Id: 1290
+
+Question:
+What is the wiring of the mini 3-pin xlr of the Beta 98 microphone. Which pin provides the 5V Bias Voltage and which pin is ground?
+
+
+I want to use it with my AKG WMS 81 wireless System. My information is that AKG uses 6V Bias Voltage on pin 3
+
+
+
+
+Answer:
+
+	Pin 3 is Audio. Pin 2 is for bias voltage. Pin 1 is Ground.
+	
+	+6V dc of bias will work fine.
+

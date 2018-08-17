@@ -1,0 +1,24 @@
+Title: RG58 A/U, B/U & C/U ?
+Id: 2010
+Legacy Id: 2074
+
+Question:
+With reference to your product on RG58 cable, we would like to know what mean for the abbreviation of A/U, B/U  C/U of a RG58 cable.
+
+
+Answer:
+
+	RG stands for Radio Guide and is a military term.
+	
+	The 58 class has an outer diameter of 0.195 inches, 50 to 53.5 ohms impedance, and can handle up to 500 watts of HF (High Frequency) power.
+	
+	RG58/U has a solid center conductor of 20 AWG bare copper. Its capacitance is 28.5 pF per foot.
+	
+	RG58A/U has a center conductor of 20 AWG stranded tinned copper. Its capacitance is 30.8 pF per foot.
+	
+	RG58C/U has a center conductor of 20 AWG stranded tinned copper. Its capacitance is 30.8 pF per foot. Its outer jacket is a different material than RG58A/U.
+	
+	We could find no information on an RG58B/U.
+	
+	To learn more about cable, we recommend: http://www.belden.com
+

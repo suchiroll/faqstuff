@@ -1,0 +1,18 @@
+Title: M81MC cartridge specs
+Id: 2464
+Legacy Id: 2559
+
+Question:
+I recently got an unused M81MC phono cartridge but no spec sheet. What is the tracking force for this cartridge? How old is it? Any info or specs?
+
+
+Answer:
+
+	M81MC: 15 years old.
+	
+	Original stylus: N75C; Spherical tip (0.6 mils); 3 to 5 tracking range
+	
+	Available replacement stylus: N75B Type 2; Spherical tip (0.6 mils); 1.5 to 3 tracking range
+	
+	No more information is available.
+

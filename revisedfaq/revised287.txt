@@ -1,0 +1,16 @@
+Title: Is there a receiver that will simultaneously receive 2 or 4 different frequencies
+Id: 287
+Legacy Id: 294
+
+Question:
+I wish to set up a wireless mic system in a church and require a receiver that will receive and processfour different transmitter frequencies and mix the output. I wish to avoid four separate receivers with four separate antenna systems and four separate power supplies. Does such a creature exist?
+
+
+Answer:
+
+	There are receivers called dual (two receivers in one enclosure) and called quad (four receivers in one enclosure.) Note that the audio signal from a dual or a quad are not mixed together; they emerge as individual signals.
+
+	
+
+	For educational material about wireless systems, read our booklet Selection and Operation of Wireless Microphone Systems.
+

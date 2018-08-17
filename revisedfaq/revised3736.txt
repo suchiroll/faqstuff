@@ -1,0 +1,34 @@
+Title: SV100 and SV200 Microphone Models
+Id: 3736
+Legacy Id: 3972
+
+Question:
+When were the SV100 and SV200 microphones introduced? Please provide product details.
+
+
+Answer:
+
+	The SV100 and SV200 were introduced in August 2010.
+	
+	The specifications for both models:
+	Dynamic microphone element
+	Cardioid polar pattern
+	Balanced, low impedance (600 ohms)
+	Output level of -52dBV/Pa (2.5mV)
+	Frequency response of 50 to 15,000 Hz
+	On/off slide switch
+	XLR male output connector
+	Weight of 244 grams
+	SV200 models have a dent-resistant ball grill.
+	
+	SV100-W: U.S. retail price of $29.99.  Supplied with a 15 foot cable - XLR female to 1/4 inch male phone plug.
+	
+	SV100-WA: U.S. retail price of $34.99.  Supplied with a 15 foot cable - XLR female to 1/4 inch male phone plug, mic stand clip with threaded Euro adapter, zippered bag.
+	
+	SV200-W: U.S. retail price of $34.99.  Supplied with a 15 foot cable - XLR female to XLR male, dent resistant ball grill.
+	
+	SV200-WA: U.S. retail price of $39.99.  Supplied with a 15 foot cable - XLR female to XLR male, dent resistant ball grill, mic stand clip with threaded Euro adapter, zippered bag.
+	
+	All prices above are from August 2010.
+	
+	* Outside of the U.S., there is a model available: SV200-Q.  It has a 15 foot cable - XLR female to 1/4 inch male phone plug.

@@ -1,0 +1,28 @@
+Title: Combining PSM600 and PSM 700 In Ear Systems
+Id: 42
+Legacy Id: 42
+
+Question:
+I would like to build an in ear monitor system for a band consisting of 4 wired systems (P6HW) and 4 wireless systems (P6TR / P7TR).
+
+
+1. Can I combine PSM600 and PSM700 systems, using one PA765E combiner (total of 4 systems) ?
+
+2. How many PA705 antennas do I need for the above ?
+
+3. Are there any benefits on using PSM700 beside the possibility of having more frequencies available ?
+
+4. Any suggestions before I place an order ?
+
+
+Answer:
+
+	1. The PSM600 and PSM700 systems require different combiners, because they operate in different frequency ranges. You cannot use the PA765E for both systems.
+	
+	2. If you choose to use the PA705 antenna, you will need one for every combiner in your system. Each combiner can accomodate up to four transmitters. You can also connect two combiners to a single PA705 with a passive combiner, the UA220.
+	Do not attempt to passively combine more than two combiners.
+	
+	3. PSM700 allows you to use up to sixteen transmitters at a time, in addition to the frequency agility. The PSM600 limits you to ten transmitters, but this seems to be adequate for your needs.
+	
+	4. Be sure to order the proper antenna combiner for the systems that you order. The PSM600 uses the PA765E, but the PSM700 systems use the PA770E. Also, keep in mind that you may me able to use fewer transmitters if certain band members can share a mix. You can have as many receivers as you wish tuned to the same transmitter.
+

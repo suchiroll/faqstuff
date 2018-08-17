@@ -1,0 +1,14 @@
+Title: Lav mics for TV news show
+Id: 1583
+Legacy Id: 1639
+
+Question:
+I'm the production manager at as TV station. I'm in the process of upgrading our current audio situation and had a question. We do 4-anchor newscasts in a studio that's doesn't really have the greatest acoustics. I'd like to purchase new lavs for the set and was wondering if you have a suggestion as to which type would be best as far as cardioid, super-cardioid etc. and if you had a specific one you would recommend. Any thoughts would be most helpful.
+
+
+Answer:
+
+	Stay with omni lavs, like the SM93 or MX150. Please read: Why should I use an omnidirectional microphone?
+	
+	And use an automatic mixer, like the Shure SMC810 or SCM410. An automixer will likely help more with the poor acoustics than directional lavs.Why Use Shure Automatic Mixers?
+

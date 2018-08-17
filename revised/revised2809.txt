@@ -1,0 +1,11 @@
+Title: FP16A Link In jack modification
+Id: 2809
+Legacy Id: 2919
+
+Question:
+I would like to now how to permanently modify the switching Link in jack, so that the switching function is bypassed.
+
+
+Answer:
+
+	Look at the FP16A schematic in the User Guide. Note the Link In jack has a switching contact at the jack's tip. Solder a jumper between the jack tip lug and the switching contact lug. This bypasses the switching contact.

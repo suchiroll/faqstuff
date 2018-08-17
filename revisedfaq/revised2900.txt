@@ -1,0 +1,27 @@
+Title: Frequency response of UA820 antennas
+Id: 2900
+Legacy Id: 3024
+
+Question:
+What is the frequency response of the UA820 antennas?
+
+
+Answer:
+
+	The following graphs show the VSWR of the various UA820 antennas along with their bandwidth.
+	
+	
+	UA820A. Usable 735 to 1000 MHz.
+	
+	
+	UA820B. Usable 645 to 780 MHz.
+	
+	
+	UA820C. Usable 600 to 745 MHz.
+	
+	
+	UA820D. Usable 525 to 630 MHz.
+	
+	
+	UA820E. Usable 734 to 1000 MHz.
+	

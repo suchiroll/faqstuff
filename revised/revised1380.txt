@@ -1,0 +1,13 @@
+Title: 70ST vintage microphone
+Id: 1380
+Legacy Id: 1432
+
+Question:
+I am searching for a source of information for an old desk stand model Shure Brothers microphone. The model number is '70ST'. It appears that it was used for amateur radio.
+
+
+Answer:
+
+	The 70ST was introduced in 1939 at $25.50.
+	
+	The catalog description was: "Here's the world famous Shure Super-Level Crystal Communications Microphone. Has Shure high-efficiency speech characteristic with the highest output available in a crystal microphone: 26dB below 1 volt per 10 bar speech signal. Diameter 3 3/16". Depth 1 3/8". Satin chrome finish. 3 1/2 lbs. Complete with 7 ft. shielded rubber-covered cable and S36A Iridescent Gray Desk Mount."

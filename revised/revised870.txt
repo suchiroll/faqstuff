@@ -1,0 +1,14 @@
+Title: Setup of graphic equalizers on DFR11EQ
+Id: 870
+Legacy Id: 897
+
+Question:
+Our Church Sound system is fitted with a DFR11EQ equalizer. I do not know what software is in it yet, but have obtained a copy of V5.2 software. The installation manual has much detail on the setup of the feedback rejection filters, but does not detail how the graphic equalizer should be set up. Is there a technical method for setting the equalizer settings? Can this be done without specialized equipment?
+
+
+Answer:
+
+	The technical method for proper equalizer set-up is called Real Time Analysis (RTA). Pink noise is sent through the sound system and the acoustic output is picked up by a measurement mic and displayed on a piece of RTA test equipment. The equalizer is adjusted based on the RTA read out. We do not recommend setting the equalizer by ear.
+	
+	Try www.gold-line.com for RTA equipment at a reasonable price. Or hire a local sound installer to perform RTA for your room and adjust the equalizer accordingly.
+

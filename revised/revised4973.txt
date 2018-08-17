@@ -1,0 +1,27 @@
+Title: SM57, SM56, and SM77 Identification
+Id: 4973
+Legacy Id: 6238
+
+Question:
+I have a variety of SM57, SM56, and SM77 mics. Some of the handles do not have transformers. Some of the SM77 mics do not have the rubber coating on the handles. Can you shed some light on these units?
+
+
+Answer:
+
+	
+		From Shures Corporate Historian:
+	
+		
+			The SM56 and SM57 used the same mic element. The only difference was the label. A mic element for the SM56 will fit the onto the SM57 handle, and vice versa.
+		
+			If a handle does not contain a transformer, it is the SM77 handle.
+		
+			The rubberized paint used on the SM77 was not durable. It was replaced with a standard black paint just before the SM77/SM78 models were discontinued.
+		
+			The SM77 mic element will fit onto an SM57 handle, and vice versa.
+	
+	
+		On your mics, the mic elements may be replacements, or the labels, or the grille windscreens.
+
+
+

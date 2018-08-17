@@ -1,0 +1,23 @@
+Title: T88 wireless system questions
+Id: 2105
+Legacy Id: 2173
+
+Question:
+---- 12/03/2001 06:38 PM ---------------------------------------------
+I was wondering about the Shure 14A. What does T1, T2 stand for? About the price, is it really $690.00? Because a few months ago I bought the same brand and it cost about $400.00. If it is possible can I just buy then microphones and the transmitter itself without the T1 thing that comes along.
+
+thank you
+
+
+Answer:
+
+	At 12/04/2001 08:34 AM we wrote - The 14A is the microphone element used on the end of the T2 handheld transmitter.
+	
+	T1 is the bodypack transmitter.
+	
+	T2 is the handheld transmitter.
+	
+	$690 is the suggested retail price in the United States as of June 2001.
+	
+	The T288 system includes two T2 handheld transmitters and no T1 bodypack transmitters.
+

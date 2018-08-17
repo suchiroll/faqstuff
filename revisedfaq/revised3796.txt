@@ -1,0 +1,13 @@
+Title: X2u or Shure USB Microphone compatibility with Pro Tools 9
+Id: 3796
+Legacy Id: 4034
+
+Question:
+Will the Shure X2u or a Shure PG series USB microphone work with Pro Tool 9 software?
+
+
+Answer:
+
+	With the introduction of Pro Tools 9 (and Pro Tools HD9) in November 2010, the user is no longer restricted to using only Avid audio interfaces. Per Avid, Pro Tools 9 will be compatible with "any Core Audio or ASIO compatible interface". Theoretically, this means that the X2u and Shure PG USB microphones will be compatible with Apple Mac computers running Pro Tools 9. 
+	
+	However, it does not imply compatibility with Windows PC computers running Pro Tools 9, as the X2u and PG USB microphones are not ASIO devices.

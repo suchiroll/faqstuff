@@ -1,0 +1,16 @@
+Title: Will N78S Stylus work with R27E Cartridge?
+Id: 1986
+Legacy Id: 2049
+
+Question:
+I retrieved my old Benjamin Miracord record changer (from Radio Shack) from the attic after 25 years and unfortunately it was broken. I replaced the record changer with a Numark PRO-TT2 turntable. Since the Numark didn't come with a cartridge, I installed the cartridge from my old record changer (R27E Cartridge with a RS 5T Stylus). I know both the cartridge and stylus are Shure but probably with Radio Shack model numbers. I want to play 78's and was wondering whether a N78S stylus can be inserted into the body of the R27E Cartridge. I did see a list in you knowledge base of cartridges that will work with the N78S stylus with standard Shure model numbers (not Radio Shack cross-references). Will my R27E Cartridge work with a N78S for playing 78's? If so, I can just buy the N78S stylus. Also, when playing 33s and 45s, what should I set my tracking force at for the R27E Cartridge with RS 5T Stylus. Thanks.
+
+
+Answer:
+
+	Will my R27E Cartridge work with a N78S for playing 78s?
+	* Sorry, the N78S does not fit the R27E body. The N78S is too large.
+	
+	When playing 33s and 45s, what should I set my tracking force at for the R27E Cartridge with RS 5T Stylus?
+	* Try 1.5 grams.
+

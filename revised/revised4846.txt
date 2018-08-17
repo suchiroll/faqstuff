@@ -1,0 +1,12 @@
+Title: Does DIS-CCU require Feature License for VOX?
+Id: 4846
+Legacy Id: 6032
+
+Question:
+Is a Feature license required to enable the VOX voice-activation feature on the DIS-CCU central control unit?
+
+
+Answer:
+
+	No.The VOX feature is now standard on all DIS-CCUs, when used with either 5900-series or 6000-series discussion/conference units.
+

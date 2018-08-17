@@ -1,0 +1,21 @@
+Title: Static sound with E3c and iPod
+Id: 3006
+Legacy Id: 3135
+
+Question:
+I just bought the E3c. In general, they sound great.
+
+
+I've noticed something that bothers me, and I hope you can help. When I have the volume very low, or if my iPod is on pause, I often get some annoying soft static. The static goes away and I get utter silence if I pull the jack out of the iPod by a small fraction of a millimeter. Sometimes, I get the silence if I simply twist the jack a small bit. I hope to have these for years, and I don't want to continually deal with this. How can I fix this?
+
+
+Answer:
+
+	This problem has been well-documented by www.ipodlounge.com. The noise is most audible at low volume settings, and may be more noticeable when using sensitive, sound isolating earphones, because the absence of noise allows you to hear sounds that would normally be covered up by ambient noise. For this reason the noise may not be audible through the standard Apple earbuds.
+	
+	In some cases the noise may disappear when the earphone plug is pulled out just slightly. This prompted one user to experiment with using plastic wrap as a barrier between the iPod and the earphone plug.
+	
+	The problem has so far been observed only with 4th-generation iPods. These are the most recent models which are identified by the gray click-wheel on the front panel. The cause is unknown, and as of 11/1/04 Apple has not acknowledged that a problem exists. Customers who have returned their iPods to Apple have received a replacement unit, although the replacement unit itself sometimes exhibits the same problem.
+	
+	Shure earphone users can confirm whether the noise is coming from the earphones or the iPod by testing the earphones with a different type of music player (CD player, portable DVD player, laptop computer, etc.). If no noise is heard with the other player, then the noise is most likely coming from the iPod.
+

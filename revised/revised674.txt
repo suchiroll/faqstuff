@@ -1,0 +1,11 @@
+Title: Proper microphone for vocals
+Id: 674
+Legacy Id: 691
+
+Question:
+I have an AR acoustic guitar amp with an XLR plug for a microphone as well as high and low plug-ins for instruments.  What are your recommendations for a microphone for vocals using this amp?
+
+Answer:
+
+	Please read the following link to help you make a selection:Microphone Techniques for Music - Sound Reinforcement
+

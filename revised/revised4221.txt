@@ -1,0 +1,14 @@
+Title: Battle Announce Handset H169 / U
+Id: 4221
+Legacy Id: 5203
+
+Question:
+What is the Shure model H169/U handset?
+
+
+Answer:
+
+	The H169/U battle announce handset was designed and manufactured by Shure for the U.S. Military.  This handset was introduced circa 1965 and discontinued circa 1992.  It contained a noise cancelling mic element, part 90A782 or 99A726, and an preamplifier circuit board, part 90A783.  
+	
+	As of December 2012, here is a replacement for the H169/U:  http://www.roanwellheadsets.com/?page_id=458
+

@@ -1,0 +1,19 @@
+Title: Comparison of SM5C to SM5B
+Id: 4666
+Legacy Id: 5833
+
+Question:
+What are the importance differences between the SM5B and SM5C?
+
+
+Answer:
+
+	SM5C impedance is 38 ohms; SM5B impedance is 160 ohms.
+	
+	SM5C output level is 6 dB less than the SM5B. (SM5C is -64 dBV at one Pascal SPL.)
+	
+	SM5C has a steep roll-off below 100 Hz; circa 10 dB per octave.
+	
+	SM5C has a hum-bucking coil that provides an additional 4 dB of hum field rejection.
+	
+

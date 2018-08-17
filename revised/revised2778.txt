@@ -1,0 +1,11 @@
+Title: Locking a Mic Switch on the AXS-1
+Id: 2778
+Legacy Id: 2886
+
+Question:
+I have two Shure AXS-1 mics. The problem I'm having is they have on/off switches, and I want to lock the switches ON. I've seen other Shure mics that have had a metal switch locking plate attached. Do you make something like that for this mic? 2) Is there any other way to lock the mic ON?
+
+
+Answer:
+
+	Here is a very simple idea. Place the switch in the ON position. From a plastic milk carton, cut a small square of plastic to act as a wedge behind the switch button. This wedge will stop the slide switch from being moved back into the OFF position.

@@ -1,0 +1,12 @@
+Title: Scene Control of the DFR11EQ via an External Switch
+Id: 2640
+Legacy Id: 2742
+
+Question:
+Can an external switch, like a toggle switch or relay, control scene changes on the DFR11EQ?
+
+
+Answer:
+
+	Yes. This scenario is described on the User Guide for the Shure DRS-10 switch.
+

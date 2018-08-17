@@ -1,0 +1,11 @@
+Title: Using LX and UC series wireless microphones together
+Id: 678
+Legacy Id: 695
+
+Question:
+The LX owner’s manual states up to 12 LX systems can be operated in a single installation. I am already using 12 LX series microphones and am looking to add more wireless microphones.  Would using the UC series of wireless microphones create any IM problems with my existing LX microphones?
+
+Answer:
+
+	The LX and UC systems will not interact with each other. You can use your 12 LX systems along with multiple UC systems, all at the same time. The LX and UC frequencies are far enough apart to where there is little interaction between the two systems.
+

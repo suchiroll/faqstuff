@@ -1,0 +1,32 @@
+Title: How do I mic a classroom for distance learning?
+Id: 173
+Legacy Id: 174
+
+Question:
+I want to use overhead microphones for a distance learning application.  How do I do it?
+
+Answer:
+
+	Positioning Overhead Microphones in a Classroom
+
+	
+		Overhead microphones provide satisfactory results only in classrooms that are quiet and fairly non-reflective to sound waves. Overhead miking should not be considered in rooms without carpeting or acoustic treatment, or in rooms that have noticeably noisy air handling systems.
+	
+		Use a condenser microphone designed for hanging, with either a cardioid or supercardioid polar pattern (such as Shure MX202). Surface or boundary-type microphones should not be mounted directly on the ceiling, because this placement results in hollow, noisy speech and makes echo and feedback problems worse. (See the document Mics on the Ceiling? Shure Says No for a comprehensive discussion of the drawbacks of ceiling miking.)
+	
+		One overhead mic can cover two to three rows of students, depending on the distance between rows. Ideally, every student should be within six feet of a microphone.
+		
+			
+				Position the microphones seven to eight feet above the floor, to allow people to walk under them. If microphones must be raised higher (or mounted directly on the ceiling) to prevent tampering, overhead miking should not be considered.
+			
+				Position each microphone two to three feet in front of the nearest row of students to be covered by that mic. Aim the microphone at the farthest row of students to be covered by that mic. This places the farthest talker on-axis to the mic and the nearest talker slightly off-axis to the mic, which roughly equalizes their levels.
+		
+	
+	
+		Each overhead microphone can cover an area approximately eight to ten feet wide. Depending on the distance between seats, this accommodates three to four students.
+	
+		For best results, connect the microphones to an automatic mixer, so that unneeded microphones are turned off. This reduces pickup of room noise and reverberation, providing clearer sound.
+
+
+	
+

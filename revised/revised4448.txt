@@ -1,0 +1,15 @@
+Title: GLX-D16 Tuner Mode - Time Interval between Modes
+Id: 4448
+Legacy Id: 5549
+
+Question:
+I purchased a GLXD16. When I press the pedal to go to tuner mode, it goes "dead" for a bit and typically takes about 10-15 seconds to be operational.Likewise, when I press the pedal to go back to wireless mode, it takes awhile to be operational again.Is this normal?
+
+
+
+Answer:
+
+	No. The change to the Tuner Mode and back out this Mode should be relatively quick - less than 2 seconds.
+	
+	If the GLXD6 does not respond as described above, contact Shure Service to have the unit examined/tested/repaired. In the United States, call 800-516-2525.
+

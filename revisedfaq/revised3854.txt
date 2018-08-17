@@ -1,0 +1,14 @@
+Title: Storage of AXT910 and AXT920 batteries
+Id: 3854
+Legacy Id: 4094
+
+Question:
+I will not be using my Axient wireless system for a couple months. Is there anything special I should do with the batteries during this time?
+
+
+Answer:
+
+	If the system is not going to be used for a month or more, we recommend putting the batteries in storage mode. The AXT900 charger can put the batteries in storage mode. This puts the voltage of the battery at a mid range point (3.8 volts), which is best for the battery.
+	
+	Also, keep the battery from getting too hot or too cold. Lithium Ion batteries can loose health when stored in cold or hot areas. For best performance, store the batteries in normal room temperatures.
+

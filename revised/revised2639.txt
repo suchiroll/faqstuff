@@ -1,0 +1,11 @@
+Title: A81WS Windscreen and high frequency response
+Id: 2639
+Legacy Id: 2741
+
+Question:
+What effect, if any, does the windscreen have on the frequency response of a high quality microphone? In particular, using the large windscreen, A81WS, on an SM81. Any high frequency rolloff?
+
+
+Answer:
+
+	Yes, there is roll-off above 10kHz. The response will be down 2 or 3 dB by 20 kHz.

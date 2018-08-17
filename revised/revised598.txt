@@ -1,0 +1,20 @@
+Title: Specs for discontinued phono cartridges
+Id: 598
+Legacy Id: 610
+
+Question:
+I have noticed that from time to time, on a large auction web site, various Shure cartridges are offered for sale. I might be interested in some of the cartridges, especially the vintage cartridges, but can't find specs on anything except the current production cartridges on your web site. Is there any place on the web that I can find specs for discontinued cartridges?
+
+
+Answer:
+
+	Here are three facts to consider before you purchase any vintage Shure cartridges on the Internet:
+	
+	1. Depending on the age of the cartridge, replacement styli may not be available anymore. In that case, when the stylus wears out or breaks, the cartridge cannot be repaired.
+	
+	2. There are counterfeit Shure phono cartridges on the market. Buyer beware!
+	
+	3. Shure has manufactured phono cartridges since the 1940s. Many of these were made for other companies to be part of their hi-fi products. The documentation and support of the OEM cartridges were/are the responsibility of the company who bought the phono cartridges from Shure. We estimate there are thousands of models sold since the 1940s that carry non-standard Shure model numbers. Shure does not have documentation on these OEM models.
+	
+	If you believe a cartridge to be a standard Shure model and you want specifications, send us an email along with your mailing address. We will mail you a photocopy of the spec sheets IF it still exists in our files. Many data sheets are available in the Downloads area of Shure.com.
+

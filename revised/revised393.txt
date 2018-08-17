@@ -1,0 +1,15 @@
+Title: Tracking weight of M75ED type II
+Id: 393
+Legacy Id: 400
+
+Question:
+I just "revived" my old hi-fi turntable, using an old M75ED type II cartridge and stylus. Unfortunately, I have no record of the correct tracking weight - could you tell me this?
+
+Additionally, I would be grateful if you could tell me which of your current models the M75ED type II most closely relates to in performance, as I will be considering upgrading the cartridge as soon as everything is working properly.
+
+Answer:
+
+	The M75ED Type 2 tracks at 0.75 to 1.5 grams. The M94E model would be the proper replacement cartridge for the M75ED Type 2.
+	
+	You may also replace the stylus of the M75ED Type 2 with the N75ED Type 2. This will provide the performance of a brand new M75ED Type 2.
+

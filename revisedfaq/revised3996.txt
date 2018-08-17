@@ -1,0 +1,25 @@
+Title: VP89 Lengths
+Id: 3996
+Legacy Id: 4377
+
+Question:
+What are the lengths of the different VP89 models?
+
+
+Answer:
+
+	VP89 handle/electronics: 102 mm (4.02), includes the external thread that mates with the interference tube.
+	
+	VP89S interference tube and mic element: 137 mm (5.41)
+	VP89S total length: 226 mm (8.89)
+	
+	VP89M interference tube and mic element:239 mm (9.41)
+	VP89M total length: 327 mm (12.87)
+	
+	VP89L interference tube and mic element:386 mm (15.21)
+	VP89L total length: 474 mm (18.66)
+
+	
+
+	
+

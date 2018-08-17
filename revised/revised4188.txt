@@ -1,0 +1,27 @@
+Title: UR Receiver / ULX Transmitter Compatibility
+Id: 4188
+Legacy Id: 5141
+
+Question:
+Is it possible to use a ULX transmitter (J1 Freq) with a UR (J5) receiver? When I went to your site I read that it was the other way around. Possible with the transmitter being the UR(J5) and the receiver being the ULX(J1). I know this sounds like we are degrading the system, but we want to use a cheaper mic for just certain functions as guests will be using the transmitters and do not care about how they are handled and will just drop them thinking thay are superstars.
+
+
+Answer:
+
+	It is feasible but not recommended.The ULX system uses a slightly different tone key squelch design and a slightly different audio companding circuit.The battery state information will not be useful as the ULX uses a 9 V and the UR transmitter uses 2 AA cells.
+	
+	
+	You can try this scenario and if you are pleased with the results, great.
+	
+	1) Using the Master Frequency List settings, find matching frequencies on the ULX and the UR.(Groups and Channels are not the same.)See the User Guides for information on accessing the Master Frequency Lists.
+	
+	2) Listen for audio on the UR receiver.If you hear audio that pleases your ear, you are done.
+	
+	3) If you do not hear audio, defeat Tone Key Squelch in the UR receiver.See the UR User Guide for instructions.
+	
+	4) If the audio quality sounds strange, there are no options.As previously stated, the units use slightly different audio companding circuits.
+	
+	
+	The link below is the reverse of what you desire, but may prove useful:
+	Can I use a U1 or UR1 transmitter with my ULXP4 receiver?
+

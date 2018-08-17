@@ -1,0 +1,12 @@
+Title: Microphone M188H
+Id: 2908
+Legacy Id: 3032
+
+Question:
+I just picked up a Midco M188H Microphone manufactured by Shure around the late 1970's-early 1980's. Can you give me any info about it?
+
+
+Answer:
+
+	The M188H is the equivalent of the Shure model: 588-SA (no longer made). The closest current model is the Shure 588SDX.
+

@@ -1,0 +1,11 @@
+Title: Antenna distro for 'L4' Series receivers
+Id: 517
+Legacy Id: 528
+
+Question:
+We have a client that has 4 L4 receivers that we want to put on an antenna distro. Will the WA405 distro work with the L4 receivers? Also we would like to remote mount the 2 antennas, if possible on mic stands. Can the WA380 or WA490 series 1/2 wave antennas be mounted to mic stands? 
+
+Answer:
+
+	The WA405 will work with the L4 receivers. Use two WA380 antennas for mounting on mic stands. Note that the WA380 is available as three models: A, B, and C. A covers: 169 to 185 MHz; B covers: 185 to 200 MHz; C covers: 200 to 230 MHz. Choose the model based on the L4 receiver frequencies.
+

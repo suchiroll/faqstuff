@@ -1,0 +1,14 @@
+Title: 1946 Philco 78 r.p.m record player - replacement cartridge?
+Id: 1313
+Legacy Id: 1364
+
+Question:
+I have a 1946 Philco record player with a Shure crystal cartridge which I am sure is no longer available. Could you suggest a replacement cartridge? This tone arm uses a 1/2 inch two screw mount. Any help would be appreciated.
+
+
+Answer:
+
+	Crystal cartridges are no longer manufactured to our knowledge. The Shure M78S 78 rpm cartridge is a 1/2 mount product and is still sold.
+	
+	But it will require the use of a preamp to increase its signal level to equal a crystal cartridge.
+

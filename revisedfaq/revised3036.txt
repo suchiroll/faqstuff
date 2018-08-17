@@ -1,0 +1,12 @@
+Title: Hard reset of DFR11EQV5
+Id: 3036
+Legacy Id: 3166
+
+Question:
+Is there a hard reset function available for the DFR11EQ? Version 5.02 software hangs when I try to access preset #3. All other presets are available and all functions seem to work. I already tried doing a device restore from a prior device backup but did not have any success. We have used the DFR11EQs in many other installs without ANY problems and have always relied on your products for trouble-free, great sound.
+
+
+Answer:
+
+	Hold the Clear button and the Preset #3 button on the front panel as you connect DFR to AC power.
+

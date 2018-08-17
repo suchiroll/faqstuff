@@ -1,0 +1,12 @@
+Title: Removing the SM57 grill
+Id: 64
+Legacy Id: 64
+
+Question:
+I have an SM57 which is in need of a good cleaning. How do I remove the screen and cap to access the foam piece inside?
+
+
+Answer:
+
+	First, remove the label that says SM57 on the grill. You will notice a spring clip through two holes at the base of the grill. Using a small screwdriver, press in on spring clip through either of the holes. This action should release the grill. Please be very careful. Once that grill is removed, the diaphragm of the microphone is exposed and could be easily damaged. Also, be careful putting the grill back on, as the diaphragm could be damaged easily. If the foam is excessively filthy, you may want to order a new grill from our Parts Department (that would also include new foam). You can reach our Parts Department at 800-516-2525 or 847-600-8699.
+

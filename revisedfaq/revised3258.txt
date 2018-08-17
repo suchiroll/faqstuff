@@ -1,0 +1,26 @@
+Title: SLX1 Transmitter and Countryman E6 headworn microphone - gain problems
+Id: 3258
+Legacy Id: 3412
+
+Question:
+How can I increase the gain in order to achieve suitable level for voice application? Have tried manual adjustment on SLX1 transmitter, SLX4 unit and sound board without success.
+
+
+Answer:
+
+	Here are several recommendations:
+	
+
+	
+		Set SLX1 gain switch to MIC.
+	
+		Set SLX4 gain pot (on rear) to maximum - full clockwise
+	
+		Use XLR output of SLX4. Connect to XLR input on mixer.
+	
+		Confirm the mic cable and mixer XLR input are OK by using a wired mic, like the Shure SM58 in place of the SLX4. When this setup works OK, substitute the SLX4 for the SM58.
+
+
+	When working properly, the SLX4 XLR output will be similar in level to a Shure SM58. If the SLX4 is too loud, reduce the level using the gain control on the rear panel.
+	
+

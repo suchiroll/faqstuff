@@ -1,0 +1,15 @@
+Title: Earphones - When is it too loud with MP3 players?
+Id: 2831
+Legacy Id: 2943
+
+Question:
+I've just ordered Shure earphones. I will be using them to listen to music on my Apple iPod, esp. when traveling (casual use, I'm not a musician). I've never tried earphones before. I want to be careful not to do damage to my hearing, and some of the warnings I've seen cause me a little concern.
+
+1) Is there any "rule of thumb" to tell if I'm listening too loud? I know that ringing is not reliable, because I can still cause damage even if I don't experience ringing. I'm trying to understand how to know if I've been using the earphones too long at a particular volume.
+
+2) I understand the need for limiters in a band situation, but wonder if this is a concern on something like an iPod, and if so what to do about it.
+
+Answer:
+
+	1) There is no truly effective "rule of thumb". To be scientific, you would need to measure the Sound Pressure Level (SPL) in the ear cavity. Very few people in the world have such measurement equipment.Here is a professional organization that will likely have better information:
+	http://www.hei.orgWe can do a calculation for you. Send us the maximum headphone output power in milliwatts and the headphone output impedance of the iPod. Using these specs and the Shure earphone specs for your model, we can calculate the maximum expected in-ear SPL and the recommended maximum SPL exposure time, assuming the iPod is operated at maximum volume.2) A band needs a limiter due to unforeseen problems like feedback or dropping a microphone. With the iPod, you are listening to pre-recorded material that is already limited due to the recording process.

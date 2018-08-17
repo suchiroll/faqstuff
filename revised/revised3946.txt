@@ -1,0 +1,12 @@
+Title: Number of Axient transmitters for AXT610?
+Id: 3946
+Legacy Id: 4195
+
+Question:
+How many Axient transmitters can a single AXT610 support?
+
+
+Answer:
+
+	Each AXT610 Showlink Access Point can support 16 Axient transmitters. If the system has more than 16 transmitters, multiple AXT610 Access Points can be used.
+

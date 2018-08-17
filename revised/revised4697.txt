@@ -1,0 +1,52 @@
+Title: ULXD Interference Sources in the 900 MHz Band
+Id: 4697
+Legacy Id: 5867
+
+Question:
+I am using a ULX-D in the X52 band (900 MHz band). Occasionally, I encounter interference but it does not happen all the time.
+
+
+Answer:
+
+	In the United States, the ULXD-X52 operates in the 902 to 928 MHz band.Though this band is not used for broadcast TV, the 902 to 928 MHz band is used for other non-licensed wireless devices; the band is not reserved only for wireless microphones.These other devices can be industrial, scientific, security, educational, or medical, and they have the same rights to operate in this frequency band as the wireless microphones. No device has priority over another device.
+	
+	Here are examples of identified devices known to operate in this band:
+
+	
+		Wireless network that reports a power outage to the local electric company.This device was located on a utility pole outside of a church.The device used frequency-hopping and can occasionally hop directly ontoa ULXDoperating frequency.
+	
+		A security system in a television studio.This device emitted bursts of RF energy in the 900 MHz band.
+	
+		A commercial phone system, made in the early 1990s, in a church. Every 15 minutes, this phone control center would emit a very strong (almost one watt!), 900 MHz band signal that queried the wireless phones: Are you on?What frequency are you using? This RF burst from the phone system produced one second of audible interference in a 900 MHz wireless mic system.
+	
+		A timing mat used at high school and college wrestling matches.
+	
+		A Radio Frequency Identification Device (RFID) system used for running races.Each runner has a unique RFID tag.As the runner crosses over an antenna placed on the ground, the exact time of the crossing is logged.
+
+
+	Sources of ULXD-X52 interference would typically be nearby.When seeking the source of interference, look for devices with antennas which are within 200 feet of the ULXD receiver.
+	
+	Withthe examples given above, there are two possible solutions:
+
+	
+		Replace the ULXD-X52 systemwith a system that operates in the UHF TV band, or
+	
+		Power off (or replace) the device causing the interference
+
+
+	A simple test to determine if the problem is local interference is to operate the ULXD in a different environment, at least one mile away from the venue.If the root cause is local interference, the ULXD will work fine in a different environment. If the ULXD needs repair, it will work poorly no matter where it is used.A more accurate test is for a local wireless microphone expert to employ an RF spectrum analyzer.The analyzer can display the frequency and strength of the signal causing the interference.
+	
+	Here is the original announcement from Shure about the ULX-D X52 band - dated August 2015:
+	
+	Shure announced that its renowned ULX-D Digital Wireless Systems are now available in the 900 MHz ISM frequency band. Targeted for use where UHF TV band spectrum is limited or congested, ULX-D 900 MHz features components and accessories optimized for use within regional variations of the 902-928 MHz spectrum, generally known as the Industrial, Scientific, and Medical (ISM) band.
+	
+	With the introduction of industry-leading ULX-D Digital Wireless Systems capable of operating in the unlicensed 900 MHz band, customers can experience high-quality digital wireless audio in an alternative band, free of the regulatory issues wireless microphone users currently face, or may eventually face, in the heavily-saturated UHF TV band.
+	
+	Shure has been at the forefront of spectrum topics, serving as a source for the latest information about the UHF TV Band Incentive Auction, explaining the impact for wireless microphone users, and advocating on behalf of the industry, said Nick Wood, Category Director for Wireless Products at Shure. As awareness of the upcoming spectrum change increases, we continue to research and develop solutions for wireless microphone users.We saw the opportunity to adapt the digital technology of our ULX-D systems to the specific requirements of the 900 MHz ISM band while keeping the same great performance and feature sets that have made these systems successful.
+	
+	As part of its ongoing commitment to support wireless microphone users with superior wireless solutions for an ever-evolving spectrum landscape, Shure has conducted extensive scanning, site surveys, and product testing in the 900MHz ISM spectrum.The new ULX-D option performs to the same high standards of that system when the application and the RF environment are a good fit. The 900 MHz ISM band may also be used by devices such as wireless internet access points, security systems, smart meters, Bluetooth devices, two-way radios, and intercoms. Because many of these services transmit in short bursts across multiple frequencies, this RF environment can be less predictable than the TV band has typically been. For this reason, Shure has announced that the latest version of its Wireless Workbench 6 software (version WWB 6.11.2) will feature a new Site Survey tool that enables customers to assess the availability of 900MHz ISM spectrum in a particular venue. The Site Survey Tool uses the receiver to capture a long-term scan and processes the data to provide a Usability Report, indicating an approximate number of usable channels in the ISM band.
+	
+	In general, ULX-D 900 MHz systems are best suited for indoor use, where the environment can be assessed before the systems are installed. Usage outside of these applications is certainly an option, but Shure recommends consulting with an authorized retailer if there is any question about which band is the best fit when purchasing ULX-D Digital Wireless Systems.
+	
+	In the U.S., the ULX-D 900 MHz system can support up to 12 compatible channels per frequency band, or up to 73 channels in high density mode.
+

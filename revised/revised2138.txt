@@ -1,0 +1,13 @@
+Title: Model PE5EQ mic
+Id: 2138
+Legacy Id: 2209
+
+Question:
+What can you tell me about it and what is it worth is it a good quality mic.
+
+
+Answer:
+
+	The PE5EQ was last manufactured in the late 1970's. It is a dual impedance, unidirectional microphone designed for vocals. It is a good quality microphone.
+	
+	For value, check Ebay. Shure does not buy old microphones.

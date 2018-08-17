@@ -1,0 +1,13 @@
+Title: ULXS and ULXP Group Scan and Group/Channel Scan
+Id: 2873
+Legacy Id: 2988
+
+Question:
+The information says the Standard ULXS receiver only has channel scan. But the Pro series has channel and group scan. So what is group scan and why might I want this feature?
+
+
+Answer:
+
+	Group Scan: On ULXS, you manually chose the Group and the ULXS receiver scans all the Channels within that Group to see which are clear.
+	
+	Group/Channel Scan: On ULXP, the ULXP receiver scans all the Groups and all the Channels within the Groups to see which Group has the most clear Channels and which of these Channels are clear.

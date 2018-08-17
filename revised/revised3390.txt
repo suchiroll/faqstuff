@@ -1,0 +1,14 @@
+Title: Can a heart pacemaker cause interference with a wireless microphone?
+Id: 3390
+Legacy Id: 3578
+
+Question:
+Our church has a wireless microphone. Recently we have been hearing an occasional low pitch noise that sounds like our priest is bumping the lavalier microphone, but he isn't. About the same time the noise started, our priest had a pacemaker implant. I was wondering if you have any knowledge of a heart pacemaker causing this kind of noise with your wireless microphones? I thought maybe the noise might be happening when the diversity receiver switched antennas but I have experimented with the system and have not been able to hear the noise when the lights show the switch.
+
+
+Answer:
+
+	It is feasible, though we do not have proof.The pacemaker is an electronic device, powered by a DC source.The current draw of a pacemaker is not constant; the current draw increases and decreases as the device operates.This current surge will produce a low level electro-magnetic field that could induce a noise into the mic or into the wireless transmitter.
+	
+	Recommend moving the transmitter to the right side of the body (a pacemaker is normally installed in the left shoulder region) and changing the mic to a miniature head worn one, like the Shure MX153.
+

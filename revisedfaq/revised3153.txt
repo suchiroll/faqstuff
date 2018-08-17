@@ -1,0 +1,11 @@
+Title: "Burning in" earphones or "breaking in" earphones
+Id: 3153
+Legacy Id: 3291
+
+Question:
+Is it necessary to "burn in" or "break in" Shure earphones?
+
+Answer:
+
+	Shure earphones do not require a break-in period. Some headphone websites recommend burning in or breaking in new headphones with an audio signal for some length of time before use. There is some truth behind the idea of a break-in period for loudspeakers and even full-size headphones. The part of the loudspeaker being broken in is called the surround, which is the part that flexes when the speaker diaphragm moves in and out. In the case of the tiny drivers used in earphones, the diaphragm only moves about 1/1,000th of an inch in either direction when exposed to normal signals. It is doubtful that a break-in period would significantly alter the compliance of the driver. Shure has not measured any difference in performance between earphones that are brand new and earphones that have been used extensively. Because hearing is subjective, however, different users may hear different things when comparing new and used earphones.
+

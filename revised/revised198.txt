@@ -1,0 +1,14 @@
+Title: M267 binding post output
+Id: 198
+Legacy Id: 199
+
+Question:
+I have been looking for an answer to the mysterious binding post "output". How do I wire it? And how does that work? And why the binding post? Can I use the binding post and convert that into another set of output? Please kindly advise.
+
+
+Answer:
+
+	The M267 binding post output is commonly used in remote broadcasting for driving telephone lines via a telephone interface. The binding posts are equivalent to pins 2 and 3 of the M267 XLR output. The binding post signal is line level and rated at 600 ohms. Binding posts have been favorites of broadcast engineers for many years as they can handle bare wires as well as banana plugs.
+	
+	You can use the XLR output and the binding post output simultaneously if desired. With the XLR output set to Line Level, it is in parallel with the binding post output.
+

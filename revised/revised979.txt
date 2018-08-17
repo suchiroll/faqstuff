@@ -1,0 +1,31 @@
+Title: Shure Vocal Master PA speakers
+Id: 979
+Legacy Id: 1008
+
+Question:
+What is the impedance of the Shure Vocal Master column speaker?
+
+
+The information printed on the rear sticker of one I'm working with says:
+
+
+45739 300 OHM 1.25a hr190 4475
+
+
+The Vocal Master PA head that goes with these speakers is toast. It is beyond repair, and has been checked out by a qualified, experienced bench tech here in St. Louis.
+
+
+I want to advise the current owner what new amplifier to purchase.
+
+
+In order to make a recommendation about a new power amp, I need to know the
+
+impedance of each of the column speakers.
+
+
+Can you please help?
+
+
+Answer:
+
+	The VA300-S has an impedance of 16 ohms. The VA301-S has an impedance of 32 ohms.

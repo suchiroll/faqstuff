@@ -1,0 +1,19 @@
+Title: Interface Cables for ST3500/ST350 Teleconferencing Systems
+Id: 2334
+Legacy Id: 2420
+
+Question:
+Where can I purchase Interface Cables for ST3500/ST350 Teleconferencing Systems?
+
+
+Answer:
+
+	L-Com Connectivity Products
+	Andover, Massachusetts
+	Sales:1-800-341-5266
+	www.L-com.com
+	
+	Order the TDC003-**
+	
+	** designates available lengths like 7,14, and 25 foot lengths. For example: TDC003-25 is 25 foot.
+

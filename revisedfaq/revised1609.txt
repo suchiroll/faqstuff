@@ -1,0 +1,14 @@
+Title: Low end frequency response of UHF wireless system
+Id: 1609
+Legacy Id: 1665
+
+Question:
+What is the frequency response of your UT wireless units, specifically on the lower end? Is it below 100 Hz?
+
+
+Answer:
+
+	According to the UT User Guide, the UT series frequency response is 20 Hz to 16,000 Hz, +/- 3 dB.
+	
+	If you want to use the UT system (or any wireless system) for bass guitar, please audition it first using your bass and your amplifier. Wireless systems typically never sound as a good as a cable for bass guitar.
+

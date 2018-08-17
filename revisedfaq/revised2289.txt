@@ -1,0 +1,11 @@
+Title: Will phantom power damage the LX4 receiver?
+Id: 2289
+Legacy Id: 2371
+
+Question:
+Is it safe to use an LX4 receiver with a mixing console that has its global phantom power turned on?
+
+
+Answer:
+
+	Yes.  The LX4 will not be damaged.

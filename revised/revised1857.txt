@@ -1,0 +1,14 @@
+Title: Mic for Intel teamstation
+Id: 1857
+Legacy Id: 1917
+
+Question:
+I need a replacement microphone for our Intel Teamstation. It is a Shure omnidirectional microflex microphone with a mini stereo jack connector and about 2 meters of wire. It does not have a model number at the back except # 700623-002. Do you carry this microphone still?
+
+
+Answer:
+
+	Shure no longer makes a special version for Intel. But Shure still offers the standard Microflex mics.
+	
+	You might find a standard Microflex model that looks just like your model. You will have to have the mini-stereo plug soldered to the cable as that was a special feature requested by Intel.
+

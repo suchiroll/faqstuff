@@ -1,0 +1,25 @@
+Title: ULXS4 or ULXP4 receiver and remote mixer - audible hum when connected
+Id: 3670
+Legacy Id: 3879
+
+Question:
+I have a ULX4 receiver that is not rack mounted. It is connected to a mixer that is 100 feet away. I am using the ULX4 XLR output and a balanced input on the mixer, but I still have a low level of audible hum. What could be the cause and the solution?
+
+
+Answer:
+
+	SITUATION 
+	The ULX4 receiver is sitting on a shelf, therefore not mounted in a grounded metal rack. A long audio cable (over 100 feet or 30 meters) connects the active-balanced, mic-level, XLR output to a balanced, mic-level, XLR input on a mixer. The AC grounds of the receiver and the mixer are different, so there is current flow on the interconnecting audio cable shield, inducing hum into the cable's inner conductors.
+	
+	
+	POSSIBLE SOURCE OF THE PROBLEM
+	The ULX4 receiver power supply has a two prong AC plug. This type of power supply often has a small value internal capacitor that connects to one side of the AC line in order to reduce Electro-Magnetic Interference from the switching power supply.  This capacitor can allow a very small amount of current to leak onto the ULX4 chassis; the amount of current is not a hazard, but can be the source of audible hum.  If the ULX4 is mounted in a metal rack, and the rack is AC grounded, this leakage current will be drained to AC ground.  But in this case, the ULX4 is sitting on a shelf and there is no path to AC ground.
+	
+	POSSIBLE SOLUTIONS
+	a) Mount the ULX4 in a grounded metal rack or ground the ULX4 chassis to a nearby AC outlet.  This will provide a ground path for any leakage current.
+	
+	b) On the female XLR connector at the ULX4 receiver, disconnect the cable shield from pin 1 and, if necessary, from the XLR shield-can grounding lug. This will eliminate the current flowing on the audio cable shield.
+	
+	c) At times, a transformer-balanced output can provided a better hum solution than an active balanced output.  Connect a Shure A95U transformer to the 1/4" phone jack output of the ULX4 receiver and use this transformer-balanced XLR output instead of the ULX4 active-balanced XLR output.  Solution "b" may also be required for the female XLR connector mated to the A95U.
+	
+	d) Use the ULX4 XLR output and set it to Line level.  Adjust the mixer input accordingly to handle the Line level signal.  This will improve the signal-to-noise ratio, but may not completely eliminate the hum.

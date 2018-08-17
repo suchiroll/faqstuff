@@ -1,0 +1,33 @@
+Title: X2u and Adobe Audition
+Id: 3705
+Legacy Id: 3933
+
+Question:
+Do you have any hints on how to use the X2u with Adobe Audition recording software?
+
+
+
+Answer:
+
+	
+		Connect the Shure x2U Device or USB mic to a Powered USB port.
+	Launch Adobe Audition.
+	
+		Choose Options  Device Order.
+	
+		Select the Recording Devices Tab.
+	
+		Under "unused recording devices" on the left, select Shure Digital and then click the Use button. This will move the device to the right. You can change the order once it is on the right to make Shure Digital the first device in the list.
+	
+		Select the Playback Devices Tab in the same window.
+	
+		Highlight Shure Digital and select Use to move it to the right.
+	
+		Click "OK".
+	
+		In Multitrack view, Click the In 1 button to see a list of devices and make sure Shure Digital is selected.
+	
+		Click Record Enable (Red R) and then start recording.
+	
+		To use the device in Single Track (Edit View), in the Options  Device Order panel, be sure to click the "Use in EV" button once the device is moved to the right. This will put an "EV" next to Shure Digital and enable it for use in Edit View.
+

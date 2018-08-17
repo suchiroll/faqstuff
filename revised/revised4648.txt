@@ -1,0 +1,11 @@
+Title: DIS MU 6040 D: Connecting a standard XLR microphone.
+Id: 4648
+Legacy Id: 5807
+
+Question:
+We have an MU 6040 D. We would like to connect a regular microphone to this unit instead of the DIS goosneck microphones. How can we accompish this?
+
+Answer:
+
+	This is possible, but it requires a few additional components from Radio Design Labs. See the attached PDF for details. 
+

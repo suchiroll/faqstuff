@@ -1,0 +1,19 @@
+Title: Cable for 819 microphone with PictureTel
+Id: 1573
+Legacy Id: 1628
+
+Question:
+We are trying to locate a part number and source for the 3 pin cable used on the PictureTel version of the 819 microphone. We have asked PictureTel support, but have not received an answer. It's a 3 pin female to 3 pin female cable about 3 feet long, but we'll take a longer one if available.
+
+
+Answer:
+
+	A modified version of the C107 cable can be used with the 819 and PictureTel systems.
+	
+	How is this modified cable different from a standard Shure C107 cable?
+	
+	The shield is only connected to pin 1. It is not connected to the connector strain relief (which is chassis ground). If a standard C107 is used, interference will appear in the PictureTel video signal.
+	
+	A C107 can be modified to PictureTel specifications by cutting the cable shield portion that is connected to the connector strain relief. This modification should be done on both cable ends.
+	
+	A C107 cable can be purchased from our Parts Department at 800-516-2525.

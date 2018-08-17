@@ -1,0 +1,19 @@
+Title: Does the KSM32 have a large diaphragm?
+Id: 114
+Legacy Id: 114
+
+Question:
+Is the KSM32 a large diaphragm microphone or small?  I've heard both...
+
+
+Answer:
+
+	What does large diaphragm mean?
+
+	Some individuals confidently (but arbitrarily) say a large diaphragm must have an inner diameter measuring one inch or more. Although, subjectively speaking, a one-inch diaphragm is relatively large; this benchmark has no basis in acoustical theory or practice. There is a more scientific method that helps give definition to what large means. Scientifically, a diaphragm could be considered large if its diameter is as large as the wavelength of the highest frequency it is intended to reproduce. The wavelength of 20kHz is .678 inches under normal atmospheric and temperature conditions. Therefore by definition any diaphragm which measures .678 inches (approx. 11/16 or 17mm) or greater is large.
+
+	Does the KSM32 have a large diaphragm?
+
+	The KSM32 has a large, .750 inch (3/4) diaphragm. Shure developed a diaphragm of this size to take advantage of its performance benefits over an even larger sized diaphragm. These include extended high frequency response, improved linearity and more consistent polar response at high frequencies. In addition, Shures special embossing process has captured the salient benefit of some larger capsules -- a more highly compliant diaphragm that provides extended low frequency reproduction. By combining a .750 diaphragm with embossing technology, the KSM32 is able to provide rich, smooth lows and balanced reproduction of any source without sacrificing clarity.
+
+

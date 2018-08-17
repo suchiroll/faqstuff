@@ -1,0 +1,17 @@
+Title: U1 and U2 power lock not working?
+Id: 582
+Legacy Id: 594
+
+Question:
+Model U124D/.  One hand held power lock works, one does not. One lav power lock works, one does not. Is it something I am doing?
+
+Answer:
+
+	The power lock feature on every U series transmitter works the same. Here is a test to try on each transmitter:
+	
+	1. Cancel the Power On Lock function by removing the batteries. Then replace the batteries.
+	2. Power on the transmitter.
+	3. Press and hold the SET button, then press and hold the MODE button.
+	4. Hold both buttons down until "PoL" appears in the LCD display. The transmitter is now locked on.
+	
+	If you cannot do this on each transmitter, contact Shure Service at 800-516-2525 to obtain details on returning the defective transmitter for repair.

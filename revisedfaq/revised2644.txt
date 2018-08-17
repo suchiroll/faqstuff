@@ -1,0 +1,12 @@
+Title: P4HW Cable Length
+Id: 2644
+Legacy Id: 2746
+
+Question:
+What is the length of the attached P4HW cable?
+
+
+Answer:
+
+	From the P4HW cable entry to the end of the XLR connector: 9 feet, 6 inches (3.8 meters). 
+	From the P4HW to the cable split point is 6 feet (72 inches.)

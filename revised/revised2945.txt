@@ -1,0 +1,11 @@
+Title: Low cost RF amplifier to boost antenna signal
+Id: 2945
+Legacy Id: 3072
+
+Question:
+I need to remote the antennas for a UT wireless system. The cable is already installed and I calculate that the signal loss in the cable will be about 18 dB because RG58 was used. I need a very low cost RF amplifier as the client has little money to spend. Is there an alternative to using a Shure UA830WB?
+
+
+Answer:
+
+	As of April 2004, Radio Shack offers a wideband "bidirectional cable TV amplifer", model 15-1195, that may work satisfactory for this application. This 75 ohm amplifier has adjustable gain, requires a local source of AC power, and uses F connectors. Though likely not as robust as RF amplifiers made for the professional audio industry, this Radio Shack RF amplifier will likely work for your basic installation.

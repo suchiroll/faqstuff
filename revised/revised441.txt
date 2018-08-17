@@ -1,0 +1,35 @@
+Title: 60hz buzz when FP410 connected to AC power
+Id: 441
+Legacy Id: 450
+
+Question:
+Model # FP410
+
+Output mic-level (either output) to a Digital camera (Canon Optura Pi)
+
+When I plug in the AC line cord to the mixer, I get a 60hz buzz. I have a set of headphones plugged into the camera for monitoring.
+
+If I JUST BARELY plug the FP410 AC line cord in, more specifically, just have the ground pin touch the ground lug in the AC outlet (with no AC-power contacted), I get a nasty buzzing through the headphones.
+
+If I unplug the AC line cord, (running on battery) the buzz goes completely away.
+
+Also, if I have the FP410 on AC, but unplug the AC-DC-converted power from the camera (run IT on battery), the buzz disappears.
+
+Am I getting a ground-loop here?
+
+Both AC line cords are plugged into the same duplex outlet/circuit.
+
+I have a "homemade" XLR-1/8" cable running from the mixer to the camera. Would this be the culprit, and if so, what would the schematic look like for a "good" cable? this one I just tied ?the correct? pins together. I have seen a schematic for one that had resistors/etc in the circuit.
+
+Any help would be appreciated. We have a show coming up next week we will need to use this equipment heavily for.
+
+
+Answer:
+
+	Here are answers to your questions.
+	
+	Am I getting a ground-loop here? Yes.
+	
+	Would this be the culprit, and if so, what would the schematic look like for a "good" cable? Use a cable with two inner conductors and a shield. Inner conductor #1: XLR pin 2 to 1/8" plug TIP. Inner conductor #2: XLR pin 3 to 1/8" plug SLEEVE. Shield: XLR pin 1 and no connection at the 1/8" plug.
+	
+	If this does not solve the problem, then you will need a balancing transformer at the input of the camera.

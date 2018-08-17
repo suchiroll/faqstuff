@@ -1,0 +1,11 @@
+Title: WH20 replaces WH10?
+Id: 1469
+Legacy Id: 1522
+
+Question:
+I have a headset with a WH10 mic and need to replace the mic. Can I go with a WH20 instead?
+
+
+Answer:
+
+	Yes, just make certain the new WH20 has the same connector at the end of the cable as your WH10.

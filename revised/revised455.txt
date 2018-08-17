@@ -1,0 +1,16 @@
+Title: Microphones for a permanent semi-professional bandroom situation
+Id: 455
+Legacy Id: 464
+
+Question:
+I am looking to set up permanent recording facilities in my bandroom, a British style brass band (upward and forward facing instuments with percussion). I would be able to hang mics from the ceiling if necessary. The facilities need not be to studio and professional standard, but good enough for an output for recording and playback for the band to listen to. The room is very dead and around 15 feet by 35 feet. What sort of mics should I use?, and how many of them. Our price range would go up to around £750 (English). I have a 8 track mixer so this is no problem. Thanks in anticipation.
+
+
+Answer:
+
+	We suggest a two microphone stereo recording. Consider using two SM81 microphones, mounted with two A53M shock mounts, connected to one A27M stereo mic adapter, held in the air by one S15A five-meter high stand.
+	
+	Toviewall the microphones that we recommend for stereo recording, see our online Selection Guides.
+	
+	To read more about two mic stereo techniques, please see Microphones Tehcniques for Music - Studio Recording at: Educational Booklets
+

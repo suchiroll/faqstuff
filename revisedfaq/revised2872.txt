@@ -1,0 +1,12 @@
+Title: Preamp for WCE6 or WCB6 Mic
+Id: 2872
+Legacy Id: 2986
+
+Question:
+Which preamp should I use with the WCE6 mic or WCB6 mic to use either as a wired mic?
+
+
+Answer:
+
+	Use the Shure MX1BP preamp.
+

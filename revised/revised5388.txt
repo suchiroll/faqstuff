@@ -1,0 +1,17 @@
+Title: Clear Sealing Tape on Shure Product Boxes
+Id: 5388
+Legacy Id: 5547
+
+Question:
+Clear Sealing Tape on Shure Product Boxes
+
+Answer:
+
+	As of March 2014, Shure is using a clear tape to seal boxes. This tape has the following text:
+	
+	IF THIS CARTON OR TAPE IS DAMAGED, NOTE ON DELIVERY RECEIPT BEFORE SIGNING FOR THE SHIPMENT.
+	
+	This message is printed in multiple languages along the length of the tape. Each language section is about 70 mm in length. In addition to English, there is Spanish, Chinese, Korean, German, and others. The languages are evenly spaced along the entire length of the tape roll.
+	
+	It is feasible that the language on the tape will change from one Shure box to the next as it depends upon the exact length of tape used to seal the box.
+

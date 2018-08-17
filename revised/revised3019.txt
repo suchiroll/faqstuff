@@ -1,0 +1,24 @@
+Title: Models C606W, 8900W, 100WD
+Id: 3019
+Legacy Id: 3148
+
+Question:
+Please provide information about the wired microphone models C606W, 8900W, and 100WD. I see these mics at Apple Stores.
+
+
+Answer:
+
+	Note: The information below was posted December 2004.
+	
+	Apple Stores carry only one Shure microphone model: the 100WD. The package includes a small folding tripod desk stand. The Apple Stock Keeping Unit (SKU) for the 100WD is TA978LL/A.
+	
+	Other electronic retailers may carry one or more of the other models.
+	
+	Suggested U.S. retail prices are:
+	
+	C606W: $29.95
+	8900W: $39.95
+	100WD: $49.95
+	
+	See the attached PDF file for more information.
+

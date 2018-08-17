@@ -1,0 +1,23 @@
+Title: Rechargeable Lithium Nine Volt (9V) Batteries
+Id: 3269
+Legacy Id: 3424
+
+Question:
+Does Shure recommend any rechargeable lithium 9V batteries for use in wireless mics or in-ear receivers?
+
+
+Answer:
+
+	Shure has tested rechargeable lithium batteries from:
+
+	iPowerUS
+	http://www.ipowerus.com
+	Toll-free in US: 866-436-4400
+	Telephone: 416-269-4400
+
+	The model C2 battery was tested in a Shure ULX transmitter and provided an average of 9 hours of operation. The C2 charged to 8.3 volts. When placed under load by the ULX transmitter, the voltage fell to 7.7 volts, but held steadily above 7.0 volts for nearly nine hours. Around nine hours, the voltage finally dropped below 7.0 volts and the ULX transmitter ceased to operate.
+
+	NOTE #1: The physical dimensions of a rechargeable battery can vary slightly from a non-rechargeable battery. Shure products are designed using the dimensions of non-rechargeable batteries as this battery type is widely available. It is feasible that a rechargeable battery may not fit properly into the battery compartment of a Shure product. If this situation is encountered, contact the maker of the rechargeable battery.
+
+	NOTE #2: Using a voltmeter, measure the voltage ofthe fully recharged lithium battery. If the voltage is above 9 Vdc, the ULX transmitter may not operate properly. For more details, read this link: ULX and rechargeable batteries
+

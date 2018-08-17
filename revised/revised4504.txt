@@ -1,0 +1,20 @@
+Title: VP83F recording issue with SD card
+Id: 4504
+Legacy Id: 5618
+
+Question:
+I recently purchased the VP 83F and have been experiencing issues recording to memory card. I have a 16GB micro SD card in the mic. The recordings go fine, and will last for 2 hours but the card will not allow the mic to record more then 1.9 GB of audio to it. I get an error message on the mic that the card is full, when it still has plenty of space. In this past instance it only allowed me to capture 900MB of data before I received that error message. The card appears to work fine elsewhere, so I”m not sure what to do. I’ve tried every setting on the mic and nothing seems to work. Is this a known issue?
+
+Answer:
+
+	We suggest trying a different 16GB card or returning the VP83F to Shure Service for analysis/testing/replacement if required.
+	
+	Customer responded:
+	I tested the defective 16GB card in another device and it recorded over four hours straight. I tested a new 4GB card in the Shure and it recorded over 3 hours straight, so both are functioning. I dont know why that particular 16GB card wont work in the mic. Ill buy another SD card.
+	
+	Shure responded:
+	Thank you for the follow-up.Our tests also indicate that not all SD cards perform as advertised.Thus trying a different SD card from a different manufacturer is the first step in troubleshooting an issue with the VP83F.
+	
+	Customer reported:
+	A SanDisk Micro Card worked well in the VP83F. A Sanyo Transcend 16GB Micro SD did not work properly.
+

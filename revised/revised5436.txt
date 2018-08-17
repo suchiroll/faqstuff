@@ -1,0 +1,22 @@
+Title: Shure SRC-1 Slide Rule
+Id: 5436
+Legacy Id: 6384
+
+Question:
+I found a Shure SRC-1 Slide Rule from 1975. Please provide details.
+
+Answer:
+
+	The SRC-1 provided five calculations:
+	
+	1) Reverberation Time using the Sabine equation
+	2) Reverberation Time using theNorris-Eyring equation
+	3) Reverberation Time using the Fitzroy equation
+	4) Microphone output/rating
+	5) Attenuation pad resistor values
+	
+	See below for a PDF of the User Guide.
+	
+
+	
+

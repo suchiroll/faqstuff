@@ -1,0 +1,13 @@
+Title: Can I use one computer to control a DP11EQ and DFR11EQ at the same time?
+Id: 132
+Legacy Id: 132
+
+Question:
+The DP11EQ and DFR11EQ seem like two very useful products that I would use together at the same time in staging many of my live events. Is there a way to connect them both to one computer so I can monitor their operation at the same time? Do you have plans to incorporate both sets of circuitry into one "super" unit to make it easier to transport, set-up, operate and monitor? A single unit would save me from having to buy two computers for simultaneous operation.
+
+Answer:
+
+	A single computer can control up to 16 devices (any combination of DP11, DFR11, P4800 or UA888). But, the software can only be connected to one device at a time. So, if you want to switch from the DFR to the DP, from within the DFR software you can choose the DP11EQ. The software would then quit linking (disconnect) to the DFR11EQ and begin linking (connect) to the DP11EQ. If both pieces of software are already open on the computer, this change would take just a few seconds.
+
+	If your computer has multiple COM ports, then you would be able to run the software and devices simultaneously by connecting the DFR11EQ and DP11EQ to different COM ports on the computer. On a laptop it is possible to expand the number of COM ports by using USB devices.
+

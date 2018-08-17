@@ -1,0 +1,14 @@
+Title: Neutrik XLR Connector to control RFI
+Id: 3490
+Legacy Id: 3689
+
+Question:
+I have heard the Neutrik offers a female XLR connector that has RFI protection/ What is the model number?
+
+
+Answer:
+
+	The model is NC3FXX-EMC.
+
+	http://www.neutrik.com/fl/en/audio/210_1822126843/NC3FXX-EMC_detail.aspx
+

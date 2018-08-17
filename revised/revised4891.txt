@@ -1,0 +1,13 @@
+Title: Motiv MV51 audio playback with iPad
+Id: 4891
+Legacy Id: 6149
+
+Question:
+I'm using the mv51 with my iPad. I can only hear playback from the iPad loudspeaker if I disconnect the mic. Is that normal?
+
+
+Answer:
+
+	Yes, this is normal.  Once connected to the iPad, the MV51 becomes the input device and the output device for any apps that use audio (ShurePlus Motiv, Camera in video mode, Voice Memos, GarageBand, etc).  You may listen through headphones connected to the 3.5mm headphone output on the back of the MV51, but the iPad’s internal speaker is disabled while the MV51 is active.
+	
+	When used with a PC or Mac, you may specify input devices and output devices in the computer’s Sound Settings.  As an example, you could select the MV51 as the recording device and the computer’s speakers for playback.  Be cautious of feedback loops if the mic is proximate to the loudspeakers.

@@ -1,0 +1,20 @@
+Title: Preventing vandalism to MX393 switch
+Id: 1225
+Legacy Id: 1271
+
+Question:
+We use a number of MX300 Boundary Microphones and we love them. However, as our students veg out in the distance ed classroom they have his nasty habit of picking at the membrane on/off switch, separating the membrane from the mic. Any thoughts on how we can discourage this behavior? Thanks!
+
+
+Answer:
+
+	We like the idea of 10,000 volts at 1 amp applied to the switch to discourage this juvenile behavoir...just kidding.
+	
+	Consider the MX391 series if you do not require the on/off switch.
+	
+	With the MX391, you could add a custom switch mounted in the desk next to the microphone. The custom switch could be as vandal proof as you want.
+	
+	But if the on/off switch is essential to the system operation, the MX392 or MX393 is the proper choice. Or you could change to durable fast food restaurant microphones like the Shure 515 series.
+	
+	As misery loves company, it may help you to know that molesting MX microphone switches is also a popular pastime with politicians on Capitol Hill.
+

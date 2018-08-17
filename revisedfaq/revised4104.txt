@@ -1,0 +1,12 @@
+Title: Microphone MC11F
+Id: 4104
+Legacy Id: 4742
+
+Question:
+I came across a microphone element that is a MC11F model. Please provide any information available.
+
+
+Answer:
+
+	The MC11F was a minor variation of the MC11J.The MC11 microphone can be viewed in the Shure 1961 catalog. Vintage Shure catalogs are available here: Vintage Catalogs
+

@@ -1,0 +1,27 @@
+Title: Use of two SM57's at a lectern
+Id: 2343
+Legacy Id: 2430
+
+Question:
+I have noticed that when the U.S. President speaks at a lectern he uses two SM57's with windscreens. Why two? Are they mixed together? Is there any kind of phase problem with two mics so close together. Where do you get the adapter that they use. Is this a superior way to mic a podium? I do a lot of podium setups with video and I am always looking for a better way, is using two SM57's the best way?
+
+
+Answer:
+
+	Why two?
+	* Redundancy in case of failure.
+	
+	Are they mixed together?
+	* No. Typically one feeds PA; one feeds press/broadcast. If either fails, the other can be immediately called into use.
+	
+	Is there any kind of phase problem with two mics so close together?
+	* No, because they are not mixed together.
+	
+	Where do you get the adapter that they use?
+	* It is built by Shure for the White House. You can purchase one directly from Shure by calling 847-600-8440. The model is VIP55SM.
+	
+	Is this a superior way to mic a lectern?
+	* It works well for the needs of the White House. The SM57 was first used by the Johnson administration in 1966.
+	
+	I do a lot of lectern setups with video and I am always looking for a better way, is using two SM57's the best way?
+	* The SM57 is a superb mic for lectern use. Doesn't the Presidential audio feed always sound great?

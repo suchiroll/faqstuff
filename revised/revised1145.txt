@@ -1,0 +1,23 @@
+Title: Dynamic and Condenser feedback differences
+Id: 1145
+Legacy Id: 1184
+
+Question:
+I was thinking of getting 4 or 5 SM86 microphones for our worship team. I was also going to use them to mic our small choir of about 20. My reasoning being since they are condensers they would get good enough gain to feedback ratio. Would this work good enough? Why or Why not?
+
+Answer:
+
+	There are no differences in the feedback characteristics of dynamic vs condenser.
+	
+	More information:
+	
+	Feedback: Fact and Fiction - How do I fix my feedback problem?
+	
+	Microphone Techniques for Music - Sound Reinforcement (Differences between Condenser and Dynamic)
+	
+	Understand Feedback using Math
+	
+	Search FAQ for Feedback
+	
+	Search FAQ for Choir
+

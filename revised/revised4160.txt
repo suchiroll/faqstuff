@@ -1,0 +1,14 @@
+Title: FP5 Receiver Power Requirements
+Id: 4160
+Legacy Id: 5071
+
+Question:
+I want to fabricate an external power supply for the FP5 receiver. What are the power requirements?
+
+
+Answer:
+
+	Voltage: 3 Vdc
+
+	Current draw: 170 mA with LCD display illuminated; 135 mA with LCDdisplay dark.
+

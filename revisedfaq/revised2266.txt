@@ -1,0 +1,17 @@
+Title: Miking a banjo and small guitar
+Id: 2266
+Legacy Id: 2347
+
+Question:
+I was thinking of getting a Beta 98/S to mic my banjo and papoose (little guitar.) Would this be the best mic or should I opt for something else? Mobility is not too demanding, meaning wireless is not necessary.
+
+
+Answer:
+
+	Any reason you have to mount the mic on the instrument? This leads to lots of mechanical noise being transferred into the microphone.
+	
+	We suggest a flat response condenser mic (KSM137; SM81; SM94) mounted on a floor stand. Then the only connection between the mic and the instrument is acoustical.
+	
+	
+	To see which microphones we recommend for acoustic guitar, see our online Selection Guide at: Which microphone should I use on ... ? (Selection Guides)
+

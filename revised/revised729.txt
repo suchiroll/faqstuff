@@ -1,0 +1,17 @@
+Title: SCM268 rack ears
+Id: 729
+Legacy Id: 748
+
+Question:
+I have an SCM268 that has been used as a table top unit for some time.  If I decide to rack mount it is there a kit available for this?
+
+Answer:
+
+	The SCM268 comes with all of the rack hardware needed. If you have lost the original rack hardware, you can order new ones from our Parts Department at 800-516-2525.
+	
+	You would need to order one piece of each of the following:
+	
+	#53A8484
+	#53B8484
+	#90AA8100
+

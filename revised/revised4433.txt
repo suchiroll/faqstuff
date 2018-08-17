@@ -1,0 +1,12 @@
+Title: SM7B wobbles on a mic stand
+Id: 4433
+Legacy Id: 5532
+
+Question:
+I mounted an SM7B on a desk stand, but it does not fasten tightly. It wobbles. What is the solution?
+
+
+Answer:
+
+	For the SM7B to fasten tightly to a mic stand, there must be 7 mm (3/8)of external (male) thread exposed on the mic stand. If there is a retaining ring on the mic stand thread, remove it and this will typically expose about 10 mm of male thread. Then SM7B collar will then have enough mic stand thread to eliminate the wobble.
+

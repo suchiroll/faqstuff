@@ -1,0 +1,17 @@
+Title: GLX-D Battery - First Charging
+Id: 4667
+Legacy Id: 5834
+
+Question:
+Any hints on when I first charge the GLX-D battery pack?
+
+
+
+Answer:
+
+	1) The first charge can take several hours or longer. We recommend an overnight charge.
+	
+	2) When the battery is inside of the GLX-D receiver, a green battery icon will illuminate to the left of the battery when it is ready.
+	
+	3) The battery charge state appears on the GLX-D receiver screen only when the battery is inside of the mic/transmitter and the transmitter is powered on.
+

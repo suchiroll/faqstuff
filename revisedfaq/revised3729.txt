@@ -1,0 +1,16 @@
+Title: SE535 vs. SE530
+Id: 3729
+Legacy Id: 3963
+
+Question:
+What are the sonic differences between the SE535 and the SE530?
+
+
+Answer:
+
+	The acoustical engine of the SE535 is almost the same as the engine in the SE530.The engine creates the acoustic energy.Sound leaves the engine, and then goes through an acoustic network between the engine and the ear.This acoustic network shapes the high frequency response.
+	
+	The SE535 has a refined acoustic network in the front section of the earphone.This is a change from the SE530 designand high frequency shaping.The result is a slight increase in clarity and a bit wider sound stage.Similar changes were also made to the SE425 that replaces SE420, but the SE425 high frequency change is more apparent.This is because the SE425 high frequency driver is paired only with one low frequency driver, while the SE535 high frequency driver is paired with two low frequencydrivers.
+	
+	We didnt change the sound quality of the SE530 too much, as it has been a customer favorite for the lastthree years. The changes made to the SE535 acoustic network resulted in a slightly more defined high end, but the overall signature and balance is very close to its predecessor.
+

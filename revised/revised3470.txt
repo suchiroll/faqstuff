@@ -1,0 +1,36 @@
+Title: Battery Guidelines - Help with selecting the proper battery type for your Shure product
+Id: 3470
+Legacy Id: 3667
+
+Question:
+Please provide basic guidelines on how to choose a battery for my Shure product.
+
+
+Answer:
+
+	All batteries are not created equal. Here are guidelines to assist in making the proper selection.
+	
+	Always check the rated current capacity of a battery.
+	- Current capacity is rated in milliamp-hours, abbreviated as mAh. The higher the number, the longer the battery will last. Check with the battery manufacturer if the mAh rating is not listed on the battery or its packaging.
+	
+	A battery labeled as Heavy Duty is really made for Light Duty.
+	- A Heavy Duty or General Purpose battery is only appropriate for a device that has a low current drain, like a wall clock. This type of battery typically has only 33% the current capacity of an alkaline battery. A Heavy Duty battery is not recommended for use in any Shure product.
+	
+	An alkaline battery is a good choice.
+	- A standard alkaline battery will perform well in a Shure product. The typical 9V alkaline battery is rated at 500mAh, where a Heavy Duty 9V battery will be rated at 200mAh or less.
+	
+	A super alkaline battery should last even longer than a standard alkaline.
+	- Check with the battery manufacturer to determine the mAh rating and compare it to a standard alkaline battery.
+	
+	A battery loses current faster as the voltage declines.
+	- A battery powered device requires power to operate. Power equals voltage times current. Example: a specific wireless transmitter requires 0.45 watts of power to operate. When the 9V battery is fresh, the current consumed by the transmitter is 0.050 amps (50 milliamps). When the battery voltage falls to 7.5 volts, the current consumed is 0.060 amps (60 milliamps). In this example, when the battery voltage drops by 17% (from 9V to 7.5V), current consumption increases 20% (from 50 mA to 60 mA).
+	
+	Alithium battery should provide the longest life.
+	- A lithium battery has a greater current capacity than an alkaline battery. A lithium battery will typically provide 20% to 50% more operation time.
+	
+	Rechargeable batteries have a mAh rating.
+	- Check with the battery manufacturer and compare the rating to a non-rechargeable battery.
+	
+	Buy batteries in quantity to obtain a lower cost per unit.
+	- An alkaline battery has a shelf life of five to seven years. Buying a large quantity of batteries at a discounted price should be considered. Private label batteries, such as Kirkland Signature sold by Costco, often will equal, or even out-perform, brand name batteries.
+

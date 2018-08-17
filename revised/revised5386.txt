@@ -1,0 +1,75 @@
+Title: Speech Intelligibility in Worship Spaces
+Id: 5386
+Legacy Id: 5502
+
+Question:
+Speech Intelligibility in Worship Spaces
+
+Answer:
+
+	The natural (more accurately, architectural) reverberation found in many houses of worship helps acoustic music to sound fantastic. Traditional sanctuaries with high, soaring ceilings and hard, reflective surfaces lend power to music, especially the pipe organ and choir for which they were designed.
+	
+	Unfortunately, the very qualities that enhance cathedral music stand in direct opposition to clarity of speech.Spoken language loses its intelligibility - the ability to be clearly understood - when the listener hears multiple versions of the same audio image reaching the ear at different times. This is important in a house of worship, since the entire point of a service is the delivery of the message.
+	
+	Imagine a group of photographers shooting the same subject, all from different angles and distances. Viewed individually, each photo would be perfectly clear, but seeing them all at once on the same screen would be a disaster. The images would interfere with each other, making it very difficult to perceive the subject clearly, resulting in a meaningless visual cacophony.
+	
+	The same idea applies to sound. As the sound bounces off reflective hard surfaces, it reaches the listeners ear at slightly different times. Each reflection is clear on its own, but heard together they present a confusing audio signal that is difficult for the human brain to understand.
+	
+	There are no quick fixes to intelligibility issues caused by the room itself.Sound system redesign and acoustical treatments are generally required; both are expensive.However, there are techniques that can improve intelligibility. Doing something as simple as slowing down the rate of speech can improve matters.Here are practical techniques that can improve intelligibility.
+	
+	Microphone Intelligibility
+	
+	The microphone is the link to the sound system and, by extension, to the congregation. Poor microphone technique is a major cause of reduced intelligibility, so it pays to learn effective mic technique.
+	
+	When the microphone is attached to a lectern or podium, the speech level reaching the sound system changes - often drastically - every time the talker turns her head while speaking.No sound engineer can hope to anticipate these head and body movements. Maintaining a constant distance between microphone and mouth is the key to avoiding this problem, so the talker should learn to direct her speech at the microphone and keep a constant mouth-to-mic distance.
+	
+	Lapel microphones, also called lavalier mics, can be similarly problematic. When the talker turns his head, speech level at the mic (and thus, intelligibility) is reduced. To minimize this problem, the talker must turn his torso, not just his head - keeping his mouth centered over the lapel mic.
+	
+	Handheld microphones create a different set of challenges. Common problems include cupping the grille and holding the microphone under the nose. While those techniques may be common among rock stars and rappers, they are not recommended for clear communication of speech.
+	
+	Holding the microphone under the nose causes two significant problems - loud plosives (popping p sounds) that obscure the following vowel sounds, and breath noises from the nose and from the mouth. To address these problems, hold the mic by its handle, not the grille, and position it at the corner of the mouth. Plosives will disappear and intelligibility will improve.In some circumstances, intelligibility will improve if an omnidirectional mic element is used on the handheld wireless transmitter.
+	
+	Head-worn microphones are an excellent way to accomplish proper positioning. By placing the mic element at the corner of the mouth, speech level stays consistent regardless of head movement, while unwanted plosives and breath noises are avoided. A head-worn microphone also offers total freedom of movement.
+	
+	Stage Monitors
+	
+	Sound bouncing off the walls and ceiling creates intelligibility issues as can the use of a monitor loudspeaker (typically, a floor monitor) for the clergy.While some clergy love to hear themselves big and loud in the floor monitors, this actually degrades intelligibility.Here are two solutions:
+	
+	Try muting the floor monitors during spoken word portions of the service. This should be a simple matter for the sound engineer. It will require a slight adjustment by the talker, but will pay dividends in improved intelligibility for the congregation.
+	
+	An effective alternative to a floor monitor is a personal monitor system.Using in-ear monitors allows a talker to monitor at her preferred sound level without affecting intelligibility for the congregation.
+	
+	Sound System Considerations
+	
+	The most obvious source of intelligibility problems is the Public Address system.Any change to the sound system can have detrimental effects on intelligibility. According to Dr. Peter Mapp (www.petermapp.com), a highly respected expert in speech intelligibility issues caused by acoustics and sound systems, here are the top five considerations for intelligibility in house of worship sound systems:
+	
+	1. Direct-to-reverberant ratio. As discussed above, maximizing this ratio is critical for audio clarity.
+	2. Signal-to-noise ratio. In terms of intelligibility, any sound that is not the intended speech - the signal - is considered to be ambient noise. This would include background music as much as HVAC, fans, audience an environmental noises. For adequate intelligibility, the desired sound - the spoken word - should be at least 20 dB higher than the noise.
+	3. Appropriate frequency response. For intelligibility, the key range is roughly 200 to 6,000 Hz, preferably flat in the 400-4,000 Hz range.
+	4. Freedom from strong late reflections or echoes. This type of problem can be caused by large glass walls, parallel surfaces, domed ceilings, etc.
+	5. System must be free from audible distortion. There are many forms of distortion, from input clipping to hum, buzz, and the like.
+	
+	To maximize intelligibility, the loudspeakers must concentrate the sound directly on the congregation in order to avoid unnecessary reflections from walls and ceilings. In recent years, there have been great advances in sound system design that offer unprecedented control of loudspeaker directivity.
+	
+	Concert-style line array systems have become very popular, especially in churches with contemporary music presentations. These systems have advanced directivity characteristics, enabling designers to create a sound field that minimizes reflections from the walls and ceiling.
+	
+	More advanced is the steerable array. These tall, slender columnar systems use digital signal processing (DSP) to literally steer the sound across the seating area in a precise plane, drastically reducing unwanted reverberation. Steerable arrays are most effective in the speech ranges, making them an excellent choice in worship spaces that employ unamplified music.
+	
+	Another sound system design that eliminates unwanted reverberation and enhances intelligibility is the pew-back system. In this approach, small loudspeakers are attached to the backs of each pew, putting the sound source several feet away from each listener. The sheer number of loudspeakers and the wiring/power requirements make it an expensive option, but a pew-back system can be one of them most effective ways to promote speech intelligibility, and has the added advantage of keeping the line of sight to the altar free from distracting loudspeaker arrays.
+	
+	Conclusion
+	
+	The problem of poor speech intelligibility in worship spaces is not uncommon. The good news is that certain improvements can be made at minimal cost. While each space and sound system is unique, the principles of physics still apply. Proper loudspeaker placement, correct microphone technique, and the judicious use of technology will all produce noticeable improvements in intelligibility.
+	
+	Heres a final tip: When new sound systems are being considered, remember to specify the expectations for intelligibility of the spoken word (measurable via Speech Transmission Index Public Address or STIPA) along with the sound quality of the music and the speech. Measuring STIPA (Speech Transmission Index Public Address) is straightforward.A STIPA signal is played back through the sound system; it sounds much like an agitator washing machine.A STIPA meter analyzes the STIPA signal as heard in the worship space and provides an intelligibility rating:
+	
+	STIPA 0.35 unacceptableSTIPA 0.35 poorSTIPA 0.45 fair
+	STIPA 0.60 goodSTIPA 0.80 excellentSTIPA = 1.0 perfect
+
+	Its not enough for the teachings to be heard; they must be understood.
+
+	
+
+	Michael Pettersen - Director of Shure Applications Engineering
+	January 2014
+

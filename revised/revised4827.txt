@@ -1,0 +1,12 @@
+Title: CU 5905 Firmware v8.0.1 features
+Id: 4827
+Legacy Id: 6013
+
+Question:
+What happens when you install firmware version 8.0.1 on a CU 5905 central unit?
+
+
+Answer:
+
+	A CU 5905 central unit that has been updated to firmware version 8.0.1 adds some new features in the web browser control interface.There are separate browser addresses for an Administrator, the Chairman, and for Display of speaker information on external video monitors.Each of these pages can be assigned a password if desired to prevent unauthorized access.
+

@@ -1,0 +1,22 @@
+Title: Will Shure change or modify my 700 MHz wireless system?
+Id: 3519
+Legacy Id: 3721
+
+Question:
+I am in the United States and have a wireless system that operates in the 700 MHz band. Does Shure offer a program to modify my wireless system to operate below 700 MHz?
+
+
+Answer:
+
+	After June 2009, the 700 MHz band (698 MHz to 806 MHz) in the United States is no longer used for over-the-air television broadcast, and these frequencies have been reallocated and sold for new wireless communication services. These changes are mandates from the Federal Communications Commission.  This change to the 700 MHz band applies only within the United States.
+	
+	After June 12, 2010 it is illegal to use wireless systems in the 700 MHz band.
+	
+	The antennas and antenna distribution systems are not affected by this regulation. However, if you have narrow band antennas or antenna distribution, these devices may need to be changed for wide band devices or devices in a different band.
+	
+	Shure offered a rebate program to assist U.S. customers that own professional wireless audio systems in the 700 MHz band. The rebate program ran from December 1, 2008 until June 30, 2010. This rebate program has now ended.
+	
+	Shure does not offer a program to modify existing 700 MHz band equipment, as the Federal government has dictated that Shure can no longer modify or repair 700 MHz wireless systems.
+	
+	These frequency reallocations were dictated by the Federal government and have cost end users, as well as manufacturers, time and money. To express complaints about these reallocations, please contact your representatives in Congress:  http://www.usa.gov/Contact/Elected.shtml
+

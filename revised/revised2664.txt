@@ -1,0 +1,15 @@
+Title: SM81 bass roll-off switch - its use
+Id: 2664
+Legacy Id: 2768
+
+Question:
+What position on the low end roll-off switch should be used under what circumstances?
+
+
+Answer:
+
+	Flat position - recording of pipe organ or tympani or other very low frequency instruments
+	
+	Slight roll-off: most applications (where low frequency noise is not a problem)
+	
+	Steep roll-off: voice-overs; or situations where low frequency noise IS a problem

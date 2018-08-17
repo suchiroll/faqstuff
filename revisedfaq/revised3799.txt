@@ -1,0 +1,11 @@
+Title: VP88 Introduction Date and Capsules
+Id: 3799
+Legacy Id: 4037
+
+Question:
+I have recently acquired three VP88's that will be used mainly for drum overheads. Can you please tell me when the VP88 was introduced and what type of capsule it uses?Are the capsules based upon any other Shure mic?
+
+
+Answer:
+
+	Introduced in 1990.  Uses one cardioid capsule and one bi-directional capsule.  Both are based on the SM81 capsule.

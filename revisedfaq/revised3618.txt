@@ -1,0 +1,36 @@
+Title: 527B modification to provide a shorted audio output
+Id: 3618
+Legacy Id: 3824
+
+Question:
+I am installing the 527B push-to-talk (PTT) microphone into a paging system where the mic cable run will be several hundred feet. The mic input on the amplifier is balanced and will only have a single 527B connected to it. To reduce unwanted noise when the mic is not in use, I want the 527B mic output to be shorted (not open) when the PTT switch button is released. How do I rewire the mic?
+
+
+
+Answer:
+
+	A modification to the 527B microphone allows shunting the microphone audio line instead of opening the audio circuit. This will prevent any hum and buzz pick-up due to the routing of the microphone wiring to the amplifier.
+	
+	To open the microphone, remove three Phillips screws from the back side of the case. Separate the case halves.
+	
+	The red and black wires coming from the microphone curly cord should be left intact on the PTT switch terminals. These wires provide access to a set of spare contacts for operating a precedence circuit, keying a radio transmitter, etc. These wires are left in place and not changed.
+	
+	To modify the audio circuit for "shunt" operation as opposed to the factory default "open circuit" configuration, perform the following steps:
+	 
+	
+		Locate the Black wire that connects between the microphone element and the push-to-talk (PTT) switch terminals. Unsolder and remove this Black wire from the PTT switch terminal.
+	
+		Locate the Green wire coming from the microphone curly cord that connects to the PTT switch. Unsolder and remove the Green wire from the PTT switch terminal.
+	
+		Reconnect the Black wire to the PTT terminal that originally terminated the Green wire.
+	
+		Reconnect the Green wire to the PTT terminal that originally terminated the Black wire.
+	
+		Locate the White wire that connects to the "+" microphone element terminal. Add a jumper wire from the "+" white wire terminal to the unused PTT switch element.
+
+	
+	
+	Operation
+	
+	- When the PTT switch is up, the green and white wires are connected together - shorting the mic connection to the amplifier.
+	- When the switch is down, the microphone element black wire connects to the green wire. This connects the microphone element audio through to the amplifier.

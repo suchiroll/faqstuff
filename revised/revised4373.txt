@@ -1,0 +1,28 @@
+Title: SCM820 with Digital Feedback Reduction
+Id: 4373
+Legacy Id: 5464
+
+Question:
+When was Digital Feedback Reduction (DFR) added to the SCM820?
+
+
+Answer:
+
+	Beginning October 30, 2013, DFR functionality was included in SCM820 firmware version 1.1.X or higher. Previous versions -- 1.0.11 and earlier -- require a firmware update through the Shure Update Utility.
+	
+	The SCM820 DFR adds two channels of adaptive EQ filtering to improve gain before feedback in sound reinforcement systems. Features and functions include:
+
+	
+		Assignable to input channels and mix outputs
+	
+		Up to 16 filters per channel
+	
+		Up to 18 dB gain reduction per filter
+	
+		Automatic feedback detection and filter deployment
+	
+		Freeze feature locks depth and frequency of existing filters to avoid unwanted automatic changes
+	
+		Auto-clear on power cycle, or timeout, returns filter settings to a pre-defined state for the next event
+
+

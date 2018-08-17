@@ -1,0 +1,16 @@
+Title: Monitor mixing - How to set up.
+Id: 1517
+Legacy Id: 1571
+
+Question:
+I have four vocalist on the stage and they all want to hear the same mix. All that I want to do is send the four of them a mix I create from my aux 1 send from my board. The main question is from the aux 1 send connection on the board what does the single run look like in order that these four vocalist hear the same signal? Do I need additional equipment and is so what?
+
+
+Answer:
+
+	We will assume you are sending a mono feed from the board.
+	
+	Connect the Aux 1 Send to the PSM 600 transmitter; use the Left/CH 1 In. Set the switch on the front panel SOURCE to mono.
+	
+	Each vocalist will wear a PSM 600 receiver and earphones.
+

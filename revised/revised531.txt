@@ -1,0 +1,294 @@
+Title: UA888 and UA111 RS-232 codes to change Group/Channel
+Id: 531
+Legacy Id: 542
+
+Question:
+I want to control a UA888 with a Crestron control system. What are the RS-232 codes to change the Group and Channel on the receivers?
+
+
+Answer:
+
+	UA888 and UA111 RS-232 Change Group/Channel Commands
+	General Product description:
+	The UA888 network control device is a interfacing device that allows communication between a PC and the Shure UHF wireless receivers. This device will enable the end user to control and monitor UHF receivers from a remote location through a PC. Each UA888 supports eight (8) DB-25 connectors. Each DB-25 connectors can connect to a single UHF receiver or a dual UHF receiver. The UA888 communicates with the PC via a RS232 connection.
+	Signal Input section:
+	DB-9 RS-232 Connector Description:
+	
+		
+			
+				
+					PIN #
+				
+					SIGNAL
+				
+					DESCRIPTION
+				
+					DIRECTION
+			
+			
+				
+					1
+				
+					-
+				
+					-
+				
+					-
+			
+			
+				
+					2
+				
+					RD
+				
+					Data Received by PC
+				
+					Out
+			
+			
+				
+					3
+				
+					TD
+				
+					Data Transmitted by PC
+				
+					In
+			
+			
+				
+					4
+				
+					DTR
+				
+					Data Terminal (PC) Ready
+				
+					In
+			
+			
+				
+					5
+				
+					GND
+				
+					Ground
+				
+					-
+			
+			
+				
+					6
+				
+					DSR
+				
+					Data Set (UA888) Ready
+				
+					Out
+			
+			
+				
+					7
+				
+					RTS
+				
+					(PC) Ready To Send
+				
+					In
+			
+			
+				
+					8
+				
+					CTS
+				
+					(PC is) Clear To Send
+				
+					Out
+			
+			
+				
+					9
+				
+					-
+				
+					-
+				
+					-
+			
+		
+	
+
+	Communication Protocol:
+	3.1 Description of communication commands
+	All message bytes are hexadecimal unless stated otherwise. The spaces between bytes are to assist readability only. Text within " " describes that single byte.
+	3.1.8 Description of File Dump Header.
+	3.1.8.0 Header command must precede all file transfers from a PC to UA888. The use of Header, specific to UA888, is to select a particular U4 for data transfers (from PC to U4). For additional information about Header please refer to MIDI 1.0 specification. The Header for UA888 is as follows:
+	F0 7E "Switch ID" 07 01 20 42 49 4E 20 02 00 00 00 53 43 41 4E "U4 Address" 58 58 58 2E 53 45 54 F7
+	where:
+	"Switch ID" is for a specific UA888 with matching Switch ID.
+	"U4 Address" is the address of the U4 that receives Data Packets. The correspondence to a specific U4 of this address is tabulated below:
+	
+		
+			
+				
+					U4 Address (HEX)
+				
+					DB-25
+				
+					RX #
+			
+			
+				
+					00
+				
+					A
+				
+					1
+			
+			
+				
+					01
+				
+					A
+				
+					2
+			
+			
+				
+					02
+				
+					E
+				
+					1
+			
+			
+				
+					03
+				
+					E
+				
+					2
+			
+			
+				
+					04
+				
+					B
+				
+					1
+			
+			
+				
+					05
+				
+					B
+				
+					2
+			
+			
+				
+					06
+				
+					F
+				
+					1
+			
+			
+				
+					07
+				
+					F
+				
+					2
+			
+			
+				
+					08
+				
+					C
+				
+					1
+			
+			
+				
+					09
+				
+					C
+				
+					2
+			
+			
+				
+					0A
+				
+					G
+				
+					1
+			
+			
+				
+					0B
+				
+					G
+				
+					2
+			
+			
+				
+					0C
+				
+					D
+				
+					1
+			
+			
+				
+					0D
+				
+					D
+				
+					2
+			
+			
+				
+					0E
+				
+					H
+				
+					1
+			
+			
+				
+					0F
+				
+					H
+				
+					2
+			
+		
+	
+
+	3.1.8.1 A response to the above header must be acknowledge (ACK), as below:
+	F0 7E 20 7F pp F7
+	where pp (00) is the packet number which is undefined in response to a Header and must be ignored by the sender (PC).
+	3.1.10 Description of the U4 Control Packet.
+	3.1.10.0 Data packets following the File Header, described in 3.1.8 above, may be sent according to MIDI 1.0 spec. However, The number of data bytes in any packet may not exceed 16. The specific U4 Control Packet must be as follows:
+	F0 7E "Switch ID" 07 02 00 0F 00 2C 01 00 01 25 01 49 00 20 53 49 4E 47 48 20 6D F7
+	where:
+	F0 is the packet start header.
+	7E "Switch ID" 07 02 specifies that the Control Packet is for specific UA888 with matching Switch ID. Receiver address is defined in the Header.
+	00 is the packet number.
+	0F is number of encoded bytes minus 1.
+	00 is most significant bit masks of next 7 bytes.
+	2C is the command to U4 to accept control bytes.
+	01 is the set Group byte, here set U4 to Group 2.
+	00 is the set Channel byte, here set U4 to Channel 1.
+	01 here is to set the current display to show Frequency. (00 = Group and Channel displayed on the LCD and 02 = Name is displayed on the LCD).
+	25 here is to set the squelch to -2.0 (range between 0d-35h, where 0d is maximum setting and 35h is minimum).
+	01 is to unlock the U4 menu, 00 to lock.
+	49 is the ASCII byte for first letter in the name, "I" in this example.
+	00 is the most significant bit masks of next 7 bytes.
+	20 53 49 4E 47 48 20 are remaining 7 characters in the Name, "SINGH" in this example.
+	6D is the checksum from 7E up to previous byte (20).
+	F7 is end of message (EOX).
+	Click here for information on wiring a UA888 or UA111 to a Panja (AMX) or Crestron system.

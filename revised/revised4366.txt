@@ -1,0 +1,16 @@
+Title: Rycote Windjammer Fur and Maintenance
+Id: 4366
+Legacy Id: 5457
+
+Question:
+I have noticed some loss of fur from the Rycote windjammer used on my VP83. Is this normal?
+
+
+Answer:
+
+	Rycote windjammers are made from a synthetic fur and have are Pile backing rather than a Woven backing. The issue with fur shedding from a Windjammers is complex. Since 1985, Rycote has made the fur specifically so it has minimal High Frequency (HF) loss, while providing the best wind-noise reduction. Most fake fur is double-woven on the backing to stop the fur strands from shedding, but the Rycote is a Pile with a single weave. So the fur strands are pierced through the backing fabric weave (Pile) and then a light lacquer is applied to hold the fur strands. This keeps the fabric as acoustically open as possible and controls the fur density and strand lengths.
+	
+	The critical process is the lacquer - if too heavy the fur becomes like other woven backed fur and affects the HF; if too light the fur strands will shed easily. Unfortunately, this means that in some cases Rycote fur is prone to shedding when new. Rycote does try to minimize during manufacturing with a good old fashioned shake to remove most of the loose strands. However, sometimes this doesnt get it all. In rare cases, there can be too little lacquer applied.
+	
+	Caring for the Windjammer is key to maintain its wind-noise performance and limit unwanted HF loss. Combing it regularly is very important. When not in use, reverse the Windjammer so it is inside-out to keep it open and unmatted. For washing, use a mild detergent (suitable for hand washing) and a mild water temperature. Allow the Windjammer allowed to air dry. Do not use a clothes dryer or a hair dryer.
+

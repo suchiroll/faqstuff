@@ -1,0 +1,17 @@
+Title: Shielded ethernet cables when networking the VHF version of ULXD or QLXD
+Id: 5010
+Legacy Id: 6301
+
+Question:
+Is there anything special about ethernet networking the ULXD or QLXD in the VHF band?
+
+
+
+Answer:
+
+	Yes. Use shielded ethernet cables.
+	
+	The use of shielded ethernet cables is always a good idea, but when connecting ethernet cables to VHF band receivers, it becomes very important. Unshielded ethernet cables unintentionally radiate some signal in the VHF range, thus decreasing the pickup of a VHF wireless mic system. Using a shielded ethernet cable allows the VHF band wireless system to perform at its best.
+	
+	Note: this is only applicable it you are networking the QLXD or ULXD receiver
+

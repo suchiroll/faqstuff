@@ -1,0 +1,12 @@
+Title: FP24 outputs modified to mic level?
+Id: 2321
+Legacy Id: 2407
+
+Question:
+How can I transform the two line outputs into two mic level outputs?
+
+
+Answer:
+
+	Sorry, but this is not possible inside the FP24. You will have to use an external pad, such as the A15LA.
+

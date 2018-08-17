@@ -1,0 +1,36 @@
+Title: PGX transmitter will not sync with the PGX4 receiver
+Id: 3445
+Legacy Id: 3637
+
+Question:
+My PGX mic transmitter will not sync with my PGX4 receiver. It worked OK last week. What are the possible causes?
+
+
+Answer:
+
+	Here are possible causes of the problem, from most common to least common:
+
+	
+
+	1) The battery compartment of the PGX transmitter is not open, and therefore the sync signal from the PGX4 is not being received.
+
+	
+
+	2) The PGX transmitter is too close or too far away from the PGX4. The optimal distance is 20 to 25 cm [8 to 10 inches].
+
+	
+
+	3) The PGX transmitter operating frequency band is not the same operating frequency band as the PGX4. This can happen if you have multiple PGX systems. Look at the PGX4 rear panel and find text that reads, as an example, H6 524-554 MHz. Then look at the PGX transmitter for the same text. If the PGX transmitter reads J6 572-590 MHz, and the PGX4 receiver is H6 524-554 MHz, these two products will not sync.NOTE: Use color coded adhesive tape to mark the transmitter/receiver pairs that operate together.
+
+	
+
+	Note: If one tries to sync a PGX transmitter to a PGX receiver in a different band, the transmitter LED will change from steady green to a fast pulsing red.The LED will then change to an intermittent red four times andfinally back to green.
+
+	
+
+	4) The ambientlight is too bright and overwhelms the infra-red sync signal sentby the PGX4 receiver. Try syncing the units in an area with less ambient light.
+
+	
+
+	5) The transmitter or receiver are defective and have to be repaired. Call Shure Service for details on product repair: 800-516-2525 if you are in the United States.
+

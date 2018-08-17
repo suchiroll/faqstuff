@@ -1,0 +1,23 @@
+Title: Control panel for courtrooms
+Id: 1907
+Legacy Id: 1968
+
+Question:
+I am inquiring about the control panel mentioned in "Audio Applications For Meeting Facilities" "Appendix B" "Design hints for courtrooms and video arraignment chambers" "Court Clerk Position".
+
+1) Is this a Shure product or something that needs to be constructed?
+
+2) If it needs to be built, do you have a schematic and parts list?
+
+3) How does it interface to the mixer?
+
+
+
+Answer:
+
+	1) It is constructed by the sound system installer.
+	
+	2) The parts would be determined by the sound system installer based on the needs of the customer.
+	
+	3) As an example, see the Installers Manual for the SCM810 mixer: the Logic Control section.
+

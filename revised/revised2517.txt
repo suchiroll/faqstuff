@@ -1,0 +1,21 @@
+Title: A412B Mic Base
+Id: 2517
+Legacy Id: 2613
+
+Question:
+I would like to know if your existing desktop microphone base model A412B is phantom powered. If it is, can i use this to a gooseneck microphone with a phantom power circuit in it?
+
+In addition, if i can use my gooseneck mic in it, will the original output of the mic stays the same? how about hum noise..etc.?
+
+
+Answer:
+
+	I would like to know if your existing desktop microphone base model A412B is phantom powered.
+	* No. Phantom power is provide by the mixer, not the base that holds the mic. Phantom power from the mixer will pass through the A412B base to any microphone.
+	
+	Can i use this to a gooseneck microphone with a phantom power circuit in it?
+	* Yes, you can use the base. But again, the mixer must provide the phantom power.
+	
+	If i can use my gooseneck mic in it, will the original output of the mic stays the same? how about hum noise..etc.?
+	* The A412B is a passive device. It will not deteriorate the performance of any mic.
+

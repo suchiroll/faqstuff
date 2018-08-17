@@ -1,0 +1,11 @@
+Title: Is an automatic mixer faster than a human operator?
+Id: 18
+Legacy Id: 18
+
+Question:
+Is an automatic mixer faster than a human operator?
+
+Answer:
+
+	Yes. A Shure automatic mixer can activate a microphone within 4 milliseconds. - more information -
+

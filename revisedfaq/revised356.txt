@@ -1,0 +1,12 @@
+Title: Will the Beta 91 preamp work with the WL184 capsule?
+Id: 356
+Legacy Id: 363
+
+Question:
+I would like to use my WL184 capsule from my SC series wireless in a hard-wire application. Would the preamp from my Beta 91 or 98 be suitable for this use? Sorry this is kind of an emergency question. I am going on the road next week and would like to know if this will work or if I will have to buy what ever is around when I get to my gig
+
+
+Answer:
+
+	The preamp for the Beta 91/98 will work with WL184 capsule. If you have one of these preamps already, go ahead and use it. The standard preamp for the WL184 is the RK100PK. The difference between it and the BETA preamp is that it has more gain at the expense of less headroom, i.e., it will distort easier with loud signals.
+

@@ -1,0 +1,12 @@
+Title: What is the frequency response of the E1?
+Id: 141
+Legacy Id: 141
+
+Question:
+Could you please tell me the frequency response of the 'E1' in ear phones?
+
+
+Answer:
+
+	The frequency response of the any earphoneis dependent on the individuals ear canal. Shure earphones have a very wide range andsuperb fidelity, and can be considered 20Hz-20kHz. But, due to the many variations of individual ear canals, it is not feasible to accurately specify an exact frequency range or response curve. The best thing is to find a dealer who will let you listen to a pair and then you can make a subjective decision.
+

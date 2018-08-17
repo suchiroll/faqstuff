@@ -1,0 +1,28 @@
+Title: Alternate network switch for MXW
+Id: 4480
+Legacy Id: 5593
+
+Question:
+If I need to use a network switch besides the one that is built into the Microflex Wireless Audio Network Interface (MXWANI4 or MXWANI8) boxes, are there specific switches/routers that are recommended?
+
+
+Answer:
+
+	There are far too many viable network switch or network router options for us to make any specific suggestions.However, to ensure that the Microflex Wireless system components are able to properly communicate with each other and remain associated, there are a few key things to pay attention to when selecting a third-party switch.
+
+	
+		A Gigabit switch is recommended especially for connections between devices sending Digital Audio over Ethernet in the system.Examples of such devices are the Microflex Access Points (MXWAPT4 or MXWAPT8) and the Microflex Audio Network Interfaces (MXWANI4 or MXWANI8).
+	
+		Generally, a managed switch that has a built-in graphical user interface is preferred because it will allow you to turn on or off any features that could affect performance of the system and network.
+	
+		The switch should support the 802.1p or 802.1q protocols often referred to as QoS (Quality of Service).Generally, this protocol is turned on but may need to be manually configured depending on the network topology or settings.If you are unsure about this, you may need to contact the IT department or network administrator that is responsible for the network.
+	
+		Avoid switches that employ the 802.3az protocol, otherwise referred to as Energy Efficient Ethernet, or select a managed switch that will allow you to turn this feature OFF even if the switch employs.This feature is intended to conserve energy by putting currently unused ports into a sleep state.This kind of operation can cause interruptions in the Microflex Wireless System digital clocking protocol that is crucial for the digital audio networking and frequency coordination.This is particularly problematic for systems involving multiple MXW Access Points.
+	
+		If you intend to connect the MXW Access Points to a switch directly, that switch will need to have ports that supply PoE (Power over Ethernet).The power requirement for each MXWAPT4 or MXWAPT8 is 6.5W (Class 0 PoE).
+	
+		Another solution besides using a PoE switch to power the MXW Access Points would be to use a PoE injector before going into a switch.This PoE injector will need to be Gigabit since there is both data and audio information being transferred through the PoE injector.
+	
+		The Cisco SG300 works very well.
+
+

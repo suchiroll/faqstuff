@@ -1,0 +1,18 @@
+Title: DY12 microphone
+Id: 3385
+Legacy Id: 3573
+
+Question:
+I have an old microphone made by Shure Brothers, Unidyne dynamic microphone.  It is a tabletop model, and the model # stamped on it is 
+DY12P (or possibly DY12F) kind of hard to make out the last letter.  I read through the history section on the Shure Brothers website and did 
+not see this model number anywhere.  Can you just point me in a direction to where I can find out more about this microphone?  It would 
+be most appreciated.  Thank you!
+
+
+Answer:
+
+	The DY12 is a model 55S. Specs are exactly the same:
+
+	
+	http://www.shure.com/user-guides/us_pro_55s_1951_ug.pdf
+

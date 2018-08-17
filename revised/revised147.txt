@@ -1,0 +1,12 @@
+Title: Connector type on 515BSM Microphone
+Id: 147
+Legacy Id: 147
+
+Question:
+Please confirm the type of connector used on your 515BSM microphones. The spec sheet says it is a 5 pin connector. Is this a 5 pin DIN connector?
+
+
+Answer:
+
+	The 515BSM uses a 5-pin XLR connector.
+

@@ -1,0 +1,11 @@
+Title: Radio Shack Realistic Microphone Model 33-984C
+Id: 3598
+Legacy Id: 3804
+
+Question:
+Please provide a User Guide for this Shure mic that was made for Radio Shack. The model number is 33-984C.
+
+
+Answer:
+
+	See attached PDF file.

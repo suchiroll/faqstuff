@@ -1,0 +1,14 @@
+Title: Best microphone for capturing outside sounds
+Id: 2101
+Legacy Id: 2168
+
+Question:
+I'm looking for a microphone that will capture sounds like police car sirens, bowling pins being knocked down, pigs grunting etc. I'm going to be plugging it into a minidisc recorder. Any suggestions would be gratefully received.
+
+Thank you.
+
+
+Answer:
+
+	Assuming you want to record in stereo, the VP88.
+

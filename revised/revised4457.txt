@@ -1,0 +1,11 @@
+Title: MX150 with Shure BLX wireless systems
+Id: 4457
+Legacy Id: 5563
+
+Question:
+Will the MX150 work with the BLX1 transmitter?
+
+Answer:
+
+	Please note that the MX150 series of lavalier microphones will operate with BLX transmitters.However, there can be unsatisfactory audio quality and/or a high level of noise.Either issue may not be a problem in certain applications where audio quality is masked by other noise: factory tour, football stadium, trade show floor, etc.
+

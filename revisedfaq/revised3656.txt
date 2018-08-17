@@ -1,0 +1,12 @@
+Title: Speech Intelligibility Meter (STI-PA)
+Id: 3656
+Legacy Id: 3864
+
+Question:
+The sound system in my church is loud enough, but the words spoken cannot be understood. Is a meter can measure the intelligibility of speech?
+
+
+Answer:
+
+	http://www.nti-audio.com/en/functions/speech-intelligibility-stipa.aspxAll too often a person that is using a sound system will say to the audience, "Is it loud enough?", or "Can you hear me?", instead of asking, "Can you understand the words I am saying?"
+

@@ -1,0 +1,23 @@
+Title: Wind-resistant mics
+Id: 2562
+Legacy Id: 2660
+
+Question:
+I'm trying to work up a way to attach a pair of microphones to the outside of a racing car to record high-quality audio of tire and engine noise during high-speed track driving. I've had decent results with both condensor and dynamic microphones when equipped with fairly large wind shields, but only at moderate speeds. Above 60-80MPH, nothing seems to help much.
+
+
+I read with interest the story here on your web site about micing race cars, but I've already tried arrangements that seem outwardly similar, and they don't work at high speeds. If I crank down mic gain to the point that only the loudest sounds come through, I can cut out most of the noise, but the tire sounds go away too.
+
+
+So I think I just need to figure out a way to reduce the amount of wind noise, and maybe select a microphone that's inherently less sensitive to it. What can you recommend?
+
+
+These cars are sports cars, more like street cars than the open-wheel race cars described in that article here. I'd much prefer to have a solution that conforms to the body of the vehicle rather than sticking out on a shock mount as the mics in that article do.
+
+
+Answer:
+
+	1. Try the Shure SM63 mic with a Shure A81WS windscreen. It would be the most wind-resistant combination offered by Shure.
+	
+	2. Contact an expert in controlling mic wind noise: http://www.rycote.com
+

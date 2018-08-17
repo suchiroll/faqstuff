@@ -1,0 +1,32 @@
+Title: Discontinuation of UHF-R wireless
+Id: 5442
+Legacy Id: 
+
+Question:
+Discontinuation of UHF-R wireless
+
+Answer:
+
+	The UHF-R wireless was discontinued in the U.S., effective Sept 1, 2017. Here were the U.S. retail prices when discontinued.
+
+	UR1 $999
+	UR1M $2124
+	UR1MLEMO3 $2186
+	UR2/BETA58 $1299
+	UR2/BETA87A $1449
+	UR2/BETA87C $1449
+	UR2/K8B $1750
+	UR2/K8N $1750
+	UR2/K9HS/BK $2249
+	UR2/K9HS/SL $2249
+	UR2/KSM9/SL $2249
+	UR2/KSM9/BK $2249
+	UR2/SM58 $1161
+	UR2/SM86 $1299
+	UR2/SM87 $1449
+	UR2/VP68 $1358
+	UR3 $1249
+	UR4D+ $3611
+	UR4S+ $2443
+	UR5 $1499
+

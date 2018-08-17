@@ -1,0 +1,14 @@
+Title: Motiv MV88 current drain
+Id: 4775
+Legacy Id: 5959
+
+Question:
+What is the current drain /draw of the MV88? Is it significant?
+
+
+
+Answer:
+
+	The current drain of the MV88 is small compared to the operational current drain of the iPhone.  MV88 current drain is less than 100 mA (milliamps.)  Using the MV88 will not significantly reduce the iPhone operational time. 
+	
+	To extend battery life on the iPhone, turn off: Wi-Fi, Bluetooth, AirDrop.   Turn on: Airplane Mode

@@ -1,0 +1,13 @@
+Title: Shure microphone model 27001
+Id: 3362
+Legacy Id: 3546
+
+Question:
+I bought three Shure 27001 dynamic omni microphones, I love them but  I can't find any info at all on the net, do you have any info at all on these mics? They have an impedance switch and the are made in USA. Would be very thankful to get some info on these mics.
+
+Answer:
+
+	Your mics were manufactured around 1955. The model number is 530. Here is a data sheet:
+http://pubs.shure.com/guide/Model-530/en-US.pdf
+The model number 27001 is likely a "special" model number used for microphones sold to another manufacturer, and that manufacturer sold the mic as part of a package, e.g, a tape recorder manufacturer that packaged mics with the recorder.
+

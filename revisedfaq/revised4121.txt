@@ -1,0 +1,16 @@
+Title: ULXD1 bodypack transmitter and Crown headset mic - I hear noise
+Id: 4121
+Legacy Id: 4903
+
+Question:
+I have a Crown CM311 headset mic. It works fine with the ULX1 (analog transmitter). When I connect the same transmitter to a ULXD1 (digital transmitter), it works but I hear background noise. Any ideas?
+
+
+Answer:
+
+	The ULXD1 transmits a digital signal. That signal has a component of Amplitude Modulated (AM) signal; the signal from the ULX1 (analog) does not have an AM component. If the Crown CM311 is not well-protected from all types of RF (Radio Frequency)interference, its performance can be adversely affected by the ULXD1. Unfortunately, there is no fix or solution, except for Crown to re-design the CM311 to have better resistance to RF interference. Shure has addressed this issue by employing an engineering design called CommShield.
+
+	
+
+	Using CommShield, Shure redesigned our microphonesto be exceptionally resistant toRF interference such as might be experienced with GSM cell phone technology and other digital means of transmission. Because of the intensity of the interfering signals, advanced electromagnetic interference (EMI) techniques are employed in the new designs to provide robust shielding and RF filtering for the audio circuits. Design techniques include multilayer circuit boards for microphone preamplifiers, improved grounding techniques, tighter enclosures for improved shielding, as well as improved microphone cable and audio connectors. The combination of improved techniques is CommShield and delivers microphones that are highly resistant to intense nearby digital radio signals.
+

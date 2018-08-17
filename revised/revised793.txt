@@ -1,0 +1,13 @@
+Title: Diagram and specs for 55SW
+Id: 793
+Legacy Id: 815
+
+Question:
+I have an old Shure 555W and am looking for a diagram and or specs to wire a new cord which is missing. I looked on your site and can't find that model.
+
+Answer:
+
+	The model number is 55SW. Here is the link to the data sheet:
+	
+	http://pubs.shure.com/guide/Model-55S-SW/en-US.pdf
+

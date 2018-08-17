@@ -1,0 +1,12 @@
+Title: VN35MR or VN35HE for V15-III
+Id: 2279
+Legacy Id: 2361
+
+Question:
+I have to change the stylus on a V15 type III. What is the difference between the VN35HE and the new VN35MR?
+
+
+Answer:
+
+	The VN35MR has a micro-ridge tip geometry. The VN35MR should perform better than the VN35HE.
+

@@ -1,0 +1,27 @@
+Title: Shure WL mic with Lectrosonics beltpack
+Id: 2550
+Legacy Id: 2648
+
+Question:
+I own Lectrosonics beltpacks and am interested in buying some WL184 capsules. What kind of wiring would I need to do to the WL184 in order to use it with my Lectro belt pack. The Lectro's use TA5F connectors.
+
+
+Answer:
+
+	Our records indicate the following:
+	
+	LECTROSONICS
+	Pin 1 = ground
+	Pin 2 = +5V bias
+	Pin 3 = mic level audio in
+	Pin 4 = 1k* resistor - jumper to pin 2 to change mic level input loading
+	Pin 5 = line level in
+	
+	SHURE mics for wireless are as follows:
+	Pin 1 = ground
+	Pin 2 = +5V bias
+	Pin 3 = audio out
+	Pin 4 = jumper to pin 3
+	
+	Our advice:
+	Remove the TA4F from the WL184. Replace it with a TA5F; only connect pins 1, 2, and 3.

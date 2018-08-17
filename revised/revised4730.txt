@@ -1,0 +1,33 @@
+Title: Motiv MVi, MV5, MV51, MV88 with Skype
+Id: 4730
+Legacy Id: 5902
+
+Question:
+Can I use the MVi (or other Motiv products) with Skype?
+
+
+Answer:
+
+	As of May 23, 2016 (Skype version 6.16), Skype has updated their iOS app to once again accept Lightning connector microphones like Shure Motiv devices.
+	
+	Please note the following:
+	
+	a) The LEDs on a Motiv mic will illuminate when opening the Skype app, then go dark until a call is placed.
+	b) GSM noise is a concern, so we recommend using WiFi only (turning on Airplane Mode) or there could be audible interference in the audio signal.
+	c) Make sure the Skype app has access to the Motiv microphone. Settings  Skype  Microphone On.
+	
+	Shure is pleased that Skype has brough back this functionality.
+	
+	____________________________________________________________________
+	
+	Information below was first posted August 2015:
+	
+	Sorry, the MVi, MV5, MV51, and MV88 will not work with Skype on an iPhone.  
+	
+	A Motiv mic should work with an iPad, however, as long as the Skype app has access to the mic (Device SettingsPrivacySkype).
+	
+	IMPORTANT UPDATE AS OF OCTOBER 12, 2015: Shure has learned that in the September 2015 6.0 release of Skype for iOS, Skype removed support for USB audio, and this includes mic audio through the Lightning connector port. Shure has asked Skype to restore external microphone support and encourages every Motiv customer to do the same.
+	
+	This Skype issue also affects the Shure X2U as its output is USB audio.
+	Neither the iPhone nor the iPad support a Lightning-connected external mic with Facetime.
+	 

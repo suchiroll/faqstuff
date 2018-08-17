@@ -1,0 +1,18 @@
+Title: P9HW Error Code
+Id: 4659
+Legacy Id: 5824
+
+Question:
+Our keyboard player got on stage (after a full soundcheck) and had an error message on her P9HW that said “move battery position”. She pulled the battery in and out a few times and got it working. I couldn’t find a reference to this in any user manuals.
+
+
+Answer:
+
+	This is intended behavior of the P9HW.
+	
+	There is a very small chance that during startup the P9HW cannot read the HDQ lines on the SB900 battery. HDQ are the lines that look like prongs in between the voltage contacts.
+
+	TheHDQ lines communicate with the P9HW microprocessor to inform the user about battery time in hours/minutes/seconds, temperature, and health. If the SB900 is inserted too forcefully or at an unorthodox angle, the HDQlines can fail to fully connect.
+	
+	In theory, the P9HW would still workwithout the HDQ connections,but the P9HW would treat the SB900 as two AA alkaline cells. This is not desired for optimal operation.
+

@@ -1,0 +1,16 @@
+Title: KSE1500 - Will it reveal flaws in MP3 files and other recorded files?
+Id: 4768
+Legacy Id: 5950
+
+Question:
+I am concerned that the KSE1500 will reveal recording flaws in the original material that I may have not heard before. Could this be?
+
+
+Answer:
+
+	The more revealing of clarity and detail a playback system is, the more noticeable any source flaws will become.This is not only a result of a device being extraordinarily revealing, like the KSE1500, but any playback system that provides an exceptional level of clarity and detail.
+	
+	Low bit rate MP3 files will sound different than less compressed files on anyhigh quality playbacksystem, though this difference may become more apparent on a more revealing system.Most users do prefer the full resolution file formats like FLAC, ALAC, WAV, AIFF, as examples.One thing to always keep in mind - just because a file is higher resolution doesnt mean that it sounds good.The most important factors are still the performance itself, the quality of the sound as it is captured, the mix, and the mastering.A recording that was captured and produced with poor overall tonal balance and dynamic range will not be improved by using a high resolution file format.
+	
+	Similarly, a great recording can sound good even as a higher bit rate MP3.So, though the KSE1500 can make flaws more obvious, it is not solely based on the format of the file.Using a low resolution file format presents risks for revealing compression artifacts. Shure does recommend using higher quality recordings to get the most out of the KSE1500.Just remember that the resolution of the file is not the only determining factor.
+

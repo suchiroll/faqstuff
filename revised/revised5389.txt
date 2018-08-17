@@ -1,0 +1,11 @@
+Title: WBH54 incompatibility with Shure BLX wireless systems
+Id: 5389
+Legacy Id: 5565
+
+Question:
+WBH54 incompatibility with Shure BLX wireless systems
+
+Answer:
+
+	Please note that the WBH54 head-worn microphones will not operate properly with BLX transmitters. The symptoms are poor audio quality and/or a high level of noise.
+

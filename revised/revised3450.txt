@@ -1,0 +1,14 @@
+Title: M97xE brush creates static cling
+Id: 3450
+Legacy Id: 3644
+
+Question:
+Using the stabilizer brush on the M97xE seems to create a static charge in my records; for example, the felt mat of the turntable clings to the record upon removal and must be peeled off.This does not occur when playing records with the brush in the up position.I'm assuming this is an abnormal condition since another answer in the database said the brush should actually reduce a static charge; my dealer also said that my experience was the opposite of what should occur with the brush.Any suggestions for fixing/troubleshooting this minor problem other than just not using the brush?My tonearm's effective mass is right at the upper limit of your recommended range (assuming the recommended range of 6-12 grams for the type V also applies to the M97xE, since it has the same compliance rating), and I find the brush helpful with the mild imperfections many old records have (and amazingly effective even on rather severe warps).
+
+
+Answer:
+
+	Sorry, there is no solution. Like you, I use a felt mat and the M97xE. The mat does cling to the record as you describe but I still use the brush for the cleaning, the stabilization, and the de-static action on the played side of the LP.
+	
+	I used two sided tape to adhere the felt mat to the turntable platter. When I remove the LP, I wipe both side with an anti-static cloth made by 3M.
+

@@ -1,0 +1,20 @@
+Title: XLR Line Level to 3.5 mm TRS plug
+Id: 4587
+Legacy Id: 5740
+
+Question:
+What is the proper wiring from an XLR, balanced, line level output to a 3.5 mm plug, TRS, unbalanced, stereo line input?
+
+Answer:
+
+	Cable is a two conductor (twisted pair - red and black) with cable shield.
+	
+	XLR pin 2 to red wire to 3.5 mm plug Tip (left channel)and to Ring (right channel). This is the send path.
+	
+	XLR pin 3 to black wire to 3.5 mm plug Sleeve. This is the return path.
+	
+	XLR pin 1 to cable shield and NO connection at 3.5 mm plug. No signal flows on the shield.
+	
+	
+	The scheme above will typically work for a MIC level signal.
+

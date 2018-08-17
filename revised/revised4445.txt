@@ -1,0 +1,13 @@
+Title: ULXD4D Audio Output Issue
+Id: 4445
+Legacy Id: 5545
+
+Question:
+I have 3 ULXD4D units. I noticed last week that on an individual unit, if say channel one mic is on, and the channel 2 mic is off, the incoming audio from the mic that is on is routed to both channel one and channel two outputs. All three of my unity are doing this. It's definitely not crosstalk between the channels. I assume it's a setting somewhere but I can't figure out what it would be. Audio summing is off. I just got these unity and haven't really changed any settings from factory.
+
+
+
+Answer:
+
+	The other setting that could cause this would be if the unit was in Frequency Diversity mode. Navigate to Device Utilities, then Frequency Diversity, and make sure it is set to Off. That should be the default state, but this is the only setting (besides Audio Summing) that could have this effect.
+

@@ -1,0 +1,14 @@
+Title: Securing two QLX-D4 receivers to each other
+Id: 4513
+Legacy Id: 5629
+
+Question:
+When mounting two QLXD4 receivers side-by-side in a rack, how are the two units secured to each other?
+
+
+Answer:
+
+	The QLXD shipping carton contains a flat metal plate mount (part #53A22140)that fastens to the bottom of the receivers.Two plates are required. One plate is supplied with each QLXD4 receiver.
+	
+	The plate is stored at the rear of the shipping carton with a cardboard sleeve around it. It may not be noticed when first opening the carton.
+

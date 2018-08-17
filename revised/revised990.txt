@@ -1,0 +1,16 @@
+Title: Current replacement for Model SM91
+Id: 990
+Legacy Id: 1019
+
+Question:
+Can you please direct me to a current product which replaces the boundry type omnidirectional SM91? I need approximately the same features.
+
+
+Answer:
+
+	The SM91 had a cardioid polar pattern. The replacement for it depends on your application.
+	
+	If you are using the SM91 on a conference table, the replacement is the MX391 or MX393.
+	
+	If you are using the SM91 for piano or kick drum, the replacement is the Beta 91A.
+

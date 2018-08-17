@@ -1,0 +1,12 @@
+Title: ST3500 Interface box
+Id: 1182
+Legacy Id: 1225
+
+Question:
+Can the SHURE ST3500 conference phone be used without the interface box?
+
+
+Answer:
+
+	The ST3500 must be used with the interface box.
+

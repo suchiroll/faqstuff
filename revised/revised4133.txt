@@ -1,0 +1,51 @@
+Title: History of Cloth used in Shure microphones
+Id: 4133
+Legacy Id: 5020
+
+Question:
+I have a Shure model 55S from the 1950s. The cloth inside of the grill is ripped and faded. I want to replace it. Please provide details on the cloth used by Shure.
+
+
+Answer:
+
+	Cloth (including silk, cotton, nylon, polyester,and others)has been used inside Shure microphonessince the 1930s. Cloth was, and is,chosen based on availability, price, durability, ability to handle adhesives, acoustical characteristics, and color.During World War II, because of material shortages, the color employed would vary depending upon what cloth was available. This is the reason that the cloth color was never mentioned in product literature.
+	
+	Documents from the Shure engineering archives provided the following details about the cloth.
+	
+	1944
+	Cloth- Ninon or Chiffonese #101
+	Colors - Black (Shure part #10A28A); White (10A28B); Azure Blue (10A28C)
+	Acoustical resistance of material shall be 1 ohm (maximum) per square centimeter.
+	
+	1947
+	Cloth- Organza cloth supplied by Vogue Fabric, Evanston Illinois. Shure engineers would visit the Vogue Fabric store with a device, a manometer,that measured acoustical resistance.
+	New colors - Maroon (10A28D); Victoria Blue (10A28E)
+	
+	1948
+	This cloth shall consist of 80 threads per square inch. The space between adjacent parallel threads must not exceed 0.011 inch.
+	
+	1955
+	New colors - Red (10A28F);Brown (10A28G)
+	
+	1958
+	New color - Gray (10A28H)
+	
+	1972
+	New colors - Any Solid Color (10A28J); Royal Blue (10A28K); Dark Blue (10A28L); Any Solid Dark Color (10A28M); Navy (10A28N)
+	
+	Model 55S
+	1951 to 1961 - Cloth color was Victoria Blue (10A28E).
+	1961 - Cloth color changed to Black (10A28A).
+	
+	Model 556S
+	1954 - Cloth color was Maroon (10A28D) or Red (10A28F). Both colors were used based on availability.
+	
+	COLOR SHADES
+
+	The blue color from the 1940s was similar to Pantone color 2748 U. (U = uncoated.)
+	The maroon color from the 1940s was similar to Pantone color 222 U.
+	The blue color from the 1950s was similar to Pantone color 2756 U.
+	The red color from the 1950s was similar to Pantone color 187 U.
+	The dark blue color from the 1970s was similar to Pantone color 2768 U.
+	Note: The color name would typically change when a new material/supplier replaced the previous material/supplier.
+

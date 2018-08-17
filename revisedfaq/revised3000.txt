@@ -1,0 +1,42 @@
+Title: Small Choir with Rock Band at Church
+Id: 3000
+Legacy Id: 3128
+
+Question:
+This is kind of a long one....I read all your KBase giving the search word "Choir" but the closest answer to my case was the Answer ID: 2941. I read as well your "audio for houses of worship" and "audio for music educators" documentation but what I need now is a specific solution before I buy:
+
+We are a Worship Rock band in Germany and we want to integrate a young choir of about 12 people distributed in 3 ascendant rows/steps of 4 people per row. We are planning to have 2 rows of girls and 1 with guys, leaving the guys in the middle. 
+Our band has: 2 Lead singers, Acoustic Guitar(Backup singer as well), 2 Electric Guitars(one played sometimes by one lead singer), Keys, bass and Drums. So we are 6 in total.
+
+The choir is going to share the stage with us and seeing the stage from the front they will be on the right side, next to the Bass player+amp. On the left side we have the E-Guitar amps and the drums in the middle.
+
+The band will probably use In-Ear Monitors and we'll have as well stage monitors (because other teams at church don't use In-Ear monitoring).
+
+The church is a new building for aprox 1300 people distributed in 2 levels where the first level will have 70% of the people and the second the other 30%, not Shure they built it thinking of the acoustics.
+
+1) Which Mic will be the best to use ? We were thinking of a pair of KSM137. But our PA said this Mics -or similar choir mics- are mostly used in a studio.... (??)
+
+2) Our PA, who works in a studio said it would be better to use 1 Mic. per 2-3 persons. When that is better then we will use 1 Mic per couple having 6 Mics in total. If this solution is better for our situation, which Mics can we use (something not so expensive since we have low budget and have to buy SIX!!!) ?
+
+3) I suppose this Choir needs Stage Monitors (or some kind of monitors), where would it be best to place them: (A) With just a pair of KSM137 -or similar ? (b) With 1 Mic per couple ?
+
+4) I know this one is kind of subjective, but for sound purposes, is ok to leave the 4 guys in the middle or should we mix them better with the girls ?
+
+5) The stage is high and it would be almost impossible (infrastructure and money talking) to build another stage/space for the choir, so they have to share the stage with us. Like I mentioned, we are planning to put them on the right next to the bass. The stage is ok from size. Would you suggest putting them someplace else ? or distributing them in another way (3x4) ?
+
+OK, I guess those are all my questions. It would be great if you can answer all my questions, it would be a great help since we have no experience which such configuration.
+
+Answer:
+
+	1) The KSM137 makes a great choir mic and is rugged enough for Public Address use. HOWEVER, no matter what mic you use, miking the choir at a distance will be a problem as the drums and amplified instruments will also be picked up in the choir mics. Mics cannot separate out what audio sources you want and what sources you do not want. In a PA system, this can only be accomplished by close miking - placing a mic very close to each sound source. Thats physics.
+	
+	2) How about 1 mic for every two singers (like the Beatles did for background vocals)? The SM58 will work fine as long as each singer is 12 inches or less from the mic.
+	
+	3) Do not attempt to send the choir mic signals back to the choir via stage monitors. This will make the feedback situation worse. The choir should be able to hear themselves acoustically - there are 12 of them. If they cannot because the band is too loud, the choir will need in-ear monitors, like the band.
+	
+	4) Use your musical ear to determine what blend works best. It depends upon the strength of each voice.
+	
+	5) This cannot be determined via email as it all depends upon the acoustics of the space. And the acoustics of a space cannot be described adequately via email.
+	
+	The fundamental problem is mixing a rock band with a choir. The choir must be close miked to be heard because the band is so loud.
+

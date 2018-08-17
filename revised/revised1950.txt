@@ -1,0 +1,19 @@
+Title: SM99 Crackles in cold weather
+Id: 1950
+Legacy Id: 2013
+
+Question:
+I have an SM99 from a very old church. In the winter it gets cold in there and the mic makes a crackling noise when it is spoken into, but it only happens when it is cold in there. I have replaced the cable, but I do not have another mic to try. Any suggestions would be greatly appreciated.
+
+
+Answer:
+
+	The problem could be static electricity. When it is cold, the heat is on and the air dries up. A person walks up to the microphone on carpet(?), builds up a charge on his body, and the charge is discharged through the microphone because the mic's metal body is grounded via the mic cable.
+	
+	A wireless mic would not have this problem as it is not grounded.
+	
+	A foam windscreen placed over the SM99 grill might help stop the static from discharging through the mic, though touching the mic will still cause a discharge.
+	
+	You can also try an anti-static mat placed on the floor near the mic that will discharge the static when a person stands on it.
+	
+	If the mic were defective, it would act up all the time, not just in cold weather.

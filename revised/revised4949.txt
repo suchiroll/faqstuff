@@ -1,0 +1,16 @@
+Title: Rechargeable AA Cells - Lithium Polymer
+Id: 4949
+Legacy Id: 6211
+
+Question:
+Can you suggest a rechargeable AA battery to use in Shure wireless devices?
+
+
+Answer:
+
+	iPower US has a AA rechargeable cell. It is a lithium-polymer design. This cell provides 1.5Vdc through the entire operational time. There is no drop-offof the voltage.
+
+	Two iPowerUS AA cells last for 9 hours in a Shure QLXD1 bodypack.
+
+	www.ipowerus.com
+

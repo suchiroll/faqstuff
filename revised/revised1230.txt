@@ -1,0 +1,12 @@
+Title: Prologue 10 for drums
+Id: 1230
+Legacy Id: 1276
+
+Question:
+I am looking for information regarding the Shure Prologue 10H-LC Hi-Z and the Shure Prologue 10L-LC Lo-Z microphones. I am looking for mics that I can use around my drum set. I have an 8 piece kit with 13 cymbals. I'm trying to mic areas rather than each piece. Do you think these will work. Thanks for your help!
+
+
+
+Answer:
+
+	We cannot recommend the Prologue 10 for drums. It is an entry level product designed for speech applications.Drums are expensive to mike because of the large dynamic range (very soft to very loud sounds) and the wide frequency response (very low to very high sounds). High quality mics are therefore required. For basic drum miking, we suggest the PGA81 for overhead use; the PGA57 for toms, snare, and high hat; the PGA52 for kick drum.Please read the following for more advice: Microphone Techniques for Drums

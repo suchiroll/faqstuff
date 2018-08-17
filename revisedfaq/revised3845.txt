@@ -1,0 +1,15 @@
+Title: Which Axient devices have POE?
+Id: 3845
+Legacy Id: 4085
+
+Question:
+Which Axient devices have POE (Power over Ethernet)?
+
+
+Answer:
+
+	The AXT400 receiver, AXT600 spectrum manager, AXT630 distro, and AXT620 switch have POE on the Ethernet ports.
+	
+	The AXT610 Access Point requires either POE or external power to operate.  Most users will use POE to power up the Access Point. Thus, for power, the Access Point can be connected to the switch, the receiver, distro, or the spectrum manager.
+	
+	The AXT900 battery charger does not have POE on its ports.

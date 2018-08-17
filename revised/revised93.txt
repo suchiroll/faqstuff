@@ -1,0 +1,68 @@
+Title: How do I make an MX392 or MX393 wireless?
+Id: 93
+Legacy Id: 93
+
+Question:
+How do I plug an MX392 or MX393 into a wireless system?
+
+Answer:
+
+	Connecting MX392/393 to a Shure wireless transmitter
+
+	The MX392 or MX393 boundary microphones can be connected to a Shure wireless bodypack transmitter to create a wireless desktop microphone. Any Shure bodypack transmitter that uses the TA4F input connector can be used. Here is how its done:
+
+	
+		1. Remove the grille from the microphone.
+	
+		2. Looking at the microphone from the rear, you will see 3 wires (black, red, and white) running from the microphone capsule to the right side of the circuit board. Carefully unsolder those 3 wires from the circuit board and connect them to the right-hand terminal strip (labeled MIC OUT) near the cable exit at the back of the microphone. (Note: do not disconnect the existing thinner black, red, and shield wires.) The black wire connects to the - terminal; the red wire connects to the + terminal; the white wire connects to the SHLD terminal. This action bypasses the internal preamplifier, which means that the microphones on/off switch and the LED are no longer functional. This modification will also degrade the microphones ability to reject Radio Frequency Interference.
+
+
+	
+		
+			
+				
+					For MX392 Only:
+			
+			
+				
+					For MX393 Only:
+			
+		
+		
+			
+				
+					3. Cut the cable supplied on the microphone to a length sufficient to reach the bodypack transmitter. Attach a Switchcraft TA4F miniature 4-socket female connector to the cable as follows:
+					
+						Black wire to Pin 3 and Pin 4
+						Red wire to Pin 2
+						Shield to Pin 1
+						Orange, green,  white wires No Connection
+					Plug the TA4F connector into the audio input jack on the bodypack transmitter.
+			
+			
+				
+					3. Connect the microphone to the bodypack transmitter using Shure cable number 90A4039. This is a thin two-conductor shielded cable with a 3-socket TA3F connector on one end and a 4-socket TA4F connector on the other end. Length of the cable is 5 feet. If you wish to make your own cable, wire the connectors as follows:
+					
+						TA3F (to mic)TA4F (to transmitter)
+						Pin 1/shield to Pin 1
+						Pin 2 to Pin 2
+						Pin 3 to Pins 3 and 4
+				
+			
+		
+		
+			
+				Required Parts for This Method:
+				1  Shure WA330 Connector
+				Also available from Mouser Electronics (800-346-6873) as part number 502-TA4F.
+			
+				Required Parts for This Method:
+				1  Shure 90A4039 Cable
+		
+	
+
+
+	Will the Sound of the Microphone Be Affected?
+	The low frequency response of any boundary effect microphone is affected by the size of the surface to which it is mounted. Frequencies that have a wavelength that is much larger than the mounting surface will be attenuated by approximately 6 dB. If the microphone is mounted on top of a small box measuring 6 inches square, for example, frequencies below 376 Hz will be attenuated. For most speech applications this is acceptable.
+
+

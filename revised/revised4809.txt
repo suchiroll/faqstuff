@@ -1,0 +1,17 @@
+Title: Motiv MV5 with Surface Pro 3
+Id: 4809
+Legacy Id: 5995
+
+Question:
+Can I use the Motiv 5 on a Surface Pro3? And is the Motiv 5 good to record a two person conversation, interview? Suggestions on a digital mixer program?
+
+
+
+Answer:
+
+	The Surface Pro 3 appears to have a full-sized USB 3.0 port. The MV5 microphone should work on any device that supports USB audio. This is typically iOS, Android, Windows, and Mac devices. Be careful with USB hubs, or docking bays, as these devices have the potential to introduce noise or connectivity issues.
+	
+	The MV5 will work for recording conversations, but consider its placement carefully. The mic has a 130-degree pickup angle, so place it within arms length - facing two people seated side-by-side.
+	
+	Assuming the Surface Pro 3 runs software intended for the Windows platform, check out Audacity or Reaper for audio editing.
+

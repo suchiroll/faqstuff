@@ -1,0 +1,13 @@
+Title: V15LT with N97LT stylus?
+Id: 4029
+Legacy Id: 4439
+
+Question:
+Would it be possible for you to tell me if the N97LT stylus will fit your V15LT cartridge? Both appear the same except for their color (and tip shape).
+
+
+Answer:
+
+	Sorry, it does not fit.The N97LT stylus shank housing is too large to fit the V15LT stylus opening.
+	
+

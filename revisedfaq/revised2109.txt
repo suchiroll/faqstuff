@@ -1,0 +1,12 @@
+Title: Length of cable run for Line Level Output from Shure SCM262
+Id: 2109
+Legacy Id: 2178
+
+Question:
+What would you recommend is the maximum length of cable run (2 conductor shielded) from the mixer output (Balanced Line Level) to the amp input (balanced Line level)?
+
+
+Answer:
+
+	Balanced line level can be run for thousands of feet with little degradation.
+

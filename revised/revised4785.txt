@@ -1,0 +1,18 @@
+Title: UA860SWB  mounting method
+Id: 4785
+Legacy Id: 5970
+
+Question:
+Is there a wall mounting solution for the Shure UA860SWB antenna?
+
+
+Answer:
+
+	1) Use a A13HDB flange.
+	
+	2) Fasten the WA371 wireless transmitter clip to the flange
+
+	3) The UA860SWB fits into the WA371.
+
+	
+

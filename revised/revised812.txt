@@ -1,0 +1,16 @@
+Title: Microphone for a vocals with big band
+Id: 812
+Legacy Id: 834
+
+Question:
+We have a performing big band that has recently brought on a vocal quartet. We are searching for a microphone that the group can gather around and sing, and we don't have a clue what kind of mic would be best for something like that. We are having monitor feedback problems with the ones we've tried so far. What do you suggest?
+
+
+Answer:
+
+	Consider any vocal mic with a cardioid pattern. This pattern has a pick-up angle of 130 degrees. Position the four singers so all four mouths are within the 130 degree angle.
+	
+	Models to consider: KSM32; Beta 87C; SM86; SM58.
+	
+	Also, consider the use of in-ear monitors.
+

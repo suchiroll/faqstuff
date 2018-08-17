@@ -1,0 +1,12 @@
+Title: M97xE Back cueing
+Id: 2155
+Legacy Id: 2228
+
+Question:
+I am thinking of upgrading from a DJ type cartridge. I am also concerned with the highest sound quality. I have been DJ-ing for 20 years and do not abuse my turntables or records. So my question is, can the M97xE handle back-cueing without jumping out of the groove? I do not intend to use the Damping Brush, as I know this will jump the groove when cueing. I do not do any Scratching, but Back Cueing is almost the same. Just less abuse. Thanks for you time.
+
+
+Answer:
+
+	The stylus of the M97xE is definitely not constructed to withstand back-cueing. We would predict a tragically short life span for the M97xE stylus. Stick with the DJ cartridges for back-cueing.
+

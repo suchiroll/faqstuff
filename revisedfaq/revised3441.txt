@@ -1,0 +1,67 @@
+Title: Calculate effective operating area of UA874, UA870 or PA805
+Id: 3441
+Legacy Id: 3633
+
+Question:
+How do I calculate the effective operating area (in feet) for a Shure UA874, UA870 or PA805 directional antenna?
+
+
+Answer:
+
+	This procedure will provide a rough estimate. For this example, assume the directional antenna is 40 feet away from the performance stage, pointed at the stage. The operating area of the antenna can be considered an equilateral triangle. The effective operating angle can be estimated at 120 degrees, meaning the two other angles of the triangle are each 30 degrees.
+
+
+	A) Find the sine of 30 degrees; it is 0.5.
+
+	B) Find the sine of 60 degrees (1/2 of 120 degrees); it is 0.87
+
+	C) Set up this equation: 0.5 / 40 = 0.87 / X
+
+	D) 0.5X = (40 x 0.87)
+
+	E) 0.5X = 34.8
+
+	F) X = 34.8 / 0.5
+
+	G) X = 69.6
+
+	H) Multiply X times 2 to get the width of the stage covered by the antenna: 139 feet
+
+
+//<![CDATA[
+function AntennaWidth(){
+
+var inputfeet = document.antennaform.forminput.value
+
+validinput(inputfeet)
+
+var bwidth = 0
+
+bwidth = inputfeet * 0.866025;
+bwidth = bwidth / .5;
+bwidth = bwidth * 2;
+bwidth = Math.round(bwidth);
+
+document.widthret.beamwidth.value = bwidth
+}
+
+function validinput(load5){
+len=load5.length
+digits="0123456789"
+if(len>3)
+   {alert("Distance must be less than 1,000")
+     document.antennaform.forminput.focus()}
+for(i=0; i<7; i++)
+{if (digits.indexOf(load5.charAt(i))<0)
+   {alert("Distance must be a number with no decimal")
+   document.antennaform.forminput.focus()
+   break}
+}}
+//]]>
+
+
+	Distance from Antenna to stage: feet 
+
+
+	Coverage Width: feet
+

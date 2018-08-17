@@ -1,0 +1,18 @@
+Title: Noise on SC4 w/SM58 handheld
+Id: 399
+Legacy Id: 406
+
+Question:
+Started getting static/popping when mic is on. Ruled out all external equipment by removing receiver from rack and using only mixer with headphones. Can lay mic down and still occurs. If noise is coming from mic, there is not enough audio signal to show on meter. No pattern, but happens 10 to 20 times per minute. Adjusting squealch and volume does not help. Happens with antennae off.
+
+
+Answer:
+
+	Good troubleshooting on your part. Here are other items we want to know:
+	
+	1. Does changing the frequency have any affect?
+	2. What happens when only the receiver is powered on and the tone key circuit is switched off? Does the receiver show any RF signal?
+	3. What is the frequency of your system? In what city do you live?
+	4. Is there any sort of digital device near the receiver, like a CD player or computer? If so, shut off the device and retest.
+	
+	The problem is likely an interferring local RF signal (like a new DTV station) OR a defective semiconductor in the transmitter or receiver.

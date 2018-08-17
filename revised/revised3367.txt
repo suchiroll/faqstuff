@@ -1,0 +1,27 @@
+Title: SCM262 - tone control defeat
+Id: 3367
+Legacy Id: 3554
+
+Question:
+How can I defeat the tone control on the SCM262 mixer?
+
+
+Answer:
+
+	To perform this modification, you will require a parts layout of the circuit board and a test point layout of the circuit board; contact Shure Applications Engineering.
+	
+	Right channel tone control defeat:
+	
+	Remove R735
+	Remove R714 and solder into the R735 location
+	Jumper test point I232 to test point I234
+	Jumper test point I227 to test point I230
+	
+	
+	Left channel tone control defeat:
+	
+	Remove R737
+	Remove R715 and solder into the R737 location
+	Jumper test point I233 to test point I243
+	Jumper test point I226 to test point I252
+

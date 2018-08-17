@@ -1,0 +1,19 @@
+Title: Model 10A
+Id: 1908
+Legacy Id: 1969
+
+Question:
+I am supervising a student project which involves using your Model 10A mike. We need to know how to interface it to a two-transistor pre-amp circuit, gain approx 20, with capacitor coupled input. Does it need its own power supply ?
+
+
+Answer:
+
+	The model 10A is a dynamic microphone. Its "power source" is an internal permanent magnet.
+	
+	The 10A audio output is balanced, i.e., the audio signal is on pin 2, and the audio signal is also on pin 3 but 180 degrees out of polarity with pin 2. If your preamp design is not a balanced input (differential input), use pin 2 for the audio "hot" and ground pin 3.
+	
+	Pin 1 is case ground and does not carry audio; it must be connected to your chassis ground.
+	
+	The audio output signal will be around 0.00015 volts (.15 mV) assuming an input signal that is typical conversation level: not whispering and not yelling.
+	
+	The output impedance of the 10A is 180 ohms.

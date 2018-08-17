@@ -1,0 +1,12 @@
+Title: Replacement stylus for Shure M75CS
+Id: 2377
+Legacy Id: 2468
+
+Question:
+I cannot find any reference on your site to help me replace my phonograph stylus m75cs. It is on a BSR McDONALD 310 model. Can you help me locate one that will work?
+
+
+Answer:
+
+	The N75B Type 2 stylus will fit the M75CS cartridge.
+

@@ -1,0 +1,25 @@
+Title: Use of P4M with FP22
+Id: 418
+Legacy Id: 425
+
+Question:
+I use an FP22, with the S105 internal switch set for Mono, for in-ear monitoring of one microphone and one 1/4" unbalanced line-level mono input.  I need to monitor a second microphone.  Would you recommend that I connect both microphones to the inputs of a P4M, pan them hard left, and then connect the P4M left output to the FP22 balanced XLR input?  To do this, I would need a custom-made TRS to male XLR cable.  Is there an easier or less expensive way to monitor two microphones with the FP22?
+
+Answer:
+
+	To answer your question, we will assume that the two microphones must maintain their own independent signal paths and will only be combined in the FP22 and P4M.
+	
+		Feed the mic signals into Mic 1 Input and Mic 2 Input of the P4M.
+	
+		Take Split Outputs 1 and 2; connect these to your mixing console inputs.
+	
+		Set the P4M Input Levels 1 and 2 based to the Signal/Clip LEDs.
+	
+		Set the P4M Input Pans to the Center.
+	
+		Connect the P4M Mix Out 1/L to the FP22 XLR Input. This output will have both mic signals.
+	
+		Set the XLR Mic/Line switch on the FP22 based on the strength of the signal level send by the P4M. Try it on Mic first. If it is too loud or distorted, change it to Line.
+	
+		The P4M Mix Out 1/L can be used unbalanced or balanced. We suggest balanced operation. Obtain a cable with a TRS 1/4" male on one end and an XLR male on the other. Wiring should be: Tip to XLR 2; Ring to XLR 3; Sleeve to XLR 1. As of October 2000, this type of cable can be ordered from www.markertek.com.
+

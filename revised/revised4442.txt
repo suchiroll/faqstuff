@@ -1,0 +1,12 @@
+Title: X2u connected to a mic preamp
+Id: 4442
+Legacy Id: 5542
+
+Question:
+Can the output of a mic preamp connect into the X2u?
+
+
+Answer:
+
+	As a general rule, the answer is no, as the signal level from the preamp will clip the input of the X2u.You could attenuate the mic preamp output to a lower level by using a Shure A15LA or a Shure A15AS.
+

@@ -1,0 +1,34 @@
+Title: VP83 and VP83F common usage questions
+Id: 4520
+Legacy Id: 5638
+
+Question:
+1. How to use the VP83 properly with camera model XYZ?
+
+2. How to program the Mic with use with camera model XYZ?
+
+3. What is the right distance to use the VP83 and the correct volume setting for different environments?
+
+4. How to I get rid of the "noise" of the camera when filming?
+
+5. How to synchronizing the footage with Premiere Pro after a day of shooting?
+
+6. What is the best software to use to synchronize the sounds files from the Shure mic card and the sound from the camera model XYZ?
+
+Answer:
+
+	1.The VP83 User Guide has recommendations for its proper operation. As an example, use the cameras manual audio setting to set the camera gain as low as possible. Then increase the VP83 gain until the camera audio levels hit the appropriate peaks, typically around -12dB on the camera audio meter.
+	
+	2.See #1 above. Also read this Shure primer: Audio Systems Guide for Video Production
+	
+	3.Closer is always better, because of physics and the inverse square law.A mic mounted on a camera is always a compromise. Ideally, there would be a lapel mic on the talker.Or be less than a 12 inches away regardless of the mic being used. Use your ears. Monitor the audio source using headphones and set the gain appropriately based on the meters provided. Experience will soon guide the settings.
+	
+	4.IS (Image Stabilization) and AF (AutoFocus) noise are inescapable if those camera features are in use. Newer camera motors are quieter, but if the VP83 gain is set to maximum, the camera noise will be heard and recorded. It is best to avoid those features. Rely on fixed mount stabilization and manual focus. If thats not an option, remove the VP83F from the camera and place it closer to the sound source and farther away from the IS and AF noise. Longer mic extension cables are sold by many suppliers. If using the VP83F, do not connect it to the camera and sync the VP83F audio to the video during post-production.
+	
+	5.Recent releases of Adobe Premiere Pro have onboard audio sync feature. There are online tutorials explaining how to use it. An alternative is to use a stand-alone software application called PluralEyes (~$100 in July 2014.)
+	
+	7.The preferred way to sync audio when using the VP83F: a loud CLAP at the beginning of each clip that is easy to identify in post-production. Alignthe waveform of the clap on the scratch track (recorded by the camera) with the waveform of the clap from the VP83F file.
+	
+	NOTE: Shure does not offer advice on using specific camera models. There are too many sold and the operation often changes with each firmware update or model change.
+	
+

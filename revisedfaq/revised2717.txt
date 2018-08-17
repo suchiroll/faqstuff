@@ -1,0 +1,15 @@
+Title: Difference between T Series or UT Series and PG Wireless
+Id: 2717
+Legacy Id: 2821
+
+Question:
+1) What is the difference between the T Series wireless and the Performance Gear (PG) VHF Wireless?
+
+2) What is the difference between the UT Series wireless and the Performance Gear (PG) UHF Wireless?
+
+
+Answer:
+
+	1) The only product difference is the receiver; it features a new exterior design. The transmitters have stayed the same. All FAQ's about the T series also apply to the Performance Gear VHF.
+	
+	2) The only product difference is the receiver; it features a new exterior design. The transmitters have stayed the same. All FAQ's about the UT series also apply to the Performance Gear UHF.

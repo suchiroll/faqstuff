@@ -1,0 +1,12 @@
+Title: Can the UP4 receive video signals?
+Id: 1090
+Legacy Id: 1125
+
+Question:
+Can the UP4 be used to remote link cameras to record to a VCR? Audio and video?
+
+
+Answer:
+
+	The UP4 can only receive audio. It does not have any video capabilities.
+

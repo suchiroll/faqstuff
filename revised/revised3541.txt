@@ -1,0 +1,39 @@
+Title: License wireless mic with FCC
+Id: 3541
+Legacy Id: 3747
+
+Question:
+What forms do I need to fill out to license my wireless mic with the FCC?
+
+
+
+Answer:
+
+	Thank you for your inquiry on wireless microphone licensing. You need to complete and submit to the FCC an FCC Form 601 and FCC Schedule Forms D & H.  These forms are easy to download as PDF documents from the FCC's website.  Click on the following link to find all three forms:  http://www.fcc.gov/Forms/Form601/601.html Scroll down the page to where it says "Forms & Schedules Listed by Purposes for All Radio Services" and then in the table below, find "Broadcast Auxiliary - Land Mobile (Part 74).
+	
+	The FCC Form 601 is required to be filed electronically via the FCC's Universal Licensing System ("ULS"), accessible at http://wireless.fcc.gov/uls/.  To access ULS and begin filing an application, you must have an FCC registration number, or FRN, and password.  You can obtain an FRN and assign yourself a password by providing contact information to the FCC at https://svartifoss2.fcc.gov/coresWeb/publicHome.do (you will need to approve the security certificate for this web site).
+	
+	You should be able to complete the form without assistance.  Some items, however, use unfamiliar terms and do require a response that includes some basic technical information about your wireless system.  The following quick tips should help you complete the difficult items:  
+	
+	Quick Tip 1:         Item 1 requires your "Radio Service Code."  Input the letters "LP" in the blank.  LP stands for Broadcast Auxiliary - Low Power.  You can then proceed to skip Item 1(a).  
+	
+	Quick Tip 2:         Item 2 asks for the purpose of your application.  If you are licensing your system for the first time, place the letters "NE" in the blank.  NE designates your application as a request for a new license.  
+	
+	Quick Tip 3:         You should indicate that you are not exempt from FCC fees.
+	
+	Quick Tip 4:         Item 7 asks whether this is a "major" application.  If you are licensing a system for the first time, check "yes."  Any request for a new license is considered "major."  
+	
+	Quick Tip 5:         For Item 8 you should input "N" to indicate that access to the frequencies your Shure system will use are not available on a grandfathered basis.
+	
+	Quick Tip 6:         Items 13 through 26 ask for information about the applicant.  Most of these questions are straightforward.  
+	
+	Quick Tip 7:         Item 41 asks you to clarify what type of radio service you are going to provide.  Mark the response that states "Private, internal communications."
+	
+	Quick Tip 8:         Item 42 asks you to describe the type of service you are going to provide.  You should select "Fixed" if your Shure wireless system will be operated at one location.  You should select "Mobile" if you will operate your system from different locations.
+	
+	Quick Tip 9:         If your application is completed properly you can expect to receive a license in 30 to 90 days, based on the FCC's past practice.
+	
+	Quick Tip 10:       Respond to Items 44 through 48 that address foreign ownership.  Failure to fill in a response may cause the FCC to reject your application, so it is important to complete these responses.
+	
+	For more detailed information you may need to contact the FCC directly.
+

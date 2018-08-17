@@ -1,0 +1,13 @@
+Title: Difference between a SM57 and a SM57-LC ?
+Id: 122
+Legacy Id: 122
+
+Question:
+Can you explain the difference between a SM57 and a SM57-LC ?
+
+
+Answer:
+
+	The SM57 "microphone" used to come in two different "packages". One was the SM57-CN which included a standard, 7 meter, XLR to XLR mic cable. The other one was the SM57-LC which came without a cable - just the mic and stand adapter.
+	
+	The SM57 microphone included with both packages is the same. Eventually, the package that included the cable (SM57-CN) was discontinued and we continued to sell just the less cable (LC) version.

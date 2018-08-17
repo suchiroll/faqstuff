@@ -1,0 +1,14 @@
+Title: GLX-D Guitar System - poor tone quality
+Id: 4523
+Legacy Id: 5641
+
+Question:
+I have a Shure GLX-D guitar system. It has worked great for three months. Last weekend, I was performing outdoors and my equipment got soaked by rain. The GLX-D system now has a poor, muddy tone. Is it ruined?
+
+
+Answer:
+
+	Impossible to diagnose via email. We recommend placing the GLX-D equipment near a fan and/or a dehumidifier. Open up any compartment on the GLX-D gear. Let it dry out well for two or three days. If this does not solve the issue, contact Shure Service to have the GLX-D system examined.
+	
+	* Two weeks later, the customer wrote back and reported that the drying scheme worked and the GLX-D was operating normally.
+

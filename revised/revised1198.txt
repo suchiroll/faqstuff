@@ -1,0 +1,40 @@
+Title: CR81 and other OEM Models - Hercules or Rex
+Id: 1198
+Legacy Id: 1242
+
+Question:
+I have a vintage CR81 microphone. Please provide details.
+
+
+Answer:
+
+	This microphone was an OEM (Original Equipment Manufacturer) model, i.e., Shure made the microphone for another equipment manufacturer.
+	
+	The CR81 was a Controlled Reluctance (Magnetic), high-impedance (14k ohm) model, light brown in color, made for Revere (Camera), a tape recorder manufacturer. The CR81 probably is from 1950s or 1960s when reel-to-reel tape recorders were popular.
+	
+	The outer case design, named Rex or Hercules, was reused for many microphone models with many different case colors.  Some had controlled reluctance elements, some dynamic elements, some crystal elements. Example models are:
+
+
+	Model 510 - standard Shure model
+	CA80A - OEM model for Ampro; front nameplate reads "AMPRO NO. 189"
+	CR10 - OEM model
+	CR10K - OEM model
+	CR80D - OEM model
+	CR80F - OEM model for Columbia; for Bell & Howell
+	CR80G - OEM model for Wilcox-Gay Recordio (home record cutter)
+	CR80J - OEM Model for Telectro (used by U.S. Army)
+	CR80Y - OEM model
+	CR81 - OEM model for Revere
+	CR81A - OEM model
+	CR81F - OEM model
+	CR84A - OEM model for Motorola
+	CR88B - OEM model for General Electric
+	CX80 - OEM model with crystal element
+	CX80C - OEM model for Bell & Howell
+	DR80G - OEM model for Recordio/WG
+	MI-12014-A OEM model for RCA
+	TM125 -OEM model
+	21026 - OEM model with controlled reluctance element
+	97T29 - OEM model for Bendix Radio
+	97U29 - OEM model for General Electric
+

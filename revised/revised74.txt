@@ -1,0 +1,48 @@
+Title: Troubleshooting DFR11EQ and DP11EQ connection problems
+Id: 74
+Legacy Id: 74
+
+Question:
+Troubleshooting DFR11EQ and DP11EQ computer connection problems
+
+Answer:
+
+	The most common problem with DFR11EQ version 5 is trying to control the unit using version 4 software. The solution is to install the software that came with the DFR11EQ version 5 or download it from the Shure web site.
+
+	Another problem is software that came with early DFR11EQ v.5 or DP11EQ units would not install in a computer running Windows 98. Downloading the current software from the Shure web site solves this problem as well.
+
+	Cannot connect to the DFR:
+
+	There are three common dialogue boxes that appear with error messages when the DFR11EQ or DP11EQ software on the computer is unsuccessful in connecting to the hardware unit. These usually appear immediately after the Connect button is clicked in the Windows program. This document explains what they mean and what to do to fix the problem.
+
+	Could not open COM port.: This message appears when the COM port selected in the DFR11EQ (or DP11EQ) -COM port setup window-, is disabled or being used by another application. Disabled is the most common problem of these two.
+
+	Solution:
+
+	
+		Enable the COM port in the Device Manager tab of the System control panel. Disable any Infrared port or devices that the computer has that are assigned to the COM port. This is done in the Control Panel under Infrared.
+	
+		If running Palm Pilot software, disable the hot link.
+
+
+	There are no controllable devices in the network: This message appears when the COM port that was selected in the DFR11EQ (or DP11EQ) -COM port setup window- is assigned to a modem. This could be a PCMCIA modem, internal modem or a serial modem. This message also appears if the software in the computer is an older version than the actual hardware unit.
+
+	Solutions:
+
+	
+		Select the correct COM port in the DFR11EQ (or DP11EQ) -COM port setup window- and try to connect again. If a different dialogue box comes up with a different error message, troubleshoot for the new message. To find out which COM port is being used by the modem, go to the Modems control panel and click on properties.
+	
+		If running Palm Pilot software, disable the hot link.
+
+
+	Network is not physically connected, check your power, COM port, or cable.: This message appears when the DFR11EQ (or DP11EQ) software was able to open the COM port selected and sent a message, but nothing replied. Wrong cable or bad connection is the main cause of this message  see the cable properties section of the DFR11EQ users guide. This message will also appear if a valid, unused COM port is selected in the DFR COM port setup window.
+
+	Solutions:
+
+	
+		Try a different cable.
+	
+		Select a different (the correct) COM port in the DFR software. If a new error message appears, troubleshoot for the new message.
+
+
+

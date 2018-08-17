@@ -1,0 +1,12 @@
+Title: 5/8" to 3/8" Euro mic stand adaptor
+Id: 1303
+Legacy Id: 1353
+
+Question:
+When I received my Beta 58A mic it had a swivel adapter clip. The clip could screw on to the mic standI had, however there was also an adapter that would screw into the threads in the mic clip to adapt to a stand with a smaller diameter Euro thread. I misplaced the adapting screw and have recently purchased the SM57 but it did not come with that Euro adapter and the stand I bought for it needs that adapter. Can you please tell me the proper name of the "adapter", it came in a small plastic bag and was silver colored,and how may I buy another one?
+
+
+Answer:
+
+	5/8-27male external threadto 3/8-16 (Euro) female internal thread adapter, Shure part #95A2050. Purchase from Shure Parts at 800-516-2525.
+

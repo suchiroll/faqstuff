@@ -1,0 +1,63 @@
+Title: Troubleshoot wireless mic dropouts
+Id: 4649
+Legacy Id: 5808
+
+Question:
+I have multiple wireless mics and I'm having dropout problems. The audio drops for a split second and then comes back. Is this a frequency problem?
+
+
+
+Answer:
+
+	Dropouts in wireless mics can be caused by many things, including antenna placement, bad antenna cable, antenna distribution problems, frequency selection, interference, etc.
+	
+	Troubleshooting dropouts will be a process of trial and error. You will need to go through all of these steps in order to determine what is the problem with your system. While no one can guarantee that a wireless mic will not dropout, it is possible to minimize the odds of a dropout.
+	
+	The primary objective of any good troubleshooting is to minimize the number of variables. The following steps are the same steps that we use when we are on the phone, helping a customer troubleshoot dropouts.
+	
+
+	
+		Since you have 8 wireless systems, you will want to minimize the variables. First, concentrate on only the one wireless that is dropping out the most. Turn off the other 7 wireless completely.
+	
+		Test the one mic with the other 7 off. If the mic performs fine, then the problem is an interaction with the other wireless mics. Use theWireless Workbench software to calculate compatible frequencies for all of your systems.
+	
+		Watch the meters and lights on the front of the receiver. When the dropout occurs, what happens to the lights and meters? If your wireless just has a Ready light, does the Ready light go off during that time period? If your receiver has an RF level indicator, does that meter drop when the dropout occurs? If Yes, then the dropout is related to the RF signal. If No, then the dropout is only related to the audio (check for a bad lavalier or headset mic). If it is hard to watch the front of the receiver, place a video camera in front of the receiver to record it. Then, you can go back later to see what the lights and meters were doing.
+	
+		Use the SCAN functionto find a new frequency for this one wireless mic. If the wireless mic now performs fine, the problem was likely interference with some outside source, such as a TV station.
+	
+		Swap the transmitter with a different receiver to see if you might have a bad transmitter or bad receiver.
+	
+		If using remote antennas, are the antennas in the same room as the microphone and can the antennas be seen by the person holding the microphone? Whenantennas are in a closet or in a separate room that is a sound booth, the amount of signal that those antennas can receive is compromised. If the receivers need to be placed in a closet or a sound booth, properly remote the antennas so they are in the same room as the microphone.
+	
+		Since you have 8 wireless mics, are you using proper antenna distribution? When using multiple wireless mics (4 or more), antenna distribution should be used. Having several (in this case 16!) antennas hanging around will compromise the reception of the signal. The RF signalis reflected by metal. Other antennas, the other wireless receivers, rack hardware, etc will all reflect the RF signal causing dropouts.
+	
+		Since you have 8 wireless mics, we assume you have antenna distribution and possibly remote antennas. In order to reduce the number of variables, remove this one receiver from the antenna distribution. Take that 1 receiver out of the rack. Put the stock antennas directly on the back of it. Set that receiver 6 to 10 feet away from the rest of the equipment. This is just for troubleshooting purposes. We want to have that one receiver out away from everything and as simple of a system as possible. Make certain this receiver is up high, out in the open, and definitely in the same room as the transmitter. In a closet with the door open will just not work. If the mic starts to work fine, then you know that the transmitter, receiver, and frequency are all good. The problem must be with the antenna distribution, remote antenna, antenna cable, proximity to other nearby equipment, etc. It is possible for an antenna cable or antenna distribution system to fail. If the dropout still occurs, then you know the problem is not the antenna distribution, remote antenna, antenna cable, etc.
+	
+		Take the one wireless system (receiver and transmitter) to a different location, such as another church, or the showroom of a Shure Dealer. Try the mic in the different location (be certain to scan for a clean frequency). If the mic works fine, then the problem has to do with the local environment of your venue. If the mic still drops out, you likely have either adefective transmitterordefective receiver. In that case, contact Shure Service/Repair.
+
+
+	Once you get one mic working well, then slowly add in (one-by-one) the antenna distro, remote antennas, other wireless systems to get them working as well.
+	
+	Common Problems
+	When we go through the above set of questions with a customer, here are common problems we come across. If your system has any of these problems, it is likely contributing to the dropouts.
+
+	
+		The antennas for the wireless mics are buried in the back of a rack. The RF signalis reflected by metal. Other antennas, the other wireless receivers, rack hardware, etc will all reflect the RF signal causing dropouts.
+	
+		Placing a wireless mic receiver (and the antennas) under a mixer in the rack. The large metal mixer will reflect the RF, compromising the signal that the wireless receiver can pick up.
+	
+		The antennas for the wireless mic are in a closet. While convenient, this will compromise the reception of the microphone. Think of your cell phone: Do you typically get better service outside or inside a building? Outside, of course. RF works better when there are no doors, windows, walls, etc in the way.
+	
+		Frequencies that are randomly set. It is not a wise idea to randomly set or change frequencies. Wireless mics can interfere with each other. In order to calculate this interference, it is necessary to use computer programs(thankfully, they are free). There are several parameters that need to be calculated and are described in depth in our publications. When just a few systems are in use, using the scan function built into the receiver is a viable method.
+	
+		The wireless receiver is placed under a table. Many mobile DJs like a nice compact sound system. Unfortunately, putting the wireless receiver under a table compromises the reception. If the table has metal in it, that metal can reflect the signal. Being so low to the ground, the RF signal has to travel through all of the people in the audience in order to get to the receiver. Height is your friend. Place the wireless mic receiver on top of a loudspeaker and it will pick up a much better RF signal from the mic. Think of the cell phone towers that are everywhere. The antennas are at the top of a tall tower, away from and above everything else.
+	
+		The antenna farm: 16 antennas, all fighting for space in a pile of receivers. For best performance, antennas need to be out in the open, away from other objects. With proper antenna distribution, there can be one pair of antennas at the top that stick up above the rest of the equipment and pick up a good signal.
+	
+		Antennas placed above a dropped ceiling. Dropped ceilings have metal frames. That metal reflects RF and compromises the signal. For best performance, antennas should be visible from where the microphone is being used. Mount the antennas below the dropped ceiling.
+	
+		Bad antenna cable. It is possible for a coax antenna cable to be bad or to go bad. Connect a pair of antennas directly to the back of the receiver, bypassing the antenna cable to see if the mic starts working better.
+	
+		Collections of Wireless Troubleshooting Tips
+
+

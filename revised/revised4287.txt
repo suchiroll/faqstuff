@@ -1,0 +1,12 @@
+Title: Linking One GLX-D Transmitter to Multiple Receivers
+Id: 4287
+Legacy Id: 5356
+
+Question:
+I'd like to use my GLX-D transmitter with multiple GLX-D receivers. Is this possible?
+
+
+Answer:
+
+	Sorry, the answer is No. It is not possible to link one GLX-D transmitter to multiple GLX-D receivers. The GLX-D receiver controls the operating frequency selection and operating frequency changes. The GLX-D design does not allow for multiple receivers competing for control over a single GLX-D transmitter.
+

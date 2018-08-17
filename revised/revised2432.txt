@@ -1,0 +1,16 @@
+Title: 515SB good for home recording?
+Id: 2432
+Legacy Id: 2527
+
+Question:
+I have an old Shure microphone 515SB. I got this microphone many years ago but used it only a few times and then put it away. Now I am in need of a microphone for SPOKEN WORD applications (I am a performance poet) and I would like to know whether this microphone would be suitable for small rooms (less than 100 people)and for home recording. According to the information sheet enclosed, the Output level is 82.5 dB and the impedence is 150ohms. I have been looking over your site and if this microphone is not suitable, then would you say that the SM58 or the SM48 would be good suggestions to try?
+
+
+Answer:
+
+	Is this microphone would be suitable for small rooms (less than 100 people) and for home recording?
+	* If the mic is positioned withn 4 inches or less of your mouth, it should be fine.
+	
+	Would you say that the SM58 or the SM48 would be good suggestions to try?
+	* Yes. The SM58 and the SM48 have greater output levels than the 515SB. And the SM58 and the SM48 have a ball grill which will reduce P popping.
+

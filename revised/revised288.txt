@@ -1,0 +1,13 @@
+Title: Phono V15VxMR 78 rpm:  Which Stylus?
+Id: 288
+Legacy Id: 295
+
+Question:
+I have a V15VxMR cartridge and want to playback 78 rpm records at 5 grams tracking force.  What are my options for styli?  Will the heaviest of the Beryllium cantilevers hold up to that much force?  Will an SS35C or an N78S fit into the V15VxMR?
+
+Answer:
+
+	The N78S is the correct stylus for your need. However, it tracks from 1.5 to 3 grams. 5 grams will eventually collapse the stylus bearing.
+	
+	If you have to track at 5 grams, the SC35C phono cartridge is rated at 4 to 5 grams tracking force. The SS35C stylus will not fit the V15VxMR body properly; it only fits the SC35C body correctly.
+

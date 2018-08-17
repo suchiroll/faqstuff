@@ -1,0 +1,19 @@
+Title: Google Nexus One Cell Phone
+Id: 3684
+Legacy Id: 3893
+
+Question:
+the Google Nexus One cellphone compatible with Shure earphone products?
+
+Answer:
+
+
+Answer:
+
+	The Google Nexus One cell phone features a 3.5 mm (1/8") diameter audio jack.  For music listening only, the audio jack is compatible with Shure stereo earphones using a standard tip-ring-sleeve 3.5 mm mini-phone plug.
+	
+	For accepting or placing phone calls, add the Shure MPA-3C Music Phone Adapter.  The MPA-3C has a 32 inch cable and is used with the SE series earphones.  The adapter features a microphone and switch button that facilitates voice calls when using earphones.  When the MPA-3C is used to accept or place a phone call, the Nexus One will pause music playback until the phone call is ended.
+	
+	For integrated earphone/microphone products, Shure offers the SE115M (first available in mid-2010), which is compatible with the Google Nexus One.  
+	
+	NOTE: The Shure model SE115M+ is designed for specific Apple iPhone models, and is not compatible with the Google Nexus One.

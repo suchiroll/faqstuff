@@ -1,0 +1,34 @@
+Title: VP89 and VP88 for sound effects at baseball game
+Id: 4186
+Legacy Id: 5139
+
+Question:
+Is the Shure VP89 or VP88 a good choice for picking up sound effects at a baseball game?
+
+
+Answer:
+
+	Shure Press Release from October 2012
+
+	
+
+	The signature sound of any baseball telecast is that of hardwood on horsehide - the crack of the bat. Erik West, a Milwaukee-based freelance broadcast audio engineer, has made the perfection of that distinctive sound his audio calling card. Working for Fox Sports both regionally in Milwaukee and for national games there, in Chicago. and elsewhere, West has found that replacing his older shotgun mics with the Shure VP89L has taken his signature sound to a new and higher level.
+	
+
+	I came to the world of broadcast audio engineering from my background in mixing live music, says West. I EQ my batcracks a lot like a kick drum. I boost a little high-end snap, pull out some of the mids, and then boost some thumb on the bottom. With the VP89L, I get much more control over that than I had before. Ive always been proud of my bat-crack sound, but these mics really took it over the top.
+	
+
+	West points to two specific qualities of the VP89L that combine to make his results better than any previous shotgun mic. Most shotguns are about high frequency off-axis rejection, but the first thing I noticed with the VP89L was how well it rejected low frequencies as well, he explains. The thump in a bat-crack is at a higher frequency than in a kick drum - right where you would hear it in the murmur of the crowd. With the VP89L, I can still boost that the way I like, but not suffer the consequence of coloring the crowd noise. It also has very crisp highs, which I dont have to boost as much as I did before.
+	
+
+	The action around home plate, along with the sounds of the crowd, are key elements in achieving the goal of making home baseball viewers feel like they are in the ballpark. While exact mic positions vary with the layout of any given stadium, Wests typical procedure is to position his two home plate shotguns on either side of (and behind) the backstop netting, roughly 15 feet above field level and aimed about knee-high at home plate, roughly 35 feet away.
+	
+
+	That positioning gives me a nice, wide sweet spot, says West. You can hear the glove-pop, the umpire, and of course, the crack of the bat. You can really hear the difference between a solid hit and a broken bat, which is great for the home viewer and the announcers.
+	
+
+	To augment the on-field sounds with crowd noise, West relies on another Shure field production microphone, the VP88, a mid-side stereo mic that he feels is perfect for that task. One thing I dont like with crowd noise is the typical technique of aiming a couple shotguns out from the broadcast booth, he notes. Its just not a good sound. For my regular gig doing Milwaukee Brewers games at Miller Park, what I do is position the VP88 directly behind the plate, directly under the robo-camera there, about 20 feet from voices, aimed into the crowd. I use the Wide setting, which gives me clear sound of things like a vendor on the left yelling beer here or get your peanuts coming from the right, but without picking up many individual voices from the fans, and it handles the dynamics easily when things go from fairly quiet to really loud. Its a mic position that I highly recommend, and the perfect mic for the job.
+	
+
+	For Erik West, the key to success is providing a sonic experience that makes viewers feel they are at the ballpark, and he knows that the VP Series mics from Shure have played a major role in improving his ability to do that. The VP89L long shotgun has a fatness to the low end that is really the difference between sounding okay and great on my bat-cracks, he concludes. Theyre also built and tested to the same standards as Shures rock and roll mics, which I really appreciate. I tried going back to standard truck mics, but they just dont measure up. Being able to have that low-end glove pop and that woody bat sound - thats what I love about these Shure shotgun mics. Its now my signature sound.
+

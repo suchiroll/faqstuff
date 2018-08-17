@@ -1,0 +1,13 @@
+Title: Replacement stylus and / or cartridge for RS5E
+Id: 2387
+Legacy Id: 2479
+
+Question:
+What is the replacement for a Shure RS5E stylus and / or cartridge.  Can I replace the entire cartridge with a new more available style. Thanks
+
+
+Answer:
+
+	The stylus replacement is the N75B Type 2.
+	A replacement cartridge is the M92E.
+

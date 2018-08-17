@@ -1,0 +1,15 @@
+Title: Wireless system for bass guitar
+Id: 894
+Legacy Id: 922
+
+Question:
+I am preparing to make a rack mount system for bass, and I want to use a wireless system.  I am looking at finding a Shure that is rackmountable, that can handle bass frequencies, and is pretty affordable.  Also can you tell me what model P-Nut (the bass player from 311) uses?
+
+Answer:
+
+	We suggest you choose a frequency agile system such as the ULX series. Frequency agile wireless systems generally have a fairly steep low frequency roll-off at about 50 Hz. This may cause some reduction of low-frequency output with 5-string bass guitars, but generally doesnt affect a four string.
+	
+	However, make certain to audition any wireless system before you buy it. Try it out with your bass and with your amp to make certain it provides the sound quality you want.
+	
+	We are not sure what P-Nut uses, if he even uses wireless at all. Our artist endorser page doesnt list instrument wireless. Most of our endorsers usually use our top-of-the-line U-series (UHF) or UHF-R wireless system.
+

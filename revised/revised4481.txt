@@ -1,0 +1,12 @@
+Title: P4800 Software Download
+Id: 4481
+Legacy Id: 5594
+
+Question:
+Where can I download the software for the P4800?
+
+
+Answer:
+
+	The P4800 was discontinued in 2008. The P4800 software will only work with Windows XP, Windows 2000, Windows ME, Windows NT, Windows 98 and Windows 95. Attached below is a zip file that is the final version of the software for the P4800.
+

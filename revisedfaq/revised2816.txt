@@ -1,0 +1,13 @@
+Title: Using ULX Wireless for Acoustical Measurement
+Id: 2816
+Legacy Id: 2926
+
+Question:
+Can the Shure ULX wireless systems be used for acoustical measurement using sweep tones?
+
+
+Answer:
+
+	Most wireless microphone systems, Shure and other manufacturers, usually have a slight "rock-and-roll" equalization, i.e., low frequency and high frequency boosts. These systems are not designed to be perfectly flat from 20Hz to 20kHz as required for acoustical measurement.
+	
+	A sweeped tone is a brutal test for any wireless system. Any slight frequency response imperfection between the compressor output and the expander input will be exaggerated by a factor of the compression/expansion ratio. Since the compression ratio for Shure ULX is about 5:1 with nominal input levels, a sweeped tone will show a frequency response 5 times worse than what you would see with a broadband stimulus. Thus, using the ULX for acoustical measurement is not recommended.

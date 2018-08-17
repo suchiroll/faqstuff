@@ -1,0 +1,13 @@
+Title: SM58 and SM48 Comparison
+Id: 36
+Legacy Id: 36
+
+Question:
+I am considering purchasing either an SM58 or an SM48. What is the difference between the 48 and 58 other than the cost difference?
+
+
+Answer:
+
+	The SM58 and SM48 use different cartridges. That is to say, they have different frequency responses, different off axis responses, different handling characteristics, different transcient responses, etc. Also, the SM48 is only available with a switch. The SM58 is available with or without a switch.
+	
+	We suggest for you to listen to both of them and decide for yourself if the cost is worth the difference.

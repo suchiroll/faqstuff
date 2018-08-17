@@ -1,0 +1,12 @@
+Title: SM58 Ball Grill Thread Size RK143G
+Id: 4469
+Legacy Id: 5579
+
+Question:
+What is the specification for the internal thread of the SM58 grill?
+
+
+Answer:
+
+	Diameter is 1.25 inch. Thread is 28 UN-2B. Pitch diameter: 1.2280 inch minimum; 1.2330 inch maximum.
+

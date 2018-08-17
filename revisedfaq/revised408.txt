@@ -1,0 +1,14 @@
+Title: M95 cartridges, M44-7 stylus
+Id: 408
+Legacy Id: 415
+
+Question:
+(1) Is there a difference between the M95-EJ and M95-HE cartridges? From your cross-reference chart I learn they can use the same stylus (N95-ED).
+
+(2) Some dealer told me I can use a N-55E stylus for my old M44-7 cartridge, as an "upgrade". Is he right?  
+
+Answer:
+
+	(1) When these cartridges were available, the M95EJ came with the N95EJ stylus (1.5 to 3 grams tracking force) and the M95HE came with N95HE stylus (0.75 to 1.5 tracking force). Neither of these original stylus is available. The replacement for either of these is the N95ED (0.75 to 1.5 tracking force).
+	
+	(2) The N55E stylus will fit the M44-7 and is an upgrade stylus to the original N44-7 stylus.

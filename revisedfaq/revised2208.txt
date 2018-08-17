@@ -1,0 +1,11 @@
+Title: Battery current drain for UC transmitter
+Id: 2208
+Legacy Id: 2284
+
+Question:
+What is the mA drain of a UC transmitter (both bodypack and HH)? I would like to build a battery tester.
+
+
+Answer:
+
+	A UC1 or UC2 transmitter typically consumes between 60 mA and 80 mA.

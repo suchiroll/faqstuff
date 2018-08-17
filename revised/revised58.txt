@@ -1,0 +1,11 @@
+Title: Microphones in high humidity environment
+Id: 58
+Legacy Id: 58
+
+Question:
+I want to know what kind of microphone I can use in high humidity.
+
+Answer:
+
+	All Shure microphones go through strenuous environmental testing. Our microphones are sold worldwide in many areas that have high humidity. Pick the microphone that is appropriate for your application. The high humidity should not be a problem.
+

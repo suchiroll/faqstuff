@@ -1,0 +1,17 @@
+Title: AKG C 577 to Shure wireless bodypack transmitter
+Id: 3405
+Legacy Id: 3595
+
+Question:
+How do I connect the AKG C 577 to a Shure transmitter that has a T4M connector?
+
+
+Answer:
+
+	Per AKG Technical Support:
+	
+	TA4F Pin 1 - shield and blue wire
+	TA4F Pin 2 - 5,600 ohmresistor, 1/8 watt,to pin 3
+	TA4F Pin 3 - red wire
+	TA4F Pin 4 - jumper to pin 3
+

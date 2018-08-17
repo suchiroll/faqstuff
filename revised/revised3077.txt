@@ -1,0 +1,28 @@
+Title: Controlling Feedback
+Id: 3077
+Legacy Id: 3208
+
+Question:
+Please enlighten me about the root cause of feedback and how to control it.
+
+
+Answer:
+
+	Feedback is a complicated process. Entire books have been written on the subject and the mathematical formulas that model feedback are quite involved. Below is a summary of the issue.
+	
+	The root causes of feedback are irregularities in the frequency response and polar patterns of the microphones, the loudspeakers, and the room acoustics. You might have three Shure SM58 mics, but the manufacturing tolerance of those mics over the complete frequency range is +/- 3dB. Therefore, at any certain frequency, two of your SM58 mics might have an output variation of 6dB. Loudspeakers are even worse with many having variations of +/- 6dB, which equals a range of +12dB. And room acoustics can boost certain frequencies due to room resonance as much as +/- 12dB!! This is a range of 24dB. With this much variation, it is no surprise that mics in a slightly different locations will feed back differently.
+	
+	Also note that each time the number of open mics in a sound system is doubled (1 to 2, 2 to 4, 4 to 8, etc.) the overall gain of the sound system drops by 3 dB. This means that more open mics equals less gain in the PA system.
+	
+	Feedback is an oscillation at a resonant frequency of your sound system and the room. Take a soda bottle and blow over the top. It will resonate at a certain frequency depending on the volume inside. Change the inside volume by adding liquid and the resonant frequency changes. Feedback is analogous to blowing over the bottle top.
+	
+	Each mic is slightly different, therefore each one will resonate at different frequencies. Each loudspeaker is slightly different and will resonate at different frequencies. Each location in the room has its own resonant frequency. As the gain of your sound system is increased, eventually a common resonant frequency is found and the system (mic - loudspeaker - room) goes into feedback. Change one component, or location, and the feedback will also change.
+	
+	What can you change? Change the acoustics by adding sound absorbing material to the walls. Change to different mics that have different resonance frequencies. Use in-ear monitors to eliminatethe feedback path from loudspeaker monitors to mics. Employ precise parametric equalization that might add 4 to 6 dB of gain. Change to loudspeakers with a very smooth frequency response at all frequencies and all angles (big money!).
+	
+	To read more on feedback, we recommend Handbook for Sound Engineers edited by Glen Ballou, published by Howard Sams.
+	
+	Also see:
+	How do I fix my feedback problem
+	Which microphone has less feedback
+

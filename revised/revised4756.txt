@@ -1,0 +1,19 @@
+Title: Theater Audio - Custom halo microphone
+Id: 4756
+Legacy Id: 5938
+
+Question:
+I have read that professional theaters make custom halo mics for the actors. What materials are used?
+
+
+Answer:
+
+	1) A miniature omnidirectional lapel microphone. This type of mic is typically offered in different colors to match skin tones.
+
+	2) Elastic cord. Available at fabric stores in a variety of colors.
+
+	Elastic cordis cut to fit around the actors head, above the forehead The mic cable issecured to cord using a simple knot.The two ends of the elastic cord are tied together to form a circle or halo. The miniature mic is positioned above the actors nose, with the mic grill pointed downward. The mic cable is held to the actors hair using toupee clips.
+
+	Thanks to James Savage, head of audio for Chicago Shakespeare Theater, for this tip.
+	
+

@@ -1,0 +1,30 @@
+Title: Frequency Coordination for SC system in Detroit with 4 existing Shure Systems
+Id: 1019
+Legacy Id: 1048
+
+Question:
+I've have a client (in Detroit) with 4 existing Shure Systems and they want to add a fifth. The existing frequencies are:
+
+
+180.400 (L4)
+
+182.200 (L4)
+
+170.225 (W20R)
+
+192.200 (SC14/85CL)
+
+
+They want another SC14/85 system.
+
+
+Local TV Channels are Ch-7, Ch-9 and Ch-11
+
+
+What frequency would you recommend?
+
+
+Answer:
+
+	183.600 MHz-CF
+

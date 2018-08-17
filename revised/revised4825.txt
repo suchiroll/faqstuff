@@ -1,0 +1,12 @@
+Title: DIS-CCU and DCS 6000 mode
+Id: 4825
+Legacy Id: 6011
+
+Question:
+The DIS-CCU can operate with either 5900-series or 6000-series components, but I don't see how to switch the mode in the browser. What's wrong?
+
+
+Answer:
+
+	You need to install the FL6000 Feature License on the DIS-CCU.Then DCS 6000 mode will appear on the System Setup page of the browser control interface.
+

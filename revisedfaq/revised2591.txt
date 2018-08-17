@@ -1,0 +1,11 @@
+Title: Model 55SW microphone - Phantom Power?
+Id: 2591
+Legacy Id: 2691
+
+Question:
+Does the 55SW model require phantom power before plugging into the amp or PA?
+
+
+Answer:
+
+	No. The "power source" is an internal permanent magnet. The 55SW is a dynamic microphone. A dynamic microphones does not require phantom power.

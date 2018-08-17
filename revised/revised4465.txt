@@ -1,0 +1,11 @@
+Title: BRH headet as a replacement for a DIS IH6000
+Id: 4465
+Legacy Id: 5575
+
+Question:
+Can a Shure BRH headset be used as a replacement for the DIS IH6000 if the appropriate connector and pin-out were followed?
+
+Answer:
+
+	We tried this - it doesnt work. The IH 6000 had a much hotter, electret element. The BRH is dynamic, and the signal level is too weak to drive the IS 6132 appropriately.
+

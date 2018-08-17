@@ -1,0 +1,33 @@
+Title: M97xE laminated pole pieces?
+Id: 5007
+Legacy Id: 6298
+
+Question:
+Why does the M97xE use non-laminated pole pieces?
+
+
+
+Answer:
+
+	Response from Shure phono engineering:
+	
+	The frequency response of a phone cartridge is the result of:
+	
+	1)The mechanical response of the stylus, which typically has a resonance just past 20 kHz, and.
+	
+	2)The electrical response of the coil in the cartridge (resistance and inductance) loaded by the cable and preamp its attached to, and
+	
+	3)The magnetic response (eddy current losses) of the pole pieces in the cartridge.
+	
+	#1 raises the frequency response as you go up in frequency.
+	#2 lowers it (with a high slope - 12 dB/octave)
+	#3 lowers it (with a low slope  3 dB / octave)
+	
+	The V15 cartridges from the Type III to the TypeV had laminated pole pieces, which indeed reduced the amount of loss via #3. Given the contributions of the other 2 parts of the frequency response (those varied considerably from one model to another even within the V15s), this was appropriate, but,,, as it turns out, a little magnetic rolloff gave a better result. These cartridges had small shorting rings added (different for each model), which introduced a bit of carefully controlled magnetic loss, as a tweak to get the freq response just right.
+	
+	The M97xE does not have laminated pole pieces, so indeed it has some gentle roll off from the pole pieces. Given the mechanical and electrical responses , the whole is fairly well dialed in frequency response wise. If you laminate the pole pieces, but leave the rest the same, youll end up with a rising frequency response at high frequencies  not as ideal as the balanced performancethe M97xEcurrently has.
+	
+	Its about balance  tuning things to work together. A sports car has different suspension parts than afamily sedan intentionally, as each works best with its own set of parts. Using parts from one in the other is not a good idea.
+	
+	
+

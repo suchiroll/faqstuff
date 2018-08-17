@@ -1,0 +1,28 @@
+Title: Reserved TV channels and registering wireless mics
+Id: 4544
+Legacy Id: 5667
+
+Question:
+What are the Reserved TV channels and how do I register my wireless mic with the official FCC database providers? I've heard this can provide protection from possible interference.
+
+Answer:
+
+	Background
+	After the 700 MHz auction in 2009, many unoccupied TV channels are shared between wireless microphones and white space devices (WSDs).
+	
+	A WSD can only transmit on TV channels that are unassigned to a TV station or other licensed user. The device receives this information from one often FCC-approvedWSD Databases.
+	
+	Reserved and Available Channels
+	As these new devices begin sharing the same TV channels used by wireless microphones, personal monitors, and production intercoms, interference can occur. Fortunately, the FCC has set aside a minimum of two TV channels in each metropolitan market that are available exclusively for wireless audio systems. These are off-limits to WSDs.
+	
+	Thus, there are two Reserved TV channels that are only for wireless mics. There are also other open TV channels that are referred to as Available. While there are no TV stations on the Available channels, these channels are shared with WSDs.
+	
+	Unfortunately, the FCC has indicatedthese reserved channels are likely to go away with the completion of the 600 MHz incentive auction (probably around 2019).The WSD Databases will always have the most up to date information on which channels can be used by wireless mics.
+	
+	Register
+	Since three to seventeen wireless microphones (depending on model) can operate in one TV channel, the reserved TV channels will accommodate the needs of most wireless users. Users of larger numbers of wireless systems may register in the WSD Database to protect additional TV channels during a specific event. Unlicensed wireless microphone users must request database protection in advance from the FCC, while licensed users may register in the database directly.
+	
+	Licensed wireless mic users may operate on any TV channel that isnt assigned to a TV station or licensed two-way radio user.Unlicensed wireless mic users should use frequencies in the TV channels that are reserved for wireless audio systems at that location.
+	
+	If a user needs more wireless systems than will fit into the reserved TV channels from time to time, they will want to register in the database at least 30 days before the event to protect the mics from interference. Now is the time to think about that music festival, convention, or Holiday concert. Its a good idea to start planning for these special events sooner rather than later. If this requires supplementing a facilitys own wireless systems with additional rented gear, find out in advance which TV channels should be used at the location. Ask a preferred rental provider if they have those frequency ranges in stock. Planning now will help avoid nasty surprises before or during an important event.
+

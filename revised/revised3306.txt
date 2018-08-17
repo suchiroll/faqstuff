@@ -1,0 +1,18 @@
+Title: 78 rpm stylus for M71 MB phono cartridge
+Id: 3306
+Legacy Id: 3473
+
+Question:
+Hi, I am still using a Shure M71 M-B (antique!).
+I do need a stylus to play 78 rpm vinyl records. Can I use the M78S replacement stylus, is that one fitting in the above cartridge ?
+If not, is it possible to get a replacement stylus for that element anywhere?
+
+
+Answer:
+
+	The N78S stylus housing will fit into the M71 stylus opening. However, the N78S stylus grip (the green plastic part at the front) is too big and collide with the plastic upper body of the M71.
+	
+	If you are careful, you can use a file or high speed grinder (Dremel drill) to carefully reduce the size of the N78S stylus grip, thus allowing it to slip into place.
+	
+	Or this Dutch company may have a stylus that will work: http://www.vandenhul.com
+

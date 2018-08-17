@@ -1,0 +1,12 @@
+Title: VN78E stylus
+Id: 1522
+Legacy Id: 1576
+
+Question:
+What cartridge or cartridges will a VN 78E stylus fit?
+
+
+Answer:
+
+	It only works with the V15 III cartridge.
+

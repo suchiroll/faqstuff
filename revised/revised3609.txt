@@ -1,0 +1,11 @@
+Title: Powering Methods for Condenser and Electret Microphones
+Id: 3609
+Legacy Id: 3815
+
+Question:
+Is there an educational article that describes the different methods to power electret, condenser, and capacitor microphones?
+
+
+
+Answer:
+Powering Microphones by Chris Wolf

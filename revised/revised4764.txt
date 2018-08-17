@@ -1,0 +1,12 @@
+Title: KSE1500 Online Video Review
+Id: 4764
+Legacy Id: 5946
+
+Question:
+Is there an online video review of the KSE1500?
+
+
+Answer:
+
+	http://www.head-fi.org/t/785377/shure-kse1500-review-shure-kse1500-sound-isolating-electrostatic-earphones
+

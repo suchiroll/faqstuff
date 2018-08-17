@@ -1,0 +1,12 @@
+Title: Unisphere 565 mike (discontinued) change of impedance
+Id: 1757
+Legacy Id: 1816
+
+Question:
+I need to know how I can change the impedance of my 565 Unisphere mike. I know it's been discontinued but I still have several in studio use.
+
+
+Answer:
+
+	See 565 User Guides at: http://pubs.shure.com/guide/Model-565/en-US.pdf
+

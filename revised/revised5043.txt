@@ -1,0 +1,23 @@
+Title: DeoxIT for cleaning earphone and headphone connections
+Id: 5043
+Legacy Id: 6336
+
+Question:
+I understand that Shure recommens DeoxIT for cleaningelectrical contacts on earphones. DeoxIT makes a number of products, plus it comes with a number of different types of applicators. Which is recommended?
+
+
+
+Answer:
+
+	A support specialist at CAIG Labsrecommends DeoxIT D100L-CPK, a small bottle with an applicatorbrush.
+
+	DeoxIT is sold infour categories:
+	
+	D series - heavy duty contact cleaner combined with contact enhancer/protection.
+	
+	S series (aka Shield S series) - for outdoor envirnments particularily benefical in salt or other harsh environments. If the connections are not new - cleaning with a D series is required.
+	
+	G Series (aka Gold series) - designed for gold and base metals. It offers minor cleaning properties. For gold contacts it offers near perfect protection and will slightly enhance electrical connections for gold. However its cleaning properties are minimal and since gold does NOT oxidize and usually offers a near perfect connection to begin with this product has limited uses.
+	
+	F Series (aka Fader F series) - designed for faders aka volume controls aka pots (potentiometers) or other rotary controls. Used on a number of products (radios, musical amps, etc, etc, etc) that use carbon based (extremely common) or conductive plastic controls.
+

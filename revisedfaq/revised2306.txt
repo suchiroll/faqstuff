@@ -1,0 +1,12 @@
+Title: Five inputs into the P4M?
+Id: 2306
+Legacy Id: 2392
+
+Question:
+Can I run 4 mic's plus a keyboard in the Aux input for a total of 5 inputs?
+
+
+
+Answer:
+
+	Yes. There are 4 inputs on the front of the P4M for the microphones. There is an additional 5th stereo input on the back that may be used for the keyboard. The 5th stereo input does not have a volume control.

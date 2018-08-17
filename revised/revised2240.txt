@@ -1,0 +1,16 @@
+Title: What is Ducking?
+Id: 2240
+Legacy Id: 2321
+
+Question:
+What is ducking in a mixer?
+
+
+Answer:
+
+	A simple example is in the SCM262 mixer. Background music is fed into input #3. A paging mic is fed into input #1.
+	
+	When the paging mic is turned on and spoken into, the background music is ducked (lowered in level) so the page can be heard.
+	
+	When the mic is turned off, the background music returns to its original level.
+

@@ -1,0 +1,10 @@
+Title: Broken cable on WL84 Lavalier Mic
+Id: 382
+Legacy Id: 389
+
+Question:
+I have a lavalier mic which is a WL84 model mic on a wireless system and the cable between the mic and bodypack has become broken with use over time, and I'm wondering if there is a replacement cable.  I don't have the mic with me so I'm not sure of this but I don't think they mic end of the cable is detachable.  I know the bodyback is with the small 4-conductor disconnect. 
+
+Answer:
+
+	The replacement cable for the WL84A and WL83A is the C115. It is four feet long with a 4 socket, female Tini QG connector on the bodypack end. To purchase it directly from Shure, call Shure Parts at 800-516-2525.

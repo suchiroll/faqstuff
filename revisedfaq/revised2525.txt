@@ -1,0 +1,31 @@
+Title: The best mic for Independent Video/Film Productions?
+Id: 2525
+Legacy Id: 2622
+
+Question:
+I am attempting to shoot an extremely low budget feature length production, most likely on digital video. I need mics that will reproduce speech well, and can do so from a reasonable distance (probably between 2'-6') so as to stay off camera. Durability is important, as my budget is very limited. Versatility is also important, for the same reason (which is why I haven't just bought a number of lavalier mics and called it good).
+
+I've found plenty of recommendations for miking instruments and vocalists (something else I'm interested in), but not for this specific application. What would you recommend?
+
+
+I've already read the video pamphlet, and I already understand the basic theories involved, what I really need is concrete "buy this" type advice, if that's even possible. The SM63 looks like a great mic, but can it be used to record clear dialogue from several feet away (off camera)? There are simply too many options (better than too few I suppose). For example, the music education pamphlet is quite specific (ex: "One condenser microphone (PG81 or SM81 per section."). I do realize that a video production, by nature, will be more varied and individual than a concert situation, but this type of advice is what I'm looking for. If that's just not possible though, I'll understand, and thank you for your time
+
+
+Answer:
+
+	First, read the booklet about audio for video: Educational Articles - Online booklets and bulletins
+	
+	Next, buy an XLR adapter box from www.beachtek.com
+	
+	Finally, get a Shure SM63 mic. It is a very versatile, omnidirectional mic that sounds great.
+	
+	Based on your limited budget, the most versatile and useful mic is a handheld omnidirectional mic, like the SM63. It would be the type of mic I would choose if I could only afford one.
+	
+	But, the effectiveness of any sort of mic is ruled by:
+	
+	1. The amount of unwanted background noise (the louder it is, the closer the mic must be to the talker)
+	
+	2. The acoustics of the room (lots of hard surfaces and echos, the closer the mic must be to the talker)
+	
+	No type of mic can affect the two items above.
+

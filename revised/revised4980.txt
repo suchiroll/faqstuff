@@ -1,0 +1,75 @@
+Title: Primer on Microphone Types and Operation
+Id: 4980
+Legacy Id: 6245
+
+Question:
+Please provide a historical article that explains the fundamentals of microphone operation, that is, how it tranforms a sound wave into an electrical wave.
+
+
+Answer:
+
+	Editors Note: I find that articles written at the dawn of a technology often have the most intelligible explanations.Here is an exceptional 1938 article about microphone technology.
+	
+	Microphones Explained for Beginners
+	Published August 1938 in Radio-Craft magazine
+	[Radio-Craft was published from 1929 through 1953. Copyright is acknowledged.]
+
+	The five most common types of microphones used for Public Address systems and broadcast radio studio work are: carbon, crystal, condenser, ribbon/velocity, and dynamic/moving coil. Each one has its advantages and disadvantages and we shall consider each type in the order named.
+
+	Carbon button microphones were used in Alexander Graham Bells first production model telephones. He bought the patent from inventor Emile Berliner because they were superior to Bells own liquid element microphones.A crystal microphones utilizes piezoelectric properties of a crystal for generating electrical signals.A condenser microphone has a transducer element that includes an integral variable capacitor. A ribbon microphone is operationally simple and inherently bidirectional. A moving coil dynamic microphone is more rugged than other microphones types and not as prone to operational difficulty from weather.
+	
+	Carbon Microphones
+	The carbon microphone depends for its operation on the varying resistance of a carbon element when subjected to varying pressure. The usual arrangement of this type unit, for best fidelity, consists of two carbon buttons one on either side of the diaphragm. This metal diaphragm - in a properly-built carbon microphone - is stretched and air damped so that the effects of self-resonance vibrations are negligible, giving a reasonably uniform output at all ordinary audio frequencies.
+
+	This unit has the disadvantage of a background noise called carbon hiss, which is caused by the passage of current through the granules. It has a high maintenance factor and must be handled with care. On the other hand it has the advantage of a very good power output level of -30 dB, together with low output impedance, making it possible to have the microphone some distance from the amplifier.
+
+	
+
+	
+
+	
+
+	Crystal Microphones
+	Two types of crystal microphones are in common use today, to wit: 1) the sound-cell type in which the sound waves act directly upon the crystal; and 2) the diaphragm type which uses a diaphragm to which the crystal is attached by means of a mechanical link. In either of these units, the principle of operation depends upon the piezoelectric effect or voltage produced in certain crystals when subjected to mechanical stress, bending, stretching, etc.
+	
+	The sound-cell unit is an assembly of two bimorph Rochelle salt crystal elements in a Bakelite frame. The bimorph elements, in turn, are each made up of two crystal plates with electrodes attached, cemented together so that an applied sound will cause a bending of the assembly, and produce a voltage. The mounting is such that mechanical shocks have little effect on the unit. No diaphragm is used as the sound impulses actuate the crystal elements directly. An exceptionally wide frequency range, even into the super-audible band and on down to zero frequency, may be obtained from this unit. Of the two types of crystal microphones, the sound-cell has the better frequency characteristics. Its output is very low, however, so it requires greater amplification. This type of crystal microphone is usually employed for full-range musical pick-up.
+
+	
+
+	The diaphragm type will give much greater output, eliminating in most cases the need for a preamplifier, but it has the disadvantage of limited frequency response. This type of crystal microphone is most used for voice work.
+
+	
+	
+	Condenser Microphones
+	The diaphragm of the condenser microphone constitutes one of the plates of a variable air condenser, while the back plate, which is separated from the diaphragm by a film of air about 1/1,000 inch thick, acts as the other plate. Capacity variations of this condenser, in series with coupling condenser, develop minute audio frequency voltages which are then amplified by a one- or two-stage head amplifier. In actual practice, the condenser and head amplifier (or preamplifier) are all housed in the same case and the whole unit is called a condenser microphone.
+
+	After the signal leaves the head amplifier, it has about the same output level as that of a double-button carbon type. The same principle of stretching and damping the diaphragm is applied to the condenser type as is used in the carbon microphone, thus giving about the same fidelity of output. However, there is a noticeable absence of background hiss, and the ruggedness of the unit is a decided advantage.
+
+	
+
+	Ribbon Microphones
+	The ribbon microphone is so named because the armature is a light corrugated ribbon of aluminum alloy. This type is also called a velocity microphone because the voltage induced in the ribbon is proportional to the instantaneous velocity of the air in the sound wave. The aluminum ribbon is suspended in the field of a permanent magnet and when sound waves strike the ribbon it vibrates, cutting the magnetic lines of force.
+
+	Whenever a moving conductor cuts lines of magnetic force, a voltage is induced in the conductor. Thus in this case we will have set up in the ribbon a small voltage whenever it vibrates. Since the mass of the ribbon is extremely low, an excellent frequency response is obtained, extending well beyond the upper limits of the regular stretched-diaphragm-type microphone. This extended range of audio response is not very important as far as speech is concerned but does add brilliance to the reproduction of sound from musical instruments.
+
+	The output of this unit is approximately the same as that of a condenser-type microphone, so it also requires a two-stage amplifier to bring the output level up to about -30 dB.
+
+	The ribbon microphone is a low-impedance device, but it always has a coupling transformer mounted right in the microphone case. By matching the line impedance to that of this coupling transformer, the amplifier may be located some distance from the unit itself, provided the connecting cable is properly shielded.
+
+	This type microphone is of a rugged nature and also possesses a very marked directional effect, the greatest response being obtained at right-angles to the plane of the ribbon. An acoustical labyrinth is sometimes provided to enhance the directional characteristic by absorbing 1/2 of the rear sound wave. The construction of the ribbon microphone is of such a nature that its operation is very quiet and free from noise or hiss.
+
+	
+
+	Dynamic Microphones
+	The operation of the moving coil or dynamic microphone, like the dynamic loudspeaker, is fundamentally that of a conductor moving in a magnetic field, thus generating a voltage in the conductor. The diaphragm is made of thin duralumin which - in a high-grade unit - is pressed into a dome shape for stiffening to obtain a piston action over the audio frequency range. Improved frequency response is achieved by providing an air passage to afford outlet for the rear sound wave.
+
+	The moving coil is made from thin aluminum ribbon cemented to the diaphragm, and moves in the air gap between the pole pieces. The permanent magnet is composed of cobalt alloy steel, which will remain magnetized for a long period of time.
+
+	The moving coil microphone is quite rugged and is not affected by climatic conditions. Its output level is approximately 10 dB higher than that of the condenser-type microphone, or about -80 dB.
+
+	The low impedance of the dynamic microphone makes it possible to locate the preamplifier some distance from the microphone itself. The frequency characteristic of the dynamic microphone is quite uniform from 35 to 10,000 cycles, so it has very good fidelity response to sound in the normal audio range. This type unit has no inherent noise, and due to its very rugged construction can stand quite a bit of rough handling.
+
+	
+
+	This article has been prepared from data supplied by courtesy of Coyne Electrical School.
+

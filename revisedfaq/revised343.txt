@@ -1,0 +1,14 @@
+Title: Cartridge aging
+Id: 343
+Legacy Id: 350
+
+Question:
+I have a 15 years old M97 cartridge. I have found a replacement stylus. Where are the components liable to aging ? In the body, or in the stylus assembly ?
+
+
+Answer:
+
+	Only the stylus ages. The diamond tip wears down and the elastic bushing breaks down, mostly due to ozone in the atmosphere. A new stylus in an old body is the equivalent of a complete new phono cartridge.
+	
+	If the stylus is not made by Shure, it may not meet the original Shure specifications.
+

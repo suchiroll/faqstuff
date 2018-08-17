@@ -1,0 +1,31 @@
+Title: Setting Sensitivity and Gain on the UR1 Bodypack Transmitter
+Id: 3339
+Legacy Id: 3521
+
+Question:
+What is the best way to set the gain and sensitivity on the UR1 bodypack?
+
+Answer:
+
+	The UR1 bodypack transmitter features an audio input that can be configured for many different audio sources. Lavalier microphones, headworn microphones, passive guitar pickups, guitars with active electronics, keyboards, etc. are just a sample of possible input devices. And when using microphones, the talkers or vocalists can present a wide variety of sound levels.
+	
+	The "Sensitivity" and "Gain" settings on the UR1 bodypack transmitter provide the ability to tailor the UR1 audio input to the application. The two parameters are used to set the gain structure of the audio input stage of the UR1 transmitter.
+	
+	One can compare the audio input of the UR1 transmitter to the input channel of an audio mixer. In the comparison, the Sensitivity control is equivalent to the mixer channel “trim” control and the Gain setting is equivalent to the channel fader. Normally the trim control is set to effectively use the dynamic range of the microphone preamplifier. Then the channel fader is used to adjust the overall channel volume as required. The UR1 input preamp is a high quality microphone preamp that features generous headroom.
+	
+	Based on measurements taken by Applications Engineering at Shure, there are combinations of Sensitivity and Gain that optimize the gain structure of the UR1 transmitter, and provide a lower noise floor.
+	
+	First, set the sensitivity parameter for the particular source audio signal (-10, 0, or +15) as follows:
+	+15 = for most microphones and passive guitar pickups; [UR4 receiver display will show a "Plus" sign  +]
+	0 = for instruments with a built-in preamplifier and aux level signals; [UR4 receiver display will show a "Zero" sign  0]
+	-10 = for instruments with a really high level output signal (e.g. keyboard); [UR4 receiver display will show a "Minus" sign  -]
+	
+	The Gain control parameter is adjustable from –10 to +20 dB in 1 dB steps. The typical operating range for this parameter is 0 to +10 dB. Set the Gain parameter as needed to provide an adequate audio signal as monitored on the audiometer on the UR4 receiver front panel.
+	
+	For microphone applications, set the Sensitivity to +15. Depending on the specific microphone and the talent's voice, the Gain parameter will likely be set somewhere between 0 and +8. A vocal artist with a really strong voice will likely use a gain setting of about 0 dB, or maybe lower. A person talking in a normal voice will likely require a setting of about +8 dB. The settings will vary a little depending on the model and type of microphone being used.
+	
+	It is possible to adjust the Sensitivity and Gain parameters on the UR1 transmitter in various combinations to achieve the same overall signal level. For example, setting the Sensitivity to 0 dB and the Gain to +15 dB appears to be equivalent to setting the Sensitivity to +15 dB and the Gain to 0 dB. From an overall measured signal level, the two combinations of Sensitivity and Gain are the same. However, measurements of the two cases were made:
+	Case 1 -- Sensitivity = 0, Gain = +15
+	Case 2 -- Sensitivity = +15, Gain = 0
+	
+	The results of the test showed the noise floor to be somewhat lower for case 2 than case 1. The gain structure represented by Case 2 utilizes the wide dynamic range of the front-end preamp more effectively. This eliminates the necessity to add make-up gain at the VCA chip, and allows the VCA to efficiently execute its primary role of performing the companding function.

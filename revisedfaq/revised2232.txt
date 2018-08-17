@@ -1,0 +1,152 @@
+Title: Reglas Básicas para Configurar un Sistema de Monitoreo Personal
+Id: 2232
+Legacy Id: 2312
+
+Question:
+Estoy pensando en adquirir un sistema de monitore personal para mi banda, que necesito para hacerlo?
+
+Answer:
+
+	Click here for English
+
+	
+
+	Gracias a recientes avances en el campo del Monitoreo Personal, esta tecnologa ha logrado estar al alcance de ms artistas que nunca. A pesar de los numerosos beneficios de utilizar Monitoreo Personal en el odo, no siempre es fcil deducir los requisitos necesarios para que el sistema opere apropiadamente. Como requisitos bsicos, es necesario tener en cuenta:
+
+	
+		Cuntas mezclas se requieren
+	
+		Si se quiere monitorear en estreo o en mono
+	
+		Cuntas mezclas puede proveer su consola mezcladora
+
+
+	Esta informacin determina el equipo necesario para satisfacer los requerimientos del sistema de monitoreo personal para su banda de msica.
+
+	1. Cuantas mezclas necesita?
+
+	La respuesta a esta pregunta depende de cuntas personas hay en su banda y en la habilidad para ponerse de acuerdo en qu quieren escuchar en los monitores (cosa que no es fcil). Los instrumentos tpicos de una banda de rock son batera, bajo, teclado, guitarras, coros y voz principal. En una situacin ideal todos querran escuchar la misma mezcla, siendo la respuesta a esta pregunta una sola mezcla. Obviamente esto eliminara uno de los mayores beneficios del monitoreo personal. Asumamos entonces que este no es el caso (casi nunca lo es). Una configuracin econmica utiliza dos mezclas, una de vocales y otra de instrumentos. Usando el modo MixMode del sistema Shure PSM, los artistas pueden elegir cunto de cada mezcla desean escuchar (ver Fig. 1). Esta opcin es una forma accesible para comenzar a usar monitores personales, claro que requiere de una buena cooperacin entre los miembros de la banda.
+
+	
+	Fig. 1  Modo MixMode
+
+	
+
+	Otra opcin es proveer al baterista una mezcla separada (ver Fig. 2). Esta opcin funciona bien por dos razones: 1) el baterista, en general, desear escuchar mucho ms batera en su mezcla de monitores que el resto de los miembros de la banda, y 2) para las bandas que se presentan en escenarios pequeos, la batera se escucha tan fuerte que no se necesita amplificacin. Entonces la batera no seria necesaria en las otras mezclas. As llegamos a tres mezclas; la mezcla vocal, la mezcla de instrumentos (sin batera) y la mezcla del baterista.
+
+	
+
+	Hasta este punto hemos asumido que los vocalistas pueden ponerse de acuerdo en utilizar una sola mezcla. Aunque el compartir una mezcla entre los cantantes ayudara a una buena mezcla vocal, esta teora no funciona en la prctica (normalmente debido al sndrome que llamaremos sbeme a mi! ). Este problema se puede solucionar separando al vocalista principal a una sola mezcla. Esto se puede hacer de dos formas: primero asigne los coros a la mezcla de instrumentos y ajuste la mezcla vocal para satisfacer al vocalista principal, aunque esto requiera aadir algunos instrumentos a esta mezcla. As tenemos:
+
+	
+		Una mezcla individual para el vocalista principal
+	
+		Una mezcla para los msicos y coros
+	
+		Una mezcla para el baterista
+
+
+	En este punto el bajista tiene la opcin de usar la mezcla del baterista o la mezcla de los instrumentos.
+
+	
+
+	
+	Fig 2  Tres Mezclas
+
+	
+
+	La segunda opcin es crear una cuarta mezcla para el vocalista principal, sin afectar las otras mezclas. Esta configuracin permite a los instrumentos y coros mantener el control MixMode entre sus respectivas mezclas mientras proveemos una mezcla personal para el vocalista principal. El bajista requiere una mezcla separada? Necesitar cinco mezclas. Aadir una seccin de vientos? Esto fcilmente sera una sexta mezcla. Entonces cuntas mezclas uso? Bueno, algunos otros factores ayudarn a decidir cul es el lmite en el nmero de mezclas. Como:
+
+	
+		Presupuesto
+	
+		Envos auxiliares disponibles en la consola mezcladora
+	
+		Acuerdo entre los msicos
+	
+		Su paciencia
+
+
+	2. Quiere monitorear en estreo o en mono?
+
+	
+
+	La mayora de los sistemas de monitoreo personal permiten monitorear en estreo o en mono. A primera vista, monitorear en estreo parecera ser la eleccin obvia ya que as escuchamos normalmente, adems la mayora de los productos hoy en da son estereofnicos, como: TV, reproductor de discos compactos, equipos de video, computadoras, etc. Una mezcla estreo en esencia consiste en dos canales de audio. Esto significa que una mezcla para un sistema de monitoreo personal en estreo requiere dos envos auxiliares, el doble de lo que se requiere para una mezcla mono (ver Fig. 3). Mezclar en Estreo consumir rpidamente los envos auxiliares. Si su consola tiene cuatro envos auxiliares, podr realizar dos mezclas estreo en vez de cuatro mono.
+
+	
+
+	Mientras mezclar en mono no es tan realista como mezclar en estreo, mono permite ms mezclas en una consola pequea, as como menos transmisores. Todos los transmisores Shure PSM pueden operar en estreo o en MixMode. Este ultimo, provee dos mezclas mono en vez de una estreo. Utilizar esta caracterstica es una buena forma de ahorrar dinero.
+
+	
+
+	
+	Fig. 3  Una Mezclas Estreo
+
+	3. Cuntas mezclas se pueden hacer desde la consola principal?
+
+	
+
+	Las mezclas de monitores son tpicamente creadas usando los envos auxiliares, ya sea de la consola principal o de una consola de monitores (si se dispone de una). Una consola tpica de pequeo formato tendr por lo menos cuatro envos auxiliares. El hecho de que estos envos auxiliares estn disponibles para monitores es otro tema. Los envos auxiliares tambin son utilizados para efectos de sonido (reverberacin, delay, etc.) Cualquiera sea el caso los envos auxiliares disponibles determinarn cuntas mezclas de monitores se pueden hacer. Si la respuesta a la pregunta nmero 1 es mayor que la respuesta a la pregunta nmero 3, usted tiene dos opciones. Reconfigurar sus mezclas de monitores para adaptarse a la consola mezcladora o comprar una consola mezcladora con mas envos auxiliares. Tenga en cuenta que si usted no tiene una consola y confa en el equipo que proveen los lugares de actuacin, preprese para lidiar con el nmero de mezclas que esos equipos podrn proveer.
+
+	
+
+	
+
+	
+		
+			
+				
+					Ecuacin PSM:
+				
+					
+				
+					Estreo: Nmero de transmisores = nmero deseado de mezclas
+					(ej: 4 mezclas requieren 4 transmisores)
+				
+					
+				
+					Mono: Nmero de transmisores = nmero deseado de mezclas
+					 2
+					(ej: 4 mezclas requieren 2 transmisores)
+				
+					
+				
+					Nmero de receptores = nmero de artistas
+			
+		
+	
+
+
+	4. Necesita el P4M?
+
+	
+
+	El mezclador de monitoreo personal provee al artista un grado de flexibilidad y control de su mezcla en el escenario. Esto es una ventaja para las bandas que no tienen su consola mezcladora y/o ingeniero de sonido. Si el sonidista del club se queda perplejo con el sistema PSM, use el P4M para crear una mezcla personal en el escenario (ver Fig. 4). El P4M tiene cuatro entradas de lnea/micrfono en el panel frontal que le permite mezclar las cuatro seales que son ms importantes para usted. Las entradas pasan sin ser afectadas por sus cambios a las salidas directas en el panel trasero. Ahora, estas seales pueden seguir a la consola principal o a otros P4M. Una entrada auxiliar permite adems aadir una mezcla desde la consola principal.
+
+	
+
+	
+	Fig. 4  Conectando un P4M a un sistema PSM inalmbrico
+
+	
+
+	Tambin puede usar el P4M para crear mezclas personales para cada artista cuando la consola principal slo provee uno o dos envos auxiliares. En muchas aplicaciones el artista requerir ajustar una o dos seales mientras mantiene el resto sin modificar. Por ejemplo, un guitarrista slo quiere controles individuales de su guitarra y su micrfono vocal. Asumiendo que solamente hay dos envos auxiliares de la consola principal, use stos para crear una mezcla de percusin e instrumentos y otra de vocales. Conecte estas dos mezclas a los dos primeros canales del P4M, conecte la guitarra en el tercero y el micrfono vocal en el cuarto. Lo imposible se ha hecho realidad, el guitarrista puede subir su nivel sin molestar a los dems artistas. Los dos envos auxiliares generales pueden ser enviados a otro P4M como el del tecladista. En este caso se requerir un P4M para cada artista que requiera una mezcla individual.
+
+	
+
+	
+	Fig. 5  Usando los P4M con solo dos mezclas de la consola
+
+	5. Necesita el AuxPander?
+
+	
+
+	Como mencionamos previamente, los envos auxiliares son utilizados para crear mezclas de monitores y ellas efectivamente determinan el nmero de mezclas discretas que se pueden obtener. El AuxPander (expansor de envos auxiliares) permite la creacin de ms mezclas de monitores proporcionando cuatro mezclas estreo adicionales a ocho entradas de la consola principal. Estas unidades pueden ser conectadas en cascada horizontal para proveer 16 entradas y cuatro mezclas estreo (16X4) o de forma vertical para 8 entradas y 8 mezclas estreo (8X8). La ventaja principal del AuxPander es crear mezclas en estreo que normalmente requeriran el doble de envos auxiliares.
+
+	
+	Fig. 6  Cuatro Mezclas Individuales creadas con el AuxPander
+
+	
+
+	Las posibilidades de configuracin estn limitadas nicamente por su imaginacin. Los ejemplos presentados aqu intentan darle un buen punto de partida. Una vez que est funcionando, rpidamente descubrir que funciona para su aplicacin particular pudiendo modificar el sistema de acuerdo al caso.
+

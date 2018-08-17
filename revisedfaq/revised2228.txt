@@ -1,0 +1,15 @@
+Title: R47EDT Phono Cartridge
+Id: 2228
+Legacy Id: 2308
+
+Question:
+Specs for R47EDT?
+
+
+Answer:
+
+	Same as the Shure M75ED-Type2.
+	Biradial stylus tip.
+	Tracks 3/4 to 1.5 grams.
+	20 to 20,000 Hz response.
+

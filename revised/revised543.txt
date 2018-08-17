@@ -1,0 +1,17 @@
+Title: Specifications for V15 Type II cartridge
+Id: 543
+Legacy Id: 554
+
+Question:
+I have a V15 Type II cartridge, but the specification sheets have been mislaid.
+
+I need to know the cartridge weight, and the preferred tracking weight.
+
+Hope you can help.
+
+
+
+Answer:
+
+	All specifications are in the manual.
+

@@ -1,0 +1,26 @@
+Title: Pick-up distance and recommended mounting height for MXA910
+Id: 4985
+Legacy Id: 6253
+
+Question:
+How far away does the MXA910 Ceiling Array pick-up? How high can I mount it?
+
+
+Answer:
+
+	Higher and farther than a single elementmicrophone! However, room acoustics still matter. Noisier and more reverberant environments will impact speech intelligibility at greater distances from the microphone. Because of its three-dimensional steering capability and extremely narrow pick up pattern, the MXA910 can pick up talkers at greater distances than any other microphone.
+	
+	A useful concept in understanding how far away a microphone may be placedis distance factor. Distance factor is based on the use of an omnidirectional microphone placed a distance X from a sound sourcewhile providing an acceptable signal-to-noise ratio. Now, at what distance a directional microphone be placed and achieve the same results?For a cardioid microphone, thedistance factor is 1.7 times the distance used for the omnidirectional microphone.
+	
+	The MXA910 distance factor is an amazing 4.3.In a room where an omnidirectional microphone is used successfully at a distance of 2 feet from the talker, the MXA910 would deliver similar results at a distance of 8.6 feet. By way of comparison, a highly directional shotgun microphone has a distance factor of only 3. This is what we mean by higher and farther than a single element microphone.
+	
+	The following guidelines must be kept in mind when deciding where to place the MXA910:
+
+	
+		Like all microphones, best practice is to aim lobes towards the front of each talker. Mic lobes aimed at the back of the head lose high frequency response. Carefully consider placement in rooms where talkers may face a screen during a video conference.
+	
+		Avoid installing the microphone directly next to unwanted sound sources, such as air vents or noisy projectors.
+	
+		Consider installing acoustic treatment to improve speech intelligibility in rooms that are too reverberant.
+
+

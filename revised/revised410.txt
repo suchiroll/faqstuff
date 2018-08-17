@@ -1,0 +1,13 @@
+Title: Need to connect MX418 to Midas as a talk back mic
+Id: 410
+Legacy Id: 417
+
+Question:
+I want to use the MX418 for my talkback on my Midas and Soundcraft 8000. Is there a type of battery connector or something to make this work for phantom?  Do you make a mic that this works with?  I have seen others doing this before, but did not get the chance to check.
+
+Answer:
+
+	The MX418 could be used as a talk back mic in a console by using an external phantom power supply. The MX418 requires phantom power to work. We recommend contacting Stewart Electronics or Whirlwind for a battery powered phantom power supply.
+	
+	Any of our dynamic mics could be used as a talkback microphone without the external phantom power supply.
+

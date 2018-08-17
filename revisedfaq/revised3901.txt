@@ -1,0 +1,29 @@
+Title: RF coordination for a large wireless system
+Id: 3901
+Legacy Id: 4147
+
+Question:
+We need assistance for coordinating all of our wireless gear (mics, in ear monitors, and intercom). Does Shure offer this service? If not, who does?
+
+
+Answer:
+
+	Sorry, Shure does not offer frequency coordination services like you require.  There is free software from Shure, Wireless Workbench Bench, for do-it-yourelf frequency coordination. 
+	
+	And there are companies that offer this service:
+	
+	TC Furlong
+	www.tcfurlong.com
+	
+	AD Systems
+	Mr. Gary Trenda
+	(920) 213-9698
+	adsystemsllc@gmail.com
+	
+	Frequency Coordination Group
+	Mr. Brooks Schroeder
+	(816) 419-3938
+	(888) 433-4324
+	brooks@frequencycoordinationgroup.com
+	www.frequencycoordinationgroup.com
+

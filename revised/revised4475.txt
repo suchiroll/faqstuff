@@ -1,0 +1,26 @@
+Title: 5900 Delegate Units with 6000 series Central Unit
+Id: 4475
+Legacy Id: 5586
+
+Question:
+We are looking to purchase a conference system and have used your older Conference1 system for years (and still rent them often). We are interested in your DIS system and have a couple questions:
+
+· Can the DC 5980 P discussion units be used with the 6105 central unit?
+· What would be the limitations of using the 5980 discussion units instead of the 6120/6190 units?
+
+We like the expandability of the 6000 series, but only need the basic functionality of the 5900 series initially. We have done dual language meetings with real-time interpreters in the past, but don’t know how often we would be using that feature.
+
+
+
+Answer:
+
+	The 5900 and 6000 series components are not interchangeable. You need to choose one system or the other.
+	
+	Basically, if you do not need voting, and do not need more than two interpretation languages, the 5900 series should suffice. However, here are some other reasons you might choose the 6000:
+	
+	- Conferences with more than 250 participants
+	- Expanded software control for meeting management (agenda handling, paperless meetings, etc.)
+	- Touch screen conference units (with the DC 6990 P)
+	- Wider variety of standard conference units to choose from
+	- Customization
+

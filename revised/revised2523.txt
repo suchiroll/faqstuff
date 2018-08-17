@@ -1,0 +1,137 @@
+Title: Extension Cable for MX392, MX395, MX412D or MX418D
+Id: 2523
+Legacy Id: 2620
+
+Question:
+We are installing 11 MX412D/C microphones in a conference room for Video Conferencing. We need to run both audio and logic control, as well as LED from ech microphone back to the rack.
+
+What cable should we use?
+
+
+Answer:
+
+	Alternate Cables for MX392, MX395 and MX412/18D Microphones
+	The cable supplied with the MX392 desktop microphone has an outer diameter of .126 inches. The cable supplied with the MX412D desktop gooseneck microphone has an outer diameter of .173 inches.  Sorry, this cable is not available from Shure in custom lengths.
+	Each cable has a twisted pair of shielded conductors for the audio signal, plus three unshielded conductors for logic functions (one for the switch output, one for logic ground, and one for the LED).  Belden offers the cable #9883 with 3 pairs of wires - each pair in its own shield.  The outer diameter is 0.34".
+	If external control of the LED is not required, commercially available cables with 2 unshielded conductors (or 2 individually shielded pairs) may be substituted. The shielded pair is used for audio, and the unshielded pair (or the second shielded pair) is used for the switch and logic ground connections to the microphone. Logic signals should not run inside of the same shield that protects the audio conductors, as audible popping could occur as the logic voltage levels change.
+	
+		
+			
+				Manufacturer/Model Number
+			
+				Conductors
+			
+				Outer Diameter
+			
+				Jacket Color
+		
+		
+			
+				For applications where cables will be coiled or flexed often...
+		
+		
+			
+				Belden 1509B
+			
+				2 individually foil shielded & jacketed pairs, with overall foil shield
+			
+				.287 in. 7.29 mm.
+			
+				Black
+		
+		
+			
+				Belden 1902A
+			
+				2 individually braid shielded & jacketed pairs
+			
+				.306 in. 7.77 mm.
+			
+				Black
+		
+		
+			
+				West Penn Wire AQC357
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.235 in. 5.97 mm.
+			
+				Gray
+		
+		
+			
+				For applications where cables will rarely be moved...
+		
+		
+			
+				Belden 8730
+			
+				2 individually foil shielded pairs
+			
+				.205 in. 5.21 mm.
+			
+				Gray
+		
+		
+			
+				Belden 9155
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.262 in. 6.65 mm.
+			
+				Beige
+		
+		
+			
+				Belden 8723 (Belden 88723, 82723, 87723)
+			
+				2 individually foil shielded pairs (Plenum rated versions)
+			
+				.168 in. 4.27 mm.
+			
+				Gray
+		
+		
+			
+				West Penn Wire 357
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.178 in. 4.52 mm.
+			
+				Gray
+		
+		
+			
+				West Penn Wire 359
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.201 in. 5.11 mm.
+			
+				Gray
+		
+		
+			
+				West Penn Wire 356
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.210 in. 5.33 mm.
+			
+				Gray
+		
+		
+			
+				West Penn Wire 360
+			
+				1 foil shielded pair 1 unshielded pair
+			
+				.219 in. 5.56 mm.
+			
+				Gray
+		
+	
+

@@ -1,0 +1,12 @@
+Title: SM58 internal transformer
+Id: 765
+Legacy Id: 786
+
+Question:
+I would like to know if I can order a new transformer for my SM58 microphone, because the wires came out and I need a new wired transformer to fix it thanks.
+
+
+Answer:
+
+	Sorry, the internal transformer for the SM58 is held in place with epoxy and therefore cannot be removed or replaced. Call Shure Service at 800-516-2525 for more information on repairing your SM58.
+

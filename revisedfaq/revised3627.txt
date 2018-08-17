@@ -1,0 +1,34 @@
+Title: SM7B with the X2U
+Id: 3627
+Legacy Id: 3833
+
+Question:
+I just got an SM7B and and X2U to interface with my computer. The tri-color indicator on the X2U rarely goes green unless I yell into the mic, and my voice recording on Audacity is too low (and I do have a loud voice).
+
+I can hardly hear my voice in my headphones - connected to the X2U.
+
+I have mic gain  headphone volume all the way up.
+
+Do I need a preamp? Doesn't the X2U serve as one or is it purely an interface adaptor?
+
+
+Answer:
+
+	For typical operation, the SM7B requires a mic preamp with at least 60 dB of gain.The X2u has 50 dB of preamp gain as of April 2011.
+	
+	Answer Title: SM7 Output Level and Preamp Gain Specifications
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/sm7b-with-the-x2u
+	
+	Here are comments from Shures X2u expert:
+	
+	1) The X2u should provide sufficient gain for the SM7B for most, but not all, situations.
+	
+	2) The SM7B has a slightly lower output level than an typical SM58 handheld microphone.The SM7B should be close talked.Compare the SM7B to an SM58 or similar handheld mic and note any differences.
+	
+	3) Keep the X2u mic gain full up, which should get the tri-color LED to glow green.
+	
+	4) Make sure the monitor control on the X2u is all the way up to get the full volume of the microphone to the headphones.
+	
+	5) Audacity may feature a normalize mode to adjust the level of the recording after laying down the track.
+	
+

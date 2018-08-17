@@ -1,0 +1,14 @@
+Title: Recording guitar amp and headphone distribution
+Id: 1140
+Legacy Id: 1178
+
+Question:
+I have two questions, first the way you suggest recording guitars(guitar to amp to mic to track) is that how pro studios would record a guitar for a big rock band, if not do you know how they do?? and secondly, using a multitrack, having recorded the music and wanting to add two or more vocalist at the same time I want to keep them isolated from each other, and the monitor playback, however my 8 track only has one headphone output for the vocalist to listen on. Is there a such thing as a junction box or something that I could turn 1 headphone output to many, and if so what is the proper name for that piece of equipment?
+
+
+Answer:
+
+	Every recording engineer will have their own twist on how they record a guitar, but nearly all are based on the concepts that we present.
+	
+	The device you are looking for is a Headphone Distribution Amplifier.Rane sells an excellent one.
+

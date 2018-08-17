@@ -1,0 +1,20 @@
+Title: SFG-2: How to measure 5 grams tracking force
+Id: 4603
+Legacy Id: 5759
+
+Question:
+The SFG-2 can measure tracking force from 0.5 grams to 3 grams. I need to measure 5 grams.
+
+
+Answer:
+
+	1)Set the SFG-2 to 0.50 gram.
+	
+	2)Place a U.S. one-cent piece (penny *) centered at the 1.00 gram mark on the SFG-2 balanced arm.
+	
+	3)Place the stylus on the Times 2 mark.
+	
+	4)When the SFG-2 balances, the tracking force is 5 grams.
+	
+	* A U.S. penny weighs 2.5 grams.
+

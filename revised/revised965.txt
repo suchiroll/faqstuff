@@ -1,0 +1,12 @@
+Title: DTMF mic
+Id: 965
+Legacy Id: 994
+
+Question:
+I am looking for a DTMF microphone for the Midland 70-336. Could you please suggest a Shure model, and do you have application notes I could review.
+
+
+Answer:
+
+	Sorry, Shure no longer manufacturers communications microphones.
+

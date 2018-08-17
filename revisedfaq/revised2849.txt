@@ -1,0 +1,12 @@
+Title: Transformer for Les Paul Recording Guitar
+Id: 2849
+Legacy Id: 2961
+
+Question:
+From 69 to 73 Gibson made the Les Paul Professional guitar to his specs,utilizing low impedence pick ups,to go into a recording desk,for cleanest sounds.However to use into high impedence guitar amps,they supplied a lead with a transformer at amp end. This looked like the SHURE product for microphone low to high with gibson logo substituted.
+
+
+Answer:
+
+	Look at the Shure A95UF and A95U transformers. The voltage gain is about 20 dB for either unit.
+

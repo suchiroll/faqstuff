@@ -1,0 +1,11 @@
+Title: Are phantom power and bias voltage the same thing?
+Id: 13
+Legacy Id: 13
+
+Question:
+Are phantom power and bias voltage the same thing?
+
+Answer:
+
+	No. Phantom power is typically 11-52 Vdc that is supplied on the audio conductors of a balanced mic line. Bias voltage is usually lower (1.5-9 Vdc) and requires its own conductor. The two are not interchangeable. - more information -
+

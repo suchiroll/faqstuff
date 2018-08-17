@@ -1,0 +1,28 @@
+Title: MX392 Logic Functions
+Id: 3782
+Legacy Id: 4018
+
+Question:
+Please describe the MX392 logic functions.
+
+
+Answer:
+
+	INTERNAL DIP SWITCH FUNCTIONS
+	The MX392 has internal DIP switches that program the external On/Off switch for a variety of applications. To access the DIP switches, remove the bottom plate.
+	
+	MICROPHONE LOGIC DEFINITIONS/FUNCTIONS
+	
+	LOGIC GROUND (green wire):
+	Connects to the logic ground terminal of an automatic mixer, video switcher, or other control equipment.
+	
+	SWITCH OUT (white wire):
+	With internal DIP switch S1 set to OFF, SWITCH OUT (white)sits at TTL Logic High (5 Vdc) once phantom power is supplied.SWITCH OUT changes to TTL logic low (0 Vdc) for as long as the external On/Off switch is pressed.
+	
+	With internal DIP switch S1 set to ON, SWITCH OUT alternates between TTL Logic High and TTL Logic Low each time the external On/Off switch is pressed.
+	
+	LED IN (orange wire):
+	LED IN sits at TTL Logic High (5 Vdc) once phantom power is supplied.
+	
+	With DIP switch S3 set to ON, LED IN controls the microphone LED.To illuminate the LED, connect LED IN (orange)to LOGIC GROUND (green). This connection may be provided by a relay, switch, or external TTL logic circuit.NOTE: The DC current to power the LED is supplied via the phantom power circuit. LED IN is control only.
+

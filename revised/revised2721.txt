@@ -1,0 +1,14 @@
+Title: High Gain, Directional Antenna for UHF Wireless Applications
+Id: 2721
+Legacy Id: 2826
+
+Question:
+Are there high gain antennas available that are even more directional that the antennas offered by Shure?
+
+
+Answer:
+
+	http://www.starantenna.com
+	
+	This company offers a wide selection of 50 ohm directional UHF antennas. As an example, the model SYR-85017 has 17 dB of gain and operates in the 700 to 900 MHz range. The horizontal coverage is a narrow 25 degrees.
+

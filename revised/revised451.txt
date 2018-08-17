@@ -1,0 +1,17 @@
+Title: Maintenance for UHF wireless microphones
+Id: 451
+Legacy Id: 460
+
+Question:
+Does Shure have a recommended maintenance program? Are there areas on the receiver, hand held, or lav that need to cleaned on a regular basis to help ensure a consistent quality product? How often does Shure recommend replace lavalier microphones? Any and all information regarding to this issue would be helpful.
+
+Answer:
+
+	First, please read our article on cleaning microphones. It is at: How should I clean my microphone?
+	
+	Other than the information in that article, wireless microphone systems require no maintenance assuming they are not abused. Always looked for any part that is dented, scraped, or bent. It may have been damaged.
+	
+	Lavalier mics can work for decades without replacement. Typical failure modes are: broken or frayed cables; damaged connectors; sweat or make-up clogging the screen grills. We often say a mic has three conditions: Works - Doesnt Work - Works But Sounds Funny. For the last two conditions, contact the Shure U.S. Service Department at 800-516-2525.
+	
+	In summary, if your systems are well-treated, they should last for many years without maintenance.
+

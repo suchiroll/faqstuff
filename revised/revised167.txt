@@ -1,0 +1,11 @@
+Title: M44-7 setup on Techniques 1200 M3D
+Id: 167
+Legacy Id: 168
+
+Question:
+The new 1200 s have an extra 4 gram headshell weight and a different tonearm weight. What would the setup be with the 44-7 s on the new 1200 m3d s?
+
+Answer:
+
+	The Shure SFG-2 Tracking Force Gauge, available through your Shure dealer, provides a simple way to accurately set tracking force.
+

@@ -1,0 +1,21 @@
+Title: R1000E replacement stylus
+Id: 1378
+Legacy Id: 1430
+
+Question:
+Can you recommend a replacement for the R1000E cartridge.  Your web site recommends the N91ED but I can only find N91ED-T2 Styli at the various shops I have visited around my home.
+
+Is the N91ED-T2 unit compatible with the R1000E cartridge and is this the same unit referenced by Radio Shack part number 970-1174?
+
+Answer:
+
+	The N91ED replacement stylus is still available directly from Shure Service and Parts.
+	
+	Installing the N91ED into the R1000E will provide like new performance.
+	
+	The Radio Shack part 970-1174 may or may not be an original Shure stylus. It could be a third party replacement stylus.
+	
+	For parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/ProAudio/ServiceAndWarranty/index.htm
+

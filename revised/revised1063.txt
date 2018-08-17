@@ -1,0 +1,16 @@
+Title: Multiple P4HW systems
+Id: 1063
+Legacy Id: 1097
+
+Question:
+I have a few questions regarding the my new PSM400. I purchased a wired version and have a Mackie powered Mixer with only a single monitor mix. Is there a product available to gang (one of the inputs) of 3 wired PSM400's? I plan to use a channel insert (one click in) to get a direct out for the second input. Would this be my best option for the money? What is a typical cost to have an ear mold done?
+
+
+Answer:
+
+	Multiple P4HW systems can be Yed together. Hard-wire all 3 of your systems into the same output of the mixer. Using the channel insert as a direct out as you describe would be an excellent of giving everyone their own mix while keeping cost down.
+	
+	Also, check out the P4M and Auxpander mixers.
+	
+	The price of a custom mold is dependent on how much a local audiologist charges to make impressions of your ear, but typical cost is around $150. Custom molds are made be Sensaphonics (312-432-1714, http://www.sensaphonics.com).
+

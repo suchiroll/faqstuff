@@ -1,0 +1,27 @@
+Title: Guitar Center ACCESS line of wired and wireless microphones
+Id: 3671
+Legacy Id: 3880
+
+Question:
+I have encountered wired and wireless microphones, made by Shure, with the brand name ACCESS? Where these made for the Guitar Center chain of stores?
+
+
+Answer:
+
+	Yes, the ACCESS line was fabricated for Guitar Center.   In the late 1990's and early 2000's, Shure offered a line of wired and wireless microphones specifically for the Guitar Center Chain.  Below is a list of the ACCESS model numbers and the corresponding Shure model.Wired Microphones
+	AXS1 - Shure 33-984E (dynamic)
+	AXS2 - Shure BG 1.1 (dynamic)
+	AXS3 - Shure BG 2.1 (dynamic)
+	AXS4 - Shure BG 4.1 (condenser)
+	AXS5 - Shure BG 5.1 (condenser)
+	AXS6 - Shure BG 6.1 (dynamic)Wireless Microphones
+	AXB1 - Shure T1 bodypack transmitter
+	AXB1G - Shure T1G  bodypack transmitter
+	AXH2/58 - Shure T2/58 handheld transmitter
+	AXH2/31 - Shure T2/31 handheld transmitter
+	AXR3 - Shure T3 non-divesity receiver
+	AXR4G - Shure T4G diversity receiver
+	AXR4V - Shure T4V diversity receiver
+	AXU1 - Shure UT 1 bodypack transmitter
+	AXU2/58 - Shure UT2/58 handheld transmitter
+	AXUR4 - Shure UT4 diversity receiver

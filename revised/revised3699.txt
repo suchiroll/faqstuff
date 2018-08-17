@@ -1,0 +1,14 @@
+Title: UR4D receiver and AC Power Interconnection
+Id: 3699
+Legacy Id: 3917
+
+Question:
+How many UR4D receivers can be safely connected using the AC power interconnection cables?
+
+
+Answer:
+
+	The maximum recommended number is five UR4D receivers. The first UR4D receiver connects to an AC outlet with its power cord. The remaining four UR4D receivers are interconnected using the short AC power jumper cables.
+	
+	Five interconnected UR4D receives will draw a total of 4 to 5 amps at 120 VAC. Though the power cord is rated for 8 amps, accepted safety guidelines dictate that a power cable never be operated at its maximum current capacity. For UR4 receivers sold in the United States, there is no internal fuse for the AC power interconnections.
+

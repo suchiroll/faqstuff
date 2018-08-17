@@ -1,0 +1,12 @@
+Title: Can the SCM262 outputs have different signals?
+Id: 2021
+Legacy Id: 2086
+
+Question:
+Can the stereo inputs be sent to both sets of outputs with the mic inputs being sent to the main output only?
+
+
+Answer:
+
+	No. The 1/4 TRS outputs are driven from the same output section that drives the RCA outputs.
+

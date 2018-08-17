@@ -1,0 +1,35 @@
+Title: Is the sound system in my church installed properly and safe to operate?
+Id: 3138
+Legacy Id: 3273
+
+Question:
+I am concerned about the safety of the sound system in my church. There have been many volunteers that have worked on it, and I have doubts about the electrical safety of the system. Any advice?
+
+
+Answer:
+
+	The National System Contractor Association offers this advice:
+	
+
+	
+		Find out who did the sound system installation and verify that they used electical code-compliant grounding practices.
+	
+		Determine if any lay-person moved, added, or changed anything with the system. If yes, verify that all changes meet local electrical code.
+	
+		Find out who did the electrical work in the building and determine their qualifications, and verify that all work meets local electrical code.
+	
+		Find out if any lay-person moved, added, or modified any electrical device, appliance, etc. If yes, verify that all changes meet local electrical code.
+	
+		Compile the results from above. If still in doubt, bring in a qualified expert trained on safety and technical grounding practices.
+	
+		Have the qualified expert verify that the sound system and other electronic systems have safety grounds in place and no ground lifters in use.
+	
+		Verify that a qualified electronic systems technician was the last person to work on any electronic devices that are in use.
+	
+		Verify that a qualified electrician was the last person to do any electrical work in the building and that he did a complete safety grounding test on the electrical outlets in the building. Make sure this test was done with professional quality test equipment and not devices found at local hardware stores.
+	
+		Make sure your building meet local electrical code and that GFCI (ground fault circuit interrupter) outlets or breakers are in place where required.
+	
+		Establish a firm policy within your church to hire qualified professionals to perform this type of work. Well-meaning volunteers could unwittingly put lives in danger if they do not thoroughly understand electrical codes and structural codes.
+
+

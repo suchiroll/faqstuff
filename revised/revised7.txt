@@ -1,0 +1,67 @@
+Title: Pin-out for Shure bodypack transmitters and preamps - TA4M / TA4F
+Id: 7
+Legacy Id: 7
+
+Question:
+What is the pin-out for Shure bodypack transmitters?
+
+
+Answer:
+
+	
+		
+			
+				Product Model
+			
+				Wiring
+		
+		
+			
+				
+					
+						Wireless bodypack transmitters - all models with TA4M connectors
+					
+						MX1BP Battery/Phantom Preamplifier
+					
+						RK183PK Microflex Preamplifier (see below for RF Resistant RK100PK preamp model)
+					
+						RPM626 BETA Preamplifier
+				
+			
+			
+				Pin 1: Shield
+				Pin 2: Bias (+5Vdc)
+				Pin 3: Audio
+				Pin 4: Bias return - 20 k Ohm resistor to ground or equivalent active bias management circuit (jumpered to pin 3 when used with most condenser microphones)
+		
+		
+			
+				
+					
+						RK100PK Wired Preamplifier
+				
+			
+			
+				Connector Body: Shield
+				Pin 1: Unused
+				Pin 2: Bias (+5Vdc)
+				Pin 3: Audio
+				Pin 4: Bias return - active bias management circuit (jumpered to pin 3 when used with most condenser microphones)
+		
+	
+
+
+	
+
+	
+
+	The pictorial shows the pin layout of a TA4F connector, as viewed from the wiring side. If you use a bright light and look at the female connector (TA4F) used for the cable, you will see numbers next to each hole.
+
+	
+
+	Applications:
+	Condenser Microphones - Shure WH30, PG30, WL18x, WL50, WL51, WL93, etc.
+	- Connect audio lead (black) to pins 3 and 4
+	- Connect bias lead (red) to pin 2
+	- Connect shield to pin 1 and connector body (use cable clamp insert piece as the connector body terminal)
+

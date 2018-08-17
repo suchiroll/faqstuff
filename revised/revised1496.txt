@@ -1,0 +1,11 @@
+Title: BG 5.1 XLR wiring
+Id: 1496
+Legacy Id: 1549
+
+Question:
+I have a BG5.1 mic with the wires ripped out of the connector. Please provide me the wiring diagram so I can repair.
+
+
+Answer:
+
+	PG81, SM94, 849, BG 5.1, or BG 4.1 XLR connector is loose

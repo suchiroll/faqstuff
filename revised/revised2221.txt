@@ -1,0 +1,12 @@
+Title: Replacement Stylus for V15V-P
+Id: 2221
+Legacy Id: 2298
+
+Question:
+I have a Technics SL-J33 with a Shure P mount V15 cartridge. I am looking for the correct replacement stylus. I ordered a VN5MR but found this is not the correct item, as the P mount fitting is much smaller. Please provide me with the correct part number.
+
+
+Answer:
+
+	Assuming your product is the V15V-P, the correct stylus is the VN5P.
+

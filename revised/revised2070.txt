@@ -1,0 +1,13 @@
+Title: Effect of smoking on mic
+Id: 2070
+Legacy Id: 2136
+
+Question:
+Just bought Shure SM58 mics over the internet. I've seen ads stating that mic came from "non-smoking studio," but did not pay much attention. The mics I got came from a heavy smoking environment. What effect might smoke have on the condenser elements and if something can be done, what?
+
+Answer:
+
+	Unlikely that the performance will be affected.
+	
+	How should I clean my microphone?
+

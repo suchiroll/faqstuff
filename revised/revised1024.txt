@@ -1,0 +1,16 @@
+Title: VN5MR stylus vs. VN5xMR stylus
+Id: 1024
+Legacy Id: 1054
+
+Question:
+I have a 1987 vintage V15 Type V-MR cartridge. Can the VN5xMR stylus be used with that cartridge if I cannot find the VN5MR replacement?
+
+
+Answer:
+
+	Sorry, the VN5xMR stylus does not operate properly with the V15V-MR body. The stylus shank of the VN5xMR is too large to fit into the V15V-MR body.
+
+	
+
+	Conversely, the VN5MR stylus shank does not fit securely into the V15xMR body.
+

@@ -1,0 +1,16 @@
+Title: One ULX-D Transmitter to Multiple ULXD4 Receivers
+Id: 4042
+Legacy Id: 4481
+
+Question:
+Can multiple ULXD4 receivers receive a signal from one ULXD microphone simultaneously?I need to distribute audio via wireless to multiple users - the in-house sound reinforcement system and a mobile A/V recording cart.
+
+Answer:
+
+	It is possible to use multiple ULXD4 wireless microphone receivers to simultaneously receive the signal from one ULX-D wireless microphone. This configuration may be useful when it is necessary to feed audio to multiple A/V functions, and running wires is not feasible. Here are some rules to observe:
+	
+	1. One of the ULXD4 receivers should be designated as primary, and if needed, used to scan for a clear frequency.
+	2. Once a clear frequency is found, the primary receiver should be syncd to the microphone transmitter. This will load the operating frequency into the transmitter.
+	3. Manually program the frequency into the additional ULXD4 receivers. Instructions are in the ULX-D User Guide, which is available to download on the Shure website.
+	4. As needed, adjust the audio gain control on each receiver to an optimum setting - observe the audio level displayed on the audio meter on the front panel of the receiver. A setting of +10 is recommended as a starting point.
+

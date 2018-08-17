@@ -1,0 +1,39 @@
+Title: PG transmitter current draw and battery condition indicator
+Id: 3454
+Legacy Id: 3648
+
+Question:
+What is the current draw of the PG1 bodypack transmitter and PG2 handheld transmitter? How is the battery condition indicator supposed to work?
+
+
+
+Answer:
+
+	Typical Current Draw:
+	
+	PG1
+	74 to 78 mA during power up (10 seconds duration)
+	48 to 52 mA when operating
+	50 to 54 mA when muted
+	
+	PG2
+	74 to 78 mA during power up (10 seconds duration)
+	50 to 54 mA when operating
+	52 to 56 mA when muted
+	
+	Low Battery Shut Down
+	A firmware battery condition routine allows the battery voltage to reach to 5.7V before shutdown, and will not turn the transmitter back on unless a voltage greater than 6.25V is present. The design keeps the system in a controlled state when the battery islow, and also helps prevent the use of a weak battery during power up.
+	
+	Low Battery Indicator
+	The LED will turn red once the battery is drained below 7.0V, and will not display green again until a battery with a voltage above 7.2V is installed.This design helps prevent a weak battery from appearing to be strong after it has been unused for a period of time. Batteries will vary dramatically as to how much operating time remains when they reach 7.0V. Some batteries will only work for 30 minutes or less once 7.0V is reached; others will continue to work for 2 to 3 more hours. It is recommended that the PG user experiment with different battery brands to find which works best in their application.
+	
+	Variations in Battery Life
+	Note that the total battery life obtained in a PG transmitter will vary greatly based upon the type of battery and the manufacturer.Shure Engineering tested four different brands of alkaline batteries using the same PG transmitter.The range of total battery life was from 6 hours/30 minutes up to 11 hours/7 minutes.The range of remaining battery life once the red LED illuminated was from 1 hour/17 minutes up to 4 hours/44 minutes.The best performing battery was a house brand purchased from a major home hardware/building supply retailer.
+	
+
+	Here is a graph of an Energizer battery showing 10 hours of battery life in a PG2 transmitter:
+
+	
+
+	
+

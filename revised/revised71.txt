@@ -1,0 +1,82 @@
+Title: Basics of Equalization and Feedback
+Id: 71
+Legacy Id: 71
+
+Question:
+Basics of Equalization and Feedback
+
+
+Answer:
+
+	Basics of Equalization and Feedback
+
+	Equalization: Selectively boosting or cutting bands of frequencies to improve the performance of a sound reinforcement system.
+
+	What equalization can do when used properly:
+
+	
+		Noticeably, but not dramatically, improve the naturalness or intelligibility of a sound reinforcement system by emphasizing the frequency ranges most critical for speech.
+	
+		Noticeably, but not dramatically, increase the overall output level of a sound reinforcement system by reducing the systems output in the frequency bands at which feedback occurs. These frequency bands will differ from system to system based on many variables, including room acoustics, microphone placement/design, loudspeaker location/design, even air temperature.
+
+
+	What equalization cannot do:
+
+	
+		Make a poorly designed sound reinforcement system work satisfactorily. Every well-designed sound reinforcement system is subject to the laws of physics described by the Potential Acoustic Gain equation.
+	
+		Improve intelligibility problems caused by reverberation, reflections, mechanical vibration, high background noise levels, or other problems caused by the location or physical design of the room. These problems are acoustical in nature and cannot be solved electronically. They must be resolved with acoustical solutions, such as sound absorbent panels and heavy drapes.
+	
+		Improve intelligibility problems caused by the talker being too far from the microphone.
+	
+		Improve the performance of sub-standard audio components in the sound reinforcement system.
+	
+		Eliminate distortion or noise problems caused by mismatched audio levels between system components.
+	
+		Improve echo return problems in teleconferencing systems.
+
+
+	How to approach equalization:
+
+	Approach equalization gently and slowly! After every adjustment, listen carefully to the resulting sound. The goal is to improve sound quality as well as increase the gain before feedback. When the system is loud enough and/or clear enough, stop equalizing! Also, stop equalizing and examine the complete sound reinforcement system in detail whenever the equalization causes a degradation in the sound quality.
+
+	What is the best equalization curve for a speech sound reinforcement system?
+
+	See the graph below. Note that the response above 2kHz rolls off 3dB for each octave, i.e. -3dB at 4kHz; -6dB at 8kHz; -9dB at 18kHz. The response from 125Hz to 2kHz is flat with a window of 2dB. Frequencies below 125Hz are rolled off to minimize rumble/boominess. This curve is based on human hearing and perception research.
+
+	
+
+	What is acoustic feedback?
+
+	Acoustic feedback occurs when the amplified sound from any loudspeaker re-enters the sound system through any open microphone and is amplified again and again and again.
+
+	What can make feedback problems worse?
+
+	
+		Placing loudspeakers too close to microphones.
+	
+		Too many open microphones.
+	
+		Boosting tone controls indiscriminately.
+	
+		Room surfaces that are hard and reflective such as glass, marble, wood.
+
+
+	What to do if feedback occurs before the sound system is loud enough?
+
+	
+		Request that the talker speak louder into the microphone.
+	
+		Reduce the distance from the talker to the microphone. Each time this distance is halved, the sound system output will increase by 6dB.
+	
+		Reduce the number of open microphones. Each time this number is halved, the sound system output can be increased by 3dB.
+	
+		Move the loudspeaker farther away from the microphone. Each time this distance is doubled, the sound system output can be increased by 6dB.
+	
+		Move the loudspeaker closer to the listener. Each time this distance is halved, the sound system output will increase by 6dB.
+	
+		Use an equalizer/feedback reducer to cut the frequency bands in which the feedback occurs. The sound system output will typically increase 3 to 9dB.
+
+
+	NOTE: Do not rely solely on an equalizer/feedback reducer to provide sufficient additional output in a sound system where the microphones and loudspeakers are too close together. The result will be unsatisfactory.
+

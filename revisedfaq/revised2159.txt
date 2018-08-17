@@ -1,0 +1,40 @@
+Title: Ribbon Microphones - Care and Use
+Id: 2159
+Legacy Id: 2232
+
+Question:
+Any advice on the care and use of vintage Shure ribbon microphones?
+
+
+Answer:
+
+	RIBBON MICROPHONES: PROPER USE AND CARE
+
+	by Dick Gardner
+	Bass Harmonicat - 1971 to 1993.
+	
+	The ribbon microphone has a history rich in sound achievements. Look at a pre-1950 movie news reel, photographic journal, recording promotional shot, or political picture, and you will likely see the gigantic cages of chrome-plated, windscreen-covered transducers known as ribbon microphones. Velocity microphone or gradient microphone are other names for the ribbon microphone.
+	
+	They all had one thing in common, a ribbon of foil, acting as an eardrum or tympanic membrane. Usually, the ribbon was 1/8 to 1/4 in width, 1 to 3 in length, very thin, (thousandths of an inch), and formed in a corrugated or crease-folded pattern. The foil was suspended between two poles of a powerful magnetic assembly, one end grounded to the pole pieces, the other end insulated. This design enables a signal voltage to be formed as the foil vibrates within the dense magnetic field.
+	
+	Ribbons are indoor or studio microphones due to the delicate nature of the fine ribbon foil. Strong air blasts from wind, unwitting users blowing into the mic to test it, or low frequency loudspeakers will certainly drive this gossamer foil from its cradle, rendering it useless. The foil stretches, allowing it to flap out of the magnetic gap, shorting out on anything it touches. Or worse, the ribbon tears loose from its poles, permanently muting the microphone.
+	
+	The following suggestions will help users understand the correct use of this wonderful creation, the magical ribbon microphone. So kind to the human voice, Shure, Electro-Voice, Altec, RCA, BO, Aiwa, Resio, and others made ribbon microphones in times past.
+	
+	1. Never blow into a ribbon microphone to test it. Talk, sing, play your harmonica, or whisper. A ribbon microphone hates wind, loudspeaker ports, and bass drums that are closely miked. Ever have someone yell in your ear? The ribbon microphone feels the same pain!
+	
+	2. Never lay a ribbon microphone on any surface. The powerful magnet literally vacuums up micro-fine particles of iron, known as tramp metal, that are invisible to our eyes, but lying about as the most common element on earth. Theaters, backstages, and equipment storage areas are rich in minute tramp iron. Beware! Iron bits, so tiny as to pass through the windscreen, can lodge in the voice coil gaps. This will impede ribbon movement and result in distortion, loss of low frequency response, and loss of output level.
+	
+	3. Protect the ribbon microphone from air blasts. Cover the microphone with a foam windscreen if used outdoors. Art Foam is a product found in hobby shops. It is 1/8 thick, grey or beige in color, and available in sheets large enough to make a custom foam windscreen. Better yet, use a different (non-ribbon) mic when outdoors.
+	
+	4. Be very careful when connecting a ribbon microphone to a mixer input that provides Phantom Power. Phantom power has a range of 12 to 52 volts dc and is used to power condenser microphones. Many ribbon microphones do not tolerate phantom power. If the phantom power current flows through the ribbon element, it will be destroyed instantly. As there are many different cable wiring schemes in the audio world, this destructive situation is not uncommon and many a ribbon foil has been destroyed by phantom power.
+	
+	5. Avoid heat and humidity and rough handling. In spite of the delicate nature of the ribbon microphone, it can survive terrible environmental conditions, but why tempt fate? Store the microphone at the same temperature and humidity level that you choose for your living room. And handle the microphone gently as well. Vintage ribbon microphones are antiques and need to be treated carefully. To prove ruggedness, Shure actually advertised that they pounded nails with one of a model 330 ribbon microphone. Use a hammer instead!
+	
+	If you have a ribbon microphone in need of repair, contact:
+	Dick Gardner
+	7024 Jocelyn Ave S.
+	Cottage Grove MN 55016
+	email: harmonicats@juno.com
+	December 2001
+

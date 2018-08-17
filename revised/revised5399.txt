@@ -1,0 +1,45 @@
+Title: MOTIV Products - General Information
+Id: 5399
+Legacy Id: 5708
+
+Question:
+MOTIV Products - General Information
+
+Answer:
+
+	Jan. 6, 2015- Shure introduced MOTIV digital products, a new plug-and-play microphone line suited for individuals looking to capture high-quality audio for vocal/acoustic recording, podcasts, YouTube videos, field recording, and more. The MOTIV products include four new Apple MFi (made for iPhone, iPod, iPad) Certified devices, including three condenser microphones and a digital audio interface that will connect directly to any iOS device without additional adapters or connection kits.
+	
+	MOTIV Products Web Page
+	
+	How to Choose a Motiv Product
+	
+	The MOTIV line features:
+	
+	MOTIV MV5 Digital Condenser Microphone
+	
+	MOTIV MV88 iOS Digital Stereo Condenser Microphone
+	
+	MOTIV MV51 Digital Large-Diaphragm Condenser Microphone
+	
+	MOTIV MVi Digital Audio Interface
+	
+	ShurePlus MOTIV Mobile Recording Application
+	
+	Shure MOTIV microphones, as well as the digital interface, come with assorted DSP modes. Designed for entry-level users seeking better audio quality, MOTIVs user-selectable DSP modes (speech, singing, flat, acoustic instrument, loud) set audio parameters behind the scenes. By using DSP modes to indicate what is being recorded, select MOTIV models automatically adjust the audio processing by setting gain, EQ, and compression.
+	
+	About MOTIV Digital Products
+	
+	MV5 Digital Condenser Microphone: The MV5 is for recording vocals and acoustic instruments, or for general speech use, and comes equipped with three DSP modes and a Micro-B to USB cable. The MOTIV MV5 has a built-in headphone output for real-time monitoring and a custom tuned microphone capsule. The MV5 is available in green, gray, blue, red, and black (region dependent) and ships complete with a detachable desktop stand and integrated thread mount compatible with any 1/4-20 camera tripod mount. The MV5 canalso bepurchased with Micro-B to Lightning and Micro-B to USB cables. Each MV5 cable is one meter (39 inches)in length.
+	
+	MV88 iOS Digital Stereo Condenser Microphone: The MOTIV MV88 connects directly to an Apple iPhone, iPod, or iPad equipped with a Lightning connector to capture high-quality field recordings. The mid-side microphone element is mounted to a 90-degree hinge with built-in rotation that allowsadjustable microphone positioning. Five built-in DSP preset modes, plus 5-band EQ, stereo width control, and other features are accessed through the free ShurePlus MOTIV Mobile Recording App.
+	
+	MV51 Digital Large-Diaphragm Condenser Microphone: Engineered for high-quality digital audio capture, the MOTIV MV51 large-diaphragm condenser microphone connects to any iOS, Mac, or PC. Equipped with five onboard DSP preset modes to provide optimal recording, the MV51 includes the industrys first touch panel control for quick access to gain, mute, and headphone volume adjustments. The one-inch capsule element provides superb audio whichcan bemonitored in real-time through the built-in headphone output. The vintage design includes an integrated kickstand for desktop use and adapts for use with any standard mic stand.
+	
+	MVi Digital Audio Interface: The MVi connects an XLR microphone or 1/4 instrument (guitar, bass, or keyboard) to an iOS device, Mac, or PC for high-quality audio capture. Equipped with the five built-in DSP preset modes, the MVi includes Shures unique onboard touch panel control for access to gain, phantom power, mute, and headphone level adjustments. The MVi is portable with a low profile footprint and durable construction. The MVi comes with both Micro-B to Lightning and Micro-B to USB cables.
+	
+	ShurePlus MOTIV Mobile Recording App: Designed for use with MOTIV microphones, the ShurePlus MOTIV Mobile Recording App for iOS devices allows real-time performance adjustments. The easy-to-use interface includes selectable DSP preset modes, microphone gain adjustment, and an intuitive stereo width control that adjusts the microphone pick-up pattern.
+	
+	MOTIV products record studio quality sound at 24-bit/48 kHz. Additionally, MOTIV products pass Shures rigorous product testing to ensure reliability.
+	
+	MOTIV Model Suffixes: LTG = Lightning connector; B = Black Housing
+

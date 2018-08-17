@@ -1,0 +1,21 @@
+Title: VHF group frequencies for Florence, SC
+Id: 1217
+Legacy Id: 1261
+
+Question:
+Can someone tell me the recommended VHF frequency groups for an LX wireless system in Florence, SC? The available TV channel for Florence is 13. When I looked on the (very helpful) tech support web pages, none of the other listed cities had TV 13 only open. Our church choir is going on tour to the Carolinas, including to Wilmington, NC and Myrtle Beach, SC, which are close to Florence. I need to know if the church's
+
+
+Answer:
+
+	Looking at our online frequency map, you can see that Florence, SC has a channel 13 on the air:
+	
+	
+	
+	This means you do not want to operate a wireless microphone on television channel 13 in Florence, SC. This is the exact opposite of what you wrote above. TV channel 13 is NOT available in Florence.
+	
+	Wilmington, NC and Myrtle Beach, SC do not have any VHF stations on the air.
+	
+	So, knowing that you must avoid TV channel 13, you can use our online frequency compatibility lists:
+	
+

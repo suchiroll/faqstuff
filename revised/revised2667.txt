@@ -1,0 +1,21 @@
+Title: WL condenser mic to Sennheiser SK50 or SK100 transmitter
+Id: 2667
+Legacy Id: 2771
+
+Question:
+How can I connect a Shure WL condenser mic to a Sennheiser SK50 or SK100 transmitter?
+
+
+Answer:
+
+	The audio input on some Sennheiser transmitters (like the BF1083) is only two pins: a center pin and an outer pin. This is a MicroDot connector. A Shure WL condenser mic will work if connected as follows:
+	
+	· WL shield to Sennheiser outer pin
+	· WL black (audio) to Sennheiser outer pin
+	· WL red (bias) Sennheiser center pin
+	
+	Though this scheme shorts the WL audio wire to ground, the red bias wire is now modulated with the audio signal. This scheme has been tried in the field and has worked properly.
+	
+	Per Sennheiser, this scheme also applies to the Evolution series bodypack that uses a stereo 1/8" (3.5mm) phone plug connector.
+	Red wire (bias) to tip; black wire (audio) and shield to sleeve. Leave the ring unconnected.
+	The bodypack uses a locking 1/8" phone plug connector, available directly from Sennheiser.

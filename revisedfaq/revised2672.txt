@@ -1,0 +1,26 @@
+Title: Making a microphone as a school project.
+Id: 2672
+Legacy Id: 2776
+
+Question:
+This may seem as an unusual request, but I hope you can help. I am a teacher at Higher Technical School John Vorster and would like to have my learners build a microphone as a practical project. I thought a carbon microphone would be the easiest to construct. Perhaps you would like to suggest something else? Would it be possible to obtain from you the manufacturing specifications for the 33N microphone? The idea would be that the best made microphones will be used by the school during concerts.
+
+
+Answer:
+
+	I thought a carbon microphone would be the easiest to construct.
+	* Yes, but a carbon mics fidelity is very poor.
+	
+	Perhaps you would like to suggest something else?
+	* Making a mic of even poor quality requires specialized tools and knowledge. It is not a do-it-yourself project.
+	
+	Would it be possible to obtain from you the manufacturing specifications for the 33N microphone?
+	* We can mail you a copy of the User Guide. All manufacturing details are trade secrets.
+	
+	The idea would be that the best made microphones will be used by the school during concerts.
+	* A nice idea, but not feasible without years of mic design/construction experience.
+	
+	*We suggest you learn more about mic design by reading the book: Microphone Engineering Handbook ISBN 0-7506-1199-5
+	
+	* Or purchase inexpensive mic elements from www.mouser.com and then build mic preamps to match the mic elements. Many ideas at: http://www.epanorama.net
+

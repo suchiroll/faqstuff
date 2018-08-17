@@ -1,0 +1,12 @@
+Title: Which microphone clip fits the BG 3.1?
+Id: 364
+Legacy Id: 371
+
+Question:
+What type of microphone stand clip fits the Shure BG 3.1 microphone?
+
+
+
+Answer:
+
+	The A25D adapter will fit the BG 3.1 microphone.

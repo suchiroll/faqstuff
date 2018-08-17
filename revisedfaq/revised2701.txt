@@ -1,0 +1,14 @@
+Title: Spliting the output of a microphone
+Id: 2701
+Legacy Id: 2805
+
+Question:
+I am in a local band and are currently using SM58's for the vocalists. We would like to connect each mic to an individual speaker monitor for each musician in addition to the main PA system. This requires spliting the output of each mic to form two outputs. One to the main PA amplifier/mixer and one to the personal monitor. What is your recommendation as to how to do this? Do you sell an accessory that does this?
+
+
+Answer:
+
+	Professionals use devices called mic splitters. Shure does not make these devices.
+	
+	Mic splitters are available from Markertek.
+

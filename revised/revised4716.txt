@@ -1,0 +1,19 @@
+Title: How to export or share recordings from the Motiv app in iTunes
+Id: 4716
+Legacy Id: 5886
+
+Question:
+How can I export or share recordings from the Motiv app in iTunes?
+
+
+Answer:
+
+	Connect your device to the computer and open iTunes.  
+	Click on the iPhone icon, and select "File Sharing" from the column on the left.
+
+
+Once you highlight the Motiv app, you should see a list of recordings in the right column.
+
+
+From here, select one or more files and click the  "Save To" button and select a destination folder when you want to copy your files.
+

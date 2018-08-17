@@ -1,0 +1,36 @@
+Title: Impedance Balanced Outputs and Gain on BLX, SLX, PGX, and PG receivers
+Id: 3056
+Legacy Id: 3187
+
+Question:
+What is an impedance balanced output? How might it affect my use of the BLX, SLX, PGX, or PG receiver?
+
+
+Answer:
+
+	The XLR output and the 1/4 phone jack output of the BLX, SLX, PGX, and PGreceiver are impedance balanced.
+
+	NOTE: The 1/4 phone jack output has a signal level that is 14 dB greater than the XLR output.
+
+	On the XLR output, the impedance from pin 2 to ground is the same as from pin 3 to ground, thus the circuit is impedance balanced.
+	
+	Pin 1 is the cable shield and ground.
+	Pin 2 supplies the audio signal.
+	Pin 3 has no audio signal.
+	
+	When connecting the XLR output of the receiver to a balanced mic input, simply use a standard mic cable.
+	
+	When connecting the XLR output of the receiver to an unbalanced mic input, make certain that XLR pin 2 is connected to the tip of phone plug as XLR pin 2 supplies the audio signal.
+
+	NOTE: A transformer balanced XLR output or active balanced XLR output has audio on pin 2 and pin 3, unlike the impedance balanced output where the audio signal is supplied only to pin 2.
+
+	On the 1/4 phone jack output, the impedance fromtip to sleeve is the same as fromring to sleeve, thus the circuit is impedance balanced.
+	
+	Sleeve is the cable shield and ground.
+	Tip supplies the audio signal.
+	Ring has no audio signal.
+	
+	When connecting the 1/4 phone jack output of the receiver to a balanced XLR female mic input, use a cable with a 1/4 TRS male plug on one end and a male XLR connector on the other.
+
+	When connecting the 1/4 phone jack output of the receiver to an unbalanced 1/4 phone jack input, use a standard instrument cable that will have the audio send on the tip and the audio return on the sleeve.
+

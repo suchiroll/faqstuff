@@ -1,0 +1,14 @@
+Title: How to use the PGA31-TQG, SM31FH-TQG, PG185-TQG or PG30-TQG as a wired mic
+Id: 3333
+Legacy Id: 3510
+
+Question:
+What is required to use the following microphones as wired mics: PGA31, SM31FH, PG185, PG30?
+
+
+
+Answer:
+
+	An in-line preamp must be used.  To operate, the preamp requires the microphone mixer to provide phantom power.  Be certain that the microphone mixer has phantom power capability.
+	
+	The Shure RK100PK preamp will work with these mic models.  The preamp may be purchased from a Shure dealer or from Shure Parts.

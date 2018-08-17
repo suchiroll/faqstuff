@@ -1,0 +1,13 @@
+Title: A75M Universal Mic Mount as an Antenna Mount
+Id: 3931
+Legacy Id: 4180
+
+Question:
+I need a mounting method for Shure antennas that I can quickly fasten to a mounting surface. Can the A75M be used?
+
+
+Answer:
+
+	Yes, the A75M is useful for this application.  The A75M is supplied with a male 5/8"-27 external thread stud - the same thread that is on the top of mic stands commonly used in the United States.  The A75M can be clamped to a variety of shaped surfaces: flat, round, and irregular.
+	1) The Shure directional antenna, UA874 or PA805, has a female 5/8"-27 internal thread adapter.  It will fasten securely to the A75M, and the A75M can be clamped to the desired mounting surface.
+	2) The Shure WA371 is a mic clip for any Shure handheld transmitter.  The WA371 is the correct size to hold the Shure UA860 omnidirectional wideband antenna. Clip the UA860 into the WA371, fasten the WA371 to the A75M, and clamp the A75M to the desired mounting surface.

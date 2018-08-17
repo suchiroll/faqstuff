@@ -1,0 +1,18 @@
+Title: T Series system - troubleshooting
+Id: 1068
+Legacy Id: 1103
+
+Question:
+Wireless microphone: "The Headset" - T4V receiver, T1G body pack, WH10 microphone. I've used this system for about 3-4 years at high school/college stadiums for (sports) track meet scoring and announcing from an infield location (receiver located in the pressbox, hooked to a stadium's PA system). This year (for the first time) I'm experiencing occasional signal dropouts even with line-of-sight to the transmitter, within 200 feet. (Antenna beneath transmitter is secure and properly soldered to internal chip board.) A possibly clue: Though the yellow A-B antenna "diversity" lights on the receiver are lighted... the red "audio peak" light is relatively difficult to activate - unless the mike is extremely close (touching my lips) and I'm close to the receiver. If memory serves correct, in prior years the red light always glowed if the transmitter was next to, or very near the receiver. The "gain" control on the transmitter is turned fully clockwise (turned counterclockwise, understandably prevents red light activation). The squelch control on the back of the receiver, set minimum or maximum, appears not to affect the audio peak red light function. New batteries do not effect any difference. The local dealer where I purchased the unit suggested the system possibly needs a "tuning adjustment" (equipment he does not have). Does this sound like I need to send everything back to the factory for service?
+
+
+Answer:
+
+	The red overload light on the receiver would only come on if the audio signal from the microphone/transmitter is too loud.
+	
+	Troubleshooting wireless systems through e-mail is difficult. We suggest calling us directly and talking to the Applications Engineering Group. It is so much easier doing this in real time. Call us at 1-800-516-2525, listen to the recording and press 4 for Applications Group. Call between Monday and Friday, 8am to 5pm, CENTRAL TIME.
+	
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/ProAudio/ServiceAndWarranty/ServicePolicies/index.htm
+

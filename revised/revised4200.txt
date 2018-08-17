@@ -1,0 +1,13 @@
+Title: M91ED cartridge height
+Id: 4200
+Legacy Id: 5157
+
+Question:
+What is the height of the Shure cartridge from stylus tip to top of cartridge body?
+
+
+Answer:
+
+	From stylus tip to cartridge top: 18 mm
+	
+

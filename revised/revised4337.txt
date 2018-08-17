@@ -1,0 +1,15 @@
+Title: GLX-D microphone battery charging/care for long term storage
+Id: 4337
+Legacy Id: 5421
+
+Question:
+We have purchased a GLX-D receiver and microphone. The microphone has a lithium ion battery. I understand that it can be charged several ways. I have looked in the manual, on the website and also called the place where it was purchased, but I have not found any information about how to store store the microphone/battery for short and long periods.
+For example, the microphone will be used periodically throughout the school year. But I don't always know when it will be used. Given this situation, do I keep the battery charging? If so, which method is best under these circumstances. If not, can the battery be left in the microphone, or should it be taken out when not in use? Over the summer, the microphone is used very little. How should the battery be handled in this scenario? Please let me know since I know that treating the battery well is important to it lasting a long time.
+
+
+Answer:
+
+	During short periods (one month or less), it does not matter much. Leave the battery in the mic or place it in the receiver so it is fully charged for the next event. Li-Ion batteries are quite forgiving for short time periods.
+	
+	Before the summer break, charge the battery fully and remove it from the charger for storage.At the beginning of the next school year, charge the battery again before using. Extreme heat or cold will reduce the life of the battery, so keep it at typical room temperature during this storage time.
+

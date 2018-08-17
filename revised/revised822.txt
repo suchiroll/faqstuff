@@ -1,0 +1,13 @@
+Title: Purchase WCM16 with XLR connection?
+Id: 822
+Legacy Id: 844
+
+Question:
+I have a customer that would like to purchase a WCM16 with A120S and a Male XLR connection. Please reply as soon as you can. 
+
+Answer:
+
+	If your customer wants to use the WCM16 wired, they can use the RK100PK preamp.
+	
+	The A120S will not work on this microphone. Its a condenser microphone.
+

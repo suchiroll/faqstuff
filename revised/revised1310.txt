@@ -1,0 +1,12 @@
+Title: A53M Interior Diameter
+Id: 1310
+Legacy Id: 1360
+
+Question:
+What is the inside diameter of the rubber sleeve? or What is the largest mike barrel diameter that will fit this unit? The A55M units I have are too large for the mike I wish to mount, however, the A53M may be too small.
+
+
+Answer:
+
+	The interior diameter of the A53M is 3/4 (20 mm).
+

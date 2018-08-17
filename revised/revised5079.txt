@@ -1,0 +1,37 @@
+Title: Battery Powered Phantom Power Supply with Unbalanced Output
+Id: 5079
+Legacy Id: 227
+
+Question:
+How do I make a battery powered phantom power supply with an unbalanced output?
+
+
+Answer:
+
+	Battery Powered Phantom Power Supply with Unbalanced Output
+
+	The schematic below illustrates an 18 volt phantom supply. It will supply any Shure microphone that requires phantom power. Battery life is dependent on the current drain of the microphone. To estimate the battery life in hours, divide 400 by the microphones current drain in milliamps. For example, the Shure SM81, with a current drain of 1.2 milliamps, will operate for about 330 hours. The use of premium alkaline batteries is recommended.
+	
+	Schematic is for 18 volt power supply. Output must feed an unbalanced input.
+	
+
+	
+	
+
+	
+		
+			
+				C1, C2 = 100F, 35V
+				D1 = 1N4001 or equivalent
+				R1, R2 = 2.2k, 1/4W, 1%
+				R3 = 100k, 1/4W, 5%
+				S1 = SPST
+				This circuit must be in a metal enclosure
+				Pin 1 must be grounded to the enclusore
+				Parts available from Mouser Electronics (800) 346-6873 or www.mouser.com
+		
+	
+
+
+	
+

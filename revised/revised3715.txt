@@ -1,0 +1,27 @@
+Title: KCX Wireless Microphone Systems
+Id: 3715
+Legacy Id: 3948
+
+Question:
+What is the KCX line of wireless microphone systems?
+
+
+Answer:
+
+	Introduced in 2010, the KCX line is an economical wireless system sold in China for the karaoke market.  KCX replacement parts, accessories, and repair service are offered only by Shure Asia.
+	This product is sold only in China and has governmental approval for use only in China.  The KCX line of wireless products must not be used outside of China as operation could violate local governmental regulations.  For example, the KCX products are not approved for use in the United States.  The use of KCX wireless systems within the United States is a violation of Federal law.
+	
+	What frequency bands are available for the KCX system?
+	698 MHz to 710 MHz: P12 band and P13 band
+	710 MHz to 726 MHz: P14 band and P15 band
+	726 MHz to 742 MHz: P16 band and P17 band
+	742 MHz to 758 MHz: Q16 band and Q17 band
+	758 MHz to 774 MHz: Q18 band and Q19 band
+	774 MHz to 787 MHz: R23 band and R24 band
+	
+	What are the primary components of the KCX line?
+	KCX 1 bodypack transmitter - 10mW maximum RF output; 8 RF channels selected by a switch; on/off switch with power LED; TA4F audio input connector; input gain switch and gain potentiometer; operates on two AA batteries for up to 10 hours; supplied with PG185 lapel microphone.
+	KCX 2 handheld  transmitter - 1 mW or 10mW maximum RF output selected by a switch; 8 RF channels selected by a switch; on/off switch with power LED; operates on two AA batteries for up to 10 hours; supplied with PG28 microphone element or PG58 microphone element.
+	 
+	KCX 4 diversity receiver - 8 RF channels selected by a switch; balanced XLR mic level output - adjacent Mic/Line switch provides 20 dB of additional gain; unbalanced ¼" female phone jack instrument level output; squelch adjustment potentiometer;  power LED, Audio LED; RF Antenna A LED, RF Antenna B LED; operates on 12 to 18 Vdc with an operating current draw of 130 mA; supplied with external AC-to-DC power supply.
+	KCX 88 diversity dual receiver - essentially two KCX 4 receivers in one enclosure; 8 RF channels (selected by a switch) per receiver; two balanced XLR mic level outputs - adjacent Mic/Line switch provides 20 dB of additional gain; two unbalanced ¼" female phone jack instrument level outputs; two squelch adjustment potentiometers; one power LED; Audio LED; RF Antenna A LED, RF Antenna B LED per receiver; operates on 12 to 18 Vdc with an operating current draw of 200 mA; supplied with external AC-to-DC power supply.

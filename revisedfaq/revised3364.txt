@@ -1,0 +1,14 @@
+Title: Volume control / Attenuator for earphones
+Id: 3364
+Legacy Id: 3548
+
+Question:
+Is there a volume control or attenuator available for the earphones? When I plug the earphones into the seat on an airplane, it is always too loud.
+
+
+Answer:
+
+	Since Shure earphones are very sensitive, the headphone jacks on airplanes and other devices can be a problem. Radio Shacksells an earphone volume control to lower the level from the airplane seat and provide a more comfortable level.
+	
+	This can also reduce the problem of excess hiss, hum and background noise from the airplanes headphone jack.
+

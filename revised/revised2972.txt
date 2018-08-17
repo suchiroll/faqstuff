@@ -1,0 +1,15 @@
+Title: LX transmitter compatible with SC receiver?
+Id: 2972
+Legacy Id: 3100
+
+Question:
+I have a customer who had an SC body pack transmitter stolen.....can he use an LX body pack transmitter with that system (both are on the same frequency)? Are there issues surrounding companding, tone squelch and or audio compatibility?
+
+
+Answer:
+
+	Can he use an LX body pack transmitter with that system (both are on the same frequency)?
+	* Yes.
+	
+	Are there issues surrounding companding, tone squelch and or audio compatibility?
+	* Yes. Disable Tone Key Squelch on the SC4 receiver. Tune the SC4 receiver to its base frequency.

@@ -1,0 +1,13 @@
+Title: How do I setup the headshell weights?
+Id: 363
+Legacy Id: 370
+
+Question:
+I recently bought a new headshell for your M97xE and it came with a relatively heavy weight (the plate is stamped 12 or 1.2--I can't tell).  When, if ever, should this be used?  My tonearm is a low-mass aluminum S-tube, and I had the impression that tonearm/headshell mass should be kept as low as possible.  Thanks.
+
+Answer:
+
+	Some battle DJs prefer a heavy head weight to prevent the needle from skipping. For some tips on setting up the head weight, see the following link:
+	
+	How do I prevent my phono cartridge from skipping?
+

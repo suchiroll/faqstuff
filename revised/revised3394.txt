@@ -1,0 +1,12 @@
+Title: What connector is recommended to terminate the MX396 cable?
+Id: 3394
+Legacy Id: 3583
+
+Question:
+The MX396 tri-mic has 9 conductors in it's cable. What connector is recommended to terminate this wire?
+
+
+Answer:
+
+	The MX396 is supplied without a connector.  Typically, an installer will use phoenix block-type connectors or XLR connectors on the cable.  It is OK to separate the cable wires out to three separate XLR connectors.
+	Another idea is to use a DB-9 connector with a metal shell and cable strain relief.

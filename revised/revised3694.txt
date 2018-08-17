@@ -1,0 +1,13 @@
+Title: PSM 900 CueMode - Memory?
+Id: 3694
+Legacy Id: 3911
+
+Question:
+If the P9R is set to CueMode, will it remain in CueMode after a power cycle and battery replacement?
+
+
+Answer:
+
+	Yes.
+	
+

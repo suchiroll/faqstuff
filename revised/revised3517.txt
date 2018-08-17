@@ -1,0 +1,12 @@
+Title: XLR connections into a cell phone using Bluetooth
+Id: 3517
+Legacy Id: 3719
+
+Question:
+I work in broadcast radio and would like to use my cell phone as my link back to the studio. I'm looking for a device that has XLR in and XLR out, but connects to my cell phone using Bluetooth. Does Shure offer such a device?
+
+
+Answer:
+
+	Sorry, Shure does not. This U.S. based company does: www.jkaudio.com
+

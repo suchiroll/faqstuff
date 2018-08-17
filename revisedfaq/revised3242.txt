@@ -1,0 +1,108 @@
+Title: Choosing Frequency Bands for Performance Gear Wireless
+Id: 3242
+Legacy Id: 3392
+
+Question:
+I want to purchase a PG wireless system and want to travel around the U.S. with it. Which band should I purchase?
+
+
+Answer:
+
+	Performance Gear (PG) wireless microphone systems are tunable over a 12 MHz range, the equivalent of two U.S. television channels. To successfully find a clear operating frequency, you must have at least one of the two television channels open in the city where you intend to use the wireless system. In some cities, both TV channels in a given frequency band may be occupied. In this case, that particular frequency band should not be sold and/or used in the city. Shure has three frequency bands available for the PG wireless series.
+
+	
+
+	None of the bands are useable in every city in the U.S. This is why we have three frequency bands. Consult the table below to see which frequency bands will be unusable in certain cities, e.g., if you are in Cleveland, you should not use H7. If you are in Providence, you should not use H7 or M7. Note that this table only covers the top 20 television markets in the United States.
+
+	Frequency Bands to Avoid by City:
+
+	
+
+	
+		
+			
+				H7
+			
+				K7
+			
+				M7
+		
+		
+			
+				Cleveland
+			
+				Baltimore
+			
+				Boston
+		
+		
+			
+				Philadelphia
+			
+				Cincinnati
+			
+				Charlotte
+		
+		
+			
+				Pittsburgh
+			
+				Denver
+			
+				Dallas
+		
+		
+			
+				Providence
+			
+				Hartford
+			
+				Houston
+		
+		
+			
+				
+			
+				Los Angeles
+			
+				Los Angeles
+		
+		
+			
+				
+			
+				Milwaukee
+			
+				Miami
+		
+		
+			
+				
+			
+				Minneapolis
+			
+				Providence
+		
+		
+			
+				
+			
+				Philadelphia
+			
+				St. Louis
+		
+		
+			
+				
+			
+				Washington D.C.
+			
+				
+		
+	
+
+
+	
+
+	For help on choosing the best frequency band for a particular city or zip code, visit ourWireless Frequency Finder.
+

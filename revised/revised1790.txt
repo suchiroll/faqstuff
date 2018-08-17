@@ -1,0 +1,11 @@
+Title: Model 565 impedance change
+Id: 1790
+Legacy Id: 1850
+
+Question:
+I need the impedance change diagram for the discontinued 565 Unisphere wired microphone.
+
+
+Answer:
+
+	Please see the 565 user guide.Figure 3 shows the internal wiring of the discontinued 565 mic. On page 2, there is a paragraph entitled: Impedance Selection.

@@ -1,0 +1,14 @@
+Title: Mic preamp that is powered via phantom
+Id: 3487
+Legacy Id: 3685
+
+Question:
+I am searching for an inline mic preamp that does not use a battery, but is powered via phantom. Does Shure make such a device?
+
+
+Answer:
+
+	Shure does not, but a company in England does. Check out the FEL MicBooster products www.micbooster.com
+	
+	Because of the current limitations of phantom power, the FEL units can only supply between +20 and +40 dB of gain.
+

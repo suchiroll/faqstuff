@@ -1,0 +1,20 @@
+Title: 545 or 565 mic with the 4 pin Amphenol connector
+Id: 69
+Legacy Id: 69
+
+Question:
+I bought a Shure 545 microphone with the 4 pin Amphenol connector. This is a plain 545, no on/off or volume control. The seller said it was wired for High Impedence(Z). High Z is what I want because I'm using it plugged into a guitar amplifier via 1/4" male jack. My problem- The jack end that plugs into the amp became faulty; the wires broke. I disassembled it and don't know what order I should solder the wires. I know that the red wire goes right up the middle to the male 1/4" jack. However, I don't know what to do with the black insulated wire and the clear insulated wire and the woven wire that encases the red and clear wires and cloth insulation. Also involved is that coiled spring part that the patch cord goes through before entering the connector. I can see that I have to solder some wire or wires to it.( For ground?) What gets soldered to what for high Z?
+
+
+Answer:
+
+	We can tell you what pins to use at the microphone connector. Your 545 microphone has a four pin MC4F Amphenol connector. Pins 1 and 2 of this connector are the high impedance output. Pin 2 is the hot. To wire this output for a quarter inch connector, connect pin 1 to the sleeve (ground or shield) and pin 2 to the tip of the connector. The mating connector to the MC4F is Amphenols part MC4M.
+	
+	If you have the original Shure cable that was offered with the mic, the shield would go to the sleeve of the 1/4 inch connector and the red to the tip. The other two conductors remain un-connected.
+	
+	For further information, Pins 3 and 4 are the low impedance balanced output. Pin 4 is the plus (XLR pin 2), pin 3 is the minus (XLR pin 3), and Pin 1 is the ground or shield.
+
+	* NOTE: It is recommended that the polarity of the 545 be checked after the XLR cable is fabricated.If the polarity is reversed when compared to other mics, like the Shure SM57 or Shure SM58, reverse the wiring of XLR pin 2 and XLR pin 3 on the 545 cable.
+	
+	Shure do not carry Amphenol connectors, but pre-wired cables are available from Tom Ellis - U.S. phone: 214-328-3225 or email: tomsmics@flexcomp.com.
+

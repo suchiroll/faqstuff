@@ -1,0 +1,12 @@
+Title: Phono stylus inspection
+Id: 2513
+Legacy Id: 2609
+
+Question:
+I am using a 200 power microscope to inspect a used stylus. What are the visual criteria for determining wear or damage to the stylus?
+
+
+Answer:
+
+	Look directly down on the stylus tip. Illuminate the stylus from each side. As the stylus wears, flat spots are created. These flat spots will reflect light up into the eyepiece. A worn stylus will look like two cat eyes staring at you. See the PDF document attached below.
+

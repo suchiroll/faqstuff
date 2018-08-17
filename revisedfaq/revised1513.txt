@@ -1,0 +1,25 @@
+Title: UC Frequency Selection in Dallas
+Id: 1513
+Legacy Id: 1567
+
+Question:
+I am planning a new wireless system in east Dallas of approximately 4 units. I see that you recommend UA band for Dallas, TX. However, if TV channels 60-69 are auctioned off (except 68 which is in use) for land mobile services this would seem to expose us to increasing intermittent unpredictable interference over the years.
+
+
+Would it not be better to use UB and operate entirely within channel 53 which is unassigned?
+
+
+TV channels 56, 57, 59 are unassigned and will not be reallocted as will 60-69 but you don't seem to have a UC system that operates in that range.
+
+
+Can you give me any additional information?
+
+
+Answer:
+
+	At 08/09/2001 02:57 PM we wrote - The auctioning of TV channels 60-62 and 65-67 has now been delayed for 2 years. This is a process that will take many, many years to complete. Even after the auction occurs, the winning companies will not be able to use the bandwidth until the TV stations abandon that area. At the earliest, this will occur at the end of 2006. TV channels 63-64 and 68-69 will be used for public safety radios.
+	
+	The FCC also has long range plans to also auction off TV channels 50-59. This will occur sometime after the DTV transition (probably 6-10 years from now).
+	
+	If you are only using 4 systems, than the UB band could be used. But, also, if youre only using 4 systems, you have extremely good odds of being able to find clean frequencies in the UA band. So, in your case, either band would be fairly equivalent.
+

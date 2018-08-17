@@ -1,0 +1,15 @@
+Title: Shure Mic and/or Mic Holder Will Not FastenTo My Mic Stand
+Id: 4532
+Legacy Id: 5651
+
+Question:
+I bought the PG27-USB mic which comes with a stand adapter. But the "adapter" doesn't fit a standard Desk stand. Please clarify.
+
+Answer:
+
+	Shure microphones and Shure micholdershave a standard 5/8-27 internal thread.This is the U.S. standard for mic stands.
+	
+	Most Shure micsare also provided with an metal insert/adapter for European stands that have a 3/8 thread - typically this Euro adapter is brass or silver in color.If the Euro adapter has been threaded into the 5/8 mic stand thread, the Euro adapter can be removed; it simply unscrews.
+	
+	More information: Euro Adapter
+

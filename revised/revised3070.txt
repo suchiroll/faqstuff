@@ -1,0 +1,22 @@
+Title: Differences between the UT and PGX lavalier systems
+Id: 3070
+Legacy Id: 3201
+
+Question:
+What are the specific differences between the UT presenter system and the PGX system? Which is better?
+
+
+Answer:
+
+	PGX is superior.
+	
+	1) PGX has multiple built-in frequencies.
+	
+	2) PGX receiver scans to find optimal frequency.
+	
+	3) PGX receiver sets PGX transmitter via infra-red signal.
+	
+	4) PGX has longer battery life.
+	
+	5) PGX has better audio quality.
+

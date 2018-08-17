@@ -1,0 +1,16 @@
+Title: What is dynamic range?
+Id: 1952
+Legacy Id: 2015
+
+Question:
+Please kindly correct me if Im wrong, does dynamic range means the widest range that a mic can be able to cover(simplified meaning)?...and does a maximum SPL means (in simplified meaning also) the loudest sound a microphone can handle?
+
+
+Answer:
+
+	1) Does dynamic range means the widest range that a mic can be able to cover? * Yes. It is the sound pressure level (SPL) range of a microphone. On the high SPL end, it assumes an undistorted output signal. On the low SPL end, it assumes an output signal that is greater than the self-noise (hiss) of the microphones electronics.
+	
+	2) Does a maximum SPL mean the loudest sound a microphone can handle? * Yes, again assuming an undistorted output signal.
+	
+	A mic can handle SPL outside of its dynamic range, but the output signal will be useless - either distorted or lost in hiss.
+

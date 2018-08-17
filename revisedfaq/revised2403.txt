@@ -1,0 +1,15 @@
+Title: WH20 XLR Output level
+Id: 2403
+Legacy Id: 2495
+
+Question:
+I have purchased the WH20XLR, I am trying to use it in the same connection to the PA as the SM58 I have been using. But I have use so much gain that it just doesn't seem right. What am I missing? Is a booster required?
+
+
+Answer:
+
+	1. The WH20 does have less output than the SM58.
+	
+	2. The WH20 must be positioned within 1/2 inch or less from the corner of your mouth for proper operation.
+	
+	3. Even with proper positioning, the WH20 will require about 10 to 15 dB more gain from your mixer to equal the SM58 output. Why? Because the WH20 has a much smaller magnet than the SM58; and the magnet size directly determines the output level.

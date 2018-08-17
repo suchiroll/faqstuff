@@ -1,0 +1,27 @@
+Title: Can I order a microphone with a certain frequency?
+Id: 1383
+Legacy Id: 1435
+
+Question:
+---- 07/18/2001 10:38 AM ---------------------------------------------
+
+I need a wireless mic on the frequency 170.305 to be compatible with the L4AH Marcad diversity.
+
+
+---- 07/22/2001 05:05 PM ----------------------------------------------
+
+What is the price of the the LX2/58 transmitter/mic with the AH frequency (170.305) I already have the reciever.
+
+Jason Albert
+
+
+Answer:
+
+	At 07/18/2001 10:48 AM we wrote - Any LX transmitter may be ordered with the AH frequency (170.305 MHz.) It will work perfectly with the L4-AH receiver.
+	
+	At 07/22/2001 08:18 PM we wrote - Shures U.S. retail price list can be found at the following link:
+	
+	
+	Our Sales Policy can be found at:
+	
+

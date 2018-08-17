@@ -1,0 +1,20 @@
+Title: Gain Structure of Shure M68FCA  (as submixer mixer) for SC Wireless
+Id: 2163
+Legacy Id: 2236
+
+Question:
+Problem: Our church has a 16 channel Biamp mixer. This is not enough inputs for our growing contemporary service.
+
+
+Potential interim solution: We have two unused Shure M68FCA mixers. We would like to use M68FCA mixers as submixer for our five Shure SC wireless lapel mic systems.
+
+
+What is the best way to set up this system to optimize gain structure from (four or five?): SC transmitters  SC receivers  (1 or 2?) M68FCA mixer(s)  Biamp mixer to maximize s/n and minimize distortion?
+
+
+Answer:
+
+	You will likely find the M68 mixer quite noisy (hissy) compared to modern mixers. The M68 has five inputs: four at mic level and one at aux/line level. Set four SC4 receivers to Mic level output and use the XLR outputs. On the fifth SC4 receiver, use the 1/4 output and connect it to the Aux In of the M68.
+	
+	Set the M68 input levels as high as possible without distortion. Set the M68 Master output as low as possible. Try different inputs on the Biamp to see which works best with the M68 output signal.
+

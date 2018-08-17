@@ -1,0 +1,11 @@
+Title: P7T Input Connector - balanced?
+Id: 2627
+Legacy Id: 2729
+
+Question:
+The PSM700 user guide in English on page 5 specifies for the Transmitter Input Connector, a 1/4-in phone and XLR(female), balanced. My questions is does the balanced apply to both the 1/4-in phone, and the XLR cables. I plan on using 1/4-in phone cables, and I want to know if I must used balanced or unbalanced.
+
+
+Answer:
+
+	XLR and 1/4" input are balanced. Use balanced cables whenever possible.

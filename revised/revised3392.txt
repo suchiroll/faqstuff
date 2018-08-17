@@ -1,0 +1,11 @@
+Title: Deciphering MX405 & MX410 model numbers
+Id: 3392
+Legacy Id: 3581
+
+Question:
+How do I decipher the model numbers on the MX405 and MX410?
+
+
+Answer:
+
+	See the attached PDF file for an easy guide to ordering the MX405 and MX410 microphones.

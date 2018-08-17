@@ -1,0 +1,13 @@
+Title: Linking three FP16A units
+Id: 2808
+Legacy Id: 2918
+
+Question:
+For some reason when I link (3) FP16A together I can not get clean audio in the third DA... Is there a special "trick" for a novice? I have tried linking DA #1 to #2 to #3, and I have tried linking from DA #1 to #3 to #2... Both times the link from #1 works to next DA in line. Which ever way I connect, the last linked DA has bad sound.
+
+
+Answer:
+
+	The FP16A Link In jack is a switching jack; when used it disconnects its associated Link Out jack.
+	
+	Here is the simplest solution. Use a Y-cord: one 1/4" phone plug (A) to two 1/4" phone plugs (B and C). Plug A into the Link Out of the master FP16A. Plug B into the Link In of slave FP16A #1. Plug C into the Link In of slave FP16A #2.

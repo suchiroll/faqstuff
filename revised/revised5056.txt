@@ -1,0 +1,16 @@
+Title: Phono Cartridge Terminal Pin Diameter
+Id: 5056
+Legacy Id: 6367
+
+Question:
+What is the diameter of the four terminal pins on the rear of a Shure cartridge (standard mount, not P-mount)?
+
+
+Answer:
+
+	The pin diameter is 1.32 mm, with a tolerance of +/- .05 mm.
+	
+	The mating socket (soldered onto the headshell wire) has an inner diameter of 1.2 mm.
+	
+	Note the headshell wire has a slightly smaller socket (inner diameter of 1.0 mm)on other end.
+

@@ -1,0 +1,12 @@
+Title: Shure Phono Cartridge M81MC - replacement stylus
+Id: 2108
+Legacy Id: 2177
+
+Question:
+I have a Shure M81MC cartridge, where the stylus is a N75C type. The stylus has broken off, and I am in need of a replacement. I don't see this cartridge, nor sytlus type listed. What are the allowable replacement stylus types for this cartridge.
+
+
+Answer:
+
+	Use the N75B Type 2 replacement stylus. Note that its tracking range is 1.5 to 3 grams. The N75C stylus tracked at 3 to 5 grams.
+

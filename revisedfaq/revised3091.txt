@@ -1,0 +1,18 @@
+Title: PSM700 Emission Bandwidth and Channel Spacing
+Id: 3091
+Legacy Id: 3223
+
+Question:
+Please provide emission designator (example 120K00F3E) and channel spacing (example 125KHZ channel spacing) for the PSM700 transmitter. I'm requesting frequencies for use at overseas military installations.
+
+
+Answer:
+
+	98K0F8E
+	
+	400 kHz is minimum spacing - only 32 specific frequencies can be tuned.
+	
+	HF band: 722 - 746 MHz
+	H3 band: 524-554 MHz
+	L2 band: 632 - 662 MHz
+

@@ -1,0 +1,37 @@
+Title: Iphone Case Compatibility
+Id: 4368
+Legacy Id: 5459
+
+Question:
+I’ve had the SE535’s for a few years and they’ve been super, which I actually upgraded form SE530’s and E2C’s before that. Yesterday I upgraded my phone, and got one of apple’s snazzy new leather cases. Sadly it seems that the headphone jack receptacle in the new case is too small to accommodate the standard wire plug. My question is do you have an adapter that you recommend? Would the EAC3BK  EAC3GR work? Would the CBL-M+-K-EFS have plug that would fit?
+
+
+Answer:
+
+	Unfortunately, Apple never consults with Shure about changing the plug opening size...
+
+	1) This is the second report of the new iPhone case being a problem for the 3.5mm connector.
+	
+	2) Sorry, at the moment, we do not have a recommendation for an adapter.
+	
+	3) As we do not have access to this new iPhone case, I cannot comment on the CBL plug and if it fits.
+	
+	4) For now, we have no solution to this new Apple designed case.
+
+	5) Yes, the CBL cable will likely fit as its plug diameter is smaller. The CBL carries a two year warranty if it develops issues.
+
+	6) Yes, the EAC3 extension cable will likely work as its plug diameter is smaller.
+
+	
+
+	There is a design change to the cable used for the SE535 and other current Shure SE models.The 3.5 mm plug on the new cables have a reduced diameter on the plastic section where the metal plug stem is secured.This reduced diameter allows the plug to be inserted into many of the new cases where the opening for the plug is smaller. The existing cable can be disconnected from the SE535 earbuds and a new one installed.The issue is that this new cable change is a running change and that means that there will be the old design and the new design available on dealer shelves.
+
+	
+	
+	
+	
+	
+	
+	
+	
+

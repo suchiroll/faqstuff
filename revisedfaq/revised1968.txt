@@ -1,0 +1,17 @@
+Title: Lithium Battery Use
+Id: 1968
+Legacy Id: 2031
+
+Question:
+1) Is it OK to use a lithium battery in the transmitter? (the voltage is the same) they are manufactured by Energizer, intended for medical and other use, due to their long life.
+
+2) Is there a way to replace the antenna wire, on the transmitter. Mine is still intact and works fine, but from wear  tear over the years, the insulation is starting to pull away from the transmitter. the wire is still intact, just the insulation is slipping away. At this point, it does not effect the performance of the transmitter.
+
+
+
+Answer:
+
+	1) Is it OK to use a lithium battery in the transmitter? (the voltage is the same) *Yes, as long as it fits physically. Some lithium batteries are a bit larger than alkaline batteries.
+	
+	2) Is there a way to replace the antenna wire, on the transmitter. * Use heat shrink tubing to repair the insulation. Use a small dab of silicone adhesive to act as a strain relief where the antenna wire enters the bodypack.
+

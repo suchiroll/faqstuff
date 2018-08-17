@@ -1,0 +1,11 @@
+Title: Old Shure mic? 565?
+Id: 1966
+Legacy Id: 2029
+
+Question:
+Can you help me to identify an old mic, from the 70s? All external markings have worn off, I could only tell it was Shure by looking up into the xlr base. It's an SM58 syle, with a switch (with an ALWAYS ON screw down clip), and an internal impedance selector like my Unidyne model 545. The body is a bright metal finish. The capsule looks similar to my (new) SM58 but doesn't have the foam moulding over it's surface, just a very fine gauze. The wires from it are green and yellow. You can see the transformer, it isn't potted into the body like the SM58. It's sound seems similar to my SM58, but with a bit less body. Any ideas?
+
+
+Answer:
+
+	Sound like an earlier version of the model 565.

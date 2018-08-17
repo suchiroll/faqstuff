@@ -1,0 +1,16 @@
+Title: MX150B/C-TQG as a wired mic
+Id: 4352
+Legacy Id: 5437
+
+Question:
+I have recently ordered an MX150B/C-TQG, and I find now that I need to use it, not with a Shure wireless system, but with a wired XLR connection. Do you sell the XLR adapter? Even better, is there a way that I can just adapt the connector to a terminal block connection. I notice that it has 4 pins. Which pins would I use, and for what? Will the microphone work when powered by Phantom Power?
+
+
+Answer:
+
+	It requires more than an adaptor; it requires an inline preamp model RK100PK. RK100PK requires phantom power to operate.
+	
+	MX150 accessories
+	
+	Purchase the RK100PK from Shure Parts: 800-516-2525.
+

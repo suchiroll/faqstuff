@@ -1,0 +1,37 @@
+Title: Crestron / AMX connection problems to Shure products
+Id: 4977
+Legacy Id: 6242
+
+Question:
+I have a an SCM820 and am trying to control it via API command strings with Crestron. No matter what I do, I cannot get the SCM820 to respond. What can I do?
+
+
+Answer:
+
+	This answer applies to all Shure products that connect to AMX/Crestron via ethernet, such as the SCM820, MXWAPT4, MXWAPT8, MXA310, MXA910, ANI4IN, ANI4OUT, UR4D, AXT400, ULXD4D, ULXD4Q, ULXD4, QLXD4.
+	
+	First, make certain you are using the correct port, as specified in the Shure documentation. Also, make certain the SCM820 and the Crestron/AMX are in the same network subnet.
+	
+	Some customers ask if something needs to be enabled on the Shure product for it to accept commands from Crestron. The answer is, No.
+	This functionality is always on and can not be turned off or defeated on the Shure product.
+	
+	To test the Shure product, a program called PuTTY can be used onyour computer. Make certain your computer and the Shure product are on the same network subnet. The IP address of the computer and the Shure product should be very similar. For this example, the IP addresses are:
+	
+	Computer: 192.168.1.23
+	SCM820: 192.168.1.204
+	
+	In PuTTY, enter the IP address of the Shure Product. Change the connection type to Raw, and enter the correct Port number.
+	
+	
+	Click OPEN.
+	
+	
+	If you mute a channel in the GUI or on the front panel, the SCM820 will send REP command strings.
+	
+	
+	You can also directly type commands, such as getting the channel name.
+	
+	
+	The SCM820 will respond with the channel name.
+	
+

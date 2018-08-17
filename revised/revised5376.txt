@@ -1,0 +1,13 @@
+Title: WA335 and WA336
+Id: 5376
+Legacy Id: 5409
+
+Question:
+WA335 and WA336
+
+Answer:
+
+	The WA335 is for the UR1M transmitter.The WA335 is employed to replace the the transmitters TA4M connector with a 3-pin LEMO connector.This modification requires unsoldering/soldering of the printed circuit board.
+	
+	The WA336 is the LEMO connector for the cable of the lapel mic that must mate to the modified UR1M transmitter.
+

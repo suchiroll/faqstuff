@@ -1,0 +1,17 @@
+Title: What's the best mic to use with a GL1?
+Id: 437
+Legacy Id: 445
+
+Question:
+I'm not satisfied with the on-board mic on the Cannon GL1.  I tried using a Sennheiser 416 with phantom power (into the XLR adapter box) but there wasn't enough gain.  Is there a microphone that's compatible with the GL1?
+
+People have suggested I use a wireless into a mixer to boost the gain.  But I'd like to record with as little equipment as possible.  Is there a wired mic that can do the job?
+
+Answer:
+
+	We would need to know the input specifications of the camera as well as what style of microphone you are looking for.
+	
+	The following link describes how to connect a microphone to a camcorder.
+	
+	How do I connect a professional microphone to a camcorder?
+

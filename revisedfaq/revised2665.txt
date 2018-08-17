@@ -1,0 +1,17 @@
+Title: Choir Miking - KSM137 or SM81
+Id: 2665
+Legacy Id: 2769
+
+Question:
+I am trying to choose between the SM81 and KSM137 to mic a choir outdoors using sound reinforcement.
+1) Which one would be the best to use?
+2) What are the primary differences?
+3) Which one would you use?
+
+
+
+Answer:
+
+	1) The KSM137 is quieter (less background hiss). 
+	2) The self-noise level and the SPL clipping point.
+	3) The KSM137 with the A81WS windscreen, and the A53M isolation mount.

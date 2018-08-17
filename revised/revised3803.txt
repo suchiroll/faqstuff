@@ -1,0 +1,11 @@
+Title: ULXP4 Heat Dissipation
+Id: 3803
+Legacy Id: 4041
+
+Question:
+What is the heat dissipation of a ULXP4 wireless microphone receiver?
+
+
+Answer:
+
+	ULXP4:  10 W   34 BTU/Hr

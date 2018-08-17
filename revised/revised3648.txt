@@ -1,0 +1,13 @@
+Title: Motorola Droid with the Shure SE115M
+Id: 3648
+Legacy Id: 3856
+
+Question:
+Will the Motorola Droid work with the Shure SE115M? Can I listen to music and talk on the phone?
+
+
+Answer:
+
+	Yes, the SE115M will work with the Motorola Droid for music and for phone calls. 
+	In addition, the Droid will also work using standard Shure earphones and the discontinued Shure MPA-3C; (MPA =Music Phone Adapter). 
+	Also, standard Shure earphones will work with the Droid if listening to music is the only function required.

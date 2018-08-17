@@ -1,0 +1,57 @@
+Title: BLX versus PGX versus PG
+Id: 4306
+Legacy Id: 5377
+
+Question:
+What are key differences between BLX, PGX, and PG wireless?
+
+
+Answer:
+
+	RF Tuning Bandwidth
+	PG = 12 MHz
+	PGX = 18 MHz
+	BLX = 30 MHz (originally 24 MHz)
+	
+	Maximum Number of Compatible Systems per RF Band
+	PG= 4
+	PGX = 9
+	BLX = 12
+	*Local RF interferencewill reduce the numbers listed above.
+	
+	Receiver Scanning
+	PG = No
+	PGX = Channel Scan only
+	BLX = Enhanced Group/Channel Scan
+	
+	Battery Type/Life
+	PG = one 9 volt battery, up to 8 hours
+	PGX = two AA cells, up to 8 hours
+	BLX = two AA cells, up to 14 hours
+	
+	Body pack Transmitter Power Button
+	PG = Multi-function push button
+	PGX = Multi-function push button
+	BLX = Tactile on/off toggle switch
+	
+	Body Pack Transmitter Gain Adjustment
+	PG = 3 position slide switch
+	PGX = 3 position slide switch
+	BLX = Potentiometer with a range of 26 dB
+	
+	HandheldTransmitter Interchangeable Mic Elements
+	PG = Yes
+	PGX = Yes
+	BLX = No
+	
+	Detachable Antennas on Receiver
+	PG = No
+	PGX = No
+	BLX = Only on BLX4R model
+	
+	Receiver Mounting
+	PG = table top or optional rack tray
+	PGX = table top or optional rack tray
+	BLX4 = table top or optional rack tray
+	BLX4R =table top or supplied rack mount kit
+

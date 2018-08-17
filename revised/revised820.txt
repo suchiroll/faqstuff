@@ -1,0 +1,22 @@
+Title: Which boundary mic for piano?
+Id: 820
+Legacy Id: 842
+
+Question:
+I am looking to get my church grand piano mic'ed up. I am interested at getting a PZM mic because I heard they were good and I would be able to use them with the piano lid closed- (that is why I like them better than the condenser mics). However, I don't know which PZM mic to buy and I really don't know how to mount it. I guess I'll be buying two of them (one for high end and one for low end), is there a way to mount it without ruining the piano? 
+
+
+Answer:
+
+	For piano miking ideas, see page 24 of this link: Microphone Techniques for Music - Sound Reinforcement
+	
+	You can use self-adhering Velcro to attach a boundary (PZM) mic to a piano lid. Typically the Velcro attached to the lid can be carefully removed later without damaging the finish.
+	
+	Some sound engineers place a boundary mic directly on the piano soundboard, with the mic sitting on a computer mouse pad for isolation.
+	
+	In the Shure line, the Beta 91A is used for this type of close piano miking. However, we do not guarantee you will like the sound. Only you can make that decision after you hear the mics in your piano. Not everyone likes a piano that is miked so closely. It is a rock and roll sound, not a classical music sound.
+	
+	Another common piano mic is the Shure SM81, mounted on a boom arm, and positioned over the strings. Again, please read the miking idea booklet (linked above) carefully before you make any buying decision.
+	
+	The generic term for PZM is boundary microphone. Also, almost all boundary microphones are condenser microphones. So, be careful not to get the terminology mixed up.
+

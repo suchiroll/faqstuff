@@ -1,0 +1,14 @@
+Title: 2.5mm to 3.5mm Adapter for I series T version to make it a headphone jack
+Id: 3315
+Legacy Id: 3484
+
+Question:
+Is there an adapter to make my I2c-T, I3c-T, I4c-T a standard 3.5mm jack to us in my ipod or music player?
+
+Answer:
+
+	Yes. Please click the two links below we have found and tested to work. This will only work with the T version I series.
+	
+	http://www.partsexpress.com/pe/showdetl.cfm?DID=7Partnumber=090-319
+	http://www.radioshack.com/product/index.jsp?productId=2062474
+

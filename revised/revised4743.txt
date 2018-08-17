@@ -1,0 +1,16 @@
+Title: BLX H8 and BLX H9 Compatibility
+Id: 4743
+Legacy Id: 5923
+
+Question:
+Can a BLX H9 device (transmitter or receiver) be used as a substitute for a discontinued BLX H8 device (transmitter or receiver)?
+
+
+Answer:
+
+	Yes.
+	
+	The first 5 frequency groups of BLX H9 and BLX H8 are identical. An H8 device and an H9 device are compatible if they are tuned to a frequency within the 5 groups. See the PDF file below.
+	
+	The H8 band (518-542 MHz) was discontinued in October 2015; it was replaced by the H9 band (512-542 MHz) and the H10 band (542-572 MHz).
+

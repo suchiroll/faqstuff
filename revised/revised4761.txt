@@ -1,0 +1,12 @@
+Title: QLX-D X52 Band in U.S.
+Id: 4761
+Legacy Id: 5943
+
+Question:
+What is the theoretical maximum number of QLX-D X52 systems that can operate in one venue?
+
+
+Answer:
+
+	In the X52 band (902.450 to 927.550 MHz), it is feasible to operate up to 12 systems, assuming no local RF interference in this band.
+

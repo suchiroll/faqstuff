@@ -1,0 +1,17 @@
+Title: Macintosh-compatible microphone
+Id: 350
+Legacy Id: 357
+
+Question:
+I need a microphone with headphones attached that is compatible with a Power Macintosh G3 computer. I am told that this requires a "PlainTalk" microphone. Do you have such a product?
+
+
+Answer:
+
+	The only computer microphones that Shure offers are Sound Blaster Compatible. We do not offer any PlainTalk microphones. The VR230D can be made to work with the Macintosh soundcards by using an adaptor box. Griffin Technology (615-255-0990) makes an adapter box called the NE Mic Audio Adapter.
+	
+	Some other technical information can be found at:
+	
+	
+	
+

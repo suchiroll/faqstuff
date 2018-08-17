@@ -1,0 +1,33 @@
+Title: AP200K cable information
+Id: 5340
+Legacy Id: 3936
+
+Question:
+AP200K cable information
+
+Answer:
+
+	AP200K: This is a cable assembly that allows a user to adjust the level of an ambient mic, such as the Shure WL93(not supplied), that connects into the P2R 1/4 input jack. The AP200k consist of a TA4M connector, preamp module, and male TRS 1/4 plug. The preamp provides 12dB gain to the signal from the ambient mic; the output level adjustable via a thumbwheel potentiometer. The preamp also passes the 5V bias supply on the ring of the 1/4 TRS jack to the bias pin of the mic (pin 2). There is a 3dB low end roll off at 130Hz. The input impedance is approximately 20,000 ohms.
+
+	
+
+	
+
+	
+		5V Bias supply from P2R is passed to the preamp and to lavalier mic.
+	
+		Provides 12dB gain, output level adjusted through thumbwheel control.
+	
+		Provides 130Hz 3dB down point for low end roll off to reduce effects of stage rumble in monitor mix.
+	
+		With Gain Potentiometer at full volume and the input shorted to ground, preamp output is  -90dBu A-weighting and 30kHz filter ON
+	
+		Cable lengths provide convenient cable management for performers.
+	
+		Preamp case allows easier handling and control over thumbwheel.
+	
+		20Kohms input impedance
+	
+		Zero Position on Preamp will not pass any audio from the ambient mic.
+
+

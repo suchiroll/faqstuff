@@ -1,0 +1,63 @@
+Title: Europe Tour using wireless systems from the United States
+Id: 4108
+Legacy Id: 4756
+
+Question:
+My band will be coming over to Europe to toursoon.I havequestions about frequencies for European wireless, and specifically, if there's a frequency band that would work for both the UK and Germany. Guidance, please.
+
+
+Answer:
+
+	This answer was created in May 2012. Wireless regulations in Europe may have changed since this FAQ was created.
+
+	
+
+	Item#1: Contact Shure Europe for assistance: support@shure.de
+
+	
+		SHURE Europe GmbH
+		Headquarters Europe, Middle East  Africa
+		Jakob-Dieffenbacher-Str. 12
+		75031 Eppingen Germany
+		http://www.shure.eu
+		http://www.shure.co.uk
+		http://www.shure.de
+		http://www.shure.nl
+
+
+	Item#2: Contact the Shure agent in each country for assistance: http://www.shure.eu/where-to-buy/index.htm
+
+	
+
+	Item #3: In general, U.S. wireless systems that operate in the band of 470 - 698 MHz can be used in many European countries. Pro audio wireless transmitters must be rated at 50 mW or less. Exceptions for higher power transmitters can be requested in some countries.
+
+	
+
+	Item #4: U.S. wireless products do not always meet the EU regulations for EMC, safety, or general CE markings. Therefore, U.S. wireless products without the proper European approval marks could be stopped at the border by Customs.
+
+	
+
+	Item #5: As tours are limited in time and in location, it is feasible to use some U.S. wireless products in Europe if the proper authorization/license is received from the RF spectrum government agency in each country.
+
+	
+
+	Item #6: Frequency administration in the UK - www.jfmg.co.uk
+
+	
+
+	Item #7: Frequency administration in Germany - Dirk.Otto@bnetza.de (Ask for Touring License, and list all venues.)
+	
+
+	
+
+	Item #8: Other European information:
+
+	
+		Belgium = license, administration is http://www.bipt.be/Home.aspx?levelID=1lang=nl
+		France = license free (scan and avoid active TV channels)
+		Netherlands = license free (scan and avoid active TV channels)
+		Norway = license free (scan and avoid active TV channels)
+		Sweden = license: http://www.pts.se/en-gb/Industry/Radio/Application/Temporary-licences-for-events/
+		Switzerland = license: http://www.bakom.admin.ch/themen/frequenzen/00689/01561/index.html?lang=en
+
+

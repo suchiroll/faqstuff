@@ -1,0 +1,28 @@
+Title: QLX-D Network Scan
+Id: 4793
+Legacy Id: 5978
+
+Question:
+Please provide details of the QLXD Network Scan.
+
+
+Answer:
+
+	The network scan works for multiple QLXD if all have the same operating band. These same band receivers must be networked as a group. If not networked, the QLX-D menu item network scan will be automatically deactivated - it cant be viewed when navigating the menu.
+	
+	The QLX-D receivers do not have to be set to the same group when initiating the network scan. Select the desired group on one receiver and operate from there. All other receivers will be set on that same group after the network scan process.
+	
+	The QLXD Network scan looks only frequencies within the pre-selected group. It deploys all good frequencies to the other QLXD receiversin that band.It does not compare scan results to other possible groups.
+	
+	From the QLX-D User Guide:
+	The Network Scan feature automates frequency assignment by using a single receiver to scan and deploy frequencies to all networked receiver within the same frequency band.
+	Network Scanning and Frequency Deployment
+	1. Connect receivers to an active Ethernet network. All receivers must be on the same subnet.
+	2. Prior to performing a network scan, turn on all receivers and allow 60 seconds for all receivers to join the network.
+	3. Choose a group or custom group for deployment on the receiver that will be used to initiate the network scan.
+	4. To start a network scan, press the menu button and navigate to the network scan menu. Press enter.
+	5. When the scan is complete, the displays of receivers waiting for frequencies will flash.
+	6. Press enter to deploy the frequencies or press menu to cancel the deployment.
+	7. The front panel LEDs on each receiver will blink when a deployed frequency has been assigned.
+	Note: Full frequency deployment may not occur if the number of receivers in the network exceeds the number of available frequencies in the selected group. Try another group or rescan after turning off unused receivers.
+

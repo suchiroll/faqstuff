@@ -1,0 +1,14 @@
+Title: Theater Audio - Custom Headworn Mic
+Id: 3930
+Legacy Id: 4179
+
+Question:
+For a local amateur theater, I want to create custom headworn mics - shaped for each actor's head. I know I can use the Shure WL93 or MX150 for the mic element, but what should I use for the wire frame than holds the mic?
+
+
+Answer:
+
+	Professional theaters use millinery wire. This is bendable wire used to make hats. Using an Internet search engine, look for millinery wire. There are many sources and the wire is available in colors.
+	
+	The mic and cable can be attached to the millinery wire using colored plastic tape, or heat-shrink tubing.
+

@@ -1,0 +1,17 @@
+Title: Use an XLR connector into my SM58 with a 1/4" plug on other end into a mixer
+Id: 494
+Legacy Id: 504
+
+Question:
+I have an SM58 and I use the old cord from my cheaper mic, that had an XLR female connector going into the mic and a 1/4" plug on the other end. (The old mic had 3 prongs from its end like the SM58, and this is the cord that came with it.) I plug the SM58 into an old 8 channel mixer (that has no XLR jacks) then use a guitar cord out of the mixer into my Ultimate Chorus amp (guitar input). This seems to work fine, fader on mixer about 4, like the cheaper mic, sounds great, I run 1 guitar and another mic threw this mixer also. The store I bought the Shure mic from said I need the transformer plug on end of the XLR cord to "step up" the impedance or it won't work, but I have no problem and I didn't need the transformer... am I burning out my SM58?? Why is this set up working without the transformer? Please advise.
+
+Answer:
+
+	If the microphone is working fine, you dont need a transformer. A transformer would be required if you want to step up the output voltage of the microphone. This would be required if you connected the SM58 into a high impedance input like a guitar amplifier.
+	
+	Your mixer has enough gain that the input level of the SM58 without a transformer is fine. There is no danger to the SM58.
+	
+	Click here to learn more about transformers.
+	
+	And perhaps you might want to give the store a copy of this technical paper as well!
+

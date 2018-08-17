@@ -1,0 +1,11 @@
+Title: Shure Model 450 wiring
+Id: 1464
+Legacy Id: 1517
+
+Question:
+I know this is a discontinued model but I hope you can assit me nonetheless. I have the schematic for the 450 and I'm trying to hook it up to a vintage ham radio transciever. The 450 gets wired to a 1/4 phono plug (PL-68) conector with TIP, RING and GROUND connections. The radio manual indicates the "microphone" gets connected to the ring and the push-to-talk switch connects to the tip. Can you explain in terms of wire colors, how to connect this ? Thanks.
+
+
+Answer:
+
+	Our best guess is this: white wire to ring; red wire to tip; green wire, shield wire, and black wire to sleeve. We hope this works.

@@ -1,0 +1,12 @@
+Title: Can I add a bodypack to a handheld system?
+Id: 1861
+Legacy Id: 1921
+
+Question:
+I currently have a wireless system with the handheld SM58 transmitter. Can I buy and use a body pack transmitter to work with thereceiver or do I have to buy the complete body pack kit?
+
+
+Answer:
+
+	Yes, you can buy just the bodypack from any Shure dealer. Make certain it is on the same frequency as your receiver. You will not be able to use the bodypack and the handheld at the same time.
+

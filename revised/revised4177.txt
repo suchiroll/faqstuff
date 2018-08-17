@@ -1,0 +1,17 @@
+Title: MX412D or MX418D - Odd noise when gooseneck is touched
+Id: 4177
+Legacy Id: 5127
+
+Question:
+I have two MX418D/S microphones with an odd problem. When the gooseneck is touched or moved, it will sound like a tight guitar string being plucked, or like a really bad guitar string when the gooseneck is tapped. Any ideas?
+
+Answer:
+
+	It could be that the cable within the gooseneck was pulled tightly during assembly and is trapped under the printed circuit board in the mic base. The cable will be stretched tight when the gooseneck is straightened and can vibrate like a guitar string. This can be remedied as long as the cable within the gooseneck has not been damaged.
+	
+	Use a #2 Phillips head screwdriver to open the mic base; use a #1 Phillips head screwdriver to loosen the printed circuit board. Free the cable and make certain it moves freely as the gooseneck is moved.If feasible, push some cable up into the gooseneck to provide slack cable within the gooseneck.To help keep the slack cable up in the gooseneck, the gooseneck opening can be filled withfoam rubber, a pipe cleaner, or some other type of compressible material.
+	
+	Reassemble the base to the mic. Make certain the internal cables dont get caught or pinched when the base is put back on.
+	
+	NOTE: The mic will not work until re-assembled; the metal base plate provides the ground path for the audio circuit.
+

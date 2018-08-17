@@ -1,0 +1,15 @@
+Title: Can I change the FP42 phantom power to 48 volts?
+Id: 1326
+Legacy Id: 1377
+
+Question:
+I have just ordered a FP42 mixer and have just found out that the the phantom power is 30 volts in your charts. My Sennheiser MKH60 runs on 48 volts is there a way to change the 30 volts phantom power output to 48 volts?
+
+
+Answer:
+
+	There is no 48 volt source inside of the FP42, therefore there is no modification to provide 48 volts of phantom.
+	
+	Phantom power is defined as 11 to 52 volts. Any voltage in this range is phantom power. Your Sennheiser might work with the FP42 phantom power, but with less headroom.
+	
+	You can also use an in-line phantom power supply. Sennheiser makes such a device.

@@ -1,0 +1,13 @@
+Title: Error installing Wireless Workbench 5.0.5 on Windows 7
+Id: 4015
+Legacy Id: 4422
+
+Question:
+I am trying to install Wireless Workbench version 5.0.5 on a computer with Windows 7 and I get an error message.
+
+
+
+Answer:
+
+	Try running the installer in compatiblity mode. Right click on the installer and click Check Compatiblity.
+

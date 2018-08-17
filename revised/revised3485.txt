@@ -1,0 +1,12 @@
+Title: Unbalanced stereo headphone output converted into XLR outputs
+Id: 3485
+Legacy Id: 3683
+
+Question:
+Is there a device that will conveniently convert the stereo headphone output of my laptop computer or MP3 player into balanced, low impedance signal on a male XLR connector? I want to send the signal via a snake to a mixing console, or into a Shure transmitter using the WA310 cable.
+
+
+Answer:
+
+	Check out Lap Top Interface products made by Rapco: LTI BLOX and LTI 100  www.rapcohorizon.com
+

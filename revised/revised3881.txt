@@ -1,0 +1,13 @@
+Title: SCM410 Last Mic Lock On and Linking Mixers
+Id: 3881
+Legacy Id: 4127
+
+Question:
+I am linking four SCM410 auto mixers together. I want to know how to set last mic on function. Do I set the dip switches on all four mixers to on? Or just the last one in the link. I don't want four mics staying on, but I also don't want the last on mic limited to the last on from the last mixer in the link.
+
+
+Answer:
+
+	The Last Mic Lock On function must be set to ON for all four mixers.   
+	
+	The four linked mixers will act like one 16 channel mixer, thus only one mic will be locked on...not four.

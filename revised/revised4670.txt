@@ -1,0 +1,21 @@
+Title: Stereo Phono Cartridge into a Monaural Phono Preamp
+Id: 4670
+Legacy Id: 5837
+
+Question:
+I have a SC35C that I am using in a monophonic system. I am strapping the left and right channels together at the cartridge body. What is the recommended load resistance when using this cartridge in a monophonic system.
+
+
+
+Answer:
+
+
+	
+		From The Audio Cyclopedia page 743, copyright 1973: The load resistance for present-day monophonic pickups range from 22,000 to 27,000 ohms.There wasno recommendation for an optimal capacitance.
+	
+		
+		The SC35C outputs, wired in parallel, should feed into 23,500 ohms (or so.)
+
+
+
+

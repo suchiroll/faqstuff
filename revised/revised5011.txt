@@ -1,0 +1,72 @@
+Title: Understanding Dante Flows
+Id: 5011
+Legacy Id: 6302
+
+Question:
+I understand that the ANI4OUT devices can only support a maximum of two MXA microphones at once. Why?
+
+
+Answer:
+
+	In order to answer this question, it's important to understand the concept of Dante flows.
+	
+	Whenever an audio channel is routed from one Dante device to another, a "flow" is created. Each Dante flow can contain up to 4 audio channels. There are both "transmit" and "receive" flows. A "transmit" flow is used for sending audio from a Dante device; a "receive" flow is used to accept audio from another Dante device. In every Dante-enabled device, there is a limit to the number of available flows.
+	
+	Due to differences in various Dante hardware capabilities, the number of available flows varies. Most Shure products with Dante allow up 32 transmit and 32 receive flows. However, the following list of devices only support 2 transmit and 2 receive flows:
+	MXA310
+	ANI4OUT-BLOCK
+	ANI4OUT-XLR
+	ANI4IN-BLOCK
+	ANI4IN-XLR
+	 
+	
+		
+			
+				 Dante Platform
+			
+				 Shure Products Using Platform
+			
+				 TX Flow Limit
+			
+				 RX Flow Limit
+		
+		
+			
+				 Brooklyn II
+			
+				 ULX-D, SCM820, MXWAPT, MXWANI, MXA910
+			
+				 32
+			
+				 32
+		
+		
+			
+				 Ultimo
+			
+				 MXA310, ANI4IN, ANI4OUT
+			
+				 2
+			
+				 2
+		
+	
+
+	Table 1: Flow limits for various Dante platforms.
+	
+	By default, Dante flows are unicast, which means that a given transmit flow can only be received by one Dante device. If a second device needs to receive a copy of that same audio channel, then a second transmit flow would need to be used from the sending device. Practically, this means that an MXA310 can only transmit audio to two different Dante devices before running out of transmit flows (assuming unicast flows are used).
+	
+	It's important to remember, however, that each flow contains up to four audio channels. So routing four Dante channels from one MXA310 to one ANI4OUT would only use one flow. Routing four Dante channels to a second ANI4OUT would use up the second available flow. Note that the MXA310 also contains a fifth audio channel, which is an automix of the individual microphone channels. In an application where all four independent channels are used in conjunction with the automix channel, two transmit flows are required.
+	
+	
+	
+	Figure 1: Example with two unicast flows.
+	
+	If there was a need to send audio to a third Dante device, a simple workaround is to use multicast flows instead of unicast. A multicast flow allows multiple devices to receive a single transmit flow.
+	
+	Figure 2: Example with one multicast flow.
+	To learn more about how to configure multicast flows with Dante, Audinate has put together a video.
+	
+	On the receive end, it is critical to realize that the same limitations apply, particularly in the case of the ANI4OUT, which can only receive two flows. Both the MXA310 and MXA910 feature the ability to send an automix of their individual microphone signals on a single Dante audio channel, so there is a strong temptation to use a single ANI4OUT to provide analog output for up to four of these microphones. However, this is not supported by the hardware. Routing the automix channel from one MXA310 or 910 to an ANI4OUT uses one of the receive flows on the ANI4OUT. Doing the same with a second MXA310 or 910 requires a second receive flow. The ANI4OUT is now out of receive flows, and no additional Dante devices may be received by this ANI4OUT, even though only two of the physical analog outputs of the ANI are being used.
+	
+	For applications that require more than two receive flows, the MXWANI4 or MXWANI8 should be used instead. These devices are capable of up to 32 receive flows. Note that although both MXWANIs have built-in, 4-port network switches, only Port 1 has Power-over-Ethernet. A PoE injector or external network switch with PoE will be required to support multiple MXA devices.

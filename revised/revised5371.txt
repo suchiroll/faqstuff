@@ -1,0 +1,14 @@
+Title: Current Draw - UA830, UA870, UA874, UABIAST
+Id: 5371
+Legacy Id: 5392
+
+Question:
+Current Draw - UA830, UA870, UA874, UABIAST
+
+Answer:
+
+	UA830 inline antenna amplifier: maximum current draw of 125mA @12Vdc
+	UA870 directional antenna with RF amplifier: maximum current draw of 79mA @12Vdc
+	UA874 directional antenna with RF amplifier: maximum current draw of 60mA @12Vdc
+	PS23 power supply is rated at 12Vdc @ 400ma.  This is used with the UABIAST.
+	 

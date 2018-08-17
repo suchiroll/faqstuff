@@ -1,0 +1,29 @@
+Title: How do I wire an A120S
+Id: 2
+Legacy Id: 2
+
+Question:
+How do I wire the Shure A120S switch for push to talk operation?
+
+
+Answer:
+
+	HOW THE A120S WORKS:
+
+
+	When the button is UP, the top and middle terminals are connected. When the button is DOWN, the middle and bottom terminals are connected. The terminals on the left are completely separate from the ones on the right, so the switch can be used to control two different devices at the same time.
+
+
+	When the button is up, the two audio conductors (Pin 2  Pin 3) are shorted together, muting the audio. When the button is down, audio flows. NOTE: This arrangement will probably cause a noticeable pop if used with a phantom-powered condenser microphone. Search the FAQ for How to build a mute switch in presence of phantom power if you are using a condenser microphone.
+
+
+	
+
+	
+
+	The following diagram is how the switch needs to be wired for push to mute. When the switch is in the UP position, the microphone will work. When the switch is pressed in the DOWN position, the microphone will mute. This is often used as a cough switch.
+
+	
+
+	
+

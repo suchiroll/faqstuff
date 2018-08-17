@@ -1,0 +1,12 @@
+Title: Must I set up the Motiv MV88 mic for each use?
+Id: 4719
+Legacy Id: 5889
+
+Question:
+Do I need to set up the MV88 mic each time I use it?
+
+Answer:
+
+	No. Hardware settings made in the Motiv app are retained in the MV88 mic.  The "factory" setting has a flat EQ and a 90-degree stereo field.
+	
+	When using the MV88 to record audio for a video, it is necessary to access the Motiv app to adjust the mic gain.

@@ -1,0 +1,15 @@
+Title: What is Mix Mode?
+Id: 4617
+Legacy Id: 5775
+
+Question:
+What is Mix Mode? It is a feature of some Shure PSM systems.
+
+Answer:
+
+	If your Shure PSM system has a stereo transmitter (only the PSM200 was monaural), there are two inputs on the transmitter. Lets call them InputA and Input B.
+	
+	Mix Mode is selected on your PSM receiver pack. (Refer to your PSM User Guide for instructions on selecting Mix Mode on your receiver.) Mix Mode allows you to hear InputA in both ears; InputB in both ears; and vary the loudness between the two Inputs.
+	
+	As an example: InputA is vocals only; InputB is instruments only. When using Mix Mode, you can hear more of Input A and less of Input B (and vice versa) by adjusting your PSM receiver. Your Mix Mode adjustment has no effect on the other musicians also using Mix Mode. They can select whatever blend of Input A and Input B they prefer.
+

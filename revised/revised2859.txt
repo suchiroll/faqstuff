@@ -1,0 +1,12 @@
+Title: PG Wireless Specification Sheet
+Id: 2859
+Legacy Id: 2971
+
+Question:
+I am desperate for data sheets or some call them product specification sheets for the UT-2458 system. I have to put submittals together for engineers approval.
+
+
+Answer:
+
+	The UT wireless system has been renamed to Performance Gear Wireless. Download the specification sheet by clicking on the link below.
+

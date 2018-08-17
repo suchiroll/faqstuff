@@ -1,0 +1,11 @@
+Title: P4800 with AMX NI-2000
+Id: 2916
+Legacy Id: 3041
+
+Question:
+I'm trying to connect the P4800 via RS422 to the AMX NI-2000. The AMX system is not able to communicate with the P4800.
+
+
+Answer:
+
+	When using the NI-2000, place a 20 second wait before initializing the RS422 port.

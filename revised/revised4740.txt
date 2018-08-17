@@ -1,0 +1,27 @@
+Title: VP83F with iPhone
+Id: 4740
+Legacy Id: 5917
+
+Question:
+Will the VP83 work with the iPhone? Do,I need any special cabling? If so where would suggest purchasing said cabling?
+
+
+
+Answer:
+
+	To use the VP83 with an iPhone requires the use of an adapter cable, such as this one:
+	http://www.bhphotovideo.com/c/product/1048151-REG/rode_sc4_trs_to_trrs_adaptor.html
+
+	Here is the reason: the VP83 output connector is a 3.5 mm phone plug withthree connection points: Tip - Ring - Sleeve.
+	Tip is the Left mic output; Ring is the Right right mic output; Sleeve is the common return for Left mic and Right mic.
+	
+	The iPhone input connector is a 3.5 mm phone jack withfour connection points: Tip - Ring 1 - Ring 2 - Sleeve.
+	Tip is Left earphone output; Ring 1 is Right earphone output; Ring 2 is common return for the earphones and the microphone; Sleeve is Mic input.
+	*Note: the iPhone Mic input is monaural...not stereo.
+	
+	The VP83 to iPhone adapter must make these wiring alterations:
+	VP83 Tip to iPhone Sleeve
+	VP83 Ring to iPhone Sleeve
+	VP83 Sleeve to iPhone Ring 2
+	* Note the adapter sums together the Left mic output and the Right mic output.
+

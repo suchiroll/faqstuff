@@ -1,0 +1,12 @@
+Title: Low Audio Output Level from SM11
+Id: 1545
+Legacy Id: 1599
+
+Question:
+I am using one of your SM11 microphones to record a conversation between two people at a distance of about 24-36 inches from the microhone. The SM11 is attached to the balanced input of a Rolls MP13 Mini-Mic PreAmp. The unbalanced output of the pre-amp is then input to the line-in (47 k-ohm impedence) of a recorder. My problem is that no matter how high I set the gain on the pre-amp, the voices are barely audible on the recording unless the microphone is kept about 6 inches or less from the person speaking. Am I doing something wrong? Any advice is appreciated. Thanks.
+
+
+Answer:
+
+	You are doing nothing wrong. The SM11 has a very low output, due to its tiny magnet, and must be located very close to the person speaking.
+

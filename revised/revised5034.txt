@@ -1,0 +1,12 @@
+Title: AXT600 with VHF wireless systems.
+Id: 5034
+Legacy Id: 6326
+
+Question:
+Since ULX-D and QLX-D are networkable, can I use the AXT600 to coordinate frequencies for my VHF systems?
+
+
+Answer:
+
+	As of Dec 2016, no. At this time, the AXT600 only supports UHF wireless systems.
+

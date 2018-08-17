@@ -1,0 +1,18 @@
+Title: Fix for SRH440 mechanical noise
+Id: 4680
+Legacy Id: 5848
+
+Question:
+I have been using the SRH440's in a pro studio.We love the sound but there is mechanical noise that can be an irritation. Please share any ideas that will help.
+
+
+Answer:
+
+	
+		1) One SRH440 owner reported success in eliminating a creak by spraying silicone lubrication (sold at hardware stores) on the moving joint. Do not use oil of any type as oil can attack/soften/dissolve plastic.
+	
+		
+		2) Another SRH440 owner added felt pads to the ear cups. See the photos below.
+
+
+

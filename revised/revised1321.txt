@@ -1,0 +1,12 @@
+Title: SM58 picking up unwanted drum sounds
+Id: 1321
+Legacy Id: 1372
+
+Question:
+I sing in a punk band and just bought an SM58. Tthe only problem I have with it is that even when Ii stand 15 feet away from our drum kit, the mic still picks up the drums or even the bass amp output and that goes through our PA system, which we want to use for only vocals. Iis there any way to fix this so that the mic will only pic up close-range vocals?
+
+
+Answer:
+
+	If you can hear the drums and bass where you stand, then the mic can as well. Sing into the microphone very closely, less then 1 inch away, and turn down the gain on the mic channel.
+

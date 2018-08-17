@@ -1,0 +1,19 @@
+Title: M267 mixer - adjustable limiter on older unit
+Id: 2626
+Legacy Id: 2728
+
+Question:
+Hello, I have two M267 Series mixers, they look identical. Both units have the switchable peak limiter with the red LED. Unit one has a LIMITER THRESHOLD ADJUST CONTROL accessable through the bottom of the chassis to set the desired level. Unit two does not have this adjustment on the bottom of the chassis. I would like to set the peak limiter to the same level on both units. How do I adjust the peak limiter on unit two and where is it located?
+
+
+Answer:
+
+	How do I adjust the peak limiter on unit two and where is it located?
+	* The older unit that you have does not have an adjustment. The limiter threshold was preset by component values on the circuit board. The unit with an adjustable limiter had a redesigned limiter circuit.
+	
+	For the older unit:
+	R254 should be a 22kohm resistor. Find it near C227.
+	Add a 22kohm resistor in parallel to R254 drops the threshold by 6dB.
+	Add a 56kohm resistor in parallel to R254 drops the threshold by 3dB.
+	Adding a variable resistor across R254 will give you a variable limiter threshold.
+	One more thing: the LED indicator will not track the new threshold.

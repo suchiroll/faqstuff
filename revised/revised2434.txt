@@ -1,0 +1,12 @@
+Title: Unusual Need For Microphone Windscreen Material
+Id: 2434
+Legacy Id: 2529
+
+Question:
+I am trying to inquire about the possibility of obtaining a 8" X 4" sheet of windscreen material approximately 1/4" thick. The audio application is for a pair of JBL L100 Century studio monitor loudspeakers that I purchased in 1974. I have contacted JBL, but they have been unable to assist me. The 1.4 inch direct radiator high frequency drivers have a ring of dense reticulated foam damping material similar to microphone windscreen material surrounding them to prevent unwanted radiation and reflections. I am attaching a picture(JPG format file) showing the material that I am referring to. This foam material has begun to deteriorate from age(basically the material is crumbling and if touched seems to "melt"). If I were able to purchase a "sheet" of microphone windscreen material, I am certain that I could remove the existing foam material and cut and attach the windscreen foam. I would sincerely appreciate your response to inform me of whether you can either provide the material that would serve the purpose or can direct me to where I could purchase this material elsewhere. I appreiate your time and look forward to hearing from you.
+
+
+Answer:
+
+	Shure purchases its windscreens pre-made. We do not have foam sheets. You are seeking open-cell foam. Try: http://www.steplaw.com
+

@@ -1,0 +1,14 @@
+Title: Microphone for tap dance routines
+Id: 2593
+Legacy Id: 2693
+
+Question:
+I am looking for a mic that is best suited for micing tap dance routines and was wondering if you could recommend a type/model?
+
+
+Answer:
+
+	Shows like Stomp use the following technique: an miniature omnidirectional mic, like the Shure WL50, is taped on each ankle. These two mics feed one bodypack wireless transmitter mounted on the performers belt or pants. The wireless receiver feeds the audio signal to the PA system. The advantage with this technique is that the mics move with the performer.
+	
+	If you want a mic to place on the floor and dance in front of it, look at the Shure MX391/C.
+

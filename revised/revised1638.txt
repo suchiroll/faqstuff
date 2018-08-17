@@ -1,0 +1,23 @@
+Title: Less boomy sound from a Beta 58A element?
+Id: 1638
+Legacy Id: 1695
+
+Question:
+I own a wireless system with a SM58, and though I'm very happy with the system and its performance, I'm not happy about the boomy, bassy sound the SM58 gives me. If I buy a Beta 58A cartridge, will I get a less boomy sound from my mic?
+
+---- 08/31/2001 04:25 AM ----------------------------------------------
+It's not that I don't like the SM58 sound, in fact I love it. I just don't like its sensitivity and the 'booms' it makes when I breath into it up close. I've seen performers use the Beta 58A, and I never once heard the problems I have with my SM58 (the breath booms), so I figured that mic wouldn't have that problem.
+So the Beta 58A has the same issues when it comes to sensitivity and 'booms'?
+
+Answer:
+
+	It is unlikely you will like the sound of the Beta 58A if you do not like the SM58 sound. However, you might try the SM87A cartridge, part number RPW120. It is a condenser element and will sound much brighter than the SM58 element
+	
+	Please note: Shure cannot guarantee that you will like the sound of the RPW120. Sound is subjective and only your ears can make the final decision.
+	
+	At 09/04/2001 07:29 AM we wrote - So the Beta 58A has the same issues when it comes to sensitivity and booms? * Yes, it does.
+	
+	Experiment with new mic techniques. For example, try holding the mic different. Instead of having the mic directly under your nose (lots of breath noise from the nose), hold it off to the side of mouth like a jazz singer.
+	
+	Remember the mic is the singers instrument and, as an instrument, there is technique that must be learned.
+

@@ -1,0 +1,62 @@
+Title: Wireless Intercom System
+Id: 2740
+Legacy Id: 2846
+
+Question:
+I am very interested in the Wireless Intercom Systems that your company
+
+provides, but was not sure who could answer my question best.
+
+I thought that maybe you would be able to point me in the right direction to
+
+help me find a solution for a project I am currently working on.
+
+
+Basically I am looking for a way to provide 4 Audio Ins and 3 Audio Outs
+
+
+I have found a third party sound card that will act as Intercom System
+
+Connection Controller which will be installed in the IOS PC.
+
+
+In my example, each user is tuned to a separate frequency, but all 4 inputs
+
+are heard by all 3 users.
+
+Furthermore, if I muted User 3, then User 1 and User 2 could have a private
+
+conference.
+
+Thus the users are fully configurable and the system allows matrix routing
+
+of all signals.
+
+
+For this to work, do your transmitters and receivers allow me to take their
+
+inputs from the mics and then route them through a matrix controlled by the
+
+Intercom System Connection Controller, and then feed back to them the
+
+desired output if any.
+
+
+Are there any obvious floors that you can see with such a system?
+
+Any insights you could provide would be greatly appreciated.
+
+
+Answer:
+
+	We do not make wireless intercom systems. All of our wireless systems are one way communication only.
+	
+	We do offer wireless microphones and wireless headphones, but they are separate systems and not integrated together.
+	
+	We recommend that you contact a manufacturer of wireless intercoms. Many wireless intercoms will already do side channel discussions without any additional equipment.
+	
+	Contact:
+	Clearcom (www.clear-com.com)
+	Telex (www.telex.com)
+	HM Electronics (www.hme.com)
+

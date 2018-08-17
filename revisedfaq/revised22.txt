@@ -1,0 +1,11 @@
+Title: Reduction of 885TT P.T.T. Delay
+Id: 22
+Legacy Id: 22
+
+Question:
+How can I reduce or remove the P.T.T. delay of the 885TT mic?
+
+Answer:
+
+	To remove the hang time (delay between PTT release and TX drop) youll need to remove D202 (diode) and C202 (capacitor). Replace R205 (resistor) with a jumper.
+

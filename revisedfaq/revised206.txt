@@ -1,0 +1,14 @@
+Title: Longer cable for A96F Transformer
+Id: 206
+Legacy Id: 207
+
+Question:
+Where can I purchase bulk cable like that on the A96F transformer so I can make a longer cable to the camcorder?
+
+
+Answer:
+
+	The cable used on the A96F is generically called microphone cable. It consists of two inner conductors, twisted together, and a braided shield surrounding the twisted pair. The inner conductors are typically 20, 22, or 24 gauge.
+	
+	Belden has many types of suitable bulk mic cable. Contact Belden at www.belden.com.
+

@@ -1,0 +1,23 @@
+Title: Microphone for conference call with PC
+Id: 1094
+Legacy Id: 1129
+
+Question:
+I'm looking for a good microphone, that can support 15 people around a table. The mic should be connected to a PC, for a voice over IP application. I need that anyone around this table will be able to speak and to be heared clearly on the other side PC.
+
+My budget: ~250$
+
+Any suggestions?
+
+
+Answer:
+
+	First, read: Interfacing a Professional Microphone to a Computer
+	
+	Second, read: Critical Distance and Microphone Placement
+	
+	Third, read: Predicting Speech to Background Noise Ratio at the Microphone
+
+	
+	Fourth, consider this microphone series: Microflex
+

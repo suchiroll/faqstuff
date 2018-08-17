@@ -1,0 +1,16 @@
+Title: MX400 Series Base - securing to a desktop
+Id: 3934
+Legacy Id: 4183
+
+Question:
+I was wondering if there is a suggested way to permanently mount a desktop base to a surface. I wish to retain the push-to-talk capability of a MX 400 desktop base while securing it to the table surface for security and protection.
+
+
+Answer:
+
+	We do not recommend creating any opening in the bottom plate as that will deteriorate the protection against cell phone interference and other RFI.
+	
+	Self-adhering VELCRO works well when large sections are used, though it will not prevent theft.
+	
+	You might also epoxy a nut to the bottom plate, and run a bolt up through the table surface that fastens into the nut.
+

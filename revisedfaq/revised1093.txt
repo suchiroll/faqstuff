@@ -1,0 +1,24 @@
+Title: Battery power supply for Shure receiver
+Id: 1093
+Legacy Id: 1128
+
+Question:
+Do you have a portable power supply for my Shure wireless receiver?
+
+
+Answer:
+
+	Shure does not offer a battery supply.
+	
+	But one can be fabricated from Radio Shack parts. This concept works for Shure wireless receivers with a DC coax jack on the rear panel AND that use 12 volts DC for operation.
+	
+	Radio Shack has a battery holder that holds 8 AA batteries in series. This provides a 12 volt voltage source.
+	
+	The output terminal of the battery holder is a snap connector like used on a 9 volt battery. Purchase a mating snap connector and the proper DC coaxial connector to mate with the receiver power jack. The receiver should operate over 6 hours from the 8 AA batteries.
+	
+	Parts Needed (from Radio Shack):
+	Battery holder for eight AA batteries - Part #270-407 or 270-387
+	Battery terminal snap connector - Part #270-325 or 270-324
+	DC Coaxial Plug - Part #274-1567
+	Extra wire may be needed to extend the wires coming from the snap connector to DC coaxial plug.
+

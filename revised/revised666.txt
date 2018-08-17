@@ -1,0 +1,11 @@
+Title: Setting balance on RXP3 Phono Cartridge
+Id: 666
+Legacy Id: 683
+
+Question:
+A few years ago I bought a cartridge for my record player. Recently I have tried to use it. I'm told to set the needle balance. I need instructions from the cartridge manufacturer. On the side of the cartridge it says "RXP3". It would be awesome if you could tell me how to set the balance correctly.
+
+Answer:
+
+	The RXP3 requires a tracking force of 1 to 1.5 grams. We suggest the use of a Shure SFG-2 stylus force gauge to measure the tracking force. Consult your turntable instructions on how to adjust the tracking force.
+

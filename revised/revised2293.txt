@@ -1,0 +1,15 @@
+Title: WL50 or WL51 for singing
+Id: 2293
+Legacy Id: 2378
+
+Question:
+Is the WL50 or WL51 available in beige color and as a headset mic? I want to use it for singing on stage with low visibility so the audience can't see the headset. And if so can I combine it with a wireless system?
+
+
+Answer:
+
+	1) Take a look at the Beta 53 or Beta 54.
+	
+	2) It is available in tan.
+	
+	3) The Beta 53 and 54 are designed to work with Shure wireless systems.

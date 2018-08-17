@@ -1,0 +1,17 @@
+Title: SE30 Manual/Rackmount Option
+Id: 213
+Legacy Id: 214
+
+Question:
+I have had a Shure SE30 Mic Mixer/Compressor for several decades.  
+• I would like to be able to rackmount it and am wondering if the option exists.
+• Is there a PDF Manual available for the unit?
+Thanks for your help.
+
+Answer:
+
+	The SE30 has been discontinued in 1985. Shure no longer has any parts for it.
+	
+	To rack mount it, we suggest purchasing a rack tray from Middle Atlantic Products. The SE30 sits on the tray. It is held to the tray by screws that you tap into the bottom of the SE30 chassis. A lot of Velcro will also work.
+	
+	The manual can be downloaded from our User Guides area.

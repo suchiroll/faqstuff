@@ -1,0 +1,17 @@
+Title: ULXD1 LEMO3 Transmitter with Instrument Cable
+Id: 5433
+Legacy Id: 6387
+
+Question:
+I have a number of Lemo3 variants of the ULXD1 beltpack transmitter. I heard the Sennheiser CI-4 instrument cable was the only available option to connect to instruments, as the Shure WA305 is only available with a TA4F connector. I recently tried the Sennheiser cable, with no luck. Is there a wiring mismatch between this cable and the beltpacks?
+
+Answer:
+
+	Pin information for the ULXD1 Lemo input:
+	
+	Pin 1 = ground (connects to cable shield and sleeve of 1/4 phone plug)
+	Pin 2 = +5Vdc bias
+	Pin 3 = Audio In at 1 Megohm impedance (connects to inner conductor and tip of 1/4 phone plug)
+	
+	The Sennheiser cable wiring does not match the above. It appears this cable has no connection to pin 3. It would have be rewired to work with the ULXD1.
+

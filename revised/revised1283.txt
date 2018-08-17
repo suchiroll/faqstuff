@@ -1,0 +1,12 @@
+Title: Installation of an M44-7 cartridge.
+Id: 1283
+Legacy Id: 1331
+
+Question:
+Would it be possible to get a diagram of how to install an M44-7 cartridge onto a headshell from a Gemini turntable. Thanks
+
+
+Answer:
+
+	We do not have any documentation regarding installation for specific turntables. Here is a link that may help:Phono Cartridge Installation and Setup - Detailed Instructions
+

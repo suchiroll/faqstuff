@@ -1,0 +1,26 @@
+Title: TTL logic converted to dry contact closure switch
+Id: 3376
+Legacy Id: 3563
+
+Question:
+I am replacing old Astatic push to talk microphones that have dry contact switches with MX412D/C microphones. Do you have a circuit or interface diagram to use the additional wires that seem to provide a 5 volt logic switch when push to talk is activated. I am providing phantom voltage to the mic to power the electronics.
+
+
+Answer:
+
+	These devices convert a TTL signal (from the MX412 or any device with a TTL Switch/Gate Out)into dry switch contacts:RDL ST-LCR-1 (momentary contact relay)and RDL ST-LCR-2 (alternate action relay).The manufacturer is Radio Design Labs.
+
+	Connections:
+	MX412D White wire to RDL SLAVE terminal. White is SWITCH OUT.
+	MX412D Green wire to RDL GROUND terminal. Green is LOGIC GROUND.
+
+	Note: The TTL logic outputs of multiple Shure MX mics may be wired in parallel to control a single RDL ST-LCR unit. For example, the ST-LCR may be used to mute a group of microphones using the TTL logic controls on an automatic mixer, like the Shure SCM810.
+
+	TheSWITCH OUTwires from multiple MX412D units are wired in parallel and connected to the ST-LCR SLAVE terminal.
+	The LOGIC GROUND wiresfrom multiple MX412D units are wired in parallel and connected to the ST-LCR GROUND terminal.
+	When any MX412D PUSH switch is pressed, the ST-LCR relays will activate.
+
+	Multiple MUTE INs on the SCM810 are wired to one terminal of the ST-LCR relay.
+	The SCM810 LOGIC GROUND is wired to the complementary terminal of the ST-LCR relay.
+	When the MUTE INs are connect to LOGIC GROUND through theST-LCR relay,the mic audio signals are muted within the SCM810.
+

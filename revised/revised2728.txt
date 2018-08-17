@@ -1,0 +1,15 @@
+Title: E2 Earphones - Sensitivity and Frequency Response
+Id: 2728
+Legacy Id: 2833
+
+Question:
+Would you be able to send me the specs on your E2 In Ear phones?
+
+
+Answer:
+
+	* Sensitivity: 105dB SPL per milliWatt
+	
+	* Frequency Response: Frequency response of Shure earphones
+	
+	For additional specifications, download the User Guide.

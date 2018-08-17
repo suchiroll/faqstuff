@@ -1,0 +1,12 @@
+Title: SM58 internal wiring
+Id: 1089
+Legacy Id: 1124
+
+Question:
+I recently purchased a Shure SM58 microphone and there is a problem. I opened it up and I saw one of the wires was disconnected. I don't think it is supposed to look like that but it is a green wire that is tangled around a yellow wire is it supposed to look like that. If not what should I do?
+
+
+Answer:
+
+	The green wire is soldered to the capsule terminal that is coded, typically by a small red dot. The yellow wire is soldered to the uncoded terminal. Please see the User Guide.
+

@@ -1,0 +1,15 @@
+Title: Microphone pick-up patterns, stereo techniques
+Id: 1026
+Legacy Id: 1056
+
+Question:
+I now what a microphone is, but I don't know what are the technical characteristics and pick-up polar patterns?
+
+
+Tell me the Microphones techniques for stereo, and other pick-ups and direct injection techniques
+
+
+Answer:
+
+	See the booklets at: Educational Articles - Online booklets and bulletins
+

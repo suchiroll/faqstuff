@@ -1,0 +1,14 @@
+Title: Can I install an SM58 cartridge into a non-Shure wireless?
+Id: 317
+Legacy Id: 324
+
+Question:
+Can I install an SM58 cartridge into my wireless mic which is not a Shure product?
+
+
+Answer:
+
+	You can try, but it may not sound like an SM58. A wired SM58 mic has an acoustic chamber behind the mic cartridge. This chamber is an important part of the SM58 sound. Your wireless will not have this chamber and therefore the sound will not be the same as the wired SM58.
+	
+	If you decide to try anyway and you like the resulting sound, great. But your chances of successfully grafting an SM58 cartridge onto a non-Shure wireless are not good. Best of luck!
+

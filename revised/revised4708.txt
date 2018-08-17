@@ -1,0 +1,12 @@
+Title: How do I connect a Motiv device to an Android phone?
+Id: 4708
+Legacy Id: 5878
+
+Question:
+How do I connect a Motiv device to an Android phone?
+
+Answer:
+
+	An Android phone requires an OTG (On The Go) adapter to connect with the USB cable supplied with the MV5, MV51, or MVi.
+	
+

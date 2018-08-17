@@ -1,0 +1,14 @@
+Title: VHF antenna length and frequency
+Id: 412
+Legacy Id: 419
+
+Question:
+I am writing you in regards to the LX4 wireless microphone. We have several of your units, which have been 'crystalled' to different frequencies at your factory, obviously. Each of these frequencies correspond to different antenna length based on their frequency, The longest (red tip) is used for 169 - 185 mHz; the shortest (blue tip) for 200 - 216 mHz; the middle (green tip) length for 185 - 200 mHz. What I would like to know is why is it necessary to have different antenna lengths? Does it truly matter if one antenna is slightly longer than another, it seems it wouldn't considering the minute amount in a conductive piece of wire given its relativity to the frequency of the waves. Wouldn't the placement of the wires be infinitely greater of importance than the lengths? ANY and ALL information on this topic will be appreciated greatly.
+
+Answer:
+
+	The size of the antenna is directly proportional to the wavelength of the signal. When the wavelength is exactly 1/4 the length of the antenna, there is maximum efficiency of the antenna. As the frequency goes higher or lower (but staying with the same antenna), the signal pickup will roll off and degrade. The antenna is a pass band component that will roll off the level of RF if the frequency is higher or lower than its ideal. The placement of the antenna and the length of the antenna are both important to receive the maximum amount of RF signal at a particular frequency.
+	
+	For more information about antennas, see page 13 of our online publication Selection and Operation of Wireless Microphone Systems.
+	
+

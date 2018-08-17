@@ -1,0 +1,11 @@
+Title: Windscreeen for Shure 512 Microphone
+Id: 2133
+Legacy Id: 2203
+
+Question:
+Does the Shure 512 microphone come with a windscreen built-in to the microphone unit, or is it a separate detachable windscreen?
+
+
+Answer:
+
+	The 512 is supplied with a detachable foam windscreen. The replacement part number is the RK184WS.

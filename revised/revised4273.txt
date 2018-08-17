@@ -1,0 +1,28 @@
+Title: PA421A or PA821A as a receiving antenna combiner
+Id: 4273
+Legacy Id: 5336
+
+Question:
+I know the PA421A or PA821A can be used to combine the RF outputs of PSM transmitters. Can either device also be used to combine the outputs of wireless mic receiving antennas? And if so, is there DC bias on the RF inputs to power remote RF amps like the UA830?
+
+Here is the concept: There are four separate rooms on four different floors of a building. The client want to use the same wireless mic transmitters in any of the four rooms. In each room, I will place two antennas (for diversity reception). Each antenna cable run will be about 200 feet so I will use low loss cable (RG213U) and place a UA834 at each antenna. The eight antenna cable runs terminate in the equipment room, feeding into two PA821A units - one unit for the "A" antennas and one unit for the "B" antennas. (This assumes that DC bias is available to power the UA834 amps.) The RF output of each PA412A feeds a Shure UA844+SWB RF distro amp - and this feeds the multiple Shure ULXD receivers.
+
+
+
+Answer:
+
+	
+		Yes, this concept will work. Note that the PA421A and PA821A were designed to combine transmitter outputs which provide far stronger RF signals than receiving antennas. Thus when the PA421A or PA821A is used as a receiver antenna combiner, the RF signal/noise ratio will be degraded compared to when the device is used as intended.
+	
+		The PA412A or PA821A must be internally modified to activate the RF amps, as the RF amps will shut down if the incoming RF signals are too weak. (This would be typicalwhen connected to receiving antennas.) ContactShure Applications Engineering to obtain the modification document. This modification makes all RF ampsAlways On.
+		
+		NOTES:
+		A) The RF amp shut down feature is implemented to reduce the amount of heat within the PA412A/PA821A chassis.
+		B) Earlier versions of the PA421 or PA821 do not require this modification.
+		
+	
+		DC bias is NOT provided on the PA421A or PA821A RF inputs.Consider using the Shure UABIAST if it is necessary to power external RF amps like the Shure UA834.The UABIAST can deliver up to 400mA @ 12 VDC.
+	
+		Or the PA421A or PA821A can be modified by a skilled electronics technician to provide 15 Vdc bias on the RF inputs. Contact Shure Applications Engineering to obtain the modification document. The modification states a current capacity of up to 660mA at 15 VDC.
+
+

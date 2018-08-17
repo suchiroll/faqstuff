@@ -1,0 +1,52 @@
+Title: Does the stylus age when still in the original box?
+Id: 583
+Legacy Id: 595
+
+Question:
+I own 1000 vinyl LP's and 200 "45's"
+
+I bought this computer, "Dart Pro" sound processing software, and a CD-RW (so called, "CD burner)
+
+When I realized that CD's were replacing vinyl, I went to 222 Hartrey Ave. Skokie, IL in person,
+and bought a bunch of VN5MR style, and one VN5HE as well.
+
+I want to record the best possible sound for that finally playing of the vinyl into the computer
+sound card, from which I will process the sound and make a CD out of it.
+
+My sound processing software and my ability can only fix some impulse noises (ticks)
+and steady background noise. I CAN'T COMPENSATE OR REPAIR distortion including
+mistracking. I need a great quality playing of my vinyl
+
+In one place on your web site you say that the cartridge will last "20 years" if it's not played
+much.
+
+In another place you say that only the stylus ages, not the cartridge, and mention the elastomer
+material that flexes when the "needle" vibrates.
+
+SO, PLEASE--will a new stylus for my V15 Type V MR cartridge be advisable,
+
+or are the new still-in-the-original-packaging ones I've had for several years be just as good.
+
+(Do they age without using them)?
+
+Finally, you say the V15Type V came out in 1997.
+
+That's what I think I have, and I've had it longer than that.
+
+Description: SILVER housing, big V on the front.
+Black stylus plastic, gray rectangle with serial # 133753 on the front.
+Word SHURE in silver.
+
+If you think I should upgrade rather than buy new styli, tell me that, too.
+
+
+Answer:
+
+	Styli age due to the breakdown of the rubber support bushing and wear of the diamond. In your situation, there is no wear on the diamond as the styli have not been used. The rubber bushing wears due to movement of the styli and deteriorates due to ozone in the atmosphere. As your styli have remained in original packaging, they will likely be fine.
+	
+	One suggestion: Purchase one brand new stylus, model VN5xMR, and do a comparison listening test: new stylus versus old stylus. Your ears must be the final judge. We predict you will hear little or no difference.
+	
+	The cartridge body does not wear out as there are no moving parts inside and nothing to deteriorate.
+	
+	The V15V was re-introduced in May 1996. It had been discontinued for several years, but brought back due to customer demand. Your cartridge was likely made before 1994.
+

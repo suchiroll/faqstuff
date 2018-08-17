@@ -1,0 +1,34 @@
+Title: SCM810 and SCM800  AUX Input Connectors
+Id: 4415
+Legacy Id: 5512
+
+Question:
+Could you please tell me if the rear AUX input on an SCM810/SCM800 will accept a mic level input or only line level? If it accepts mic level, can the rear AUX connector also output phantom power?
+
+
+Answer:
+
+	The AUX inputs on both the front and rear panels of the SCM810 are designed for line level class signals.A common application for the AUX inputs is an input for a media device, such as a music player or video player.
+	
+	The AUX inputs do not have enough gain to support a microphone level signal.They cannot provide phantom power for condenser type microphones.
+	
+	Here are some details about the front and rear AUX input jacks:
+
+	
+		The AUX inputs support line level signals in the consumer and professional ranges (-10 to +4 dBu).
+	
+		The AUX inputs are unbalanced.
+	
+		The AUX input impedance is 10k Ohms. 
+	
+		Phantom power is not available.
+	
+		Both front and rear inputs are  TRS phone plug connectors configured to accept a stereo signal.Summing of the left and right signals is provisioned through a pair of 10k Ohm resistors.
+	
+		Monaural input signals are supported and compatible using a  TS phone plug. 
+	
+		Both the front and rear AUX inputs are summed and can be used simultaneously.
+	
+		The front panel AUX input volume control is common for both the front and rear panel connectors.
+
+

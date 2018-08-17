@@ -1,0 +1,13 @@
+Title: N25C and N35X styli
+Id: 5003
+Legacy Id: 6272
+
+Question:
+What's the difference between the N25C and N35X styli except price and color?They have the same tracking force, the same compliance, the same diamond tip size and shape, the same cantilever construction.
+
+
+
+Answer:
+
+	The difference between these two styli is the magnet size. The size difference provides a different magnet gauss strength; thus the N35X provides a higher sensitivity output by 2 dB, typically.
+

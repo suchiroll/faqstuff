@@ -1,0 +1,14 @@
+Title: Replacement for 50AC
+Id: 1693
+Legacy Id: 1750
+
+Question:
+At Fuji news in London UK we use a 50AC acoustic coupler which has proved useful for reporters in the field. I would like to get hold of another or similar device, any sources?
+
+
+Answer:
+
+	We wish we could help. The 50AC was discontinued nearly 10 years ago due to very poor sales. We have been unable to locate any other manufacturer of such a device, probably because of the extremely small potential market.
+	
+	You might try companies that make acoustic modems as the operational concept is similar.
+

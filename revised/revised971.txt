@@ -1,0 +1,16 @@
+Title: Computer Microphone to do voice over?
+Id: 971
+Legacy Id: 1000
+
+Question:
+I am looking for a computer microphone to do voiceover recordings to use on my websites with Flash animations that I create. (Streaming Audio). What microphones do you have for this purpose?
+
+
+Answer:
+
+	To see which microphone we suggest for voice over, go to our online Selection Guides
+
+	
+	To connect a professional microphone to a computer, see the following link:
+	Answer link
+

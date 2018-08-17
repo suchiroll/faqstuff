@@ -1,0 +1,23 @@
+Title: Which in ear system to monitor drums?
+Id: 1029
+Legacy Id: 1059
+
+Question:
+I am trying to decide what type of monitor system to use for live performances.  I play acoustic drums triggering Alesis DM Pro and Roland TD7 sound modules.  I don't currently have any type of monitor system and will be hooking up to our main board monitor signal.  I would like to be able to have an independent mix providing a higher concentration of drums than the other members of the band.
+
+Is it possible to run independent line outs from the sound modules directly into the Shure mixed in addition to the main board mixer?  Will the E1 ear phones be able to handle the entire range of frequencies from the drums (will it sound good)?  How would you set the system up for maximum performance?
+
+Answer:
+
+	Is it possible to run independent line outs from the sound modules directly into the Shure mixed in addition to the main board mixer?
+	
+	* Yes. Look at Shure P4M mixer to add this capability.
+	
+	Will the E1 ear phones be able to handle the entire range of frequencies from the drums (will it sound good)?
+	
+	* We suggest the E5 earphones for your needs.
+	
+	How would you set the system up for maximum performance?
+	
+	* Seehttp://www.shure.com/publications/us_pro_guidepersonalmonitor_ea.pdf
+

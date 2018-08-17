@@ -1,0 +1,9 @@
+Title: RMCE-BT1 battery life
+Id: 5448
+Legacy Id: 
+
+Question:
+How long is the RMCE-BT1 battery life?
+
+Answer:
+ On a full charge, the Lithium-Ion battery in the RMCE-BT1 provides up to 8 hours of battery life.  A fifteen-minute charge yields up to a two-hour run time.

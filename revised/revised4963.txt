@@ -1,0 +1,13 @@
+Title: Motiv MVi with ASIO
+Id: 4963
+Legacy Id: 6228
+
+Question:
+I'm running a DAW that uses ASIO devices. Is there an ASIO driver for the MVi?
+
+
+Answer:
+
+	Success has been reported using the following ASIO driver with the MVi and DAW software:
+	
+	www.asio4all.com

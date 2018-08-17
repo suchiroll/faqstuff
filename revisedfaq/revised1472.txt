@@ -1,0 +1,14 @@
+Title: Stereo miking
+Id: 1472
+Legacy Id: 1525
+
+Question:
+I tried to use a 2 uni directional capsule facing away from each other in a stereo mic(to be used for my MP3). The result is I got a response of a noise canceling microphone. Is this usual the outcome for this kind of capsule combination? What about other capsule combinations (omni, bidirectional)? Please help me come out with the right answer.
+
+
+Answer:
+
+	The Shure VP88 is a one piece stereo microphone which will solve the problems you encountered. You can also use two Shure unidirectional mics, like the KSM137, and mount them on a Shure A27M adapter.
+	
+	If you wish to learn more about creating your own stereo mic pairs, consult the book: Stereo Microphone Techniques, authored by Bruce Bartlett; ISBN 0-240-80076-1 This is the most complete book ever written on stereo miking.
+

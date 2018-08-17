@@ -1,0 +1,15 @@
+Title: Automatic Gain Control Amplifier
+Id: 1552
+Legacy Id: 1606
+
+Question:
+Way back in the olden days... 20 years ago, I worked in radio/TV engineering. Shure used to make a little mono audio mixer, I think it had maybe four inputs. There was also available a matching AGC amplifier. We used to used the AGC amp after the mixer to drive phone lines when doing remotes, as it maintained a constant output no matter what the DJ did with the mixer mike gain knobs on the mixer.
+
+
+Anyway, 20 years later, the paging system at the company I am an engineer for is driving us crazy. They have it turned way up so that soft voiced people can be heard, and the not-so-soft voice people are unbearable. I looked on your webe site for this AGC amp I used to love so much and I guess it no longer exists. Do you have anything that does the same function? I just want something that I can put in-line prior to our PA amplifier to keep audio fairly constant with a wide range of variation in the input signal.
+
+
+Answer:
+
+	Consider the Shure DP11EQ. It features a very intelligent AGC circuit.
+

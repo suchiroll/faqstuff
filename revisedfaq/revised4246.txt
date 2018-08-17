@@ -1,0 +1,20 @@
+Title: UR1M power switch flashing red
+Id: 4246
+Legacy Id: 5294
+
+Question:
+I have a UR1M mini bodypack. The illuminated power switch, which is usually green, is flashing red. I can not find an explanation for this in the manual, and I'm certain the batteries are fresh. Can you explain what this means?
+
+
+Answer:
+
+	The UR1M micro-bodypack transmitter power LED has several indicating states:
+
+	Steady green:Power on, batteries good.
+	Steady red:Power on, batteries nearly exhausted, replace batteries soon.
+	Blinking red:Infra-red synchronization in progress.
+
+	For your situation, try another set of batteries known to be fresh.If the blinking red LED indicator continues, the unit will need to be returned to Shure Service for evaluation and repair.
+
+	Another question: does the UR1M in the blinking red condition shows text in the display window?If the window is blank, it is another indication of an internal problem.
+

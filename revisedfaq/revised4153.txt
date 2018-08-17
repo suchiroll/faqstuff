@@ -1,0 +1,12 @@
+Title: Rubber ring included with ULXD2
+Id: 4153
+Legacy Id: 5059
+
+Question:
+I purchased a ULX-D handheld system and there was a 1 inch diameter rubber ring that was included. It appears to clip over the antenna on the handheld, but I can't find it mentioned in the User Guide. What is it for?
+
+
+Answer:
+
+	In a bright environment, the metal battery charge contacts on the handheld can cause a reflection. The rubber ringis used to cover the battery charge contacts on the microphone for appearance purposes only - such as when the microphone is used on-camera.It is strictly optional and is not requiredfor any other purpose.
+

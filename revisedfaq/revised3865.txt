@@ -1,0 +1,21 @@
+Title: PSM 900 vs PSM 1000 - primary differences
+Id: 3865
+Legacy Id: 4107
+
+Question:
+Wthe are the main differences between the PSM900 and PSM1000?
+
+
+Answer:
+
+	Here are the primary differences:
+	
+	PSM1000 - tuning range is 72 MHz (36 MHz - PSM900)
+	
+	PSM1000 - dual transmitter (P10T) in one chassis
+	
+	PSM1000 - receiver (P10R) has antenna diversity   (non-diversity - PSM900)
+	
+	PSM1000 receiver (P10R) and PSM900 receiver (P9RA) - operate on AA alkaline or optional rechargeable power packs - model SB900; (PSM900 receiver P9R, AA alkaline batteries only)
+	
+	PSM1000 - receiver (P10R) and PSM900 receiver (P9RA) - receivers have longer battery life than original PSM900 (P9R) receiver

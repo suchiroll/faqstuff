@@ -1,0 +1,77 @@
+Title: Point to point wireless using a Shure PSM system
+Id: 3065
+Legacy Id: 3196
+
+Question:
+I have an application where I need to send audio from one place to another. Both ends will be stationary, so I do not need battery powered or portable devices. Can you help?
+
+Answer:
+
+	Point to Point Wireless Audio Systems
+
+	
+
+	Introduction
+
+	Often it is desirable (or even mandatory) to send an audio signal from one fixed location to another fixed location without wires. This is termed point-to-point wireless. In some cases this may involve a single transmit location and multiple receive locations, referred to as point-to-multi-point wireless. Possible applications include remote speaker/amplifier locations, remote recording/broadcast operations, and one-way communication links. Potentially this could be accomplished either by optical transmission or by radio frequency transmission.
+	
+	Optical methods are inherently limited to line-of-sight conditions. The use of conventional (non-directional) infrared transmission is limited by ambient light levels vs. practical infrared power levels. Modulated laser transmission (highly directional) is another optical possibility but available systems are primarily geared to high-speed data/video transmission and are not widely (or affordably) distributed.
+	
+	Low-power radio transmission systems, on the other hand, are both widely available and relatively affordable. For radio signals, line-of-sight conditions are desirable but they are not strictly required. In addition, point-to-multi-point is more easily accomplished with a single radio transmitter.
+	
+	General requirements for point-to-point wireless include:
+
+	
+		High fidelity audio
+	
+		Line level in and line level out
+	
+		AC-power capability for both transmitter and receiver
+	
+		Sufficient transmission distance
+
+
+	Most radio communication products such as wireless intercoms, two-way radios, and mobile phones are unsuitable due to lack of audio fidelity. However, two common high-fidelity radio products that can be used in a point-to-point application are the wireless microphone system and the wireless in-ear monitor system. Each of these has slightly different concerns/advantages in performance and in setup.
+
+	Using Shure wireless in-ear monitors for point-to-point
+
+	An accommodation that is necessary at the receiver is adapting the stereo (TRS) mini-phone jack output to connect to the destination audio system. This is effectively an unbalanced, -10dBV signal, suitable for most line level input devices. Note that most PSM receivers are equipped with switchable limiters. It is recommended that the limiter be switched off for point-to-point applications in order to obtain the maximum drive level.
+	
+	Note that certain Shure PSM receivers may be powered by a battery eliminator device: Shure SBC-DC.
+	
+	Once audio connections are made, the PSM receiver should be secured to an elevated location to allow best line of sight to the PSM transmitter. Again, weather protection for the receiver can be provided by a ziplock bag or similar covering.
+	
+	A significant difference between PSM and wireless microphones for this application is that the PSM can transmit two audio channels (multiplexed) per radio frequency while the wireless microphone system can transmit only one audio channel per radio frequency. If stereo transmission is required PSM is more cost- and spectrum- efficient.
+
+	Antennas
+
+	The antennas supplied with all Shure wireless products are omnidirectional. These are suitable for both point-to-point and point-to-multi-point applications. If additional transmission range is required it may be possible to use directional receiving and/or transmitting antenna(s). Note that although diversity receivers are always preferred it may not be necessary (or practical) to use directional antennas on both antenna inputs for point-to-point. Since the transmitter and receiver locations are assumed to be fixed in this application, multipath variations should be minimal once the equipment is set up.
+	
+	The PA805 SWB directional antenna can be used with the P3T, P9T and the P10T transmitters for greater range. However, this somewhat reduces the coverage area for point-to-multi-point applications. No other Shure transmitters have external antenna capability.
+
+	Maximum range of point-to-point wireless
+
+	The maximum range system employs the PSM900 or PSM1000 series. The range advantage of these systems is due to two factors: first, the transmitter power is 100mW. This is twice the power of most Shure wireless microphone systems. Second, since both the transmitter and the receiver have detachable antennas, it is possible to use the PA705 (discontinued) or PA805SWBdirectional antenna on both the transmitter and the receiver. The only additional component required is a coaxial cable to connect the PA805 SWB (or PA705) to the P9RA or P10R. This cable can be made using the appropriate Lemo connector (GMB.00.025.DN and FFA.00.250.CTAC27Z), a short length of RG-174/U or other miniature coaxial cable and a BNC connector. The antenna connector on the receiver pack is known as an SMA connector. Pasternack (www.pasternack.com) sells cables that are BNC to SMA.
+
+	
+
+
+	In operation, the receiving and transmitting antennas should be pointed toward each other and oriented vertically. Elevation for best line of sight will further improve range. Under ideal conditions, this system should be capable of stereo transmission up to 2500 ft and mono operation up to 3500 ft.
+	
+	If greater distances are required, it can be accomplished by using an additional system as repeater. That is, at the location of the first receiver a second transmitter is set up to rebroadcast the signal to a more distant second receiver. Of course, each of these additional systems has to be on a different compatible frequency. The practical limit for a repeater system using standard wireless equipment is about 3 hops due to increased noise and distortion.
+
+	Summary
+
+	It is possible to employ Shure wireless systems for point-to-point applications in several ways. Both wireless microphone systems and PSM systems can be used, each with different adaptations. Special connectors and/or adapters may also be necessary in some cases.
+	
+	For moderate distance, single channel applications use wireless microphone systems for good results. Multi-channel, especially stereo, transmission may benefit from the PSM approach. Longer distance uses will require directional antennas for wireless microphone receivers or for PSM transmitters. Maximum range applications can be handled by the dual directional antenna PSM setup or by using multiple systems in a repeater configuration.
+
+	Sources
+
+	Winegard
+	(319) 754-0600
+	www.winegard.com
+	
+	Radio Shack
+	www.radioshack.com
+

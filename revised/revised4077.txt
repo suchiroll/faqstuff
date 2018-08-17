@@ -1,0 +1,19 @@
+Title: ULX4 Receiver and 1/2 rack mounting
+Id: 4077
+Legacy Id: 4649
+
+Question:
+I AM WANTING TO MOUNT THE ULX RECEIVERS IN A 1/2 RACK SIZE , 10 U HIGH CASE WHICH IS 9.5 INCHES WIDE OUTSIDE MEASUREMENT OF THE RACK PANEL.THIS ISEXACTLY 1/2 THE STANDARD EIA 19 INCH SIZE. PLEASE EXPLAIN HOW THIS CAN BE DONE.
+
+
+Answer:
+
+	When a ULXP4 receiver is purchased, it is supplied with one short rack ear, one long rack ear, and the screws that secure the rack ears to the transmitter. See the ULX User Guide.
+
+	Two short rack ears are required for a 1/2 rack mount.The width of the ULXP4 receiver is 8 and 5/8.With two short rack ears, the total front panel width is 10 and 3/8; the rack ear mounting holes are separated by 9 and 1/2.
+
+	
+
+	Additional ULX short rack ears may be purchased from Shure Parts (800-516-2525) as part #53A8484.
+	
+

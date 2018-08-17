@@ -1,0 +1,11 @@
+Title: Larger Windscreen for KSM141 and KSM137
+Id: 2637
+Legacy Id: 2739
+
+Question:
+Is there a larger, more effective windscreen for the KSM141 and KSM137?
+
+
+Answer:
+
+	Yes, the A81WS windscreen.

@@ -1,0 +1,27 @@
+Title: Changing the frequency on a handheld transmitter
+Id: 1818
+Legacy Id: 1878
+
+Question:
+I have an ACCESS AXSHWS wireless headset system. My system runs on frequency channel "CL". I have a chance to get ahold of a used Shure wireless handheld microphone, to use with my system in place of my headset, but I'm not sure of what channel it operates.
+
+
+My Questions Are:
+
+1) How can I tell what channel this handheld works on?
+
+2) If this handheld's channel doesn't match my system's, can it be made (sent it, etc.) to match?
+
+
+
+
+Answer:
+
+	1) How can I tell what channel this handheld works on?
+	* Look for a label in the battery compartment. After the model number, there will be a two letter code. It must be CL to match your receiver.
+	
+	2) If this handhelds channel doesnt match my systems, can it be made (sent it, etc.) to match?
+	* Yes, Shure Service will perform this modification for a fee. Please contact our Service Department at 800-516-2525 or 847-866-2699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/ProAudio/ServiceAndWarranty/index.htm
+

@@ -1,0 +1,24 @@
+Title: M77 phonograph cartridge for Rowe-Ami jukebox
+Id: 474
+Legacy Id: 484
+
+Question:
+Hi! I'm working on restoring an old 1950's, or 1960's era Rowe-Ami jukebox.
+Inside, is a Shure cartridge model #M77-DA. Stamped on top are the letters
+"ED". There are no screw holes, but there are two pole snaps, one on each side.
+The top is red, & the bottom is black.       ------
+                                       pin1  | *L |
+                                       pin2  | R* |
+                                       pin3  | *LG|
+                                       pin4  |RG* |
+                                             ------  *-designates pin location
+This is a backview- UNATTACHED, are 2 red wires, & 2 black wires(ground ?). 
+
+Answer:
+
+	Typically, the red wires will connect to L and R (Left channel hot and Right channel hot). The black wires typically connect to LG and RG (Left channel ground and Right channel ground). However, it seems odd that Rowe would not use different colors for the Left and Right connections.
+	
+	Experiment with different hookups as you will not damage the phono cartridge if you hook it up incorrectly.
+	
+	Shure no longer sells the M77. It tracked at 3 to 6 grams and had a spherical stylus with a radius of 0.7 mils. In the current product line, consider the M35X or the SC35C as a replacement. However, the mounting method currently employed will likely not work with your jukebox and you may have to fabricate a piece to hold the new Shure phono cartridge.
+

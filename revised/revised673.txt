@@ -1,0 +1,14 @@
+Title: What does a XLR connector look like?
+Id: 673
+Legacy Id: 690
+
+Question:
+What does a XLR connector look like?  I have a microphone cable with a 1/4 plug that goes into the amplifier.  The other that goes into the microphone is a female plug, about 1/2 inch in diameter.  It has 3 holes in it that receive 3 pins from the microphone.  Is this an XLR connector?
+
+Answer:
+
+	Yes. The female XLR has three holes; the male XLR has three pins. It is the standard connector in the professional audio field.
+	
+
+	
+

@@ -1,0 +1,32 @@
+Title: Antenna Types
+Id: 4902
+Legacy Id: 6160
+
+Question:
+What antenna types are there and when should I use them?
+
+
+Answer:
+
+	The size of an antenna is directly related to the wavelength of the frequency to be received. The most common types used in wireless audio systems are 1/4-wave and 1/2-wave omni-directional antennas, and unidirectional antennas.
+
+	Omnidirectional Antennas
+	The size of a 1/4-wave antenna is approximately one-quarter of the wavelength of the desired frequency, and the 1/2-wave is one-half the wavelength. Wavelength for radio signals can be calculated by dividing the speed of light by frequency (see The Wave Equation). For example, a 200 MHz wave has a wavelength of approximately 6 feet (2 m). Therefore, a 1/2-wave receiver antenna would be about 3 feet (1 m) long, and a 1/4-wave antenna would be about 18 inches (45 cm). Note that antenna length typically needs to only be approximate, not exact. For VHF applications, an antenna anywhere from 14-18 inches (35-45 cm) is perfectly appropriate as a 1/4-wave antenna. Since the UHF band covers a much larger range of frequencies than VHF, 1/4-wave antennas can range anywhere from 3 to 6 inches (7-15 cm) in length, so using the proper length antenna is somewhat more important. For a system operating at 500 MHz, a 1/4-wave antenna should be about 6 inches (15 cm). Using an antenna tuned for an 800 MHz system (about 3 inches, 7 cm, in length) in the same situation would result in less than optimum pickup. Wideband omnidirectional antennas that cover almost the entire UHF band are also available for applications where receivers with different tuning ranges need to share a common antenna.
+
+	
+
+	1/4-wave antennas should only be used when they can be mounted directly to the wireless receiver or antenna distribution system; this also includes front-mounted antennas on the rack ears. These antennas require a ground plane for proper reception, which is a reflecting metal surface of approximately the same size as the antenna in at least one dimension. The base of the antenna must be electrically grounded to the receiver. The chassis of the receiver (or distribution system) provides the necessary ground plane. Do not use a 1/4-wave antenna for remote antenna mounting.
+
+	
+
+	A 1/2-wave antenna does not require a ground plane, making it suitable for remote mounting in any location. While there is a theoretical gain of about 3 dB over a 1/4-wave antenna, in practice, this benefit is seldom realized. Therefore, there is no compelling reason to upgrade to a 1/2-wave antenna unless remote antennas are required for the application.
+
+	
+
+	Unidirectional Antennas
+	A second type of antenna suitable for remote mounting is a unidirectional, such as yagi or log periodic antennas. Both types consist of a horizontal boom and multiple transverse elements. They can provide up to 10 dB more gain than a 1/4-wave antenna, and can also reject interfering sources from other directions by as much as 30 dB. Yagi antennas are rarely used in wireless microphone applications due to their quite narrow bandwidth, usually just a single TV channel (6 MHz). The log periodic antenna achieves greater bandwidth by using multiple dipoles whose size and spacing vary in a logarithmic progression. A longer boom and more elements result in greater bandwidth and directivity. Some unidirectional antennas have built-in amplifiers to compensate for losses due to long cable runs.
+
+	With regard to wireless microphone applications, unidirectional antennas are typically only employed in UHF systems. Directional antennas are somewhat frequency specific, so some care must be taken in selecting the proper antenna to cover the required frequencies. A directional VHF antenna is 3-5 feet (1-2 m) wide (just like a roof-mounted television antenna), which makes mounting a mechanically cumbersome task. Note that these antennas should be mounted with the transverse elements in the vertical direction, rather than horizontal as in a television application, because the transmitting antennas are usually also vertical. Unidirectional antennas are primarily used for long range applications. A minimum distance of 50 feet (15 m) is recommended between transmitter and unidirectional antennas.
+
+	
+

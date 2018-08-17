@@ -1,0 +1,16 @@
+Title: Getting monitor levels to match mixer level through headphones on an FP33
+Id: 1229
+Legacy Id: 1275
+
+Question:
+Is there any way to raise the monitor level on an FP33 mixer? It seems like it's much too low. When I plug my headphones directly into my Sony BVV-5 Betacam SP deck, it's quite a bit louder than when I've got the headphones plugged into my FP-33 and switch over to monitor the deck. As a result, I'm having trouble getting my mixer's headphone levels to come close to matching monitor levels. I tried to do the same thing with a PSC M4 mixer, and had no problems. Is this a common complaint from FP33 users? Also... could you tell me in layman's terms how to make sure that my mixer is properly calibrated? I want to make sure that 0 VU on my needles = -4 dBm. I read the manual, but I'm not really sure what all that means.
+
+
+Answer:
+
+	1) The headphone jack on the FP33 is controlled by the headphone volume control on the front. Simply turn up the headphone volume control on the FP33 so that it matches the Sony output. If the mixer signal going to the headphones is then too loud (when you take it off of monitor), simply adjust the Level R Pot and Level L Pot inside the FP33. Instructions are on page 7 of the pdf (or page 5 of the printed version) of the User Guide.
+	
+	In other words, you cant adjust the monitor level, but you can adjust the mixer level that is sent to the headphones. Thus, making the two levels equal.
+	
+	2) Resetting the VU meter requires a knowledge of volt meters and electronics. Please have a qualified technician help you in recalibrating the meters.
+

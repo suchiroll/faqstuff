@@ -1,0 +1,20 @@
+Title: How to calculate RF signal loss in coaxial antenna cable
+Id: 3295
+Legacy Id: 3458
+
+Question:
+Is there an easy way to calculate the loss of RF signal as it travels over coax cable? I think this is important when installing remote antennas for wireless mics.
+
+
+Answer:
+
+	Indeed it is important.
+	
+	Shure has a remote antenna tool to help determine which cables and amplifiers to use at: Wireless Mic Remote Antenna Tool
+	
+	Here is an online calculator for cable loss: http://www.timesmicrowave.com/calculator/
+
+	And another: http://www.net-comber.com/cable-loss.html
+	
+	Also, see this document: Antenna Set-up for Wireless Systems
+

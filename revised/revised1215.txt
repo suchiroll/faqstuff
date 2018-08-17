@@ -1,0 +1,23 @@
+Title: V15 Anti-Skate/Tracking Angle
+Id: 1215
+Legacy Id: 1259
+
+Question:
+1) How do I confirm the correct tracking angle of 15 deg.?
+
+
+2) Do I set the antiskate to the 1 gram at stylus or the 1.5 gram with the dynamic stabilizer?
+
+
+Answer:
+
+	1) This is done using a vertically modulated, recorded signal. It is a distortion measurement that gives a reading for several signals, each representing a certain vertical recording angle. Our equipment to do this is no longer available.
+	
+	The minimum distortion on one of these bands indicates the vertical tracking angle of the cartridge. Most of our cartridges are between 20 and 25 degrees, every sample being slightly different. You cant tell by looking at the cartridge.
+	
+	2) The dynamic stabilizer reduces the actual stylus pressure by 1/2 gram. Set antiskate to equal the actual stylus pressure.
+	
+	As an example, if you want 1 gram of actual stylus pressure and you want to use the dynamic stabilizer, set the tonearm tracking weight to 1.5 grams. The anti-skate should be set to equal the actual stylus pressure, i.e., 1 gram.
+	
+	If you intend to use the dynamic stabilizer AND you want 1 gram of pressure on the stylus, set the tonearm tracking weight to 1.5 grams; set the antiskate to 1 gram.
+

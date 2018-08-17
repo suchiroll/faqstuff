@@ -1,0 +1,11 @@
+Title: Lavalier condenser mic with T1G?
+Id: 1676
+Legacy Id: 1733
+
+Question:
+I have the T1G transmitter with T4V receiver and WH10 headset dynamic microphone ("The Headset Diversity"). I'd like to know if I could connect a lavalier condenser as the one found in the " The Presenter" set, since both transmitters are the same model but with different connectors. Will my T1G supply the bias?
+
+
+Answer:
+
+	Sorry. The T1G does not provide the bias necessary to power up the lavalier mic element. You must use a Shure transmitter with a four pin input. Pin 2 provides the 5 volts of bias required by the mic element.

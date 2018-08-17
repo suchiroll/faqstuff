@@ -1,0 +1,16 @@
+Title: Using the FP410 with the SCM410
+Id: 4418
+Legacy Id: 5515
+
+Question:
+What issues may arise if the FP410 is linked to the SCM410?
+
+
+Answer:
+
+	When the Shure FP410 mixer is linked to one (or more) SCM410 mixer, please note that input gains are not the same. The FP410 input gain is 13 dB greater than the SCM410.The gain on the SCM410 was reduced so that hot microphones, such as the Shure MX series, can be used with amid-knob setting.
+
+	So, if an FP410 is linked to the SCM410, and the same mic models are used on both mixers, the input gain knobs will be set much higher on the SCM410. This is normal.
+
+	Adding an input pad before the FP410, such as the Shure A15AS, will make the input knob setting similar to the SCM410.
+

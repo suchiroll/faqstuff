@@ -1,0 +1,13 @@
+Title: Kevlar in Shure earphone cables
+Id: 4225
+Legacy Id: 5208
+
+Question:
+Is Kevlar used in Shure earphone cables?
+
+
+
+Answer:
+
+	As of January 2013, every Shure earphone cable used with the SE series of earphones contain Kevlar. The use of Kevlar improves the durability of the earphone cable. Kevlar strands run the length of the cable and located within the individualjackets of the conducting wires.
+

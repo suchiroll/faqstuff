@@ -1,0 +1,14 @@
+Title: Rack mounting PSM600
+Id: 1199
+Legacy Id: 1243
+
+Question:
+I have 2 PSM 600 units that I would like to rack mount but they only have tabs, or ears on one side of the unit and I'd have to stack them verses the preferred methodology of having them mounted in a rack side-by-side? How would I rack them together in one rack space side by side?
+
+
+Answer:
+
+	All of the rack hardware should have come with your PSM600 systems. Instructions and diagrams are in the User Guide.
+	
+	If you need additional rack hardware, it can be purchased from our Parts Department at 800-516-2525.
+

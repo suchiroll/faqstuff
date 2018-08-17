@@ -1,0 +1,15 @@
+Title: Large Spherical Voice Over Microphone?
+Id: 2590
+Legacy Id: 2690
+
+Question:
+Whenever I see a picture showing someone making a voice recording (such as voicing a cartoon character, looping for a movie, or reading text) I notice that they are using a large, spherical microphone. Is that just a big windscreen or is the microphone that big. What kind of microphone are they using. If you think it relates to a particular Shure product, which one?
+
+
+Answer:
+
+	You might be referring to the popper-stopper model PS-6 in front of the mic.
+
+	
+	Typical recording mics are the Shure KSM series.
+

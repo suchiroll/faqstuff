@@ -1,0 +1,18 @@
+Title: Mic for interview work
+Id: 490
+Legacy Id: 500
+
+Question:
+I wish to use a professional portable cassette player to interview people in their homes (so it shouldn't be too noisy), and I need some advice as to what type of microphone to use. I would like one that is multidirectional and stereo and that will allow two people to use it with no problems, and that will ensure an outstanding recording. Thank you for your time. Could you also give me an approximate price on such a unit(s)?
+
+
+Answer:
+
+	First, please read a Shure booklet available on our web site. Though aimed at audio for video recording, most of the principles in this booklet also related to audio only recording: Audio for Video Production
+	
+	Second, purchase a recording device that has balanced, low impedance microphone input(s) using XLR connectors. All these terms are defined in the booklet mentioned above.
+	
+	Third, stereo microphone tend to be very expensive or very cheap. Shures only stereo mic offering is the VP88.
+	
+	Fourth, we suggest you consider a handheld omnidirectional microphone for interview use. This type of microphone, which is not stereo, is widely employed by national TV and radio reporters for interviews. We recommend the VP64A and the SM63.
+

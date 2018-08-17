@@ -1,0 +1,15 @@
+Title: Replacement for the BG4.1 microphone
+Id: 2569
+Legacy Id: 2668
+
+Question:
+I have a sound company doing recording and sound reinforcement and have been collecting the Shure BG4.1 microphones for use. I now see that the BG4.1 is no longer listed. I want to get more BG4.1's or the closest replacement. I need the same sensitivity and frequency response to be compatible with my existing collection.
+
+
+Answer:
+
+	The PG81 is the closest current Shure product to the BG4.1.
+	
+	BG4.1 output level: -48dBV per Pascal
+	
+	PG81 output level: - 48dBV per Pascal

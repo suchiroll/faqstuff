@@ -1,0 +1,22 @@
+Title: M92E hum problem
+Id: 1158
+Legacy Id: 1197
+
+Question:
+I purchased a Shure cartridge model M92E from Radio Shack about 2-months ago and have been having some audio trouble since. I seem to be getting a grounding hum through my speakers. I have connected the cartridge wiring according to the schematic provided in the documentation. I have checked the grounding of the system and it seems OK. I have an Onkyo CP-1100A turntable, which is about 7-yrs old and I have not had this problem with any of the other cartridges that I have installed. I would appreciate any guidance you could give me to correct this situation....I would appreciate a prompt reply.
+
+
+Thanks you in advance for your assistance in this matter.
+
+
+
+Answer:
+
+	Since you have other cartridges that work fine and the M92E does not, we suspect a grounding problem inside of the M92E body. This cannot be repaired.
+	
+	We suggest you contact Shure Service for details on returning your M92E for inspection and possible replacement.
+	
+	Or you might ask Radio Shack to replace the M92E directly.
+	
+	Also, make certain there is ground wire connected from your turntable chassis to your preamp chassis. This is a critical ground connection for any turntable system.
+

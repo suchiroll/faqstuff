@@ -1,0 +1,12 @@
+Title: Feedback with Shure SM58
+Id: 495
+Legacy Id: 505
+
+Question:
+I own a Shure SM58 microphone and plug it into my Fender Princeton 65 guitar amp. I am doing so because I haven't had the money saved for a monitor or powered PA speaker. Whenever I turn the volume up to a certain point it squeals, and the microphone isn't loud enough to hear over the guitars and drums. I need help. What can I do to eliminate this problem or to get the volume up higher before the feedback kicks in? The amp is placed in front of me but facing me. It is a medium sized room and was wondering if the placement had anything to do with it. Any suggestions?
+
+
+Answer:
+
+	Yes, the placement is a very important factor. Move the amplifier further away from the microphone and point the amplifier away from the microphone. Feedback: Fact and Fiction.
+

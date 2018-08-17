@@ -1,0 +1,14 @@
+Title: MX393 Mic Element Active & LED lit
+Id: 4245
+Legacy Id: 5293
+
+Question:
+How can I modify the MX393 so that the mic element is always active and the LED is always illuminated? The external membrane switch marked "PUSH" will do nothing.
+
+
+Answer:
+
+	MX393 mic element always active = Set internal DIP switch #3 to ON
+	
+	MX393 LED always illuminated = inside of the MX393, insert a jumper wire between the LED IN screw terminal and the GND screw terminal.
+

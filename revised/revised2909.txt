@@ -1,0 +1,16 @@
+Title: Shure V15IV-G stylus type, tracking force, price
+Id: 2909
+Legacy Id: 3033
+
+Question:
+I have a V15 type IV-G cartridge. Never heard of this one with the "G" designation-just the type 4 HE or MR. What type of stylus is on this one-also need recommended tracking force?
+
+
+Answer:
+
+	1) G indicated a spherical stylus tip.
+	
+	2) Tracking force 0.75 to 1.5 grams.
+	
+	3) In 1979 - $159.00
+

@@ -1,0 +1,19 @@
+Title: Unbalanced output into balanced input
+Id: 3887
+Legacy Id: 4133
+
+Question:
+I need to connect the unbalanced output of a consumer CD player (RCA female jack) into the balanced input of the Shure SCM800. What is the proper wiring?
+
+
+Answer:
+
+	1) Set the SCM800 input to LINE.
+	2) Obtain a cable with a twisted pair of inner conductors (A and B) and a shield.
+	3) Fabricate and connect the cable as follows:
+	
+	RCA male tip  to inner conductor A  to SCM800 input terminal "positive" (same as XLR male pin 2)
+	RCA male sleeve  to inner conductor B to SCM800 input terminal "negative" (same as XLR male pin 3)
+	RCA male sleeve  to cable shield to SCM800 input terminal "ground" (same as XLR male pin 1)
+	
+	Note: If audible hum is encountered, disconnect the cable shield at the SCM800 input terminal "ground" (same as XLR pin 1)

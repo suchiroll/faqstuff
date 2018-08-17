@@ -1,0 +1,15 @@
+Title: Where to place Choir Mics
+Id: 2303
+Legacy Id: 2388
+
+Question:
+I am facing a delima on where to place Choir mics for our Church. I have two choir mics hanging from the ceiling for a choir of about 30. This is not doing the job to pick up the choir when our piano and organ are playing. I can't turn down the Organ or Piano, because the room is so small it amplifies even if they are not being mixed through my board. What would be a recommend placement for the Mics. I also have two other choir Mics on stands, that we use for other choirs. Please let me know if you have any ideas on what we should do or what we should purchase.
+
+
+Answer:
+
+	Microphones measure air movement. They do not care what causes the air to move in the first place. They cannot tell the difference between air moved by the choir, and air moved by the piano/organ.
+	The only option you have is to position the mic as close to the choir as possible, and as far away from the piano/organ as possible.
+	
+	We cannot comment on mic models as you did not tell us what you already own.
+

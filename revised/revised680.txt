@@ -1,0 +1,12 @@
+Title: RS 8T Stylus Replacement
+Id: 680
+Legacy Id: 697
+
+Question:
+I have a Realistic phongraph, approximately 30 years old. I would like to replace the stylus. It is labeled "SHURE RS 8T". Any ideas on a replacement?
+
+
+Answer:
+
+	The replacement stylus for the RS 8T is the Shure N75ED Type2.
+

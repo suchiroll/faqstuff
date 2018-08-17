@@ -1,0 +1,27 @@
+Title: Choosing UHF antenna cables
+Id: 1769
+Legacy Id: 1829
+
+Question:
+My company does corporate shows. We are currently using (2) U4D recievers with the UA845 distro in a rack and the UA830 antennas with RG58A/U coax cables.From a previous question I noticed that Shure recomends the RG58C/U coax cable,or RG8X coax.
+
+Is there a difference in the RG58C/U and the RG58A/U other than the outer jacket material?
+
+Would there be that much of an advantage to upgrade to the RG8X coax if the cable runs are under 100'?
+
+We also have single U4D recievers in small racks that are placed on top of the larger racks and jumped into the UA845, (sometimes 2 or 3 racks).
+
+Are there any concerns about making different lenth jumpers for each racks height or should they all be the same lenth?
+
+
+Answer:
+
+	Is there a difference in the RG58C/U and the RG58A/U other than the outer jacket material?
+	* No important difference.
+	
+	Would there be that much of an advantage to upgrade to the RG8X coax if the cable runs are under 100?
+	* Yes. RG58 has a loss of 18 dB per 100 feet; RG8X has a loss of 12 dB per 100 feet.
+	
+	Are there any concerns about making different length jumpers for each racks height or should they all be the same length?
+	* Different length jumpers are OK.
+

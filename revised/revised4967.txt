@@ -1,0 +1,57 @@
+Title: Top 8 Myths about Earphones and Headphones
+Id: 4967
+Legacy Id: 6232
+
+Question:
+Please discuss common myths about earphones and headphones.
+
+
+
+Answer:
+
+	Myth 1: The earphones and headphones with the widest frequency range sound best.
+	A frequency range is supposed to state the lowest and highest frequency produced by a headphone. The normal range of human hearing is approximately 20Hz to 20kHz. Some specs go way past that like 5Hz to 50kHz which is misleading. That is not only well out of the range of human hearing, but also says nothing about what happens between those two frequencies. Our ears are most sensitive between 100Hz and 10kHz, so the relative amount of energy that a headphone produces throughout this range is much more important than what happens at 20Hz or at 20kHz.
+	
+	Myth 2: Earphones and headphones can be damaged by loud sounds.
+	A headphone or earphone can put out dangerous sound pressure levels (SPLs) before hitting its breakdown point, where the product stops increasing in volume and becomes distorted. The amount of electrical signal required to damage the product is higher than the distortion point. Loud sounds (high SPLs) wont necessarily damage the product, but excessively high electrical signals can. Exposure to sounds above 85 decibels (SPL) can cause permanent damage to your hearing, so please listen at safe volumes.
+	
+	Myth 3: Open-back headphones are strictly for mastering and mixing.
+	Sound is subjective - a very personal thing. The right way to listen to or hear music is completely dependent on the preferences of the listener. The biggest difference between open-back and closed-back or semi-closed-back headphones is isolation. Open-back headphones allow sound to pass through the ear cups. Music listeners use them in quiet environmentsat their desks or in their homesto achieve a listening experience that some describe as in the world around me as opposed to in my head. Theyre looking for an open, airy, spatial feel that isnt as isolating as closed-back headphones. Thats one of the reasons that theyre popular in professional applications: they can provide what some users feel is a more natural sound.
+	
+	Myth 4: Noise-cancelling earphones are superior to Sound Isolating earphones.
+	One isnt better than the other; they are simply different. Noise cancellation is an electronic process. In each earcup, theres a microphone that samples the ambient noise near the ear. That noise signal is fed into an electronic circuit that analyzes it and creates a mirror image of the noise, then adds the noise back into the music signal. Some of the real noise is cancelled out by the mirror image inverse noise. It works best on steady low-frequency noise below 1000Hz or sofor example, the drone of aircraft engines, or the hum of a ventilation system. It doesnt work as well at removing speech or other rapidly changing sounds.
+	
+	Because this is an electronic process, noise cancellation circuitry requires a battery to function. And like all circuitry, it has some degree of hiss and even some digital processing artifacts. Some people complain that when theyre wearing noise-cancelling headphones, they hear a whooshing or a rushing sound, or they detect varying air pressure in their ears.
+	
+	Sound Isolating earphones work passively, the same way that earplugs do. The soft, pliable sleeves that Shure supplies with its earphones fit snugly into your ears and physically block the outside noise from entering the ear. Just like earplugs, the fit is very important. Thats why Shure supplies multiple sizes and styles of sleeves with all of their earphones. All Shure earphones are the Sound Isolating type.
+	
+	Sound isolation actually provides greater noise reduction than noise cancellation circuitry does. Sound isolation works across the entire audible spectrum, not just low frequencies, and not on just slow, droning kinds of noise. Sound isolation is great for blocking speech, a noisy television, other musicand it works in all kinds of traveling environments, including planes, trains, and on foot. Plus, there are no electronics that require batteries and cause a hiss or buzz. Theres nothing except the music, movie or game itself.
+	
+	Myth 5: The only way to deodorize headphone earpads is to replace them.
+	Over time, the synthetic material used in headphone earpads can absorb odors that just cant be eliminated. Even so, there are steps you can take that will extend their life:
+	
+	Before putting away headphones, wipe them off with a clean cloth or a paper towel.
+	On a regular basis, wipe off the earpads using a damp rag and a small amount of Dawn dish soap. This brand is especially effective at cleaning grease and oil from surfaces. Remove the detergent with a clean cloth and a small amount of water. Then dry the earpads with a paper towel or cloth.
+	Expose the earpads to sunlight for 60 minutes. This can reduce unpleasant odors.
+	
+	When the time comes for replacements, theyre available from Shure Parts. Please have the headphone model available. Additionally, you can visit our dealer locator for in-store/online purchase and view available headphone accessories on shure.com.
+	
+	Myth 6: Excessive sweat can ruin earphones.
+	Professional performers have used Shure earphones onstage for many years. Theyre typically worn for hours at a time and are exposed to a lot of perspiration. All Shure earphones are tested in the presence of heat, humidity and salt spray to make sure that they work in these conditions. In extreme cases, excessive moisture in the earphone can cause a reduction in output level or a change in sound quality. After the earphone dries out (overnight for example), performance returns to normal. Its doubtful that one would notice any performance change during typical use onstage or at the gym.
+	
+	Its a good idea to wipe the earphones off with a towel or tissue after using them. If you use the foam sleeves with your earphones for extended wear while perspiring significantly, you may want to replace them a bit more frequently than normalperhaps once a week. The plastic or silicone rubber sleeves dont absorb moisture and can be used again and again, even under sweaty conditions. Be certain to clean the earphones of wax/debris on a regular basis according to the supplied instructions. Shure earphones come with a useful tool to help you do that without causing damage.
+	
+	Myth 7: Earphones with quad drivers are superior to earphones with single or dual drivers.
+	It depends on many factors. An earphone with only one driver per side (a single-driver earphone) can produce sound throughout the entire audible range (between 20Hz and 20kHz). So why would anyone ever use more than one driver? Because there are limitations to what a single driver can do. Here are a few:
+	
+	It might not get very loud before distorting
+	The curve of the sound (the relative levels of frequencies from low to high) can be limited
+	Any changes must be applied through EQ or other processing
+	
+	To counter the limitations of single-driver earphones, its common to include multiple drivers in each side. Special filtering is applied to further segregate the range of frequencies, allowing one driver to focus only on a specific range. This can increase efficiency and the overall level that can be reached. It is not unlike the technology used in stereo speakers. The incoming audio signal is split into two or more audio paths (depending on the number of drivers), and each path is optimized for a specific frequency range.
+	
+	Still, there is no guarantee that a multi-driver earphone will outperform a single-driver earphone. In fact, poorly designed multi-driver earphones can cause anomalies or artifacts in the frequency response that may lead to dissatisfaction for a music listener or worse, inaccurate performances or mixes for musicians and sound engineers.
+	
+	Myth 8: Electrostatic loudspeakers dont reproduce low-end frequencies as well as other types of loudspeakers do.
+	This can be the case in standard over-the-ear headphones and full-sized, floor-standing speakers. But it isnt true of earphones, the KSE1500 in point. Traditionally, the problem with electrostatic speakers has been that they reproduce higher frequencies amazingly well, but they fail to reproduce the lower frequencies with enough energy. This is not true in a miniaturized electrostatic Sound Isolating earphone system, which takes advantage of the fact that the earphone is sealed within the ear cavity. There is a relatively small volume of air between the earphone and the ear canal. This natural bit of physics allows the KSE1500 to reproduce low frequencies efficiently.
+

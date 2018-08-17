@@ -1,0 +1,10 @@
+Title: Can I use more than one PSM receiver with just one transmitter?
+Id: 20
+Legacy Id: 20
+
+Question:
+Can I use more than one Shure PSM receiver with one PSM transmitter?
+
+Answer:
+
+	Yes, you can use as many PSM receivers as you want to pick up the signal that a PSM transmitter is broadcasting. All the receivers will need to operate on the same frequency as the transmitter. All the receivers will pick up the same mix or audio program. It's just like 1000 cars listening to the same radio station. There is no limit to the number or receivers that pick up a single transmitter.

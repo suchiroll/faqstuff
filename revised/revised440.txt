@@ -1,0 +1,23 @@
+Title: Microphone popping MX400S series
+Id: 440
+Legacy Id: 449
+
+Question:
+I have a MX400S series mic.  I get popping sounds with P's and other wind type sounds.  I have all the bass frequencies turned all the way down on all EQ and channel eq plus the windscreen is on the mike but still get pops.  The mike is mounted on a pulpit in church so I don't think using a pop filter would be feasible. What can I do?
+
+Answer:
+
+	Any miniature condenser mic like the MX400 series will pop due to the small size and very small mass of the mic diaphragm. Popping problems are inherent in the design of any such miniature microphone.
+	
+	Here are suggestions in the order of effectiveness:
+	
+	1. Change to an omni capsule - Shure part number R183B. If the mic is worked close, the omni capsule might provide as much gain before feedback as the supercardioid capsule you are now using. You wont know unless you try it.
+	
+	2. Make certain the talker is at least 6 inches away from the mic capsule. As an experiment, hold your hand 3 inches in front of your mouth as say Peter. Feel the blast of air? Now try it at 6 inches.
+	
+	3. Position the mic so it points at the corner of the talkers mouth and is not directly in front of the talker. As an experiment, hold your hand 3 inches in front of your mouth as say Peter. Feel the blast of air? Now try it at 3 inches away from the corner of your mouth.
+	
+	4. Try the A412MWS locking metal windscreen. Make certain the windscreen is not pushed all the way down against the mic element; maintain the biggest air gap possible.
+	
+	In summary, you must either break up the blast of air that results from a P by using a windscreen. Or you must position the mic where the blast is minimal. Or you must use a microphone design that is least affected by blasts which is an omnidirectional. Or do all three.
+

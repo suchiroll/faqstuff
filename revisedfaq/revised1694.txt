@@ -1,0 +1,12 @@
+Title: Mic stand adapter for a wireless transmitter
+Id: 1694
+Legacy Id: 1751
+
+Question:
+I have a large UHF handheld wireless microphone. It is not a Shure but is similiar in size to your largest mic. A friend of mine had a Shure clip that fit it nicely. Which of your clips are the largest? A25D or A57F or another?
+
+
+Answer:
+
+	The clip you are seeking is WA371. The A25D or A57F will not fit your transmitter.
+

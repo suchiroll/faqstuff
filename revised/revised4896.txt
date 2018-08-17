@@ -1,0 +1,12 @@
+Title: M25C and M35X Comparison
+Id: 4896
+Legacy Id: 6154
+
+Question:
+How do the M25C and M35X differ?
+
+
+Answer:
+
+	The bodies of the M25C and M35X are similar, but the internal coils have different number of turns. The styli may be interchanged if desired, but the sound would be subtly different because of the internal coils.
+

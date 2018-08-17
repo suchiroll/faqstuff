@@ -1,0 +1,12 @@
+Title: Mic ID Flags
+Id: 306
+Legacy Id: 313
+
+Question:
+Can you direct us to a source for the triangular or square shaped device that fits on the microphone and displays a station logo?
+
+
+Answer:
+
+	These are known as Microphone I.D. flags. They are available from www.markertek.com.
+

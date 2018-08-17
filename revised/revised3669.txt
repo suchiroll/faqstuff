@@ -1,0 +1,11 @@
+Title: Set Screw for SM58, SM57, 565, 545, and other microphones
+Id: 3669
+Legacy Id: 3878
+
+Question:
+In the 1960s, 70s, and 80s, the SM58 and SM57 (among other models) had a threaded hole near the male XLR connector. It did not fasten the male XLR insert, so what was the purpose of this threaded hole? What size was the thread?
+
+
+Answer:
+
+	This threaded hole was designed for a set screw that would be tightened down against the mating female XLR connector, so that the female XLR connector could not be pulled out accidentally.  This threaded hole was removed from the SM58 handle and the SM57 handle circa 1990.The threaded hole accepted an Allen hex head 4-40 screw, with a length of 1/8" or shorter (3 mm). The Allen hex head wrench size was 0.050 inches. 

@@ -1,0 +1,25 @@
+Title: PSM900 - defective battery indicator?
+Id: 4503
+Legacy Id: 5617
+
+Question:
+I have a new PSM900 receiver. The unit has a red light indicating low / dead batteries, and the battery readout says zero battery remaining even after putting in known good batteries. Please advise.
+
+
+
+Answer:
+
+	The questions below will help to narrow the possible causes:
+	
+	What type make ofAA cellsare you using?Duracell Pro Cell?Or are you using the Shure SB-900 lithium ion rechargeable cell?
+	
+	If using alkaline, are you using the provided battery cradle accessory or just relying on the battery door holder?
+	
+	You mention that these are known good batteries?Can you test these with a volt meter?What do voltage do they show?We have often noted that some batteries can actually be bad out of box, especially in bulk purchases.
+	
+	Another thing you could try is cleaning the battery contacts both on the batteries and the pack.We have noted that some batteries come out of the factory with dirty terminals which can prevent a good connection.We have noted this, in particular with some boxes of Procells by Duracell.Clean using isopropyl alcohol and a cotton swab.
+	
+	Do you have other P9RA receivers?Do the other packs behave this way when you put those batteries in or is this the only pack that exhibits this?
+	
+	If all else fails, please contact our Service Department.
+

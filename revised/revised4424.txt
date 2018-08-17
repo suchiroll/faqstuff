@@ -1,0 +1,13 @@
+Title: Wireless Workbench goes offline when program is minimized: Mac OSX.
+Id: 4424
+Legacy Id: 5522
+
+Question:
+I downloaded WWB 6.9 and I connected with no issues. I notice that if I minimize the page or open another page, WWB goes offline. The only option seems to be shutting the App down and restarting the file. Is there a fix for this?
+
+
+Answer:
+
+	Apple has made changes to the power saving features in the recent Mac OS - Mavericks. The newest feature is something called App Nap; it looks at programs that have been minimized or running in the background and puts them to sleep. This knocks WWB offline when minimized. The best thing to do (when minimizing WWB) is to disable App Nap.
+	See the link below:
+	http://reviews.cnet.com/8301-13727_7-57612009-263/how-to-disable-app-nap-in-os-x-mavericks/

@@ -1,0 +1,37 @@
+Title: A26X, A53M, A55M questions
+Id: 3871
+Legacy Id: 4114
+
+Question:
+I have a few questions about the A26X, A53M, and A55M
+
+A26X
+Can you please confirm the male thread is 5/8"-27?
+Can you confirm the female thread is also 5/8"-27?
+What is the outer diameter of the A26X?
+Of what material is the A26X made?
+What is the A26X's weight?
+
+A53M
+What diameter mics does the A53M support?
+
+A55M
+What diameter mics does the A55M support?
+
+
+
+Answer:
+
+	A26X
+	Can you please confirm the male thread is 5/8"-27? - Correct
+	Can you confirm the female thread is also 5/8"-27? - Correct
+	What is the outer diameter of the A26X? - about 11/16"
+	Of what material is the A26X made? - aluminum
+	What is the A26X's weight? - 1.1 ounce
+	
+	A53M
+	What diameter mics does the A53M support?  3/4"
+	
+	A55M
+	What diameter mics does the A55M support? 1"
+	 

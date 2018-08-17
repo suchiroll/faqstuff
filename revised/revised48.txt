@@ -1,0 +1,30 @@
+Title: Can I use my Shure wireless system in another country?
+Id: 48
+Legacy Id: 48
+
+Question:
+My Shure wireless system works great in the United States. Can I use it in other countries?
+
+
+Answer:
+
+	You can, but if caught you might be fined, have your wireless system confiscated, arrested, or imprisoned depending on the country...maybe all four. This is not an exaggerated statement.
+	
+	Why? I am just an innocent musician!
+	Each country has unique regulations regarding the wireless transmission of signals and these regulations are drafted, implemented, and modified by each countrys government, not by an international organization. These regulations apply to TV signals, AM and FM radio signals, two-way radio communication, and even your Shure wireless system, be it a wireless mic or a wireless in-ear monitor. Violations of these regulations, no matter how insignificant, are taken quite seriously by the government agencies that enforce them.
+	
+	Please explain
+	The Federal Communications Commission (FCC) regulates wireless transmission within the borders of the U.S. The FCC has decreed that wireless microphones may operate in the same frequency bands as U.S. VHF TV channels 7 - 13 and U.S. UHF TV channels 14 - 36. Wireless microphones are accepted in these frequency bands as long as they meet FCC specifications and do not cause interference to any TV signal. If the wireless microphone does cause interference (highly unlikely), it must cease operation.
+	
+	Other countries have similar agencies and within each countrys borders these agencies decide how to employ the frequency bands. In certain Middle Eastern countries, the VHF frequency band for U.S. TV channel 7 (174 - 180 MHz) is set aside for military communications. So, a wireless microphone in this frequency band that operates legally in the U.S. would not be warmly welcomed in any of these Middle Eastern countries. In Japan, all VHF wireless microphones are illegal.
+	
+	In Europe, with the introduction of the mobile phone network based on LTE technology in the bands 790 -821 MHz and 832 - 862 MHz, these bandsare no longeravailable for wireless microphones usage. Because of the reorganization of the UHF-TV band 470 - 862 MHz, the license regimes have changed as well. When using wireless in Europe, please contact support@shure.eu orcheck www.shure.eu to locate Shure agents in different countries.
+	
+	How serious are the penalties?
+	In England, the fines can range up to $75,000. Imprisonment is a remote possibility, but the law does allow it. In Germany, a major concert event by a world renowned pop artist was shut down by the authorities five minutes before the show began. Over 10,000 attendees were sent home as the show was cancelled. Confiscation of the illegal wireless equipment is a certainty.
+	
+	What can I do? My world tour starts next month!
+	The best solution is to rent (or purchase)a wireless system in each country that you perform. This relieves you of having to confirm that the wireless system is legal for the country. Plus if you have problems with the wireless, you have a local source for repair or replacement. Operating your U.S. wireless microphone system or wireless PSM in other countries is a decision only you can make, but Shure strongly recommends that you leave the wireless in the United States.
+	
+	The Shure GLX-D system operates in the 2.4 GHz band. This band is legal for wireless microphones in most countries. However, before investing in the GLX-D, be certain to understand the pros and cons of 2.4 GHz operation.
+

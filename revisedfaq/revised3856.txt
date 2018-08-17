@@ -1,0 +1,12 @@
+Title: Power Supply for multiple PSM 900 Transmitters
+Id: 3856
+Legacy Id: 4097
+
+Question:
+Does Shure make a power supply to provide power to multiple PSM 900 transmitters (6-8) mounted in a rack?
+
+
+Answer:
+
+	Yes, we offer the PS124L. It is a single power supply that can power up 4 P9T transmitters.
+

@@ -1,0 +1,12 @@
+Title: Error installing Wireless Workbench 5.0.3 on Windows 7
+Id: 3732
+Legacy Id: 3966
+
+Question:
+I am trying to install Wireless Workbench version 5.0.3 on a computer with Windows 7 and I get an error message saying that this is not a valid application, would you like to reinstall.
+
+
+
+Answer:
+
+	Simply click on reinstall and the Wireless Workbench will install.  Do not click on Cancel.

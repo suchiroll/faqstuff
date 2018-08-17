@@ -1,0 +1,12 @@
+Title: In-line attenuator from Mic Pre into ADAT
+Id: 2016
+Legacy Id: 2081
+
+Question:
+My Mic Pre is too hot for the input of my ADAT (when getting the sound I want out of it). Does Shure manufacture a transparent attenuator for between the 1/4 inch output of the mic pre and the 1/4 inch input of the ADAT (unbalanced?)?
+
+
+Answer:
+
+	No, we do not. Our only in-line attenuator is the A15AS. It is XLR balanced to XLR balanced.
+

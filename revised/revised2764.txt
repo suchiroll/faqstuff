@@ -1,0 +1,16 @@
+Title: Presence 1 Phono Cartridge
+Id: 2764
+Legacy Id: 2872
+
+Question:
+I recently acquired a turntable that has a Shure Presence 1 cartridge installed in the arm. The table is a JVC QL-7, probably from the mid to late '70s. I can't find any info on this cart. I'd like to know the relative quality level of this cart in its day (i.e., mid level, top of the line, etc.), the comparable Shure cart that I could buy today and the replacement Shure styli that are available (if any).
+
+
+Answer:
+
+	1. It was a mid level cartridge.
+	
+	2. Available replacement stylus is the N75ED Type 2.
+	
+	3. Similar cartridge today is M92E. Upgrade is M97xE.
+

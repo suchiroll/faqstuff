@@ -1,0 +1,11 @@
+Title: Preamp for SM91 microphones
+Id: 676
+Legacy Id: 693
+
+Question:
+When out installation was done the power supply was battery driven.  Do you have a power pack that is compatible with those discontinued mikes?
+
+Answer:
+
+	Do you still have the in-line battery driven preamps? If yes, they can be powered via phantom power. If no, the placement preamp is the RPM628. This includes the RPM626 preamp (phantom power only) and connecting cable from the SM91 to the RPM626.
+

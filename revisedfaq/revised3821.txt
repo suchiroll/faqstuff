@@ -1,0 +1,15 @@
+Title: SRH750DJ and SRH550DJ Comparison
+Id: 3821
+Legacy Id: 4059
+
+Question:
+Please explain the primary feature differences between the SRH750DJ and the SRH550DJ headphones.
+
+
+Answer:
+
+	The SRH550DJ has a fixed cable with a length of 2 meters (6.6 feet); the SRH750DJ has a detachable cable with a length of 3 meters (9.8 feet).
+	The SRH750DJ has ear pads that fully surround the ear. Ear pads can be replaced on both models.
+	The SRH750DJ has an extended high frequency response.
+	The SRH550DJ is 3 dB more sensitive than the SRH750DJ.
+	The SRH550DJ weighs less than the SRH750DJ.

@@ -1,0 +1,11 @@
+Title: KSM313 and KSM353 - Front of mic?
+Id: 3617
+Legacy Id: 3823
+
+Question:
+Are there markings on the KSM313 and the KSM353 that indicate the front of the microphone?
+
+
+Answer:
+
+	For the KSM313:  The front is the side with Shure vintage logo.  "On-axis" is the direction pointing toward the vintage logo and perpendicular to the vintage logo.  The rear is the side that does not have a logo. Note: The front side has a warmer, darker audio quality.  The rear side has a brighter audio quality with increased presence.For the KSM353: The front is the side with Shure text logo.  "On-axis" is the direction pointing toward the text logo and perpendicular to the text logo. The rear is the side with the Shure vintage logo.

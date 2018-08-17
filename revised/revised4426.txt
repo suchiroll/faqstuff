@@ -1,0 +1,32 @@
+Title: SE846 - cleaning tool not in packaging
+Id: 4426
+Legacy Id: 5525
+
+Question:
+What is the reason that a cleaning tool is not included with the SE846 earphones?
+
+Answer:
+
+	The nozzle cleaning tool is a plastic stick with a small wire loop on the end of it. In all Shure earphones except SE846, this wire loop can be used to enter the end of the nozzle to remove any debris or earwax that may have collected in the end of the nozzle. However, the SE846 nozzle is removable for cleaning. We would have also included the nozzle cleaning tool with the SE846 to allow customers to clean the nozzle without removal if it werent for this next point. Inside the stainless steel nozzle of the SE846 is the nozzle insert which contains multiple levels of acoustic filtering material which shapes the sound of the high mid frequencies. This filtering material is delicate, and could be damaged or destroyed by using the nozzle cleaning tool. If this were to happen, the sound of the earphone would change, requiring replacement of the nozzle insert. Replacing the nozzle insert isnt a difficult process, but it would mean having to order replacement parts. We chose to not include a tool that could damage the product, especially since the nozzle is removable and can be fully disassembled for cleaning.
+	
+	If you notice that there is some obstruction in the nozzle that needs to be removed, please follow these steps. The first time going through removal and reassembly process may take a few minutes. As the earphone is a small product, the parts that make up the assembly are very small. Please perform this activity in a workspace that minimizes the risk of losing small parts, such as an uncluttered desktop or table. See the user guide for instructions on removing the nozzle and reassembling the nozzle.
+	
+	
+
+	
+		Use the nozzle removal tool, referred to as nozzle key to loosen and remove the threaded collar.Once the threaded collar is removed, the entire nozzle assembly can be pulled away from the rest of the earphone.
+	
+		Use fingertips to pull out the colored plastic nozzle insert (white, blue, or black - depending on which insert you are using) from the metal nozzle. Do not use a tool to remove the insert, as it could damage the plastic part.
+	
+		Once the nozzle insert is removed, the stainless steel nozzle is completely empty and can now be washed, or cleaned to remove any debris. Please make sure the nozzle is completely dry before reassembly.
+	
+		If the plastic nozzle insert contains debris, it should be able to be removed vary carefully by hand.
+
+
+	
+	NOTE: All of the nozzle inserts have an acoustic filter at the base of the plastic insert. In the blue and black nozzle inserts there is an additional (black foam) acoustic filter at the very top end of the nozzle insert. PLEASE DO NOT MISTAKE THESE FILTERS FOR DEBRIS - DONT REMOVE THESE FILTERS. Doing so would change the frequency response of the earphone.
+	
+	NOTE: The White nozzle insert only has one level of filtering at the bottom of the nozzle insert and does not have this additional black foam filter.
+	
+	NOTE: If any of these parts are lost or broken, they can be replaced - by calling Shure Parts at (800)516-2525.
+

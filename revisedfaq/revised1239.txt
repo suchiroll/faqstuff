@@ -1,0 +1,12 @@
+Title: XTBM694EFJ mic
+Id: 1239
+Legacy Id: 1285
+
+Question:
+I have recently obtained a Shure model # XTBM694EFJ and it seems to have an electrolytic element, however the B+ has been disconnected and the mic has been totally rewired. I need whatever info you can provide on this mic including a way to make it capable of vox operation if possible. I have enjoyed your products in the past and look forward to getting this mic up and running the way it should be (I think). Thank you very much for any information you can provide.
+
+
+Answer:
+
+	Shure model XTBM694EFJ is an OEM model made for the E.F. Johnson company, thus the EFJ at the end of the model. All drawings and engineering information on this model reside at E.F. Johnson as this model is no longer made by Shure.
+

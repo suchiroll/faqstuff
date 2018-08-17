@@ -1,0 +1,12 @@
+Title: PSM900 Will Not Sync
+Id: 3832
+Legacy Id: 4070
+
+Question:
+I have a new PSM900 system. The P9T and the P9R appear to work, but I cannot get the infrared sync function to work.
+
+
+Answer:
+
+	Look closely at the front of the P9T. It is shipped with a clear, protective plastic film on the front panel. This film must be removed for the sync to operate as the infrared signal is partially blocked by the plastic film.
+

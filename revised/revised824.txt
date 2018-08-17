@@ -1,0 +1,64 @@
+Title: Getting flat sound from SM58 in folk festival
+Id: 824
+Legacy Id: 846
+
+Question:
+Hello from the Alaska Folk Festival in Juneau, Alaska, where we have been using shure SM57's and SM58's for 27 years now. Unfortunately I think they sound poor the way we use them.
+
+
+We take the SM58 signal, split it, sending one half to the main board and the other to the monitor board. Then we take this half signal and send it down 200' of snake to the main board.
+
+
+My impression is that the sound we're getting doesn't have any life or guts to it, and I think it's the result of the long cable run.
+
+
+We tried using an phantom powered omni condenser mic made by audio technica, and were able to get a bluegrass band to sound big and real. That one mic outperformed all 10 of the 57's and 58's. The bass could finally be heard clearly in the mix.
+
+
+So the questions are:
+
+
+1. Do you agree that splitting the mic signal and running the signal 200' ft down a snake is likely causing too much signal loss?
+
+
+2. What microphone would you recommend as a replacement? We will want 15 of them. We use monitors placed on the floor directly behind the mic, so pickup pattern behind the mic is important.
+
+
+3. Instead of getting new mics, could we use a powered splitter to boost the signal to line level before it goes down that long wire to the main board?
+
+
+Thanks for your help, I didn't know how to dig this info out of the frequently asked questions.
+
+
+
+
+---- 03/27/2001 03:02 PM ----------------------------------------------
+
+Thank you for your quick response. If the cable runs are not what's degrading the signal I can't figure out why the sound with the SM57's and SM58's is so flat and lifeless. I notice that we have the input trim way up on the board and but the little led's that show the strenght of incoming signals (green to show signal and red at 0 vu peaks..) are not lighting up. On the vu meter the signal looks mushy and sick to me, the needle bounces but it looks a little bit sluggish, kind of like what happens if you have a constant tone or hum mixed in, but there is no hum or tone.
+
+
+I had hoped that we could get better bass response and better overall response by using a hotter signal. Would going to condenser mics like the BG5.1 or the Beta 87 give us a hotter signal? What is the difference in output between an SM58, BG5.1 and the Beta 87, given the same audio source?
+
+
+
+
+Thanks again for your help. It's hard to believe that the cable run makes no difference, so I need to figure out where to go to make things sound better. I think SM58's are good mics, they even have a little bit of extra response on the bass end, but the bass in particular was the worst sounding instrument.. it just had no deffinition or presence. Things got better when we used a powered microphone (I do realize that the powered mic we used is a much different instrument than the 58's.) but assume the the major difference was the output power. Maybe I'm wrong about this too! It's hard to find or understand output specs for mics.
+
+
+Thanks again
+
+
+
+Answer:
+
+	Splitting the signal from a microphone and sending it to two mixers should not have any effect on the frequency response of the microphone. The only effect is a few dB of signal loss, which can easily be made up with the mixers gain control. The only potential problem is if both mixers have phantom power turned on. Normally. phantom power will not affect a dynamic microphone. However, the mixers may not like to see phantom power at their inputs, which could happen when a microphone is split between two mixers. The solution in this case would be to turn off phantom power, or use a transfomer isolated splitter to split the microphone signal.
+	
+	A transformer isolated splitter will not add gain to the microphone signal. Its purpose is to prevent the two mixers from seeing each other, which reduces the loading effect that causes signal loss. Boosting the signal to line level wouldnt really make a difference on a 200 run. A low impedance, balanced mic signal can extend over 1000 without any appreciable effect.
+	
+	If you are looking for an instrument microphone with better low frequency response than the SM57 or SM58, try the SM81. The SM81 is a cardioid pattern, condenser microphone with extremely flat frequency response that extends down to 20Hz.
+	
+	At 03/27/2001 03:18 PM we wrote - Would going to condenser mics like the Beta 87 give us a hotter signal? * In general, yes. Condenser mics typically have a hotter output than dynamic mics, plus a more extended high frequency response.
+	
+	
+	What is the difference in output between an SM58, BG5.1 and the Beta 87, given the same audio source? * BG5.1 is 5 dB hotter than SM58. Beta 87 is 1 dB hotter than SM58. But condenser mic typically sound brighter which may be what you desire.
+

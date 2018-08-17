@@ -1,0 +1,13 @@
+Title: Can I use a wired Beta 58 on a wireless transmitter?
+Id: 1542
+Legacy Id: 1596
+
+Question:
+I just purchased a Shure wireless microphone yesterday to free myself of the wire. However, the performance is unsatisfactory comparing to the Beta 58 wired microphone that I have. Can I unscrew the microphone of the Beta 58 and put it on the wireless transmitter? and would it make a difference?
+
+
+Answer:
+
+	Unfortunately, a wired Beta 58 cartridge will not fit or work on a wireless handheld transmitter. Many Shure wireless systems have removeable cartridges on the handheld. If yours does, you would need to get a wireless Beta 58 cartridge, model #RPW118. The RPW118 will screw right onto the handheld transmitter and work with the handheld transmitter.
+	
+	Would it make a difference? * Depends on the quality of the rest of the system and your expectations.

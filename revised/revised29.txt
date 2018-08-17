@@ -1,0 +1,14 @@
+Title: Will phantom power damage my SM58?
+Id: 29
+Legacy Id: 29
+
+Question:
+I have an 8 channel mixer which sends phantom power to all mic inputs when the phantom is activated. I would like to run a SM81 and a SM58 through this mixer in a live performance situation. My question is, if I enable the phantom power on the mixer for the SM81, will it affect the operation of the SM58?
+
+
+
+Answer:
+
+	No. Any dynamic microphone with a low impedance balanced output, like the SM58, is not affected by phantom power.
+	
+	Phantom Power will not damage a professional dynamic microphone.

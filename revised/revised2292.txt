@@ -1,0 +1,21 @@
+Title: Replacement for M75CS.
+Id: 2292
+Legacy Id: 2377
+
+Question:
+I need the cartridge/stylus specifications for a Shure M75CS cartridge.
+
+
+Answer:
+
+	M75CS
+
+	
+	Tracks at 3 to 5 grams.
+	
+	Spherical styuls with a radius of .0006.
+	
+	Response: 20 to 20,000 Hz
+	
+	Replacement stylus is N75B Type 2 that tracks at 1.5 to 3 grams.
+

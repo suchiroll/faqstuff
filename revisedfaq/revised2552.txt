@@ -1,0 +1,17 @@
+Title: 48V Phantom & 12V A-B Tonader
+Id: 2552
+Legacy Id: 2650
+
+Question:
+What is the difference between 48V Phantom  12V A-B Tonader power supplies??
+
+
+
+Answer:
+
+	48V Phantom: +48V on pins 2 and 3; return on pin 1
+	
+	12V A-B Tonader: +12V on pin 2; return on pin 3; no DC path on pin 1.
+	
+	These two schemes are very different and incompatible with each other.
+

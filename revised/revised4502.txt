@@ -1,0 +1,16 @@
+Title: DDS 5900 Unregistered Units
+Id: 4502
+Legacy Id: 5616
+
+Question:
+On my DDS 5905 system. Out of 38 mics, I show 5 unregistered. But they all work.
+What does unregistered mean? Should i be concerned?
+
+
+
+Answer:
+
+	Are you certain the 5 unregistered units are not being shown in addition to the 38 actual microphones? Sometimes, if additional units were connected to the CU that it can no longer find, they will show up as unregistered. You can actually remove those units using the CU browser. It doesnt really hurt to leave them in there, it can just be confusing.We dont suspect the ones showing up are actually physically connected units, because delegate units that cant successfully register usually display a blinking red LED. Thats whywe suspect the units showing up as unregistered are not actually physically connected.
+	
+	If nothing else, try rebooting the CU and see if that clears them out.
+

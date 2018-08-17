@@ -1,0 +1,14 @@
+Title: EZB/C & EZB/O Polar Patterns - Orientation
+Id: 2202
+Legacy Id: 2278
+
+Question:
+I would like to know if the polar patterns for the EZB's are spherical (measured in free space) or semispherical (measured with microphone on a flat surface)? And how they are oriented with the microphone body, is the cardioid pattern directed up from the microphone body or out in front of the microphone body?
+
+
+Answer:
+
+	The polar patterns are free space. When the mic is placed on a large, flat surface, the polar patterns are sliced in half, so the omni becomes a hemispherical pattern because the surface blocks the sound, not because the pattern has magically altered.
+	
+	The cardioid pattern comes off the front of the mic body, aimed at the talker. The horizontal pick up angle is 120 degrees and the vertical is 60 degrees; again sliced in half by the surface.
+

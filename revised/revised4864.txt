@@ -1,0 +1,15 @@
+Title: Maximum RF Input - PA821A
+Id: 4864
+Legacy Id: 6052
+
+Question:
+I would like to use the PA821A PSM Antenna Combiner with 8 Lectrosonics IFB-T4 transmitters. The T4 nominal RF power output is 250mW which is right at the spec'ed Absolute Max RF Input level of +24dBm of the 821. While technically right at the line, is it safe to operate the PA821 that way or do I need to pad down the RF level coming in from the T4? If not, how much padding do I need to do? Further, how much insertion loss does the 821 cause, on a typical RF input?
+
+
+
+Answer:
+
+	The typical insertion loss from input to output of the PA821A is about -1.5 dB to -2 dB between 470 MHz and 698 MHz (the usual operating range of UHF wireless). Note that these values are specific to the PA821A and do not necessarily relate to the PA821 or the PA421A.
+	
+	As far as the absolute versus specified maximum input value, there should be about 3-4 dBm of headroom on those inputs even at an actual input of 250 mW (+24 dBm).But we only support inputs of up to 250 mW as the headroom is just for protection purposes.
+

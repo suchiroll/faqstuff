@@ -1,0 +1,26 @@
+Title: Shure and the Brush Company in the 1930s
+Id: 3349
+Legacy Id: 3533
+
+Question:
+What can you tell me about the Brush Company? I think that Shure licensed patents from Brush in the 1930s.
+
+
+Answer:
+
+	This is true. Shure licensed Brush patents in order to make crystal microphones and phono cartridges.
+	
+	Brush Development Company
+	
+	Originally founded in 1919 by Charles Francis Brush Jr., Brush Labs was a research company based in Cleveland, Ohio, USA. It was started with the intention to develop phonograph products that utilized piezoelectric crystals. Mr. Brush died prematurely in 1927 but some of his work bore fruit, and his backers founded the Brush Development Company in 1930 to commercialize the inventions of Brush Labs.
+	
+	The newly formed company became the USAs biggest manufacturer of instrument recorders and other test/measurement instrumentation in the latter half of the 30s. Due to their status in that market segment, Brush was chosen by the US Army to work on recording technologies during World War II, while the company continued to work on magnetic recording technologies.
+	
+	After the war they were not made privy to the improved technologies behind Telefunkens WWII era Magnetophon by the US Army. Like others working in that field, it has been hinted that this was possibly because the company had been exclusively handed the research and manufacturing secrets of high quality crystals that had been developed in Germany during the war, and had even been given access to the German scientists that had developed the techniques; it was felt that Brush had got their share.
+	
+	Whatever the reason Brush managed to release the Mail-A-Voice dictation recorder in 1946 and the first USA built tape recorder in 1947 with the Brush Soundmirror. But those were designed with an eye on the outdated 1928 and 1935 German patents. This meant that the Soundmirror was soon outdated when machines built around the Magnetophon technology arrived on the market
+	
+	The company never gained the market share in the recording business. In the early 50s Brush became the primary supplier of automated tape recorders for aviation control and telephone exchanges. Companies such as Sonotone managed during the late 40s to successfully market piezoelectric phonographic pickups, a market that Brush had set its sights on ever since its founding, but never had any success.
+	
+	To add insult to injury, one of the most successful companies in that sector was Astatic which was founded by an ex-Brush employee. Brush Development Co. merged with the original Brush Labs and the Cleveland Graphite Bronze company in 1952 with the resulting new company named Clevite. Audio products continued being sold using the Brush trademark as late as 1960. The Clevite company exited the audio market in 1963 and was taken over by Gould National Battery in 1969.
+

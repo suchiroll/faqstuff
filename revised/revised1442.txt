@@ -1,0 +1,38 @@
+Title: Wireless for a dancer
+Id: 1442
+Legacy Id: 1495
+
+Question:
+Greetings,
+
+
+I have been given this email address to get some Shure product information.
+
+
+I have two sets of questions:
+
+
+
+#1
+
+I have the Shure T1 transmitter and a VP3-CV receiver. Right now, I am using a single antenna receiver, and I am thinking of going to a diversity receiver. Can you tell me which receivers would work with the T1 tranmitter, to upgrade from the VP3-CV receiver? Are there choices, and what would the prices be?
+
+
+#2
+
+Is there an outfit, that would include a new transmitter and a new diversity receiver combined? If I upgrade from the Shure T1 and VP3-CV, what would your suggestions be. I am primarily micing a dancer who moves around a lot, who speaks but doesn't sing. I recently purchased a WL185 mic and a WCM16 headset, so what ever I purchase I would want these items to be compatible with them.
+
+
+Thank you so much for your help.
+
+
+Answer:
+
+	You can use the T4N-CV, or the LX4-CV. Prices are found at:
+
+	
+	
+	
+	#2 Consider the LX14 system. It does not include a microphone. You can use the WL185 or WCM16 with the LX14 system.
+	
+

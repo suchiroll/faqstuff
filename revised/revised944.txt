@@ -1,0 +1,13 @@
+Title: Sound degradation using transformer to convert XLR to 1/4 inch
+Id: 944
+Legacy Id: 972
+
+Question:
+I am about to buy a new digital recorder (Akai DPS16i) that has 2 XLR inputs and 6 1/4 jacks. In order to plug more than two mics into it I would use an impedance transformer to plug the extra mics into the 1/4 inch jacks. But before I purchase the new machine, I wanted to know whether there is any sort of sound degradation when converting the plug type, enough that I should look into a machine with more XLR inputs.
+
+Answer:
+
+	It all depends upon the quality of the transformer used in the impedance adapter. The majority of these adapters are not used in high performance systems, and therefore are not the highest quality.
+	
+	Our advice: look for a device with more XLR inputs.
+

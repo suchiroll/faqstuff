@@ -1,0 +1,281 @@
+Title: WWB6 ports and protocol information
+Id: 4618
+Legacy Id: 5777
+
+Question:
+What ports and protocol does WWB6 use? I need to open those ports in my very strict firewall that I have.
+
+Answer:
+
+	AXT400, AXT600, AXT610, AXT630/631, AXT900, P10T, ULXD4, ULXD4D, ULXD4Q - Main processor
+
+
+	
+		
+			
+				Port
+			
+				TCP/UDP
+			
+				Protocol
+			
+				Description
+		
+		
+			
+				21
+			
+				TCP
+			
+				FTP
+			
+				Required for firmware updates, Data exchange
+		
+		
+			
+				23
+			
+				TCP
+			
+				Telnet
+			
+				Standard Console interface (only open in debug modes)
+		
+		
+			
+				427
+			
+				TCP
+			
+				SLP
+			
+				Required for service discovery
+		
+		
+			
+				2202
+			
+				TCP
+			
+				Raw Socket
+			
+				Required for 3rd party control strings
+		
+		
+			
+				8023
+			
+				TCP
+			
+				Telnet
+			
+				Debug console interface
+		
+		
+			
+				64000
+			
+				TCP
+			
+				Raw Socket
+			
+				Shure firmware update control
+		
+		
+			
+				68
+			
+				UDP
+			
+				BOOTP/DHCP
+			
+				IP Addressing
+		
+		
+			
+				427
+			
+				UDP
+			
+				SLP
+			
+				Require for service discovery
+		
+		
+			
+				5568
+			
+				UDP
+			
+				SDT
+			
+				Required for device control
+		
+		
+			
+				8427
+			
+				UDP
+			
+				Multicast SLP
+			
+				Required for service discovery
+		
+	
+
+
+
+	ULXD4D, ULXD4Q - Dante Processor
+
+
+	
+		
+			
+				Port
+			
+				TCP/UDP
+			
+				Protocol
+			
+				Description
+		
+		
+			
+				68
+			
+				UDP
+			
+				BOOTP/DHCP
+			
+				IP Addressing
+		
+		
+			
+				162
+			
+				UDP
+			
+				SNMP
+			
+				Used by Dante
+		
+		
+			
+				319-320
+			
+				UDP
+			
+				PTP
+			
+				Used by Dante Clocking
+		
+		
+			
+				4321
+			
+				UDP
+			
+				Dante
+			
+				Used by Dante Audio
+		
+		
+			
+				4440-4455
+			
+				UDP
+			
+				Dante
+			
+				Used by Dante
+		
+		
+			
+				5353
+			
+				UDP
+			
+				mDNS
+			
+				Used by Dante
+		
+		
+			
+				8700-8706
+			
+				UDP
+			
+				Dante
+			
+				Used by Dante
+		
+		
+			
+				14336-14591
+			
+				UDP
+			
+				Dante
+			
+				Used by Dante Audio
+		
+		
+			
+				16000-65536
+			
+				UDP
+			
+				Dante
+			
+				Used by Date
+		
+	
+
+
+
+	UR4/ MW4
+
+	
+		
+			
+				Port
+			
+				TCP/UDP
+			
+				Protocol
+			
+				Description
+		
+		
+			
+				68
+			
+				UDP
+			
+				BOOTP/DHCP
+			
+				IP Addressing
+		
+		
+			
+				2200-2201
+			
+				UDP
+			
+				SNET
+			
+				Shure protocol for configuration
+		
+		
+			
+				2202
+			
+				UDP
+			
+				Raw Socket
+			
+				Required for 3rd party control strings
+		
+	
+
+

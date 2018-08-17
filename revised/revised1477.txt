@@ -1,0 +1,12 @@
+Title: Microphone for USB port
+Id: 1477
+Legacy Id: 1530
+
+Question:
+Can you please advise me if the VPL/93 microphone with an integrated WH20 headset can be used in a USB input connector on a computer? If not, what connectors can you provide to make compatible with my laptop application?
+
+
+Answer:
+
+	A professional mic made will require a preamp interface, like the Shure X2u,to connect to a USB port.Using the X2u, you can choose virtually any professional mic that suits your needs.
+

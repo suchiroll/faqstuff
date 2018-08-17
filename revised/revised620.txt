@@ -1,0 +1,12 @@
+Title: Does using an 1/8" adapter on an SM7 change the response?
+Id: 620
+Legacy Id: 634
+
+Question:
+I intend to buy your SM7B microphone to connect to my computer. When using a plug-in adapter to reduce its size for the sound card connection, will I lose response quality?
+
+
+Answer:
+
+	You will not lose any quality by going through a simple adapter. But, the output level of the SM7B may be too low in level for a typical sound card. You might have to boost the level using a transformer, such as the Shure A96F, a preamp, such as the Audio Buddy by M-Audio, or use a better out-board sound card such as the Sound Devices USB-Pre.
+

@@ -1,0 +1,28 @@
+Title: Output levels of microphones - is louder better?
+Id: 3043
+Legacy Id: 3174
+
+Question:
+At the church where I am one of the sound operators, we have for many years used condenser microphones made by Shure and AKG (and sometimes other brands such as CAD 95). The Shure microphones that we have used are the SM85 and more recently a Beta 87. We have always noticed that the Shure microphones do not put out as strong a signal as the AKG and other brands. This is not a problem, as we just turn up the Gain (or “Trim”) controls on the mixer channels where the Shure mics are used.
+
+Recently we have some newer operators who have formed the opinion that the Shure microphones must not be as good as the others and must not be as sensitive, because the gain has to be turned up higher.
+
+How can I answer this?
+
+
+Answer:
+
+	A full and complete answer would require a textbook; by necessity this answer will be brief.
+	
+	A typical mic level signal is 0.001 volt. It must be amplified to 1.0 volt in order to drive a power amplifier. This is an increase of 60dB
+	
+	The 60 dB of gain can occur completely in the mic preamp of the mixer, or in the circuitry of the microphone (the vintage Shure SM82 microphone provided an output level of 1.0 volt), or can occur partially in the microphone and partially in the mixer. It matters not where the gain is added.
+	
+	What does matter is how quiet is the audio signal after the 60dB of gain is added. Many of the inexpensive condenser mics from Asia have very hot output levels but the penalty is excessive noise (background hiss). Does this hot output level make them better than a much quieter Shure microphone that does not have an output level that is as great? The answer is no.
+	
+	The output level of a microphone is not an indication of its quality. If it were, the superb vintage Neumann microphones would be spurned by recording studios, instead of embraced.
+	
+	Microphones are to be judged by audio fidelity, uniform polar patterns, quietness of operation, and useful features such as low frequency roll-off filters.
+	
+	Judging a microphone as better because it is louder is not a valid judgement.
+

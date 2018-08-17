@@ -1,0 +1,18 @@
+Title: WWB 6.10 and Windows 7
+Id: 4509
+Legacy Id: 5625
+
+Question:
+Any known issues with Windows 7 and Wireless Work Bench 6.10?
+
+
+Answer:
+
+	On machines running Windows 7, Wireless Workbench will not be able to discover devices when the machine has fallen back to its 169.254.xxx.yyy fallback IP address, regardless of the IP addressing of the connected Shure devices.To address this, perform one of the following two actions:
+	
+	A) Insert a DHCP server onto your network and set your machine and Shure devices to accept automatic IP addressing.
+	
+	OR
+	
+	B) Statically assign your machines IP address to the 169.254.xxx.yyy fallback subnet with a different IP address than the one it fell back to originally.
+

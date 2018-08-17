@@ -1,0 +1,14 @@
+Title: SM57 noise
+Id: 768
+Legacy Id: 789
+
+Question:
+Is there a way to electronically modify the SM57 to reduce the amount of noise it outputs? All of my 57's hiss and have a "hatching" buzz in them (not 60 cycle)
+
+thanks!
+
+
+Answer:
+
+	The SM57 is a dynamic microphone, and thus does not have any active electronics in it. The SM57 is simply a voice coil and transformer. The noise output of dynamic microphones is essentially zero, the same as a resistor. This is much, much less than the noise from the input circuitry of a mixer. If you are having noise problems, you should check the cables and mixer.
+

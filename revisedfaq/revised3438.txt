@@ -1,0 +1,130 @@
+Title: Antenna tip color for bodypacks
+Id: 3438
+Legacy Id: 3630
+
+Question:
+What is the color of the antenna for the different frequency bands on the QLXD1, ULXD1, UR1, P9R, P9RA, P10R?
+
+
+Answer:
+
+	
+
+	
+
+	
+
+	
+		
+			
+				
+					Tip Color
+			
+			
+				
+					Frequency Range
+			
+			
+				
+					UR Frequency Band
+			
+			
+				
+					Model
+			
+		
+		
+			
+				
+					Yellow
+			
+			
+				
+					470 - 530 MHz
+			
+			
+				
+					G1
+			
+			
+				
+					UA700
+			
+		
+		
+			
+				
+					Gray
+			
+			
+				
+					518 - 578 MHz
+			
+			
+				
+					H4
+			
+			
+				
+					UA710
+			
+		
+		
+			
+				
+					Black
+			
+			
+				
+					578 - 698 MHz
+			
+			
+				
+					J5  L3
+			
+			
+				
+					UA720
+			
+		
+		
+			
+				
+					Dark Blue
+			
+			
+				
+					740 - 865 MHz
+			
+			
+				
+					Q5, Q9, R9*
+			
+			
+				
+					UA730
+			
+		
+		
+			
+				
+					Red
+			
+			
+				
+					944 - 952 MHz
+			
+			
+				
+					X1
+			
+			
+				
+					UA740
+			
+		
+	
+
+
+	* Not available in the US
+

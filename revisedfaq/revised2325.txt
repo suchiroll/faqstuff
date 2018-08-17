@@ -1,0 +1,12 @@
+Title: Shure SS78E elliptical stylus for SC35C?
+Id: 2325
+Legacy Id: 2411
+
+Question:
+We are looking for the following part: Shure SS78E elliptical stylus.
+
+
+Answer:
+
+	The SS78E is discontinued. It was designed to fit the SC35C cartridge and play 78 RPM records.
+	The N78S stylus is available and is a direct replacement for the SS78E.

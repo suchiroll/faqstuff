@@ -1,0 +1,26 @@
+Title: Manufacturing date of a vintage Shure microphone
+Id: 3491
+Legacy Id: 3690
+
+Question:
+Is there a way to reliably know when a Shure microphone was manufactured?
+
+
+Answer:
+
+	The short answer is no. Having manufactured microphones since the early 1930s, there have been scores of different serial number schemes and manufacturing date codes. Unfortunately, manyof thesehave been lost to history.
+	
+	Here are four helpful hints:
+
+	
+		If the mic is labeled Chicago, Illinois, it was manufactured before 1956.
+	
+		If the mic is labeled Evanston, Illiniois it was manufactured in 1956 or later.
+	
+		If the serial number reads 5723, the mic was manufactured in the 23rd week of 1957.
+	
+		Check the date of the User Guide: View All User Guides.
+	
+		Check when it appears in Shure Catalogs.
+
+

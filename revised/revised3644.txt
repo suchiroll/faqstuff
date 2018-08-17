@@ -1,0 +1,27 @@
+Title: SE115M+ Basic Features and Operation
+Id: 3644
+Legacy Id: 3852
+
+Question:
+What are the basic features and operation of the SE115M+? Is it really just for Apple products?
+
+
+Answer:
+
+	NOTE: The SE115M+ was discontinued in February 2013.  The recommended replacement is the SE215 with the CBL-M+-K accessory cable.
+	
+	Yes, the SE115M+ is specifically for Apple products designed to work with the Apple Remote + Mic.  As of September 2012, this includes the iPod Touch 2G; iPod Nano 5G; iPhone 3Gs; iPhone 4 (all versions); iPhone 5; Pod 120 gB Classic; Macbook Air 2009, and some later Macbook Pro units.
+	
+	The SE115M+ includes a pair of SE115 earphones, a microphone, and three switches that can provide the functions listed in the next paragraph.  The earphones serve a dual purpose: to listen to music or to listen to the person on the other end of the call.  The microphone is used to speak to the other person during a call.
+	
+	The SE115M+ mic/switch module contains a proprietary integrated circuit chip that communicates with a complementary integrated circuit chip inside of the Apple product.  The communication signals between the chips travel on the same wire as the microphone audio. The interaction of these two chips can provide these functions: send call; end call; volume up; volume down; pause music track; fast forward; and rewind. For proper operation, make certain the SE115M+ plug is fully inserted into the jack of the Apple product.
+	
+	NOTE: If the SE115M+ is connected to a device that does not have the complementary integrated circuit chip, the switch functions will not operate. 
+	
+	The 3.5mm male plug is configured as follows:
+	Tip - audio feed to left earphone;
+	Ring 1 - audio feed to right earphone; 
+	Ring 2 - ground return for earphones and for microphone;
+	Sleeve - audio feed from microphone.
+	
+	The operating voltage range for the microphone is 1.5Vdc to 3.6Vdc.  The current draw is 0.25 mA maximum.

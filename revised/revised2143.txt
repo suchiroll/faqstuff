@@ -1,0 +1,14 @@
+Title: Studio quality mic for ham radio
+Id: 2143
+Legacy Id: 2214
+
+Question:
+I'm an amateur radio operator. I'm looking for a microphone that has good sound qualities and will tailor my voice in the mid range region. I don't want to use a communication microphone. Can I adapt a studio mic for this use?
+
+
+Answer:
+
+	As sound is subjective, we cannot predict which mic will appeal to your ear. The SM7B studio mic is often used by ham radio operators.
+	
+	It requires the use of a high quality mic preamp.
+

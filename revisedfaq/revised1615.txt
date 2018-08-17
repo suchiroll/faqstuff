@@ -1,0 +1,24 @@
+Title: In-line volume control for mics
+Id: 1615
+Legacy Id: 1672
+
+Question:
+I need an inline volume control knob for several microphones.
+
+1) XLR type low Z volume control jack that I can plug into an XLR microphone between the mic and the mic cable and
+
+2) the old screw-on type Switchcraft type microphone connector (for old bullet mics like the Astatic JT-30 and Shure 520 green bullet) i.e. a screw on type volume control for hi Z mics to put between the mic and the mic cable so yo control the volume (this is for harmonica playing).
+
+
+Answer:
+
+	You will have to build these yourself. Stand alone in-line volume controls for mic level signals are no longer manufactured.
+	
+	Two reasons:
+	1) There is very little demand for such a device;
+	2) It is difficult to find potentiometers that will not induce noise into the mic signal.
+	
+	The current Shure 520DX has an internal volume control. Copy this circuit to build a control for high impedance mics. The value of the pot should be 100,000 ohms.
+	
+	The same type of circuit can be used for a low impedance control. The value of the pot should be 2,000 ohms.
+

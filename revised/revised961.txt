@@ -1,0 +1,12 @@
+Title: Microphone and preamp selection for recording automobile sound
+Id: 961
+Legacy Id: 990
+
+Question:
+I am trying to use a laptop computer, microphone and probably a preamp to record all sounds present in a police cruiser. I am going to use these recording to supply background noise while testing a speech recognition system for the New Hampshire State Police. I need to be able to pickup everything (i.e. engine noise, sirens, voice, wind...). I have read several of you techincal support documents on connecting professional microphones to a soundcard, so I have fairly good understanding about impedence and signal strength. Could you please recommend an appropriate omni-directional microphone and preamplifier for this situation.
+
+
+Answer:
+
+	Consider the Shure SM63 microphone, used in conjunction with a battery powered mic preamp such as manufactured by Sound Devices.
+

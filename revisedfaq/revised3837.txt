@@ -1,0 +1,20 @@
+Title: PGX Digital Signal Transmission Scheme
+Id: 3837
+Legacy Id: 4076
+
+Question:
+1) With digital wireless, is the transmission (sending the signal from TX to RX) the same as with the analog system?
+
+2) In other words, is the audio passed via RF on a PGXD system the same way it is on a PGX analog system?
+
+3) Or is the physical transmission of the signal different which, in-turn, makes it a digital system?
+
+
+
+Answer:
+
+	1) PGX sends an analog RF signal, like an FM radio station.    PGX-Digital sends a digital RF signal, like a DTV station.
+	
+	2) No, the audio is converted into a digital signal in the transmitter.
+	
+	3) It is a digital signal send via RF.

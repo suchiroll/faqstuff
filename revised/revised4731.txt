@@ -1,0 +1,20 @@
+Title: How to export or share recordings from the Motiv app
+Id: 4731
+Legacy Id: 5903
+
+Question:
+How can I export or share recordings from the Motiv App?
+
+
+Answer:
+
+	In the Motiv App, open the MENU and select Recordings.
+	
+	
+	
+	Select the EXPORT icon for the recording that you want to export.
+	
+	
+	
+	Select the method (email, dropbox, messaging, save as, etc) that you want to export.
+

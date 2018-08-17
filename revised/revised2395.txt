@@ -1,0 +1,12 @@
+Title: SM89 used Indoor/Outdoor?
+Id: 2395
+Legacy Id: 2487
+
+Question:
+I am trying to find a shotgun microphone for both indoor use and outdoor. I have been reading about the SM89, but the SM89 was not designed for outdoor use, only indoor. Can you point me in the right direction?
+
+Answer:
+
+	Where did you read that the SM89 cannot be used outdoors? This mic is commonly used by film and news crews around the world for outdoor recording.
+	
+	The SM89 will require proper windscreens if used outdoors. One source for specialized windscreens is Rycote.

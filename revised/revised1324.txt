@@ -1,0 +1,22 @@
+Title: How rugged is my SM58 microphone?
+Id: 1324
+Legacy Id: 1375
+
+Question:
+I just bought a Shure 75th anniversary pack consisting of an SM58 and an SM57 and i was just wondering exactly how fragile they are. I've heard that dropping a microphone is a very bad thing to do, why? Basically, I'd love to know exactly how much care and what kind of care my microphone needs. Also, is there any technical difference between the 57 and 58 75th anniversary releases and standard releases?
+
+
+Answer:
+
+	Ive heard that dropping a microphone is a very bad thing to do, why?
+
+	*Severe shock can cause the voice coil to become misaligned. The coil will rub on the magnet instead of floating freely. This will cause the microphone to sound very thin.
+	
+	Id love to know exactly how much care and what kind of care my microphone needs.
+
+	*Treat your microphone like a 35mm camera. Dont drop it; dont let it get wet; put it away safely when not using it; dont leave it unattended as someone will steal it.
+	
+	Is there any technical difference between the 57 and 58 75th anniversary releases and standard releases?
+
+	*No difference at all.
+

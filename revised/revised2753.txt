@@ -1,0 +1,17 @@
+Title: Shure WL condenser mic to a TOA wireless transmitter
+Id: 2753
+Legacy Id: 2860
+
+Question:
+How do I connect a Shure WL183 to a TOA WM-3310 CO1 transmitter?
+
+
+Answer:
+
+	To connect a Shure WL condenser mic to a TOA WM-3310 CO1 series transmitter:
+	
+	• Red wire to tip terminal of 3.5 mm phone jack connector
+	• Black wire to sleeve terminal of 3.5 mm phone jack connector
+	• Shield to sleeve terminal of 3.5 mm phone jack connector
+	
+	This wiring was confirmed as correct by a Shure customer in Europe.

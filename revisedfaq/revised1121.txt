@@ -1,0 +1,12 @@
+Title: WH20XLR into wireless transmitter
+Id: 1121
+Legacy Id: 1158
+
+Question:
+Can I use a WH20 XLR headworn mic as a wireless microphone, if I buy a transmitter and recever for it?
+
+
+Answer:
+
+	Yes. If you use a Shure transmitter, remove the XLR connector and replace it with a TA4F connector from Switchcraft. Or use the Shure adapter cable, WA310, which mates with the WH20 XLR connector on one end, and mates with the Shure transmitter on the other end.
+

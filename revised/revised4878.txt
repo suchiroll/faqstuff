@@ -1,0 +1,14 @@
+Title: PA421A with the P3T
+Id: 4878
+Legacy Id: 6136
+
+Question:
+Can I use the PA421A with PSM300 P3T transmitters?
+
+
+Answer:
+
+	This is not recommended. In some cases, during startup, theP3T will attempt to draw more current than the PA421A can supply. The PA421A has protection circuitry to prevent damage from excessive power draw, so the PA421A does not pass power in this condition.
+	
+	It is recommended to use the PA411 with the P3T transmitters as the PA411 will power four P3T transmitters.
+

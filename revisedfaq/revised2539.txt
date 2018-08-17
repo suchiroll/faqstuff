@@ -1,0 +1,24 @@
+Title: Controlled Magnetic Transducer Model No. 99K561
+Id: 2539
+Legacy Id: 2636
+
+Question:
+I came into a supply of boxes while cleaning out a relative's estate. The boxes say:
+
+
+Controlled Magnetic Transducer
+
+Shure Brothers, Inc.
+
+Model No. 99K561 Q1
+
+
+Can you tell me anything about what these are and how they were used?
+
+
+Answer:
+
+	The 99K561 transducer was used in the model TH41Y - a telephone-type handset made for the U.S. Government. The handset featured a noise-cancelling mic design, and a transistorized preamplifier.
+	
+	The 99K561 was discontinued in 1990.
+

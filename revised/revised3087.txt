@@ -1,0 +1,32 @@
+Title: Notch Filter Allows for Best In-Ear Monitor Mix Ever!
+Id: 3087
+Legacy Id: 3219
+
+Question:
+How do I get the best from my in-ear monitor mix?
+
+
+Answer:
+
+	Notch Filter Allows for Best In-Ear Monitor Mix Ever!
+
+	Many microphones and most circuitry used in the reproduction of audio signals have a bandwidth of 20 kHz (20 Hz  20 kHz) or more. Digital devices operating at a sampling rate of 44.1 kHz have frequency responses extending to 22 kHz; 48 kHz sample rates are flat out to 24 kHz. Many boutique analog devices boast flat response beyond 30 and sometimes 40 kHz! Undoubtedly, these are great advances in the sound reproduction field, unless you are trying to send that kind of bandwidth through the air in the form of a stereo encoded wireless transmission. Its the equivalent of ten pounds of audio in a five-pound bag.
+
+	Ever have one of those earmixes that you just cant get to sound quite right? Sometimes its a simple image shift; sometimes it is distortion that happens at the strangest times. You check it against the output of your desk and cant seem to figure out what is actually causing the anomaly. You might try a different frequency, attributing the unacceptable sound reproduction to interference. You try different cables, different earpieces, and different bodypacks  you try everything you can think of. Ultimately, the key to successfully creating stable, stereo wireless transmission is respecting the frequency response limitations of the medium. There are several ways this can be accomplished, but you are best served by avoiding any frequency boosts above 15 kHz. Stereo multiplexed wireless transmission has a limited frequency response of 50Hz - 15 kHz. Ever since the FCC approved stereo multiplexed transmissions (MPX) back in 1961, this frequency response limitation has been in place. Audio engineers mixing stereo wireless transmissions for on-stage talent wearing in-ear monitors should be aware of the operating principals of MPX stereo to achieve the desired results at the receiver.
+
+	In many cases, switching to a mono transmission clears up any wireless anomaly (except for interference) in these types of monitoring systems. However, everyone wants to monitor in stereo, so being aware of the limitations of MPX encoding will allow for greater talent satisfaction.
+
+	Stereo wireless transmitters use a steep cut filter, or brick-wall filter, prior to modulation, centered at 19 kHz to create a safe haven for the required pilot tone. MPX encoders in stereo wireless transmitters use a 19 kHz pilot tone to inform receivers that the transmission is encoded in stereo. If the receiver does not sense a 19 kHz pilot tone, it will only demodulate a mono signal. Moreover, if the 19 kHz pilot tone is not stable, stereo imaging degrades at the receiver. Most importantly, if in-ear monitor receivers do not sense stable 19 kHz pilot tones, they will mute (this is called tone-key squelch, and is actually a GOOD thing.). Modern mixing consoles offer high frequency shelving equalization from as low as 10 kHz to as high 12, 15 and even 16 kHz. Digital mixing consoles offer parametric filtering that can center on practically any frequency and boost by as much as 18 dB! With a multi-channel mixing board, it is easy enough to create a counteractive frequency response at the frequency of interest- 19 kHz. In stereo wireless, there are two pieces of information actually being transmitted, the mono or sum signal (Left + Right) and the difference (Left  Right) channel, each occupying a 15 kHz-wide swath of spectrum. The 19 kHz pilot tone is centered in between these two signals. See figure below.
+
+	
+
+	The stereo image is restored in the receiver by adding the sum and difference signals to create the left channel, and subtracting them to derive the right channel.
+
+	(L + R) + (L  R) = 2L
+
+	(L + R)  (L  R) = 2R
+
+	This system ensures mono compatibility, since the received signal will simply collapse to mono when the pilot tone is lost. You are left with nothing but the L + R sum signal. However, the presence of the 19 kHz pilot tone in the audio band makes it vulnerable to being compromised by the program material. The result of these ultrasonic components getting into the modulator can cause, at best, degradation of stereo separation and distortion, and in worst-case situations, muting of the receiver. Add the high frequency shelf used in the pre-emphasis curves prior to the companding circuits in stereo transmitters (a form of noise reduction), and it is easy to see how a small high frequency boost on a channel strip can have a huge effect on what is heard after the RF link. These phenomena are usually blamed on the product in question and easily dismissed as bad frequency selection (interference), multi-path drop out or dying batteries, when in reality these anomalies are the sound of stereo multiplex transmission breaking down at its fundamental operating principal. If audio modulates the pilot tone, stereo reception and the resultant sound quality will be poor. If upper harmonics of musical instruments aggravate the (L-R) sidebands (especially in a transient manner  tambourines, triangles, high hats, click tracks, etc.), stereo separation can degrade, frequency response can be compromised and even dynamic interactions between one channel and another can be detected.
+
+	Sensible use of the pan knobs on stereo sources can turn a difficult to receive (and encode!) signal, such as a thirty-foot-wide piano into a much more easily received (and decoded!) six-foot-wide piano. Instead of panning hard left and right, try the 10 oclock and 2 oclock positions. Judicious equalization prior to stereo transmission can pre-shape a mix for literally smoother MPX encoding. Ultimately, using 1/10th of an octave notch filters at 16 kHz on output busses to increase the slope of an MPX filter is a good way to keep the brick wall standing up. Moreover, a nominal balance between transient and sustained signals in both the frequency response and stereo perspective domains of a mix are useful tools to create realistic environments inside performers heads.
+

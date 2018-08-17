@@ -1,0 +1,18 @@
+Title: Counterfeit Batteries and Cells
+Id: 3589
+Legacy Id: 3795
+
+Question:
+I have a Shure wireless transmitter that eats a 9 volt battery in about 3 hours. I sent it to Shure and they tested it with a new battery and a meter that graphed the battery voltage. The battery lasted 10 hours! Shure sent the transmitter back with a new battery. It lasted 9 hours. When I put in a battery that I had, it last only four hours. Do you have an explanation?
+
+
+Answer:
+
+	Here are three possible explanations:
+	
+		The battery that you had was old and had lost some of its voltage and current capacity.   A battery will not last forever sitting on a shelf.  In fact, a battery has a rated "shelf life."
+	
+		If the battery was new, it could have been defective.  In that case, contact the manufacturer of the battery.
+	
+		If the battery was new, it could have been counterfeit...a fake.  Unfortunately, there are counterfeit batteries being sold in stores and via the Internet.  While these counterfeit batteries look like products from the major battery brands, the performance of these fake batteries is very poor, often providing less than 50% of the expected operating time.  And this problem is getting worse, not better.
+

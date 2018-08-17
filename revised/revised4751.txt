@@ -1,0 +1,12 @@
+Title: How open .sdb2 files in Wireless Work Bench
+Id: 4751
+Legacy Id: 5933
+
+Question:
+How do I open an .sdb2 file with wireless workbench?
+
+
+
+Answer:
+
+	From the Frequency Coordination workspace, you can click on the folder icon on the upper left part of the screen next to Scan Files.

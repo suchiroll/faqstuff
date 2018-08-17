@@ -1,0 +1,13 @@
+Title: Wireless 58 in need of repair?
+Id: 898
+Legacy Id: 926
+
+Question:
+I have a handheld Shure 58 that has been in service for years.  Recently, the sound coming out of the mike is extremely distorted.  Nothing will remove the distortion including adjusting the volume, and switching the mike from high to low on the inside of the mike near the battery.  Do I need to replace the head of this mike?  If so, is it something that I can do at home or does it have to be taken to a shop?
+
+Answer:
+
+	The problem could be in the mic head, the transmitter, or the receiver. We suggest sending the unit to Shure Service for examination. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

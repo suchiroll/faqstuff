@@ -1,0 +1,12 @@
+Title: Frequency Ranges of Musical Instrument
+Id: 2277
+Legacy Id: 2358
+
+Question:
+I have a home Recording studio using Shure microphones. I was reading your information on techniques for music for recording studios and on page 23 you listed a chart of instrument frequency ranges. This was only a partial list. I would like to know if you have or know where I can get a complete list of instruments with there frequency ranges?
+
+
+Answer:
+
+	The best source is a book called: Acoustics and the Performance of Music; Jrgen Meyer; 1978; ISBN 3-920-112-56-3. Sorry, it may be out of print. Try: www.alibris.com
+

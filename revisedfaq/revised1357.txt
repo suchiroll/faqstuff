@@ -1,0 +1,13 @@
+Title: SM58 sound quality from a headworn mic
+Id: 1357
+Legacy Id: 1409
+
+Question:
+I'm looking for a wired headset mic that sounds like the SM58. This would be a drummers dream.What do you have? Why are they not out there?
+
+Answer:
+
+	None of the current Shure headworn mics equal the SM58 response. The sound of a mic is due to many things, including the type of element, the acoustical design, the size of the diaphragm, etc.
+	
+	It would violate the laws of physics to shrink down all the elements that make up the SM58 (and its sound) into a product small enough to wear on ones head.
+

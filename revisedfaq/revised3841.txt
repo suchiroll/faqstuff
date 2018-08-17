@@ -1,0 +1,20 @@
+Title: AKG Mic to Shure Bodypack Transmitter
+Id: 3841
+Legacy Id: 4081
+
+Question:
+What is the method recommended by AKG to connect one of their condenser lapel mics into a Shure bodypack transmitter using a TA4F connector?
+
+
+
+Answer:
+
+	According to a technical bulletin from AKG, dated January 2007:
+	AKG red wire to Shure TA4F pin 3 and pin 4
+	AKG shield wire to Shure TA4F pin 1
+	8,200 ohm resistor between Shure TA4F pin 3 and pin 2
+	
+	Note: Shure has not tested the method above.
+
+	
+

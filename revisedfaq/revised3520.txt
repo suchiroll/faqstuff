@@ -1,0 +1,12 @@
+Title: UR1 100 mW setting
+Id: 3520
+Legacy Id: 3723
+
+Question:
+Please clarify that the UR1 has a 100 mW high power setting. It appears that I can change the power using the exit and down arrow keys. At lease the LCD display changes between 10mW and 100mW. The user guide only states that it is region dependent but I can't seem to find if it is available in the United States.
+
+
+Answer:
+
+	The U.S. version of the UR1 has the 100 mW option.
+

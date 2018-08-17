@@ -1,0 +1,14 @@
+Title: model 55G
+Id: 1860
+Legacy Id: 1920
+
+Question:
+I was looking for information on the model # 55G. I either need a male connector to replace the female connector on the mic, or a new cable for this model that has a male connector. Could you please tell me what my options are. The old cable dry-rotted, and wad disposed of. I am intending to use a direct box on the other end, going to the low Z input on the amp. My mic is definitely high impedence, and has no switch for low, medium, or high Z. I have attached four photos. The mic looks just like a 55C, but unless the label has been damaged,(it doesn't seem to be), it definitely is stamped with a 55G. I did get a second opinion on this. The label specifically states that this one is high Z, and has the following stamped on it. "Supercardioid Unidyne uni directional dynamic microphone".
+
+Answer:
+
+	Are you sure you dont have a 55C? We have no records of a model 55G.The pictures are great. The connector is a 3 pin Amphenol. For wiring and premade cable information, see the following links:
+	
+	Mic cable for Shure 55S
+	Wiring of vintage Shure mics: 3 or 4 pin Amphenol to XLR
+

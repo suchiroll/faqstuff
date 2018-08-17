@@ -1,0 +1,11 @@
+Title: SLX4 and SLX4L Power On/Off Switch - Default Setting
+Id: 3717
+Legacy Id: 3950
+
+Question:
+When the SLX4 receiver is provided DC power to the rear panel jack, does the SLX4 power up automatically or do I have to push the front panel "Power" button?
+
+
+Answer:
+
+	The default power up setting for the SLX4 receiver is "On."   So if the power for an entire rack is turned off and then turned back on, the SLX4 receiver will be "On."   Once the SLX4 receiver is "On", it can be turned "Off" by pressing the front panel "Power" button.

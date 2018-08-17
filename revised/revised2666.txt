@@ -1,0 +1,11 @@
+Title: WH20 into a Sennheiser SK50 or SK100 transmitter
+Id: 2666
+Legacy Id: 2770
+
+Question:
+How do I connect the Shure WH20 to a Sennheiser SK50 or SK100 transmitter?
+
+
+Answer:
+
+	A 10uF 10 wVdc capacitor is required if you want to use a dynamic microphone, like the WH20, with the SK50 or a SK100. The positive end of the capacitor is connected to the transmitter (center pin on the SK50; tip on the SK100). The negative side goes to the microphone audio lead.

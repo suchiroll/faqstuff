@@ -1,0 +1,14 @@
+Title: Digital Stylus Force Gauge
+Id: 3185
+Legacy Id: 3325
+
+Question:
+Is there a digital alternative to the mechanical Shure SFG-2 stylus force gauge?
+
+
+Answer:
+
+	Shure does not sell a digital stylus force gauge. Hi-fi enthusiasts have been known to use a digital jewelry scale to set tonearm tracking weight.
+	
+	To find a source, search the Internet using the keywords digital jewelry scale. Make certain the digital scale has accuracy to 0.1 gram or better.
+

@@ -1,0 +1,15 @@
+Title: My headset seems too big?
+Id: 231
+Legacy Id: 236
+
+Question:
+I don't want to sound totally weird but I just bought the VHF THD-CG headset mic. Now I'm a guitar player that likes to run around on occasion. Is there anything I can do to make the headset mic more tighter or snug? Should I leave the Croakies on? Is it possible to keep the receiver and switch to another headset mic? I don't know. I would love an e-mail from you. The headset mic just doesn't feel snug at all. Please help.
+
+
+Answer:
+
+	By carefully bending the metal frame on the WH20, you can make the headset tighter. You should leave the Croakie on the headset.
+
+	
+	If you wanted to try a different headset, you would also need to get a different transmitter. The 1/4 inch input on your transmitter will typically not work with other headset microphones.
+

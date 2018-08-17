@@ -1,0 +1,24 @@
+Title: What is an "embossed" diaphragm?
+Id: 115
+Legacy Id: 115
+
+Question:
+I've read that the KSM32 has an "embossed" Mylar diaphragm.  What does this mean, and why is it good?
+
+Answer:
+
+	What does embossed diaphragm mean?
+
+	The KSM32 capsule implements an embossed Mylar diaphragm. The embossing process creates tiny raised diamond shapes that give the Mylar a 3-dimensional texture to increase the overall surface area of the diaphragm. This process has two important benefits: improved environmental resilience and increased low-frequency performance.
+
+	
+
+	Low Frequency Response Enhanced
+	The embossing process increases the diaphragms compliance, thereby improving its responsiveness to ultra low frequencies. The KSM32 can reproduce the rich lows of any bass cabinet, pipe organ, piano or vocal with realism and warmth.
+
+	
+
+	Environmental Resilience
+	Through embossing, the Mylar diaphragm becomes extremely durable and resistant to variations in environmental conditions. Not only is the KSM32 a reliable performer over time but it will faithfully stand up to the daily rigors of stage performance, even when the room temperature or humidity fluctuates. The microphone withstands all of Shures rigorous quality and environmental testing--the same testing standards that the SM58 and all of our wired microphones must pass.
+
+

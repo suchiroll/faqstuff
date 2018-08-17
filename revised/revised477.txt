@@ -1,0 +1,21 @@
+Title: Individual wireless mics for a choir
+Id: 477
+Legacy Id: 487
+
+Question:
+Is it possible to mic a choir by using wireless mics, one for each choir member?  What is the largest size choir that could be miked this way?  How would one control all those mics?  Could this be a portable system?  Could this system be battery-operated, totally?  Which products would you recommend?
+
+Answer:
+
+	(1) This is possible but is dependent on many technical matters.
+	
+	(2) With our premium wireless system (UHF-R Series), 100 simultaneous wireless systems is feasible in the United States, but not always possible.
+	
+	(3) What kind of control do you mean? Please be more specific.
+	
+	(4) Most electronic equipment can be battery operated provided a large enough battery is used. It depends on which wireless systems you obtain. If you purchase the UR4 receiver, it is possible to power it from a 12V car battery by using a power inverter.
+	
+	(5) Which systems to choose depends on many other things. How many systems do you desire? Do you want the systems to be rack mounted? Will the systems travel from city to city? Will you require frequency agile systems?
+	
+	We suggest you call us to discuss your application as your answer to each question will lead us in a different direction. Please telephone our Applications Engineering Department at 847-600-8440 or 800-516-2525. Our office hours are Monday - Friday, 8 am - 5 pm Central Time.
+

@@ -1,0 +1,20 @@
+Title: Stylus for microgroove 78 RPM Records
+Id: 4583
+Legacy Id: 5710
+
+Question:
+I was given a two disc set of new stereo microgroove 78s on the Rivermont label. I have a Thorens turntable and a Shure M78S cartridge. I assume I will need a different stylus for these non wide groove discs. What is your suggestion for me?
+
+Answer:
+
+	
+		To confirm, you wish to use the M78S cartridge body, andthe new 78 RPM records have a groove width described as microgroove.
+
+
+
+	
+		The Shure stylus N35X will fit the M78S body, will play a microgroove, and tracks from 1.5 to 3 grams.
+
+
+
+

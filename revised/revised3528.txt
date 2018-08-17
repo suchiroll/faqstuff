@@ -1,0 +1,22 @@
+Title: STM33 multi-pin cable pinout
+Id: 3528
+Legacy Id: 3732
+
+Question:
+I have two STM33 tri-mics that had been hardwired into a conference room.Retired several years ago, I received them with bare ends and no breakout cables.I'm interested in restoring the connectors so that they can once again be used with a ST6000 system.I'm hoping you can give me the pinouts for both the tini QG connector and the breakout XLR cable.
+
+
+Answer:
+
+	Tini TQG connector:
+	
+	pin 1 - shield - to pin 1 of all the XLRs
+	
+	pin 2 - red wire/audio from mic #2 - to pin 2 of the middle XLR
+	
+	pin 3 - black wire/audio from mic #1 - to pin 2 of the first XLR
+	
+	pin 4 - white wire/audio from mic #3 - to pin 2 of the last XLR
+	
+	That is all the data I could find....in a very dusty file.
+

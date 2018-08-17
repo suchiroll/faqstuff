@@ -1,0 +1,18 @@
+Title: MXW  USB 2.0 or USB 3.0?
+Id: 4371
+Legacy Id: 5462
+
+Question:
+Are the USB connectors on the MXW gooseneck transmitter bases that interconnect to the Network Charging Stations USB-2.0 or USB-3.0? I want to use short USB extension cables to interconnect the transmitters into an MXW network charging station.
+
+
+Answer:
+
+	The USB connectors on the MXW gooseneck transmitters are USB-3.0. Note that a blue insert is visible on the MXW connectors, which indicates that it is USB-3.0 compliant.
+	
+	While USB-2.0 and USB-3.0 connectors are mechanically the same size, they are not the same electrically. USB-2.0 connectors have four contacts plus a shield, while USB-3.0 connectors feature the same 4 contacts from USB-2.0 plus five additional contacts plus shield. The USB-3.0 standard provides much higher data throughput, requiring the additional conductors and contacts.
+	
+	The MXW gooseneck transmitters battery can be charged with either a USB-2.0 or a USB-3.0 extension cable. However, communications to link the transmitters with the Access Point Transceiver (MXWAPT) will only work over a USB-3.0 extension cable.
+	
+	USB-3.0 extension cables are recommended, and are readily available from third party vendors. As a note, USB-3.0 cables are backward compatible for use in USB-2.0 applications.
+

@@ -1,0 +1,12 @@
+Title: SM57 or SM58 with switch
+Id: 1219
+Legacy Id: 1263
+
+Question:
+Is there a model of the SM57 that has a on and off switch? Or an SM58 with the same switch?
+
+
+Answer:
+
+	The SM57 is not available with a switch. The model 545SD is very similar to the SM57 and does have a switch. The model SM58S also has a switch.
+

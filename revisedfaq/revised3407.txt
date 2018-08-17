@@ -1,0 +1,12 @@
+Title: AC power/voltage in various countries
+Id: 3407
+Legacy Id: 3597
+
+Question:
+What is the AC voltage/power requirements in various international countries?
+
+
+Answer:
+
+	The following web site is an excellent resource that provides voltage, frequency, and plug type in many countries:Current Solutions, Inc.
+

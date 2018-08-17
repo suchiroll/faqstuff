@@ -1,0 +1,16 @@
+Title: SE846 Weight
+Id: 4804
+Legacy Id: 5990
+
+Question:
+Please provide the weight specifications for the SE846.
+
+
+Answer:
+
+	Each SE846 earbud weighs 5.58 grams - measured without the flexible earphone sleeve.
+	
+	The SE846 cable weighs 25.50 grams.
+	
+	Thus, the total weight is 36.66 grams.
+

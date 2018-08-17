@@ -1,0 +1,11 @@
+Title: Can I make a BG 4.0 a wireless microphone?
+Id: 381
+Legacy Id: 388
+
+Question:
+I have a BG 4.0 microphone. Can I buy an antenna for it to make it wireless?
+
+
+Answer:
+
+	You will need a complete wireless system (transmitter and receiver) to make a wired microphone into a wireless mic. The only means that Shure currently has of making the BG 4.0 into a wireless microphone is by using one of our bodypack wireless systems. You can get an adapter cable (model WA310) that will allow the BG 4.0 to plug into the bodypack transmitter.

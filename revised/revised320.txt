@@ -1,0 +1,74 @@
+Title: How do I connect a Crown CM311AE to a Shure bodypack?
+Id: 320
+Legacy Id: 327
+
+Question:
+How do I connect a Crown CM311AE to the TA4 connector on a Shure bodypack?
+
+
+Answer:
+
+	Note: The Crown CM-311AE is designed for wireless use and has an in-line module that is crucial for proper operation. This module provides equalization and bipolar power for the microphone element. The CM-311AE requires 3 to 10 volts of DC bias from the transmitter. A Shure transmitter provides 5 volts of DC bias. For questions about the Crown CM-311AE, please call Crown International (phone 219-294-8000).
+
+	
+
+	
+		
+			
+				Mic
+			
+				---
+			
+				Transmitter
+		
+		
+			
+				Red wire
+			
+				---
+			
+				Pin 2
+		
+		
+			
+				White wire
+			
+				---
+			
+				Pin 3 and Pin 4
+		
+		
+			
+				Shield
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+	
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

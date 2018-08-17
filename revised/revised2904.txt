@@ -1,0 +1,32 @@
+Title: Measuring current draw of battery powered transmitter or receiver
+Id: 2904
+Legacy Id: 3028
+
+Question:
+My Shure battery powered product seems to use batteries too quickly. How do I measure the device's current draw to make certain it meets specifications?
+
+
+Answer:
+
+	Here are step by step instructions:
+
+	
+		Determine the proper current consumption (draw) for your product. Look in the User Guide for this specification or contact Shure Applications Engineering. For this example, assume the device is a Shure wireless transmitter that uses AA batteries and that the specified current draw is180 mA (milliamps).
+	
+		From a local electronic supply store, obtain a digital multimeter,some test leads with small alligator clips, and freshAA batteries.
+	
+		Set the multimeterto mA and make certain to connect the leads to the correct jacks on the multimeter. 
+	
+		Insert one AA battery into the transmitter.
+	
+		Connect one of the test leads between the remaining spring in the battery compartment and the black lead going to the multimeter.
+	
+		Lay the positive end of the second battery into place.
+	
+		Hold the red lead from the multimeter onto the negative end of the second AA battery. 
+	
+		Power up the Shure device and measure the current draw. Current draw typically can vary by as much as +/- 20%. A current draw within this +/- 20% window is acceptable.
+	
+		To calculate how long a fresh battery should last, divide the current capacity of the battery by the current draw of the device. In this example, aAA alkaline battery has a current rating of 1400 milliamp hours; the device draws173 milliamps. 1400 divided by173 equals8 hours of operation. This would be the maximum operational time that the battery could supply; it will be likely be less.
+
+

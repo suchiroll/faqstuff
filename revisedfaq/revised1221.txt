@@ -1,0 +1,16 @@
+Title: Mating plug for FP33 external power input.
+Id: 1221
+Legacy Id: 1265
+
+Question:
+I am coming to over to the US to work with an FP33. I will be bringing my own external powering but am in need of specifications of the type of jack plug required.
+
+
+Answer:
+
+	The FP33 requires a DC coaxial power female (jack) with the inner diameter being 2.5mm. Outer diameter of 5.5 mm.
+
+	
+
+	An example is part number SC1051-ND available from www.digikey.com. The FP33 DC input is non-polarized and will handle 12 to 30 volts of DC.
+

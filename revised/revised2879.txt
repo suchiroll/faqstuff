@@ -1,0 +1,15 @@
+Title: Replacement stylus for M97ED
+Id: 2879
+Legacy Id: 2999
+
+Question:
+My Shure distributor tells me that N97ED (replacement styli for the M97ED) are no longer available. He advised me to contact applications to see if possibly the Ne97ED would fit, or what other options my customer might have.
+
+
+Answer:
+
+	1) As of November 2003, there are no directly replacement styli available for the M97ED. All are discontinued.
+	
+	2) The N95ED stylus will work. It does not have the stabilizer brush and it looks strange because of the unusual design of the M97ED body.
+	
+	3) The N97xE stylus will work. It does have the stabilizer brush. It also looks strange because of the unusual design of the M97ED body. But the N97xE magnet does not properly align with the M97ED pole pieces. Therefore output level and frequency response will be negatively affected.

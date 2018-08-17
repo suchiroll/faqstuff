@@ -1,0 +1,21 @@
+Title: Health and lifetime of MXW rechargeable batteries
+Id: 4367
+Legacy Id: 5458
+
+Question:
+How many cycles can I get out of rechargeable batteries used on MXW Microflex Wireless?
+
+
+Answer:
+
+	The following graph answers this question best. This is a small sample size and there will be variation in individual batteries, as well as other parameters, such as temperature, that can change the heath of the battery.
+	
+	80% health means that you will get 80% of the run time.
+	
+	At lower than 80% health the battery degrades rapidly and the battery meter can be inaccurate. It is recommended to replace the battery when the health is below 80%.
+	
+	When using the batteries, the number of cycles and health of your actual battery can be displayed on the Utility Tab of the MXWAPT GUI.
+
+
+	
+

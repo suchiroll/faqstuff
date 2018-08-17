@@ -1,0 +1,28 @@
+Title: P-popping with MX gooseneck mic
+Id: 4061
+Legacy Id: 4596
+
+Question:
+We have approximately 50Model MX412D/S microphones we use for our battle command.We currently receive a lot of P-popping sounds when speakers talk.Normally they sound clear, but occassionally they "pop" a lot when spoken into. Is there a reason why?Any suggestions?As I mentioned...they do sound clear overall when doing mic checks/common use.
+
+
+Answer:
+
+	The P-popping is called a plosive;it originates from a blast of air that hits the mic element.The S element being used (supercardioid) is very sensitive to plosives.
+	
+
+	Idea #1:To reduce the plosive without changing the mic element, add a Shure windscreen model A99WS or A412MWS.
+	
+
+	Idea #2:Remove the S mic element (it unscrews) and replace with the model R183B - omnidirectional element.Add the A99WS and the mic will be be 99% free of plosives.There may be an increase in background noise using the R183B, so I recommend trying it on one mic only as an experiment.
+	
+
+	Read below to learn about the many advantages of an omnidirectional mic:
+	
+	Answer Title: Why should I use an omnidirectional microphone?
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/p-popping-with-mx-gooseneck-mic
+
+	
+	Answer Title: Directional Mic compared to an Omnidirectional Mic
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/p-popping-with-mx-gooseneck-mic
+

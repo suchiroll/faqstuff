@@ -1,0 +1,18 @@
+Title: Shock problem with mic and guitar amp
+Id: 1892
+Legacy Id: 1952
+
+Question:
+I just purchased an SM58, and I really like the sound and all but when I am rehearsing with my band and singing, along with playing the electric guitar , I am shocked on my mouth when I touch it accidentally. My question is, is this shocking occuring because of my guitar (usually very distorted) or is there some sort of problem with my microphone? thank you
+
+
+Answer:
+
+	There is nothing wrong with the SM58, but your guitar amp appears to be leaking AC current onto its chassis. Your guitar cable connects to the guitar amp chassis. Your guitar strings are connected to the guitar cable. When your hands are on the strings, your body is connected to leaking AC current via the strings, the cable, and the guitar amp chassis. When your lips touch the metal mic grill (which is connected to AC ground via its own cable), you complete the circuit with the leaking AC current flowing through your wet lips to the mic grill.
+
+	Have a competent guitar amp technician check your guitar amp for AC current leaking onto the amp chassis. Take this very seriously! If the AC current leakage gets worse, you could burn your lips or suffer a dangerous electrical shock. Also, we suggest you contact the maker of your guitar amplifier.
+
+	Please read this link: https://www.questronix.com.au/tingles.htm
+
+	A neon test lamp, available from a local hardware store for less than $10, provides a method to test for this situation.With all cable connections made, and all audio equipment powered up: 1) Touch the guitar strings with one probe of the neon lamp, 2) Touch the other neon lamp probe to the metal mic grill.3) If the neon lamp illuminates, there is AC current leakage indicating the possibility of electrical shock.
+

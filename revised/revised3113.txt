@@ -1,0 +1,12 @@
+Title: Directional antenna with SLX receiver
+Id: 3113
+Legacy Id: 3246
+
+Question:
+Can I use a remote directional antenna with my SLX receiver? What would the model number be?
+
+
+Answer:
+
+	See our online Wireless Accessory Wizard.
+

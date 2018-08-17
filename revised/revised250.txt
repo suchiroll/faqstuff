@@ -1,0 +1,26 @@
+Title: Comparing sensitivity of SM57 and SM58
+Id: 250
+Legacy Id: 256
+
+Question:
+Still just a little confused on sensitivity specs
+
+
+I understand measuring at 74 and 94 dB and how to convert, but:
+
+
+The SM57 specs show -54.5 dBV/Pa at 94 dB SPL -- that's clear.
+
+The SM58 specs show -74.5 dB with a reference to 0 dB = 1 v/ìbar -- is the 58 spec measured at 74 dB or at 94 dB?
+
+
+Bottom line -- is the 57 more sensitive (at -54) than the 58 (at -74)? or is it a test procedure issue?
+
+
+Answer:
+
+	The 1 Pascal rating that you quote for the SM57 is using a 94 dB SPL input level. That is, 1 Pascal is equal to a sound pressure level of 94 dB.
+	
+	The SM58 spec that you quoted is using a 74 dB SPL input. That is, saying "0 dB = 1 v/ìbar" is equivalent to saying "74 dB SPL input". Those two phrases are exactly the same.
+	
+	So, if you do the conversion, the SM57 and SM58 have the same input sensitivity.

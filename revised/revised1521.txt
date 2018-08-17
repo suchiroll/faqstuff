@@ -1,0 +1,36 @@
+Title: 565S and SM58
+Id: 1521
+Legacy Id: 1575
+
+Question:
+I have an old 565 microphone and really like it. It is the model that
+
+screws on the top of the stand rather than going into a clip. A friend
+
+bought an SM58 and it just plain old doesn't sound anywhere as good. What
+
+model is there that is comparable in sound to my old mic.
+
+
+
+
+---- 08/22/2001 12:12 PM ----------------------------------------------
+
+The old microphone is model 565S Unisphere I Dynamic and the new is an
+
+SM58. Is the old microphone high impedance only or is it dual impedance? I
+
+hope This is what you needed.
+
+
+
+
+Answer:
+
+	Please verify the exact model numbers of each mic. (Shure does not make a "SM585".) Also, tell us to what device you are connecting the mics. With this information, we might be able to help.
+	
+	At 08/23/2001 12:49 PM we wrote - The 565S and the SM58 are nearly identical. They should sound very similar if both are working properly.
+	
+	The 565S was dual impedance. The SM58 is only low impedance. If the 565S is set to high impedance, the SM58 will require a Shure A95UF transformer to equal the sound of the 565S.
+	
+	If the 565S is set to low impedance and the SM58 does not sound similar, there could be a problem with the SM58.

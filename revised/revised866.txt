@@ -1,0 +1,11 @@
+Title: What does "Frequency Synthesized" mean?
+Id: 866
+Legacy Id: 893
+
+Question:
+I was wondering if "frequency synthesized" in the UHF systems means that they are PCM encoded?
+
+Answer:
+
+	Frequency synthesized means the operating frequency is not controlled by a crystal, but synthesized by an electronic circuit, typically a Phased Locked Loop (PLL) circuit. It has no relationship to PCM encoding.
+

@@ -1,0 +1,12 @@
+Title: S36B Part Number
+Id: 4685
+Legacy Id: 5854
+
+Question:
+What is the part number of the S36B mic stand supplied with the model 5575LE microphone?
+
+
+Answer:
+
+	90A25909 is the part number for the S36B mic stand.
+

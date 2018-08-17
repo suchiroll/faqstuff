@@ -1,0 +1,15 @@
+Title: Firmware Failed to Update or Install on P4800
+Id: 2959
+Legacy Id: 3087
+
+Question:
+I tried to update the firmware on the P4800 and it failed. Now the unit does not respond.
+
+
+Answer:
+
+	When a firmware upgrade fails and / or the P4800 won't start up, re-do the firmware upgrade through the front panel RS-232 port (instead of the rear panel RS-232 port). Force the firmware upgrade by going to File menu and selecting "Firmware Upgrade."
+	
+	This is the only known instance where the front panel RS-232 port acts differently than the back panel RS-232 port.
+	
+	If this still does not resolved the issue, contact Shure Service to have the P4800 repaired.

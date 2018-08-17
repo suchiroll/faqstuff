@@ -1,0 +1,15 @@
+Title: SM94 for Bluegrass?
+Id: 2294
+Legacy Id: 2379
+
+Question:
+I run sound for bluegrass festivals. It seems that the SM94 is a possible selection for the acoustic guitar. I am looking to have 5 vocal and 5 instrument mic's on stage. Is the SM94 going to work for Mandolin, Banjo, Dobro, Fiddle as well as acoustic guitar. Reason asking is I would like to have matching microphones on stage. Will the SM94 work well for a vocal mic also?
+
+
+Answer:
+
+	Is the SM94 going to work for Mandolin, Banjo, Dobro, Fiddle as well as acoustic guitar?
+	* The SM94 will handle the frequency range of every instrument you listed. We do suggest the SM94 be mounted in the A53SM shock mount. This mount will greatly reduce the mechanical stage vibrations that travel up the mic stand into the SM94.
+	
+	Will the SM94 work well for a vocal mic also?
+	* Yes, but it has no pop protection, so a singer should be no closer than 6 inches to the mic grill. Also, the SM94 does not have the typical "presence peak" that is typical of vocal mics. Therefore, the SM94 will sound more "neutral" (less bright) than most vocal mics.

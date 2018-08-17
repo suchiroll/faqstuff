@@ -1,0 +1,19 @@
+Title: Can I use two (or more) wireless microphones with one receiver?
+Id: 15
+Legacy Id: 15
+
+Question:
+Can I use two (or more) wireless microphone transmitters with one receiver?
+
+
+Answer:
+
+	No, this will not work.  A wireless receiver can only demodulate the signal from one active mic-transmitter at a time. But you may use one transmitter or the other, as long as only one transmitter is powered up at any time.
+	
+	Operating two wireless mic-transmitters on the same frequency simultaneously is the same as having two FM radio stations transmitting on the same frequency. The audio would be garbled and distorted as the signals from both stations interfere with each other.
+	
+	If you wanted to listen to five FM radio stations at the same time, you would need five radio receivers - each receiver tuned to one of the five FM stations. The same applies to wireless microphones.  It is the quantity of receivers that determines how many mic-transmitters can operate at the same time. 
+	
+	Note 1: There are wireless receivers that are Dual units, or Quad units.  These devices have the electronics for multiple receivers contained inside of a single enclosure.
+	
+	Note 2: In certain situations, a facility may have multiple transmitters (all tuned to the same frequency) located in different rooms and then will bring a receiver to each room as required.  This will work as long as only one transmitter is powered on; the others must be powered off.    

@@ -1,0 +1,12 @@
+Title: Banjo Mics
+Id: 2282
+Legacy Id: 2364
+
+Question:
+Wondering your recommendations for mic application for stage performances on the 5-string banjo. Been using SM57's for a long time but thought there has to be some new technology available. I know SHURE is always on the leading edge.
+
+
+Answer:
+
+	Try a condenser mic like the KSM137. It will sound quite different than the SM57. But we cannot predict if you will like the condenser mic sound better that the SM57 dynamic mic. That decision is up to your ear.
+

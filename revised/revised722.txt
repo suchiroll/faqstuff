@@ -1,0 +1,66 @@
+Title: What are the differences between a FP33 and FP32A?
+Id: 722
+Legacy Id: 740
+
+Question:
+Please give the spec differences between the FP33 and FP32A. Is the signal patch different? Is it quieter?
+
+
+Can you replace the pots on the FP32A with the same ones on the FP33? Digikey or manuafacturer number?
+
+
+Can the FP32A be modified to have less noise? Is there any kind of trade in program to have it updated?
+
+
+Answer:
+
+	Shure FP33 vs FP32A: Whats new?
+
+	Controls
+
+	
+		Precision, sealed, conductive plastic input potentiometers for quieter, more reliable operation.
+	
+		Higher torque potentiometers aid in avoiding accidental rotation.
+	
+		10% tolerance potentiometers provide better gain alignment when comparing one input channel to another.
+	
+		Internal Left/Right headphone level trimmer pots (20dB range) allow adjustment for level differences between mixer program signal and Monitor In signal.
+	
+		Separate slide switch activates 1kHz tone oscillator.
+	
+		Optional modification electronically links the clutched Left and Right Master controls for single knob control of FP33 output.
+
+
+	Circuit Design
+
+	
+		Internal 9V batteries serve as backup when using an external power source. Switch over to internal supply occurs when external supply is 11.4 V or less.
+	
+		External power supply circuit is fused to prevent field failures due to incompatible external power schemes. Replacement fuses included.
+	
+		Tone oscillator feeds directly into the Master control.
+	
+		Tone oscillator mutes all inputs when activated.
+	
+		Reduced input gain (6 dB less) accommodates high output condenser microphones.
+	
+		Optional internal modification reduces input gain by an additional 8 dB.
+	
+		Tape Out jack now in phase with XLR inputs.
+	
+		Monitor In jack now in phase with Headphones jacks.
+
+
+	Connectors
+
+	
+		New, more durable 3.5mm mini-phone jacks for Headphone Out, Tape Out, and Monitor In provide firmer grip to mating connector.
+
+
+
+
+	The pots from the FP33 cannot be used on the FP32A. The pots have a completely different footprint and physical size. The board on the FP33 had to be redesigned to accomodate these new pots. If you are having problems with the pots on the FP32A, contact our Service Department at 800-516-2525.
+	
+	The FP32A is an extremely quiet mixer. The FP33 and FP32A have the same output and input noise specification.
+

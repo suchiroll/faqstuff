@@ -1,0 +1,12 @@
+Title: SM12A ear piece volume control
+Id: 2305
+Legacy Id: 2390
+
+Question:
+I have a SM12A that I use as my primary mic and on-stage monitor when I perform in my band. I would like to add some kind of volume control that would allow me to adjust the volume at will on the ear piece? I currently plug the 1/4" plug into one of the output plugs in our stage monitor.
+
+
+Answer:
+
+	See the SM12A User Guide.  It shows a schematic of a simple volume control that can be built with Radio Shack parts.
+

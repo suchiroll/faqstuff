@@ -1,0 +1,90 @@
+Title: PG81, SM94, 849, BG 5.1, or BG 4.1 XLR connector is loose
+Id: 285
+Legacy Id: 292
+
+Question:
+We have 9 BG 5.1 mics. One has had the XLR connector slide out of the bottom. Looking in the end, I can see the slot for the key on the 3 pin holder, and the hole for the reverse thread screw to tighten into. But I cannot get to the outside of that hole because the battery compartment cover does not slide all the way off after unscrewing it. How to reattach the connector securely?
+
+
+Answer:
+
+	Taking Apart a BG4.1 or BG5.1
+	
+		
+			
+				
+					
+						Unscrew the microphone handle (A) and slide downward to expose the battery compartment.
+					
+						Remove screw B.
+					
+						Carefully slide the closing ring/grille assembly (C) up and over the microphone capsule.
+					
+						Turn the microphone over, and remove the screw (D) on the back of the PC board.
+					
+						Gently push in the switch/PC board assembly (E) until the switch actuator is recessed inside of the microphone.
+					
+						Slide the handle (A) up and over the top of the microphone, taking care to clear the switch.
+					
+						There is a small copper spring tab (F) that will fall out of the handle. Be careful not to lose this piece. When you are reassembling the microphone, place this tab (with the center “dimple” facing out) into the raised retaining bosses near the base of the mic (G). Hold it in place as you slide the handle back down over the top.
+					
+						Reassemble the microphone in reverse order.
+				
+				
+			
+			
+				
+		
+	
+
+			
+				
+					
+						
+							
+								
+									
+										
+											XLR Connector Wiring
+									
+									
+										
+											White
+										
+											--
+										
+											Pin 1
+									
+									
+										
+											Black
+										
+											--
+										
+											Pin 1
+									
+									
+										
+											Green
+										
+											--
+										
+											Pin 2
+									
+									
+										
+											Brown
+										
+											--
+										
+											Pin 3
+									
+								
+							
+						
+					
+					
+						
+				
+			
+		

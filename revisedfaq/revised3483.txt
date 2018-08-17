@@ -1,0 +1,86 @@
+Title: MX396 switch functions, logic functions, wiring scheme, phantom power requirements, and other technical matters
+Id: 3483
+Legacy Id: 3680
+
+Question:
+Please provide details on the switch functions and the logic functions of the model MX396. And any other details that may be useful for my installation of the MX396.
+
+
+Answer:
+
+	Technical aspects of the MX396 Dual Element and the MX396 Tri Element
+	
+	Phantom power (12 to 48 Vdc) must be applied to each element in the microphone.Operating current for the LED is supplied by phantom power. The LED brightness will diminish with a phantom voltage lower than 48 Vdc.The Tri-element model draws 19 mA at 48 Vdc; the Dual-element model draws 17 mA at 48 Vdc.[Each mic preamp draws 2 mA and the LED draws 13 mA; the LED current is divided equally between conductors.]NOTE: Two (or more) elements should not be paralleled into a single mic input, as the phantom power current required could exceed the maximum current available from the mic input.
+	
+	DIP Switch Orientation:With the cable channel at 3 oclock, the DIP switch is at 7 oclock.DIP switch 1 is on the left.
+	
+	To activate the low-cut (bass) audio filter, set internal DIP switch #4 to the UP position.
+	
+	The external switch on the MX396, labeled PUSH, is factory set for momentary operation. In the factory setting, the audio signals from all mic elements are muted (via the mics internal circuitry) when the switch is pushed and held. The LED ring illuminates Green when the mic elements are active; Red when the mic elements are muted. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	The MX396 may be configured as Push-To-Talk. In this setting, the audio signals from all mic elements are activated (via the mics internal circuitry) when the switch is pushed and held. The LED ring illuminates Green when the mic elements are active; Red when the mic elements are muted. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	The MX396 may be configured as Push-On/Push-Off. In this setting, the audio signals from all mic elements alternate between activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic elements are activated. The LED ring illuminates Green when the mic elements are active; Red when the mic elements are muted. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	The MX396 may be configured as Push-On/Push-Off, but with the initial start-up state being audio muted. In this setting, the audio signals from all mic elements alternate between activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic elements are muted. The LED ring illuminates Green when the mic elements are active; Red when the mic elements are muted. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	The MX396 may be configured with the mic elements always activated, bypassing the internal muting function. The audio signals may be muted by the automatic mixer or teleconferencing device to which the MX396 is connected. The MX396 red wire is the TTL Switch Out connection and the MX396 silver un-insulated wire is the TTL ground. When the MX396 external switch is pushed, the red wire falls to 0 Vdc, in relation to the silver wire. When the MX396 external switch is released, the red wire rises to +5 Vdc, in relation to the silver wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - NO EFFECT
+	DIP switch #3 - UP
+	
+	The MX396 may be configured with the mic elements always activated, bypassing the internal muting function, but with alternate switch action in place of momentary. The audio signals may be muted by the automatic mixer or teleconferencing device to which the MX396 is connected. The MX396 red wire is the TTL switch out connection and the MX396 silver, un-insulated wire is the TTL ground. When the MX396 external switch is pushed, the red wire falls to 0 Vdc, in relation to the silver wire. When the MX396 external switch is pushed again, the red wire rises to +5 Vdc, in relation to the silver wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - NO EFFECT
+	DIP switch #3 - UP
+	
+	To control the LED ring from an external source, set DIP switch #3 to UP. The LED ring will illuminate Green when the MX396 LED In Black wire is connected to the Logic Ground bare Silver wire. The LED ring will illuminate Red when the Black wire is NOT connected to the bare Silver wire. This connect/disconnect function may be handled via an external switch, your fingers (as a test), a relay, or a TTL gate on an automatic mixer or signal processor. Setting DIP Switch #3 to UP also bypasses the internal audio mute function of the MX396.
+	
+	The MX396 is supplied with a 20 foot attached cable.The cable is bare-ended; it does not have connectors.Cable diameter is 0.25.Cable exits the MX396 at 3/8 out from the center.Cable can be routed downward through the table surface or parallel to the table surface.
+	
+	Color code for the cable wires:
+	
+	White - Mic 1 Audio +
+	Green - Mic 1 Audio -
+	
+	Orange - Mic 2 Audio +
+	Blue - Mic 2 Audio -
+	
+	Yellow - Mic 3 Audio + (Tri-element only)
+	Gray - Mic 3 Audio - (Tri-element only)
+	
+	Red - Switch Out TTL Logic (+5 Vdc or 0 Vdc); OK to parallel multiple Switch Outs
+	Black - LED In (external control via switch, relay, or TTL gate); OK to parallel multiple LED Ins
+	Silver - Logic Ground (used with Red wire and with Black wire); insulated with a short section of black, heat-shrink tubing; OK to parallel multiple Logic Grounds
+	
+	Shield - Common Ground for all Mic Elements; Shield surrounds the Mic Audio wires; no insulation on this Shield wire
+	
+	
+	
+	The mic element near the Shure logo on the rim of the MX396 is element #3.
+	The mic element near the H in PUSH is element #1.
+	The mic element near the P in PUSH is element #2.
+	
+	The MX396 rests on four rubber feet that place the mic 1/16 above the table surface.
+	
+	MX396 with CRESTRON CONTROL DEVICES
+	In October 2011, Shure learned that certain Crestron controllers can be configured to disable +5 V pull-up resistors used for the TTL outputs.If these pull-up resistors are disabled, the MX396 LED functions and MX396 Switch functions may not operate as described above.
+

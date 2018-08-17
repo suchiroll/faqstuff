@@ -1,0 +1,14 @@
+Title: Two Beta 98 mics into one bodypack transmitter
+Id: 4815
+Legacy Id: 6001
+
+Question:
+Is there a splitter/adapter that will connect two Shure Beta 98 mics into one body pack transmitter input jack ?
+
+
+Answer:
+
+	No such adapter is offered by Shure. It is not recommended to connect two Beta 98 mics into one transmitter.  The transmitter may not supply enough bias current to satisfy both mics. Then, themics may distort at a lower SPL level.
+
+	You may try this if you wish. No damage will occur to the mics if they paralled together using a fabricated Y-cable.
+

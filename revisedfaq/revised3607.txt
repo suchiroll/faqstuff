@@ -1,0 +1,14 @@
+Title: SRH840 Cable Replacement
+Id: 3607
+Legacy Id: 3813
+
+Question:
+I am wondering about replacing the coiled cord with some shorter and with a smaller plug for portable use. 1. Can you tell me what I'd be looking for in a replacement cord? My understanding is that I'd need a 2.5 to 3.5 adaptor and then a cord. 2. But does the bayonet locking system interfere with my options for that adaptor?
+
+
+
+Answer:
+
+	1) The connection at the headphone is a 2.5 mm plug/jack. The locking mechanism is unique to the Shure cable. The opening in the headphone has a restriction of 6 mm in diameter so the mating 2.5 mm plug must have a diameter of less than 6 mm. Recommend that you take the headphones to Radio Shack and try different plugs/adapters.
+	
+	2) Sorry, Shure currently only offers one cable length. Your request was sent to Product Planning and perhaps a shorter cable will be offered in the future.

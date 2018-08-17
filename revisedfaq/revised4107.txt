@@ -1,0 +1,19 @@
+Title: Wireless Mics for Bagpipes
+Id: 4107
+Legacy Id: 4755
+
+Question:
+I play the bagpipes and would like to know what wireless mic you recommend? I need to mic the chanter and the drones. Thank you for your help.
+
+
+Answer:
+
+	1) Recommended wireless system:Shure Axient Digital series
+	
+
+	2) Recommended mics:MX150 seriesOne placed on the shirt front near the chanter. One worn over the ear for the drones. The following link provides a simple method for transforming the MX150 into an earworn microphone: Earworn Microphone
+
+	
+	3) An electronics technician can fabricate a Y-cable that will connect both MX150 mics into one body pack transmitter.
+	
+

@@ -1,0 +1,22 @@
+Title: Miking a church orchestra
+Id: 2425
+Legacy Id: 2519
+
+Question:
+Which mics are best to use and where should I place them for live reinforcement and recording of our church orchestra? Right now we have severalBG4.1 micsand we get a lot of brass on our woodwinds!
+
+
+Answer:
+
+	To see what microphones we recommend for orchestra, please see our online Selection Guide at:
+	Selection Guides
+	
+	The BG 4.1 is a fine choice for miking an orchestra.
+	
+	If the mics are picking up too much brass, then you have the following two choices:
+	
+	1) Move the microphones closer to the woodwinds.
+	2) Get the orchestra to balance better acoustically. That is, have the brass play softer.
+	
+	Also read our Microphone Techniques for Music books at: Educational Articles - Online booklets and bulletins
+

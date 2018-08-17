@@ -1,0 +1,31 @@
+Title: ULX transmitter with a SLX receiver
+Id: 3078
+Legacy Id: 3209
+
+Question:
+Is there a way that a ULX transmitter can be used with an SLX receiver?
+
+
+Answer:
+
+	Yes. There is an overlap of frequencies between the ULX and SLX systems: the J3 frequency range on the SLX and the J1 frequency range on the ULX. 572 MHz to 590 MHz is shared between the J3 and J1 bands.
+	
+	The Groups and Channels are not the same between the two systems, so the ULX transmitter must be placed into the Master List Mode to align it with the SLX receiver.
+	
+	First, find out the actual frequency of the receiver, assuming that you have done a scan upon setup to find the best Group and Channel for that location. Find the frequency by pushing the Menu button on the front of the receiver four times until you see Display Frequency , then quickly push and hold the Select button. A six digit number that ends in MHz will appear. Note that frequency; it must be above 572 MHz and below 590 MHz.
+	
+	Next, take the ULX transmitter and the ULX User Guide Supplement for J1. This document, as well as the regular ULX user guide will not come with the ULX transmitter. They are supplied only when you buy a complete ULX system. If you have Internet access you can download the documents from from the Shure web site.
+
+	For the ULX User Guide: http://pubs.shure.com/guide/ULX/en-US
+	For the ULX User Guide Supplement for J1:http://www.shure.com/frequency-charts/wireless_compatchart_ulx_tp.pdf
+
+	Using the supplementary guide, look up the frequency from the SLX receiver. The left hand column shows the Master Code Group and Channel. For example: Frequency 584.350MHz is Master Code Group/Channel setting F213.
+	
+	With the transmitter on, hold the Set button down for about 12 seconds until you see the display show horizontal bars and then the letters: Fr Ch The display will show E000 or F000, or something like this.
+	
+	Hold the Mode button down until only the Group numbers are shown. With the Set button, scroll until you get to the first part of the 4 digit number. (For example, F2 for the Group setting of F213.)
+	
+	Then push the Mode button again until you see only the Channel numbers. Using the Set button again, scroll until you get to the second part of that 4 digit number.
+	
+	Press and hold the Mode button again and you will the letters Fr Ch, then horizontal bars, and then the full four digit number. The antenna light on the SLX receiver should illuminate and the ULX transmitter should be working with the SLX receiver.
+

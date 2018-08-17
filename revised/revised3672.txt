@@ -1,0 +1,11 @@
+Title: Apple iPad and Shure SE Series Earphones
+Id: 3672
+Legacy Id: 3881
+
+Question:
+Will the SE series of earphones work with the Apple iPad?
+
+
+Answer:
+
+	Yes, the SE series have a straight 3.5 mm stereo male mini-phone plug.   The style of plug does fit the recessed earphone jack in the iPad.

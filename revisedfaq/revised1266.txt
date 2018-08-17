@@ -1,0 +1,13 @@
+Title: Which cable should I use for my SM58?
+Id: 1266
+Legacy Id: 1313
+
+Question:
+We have SM58 microphones and we need cables for them. Can you please let me know which cable to order and the price of the cable.
+
+
+Answer:
+
+	That depends on what connector you need on the other end of the cable and how long you need the cable to be.
+	
+	Our most popular XLR to XLR cable is the C25J.

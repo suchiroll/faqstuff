@@ -1,0 +1,23 @@
+Title: M367, M267, or M67 Replacement or Alternative
+Id: 3531
+Legacy Id: 3735
+
+Question:
+Is there a mixer on the market that has similar features to the discontinued M367, M267, or M67?
+
+
+
+Answer:
+
+	Consider these alternatives:
+
+	Shure SCM268 mixer- four mic/aux inputs and one aux only input
+
+	Shure SCM800 mixer-eight mic/line inputs and one aux only input
+
+	Professional Sound ProMix-6 mixer
+
+	Studio Technologies 740, or 742, or 750 mixer
+
+	Sound Devices field mixers
+

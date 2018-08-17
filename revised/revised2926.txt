@@ -1,0 +1,21 @@
+Title: Expanding the PA821 with a PA760 or PA770
+Id: 2926
+Legacy Id: 3052
+
+Question:
+Can I expand the PA821 by linking a PA760 or PA770?
+
+
+Answer:
+
+	It is possible to use a PA760 or PA770 with the PA821:
+	
+	On the front panel of the PA821 is a bnc jack labeled "MAIN OUT." To the right of this is a group of 3 bnc jacks labeled "EXPANSION PORT."
+	
+	Connect a short bnc-to-bnc cable (included with the PA821) from the "MAIN OUT" bnc jack to the "A IN" bnc jack of the expansion port.
+	
+	Use an additional bnc-to-bnc cable to connect from the "ANTENNA OUT" bnc jack on the rear of the PA760 (or PA770) to the "B IN" bnc jack of the expansion port.
+	
+	Finally, connect an antenna (or cable and antenna) to the "A + B OUT" bnc jack. This is now the combined output of the PA821 and the PA760.
+	
+	The section labeled "EXPANSION PORT" is actually a high-quality passive 2-into-1 combiner. Since it is passive it does introduce a loss of about 3.5dB in the combined output signal. However, this should not significantly reduce the overall capability of the systems.

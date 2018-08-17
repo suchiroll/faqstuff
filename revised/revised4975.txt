@@ -1,0 +1,72 @@
+Title: Shure 522 with Yaesu two-way radio 757GX
+Id: 4975
+Legacy Id: 6240
+
+Question:
+I just received my new Shure 522 yesterday. I purchased it to be used on a Yaesu FT-757GX MK1. I can't seem to understand how to wire this mic to the 757gx or what position the impedance switch should be set at. The Yaesu FT-757GX MK1 has a microphone impedance of 500-600 ohms ohms through an 8-pin mic connector.
+
+Here is the standard wiring information for this 757gx:
+
+pin 1 up button
+pin 2 shield for audio
+pin 3 down button
+pin 4 fast button
+pin 5 fast button
+pin 6 PTT
+pin 7 ground wire (common)
+pin 8 audio
+
+Any help would be greatly appreciated.
+
+
+
+Answer:
+
+	
+		1) 522 impedance switch must be set to LO.
+	
+		2) The 522 cannot control the UP/DOWN feature of the radio.
+	
+		3) Wiring:
+	
+		
+			
+				522 Green Wire to pin 8
+		
+	
+	
+		
+			
+				522 White Wire to pin 7
+		
+	
+	
+		
+			
+				522 Shield (it encircles the Green and White wires) to Pin 2
+		
+	
+	
+		
+			
+				522 Red Wire to pin 6
+		
+	
+	
+		
+			
+				522 Black wire to pin 7
+		
+	
+	
+		If the above wiring does not work, provide the 522 User Guide to Yaesu and ask their opinion.
+	
+		
+		Also, read below:
+	
+		Will microphone model X work with my device that needs a mic?
+
+
+
+	Customer reply: The wiring worked perfectly.
+

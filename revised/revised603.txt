@@ -1,0 +1,29 @@
+Title: Wireless mic for home parapalegic use
+Id: 603
+Legacy Id: 615
+
+Question:
+I'll try to keep this concise.  A friend of mine is paralyzed from the neck down.  He breathes with the help of a ventilator and tracheostomy.  He cannot use his hands, and cannot speak very loudly, however his speech is clear.
+
+Presently, he is able to answer and make phone calls, operate his TV VCR TiVo, listen to his audio system, control his HVAC, his blinds, cameras around his house (you get the idea) all through voice recognition software (Dragon systems).  He uses a Shure mic jacked into his computer's sound card, and some Visual Basic programs written by himself, his friends, and me.  You'd have to see it to believe it.  Just a quick aside, we use a constrained vocabulary in Dragon(that is, Dragon is looking for specific words); he is not dictating text.  
+
+Right now he is tethered to his computer.  He cannot move his motorized wheelchair without someone taking off his mic.  To you and I this is trivial, to him it's his Everest.
+
+Question:  Are we getting in over our heads if we try to go wireless?  The Shure UT seems like the system to me.  I visited your site, read over the 'Intro to Wireless Mic Systems', and 'Selection and Operation of Wireless Mic Systems', and briefly went through your Knowledge Base.
+
+A friend of mine thinks this is the way to go.  However after going through your site I realize there is more to this than meets the eye.
+
+Question: Our budget is somewhat limited, is there a less expensive way to go?  Do you know of rebuilt/used units that may be available.
+
+Please let me know if you can or cannot help.  Any direction you can give me will be deeply appreciated.
+
+Answer:
+
+	A wireless mic may be a good solution for your friend. We suggest the BLX system. The BLX series transmitter could be powered from the wheel chair battery. This will require some customized electronic work by a local electronics shop. Sorry, Shure does not offer customization services.
+	
+	Do not place the BLX receiver too close to the computer as some computers radiate RF interference. The proper location can only be determined by experimentation.
+	
+	Read more about wireless mics: https://www.shure.com/americas/support/find-an-answer/wireless-mic-for-home-parapalegic-use
+
+	
+

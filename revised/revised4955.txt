@@ -1,0 +1,14 @@
+Title: Shure OEM Microphones made for Montgomery Ward
+Id: 4955
+Legacy Id: 6220
+
+Question:
+Did Shure make microphones that were sold by Montgomery Ward?
+
+
+Answer:
+
+	Yes. Airline was the brand of electronic products sold by Montgomery Ward. Shure made three OEM Airline branded models: 62-7714, 62-7715, 62-7716.The microphones were sold as complementary accessories to Airline amplifiers and electric guitars.
+	
+	See PDF file attached below for the User Guides.
+

@@ -1,0 +1,12 @@
+Title: Can I use "plug-in-power" from my camcorder?
+Id: 279
+Legacy Id: 286
+
+Question:
+Can I use the "plug-in-power" capabilities of my DV camcorder (SONY DV-PC100) to power the Shure SM93 lapel microphone?
+
+
+Answer:
+
+	No. What Sony calls plug-in-power is actually Bias Voltage. The SM93 requires Phantom Power. You will need a phantom power supply. We recommend the Phantom Power adapter for camcorders made by Beachtek or JuicedLink.
+

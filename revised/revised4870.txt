@@ -1,0 +1,32 @@
+Title: MXA910 Crestron/AMX Control Strings
+Id: 4870
+Legacy Id: 6058
+
+Question:
+I want to control the MXA910 with a Crestron touchscreen. What are the API control strings?
+
+
+Answer:
+
+	The MXA910 can be controlled by AMX, Crestron, Extron, etc.
+	
+	The touch screen can control/monitor:
+
+	
+		Volume Controls
+	
+		Mute
+	
+		Metering
+	
+		Channel and Device Names
+	
+		Clip Indicators
+	
+		Gate Indicators
+	
+		More ...
+
+
+	The control strings can be found in the MXA910 User Guide.
+

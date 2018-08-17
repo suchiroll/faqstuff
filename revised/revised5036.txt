@@ -1,0 +1,20 @@
+Title: Shure Vagabond 88 Wireless Microphone System
+Id: 5036
+Legacy Id: 6328
+
+Question:
+I read about Shure introducing a wireless microphone system in 1953. If this is true, please provide details.
+
+
+Answer:
+
+	It is indeed true. In 1953, Shure introduced the worlds first professional wireless microphone system featuring a handheld transmitter. The system was named the Vagabond 88. The retail price was $700.00. The Vagabond 88 system was sold from 1953 until 1960.
+	
+	A system consisted of: 1 - Model 88T handheld transmitter; 1 - Model 88R two megacycle FM receiver; 1 -mic standadapter for the88T; 1 - lavalier cord and clip to hold the 88T;1 - coil of copper antenna wire; 1 - set of batteries consisting of a 30volt B battery and a 1.3 volt mercury cell.
+	
+	The active components were five subminiature vacuum tubes: three CK526AX tubes and two CK512AX tubes. These tubes were primarily employed for hearing aids.
+	CK526AX is a pentode power amp; filament voltage of 1.25 dc; plate voltage of 22.5 dc; 1.5 x 0.385 x 0.285
+	CK512AX is a pentode voltage amp; filament voltage of 0.625 dc; plate voltage of 22.5 dc; 1.25 x 0.385 x 0.285
+	
+	Details about the operation and installation may be found in the Installation and Service Manual attached below as a PDF file.
+

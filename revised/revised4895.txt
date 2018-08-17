@@ -1,0 +1,13 @@
+Title: GLX-D Battery Charging Question
+Id: 4895
+Legacy Id: 6153
+
+Question:
+On the GLXD4 receiver, does the unit have to be powered on to charge an inserted lithium battery?
+
+
+
+Answer:
+
+	It depends on the vintage of GLXD4 receiver. Older GLXD4 receiver must be powered ON to charge the battery. Later GLXD4 receivers (after June2017)can charge the battery without being powered on. If the GLXD4 receiver has a BC symbol on the back, then it can charge the battery without the receiver being powered on.
+

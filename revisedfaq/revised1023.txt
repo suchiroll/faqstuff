@@ -1,0 +1,24 @@
+Title: MX391BP vs MX393
+Id: 1023
+Legacy Id: 1053
+
+Question:
+I am buying a boundary microphone for a conference room (we had thought of a MX393/C) but the amplifier we will use has no phantom power.
+
+
+Could you please suggest me what should I do best and could you give me a reference on how much should that solution amount?
+
+
+What would be the price range for a phantom power supply or an MX1BP?
+
+
+Would it be about the same to buy a MX391BP instead of an MX393+phantom power supply, in terms of functionality and in terms of cost?
+
+
+In short which would be a good solution considering price?
+
+
+Answer:
+
+	If you do not have phantom power, the MX391BP/C would be a good choice. The only downside of the MX391BP is that it does not have a switch. Shures phantom power supply is model PS1A. Current prices can be found on the product pages of our web site.
+

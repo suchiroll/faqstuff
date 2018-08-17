@@ -1,0 +1,18 @@
+Title: SC1 excessive battery consumption
+Id: 1430
+Legacy Id: 1483
+
+Question:
+I am working with a customer that is complaining that their SC14/83 wireless mic is not lasting an acceptable amount of time with any kind of batteries that they are using. They have tried rechargeables (under 2 hrs of use) and alkaline/Duracells (2- 2.5 hrs of use). I have looked on your web site and have not found solid enough info to determine if this is an acceptable usage rate. If you could get any info to me or have any suggestions I would appreciate it. They have had the mic for about 8 months and this has been going on since day one.
+
+
+Answer:
+
+	Measure the current draw of the SC1 transmitter. If it is operating properly, it should draw from 60 to 80 milliamps.
+
+	A Duracell 9V alkaline battery provides 500 milliamp hours. Divide 500 by 80 and the result is 6 hours of operation.
+
+	2 hours of use with a Duracell indicates a 200 to 250 milliamp draw. If that is the case, the transmitter needs repair. Call Shure Service at 800-516-2525.
+
+	Measuring current draw of battery powered transmitter or receiver
+

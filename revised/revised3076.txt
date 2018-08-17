@@ -1,0 +1,18 @@
+Title: Low Battery Indicator on SLX4 Receiver
+Id: 3076
+Legacy Id: 3207
+
+Question:
+The church I work for recently purchased 4 SLX systems. The battery indicators on the transmitters work fine, but I've had a few of the transmitters at one bar on the battery indicator with no LOW BATTERY indicator at the receiver. At what point should the receivers tell me that the tranmitters battery is low, and how much time do I have at that point?
+
+
+Answer:
+
+	There are three things that will occur simultanously to indicate a low battery situation:
+	
+	1) The LED on the transmitter turns red.
+	2) The battery meter on the transmitter will show one remaining segment.
+	3) The low battery indicator on the receiver will be visible.
+	
+	When the transmitter LED turns red, change your batteries as soon as possible. At that point, there is perhaps 30 to 45 minutes left.
+

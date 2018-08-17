@@ -1,0 +1,12 @@
+Title: KSE1500 grid voltage
+Id: 4944
+Legacy Id: 6206
+
+Question:
+What grid voltage is used on the miniaturized electrostatic in an KSE1500 earbud?
+
+
+Answer:
+
+	The diaphragm has a bias of 200V DC; the stators are driven with 200V rails.
+

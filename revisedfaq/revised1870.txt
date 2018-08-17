@@ -1,0 +1,11 @@
+Title: Information on SM62
+Id: 1870
+Legacy Id: 1930
+
+Question:
+I recently came across 3 small silver microphones and found they were SM62's. I was wondering if I could get the specs on this mic & its intended purpose.
+
+
+Answer:
+
+	You can download the Data Sheet for the SM62 here:Discontinued User Guides

@@ -1,0 +1,11 @@
+Title: Earpad  material for SRH440
+Id: 3882
+Legacy Id: 4128
+
+Question:
+I would like to know what material the ear cushions of the SRH440 are made of. Leather or leather-like?
+
+
+Answer:
+
+	The SRH440 ear pads are made of polyurethane foam; the outer skin is made of “leatherette” which is a synthetic fiber covered with a soft PVC layer.

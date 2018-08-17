@@ -1,0 +1,17 @@
+Title: M97 stylus - NE97HE
+Id: 2752
+Legacy Id: 2859
+
+Question:
+You recently replaced an M95HE stylus for me. I think that it is missing a part. Could you examine the picture I have sent for futher explanation?
+
+
+The stylus on the left is a second old stylus that I want to send back for your stylus replacement program. It shows what is missing in the replacement of my first stylus. I can send the picture in a different formate if that helps.
+
+
+Answer:
+
+	The cartridge you show in the photo is the M97, not the M95. The NE97HE stylus is the correct replacement stylus for the M97.
+	
+	The missing plastic piece is not really missing; the NE97HE was designed this way so it could fit more cartridge bodies than just the M97. The missing piece is cosmetic only and does not affect the performance in any way.
+

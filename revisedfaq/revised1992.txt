@@ -1,0 +1,16 @@
+Title: Can a singer distort a microphone?
+Id: 1992
+Legacy Id: 2055
+
+Question:
+Hello. My wife has a very powerful voice and it seems to overdrive the mic. Even compression isn't helping. We have a good mix all night long, but people complain about her loud, high notes. Currently, she is using the Peavey PVM22. Is there a Beta mic that will help her out? Please let me know so I can buy a better mic. Thank you
+
+
+Answer:
+
+	For really strong singers, we recommend a dynamic mic, like the Beta 58 or SM58. A properly designed dynamic mic cannot be overdriven, except maybe by a Saturn V rocket.
+	
+	Condensor mics have internal electronics and these can be overloaded by a very strong singer.
+	
+	But a dynamic mic can produce such a strong signal that the signal will cause distortion at the input of the mixer. Learn to properly use the Input Attenuation control (also called Input Trim or Input Pad) on your mic mixer. If your mixer does not have such a control, that could be your problem, not the microphone.
+

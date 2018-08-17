@@ -1,0 +1,15 @@
+Title: RF distribution and antennas for ULX-D
+Id: 4217
+Legacy Id: 5192
+
+Question:
+How do I implement remote antennas and RF distribution of the ULX-D digital wireless?
+
+
+Answer:
+
+	See our online Wireless Accessory Wizard.
+	
+	See this book for best installation and design practices:
+	Antenna Set-up for Wireless Systems
+

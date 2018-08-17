@@ -1,0 +1,43 @@
+Title: Mute All or Unmute All from any Microphone
+Id: 4251
+Legacy Id: 5304
+
+Question:
+I require eight boundary mics on a table and they must operate as follows: (A) When the switch on any mic is touched, all mics are muted. (B) Once all mics are muted, they are unmuted when the switch on any mic is touched.
+
+
+Answer:
+
+	This can be accomplished by using one Shure SCM810 mixer, eight Shure MX392 mics, one RDL Logic Controlled Momentary Relay ST-LCR1, andone RDL Logic Controlled Latching Relay model ST-LCR2. RDL = Radio Design Labs.
+	
+	NOTE 1: This circuit concept will work with any Shure MX microphone that has SWITCH OUT, LED IN, and LOGIC GROUND wires.
+	
+	NOTE 2: This circuit concept will work with any Shure automatic mixer with TTL logic ports, such as the SCM410 or SCM820.
+	
+	NOTE 3: All steps below must be completed before the circuit can be tested.
+	
+	Wiring Configuration:
+	1)Powering the ST-LCR1 and the ST-LCR2: Use a single 24 Vdc power supply from Radio Design Labs.Connect using RDL instructions.
+	
+	2)ST-LCR1: Connect a resistor (1,000 ohms,  watt) between the PWR+ terminal (1st from left) and the relay #1 terminal (7th from the left.)
+	
+	3)ST-LCR1 to ST-LCR2: Connect a wire from ST-LCR1 relay #1 terminal 9 (9th from the left) to ST-LCR2 terminal 24V+ (5th from left.)
+	
+	4)ST-LCR1 to ST-LCR2: Connect a wire from ST-LCR1 GROUND terminal 4 (4th from left) to ST-LCR2 GROUND terminal 4 (4th from left.)
+	
+	5)Parallel eight MX392 SWITCH OUT wires, creating a SWITCH OUT bus. Connect this SWITCH OUT bus to the ST-LCR1 SLAVE terminal (3rd from left.)
+	
+	6)Parallel eight MX392 LOGIC GROUND wires, creating a LOGIC GROUND bus.Connect this LOGIC GROUND bus to the ST-LCR1 GROUND terminal 4 (4th from left.)
+	
+	7)Parallel eight SCM810 MUTE IN terminals, creating a single MUTE IN bus. Connect this MUTE IN bus to ST-LCD2 relay #1 terminal 7 (7th from the left)
+	
+	8)Connect the SCM810 LOGIC GROUND terminal to ST-LCR2 relay #1 terminal 9 (9th from the left.)Relay #1 will alternately connect and disconnect the SCM810 MUTE IN bus to the SCM810 LOGIC GROUND.
+	
+	9)Parallel eight MX392 LED IN wires, creating a LED IN bus. Connect this LED IN bus to ST-LCR2 relay #2 terminal 10 (10th from the left.) The MX392 LEDs are controlled as a group by ST-LCD2 relay #2.
+	
+	10)Connect ST-LCR2 GROUND terminal 4 (4th from left) bus to ST-LCR2 relay #2 terminal 11 (11th from the left.) When any MX392 switch is touched, the ST-LCR2 relay will activate. The MX392 audio will be muted (within the SCM810) by relay #1; the MX392 LEDs will be deactivated (when the mics are muted) by relay #2.
+	
+	11)Connect the eight MX392 audio signals into the eight Euroblock inputs of the SCM810. Refer to the SCM810 User Guide for proper settings.
+	
+	12)Refer to the MX392 User Guide for instructions on how to set the internal DIP switches.Each MX392 setting is DIP #1, #2, and # 4 = OFF; DIP #3 = ON.Each MX392 MUST be set to Momentary switch operation.
+

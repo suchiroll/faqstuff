@@ -1,0 +1,11 @@
+Title: XLR output cable for VP3 receiver
+Id: 3888
+Legacy Id: 4134
+
+Question:
+We have a wireless VP3-CV receiver. We need to connect it to a XLR3 (F). Is there a cable for this?
+
+
+Answer:
+
+	Shure cable WA450

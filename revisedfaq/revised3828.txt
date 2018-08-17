@@ -1,0 +1,32 @@
+Title: Shure TTR-101 test record
+Id: 3828
+Legacy Id: 4066
+
+Question:
+What can I find out about the TTR-101 test record? It was called "An Audio Obstacle Course."
+
+
+Answer:
+
+	The TTR-101 was introduced in 1967 as a companion to the Shure V15-II phono cartridge.It was a 33 1/3 rpm LP.The contents were:
+	
+	Side One
+	Band One: Introduction / explanation of the TTR-101 and how to use it.
+	Band Two: High-frequency mistracking test using orchestral bells.
+	Band Three: Mistracking test using drum and cymbals.
+	Band Four: Anti-skating test.
+	Band Five: Low-frequency mistracking test using a bass drum.
+	Band Six: Hum and rumble test using silent grooves.
+	
+	Side Two
+	Band One: Balance and polarity (phasing) test.
+	Band Two: Mistracking test using electronic organ (left channel).
+	Band Three: Mistracking test using accordion (left channel).
+	Band Five: Mistracking test using harpsichord (left channel).
+	Band Four: Band Three: Mistracking test using piano (left channel). Band Six: Mistracking test using electronic organ (right channel).
+	Band Seven: Mistracking test using piano (right channel).
+	Band Eight: Mistracking test using accordion (right channel).
+	Band Nine: Mistracking test using harpsichord (right channel).
+	
+	Sorry, the TTR-101 is no longer available.
+

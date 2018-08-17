@@ -1,0 +1,14 @@
+Title: Can the Beta 98 be connected to a wireless system?
+Id: 183
+Legacy Id: 184
+
+Question:
+I need a drum mic that I can connect to a wireless system. The Beta 98 is the perfect mic, but I'm not sure to which wireless system it can be connected. What kind of connector does it have? Could a wireless system replace the pre-amp?
+
+
+Answer:
+
+	Yes, the Beta 98 can be connected to a Shure wireless transmitter. Any Shure transmitter with a 4 pin Tini QG connector can be used with the Beta 98. The preamp that comes with the SM98 is not used when connecting the mic to a transmitter; only use the preamp when the Beta 98 is used in a wired configuration.
+	
+	However, the Beta 98/wireless combination will not the have the dynamic range of the Beta 98 used as a wired mic. This is due to the many technical and legal restrictions of wireless transmission. We suggest you audition the Beta 98 in the wireless configuration before you buy it. If it meets your requirements, great. If not, you will have to use the Beta 98 as wired mic to obtain the greater dynamic range.
+

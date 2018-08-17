@@ -1,0 +1,13 @@
+Title: MX392 and MX393 Keyhole Slots
+Id: 4132
+Legacy Id: 5019
+
+Question:
+Can you please tell me the required fastener size details for permanently installing the Shure MX392 boundary mic?
+
+Answer:
+
+	There are two key hole slots on the base of the mic. The slots are separated by 23 mm.
+	
+	The length of the slot is 10 mm; the widest part has a diameter of 6 mm; the narrow part of the slot is 3 mm. Therefore, the head of the fastener must be smaller than 6 mm, but wider than 3 mm.
+

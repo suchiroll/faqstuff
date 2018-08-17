@@ -1,0 +1,86 @@
+Title: MP3: Getting Your Music from the Garage to the Web
+Id: 2226
+Legacy Id: 2304
+
+Question:
+What is MP3? How do I create one?
+
+Answer:
+
+MP3: Getting Your Music from the Garage to the Web
+
+	Wouldn't it be great it there was a way to promote your music to millions of music fans across the world, and it wouldn't cost you a dime? The answer to this question lies in the form of the World Wide Web, and more specifically, the MP3 format. Aside from the normal costs associated with recording and producing a finished sound recording (compact disc or otherwise), distribution of your music on the Web is available at no charge from a variety of sources. The problem, of course, is how to get your music into MP3 format. If you already have your music recorded on CD, then the solution is as simple as downloading one of many popular "rippers" - programs that "rip" music from CDs onto your computer's hard drive and convert them to the MP3 format. If your next masterpiece is still in your head, or in the form of a basement boom-box cassette recording, it may take a bit more work. First, we'll take a look at exactly what MP3 is, and why it's such a popular format for getting music on the Web. Then we'll delve deeper into what it takes to get your music into your computer, into the MP3 format, and onto the Internet.
+
+
+What is MP3?
+
+	MP3 is nothing more than a file format for computers, no different than a document, spreadsheet, or, more closely related, a WAV sound file. For a computer to be able to store and play back a music file, the music needs to be "digitized." In the same way that a scanner creates a digital representation of a photograph by reducing the image to a string of 1's and 0's that can be stored and interpreted by a computer, a computer sound card or other input device "samples" the incoming audio information and converts it to a similar string of 1's and 0's. Windows-based PCs commonly use the WAV (.wav) file format for storing audio information, since this format offers the same quality that you can achieve with a compact disc. Macintosh computers rely on the AIFF format for sound files.
+	
+	At this point you may be thinking, "Then why bother with MP3? Can't I just use WAV (or AIFF) files to store and send my music with my PC?" The answer is: (1) yes, you can, but (2) you don't want to. The reason: file size. For example, to achieve CD-quality stereo audio, a WAV file will take up 10 MB (megabytes) of space for every minute of music. That means the average four-minute pop song will take up a whopping 40 MB! Not only does this rapidly eat up hard drive space, it makes downloading music a much longer process. Imagine a typical music fan trying to download the above song with a standard 56K modem - it would take from 100 to 200 minutes. That's a pretty big time investment to get a four-minute song from a band you've never heard of! Enter MP3.
+	
+	The term MP3 is short for "MPEG Audio Layer 3" (For the curious, MPEG is an acronym for Moving Picture Experts Group). In addition to being a file format, MP3 also refers to a standard for compressing audio files to reduce their size. Therein lies the primary reason for using the MP3 format: smaller files. Sound files can be reduced by as much as a factor of 12 and still retain a high level of audio quality. Is it CD quality? Not quite, but it's pretty close. Using MP3 format, the 40 MB WAV file from the previous paragraph can be reduced to less than 3.5 MB. The methods employed to reduce file size are called "perceptual audio coding techniques." (Huh?) Basically, the brilliant engineers who developed the MP3 standard found a way to reduce file size by "throwing away" the bits that contain information relatively useless to the way humans perceive sound. (Of course, there are other digital audio formats that use similar techniques. For instance, MiniDisc uses ATRAC compression to reduce file size, making it possible to fit 74 minutes of near-CD quality music on a tiny MiniDisc. But we digress...) Getting back to MP3, with the sound file now reduced to 3.5 MB, the download time will be 10 to 20 minutes with a 56K modem.
+	
+	The incredibly small file size of MP3, combined with high quality audio, has led to a virtual explosion of music available on the Web. Here's a quick list of things you'll need to get dialed-in to the MP3 phenomenon.
+
+
+	
+	First, get an Internet connection. AOL, local ISP (Internet Service Provider), cable modem, DSL, office computer (just kidding!) - it doesn't matter what you choose, just get one. The faster, the better.
+	
+	Second, make sure you have a sound card installed on your computer. In general, if your computer makes noise (besides the fan or start-up "beep"), you probably have one. Most newer systems come with the sound card pre-installed.
+	
+	Once you're connected, download a MP3 player. These are required to play MP3 files. There are many available, but some of the more popular players include Winamp (www.winamp.com). You can also download virtual "skins" for these players, which change the on-screen look of the player, and visualizations that create graphic representations of the music. Windows Media Player, Apple's Quicktime 4, and Real Player (www.real.com) will also play MP3s. The official MPEG site, www.mpeg.org, also has several players available for download. Offline, several Walkman-style portable MP3 players, such as the Diamond Rio, have appeared in recent months. These players allow you to load MP3 files into temporary memory and take your music with you.
+	
+	The next step involves downloading MP3 files to play on your computer. There are literally hundreds of places to get MP3s from on the Web. The obvious place to start is www.mp3.com, but if you wish to find files in other locations, searching "MP3" on any search engine will yield endless results. In fact, in 1999, MP3 replaced another popular three-letter word as the most searched-for term on the Internet. See the end of this article for an extended list of MP3-related sites.
+
+
+	Now that you've experienced MP3, let's discuss how to use this format to get your music online.
+
+
+How do I make an MP3?
+
+	Musicians who want to create MP3 files of their songs fall into two categories: those who have their music recorded onto compact disc, and those who don't. If you already have a finished CD, skip the rest of this section, and download one the CD "rippers" listed in the next one. If your music is yet to be recorded, read on and learn!
+	
+	The key to a quality MP3 is a quality recording. MP3 uses a "lossy" compression scheme to reduce the size of the audio files, which means that bits of the sound are thrown away, or "lost." What this means is that, while the differences are slight, a less than ideal recording will be degraded even further by the MP3 encoding process. With that being the case, it's therefore important that you use whatever means necessary to achieve a high-quality recording. The how's and why's of creating a good recording are beyond the scope of this article, but microphone choice and placement are critical to achieving good results.
+	
+	Microphone choice is highly dependent on the instruments you are recording, as well as the style of music. If you use an inexpensive microphone that doesn't capture your sound the way you envision it, no amount of "tweaking" later on in the recording process will restore it. At the very least, a decent quality condenser microphone and a couple of multi-purpose dynamic microphones will get you through most general recording situations. As your needs and recording ability grow, so will your microphone collection. For help in choosing which microphones to use, see the Solutions for Home Recordists.
+	
+	To learn more about microphone placement and technique, see Microphone Techniques for Music: Studio Recording, published by Shure. This free publication is a great resource for help with the placement of microphones, as well as insight into the more technical aspects of microphones and how they work.
+	
+	Choosing a recording format is also an important task, and one that has become a bit daunting lately. There are many different ways to record your music, each with its own set of benefits and drawbacks. Unless you plan on recording at a professional studio, stick to one of the many digital recording formats available today.
+	
+	The traditional tool of the home recordist for the past 15 years or so has been the cassette-based 4-track studio. While a convenient tool for songwriting, achieving a professional sounding recording with the cassette medium is nearly impossible. Pro studios that use analog recording mediums make use of expensive multitrack recorders that use 1" and 2" tape, which are vastly superior to cassettes. Since this gear is prohibitively expensive for the independent musician, go digital.
+	
+	A number of affordable digital formats have hit the market in recent years, and most far exceed the limited sound quality of the cassette. If you're comfortable with the 4-track format, investigate MiniDisc multitracks, or stand alone hard-disk recorders. The MDM (Modular Digital Multitrack) formats, such as ADAT and Tascam DA88, have revolutionized the home recording market. If computers are your thing, then digital recording is as simple as getting a decent sound card and multitrack recording software. Some sound cards will allow you to connect microphones directly to their audio inputs. You'll also need plenty of disc space for storage. See the Shure Technical Bulletin, Microphone Connected to a Computer Sound Card, to learn more about connecting microphones to your computer. For additional help in choosing the right recording format, check out a few of the many magazines and Web sites dedicated to home recording and project studios.
+
+
+The music is recorded. Now what?
+
+	Now that your music is recorded, it's time to make an MP3. At this point, you need to get the songs into your computer. There are several ways this can be done; choose the one that seems most appropriate for your situation.
+
+
+	
+	If you have a finished CD of your music, download a "ripper" program and use it to digitally "rip" the audio off the disc. Steambox Ripper, Play & Record, and MusicMatch are "rippers" for Windows; SoundJam MP works for Macintosh. This procedure requires a CD-ROM drive installed in your computer. If you don't have a CD-ROM drive, but your sound card has a digital input, you can use a CD player with a digital output to record onto your computer (see below).
+	
+	If you used a computer to record, you're most of the way there. Be sure to mix down to a single stereo sound file for conversion to MP3 (the format does not support conversion of multitrack audio beyond stereo).
+	
+	If you used an external digital recorder, such as a 4-track MiniDisc or hard disk system, those units usually come equipped with a digital output. If your sound card has a digital input, use it to transfer the audio digitally from the recorder. The two most popular types of digital interfaces are S/PDIF, which uses RCA-type connectors, and optical, which uses a special fiber-optic cable. If your recorder and sound card digital interfaces don't match up, there are external converter boxes that will convert between the two formats. There is also a third type of digital interface, AES/EBU, which uses XLR connectors and is only found on higher-end, pro gear.
+	
+	None of the above: If worse comes to worse, you can always record through the analog input of a sound card. Be sure the input record level is set as high as possible without clipping to allow for the most accurate recording. This method will work for CD, MiniDisc, and (yuck!) cassette. But whenever possible, work in the digital domain.
+
+
+	The next step involves yet another piece of software, commonly referred to as an MP3 encoder. This handy little piece of programming does all the hard work involved in converting a sound file to an MP3. You still have some choices to make, the most important of which is "bit rate." The bit rate you choose determines the size of the file and the audio quality. The standard on most MP3 sites is 128 kb/s (kilobits per second). It is not CD quality sound, but it is the most common "encoding rate" used. There are many different programs that will let you convert audio into MP3 format: MusicMatch, Real Jukebox, and Streambox Ripper are just a few. Most of these encoders are freeware or shareware. You can browse a variety of encoders at MP3.com (www.mp3.com/) or the Shareware Music Machine (www.hitsquad.com/smm/). A few multitrack software programs also include MP3 encoding as part of their feature set. n-Track, a shareware multitrack recording program (www.fasoft.com) gives you the option to create an MP3 file as it's creating a stereo WAV.
+	
+	Lower encoding rates yield smaller files, higher encoding rates result in bigger files. For example, a typical 3-minute song encoded at 128 kb/s will be around 3 MB. If you were to encode the same song at 64 kb/s it would be 1.5 MB. At 192 kb/s it would be about 4.5 MB. Audio quality generally increases at higher bit rates, but people downloading songs with a dial-up modem will hesitate to download files over 5 MB. Conversely, you wouldn't encode a great song at 64 kb/s, because the end result would pale in comparison to the original. Most MP3 sites prefer your music be encoded at 128 kb/s.
+	
+	Depending on the software you're using, several more options present themselves that will affect the outcome of the encoding process.
+
+
+What do I do with my MP3s?
+
+	Congratulations! With your newly encoded MP3 files, everyone will be able to enjoy your music. After you upload, that is. In order for people to hear your music, they need to be able to find it. As mentioned earlier, there are tons of places on-line where you can distribute your MP3s. But it's up to you to get them there. Each site has its advantages, disadvantages, and idiosyncrasies. And of course, new ones are springing up all the time. We recommend spending some time at each one, learning what you like and don't like, what the upload process is, and if any fees are involved.
+
+
+A note about legal stuff.
+
+	All of this is fun until someone loses an eye - or a royalty. MP3 has opened the door for an efficient, free exchange of music on the Internet. But be warned, uploading OR downloading unauthorized MP3 files of someone else's music is illegal. Period. Feel free to upload as much of your own original material as you wish; it's a great way to reach a lot of people. "Ripping" copyrighted songs from your favorite CD and making them into MP3 files for your own personal enjoyment is also perfectly legal - your computer becomes a virtual jukebox. But if a friend copies those same MP3 files for their use, the artist has just lost a well-deserved royalty. The losses compound if the files are posted on a web site for anyone to use. (Napster is being sued for facilitating this practice.) The RIAA (Recording Industry Association of America) is already moving to restrict the MP3 format through their Secure Digital Music Initiative, which is developing a standard for secure distribution of music on the Internet. Visit www.riaa.com for additional information.
+

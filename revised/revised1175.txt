@@ -1,0 +1,17 @@
+Title: Broadway type headworn
+Id: 1175
+Legacy Id: 1217
+
+Question:
+I am wondering what kind of microphones are used in the Broadway musical today.  You see them on the top of their forehead, not by their mouths. They can be cagily places underneath a wig or hair.  Can you please send me some information of these types of microphones, cost and where I may purchase them.
+
+Answer:
+
+	Please see the following link to our online FAQ:
+	
+	Theater Audio - How do I correctly use lavalier microphones in theater applications?
+	
+	Lavalier microphones, such as the WL50 are typically used.
+	
+	The WL50 can be purchased from any Shure dealer.
+

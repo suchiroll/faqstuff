@@ -1,0 +1,17 @@
+Title: Beta 87 will not work with some mic cables
+Id: 2475
+Legacy Id: 2570
+
+Question:
+My Beta 87 works will some cables and not others. The cables are not bad, because when I plug a SM58 in, it works.
+
+
+Answer:
+
+	The Beta 87 requires phantom power to operate; the SM58 does not. Make certain the mixer input for the Beta 87 is providing phantom power.
+	
+	The Beta 87 must be used only with an XLR to XLR cable.
+	
+	The Beta 87 cannot be used with any sort of in-line transformer.
+	
+	Perhaps the cables that do not work are wired unbalanced; this is where pin 2 or pin 3 is also tied to pin 1. Unbalanced cables will not work with the Beta 87.

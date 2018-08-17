@@ -1,0 +1,17 @@
+Title: Availability of PS40 inline power supply
+Id: 470
+Legacy Id: 480
+
+Question:
+Our PS40 inline power supply is fried.  Was wondering the price and availability of a replacement.
+
+
+
+Answer:
+
+	You can get a replacement from our Parts Department. For pricing and availability, contact our Parts Department at 800-516-2525.
+	
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/ProAudio/ServiceAndWarranty/index.htm
+

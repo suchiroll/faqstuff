@@ -1,0 +1,12 @@
+Title: AC Power Source to charge the GLXD1 transmitter
+Id: 4449
+Legacy Id: 5550
+
+Question:
+Just receive my GLX-D and GLX6. The construction is AMAZING! So, its come with USB power cable but... where is the AC power Source? Do I have to buy an AC outlet with USB port?
+
+
+Answer:
+
+	Supplied with the GLXD16is the model:SBC-USB-MICROB.It is in a small white box.Inside is the AC adapter with a USB jack.
+

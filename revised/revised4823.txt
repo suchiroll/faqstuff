@@ -1,0 +1,12 @@
+Title: DIS-CCU vs CU 6105
+Id: 4823
+Legacy Id: 6009
+
+Question:
+What's the difference between the DIS-CCU central control unit and the CU 6105 central unit?
+
+
+Answer:
+
+	Compared to the CU 6105, the DIS-CCU with FL6000 Feature License offers 4 additional analog audio outputs, 2 additional DCS-LAN chain connections, the ability to control conference units for up to 250 participants without additional feature licenses, included VOX voice activation capability, and included Basic Voting capability.
+

@@ -1,0 +1,17 @@
+Title: Where does the DFR11EQ go in the signal chain?
+Id: 559
+Legacy Id: 570
+
+Question:
+I am planning very seriously to purchase a DFR11EQ. But still I have a question regarding the functionality of your product. Is there any possibility that I connect this processor via mono in order to use it with 2 or 3 mics simultaneously? Would it respond well this way? I want to know this because my budget would be really jeopardized if I consider having 1 DFR for each channel, and the stereo mode is not really important for me. Your kind answer will really help me out.Thanks a lot,
+
+
+At 01/13/2001 06:56 PM you wrote - Thank you so much for your reply, I was amazed by the efficiency and quickness of your response. Still,I´ve seen in a few pro sound gear retailer websites, that they refer to the product we have talked about as a DFR11EQ5, note the "5" at the end. Is this a different or newer model? Thanks again and best regards.
+
+
+Answer:
+
+	The DFR11EQ should be placed between the mixer and the amplifier. Therefore, you can run as microphones as you wish into the mixer. The DFR11EQ will have no problem with 3 microphones plugged into your mixer. The DFR11EQ is a mono device and does not offer a stereo mode.
+	
+	At 01/13/2001 08:40 PM we wrote - The DFR11EQ5 is the newer version 5 of the hardware and software. Version 5 software can be used with older version 3 and version 4 hardware.
+

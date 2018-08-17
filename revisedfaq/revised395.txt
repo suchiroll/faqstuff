@@ -1,0 +1,11 @@
+Title: Is the MX412D a push to talk or mute mic?
+Id: 395
+Legacy Id: 402
+
+Question:
+I need a push to talk microphone for a classroom setting. Is the MX412D/C a good choice?
+
+Answer:
+
+	The switch on the MX412D is completely customizable. You can make it push to talk, push to mute, or push on/push off. There are DIP switches on the preamp in the base that allow the mute switch to be customized. The MX412D/C would be a good choice for a your application.
+

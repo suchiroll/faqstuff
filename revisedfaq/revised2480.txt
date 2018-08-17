@@ -1,0 +1,17 @@
+Title: Info on model MK-0009 microphones
+Id: 2480
+Legacy Id: 2575
+
+Question:
+I have just come into possession of two old Shure mikes in new unused condition. They are hand-held, push-to-talk communications mikes. They have the model number, MK-0009 on them. The controlled reluctance element has the number 99C86 HA.
+
+
+Can you tell me what these are? Specifically, I need to know if these are high impedance or low impedance.
+
+
+Answer:
+
+	MK-0009 is not a standard Shure model number. It is an OEM model number; a mic that Shure made for another manufacturer. Once an OEM model is discontinued, all records of the model are sent to the OEM purchaser.
+	
+	The only information we have: The MK-0009 was based on the Shure model 404B. It was low impedance. It was made for R.F. Communications Inc.
+

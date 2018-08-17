@@ -1,0 +1,66 @@
+Title: How do I remote mount VHF wireless antennas?
+Id: 501
+Legacy Id: 511
+
+Question:
+I need to rack my VHF wireless receiver in an equipment room. To get good reception, I need to remote the antennas into the same room that the transmitter is in. How do I properly do that?
+
+Answer:
+
+	Remote Antennas for VHF Wireless Microphones
+
+	Antennas are measured in terms of the wavelength of the signal that they are designed to pick up. The standard antenna supplied with Shure VHF wireless systems is a 1/4-wave, meaning that it is 1/4 of the length of the radio wave being received.
+
+	For good performance, the following guidelines should be observed when remote mounting antennas:
+
+	
+		Use 1/2-wave antennas. Do NOT remote-mount the standard 1/4-wave antennas supplied with the wireless system. When this antenna is removed from the receiver chassis, its impedance changes dramatically. This causes a significant loss of signal strength, because part of the signal is reflected back into the antenna by the cable. A 1/2-wave antennas performance stays the same regardless of how it is mounted.
+	
+		Place antennas properly. Antennas should be mounted away from large metal objects or surfaces, which cause reflections that can reduce signal strength. Antennas should also be kept away from sources of RF energy, such as computers, digital devices, AC power equipment, etc. For best diversity performance, antennas should by placed from 1/2-wavelength to 1 full wavelength apart (3 to 6 feet for VHF). Wider separation between antennas does not offer significant benefit. For diversity wireless systems, both antennas must be located in the performance area, and connected to the receiver via separate coaxial cables.
+	
+		Use the appropriate antenna cable. For proper performance, the impedance of the cable MUST match the impedance of the antenna input on the receiver (50 ohms). An impedance mismatch causes some of the signal to be reflected back into the cable, resulting in a loss of signal level. Do NOT use common RG-59 cable, which is designed for television signals and has an impedance of 75 ohms. Different types of cable exhibit different amounts of signal loss over a specified length. More than 3 dB of loss should be considered unacceptable. It is not necessary for both antennas on a diversity receiver to be connected to identical lengths of cable; ideally, each antenna should be connected to the minimum length of cable necessary to reach the remote mounting position.
+	
+		For very long cable runs, an RF amplifier can be used at the antenna to boost signal level, but it also amplifies the background RF noise in addition to the transmitters signal. In such cases it may be better to locate the entire receiver closer to the performance area, and run a long audio cable to the mixing console. A long audio cable (balanced and line level) is less likely to pick up interference than a long antenna cable. (Appropriate VHF amplifiers are manufactured by Winegard; their telephone number is 319-754-0600.)
+
+
+	
+
+	
+		
+			
+				Cable Length from Antenna to Receiver
+			
+				Appropriate Cable Type
+			
+				Signal Loss per 100 ft.
+		
+		
+			
+				Up to 50 feet
+			
+				RG-58C/U
+				(Belden 8262 or similar)
+			
+				7.5 dB per 100 ft.
+		
+		
+			
+				50 to 100 feet
+			
+				RG-213/U
+				(Belden 8267 or similar)
+			
+				2.7 dB per 100 ft.
+		
+		
+			
+				Over 100 feet
+			
+				RG-8/U
+				(Belden 7810A, 9913 or similar)
+			
+				1.8 dB per 100 ft.
+		
+	
+
+

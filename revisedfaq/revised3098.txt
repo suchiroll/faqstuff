@@ -1,0 +1,12 @@
+Title: MX692 Current Draw
+Id: 3098
+Legacy Id: 3231
+
+Question:
+What is the average current draw of the MX692? Is any current drawn when the MX692 is off?
+
+
+Answer:
+
+	The nominal current draw is 60 milliamps. When the MX692 is powered off, the current draw is zero.
+

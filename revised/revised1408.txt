@@ -1,0 +1,14 @@
+Title: Are the wireless mic elements  interchangeable?
+Id: 1408
+Legacy Id: 1461
+
+Question:
+If I have a U2-Transmitter with a Beta87a/c head unit(element), can I use additional elements such as Beta58 or even SM58 or SM87? Can they be purchased, and is it cost effective to purchase the Elements separate from the entire assembly(transmitter only)? Also what about phantom power differences between Beta and non Beta heads, is this supplied by the capsule? I read on your web site that the elements on the SC-Series can be changed is this also true for the U-Series as well?
+
+
+Answer:
+
+	Most, but not all Shure handheld transmitters has removable mic elements. Check the User Guide if uncertain.
+	
+	All Shure wireless mic elements for Shure wireless handheld transmitters are interchangeable. The bias powering schemes are common to all. In brief, mix and match the Shure wireless heads as you wish, assuming your transmitter model has a removable mic element.
+

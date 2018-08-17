@@ -1,0 +1,13 @@
+Title: Locking CVG18 gooseneck so it cannot be stolen
+Id: 4941
+Legacy Id: 6203
+
+Question:
+I've recently bought a CVG 18 gooseneck, and I need to know how to lock the mic to my church pulpit so I can't be stolen.
+
+
+
+Answer:
+
+	Sorry, there is no anti-theft feature for the CVG-18. We suggest securing a metal hose clamp to the mic section that protrudes below the mounting surface. The hose clamp will make the mic body too large to pull upward though the plastic ring. A hose clamp may be purchased at a hardware store.
+

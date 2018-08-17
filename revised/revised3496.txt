@@ -1,0 +1,28 @@
+Title: Using the Shure PTH (Push To Hear) device with in-ear monitors
+Id: 3496
+Legacy Id: 3695
+
+Question:
+Can I use the Shure PTH (Push To Hear) device with my in-ear monitors?
+
+
+Answer:
+
+	The answer is "Yes."   Here is the first hand experience of a professional musician in Colorado:
+	
+	I think the Shure PTH is a pretty slick little piece of hardware. The idea behind it is fantastic, and the purpose it serves is quite nice. I have been placing the PTH inline between my In Ear Monitor receiver and my custom molded In Ear Monitors (IEM). The IEMs that I use are highly isolating and a chore to take out and re-insert every time I need to speak with someone. Furthermore, since I use these IEMs onstage with a band, the communication between band members suffers as I can only hear what is being said on stage if it is said directly into a microphone or if I take my IEMs out. I initially hoped that this device would serve as an aide to our band's communication on stage.
+	
+	The PTH unit works great for this purpose. During a song I can hear everything in my IEM without any ambient noise or coloration. This allows me to hear and play with the band as needed. Once the songs have ended and band members need to communicate on stage, I'm simply able to press the button on the PTH and hear my fellow band mates. This serves us very well at practice where we are constantly changing and working through new songs. Communication in these settings is tantamount to our progression. The  microphone is very sensitive as well. This is a plus as I am often running to an external soundboard to make changes to individual mixes. By employing the PTH unit, I can hear what each band member is saying to me without them shouting their sound needs into a microphone for the entire audience to hear.
+	
+	The only challenge I have been experiencing with the PTH unit is where to physically place it on my body for ease of use and highest quality of sound transmission. I connect my IEMs to a wireless receiver that is kept in my back pocket. I then snake my IEM cable up through the inside of the back of my shirt. This keeps my cable from catching on my guitar strap as well as provides a low-profile to my IEMs. However, putting the PTH unit inline with this positioning wasn't very conducive to it's use. With the Freeport microphone then placed squarely in the middle of my back, under my shirt I was pretty much unable to hear a thing. Reaching into my back pocket to activate the unit was quite cumbersome as well. After a practice like that, I then repositioned the PTH unit to my front left pocket and clipped the Freeport microphone to a belt loop. I then rerouted my IEM wires to that belt loop. The PTH unit is much more natural to operate with the unit sitting squarely in my left pocket and much more accessible.
+	
+	This solution worked much better, however, having the microphone placed at my waist reduces the clarity of what others are saying a bit due to the microphone rubbing against my jeans. Furthermore, my guitar often covers up the microphone. All it takes is for me to remember to consciously move my guitar when I want to hear. This positioning works well, however the sound quality isn't quite what it is when I have the microphone sitting unobstructed on my chest (as is recommended). But I figured that would be the case going into this experiment.
+	
+	Otherwise, the sound fidelity is fantastic. So far it has proven to be a very durable little unit, very easy to operate, and a pretty good solution to my communication problems with other members of my band. The only thing I wish it had was a port to plug in an external lav microphone for maximum versatility in positioning. Being able to plug a mic with a longer cable (like any standard Shure Lav mic) would give me the best of both worlds. I could keep the PTH unit in my pocket, but run the mic up to some other non-obtrusive place where I could maximize sound quality.
+	
+	I'm sure you weren't really considering this usage when creating the PTH unit. However, I've already recommended it to the other fellows in my band. We'll just continue working with it to see if we can keeping making our experience better.  Great product!
+	
+	To contact the author of this review, here is a link to his band: www.theridemusic.com
+	
+	IMPORTANT: The PTH is designed to operate at normal levels of conversation. The microphone in the PTH is not designed for use during high SPL (Sound Pressure Level) situations.  This means that the PTH mic signal could be distorted  if activated while a band is performing. Note that the PTH mic will not be damaged by high SPL.
+

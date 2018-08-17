@@ -1,0 +1,20 @@
+Title: PGX1 and Countryman E6 headworn mic
+Id: 3249
+Legacy Id: 3402
+
+Question:
+I'm using a Countryman E6 headworn mic with the PGX1 transmitter. If the PGX1 gain switch is set to MIC, I hear distortion. When the gain switch is set to 0, I don't get enough output from the PGX4 XLR output. Any ideas?
+
+
+Answer:
+
+	1) Set the PGX1 gain switch to 0 to avoid distortion.
+	
+	2) Use the PGX4 1/4 phone jack output instead of the XLR output, but keep this cable connected to the XLR input on the mixer. The 1/4 output has 14 dB more gain that the XLR output.
+	
+	3) Wire the connecting cable as follows:
+	
+	XLR pin 2 - tip of 1/4 phone plug
+	XLR pin 3 - sleeve of 1/4 phone plug
+	XLR pin 1 - to cable shield but no connection at the 1/4 phone plug
+

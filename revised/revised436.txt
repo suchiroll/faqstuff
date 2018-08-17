@@ -1,0 +1,16 @@
+Title: Uses for 55S
+Id: 436
+Legacy Id: 444
+
+Question:
+I just found a 55S unidyne mic. I was wondering what application fits it the best before going on a search for the right connector cable.
+
+
+Answer:
+
+	You can download the Data Sheet for the 55S.
+	
+	The first few paragraphs provide typical uses for this microphone. The main application was vocal use.
+	
+	Connector and cabling information.
+

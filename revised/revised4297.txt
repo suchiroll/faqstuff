@@ -1,0 +1,12 @@
+Title: UL Listing for Wired Microphones
+Id: 4297
+Legacy Id: 5366
+
+Question:
+Do wired microphones have UL (Underwriters Laboratory) safety listings? Or any other type of safety listing?
+
+
+Answer:
+
+	No. As a wired microphone does not create a hazardous voltage and does not require a hazardous voltage to operate, a UL listing or other similar safety ratingis not required.
+

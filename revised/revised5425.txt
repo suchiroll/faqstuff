@@ -1,0 +1,33 @@
+Title: MXA910 enabling AES67
+Id: 5425
+Legacy Id: 6396
+
+Question:
+How do I turn on and use AES67 and the MXA910?
+
+Answer:
+
+	AES67 for the MXA910 is setup from within Dante Controller (version 3.10 or higher).
+
+	
+		Update the MXA910 to the latest firmware using the Shure Update Utility. AES67 is supported onMXA910firmware versions 2.0 and greater.
+	
+		Use the MXA910 GUI to setup the microphone lobes.
+	
+		If you have more than one MXA910, it is worth changing the device name. This name will be used to identify the mic in Dante Controller. In the MXA910 GUI, select SETTINGS, change the DEVICE NAME, then click the Push to Dante button. 
+	
+		In Dante Controller, double click the MXA910 to open the Device View.
+	
+		Select the AES67 Config tab (red arrow). Enable AES67 (blue arrow). Reboot the MXA910 (yellow arrow). 
+	
+		Each lobe on the MXA910 corresponds to a channel in AES67. While still viewing the Device View in Dante Controller, click the Create Multicast Flow button. The Create Multicast Flow window will open.
+	
+		Select AES67 Flow (red arrow). Select the channels that you with to add to the AES67 flow (blue arrow). Click Create (yellow arrow). 
+	
+		While still viewing the Device View in Dante Controller, select the Transmit tab. A list of all the transmit flows created for the MXA910 as well as the Multicast IP address and Multicast Flow Number will be shown. Verify that these are correct. 
+	
+		The MXA910 is now setup.
+	
+		For the receiving device, consult the manufacturers documentation on how to set it up to receive the AES67 flow.
+
+

@@ -1,0 +1,13 @@
+Title: Connecting a Shure mic to an amateur radio
+Id: 4464
+Legacy Id: 5574
+
+Question:
+How do I connect a mic to my amateur radio? Which wire goes to which pin?
+
+
+
+Answer:
+
+	Sadly, there are no standards within the two-way amateur radio market. Ham radios, CB radios, Single Side Band radios all have different mic input specificationsand different pin configurations. The document below (from 1981)has all the information available at Shure. If your radio is not in this document, please contact the radio manufacturer for assistance; Shure has no other information to share.
+

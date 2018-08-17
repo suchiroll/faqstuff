@@ -1,0 +1,12 @@
+Title: mic for uileann pipes
+Id: 878
+Legacy Id: 905
+
+Question:
+I am seeking information on how best to mic up an instrument native to Ireland - i.e. the Uuleann (pronounced illen) pipes. I have aquired an SM58 to mic the chanter section of the instrument but am not sure on how best to mic the drones - these have a larger area to be mic'ed up (approximately half a meter) and need something that is responsive in this area....? what do you recommend?
+
+
+Answer:
+
+	A wonderful instrument, the uileann drones should be miked with a flat response condenser mic, like the Shure KSM44, KSM32, KSM27, SM81, or KSM137. Each model has a pick-up angle of 130 degrees. Envision this angle and make certain the drones are within this angle.
+

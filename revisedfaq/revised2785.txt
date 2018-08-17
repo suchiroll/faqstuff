@@ -1,0 +1,16 @@
+Title: A15LA Maximum Input Signal Level
+Id: 2785
+Legacy Id: 2893
+
+Question:
+What is the maximum input signal level for the A15LA?
+
+
+Answer:
+
+	The resistors in the A15 series are 1/8 watt. Here are is a conservative estimate:
+	
+	A15LA - maximium line level peak to peak audio signal: 50 volts (+34dBV)
+	
+	It cannot handle the output of a power amplifier because of the high current.
+

@@ -1,0 +1,24 @@
+Title: Rubber plug for MX400SMP
+Id: 3928
+Legacy Id: 4177
+
+Question:
+What are the dimensions of the rubber cap/plug supplied with the MX400SMP? It is used to protect the connector opening when a mic is not attached to the MX400SMP.
+
+
+Answer:
+
+	The part number for this plug is 66A11907. This circular plug/cap is black rubber.It protects the MX400SMP connector opening when a mic is not connected.
+
+	
+
+	The diameter of the plug top is0.797 inch.The plug top has a gentle radius, i.e., it is rounded.
+
+	
+
+	The diameter of the lower part that fits into the MX400SMP connector opening is 0.627 inch.
+
+	
+
+	The total length is 0.349 inch.
+

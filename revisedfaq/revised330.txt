@@ -1,0 +1,75 @@
+Title: How do I connect a Beyer MCE5.9 to a Shure bodypack?
+Id: 330
+Legacy Id: 337
+
+Question:
+How do I connect a Beyer MCE5.9 to the TA4 connector on a Shure bodypack?
+
+Answer:
+
+	To make this modification it is necessary to remove the connector or preamp attached to the microphone cable. This will require disassembling the connector or preamp and unsoldering the attached cable or simply cutting off the cable at the strain relief. Once this is accomplished, the following color codes configuration can be applied to equip the exposed cable with a Switchcraft TA4F connector for mating with the Shure wireless transmitter.
+
+	
+
+	
+		
+			
+				Microphone
+			
+				---
+			
+				Transmitter
+		
+		
+			
+				Inner Shield (bias)
+			
+				---
+			
+				Pin 2
+		
+		
+			
+				Green Wire (audio)
+			
+				---
+			
+				Pin 3 and Pin 4
+		
+		
+			
+				Outer Shield (ground)
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+
+	
+
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

@@ -1,0 +1,29 @@
+Title: Microphone Array Primer
+Id: 4881
+Legacy Id: 6139
+
+Question:
+Please provide an explanation of a microphone array and its applications.
+
+
+Answer:
+
+	What is a microphone array?
+	By definition, any microphone devicethat consists of multiple elements combined electrically can be considered an array. However, the manner in which the elements are combined plays a criticalrole in achieving desired behavior from the array. Simply placing a bunch of microphones in close proximity and summing them together will not likely produce any useful effect.However, precise transducer layout coupled with advanced signal processing can provide advantages.
+	
+	What are the benefits of a microphone array?
+	A conventional microphone array achieves a narrower polar pattern than a single-element microphone.However, this directionality benefit has often been minor and offset by limited frequency response and/or fixed directional orientation.Sophisticated transducer design and signal processing can substantially increase the sound quality and versatility of an array, and a well-designed advanced array with signal processingcan offer benefits compared to conventional single-element microphones or conventional arrays. The benefits may include:
+	
+	* Highly directional pickup lobes: An advanced microphone array can produce beam-widths narrower than a shotgun microphone. In certain situations, narrowed beam-widths can deliver improved speech intelligibility compared to a conventional microphone or traditional array. With acceptable room acoustical conditions, an advanced microphone array can be placed farther from the talkers, even mounted on the ceiling, with satisfactory results.
+	* Multiple pickup lobes:An advanced microphone array can provide multiple pickup lobes that emanate from a single location but point in different directions.This can eliminate the need for multiple single-element microphones placed on a table or hanging from the ceiling.
+	* Steerable pickup lobes:In advanced microphone arrays, the width and direction (horizontal plane and vertical plane) of individual pickup lobes can be configured to provide pickup at very specific locations, such as specific talker positions around a conference table. This makes it possible for one advanced array to cover a rectangular table with participants seated at different distances and different angles relative to the advanced array.
+	
+	What are the best applications for an advanced microphone array?
+	An advancedmicrophone array, particularly a ceiling mounted array, is best suited for conference applications where audio from the array is sent to another location and/or recorded.Excessive background noise or reverberation in a meeting room may make the use of suspended single-element microphones inadvisable, while an advanced microphone array may provide acceptable results in the same room.
+	
+	Shoulda ceiling microphone array be used for sound reinforcement?
+	The basic rules of Potential Acoustic Gain predict that acoustical feedback is more likely as the microphone gets closer a to a loudspeaker, and when the microphone is farther away from the talker. Therefore, a single-element ceiling microphone, even a conventional microphone array, has a distinct disadvantage if employed for sound reinforcement. It should be noted that the narrow pickup lobes of an advanced microphone array combined with the ability to precisely control where those lobes are aimed can provide sound system designers with some flexibility in creating avoice lift sound reinforcement system in a meeting room. Such a system can be difficult to properly design and implement because of the many acoustical variables within a meeting room. But with careful design involving loudspeaker zoning, mix-minus,and other such techniques, an advanced microphone array can provide some benefit in voice-lift applications where suspended single-element microphones would not be usable.
+	
+	What is the frequency response of a microphone array?
+	The frequency response and directional capabilities of a microphone array are determined by the size of the array, the number of microphone elements, how the elementsare arranged, and the signal processing used.Small conventional microphone arrays (12 inchesor so in diameter) often do not work well at low frequencies. A physically larger array allows for greater spacing between microphone elements, which in turn leads to better low-frequency directionality. A well-designed array of sufficient size (circa 24 inchesin diameter) can provide full, natural-sounding speech pickup with excellent directional performance.
+

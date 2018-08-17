@@ -1,0 +1,18 @@
+Title: Where can I get information on the MC Series?
+Id: 1709
+Legacy Id: 1767
+
+Question:
+The Shure mic inserts marked Shure MC125, which is a sealed cylinder with one only 3mm entry hole at the centre of one of the flat faces.. Do you know where I can find data on these?
+
+
+
+
+
+
+Answer:
+
+	The MC series of mic elements were discontinued in 1985. The elements were used in the products of other companies for sensing sound. An example might be a sound level meter.
+	
+	Our records do not indicate a model MC125. Perhaps this was a model made especially for another company and was given a unique model number.
+

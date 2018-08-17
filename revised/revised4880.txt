@@ -1,0 +1,12 @@
+Title: Using Shure Products with Polycom Products
+Id: 4880
+Legacy Id: 6138
+
+Question:
+Please provide a document about using Shure products with Polycom products.
+
+
+Answer:
+
+	See the attached files below.
+

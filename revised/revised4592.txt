@@ -1,0 +1,11 @@
+Title: RPM510 clip on MX150 mic
+Id: 4592
+Legacy Id: 5748
+
+Question:
+Would RPM510 clips attach to and hold the MX150 mics?
+
+Answer:
+
+	The RPM510 clip grasps the mic cable.The MX150 cable is thicker than the WL50 mic cable that was used with the RPM510.We did manage to force the cable into the cable grasper but it is a tight fit.The cable grasper could be enlarged slightly with the use of a Dremel tool.
+

@@ -1,0 +1,33 @@
+Title: Y-cable, splitter, combiner,  and adapter using XLR connectors
+Id: 3309
+Legacy Id: 3478
+
+Question:
+I often require a Y-cable using XLR connectors, or a need an adapter to change a male XLR to a female or vice versa. Any ideas?
+
+Answer:
+
+	This idea was printed in the November/December 2004 issue of Line UP magazine -a British publication. Basic soldering skills are required to create this device.
+
+	
+	Obtain two male XLR cable connectors and two female XLR cable connectors.
+	
+	Obtain 36 of two-conductor, braided shield, mic cable.
+	
+
+	
+		Cut the mic cable into four equal sections.
+	
+		Solder one end of the first cable section to the male XLR connector #1 (shield to pin 1; inner wire A to pin 2; inner wire B to pin 3).
+	
+		Solder the other end the first cable section to the female XLR connector #1 (use the same wiring scheme as above).
+	
+		Use the second section of cable and solder/connect female XLR connector #1 to male XLR connector #2.
+	
+		Use the third section of cable and solder/connect male XLR connector #2 to female XLR connector #2.
+	
+		Use the fourth section of cable and solder/connect female XLR connector #2 to male XLR connector #1.
+
+
+	This creates a ring of four XLR connectors, all interconnected, that can be used as a passive splitter, a passive combiner, or to change the gender of any XLR connector.
+

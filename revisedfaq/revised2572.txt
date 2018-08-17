@@ -1,0 +1,12 @@
+Title: Low Profile Microphone?
+Id: 2572
+Legacy Id: 2671
+
+Question:
+I saw a microphone of yours that is very low profile, about 3 inches by 2 inches and oval shape. It lies flat on a table or counter. What is it called?
+
+
+Answer:
+
+	Those are called boundary microphones. Look at the MX391/392/393 series of microphones.
+

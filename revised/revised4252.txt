@@ -1,0 +1,13 @@
+Title: WA360 Switch Action
+Id: 4252
+Legacy Id: 5305
+
+Question:
+How does the switch work on the WA360?
+
+Answer:
+
+	When the switch button is downward, the mic audio passes to the transmitter.
+
+	When the switch button is upward, the mic audio signal is muted.
+

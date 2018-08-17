@@ -1,0 +1,17 @@
+Title: Use computer speakers to amplify microphone
+Id: 1243
+Legacy Id: 1289
+
+Question:
+I am a college instructor. I would like to use a wireless microphone to talk through the sound card and speakers on the computer in front of me (to amplify my voice). I have a low budget. Which unit do you suggest?
+
+
+Answer:
+
+	To connect a microphone to a computer, see the following link: Microphone connected to a computer sound card
+	
+	A final thought: The level of amplification available from computer loudspeakers will be negligible. To understand more about voice amplification, please read: Audio Systems Guide for Meeting Facilities
+
+	
+	For small portable PA systems, see: Anchor Audio
+

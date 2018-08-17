@@ -1,0 +1,12 @@
+Title: What SPL level does the limiter on the PSM600 kick in?
+Id: 159
+Legacy Id: 159
+
+Question:
+Regarding the PSM internal limiter, I noticed the spec sheet said it was a 10:1 compression, but could you tell me at what dB level the limiter actually kicks in? I'm trying to make a determination on whether to use an external limiter or the one built in.
+
+
+Answer:
+
+	The dB SPL is not specified, because it is dependent on the sensitivity of earpieces. With the E1s it is about 114 dB SPL.
+

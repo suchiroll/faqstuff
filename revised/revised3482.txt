@@ -1,0 +1,16 @@
+Title: Assymetrical waveform from a KSM32
+Id: 3482
+Legacy Id: 3679
+
+Question:
+I recorded my spoken voice using a Shure KSM32. When I viewed the waveform on my computer screen, it was not symmetrical. Is there something wrong with my KSM32?
+
+
+
+Answer:
+
+	We opened the sound file that you supplied us, and observed the asymmetry.  Keep in mind, however, that voice sound waves are complex signals that aren't always going to be perfectly symmetrical like a sine wave. It appears that there is more positive information than negative information, but when we zoomed in on the waveform, such that only 2-3 cycles of the repeating signal are seen, we saw that the positive parts of the waveform had a higher peak amplitude and the negative parts of waveform had a longer time period.  So the total energy of positive portion of the wave versus the total energy of the negative portion of the wave are approximately equivalent. In other words, the area under the curve in the positive portion and the area under the curve in the negative portion seem to be more approximately equal than the peaks.
+	
+	Nevertheless, the waveform is interesting because we have seen it before.  We found the same phenomena with 1) a different KSM32, 2) a high-end cardioid condenser microphone from a different manufacturer, 3) a KSM44 in cardioid pattern, and 4) an SM58.  We also found that if we recorded from a greater distance (approximately 2 feet), the positive and negative peaks were closer in level, which tells us that it's likely related to proximity effect. We also tried two omnidirectional microphones at close distance, 1) a KSM141 in omni pattern and 2) a high-end model from another manufacturer, and these had more equivalent positive and negative peaks, which also points to proximity effect because omnidirectional microphones do not exhibit proximity effect.
+	
+	Considering the complex physics of sound waves and the way that cardioid microphones respond to them, particularly at close distances where proximity effect is significant, we have no reason to believe that the waveform you see is a result of a defective microphone. Again we have tried four other microphones and have seen the effect on all of them. If your projects require a waveform that has equivalent positive and negative peaks, we suggest trying to record at a further distance from the source and/or using an omnidirectional microphone.

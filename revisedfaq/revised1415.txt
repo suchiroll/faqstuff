@@ -1,0 +1,12 @@
+Title: Cough button for headworn microphones
+Id: 1415
+Legacy Id: 1468
+
+Question:
+Do you have any headworn microphones that come with a cough button? If not do you have any headworn microphones that can have a cough button attached?
+
+
+Answer:
+
+	Shure headworn mics are not supplied with a cough button. However, the A120S switch (or WA 360 if wireless) can be added to most headworn mics.
+

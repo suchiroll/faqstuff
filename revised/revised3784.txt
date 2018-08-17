@@ -1,0 +1,15 @@
+Title: VST-III Compliance and Tracking Force
+Id: 3784
+Legacy Id: 4021
+
+Question:
+What is the compliance of the VST-III phono cartridge? What is the acceptable tracking force range? The original manual I have just says 1.25g without brush and 1.75g with brush but no range (i.e 0.75g - 1.25g w/o brush) is given. I will be using it without the dynamic stabilizer brush.
+
+
+Answer:
+
+	Compliance: 25 x 10-6 cm/dyne
+	
+	0.75 to 1.25 grams is the tracking force range without using the brush.
+	
+

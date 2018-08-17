@@ -1,0 +1,18 @@
+Title: How to select frequencies on UC systems
+Id: 435
+Legacy Id: 443
+
+Question:
+We have four UC24/Beta 87 wireless systems. How can I determine the frequency I should us for each system so that one does not interfere with the other. This is a "traveling" not a "fixed installation". Also, we occaisonally use our systems with another group that also has 4 UC24/Beta 87 systems. With a total of 8 systems, is there any way to determine a set of frequencies that will work together with no interference? As you can probably tell, we are new to wireless systems and although I understand some of the basics, frequency selection seems a bit complex.
+
+
+Answer:
+
+	Put all of the systems on the same group and different channels. As long as the systems are all on the same group, the frequencies will be compatible. So, your frequency set might look like this:
+	
+	Group 1, Channel 1
+	Group 1, Channel 2
+	Group 1, Channel 3
+	Group 1, Channel 4
+	
+	Choose a group that avoids the television stations in the city you are in, as described in the User Guide Supplement that came with the system.

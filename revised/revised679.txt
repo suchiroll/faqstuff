@@ -1,0 +1,11 @@
+Title: Replacement stylus 3X
+Id: 679
+Legacy Id: 696
+
+Question:
+I need a replacement SHURE 3X needle for a BSR MacDonald 510 record player. I don't see it anywhere on the replacement parts page.
+
+Answer:
+
+	The replacement stylus for the R3X is the N75EC.
+

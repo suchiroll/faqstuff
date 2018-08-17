@@ -1,0 +1,15 @@
+Title: Transformer used in the A95UF
+Id: 4801
+Legacy Id: 5987
+
+Question:
+What transformer is used inside of the A95UF?
+
+
+Answer:
+
+	
+		As of December 2015, the A95UF uses the 51A312 transformer.
+
+
+

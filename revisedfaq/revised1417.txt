@@ -1,0 +1,16 @@
+Title: Replacing stylus and cartridge for White BA300 CEC
+Id: 1417
+Legacy Id: 1470
+
+Question:
+I have an old turntable, a White BA300 CEC. While I'm not sure what kind of needle and cartridge it came with, I am currently using a Shure Encore ME 70B; I think I must have last replaced the cartridge about 5 or 6 years ago. I think it's about time to do so again! I went to Radio Shack, and they were able to find me a stylus ME 70B, but not a cartridge to match it. What do you recommend? One store I visited offered me a different make of cartridge that the man said would work, but it cost $110 and there were no refunds if it didn't work. I'm inclined to go with what I've got, because I know it works. I looked up the ME 70B on your web-site chart, and they listed as replacement an N70B stylus, but there didn't seem to be a cartridge to accompany it; maybe I was reading the chart wrong? Anyway, please recommend to me a stylus and cartridge that will properly replace what I currently have. I use the record player for personal use; I am not a DJ, do not scratch, I just have a very large record collection which I do not want to give up or try to replace with CDs. 
+
+Answer:
+
+	Replacing the stylus returns the cartridge to like-new performance. There is no need to replace the cartridge body. There is little chance of anything failing in the body. Install a new N70B and enjoy a like-new cartridge.
+	
+
+	If you decide to replace your entire cartridge, please see the following:
+	
+	Which phono cartridge will fit my turntable?
+

@@ -1,0 +1,23 @@
+Title: Using KSE1500 System with iPod Classic
+Id: 4821
+Legacy Id: 6007
+
+Question:
+I own the KSE1500 earphones and would like to use them with my iPod classic. Unfortunately the iPod classic has the old 30 pin connector instead of the lightning connector. Is there a cable I can purchase so that I can connect the iPod to the Shure DAC/Amp through the USB connection?
+
+
+
+Answer:
+
+	The amp does support USB audio from some 30 pin devices  However, only the first iPhones and iPod touches will send digital audio. The iPod Classic series will only send analog audio from the 30 pin output.Digital audio out is not supported by iPod Classic.
+	
+	There is a 30 pin to Micro B cable, but again - iPod classic does not send out digital audio.
+	
+	To summarize this, an iPod Touch or iPhone with a 30-pin connector should support digital audio, but an iPod Classic does not.
+	
+	Another option for the iPod Classic is to use the 3.5mm analog input on the KSE1500 amp.
+	
+	
+	
+	
+

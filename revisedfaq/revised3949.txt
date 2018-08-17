@@ -1,0 +1,12 @@
+Title: AXT630 cascade ports band limited
+Id: 3949
+Legacy Id: 4198
+
+Question:
+Are the cascade ports on the AXT630 band limited or wide band?
+
+
+Answer:
+
+	They are wide band.
+

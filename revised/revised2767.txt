@@ -1,0 +1,22 @@
+Title: Underwater Microphone (Hydrophone)
+Id: 2767
+Legacy Id: 2875
+
+Question:
+I have a request for a SLP system for a sporting event, the sport is Sync-swimming, and the event requires a SLP level to be maintained with in the pool. The design calls for an UNDER-WATER type Microphone systems as to control the SLP in the water.
+
+
+Do you have such a microphone in your product range which would be suitable for this type of application?
+
+
+Answer:
+
+	A microphone operates only in the air. A microphone that operates in water is called a hydrophone. Shure does not make a hydrophone.
+	
+	Hydrophones are available from:
+	DPA Microphones
+	(www.dpamicrophones.com)
+	
+	Engineering Acoustics, Inc. Winter Park, FL
+	(www.eaiinfo.com)
+

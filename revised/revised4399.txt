@@ -1,0 +1,19 @@
+Title: A99SMA Metal Adapter Plate
+Id: 4399
+Legacy Id: 5495
+
+Question:
+What are the details and dimensions of the A99SMA?
+
+
+Answer:
+
+	The A99SMA is a circular, black,steel platewith a large hole in the middle.
+	Outer diameter: 3.012 inches
+	Diameter of hole in the middle: 1.75 inches
+	Diameter of three outermost screw holes: 0.17 inch; center of each is 0.25 inch inward from the outer diameter; screw holes are separated by 120 degrees; holes are countersunk to accept #8 flat head screw
+	Thread for three innermost screw holes: #8-32 UNC-2B; used to fasten the Shure A400SM shock mount
+	Plate thickness: 0.12 inch
+	
+	The A99SMA is used to cover the larger mounting hole required for the SM99. Once covered, the A400SM may be installed for use with a Shure MX400 series microphone.
+

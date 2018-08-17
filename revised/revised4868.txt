@@ -1,0 +1,28 @@
+Title: KSE1500 Maximum SPL Output and Distortion Rating
+Id: 4868
+Legacy Id: 6056
+
+Question:
+Please comment on the KSE1500 SPL rating and distortion rating.
+
+
+Answer:
+
+	The KSE1500 system is rated with a maximum output of 113 dB SPL.Normally, an amplifier specification will not state a maximum SPL because this is largely determined by whatdriver (headphone, earphone, or loudspeaker) is connected to the amp and that drivers efficiency/sensitivity.Because the KSE1500 is a closed system (the earphones and amplifier must be used as a pair) the specifications can state a maximum SPL of the system.
+	
+	A maximum output of 113 dB SPL means that the KSE1500 will provide that loudness level without distortion.Once the output is driven past what would be 113 dB SPL, the system will distort the program material. Please note: 113 dB SPL is quite loud, and listening at that level for extended time periods will damage ones hearing.That said, many conventional earphones or headphones can get much louder, even to the point of the pain threshold of 120 dB SPL, which is a very dangerous listening level.
+	
+	The SPL output level of the KSE1500 system is a combination of the amplifier gain and the input level of the signal.Notice that while listening to a song with a lower input level, and not pushing the KSE1500 meter to full deflection, the amplifier gain may be set to maximum without creating distortion.
+	
+	During the KSE1500 development the question was asked: Why not just limit the gain control so that no distortion can ever occur?The reason is because different recordings provide the KSE1500 amp with different input levels.If the gain were limited, so the louder tracks would never distort even at the maximum volume setting, then when the amp was presented with a lower input signal (a quieter recording,) the listener would not be able to increase the amp gain enough to reach the maximum SPL of 113 dB.
+	
+	The design options were:
+	1) Allow low-level songs to be increased to maximum SPL, but accept that high-level songs would not be able to be turned up past the volume level that corresponds with 113 dB SPL; or
+	2) Set the maximum gain so even program material with a high input level would not be allowed to be turned up past 113 dB SPL, but accept that lower level input material would never reach 113 dB SPL.
+	
+	Option #1 was chosen as it provides full efficiency for both lower level and higher level inputs.
+	
+	There is a limiter that can be engaged to prevent much of this distortion, but in this case, the user will be trading distortion for compression; the overall effect would be a reduced overall perceived SPL output.
+	
+	In summary, the KSE1500 electrostatic earphone systemmaximum SPL is 113 dB SPL, after which distortion will begin.
+

@@ -1,0 +1,15 @@
+Title: Wiring of SM58 male XLR connector
+Id: 2743
+Legacy Id: 2849
+
+Question:
+Whta is the internal wiring code to the SM58 male XLR connector.
+
+
+Answer:
+
+	Black wire to pin 1 (ground)
+	
+	Blue wire to pin 2 (audio +)
+	
+	Red wire to pin 3 (audio -)

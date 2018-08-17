@@ -1,0 +1,14 @@
+Title: Replacement of VN45MR stylus for V15-IV
+Id: 2074
+Legacy Id: 2140
+
+Question:
+I am looking for a replacement for a VN45MR stylus.
+
+
+Answer:
+
+	Yes, there is another stylus. The VN35MR fits the V15-IV body. The VN35MR does not have the dynamic stabilizer (brush) of the VN45MR, and the frequency response will be brighter when used with the V15-IV body.
+	
+	To upgrade to a new cartridge similar to the V15-IV, consider the M97xE.
+

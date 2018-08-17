@@ -1,0 +1,12 @@
+Title: SM10A into a wireless transmitter?
+Id: 1025
+Legacy Id: 1055
+
+Question:
+Is it possible to make the SM10A into a wireless set up? If so what do I have to buy to do this.
+
+
+Answer:
+
+	The SM10A can be plugged intoa Shurebodypack with a TAF4 connector by using the WA310 adapter cable.
+

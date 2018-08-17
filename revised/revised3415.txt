@@ -1,0 +1,16 @@
+Title: Are Shure products LEED certified?
+Id: 3415
+Legacy Id: 3606
+
+Question:
+I have been instructed to only install microphones and wireless microphone that are LEED certified because the building wants to obtain LEED certification. What Shure products have LEED certification?
+
+
+Answer:
+
+	LEED is an acronymn for Leadership in Energy and Environmental Design. The LEED certification was created and is managed by the United States Green Building Council (USGBC).
+
+	Audio/Visual products, such as sold by Shure Incorporated, do not carry LEED certification. Here is a statement from the USGBC:
+
+	Can I get my product or service LEED certified?USGBC does not certify, endorse or promote products, services or companies, nor do we track, list or report data related to products and their environmental qualities.LEED is a certification system that deals with the environmental performance of buildings based on overall characteristics of the project. We do not award credits based on the use of particular products but rather upon meeting the performance standards set forth in our rating systems. It is up to building construction project teams to determine which products are most appropriate for credit achievement and program requirements.
+

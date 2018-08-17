@@ -1,0 +1,14 @@
+Title: Preamp for SHURE V15 III and SHURE V15 IIII-LM
+Id: 1005
+Legacy Id: 1034
+
+Question:
+Do you still have the specifications of these SHURE products? I need them for building a pre-amplifier.
+
+
+Answer:
+
+	Each input of your preamp should have a capacitance of 400 to 500 pf.
+
+	The input impedance should be 47,000 ohms
+

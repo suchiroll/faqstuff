@@ -1,0 +1,16 @@
+Title: Shure Stethoscope Pickups
+Id: 4957
+Legacy Id: 6222
+
+Question:
+Did Shure manufacture transducers for medical use?
+
+
+Answer:
+
+	Yes. The most recent were the Physiological Sound Transducers models SP-5, SP-5S, and SP-6. This transducer series wasdesigned to detect sound vibrations in human and animal tissue. They were useful for general sound pickup in animals, and ideally suited for the study of human heart sounds.
+	
+	The nominal signal output level was 0.2 mV; -74 dBV intodays terms. Itwas similar to the output level of a dynamic microphone.
+	
+	Attached below is a User Guide from 1962. Note the frequency response unit is C.P.S. (Cycles Per Second) as Shure did not adopt the Hertz nomenclature until 1964.
+

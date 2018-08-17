@@ -1,0 +1,14 @@
+Title: Bridging a signal source
+Id: 3387
+Legacy Id: 3575
+
+Question:
+When bridging why does 10 times the signal source give maximum voltage transfer?
+
+
+Answer:
+
+	10 times the source impedance is consider a nice balance between acceptable voltage transfer and acceptable input noise. Maximum voltage transfer occurs when the load impedance is infinitely higher than the source.
+	
+	See the formula at: Should I match impedances?
+

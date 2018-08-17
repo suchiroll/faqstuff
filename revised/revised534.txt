@@ -1,0 +1,12 @@
+Title: PSM sibilance
+Id: 534
+Legacy Id: 545
+
+Question:
+I use the PSM600 wireless system. My drummer has the wired version. I noticed that sibilance sounds harsher and more pronounced on the wireless version, more like a blast of white noise, then the brief "S" in my word. Is there something at work that is affecting this, and can anything be done about it? Could the RF squelch be effecting what I'm hearing? Should I look into a LPF or de-essing before the transmitter? Please let me know.
+
+
+Answer:
+
+	There is no reason that the wireless system would be more sibilant. Make certain the high frequency boost switch is in the same position on both systems. You may want to try a de-esser or equalization before the PSM transmitter to control the sibilance.
+

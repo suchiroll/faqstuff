@@ -1,0 +1,21 @@
+Title: Output of mixer into T Series Body Pack Transmitter
+Id: 763
+Legacy Id: 784
+
+Question:
+I was wondering if I can connect the output (either headphone or monitor) from my mixer directly to the 1/4 " input on the body pack of my Shure body pack for my Shure Diversity wireless headset system. I have an application to do an outdoor event at a local high school stadium and would like to be able to tie my system into their sound system to help fill in the whole area with sound.
+
+
+Second question is the body pack on the guitarist system to same as for the headset system?
+
+
+Answer:
+
+	The 1/4 plug is only available in T-series headset and guitar systems.
+	
+	The input of the transmitter is looking for a microphone level signal. You have to attenuate the signal going into the transmitter. Or keep the volume level real low out of the mixer headphone jack.
+	
+	Put the transmitter and antenna so that they are line of sight for the receiver.
+	
+	In the Shure T Series VHF Wireless line, the body pack transmitter for the Guitarist Model and the Headset Model is the same product. We assume it is the T Series to which you refer.
+

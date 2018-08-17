@@ -1,0 +1,13 @@
+Title: Classical guitar amplification
+Id: 1144
+Legacy Id: 1183
+
+Question:
+I plan to achieve a better sound quality when performing in a 20m by 20m room with my classical guitar. I have a very sensitive hearing and I'm displeased with most mic- amplifier poor sound matices and timbre I had encounter lately. I would like you to suggest me the best way to tap-out the beautiful natural sound nuances of my classical guitar so when amplifying them they don't get lost and keep crystal and warm. Do I need one microphone or two? inside the guitar.. outside ? how to arrange them ? do I need an equalizer ? a pre-amp ? what speakers ? How to avoid feedback....
+
+
+Answer:
+
+	The most natural sound from an acoustic instrument would be outside the guitar Placement should be within 60 cm of the guitar. The exact spot is up to experimentation. Download the booklet, Microphone Techniques for Music - Live Sound ReinforcementFor microphone choice for Acoustic Guitar, please see our blog post, Choosing the Right Mic.If the goal is to have the most natural sound and the microphone/loudspeaker setup is done correctly, you should not need an equalizer.
+	A preamp will be needed for two reasons, volume control and phantom power. All the microphones recommended above are condenser microphones and need a dc voltage to operate. Make certain the microphone preamp has this feature.Shure does not manufacture loudspeakers.
+	As far as avoiding feedback, Shure offers a paper on basic sound system design, called "Understanding Sound System Design and Feedback Using (Ugh!) Math".

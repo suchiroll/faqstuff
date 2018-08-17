@@ -1,0 +1,14 @@
+Title: Connecting a phono cartridge to a computer sound card
+Id: 2175
+Legacy Id: 2248
+
+Question:
+How can I connecting a phono cartridge output directly to a computer sound card input?
+
+
+Answer:
+
+	TerraTec Phono PreAmp Studio: http://www.terratec.net
+
+	Rolls GCi404 Audio Computer Interface: http://www.rolls.com
+

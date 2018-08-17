@@ -1,0 +1,27 @@
+Title: Where can I get my UC1 repaired?
+Id: 1245
+Legacy Id: 1291
+
+Question:
+One of my former employees inserted a 9V battery in reverse. I noticed that the transmitter became warm (about ten minutes later) and when I corrected the polarity, the transmitter no longer worked.
+
+
+Question: Is it more cost effective to repair or replace the transmitter?
+
+
+If Repair, what is my next step?
+
+
+Model - UC1-UA
+
+
+Answer:
+
+	If your question is concerning repair or replacement parts, please contact our Service Department at 800-516-2525 or 847-600-2000. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/ProAudio/ServiceAndWarranty/index.htm
+	
+	
+	
+	At 06/20/2001 08:43 AM we wrote - Repair will be less expensive. Please call the Shure Service Department for details on returning the UC1 transmitter.
+

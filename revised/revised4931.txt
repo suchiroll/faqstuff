@@ -1,0 +1,57 @@
+Title: GLX-D firmware update
+Id: 4931
+Legacy Id: 6189
+
+Question:
+How do I update the firmware on my GLXD system?
+
+
+Answer:
+
+	If the blue rf light is blinking and there is no audio you will need to update your components to the latest firmware.
+
+	
+		Download theShure Update Utility from the Shure web site.
+		
+	
+		Install the Shure Update Utility and open the Shure Update Utility.
+		Click on theTools menu at the top of the screen.
+		Select Check for Updates.
+		Select the Firmware tab and confirm the version 2.0.0.1 or later is listed for GLX-D wireless components.
+		
+	
+		Using the USB to Micro USB cable supplied with your GLX-D system, connect your GLX-D receiver to your computer.
+		
+			
+				On the GLXD4 receiver the Micro USB plug is located on the right side of the rear panel.Indicated below # 13.
+				
+			
+				On the GLXD6 receiver the Micro USB port is located next to the audio output jack.Indicated below # 4.
+				
+		
+	
+	
+		If your receiver is not already powered on, power on your receiver. You will see this:
+		
+	
+		Click theSEND UPDATES...button to send the latest firmware to your receiver. After about 2 minutes you will receive this message:
+		
+	
+		Close this window and repeat steps 3 - 5 above for your GLX-D transmitter.
+		
+			
+				On the GLXD2 handheld microphone, unscrew the bottom half of the handle to expose the Micro USB connector. Indicated below # 5.
+				
+			
+				On the GLXD1 bodypack transmitter open the rubber flap on the side of the transmitter to expose the Micro USB connector.Indicated below #5.
+				
+		
+	
+	
+		Turn on your receiver and transmitter and wait a few seconds for the two to link.
+	
+		Now both of your components are using the latest firmware and should function normally.
+	
+		If you require further assistance please search ourFAQ database or contact your local Shure service center.
+
+

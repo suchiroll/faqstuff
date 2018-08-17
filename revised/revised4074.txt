@@ -1,0 +1,12 @@
+Title: Flashing Power LED on UA844 and on PS44
+Id: 4074
+Legacy Id: 4646
+
+Question:
+When I plug in my UA844 with four ULXP units attached the UA844 powers up and the ULXPs power normally. Turning off one of the ULXPs causes all to go dark and the power light on the UA844 and on the power pack flashes repeatedly. Is this indicative of a bad power pack or suspect something internal to the UA844 or one of the ULXPs?
+
+
+Answer:
+
+	Either a defective PS44 power supply, or a shorted DC power jack on the UA844SWB.
+

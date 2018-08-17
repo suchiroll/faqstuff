@@ -1,0 +1,17 @@
+Title: V15VxMR suitability for Mission 774 Arm
+Id: 2468
+Legacy Id: 2563
+
+Question:
+Hope you don't mind me asking this question - I believe it's an important issue with such a light arm and, I think my ADC ZLM is near due for replacement.
+
+
+This arm has a quoted effective mass of 5.5g and the handbook indicates that it *should* suit cartridges of mass 2 - 10g and compliance 8 - 50 cm/dyne. Given the lightness of this arm, is it possible that the fundamental resonance of the arm and cartridge together would make this a bad pairing?
+
+
+Answer:
+
+	Other customers have used the V15VxMR with the Mission 774 arm, and we have heard no complaints. But Shure has not tested this combination.
+	
+	We believe it will work just fine.
+

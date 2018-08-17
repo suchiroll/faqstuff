@@ -1,0 +1,18 @@
+Title: What Shure products work with SystemOn?
+Id: 5019
+Legacy Id: 6311
+
+Question:
+What Shure products work with SystemOn?
+
+
+Answer:
+
+	SystemOnmanages the SCM820 Automatic Mixers, ULX-D and Microflex Wireless systems in real time across corporate and higher education networks.
+
+	
+		Hardware compatibility: In the first release (Nov 2016), SystemOn only recognizes hardware devices that are part of MXW (MXWAPT8 and 4, MXWNCS8 and 4), ULX-D (receivers), and SCM820.
+	
+		Licenses: Subscription licenses allow to bring any IP addressable device into the monitor view (e.g. MXWAPT, ULXD4 etc.). Customers can purchase unlimited number of licenses to monitor all their devices.
+
+

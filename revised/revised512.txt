@@ -1,0 +1,15 @@
+Title: Replacement for N91E (N9ES) stylus
+Id: 512
+Legacy Id: 523
+
+Question:
+I have a Dual 1229Q turntable with a Lancer model HT9ES cartridge for which I need a replacement stylus. The stylus replacement number is listed in the data sheet as N91E (N9ES).  Are either the cartridge or the stylus available?  and if not, is there a replacement option for them?  My Dual turntable manual indicates that the tone arm cartridge holder accepts any cartridge with mounting holes on 1/2 inch centers and weighing from one to twelve grams. Thank you very much for your help.
+
+Answer:
+
+	As of December 2000, the N91ED replacement stylus is available from Shure. It is a direct replacement for the N91E.
+	
+	The HT9ES cartridge is discontinued.
+	
+	A complete cartridge/stylus cross reference (along with availability) can be seen at: Discontinued Stylus Cross Reference
+

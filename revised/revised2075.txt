@@ -1,0 +1,12 @@
+Title: Can the WCM16 be used with the UT system?
+Id: 2075
+Legacy Id: 2141
+
+Question:
+With the UT Wireless receiver and bodypack transmitter, can the WCM16 headset mic be used?
+
+
+Answer:
+
+	Yes.
+

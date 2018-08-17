@@ -1,0 +1,11 @@
+Title: ULX4 Receiver - How to power from DC
+Id: 3658
+Legacy Id: 3866
+
+Question:
+I need a device that I can use to power the ULX receiver with DC. I can use a 12 Vdc car battery but the ULX receiver needs 15 Vdc.
+
+
+Answer:
+
+	There is a product named the "Juicer".  Feed it 9 - 18 volts DC and it provides a steady 15 VDC.  It can be used for any Shure receiver that operates from an external DC supply.  The website for the Juicer is:  www.remoteaudio.com/juicer/

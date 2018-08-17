@@ -1,0 +1,15 @@
+Title: Mounting SLX antennas to the side of a rack
+Id: 3004
+Legacy Id: 3132
+
+Question:
+I am specifying three SLX wireless receivers in a wall rack. I need to passively mount the antennas on the outside surface of the rack.
+
+
+Answer:
+
+	Assuming the rack is metal, this is quite simple.
+	
+	Use the coax cables that come with SLX to bring the antennas to the side or top of the rack. Drill a hole through the rack and stick the BNC fitting (attached to the cable) through the hole. The BNC fitting will be tightened down onto the rack. It is important to make certain that the outside of the BNC fitting DOES make electrical contact with the metal rack. This grounding is important. The star lock-washer that is used with the BNC fitting should make the electrical contact easy.
+	
+	If mounting antennas on the side of the rack, place the antennas toward the top, so they stick up above the rack itself.

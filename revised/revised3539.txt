@@ -1,0 +1,34 @@
+Title: Hum in a Hi-Fi System or Turntable
+Id: 3539
+Legacy Id: 3743
+
+Question:
+How do I troubleshoot and fix the hum in my hi-fi system that has a turntable?
+
+
+Answer:
+
+	SOURCES OF HUM
+	It is difficult to answer the question What makes my hi-fi system hum? because there are many possible causes. However, the cures are simple and will eliminate hum inmany cases when the outline below is followed:
+
+	
+		Turn down volume control. If hum persists, it is originating in the power amplifier or interconnections. Service may be required. If hum decreases as volume is turned down, proceed to next step.
+	
+		Theremust be a connection from the metal parts of the turntable to the chassis of the preamp/amplifier; from there to ground on a water pipe, a grounded electric outlet box, or aradiator. Also, try reversing the AC plugs on the amplifier, the turntable, and the preamp. If hum persists, proceed to next step.
+	
+		Disconnect the phonograph plugs from the preamp or amplifier. If the hum persists, or is present when a tuner or tape recorder is played through the system, the problem is localized in the preamp or amplifier. Service may be required.If hum disappears, reinsert the plugs, proceed to next step.
+	
+		Check to see that theturntable is not located next to, on top of, or underneath a power amplifier, tuner, tape recorder, or any item using a transformer or motor. A transformer or motor can create a localized hum field. If hum persists with the turntable isolated, proceed to next step.
+	
+		Turn the turntable motor On and Off. If hum disappears when motor is Off, the motor has an excessive hum field. This situation is rare, except when a magnetic pickup has been installed in a vintage turntable designed for ceramic pickups. If hum is present when motor is Off, proceed to next step.
+	
+		If hum increases when a human hand is brought near the phono cartridge headshell, it is likely that the metal shield in the cartridge is not being grounded by the connections. If a plastic headshell is used, the metal grounding clip on the cartridge terminal marked RG should be in place. If a metal shell is used, and the hum is steady, removing the grounding clip may help. If the hum persists, replace the clip and proceed to next step.
+	
+		Check the cable connections on the underside of the phonograph base. There should be no connection from the shield of the cables to the metal turntable parts, If there is, remove it and install a separate ground wire, as in Step 2.
+
+
+	
+	If the tonearm wiring has only three wires, or two shielded wires with the shields connected, then a special three-wire cable should be used between phonograph and amplifier. Alternately, two single conductor shielded wires may be used if the shield of one is left floating at the phonograph.
+
+	If these steps do not cure the trouble, contact Shure Service to have the cartridge inspected. Though unlikely, there could be an internal grounding problem within the phono cartridge body.
+

@@ -1,0 +1,54 @@
+Title: PG Wired Microphones: Discontinuation
+Id: 4604
+Legacy Id: 5760
+
+Question:
+When were the PG wired mics discontinued? What were the final U.S. retail prices?
+
+
+Answer:
+
+	The PG wired microphones were discontinued in the spring of 2015. Here is the PG product list and the final U.S. retail prices:
+	
+	PG27-LC - $186; replaced by PGA27-LC
+	
+	PG27-USB - $249; replaced by PGA27-LC used with X2u
+	
+	PG42-LC - $249; replaced by PGA27-LC
+	
+	PG42-USB -$311; replaced by PGA27-LC used with X2u
+	
+	PG48-LC - $43; replaced byPGA48-LC
+	
+	PG48-QTR - $49; replaced byPGA48-QTR
+	
+	PG48-XLR - $49; replaced byPGA48-XLR
+	
+	PG52-LC -$143; replaced byPGA52-LC
+	
+	PG52-XLR - $149; replaced byPGA52-XLR
+	
+	PG56-LC - $80; replaced byPGA56-LC
+	
+	PG56-XLR - $86; replaced byPGA56-XLR
+	
+	PG57-LC - $68; replaced byPGA57-LC
+	
+	PG57-XLR - $74; replaced byPGA57-XLR
+	
+	PG58-LC - $68; replaced byPGA58-LC
+	
+	PG58-QTR - $74; replaced byPGA58-QTR
+	
+	PG58-XLR - $74; replaced byPGA58-XLR
+	
+	PG81-LC - $155; replaced byPGA81-LC (phantom power only - no batteryoperation)
+	*Ifinternal battery operation is required, consider the SM94.
+	
+	PG81-XLR - $161; replaced byPGA81-XLR (phantom power only - no battery operation)
+	*Ifinternal battery operation is required, consider the SM94.
+	
+	PGDMK4-XLR - $311; replaced byPGAStudioKit4
+	
+	PGDMK6-XLR - $499: replaced byPGADrumKit5 or PGADrumKit7
+

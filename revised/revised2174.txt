@@ -1,0 +1,11 @@
+Title: Cable for model 555
+Id: 2174
+Legacy Id: 2247
+
+Question:
+I have a mic labeled Shure Model 555 Unidyne Dynamic Microphone." It looks very old, but does not use a standard mic cable. do you have adapters for it? It still has three holes, but also has a threaded section.
+
+
+Answer:
+
+	The 555 used a 3 pin Amphenol connector, part #MC3M.You can get pre-wired cables from Tom Ellis (214-328-3225)

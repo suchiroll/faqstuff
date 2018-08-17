@@ -1,0 +1,12 @@
+Title: What is “Basic Voting” on the DIS-CCU?
+Id: 4829
+Legacy Id: 6015
+
+Question:
+What is "Basic Voting"?
+
+
+Answer:
+
+	The DIS-CCU with FL6000 Feature License enables basic voting without the requirement of using SW6000 software.Basic voting means that votes can be cast by meeting participants using conference units equipped with voting buttons, and a chairman can view the vote totals on the display of the DC 6990 P conference unit,or on a third-party media control system that has been properly configured.Vote results (including how each participant voted) are not retained, recorded or archived by the system, however.When a new vote is activated, the results of the previous vote will be lost.The basic voting feature is useful for city councils or other organizations that desire electronic voting but do not require the advanced meeting management features available with SW6000 software.
+

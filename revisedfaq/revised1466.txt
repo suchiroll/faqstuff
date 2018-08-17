@@ -1,0 +1,17 @@
+Title: Repair of SR105B power amp
+Id: 1466
+Legacy Id: 1519
+
+Question:
+I wonder if you could give me help with my power amplifier SR105B. I have 2 fuses blown out when turning on power. I do not know what is wrong. Could you investigate it if I send it to you, or the company does not support it anymore because it's discontinued long time ago? Thanks for help in advance.
+
+
+
+Thanks for last reply.
+
+Somehow I figured out bridge rectifier was dead. Commercial alternative in service manual is VARO VT200/T but it seems that it's discontinued long time ago too. Is it all right if I use any 200V-25A rectifier or could you recommend 2~3 commercial alternatives which are easily available?
+
+
+Answer:
+
+	The SR105B was discontinued in 1982. Shure does not service it anymore. The schematic and service information for the SR105B can be found in the Data Sheet at:Discontinued User GuidesAt 08/07/2001 03:06 PM we wrote - Is it all right if I use any 200V-25A rectifier? Yes, we believe this will be fine. Check www.mouser.com for possible commercial alternatives.

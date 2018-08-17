@@ -1,0 +1,19 @@
+Title: PSM400 Operation
+Id: 1293
+Legacy Id: 1341
+
+Question:
+I am considering the purchase of the PSM wireless monitor system. To operate 4 mics with four individual monitor outputs for each vocal what would I need to order in components? The P4MTRE1 pack comes with the transmitter P4T, one body pack receiver P4R, one personal monitor mixer P4M and one E1 earphone. Would I assume that I would need to order three more body packs P4R and three more E1 earphones? Do you put together these types of packages?
+
+
+Answer:
+
+	We recommend your read:Selection and Operation of Personal Monitor Systems
+
+	Educational Articles - Online booklets and bulletins
+
+	
+	If you want to send one stereo mix to all four singers, you require the following: 1 - P4MTRE1; 3 - P4R; 3 - E1.
+	
+	But if each singer requires a different stereo mix, then the price and complexity of your system quadruples. Then you need 4 - P4MTRE1 with each adjusted to a different transmitting frequency.
+

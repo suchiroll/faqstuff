@@ -1,0 +1,22 @@
+Title: 8 yr old SM58 degrading in output
+Id: 347
+Legacy Id: 354
+
+Question:
+My SM58 has recently been noted to need more gain and just not putting out. It's always been reliable (40 + weekends per year) but it's just not cutting it. Do they suffer fatigue and what is the prescribed repair?
+
+
+Answer:
+
+	No, dynamic mics like the SM58 do not suffer fatigue. Here are some possible causes:
+	
+	1. Bad mic cable and mic snake. Inspect, clean, or replace all cables or mic snakes.
+	
+	2. Loose XLR connector on SM58. Inspect and tighten if necessary.
+	
+	3. Clogged foam on grille. Remove ball grille. Wash in water with Dawn dishwashing liquid. Rinse well. Air dry thoroughly and replace.
+	
+	4. Loss of magnetic field strength due to mic being dropped. Return to Shure Service Department for repair. Call 800-516-2525 in the U.S. for more information.
+	
+	5. Do a simple check. Get another SM58 from a friend and make a comparision. Set up your SM58; talk into it. Then unplug yours and plug in the other SM58 to the same cable. They should sound quite similar, though not identical. If not, your mic should be returned for repair.
+

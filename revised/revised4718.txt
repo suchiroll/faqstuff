@@ -1,0 +1,12 @@
+Title: Are Left and Right oriented properly on the Motiv MV88?
+Id: 4718
+Legacy Id: 5888
+
+Question:
+How may I ascertain that Left and Right are oriented properly on the MV88?
+
+
+Answer:
+
+	The MV88 is labeled L and R and has a Shure logo at the top of the mic.The mic pivots forward on a hinge and also rotates to accommodate portrait or landscape video.As long as the Shure logo is facing up, the stereo image should be correct.Also, you can swap the Left and Right audio in the Motiv app if desired.
+

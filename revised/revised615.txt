@@ -1,0 +1,11 @@
+Title: I don't have a scale to measure tracking force. Do you have a recommendation?
+Id: 615
+Legacy Id: 629
+
+Question:
+I've recently set up my old turntable, tone arm, and cartridge. I want to make sure I have the tracking force right.
+
+Answer:
+
+	Purchase the Shure tracking force gauge, model SFG-2.
+

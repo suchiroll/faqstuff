@@ -1,0 +1,11 @@
+Title: Can I use a Motiv device for Facetime?
+Id: 4712
+Legacy Id: 5882
+
+Question:
+Can I use Motiv devices for Facetime?
+
+Answer:
+
+	Sorry, the Apple iOS does not recognize a microphone(s) connected to the Lightning port during a Facetime session or during a phone call.
+

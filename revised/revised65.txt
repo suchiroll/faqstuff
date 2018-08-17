@@ -1,0 +1,12 @@
+Title: U Series receiver on a 50 Hz AC system
+Id: 65
+Legacy Id: 65
+
+Question:
+It is possible to use the U series receiver with a 50Hz AC system?
+
+
+Answer:
+
+	Yes; the U4S and U4D receivers have a switching power supply in them. They will accept any voltage from 100-240V, 50-60Hz.
+

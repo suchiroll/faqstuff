@@ -1,0 +1,11 @@
+Title: Microphone signal routing switch
+Id: 3308
+Legacy Id: 3477
+
+Question:
+I'm looking for a switching device that will allow me to route my SM58 microphone signal to an intercom or to in-ear monitors while on stage.  This will allow me to have talk with my band mates or the sound engineer without the audience hearing me.
+
+Answer:
+
+	http://www.radialeng.com/re-hotshot-dm1.htm
+

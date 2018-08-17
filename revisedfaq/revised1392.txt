@@ -1,0 +1,21 @@
+Title: LX88 system started cutting out.
+Id: 1392
+Legacy Id: 1444
+
+Question:
+We have been using 4 wireless mikes (LX88) for the past 4 years with no problem. We have recently moved about 1/2 mile to a new location and now we are experiencing interference with one frequency. We are using 169.445, 171.845, 182.200, 208.200. We are experiencing critical problems at 169.445 -- the mike cuts out intermittently to the point where that channel is unusable. There is minor distortion at 171.845 but the channel is still usable. Our Supplier, Luners Electronics in Ventura said they were sure the problem was interference on the frequency band. My questions are (1) do you concur? Or could there be a hardware problem that could be fixed? (2) If it is a frequency interference problem, can the units be re-freqed to a different frequency? (3) If they cannot be re-frequed, what alternative recommendations would you suggest? (4) If you suspect a hardware problem, what is the process for having them checked and is it worth the cost? Thank you for your time.
+
+
+Answer:
+
+	(1) Do you concur? * Yes
+	
+	(1A) Or could there be a hardware problem that could be fixed? *Unlikely there is a hardware problem.
+	
+	
+	(2) If it is a frequency interference problem, can the units be re-freqed to a different frequency? * Yes, but it depends upon your geographic location. There may be no clear frequencies in your area. And the LX88 series has a very limited number of frequencies.
+	
+	(3) If they cannot be re-frequed, what alternative recommendations would you suggest? *Upgrade to a better system with more frequency choices.
+	
+	(4) If you suspect a hardware problem, what is the process for having them checked and is it worth the cost? *Call Shure Service at 800-516-2525 for pricing and turnaround time. But again, we suspect local interference in the 169MHz band.
+

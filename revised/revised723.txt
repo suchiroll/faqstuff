@@ -1,0 +1,49 @@
+Title: Difference between a dynamic and condenser microphone
+Id: 723
+Legacy Id: 742
+
+Question:
+What is the difference between a dynamic and a condenser microphone?
+
+
+Answer:
+
+	Dynamic and condenser describe the operating principal used in a microphone.
+	
+	Operating principle - The type of transducer inside the microphone, that is, how the microphone picks up sound and converts it into an electrical signal.
+	
+	A transducer is a device that changes energy from one form into another, in this case, acoustic energy into electrical energy. The operating principle determines some of the basic capabilities of the microphone. The two most common types are Dynamic and Condenser.
+
+	
+		
+			
+				
+					Dynamic microphones employ a diaphragm/voice coil/magnet assembly which forms a miniature sound-driven electrical generator. Sound waves strike a thin plastic membrane (diaphragm) which vibrates in response. A small coil of wire (voice coil) is attached to the rear of the diaphragm and vibrates with it. The voice coil itself is surrounded by a magnetic field created by a small permanent magnet. It is the motion of the voice coil in this magnetic field which generates the electrical signal corresponding to the sound picked up by a dynamic microphone.
+				
+					Dynamic microphones have relatively simple construction and are therefore economical and rugged. They can provide excellent sound quality and good specifications in all areas of microphone performance. In particular, they can handle extremely high sound levels: it is almost impossible to overload a dynamic microphone. In addition, dynamic microphones are relatively unaffected by extremes of temperature or humidity. Dynamics are the type most widely used in general sound reinforcement.
+			
+			
+				
+				Dynamic Microphone
+		
+		
+			
+				
+					Condenser microphones are based on an electrically-charged diaphragm/backplate assembly which forms a sound-sensitive capacitor. Here, sound waves vibrate a very thin metal or metal-coated-plastic diaphragm. The diaphragm is mounted just in front of a rigid metal or metal-coated-ceramic backplate. In electrical terms this assembly or element is known as a capacitor (historically called a condenser), which has the ability to store a charge or voltage. When the element is charged, an electric field is created between the diaphragm and the backplate, proportional to the spacing between them. It is the variation of this spacing, due to the motion of the diaphragm relative to the backplate, that produces the electrical signal corresponding to the sound picked up by a condenser microphone.
+					
+					The construction of a condenser microphone must include some provision for maintaining the electrical charge or polarizing voltage. An electret condenser microphone has a permanent charge, maintained by a special material deposited on the backplate or on the diaphragm. Non-electret types are charged (polarized) by means of an external power source. The majority of condenser microphones for sound reinforcement are of the electret type.
+					
+					All condensers contain additional active circuitry to allow the electrical output of the element to be used with typical microphone inputs. This requires that all condenser microphones be powered: either by batteries or by phantom power (a method of supplying power to a microphone through the microphone cable itself). There are two potential limitations of condenser microphones due to the additional circuitry: first, the electronics produce a small amount of noise; second, there is a limit to the maximum signal level that the electronics can handle. For this reason, condenser microphone specifications always include a noise figure and a maximum sound level. Good designs, however, have very low noise levels and are also capable of very wide dynamic range.
+					
+					Condenser microphones are more complex than dynamics and tend to be somewhat more costly. Also, condensers may be adversely affected by extremes of temperature and humidity which can cause them to become noisy or fail temporarily. However, condensers can readily be made with higher sensitivity and can provide a smoother, more natural sound, particularly at high frequencies. Flat frequency response and extended frequency range are much easier to obtain in a condenser. In addition, condenser microphones can be made very small without significant loss of performance.
+			
+			
+				
+				Condenser Microphone
+		
+	
+
+
+	
+	The decision to use a condenser or dynamic microphone depends not only on the sound source and the sound reinforcement system but on the physical setting as well. From a practical standpoint, if the microphone will be used in a severe environment such as a rock and roll club or for outdoor sound, dynamic types would be a good choice. In a more controlled environment such as a concert hall or theatrical setting, a condenser microphone might be preferred for many sound sources, especially when the highest sound quality is desired.
+

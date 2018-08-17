@@ -1,0 +1,20 @@
+Title: How to secure a mic to a flat surface
+Id: 4167
+Legacy Id: 5099
+
+Question:
+I need a method to fasten Shure MX418D/C mics to a table surface. I cannot drill into the surface and the mounting method cannot mar the surface.
+
+
+Answer:
+
+	We recommend the use of picture hanging strips made by 3M and sold as the Command Brand. The recommended strip is rated for 4 pounds and named Black Large Picture Hanging Strips. The strip dimensions are 3.6 long, 0.5 wide, 0.1 thick.
+	
+	There are two parts to each plastic strip. Each part has an adhesive backing. If desired, the adhesion can be broken without marring the surface.
+	
+	The two strip parts securely connect to each other with hundreds of miniature ball and socket joints made of plastic. Once pressed together, the connection is extremely stable and will prevent the mic from sliding on the surface.
+	
+	This method also works for boundary mics, such as the Beta 91A, MX391, MX392, or MX393.
+
+	
+

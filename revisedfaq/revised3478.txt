@@ -1,0 +1,23 @@
+Title: Results of FCC auction of 700 MHz
+Id: 3478
+Legacy Id: 3675
+
+Question:
+Where can I find the results of the recent FCC auctions of the 700 MHz spectrum?I want to know who won the rights to use each section of spectrum.
+
+
+Answer:
+
+	TheFCC conducted 6 different auctions of spectrum in the 700 MHz band, beginning in 2000.One block of spectrum (known as the D Block) still remains to be auctioned; as of July 2008 this auction has not been scheduled.The FCC publishes the results of each auction separately, but we have created a chart that summarizes the winners of each block of spectrum.This document is attached below as a PDF.
+	
+	In some cases, the winning bidder received a nationwide license to a particular block of spectrum.In other cases, dozens or even hundreds of different companies won regional licenses to use the same block of spectrum in a limited area.In some cases, a few regional licenses did not receive qualified bids, requiring a second auction to be held for the remaining licenses in that block.If you need to know exactly who won a particular regional license, you need to download the results of all 6 auctions from the FCCs website.On each Auction results page, scroll down to the heading of Closing Charts, find the one called License Winner, Sorted By License, and click on the link to the PDF document.
+	
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=33
+
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=38
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=44
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=49
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=60
+	http://wireless.fcc.gov/auctions/default.htm?job=auction_summaryid=73
+	Note:The results for Auction 73 were listed differently than the other auctions.Click on the link to Releases, then scroll down to the second item Auction of 700 MHz Band Licenses Closes dated 3/20/2008, and click on the link for Attachment A.
+

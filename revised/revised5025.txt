@@ -1,0 +1,16 @@
+Title: SystemOn and Crestron Room View
+Id: 5025
+Legacy Id: 6317
+
+Question:
+How does SystemOn work with solutions like Crestron "Room View"?
+
+
+Answer:
+
+	SystemOn could be an adjunct product to Crestron Room View.
+	
+	Room View gives high level status information about facilities and resources. The Shure software provides a more direct view into the microphone system and allows technicians to diagnose and update key settings in the Shure systems without any additional custom programming.
+	
+	A Crestron programmer could add a link from Room View to the Shure software for additional investigation and troubleshooting/resolution.
+

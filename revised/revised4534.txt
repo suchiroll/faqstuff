@@ -1,0 +1,13 @@
+Title: Mount SLX4 and SCM268 side by side?
+Id: 4534
+Legacy Id: 5653
+
+Question:
+Can I rack mount an SLX4 receiver and an SCM268 side-by-side in the same rack space? Can I use the included rack-mount hardware?
+
+
+
+Answer:
+
+	If both units are purchased new, you will have all the required hardware to mount the units, side by side, in one rack space.
+

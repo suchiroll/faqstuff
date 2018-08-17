@@ -1,0 +1,12 @@
+Title: Proper maintenance of microphones
+Id: 702
+Legacy Id: 720
+
+Question:
+We just added your Beta 58A wireless and 87A wired mics to our system this past weekend and they sound wonderful! However, we do have a question. What is the proper way to maintain these microphones? How do we keep the grilles and the windscreens underneath them from a build up of spit? Can we remove the grilles and windscreens and wash them? Please respond and thank you again for your excellent products!
+
+
+Answer:
+
+	Please read the following link: How should I clean my microphone?
+

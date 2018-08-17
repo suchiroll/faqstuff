@@ -1,0 +1,15 @@
+Title: Power hum coming from P4M Mixer
+Id: 1454
+Legacy Id: 1507
+
+Question:
+Experience buzzing through the system. Ground lifted main Power supply buzz still present. By-passed mixer and pluged main power cord into P4T Transmiter and the buzz went away.
+
+
+I'm not sure if the problem is with the "DC IN" or "DC OUT" on the P4M. It's also possible that the power extention cord for the transmitter could be the problem.
+
+
+Answer:
+
+	Try moving the P4M to another location. Perhaps it is in the hum field of another piece of equipment. If the P4M hums no matter where it is located, contact Shure Service for repair: 800-516-2525.
+

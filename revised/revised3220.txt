@@ -1,0 +1,676 @@
+Title: Quarter-wave antenna dimensions
+Id: 3220
+Legacy Id: 3370
+
+Question:
+What are the dimensions for 1/4 wave antennas for Shure wireless product?
+
+
+Answer:
+
+	
+		
+			
+				
+					Product Model
+			
+			
+				
+					Band
+			
+			
+				
+					Low End Frequency - MHz
+			
+			
+				
+					High End Frequency - MHz
+			
+			
+				
+					Center Frequency - MHz
+			
+			
+				
+					Quarter Wave Antenna Length - Inches
+			
+			
+				
+					Quarter Wave Antenna - Shure Model #
+			
+			
+				
+					Half Wave Antenna - Shure Model #
+			
+		
+		
+			
+				
+					PGX
+			
+			
+				
+					H6
+			
+			
+				
+					524
+			
+			
+				
+					542
+			
+			
+				
+					533
+			
+			
+				
+					5.3
+			
+			
+				
+					N/A
+			
+			
+				
+					N/A
+			
+		
+		
+			
+				
+					PGX
+			
+			
+				
+					J6
+			
+			
+				
+					572
+			
+			
+				
+					590
+			
+			
+				
+					581
+			
+			
+				
+					4.8
+			
+			
+				
+					N/A
+			
+			
+				
+					N/A
+			
+		
+		
+			
+				
+					PGX
+			
+			
+				
+					L5
+			
+			
+				
+					644
+			
+			
+				
+					662
+			
+			
+				
+					653
+			
+			
+				
+					4.3
+			
+			
+				
+					N/A
+			
+			
+				
+					N/A
+			
+		
+		
+			
+				
+					SLX
+			
+			
+				
+					G4
+			
+			
+				
+					470
+			
+			
+				
+					494
+			
+			
+				
+					482
+			
+			
+				
+					6.1
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820G
+			
+		
+		
+			
+				
+					SLX
+			
+			
+				
+					G5
+			
+			
+				
+					494
+			
+			
+				
+					518
+			
+			
+				
+					506
+			
+			
+				
+					5.8
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820G
+			
+		
+		
+			
+				
+					SLX
+			
+			
+				
+					H5
+			
+			
+				
+					518
+			
+			
+				
+					542
+			
+			
+				
+					530
+			
+			
+				
+					5.3
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820H4
+			
+		
+		
+			
+				
+					SLX
+			
+			
+				
+					J3
+			
+			
+				
+					572
+			
+			
+				
+					596
+			
+			
+				
+					584
+			
+			
+				
+					4.8
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820F
+			
+		
+		
+			
+				
+					SLX
+			
+			
+				
+					L4
+			
+			
+				
+					638
+			
+			
+				
+					662
+			
+			
+				
+					650
+			
+			
+				
+					4.3
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820L3
+			
+		
+		
+			
+				
+					ULX
+			
+			
+				
+					G3
+			
+			
+				
+					470
+			
+			
+				
+					506
+			
+			
+				
+					488
+			
+			
+				
+					6.0
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820G
+			
+		
+		
+			
+				
+					ULX
+			
+			
+				
+					J1
+			
+			
+				
+					554
+			
+			
+				
+					590
+			
+			
+				
+					572
+			
+			
+				
+					4.9
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820D
+			
+		
+		
+			
+				
+					ULX
+			
+			
+				
+					M1
+			
+			
+				
+					662
+			
+			
+				
+					698
+			
+			
+				
+					680
+			
+			
+				
+					4.1
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820L3
+			
+		
+		
+			
+				
+					UHF
+			
+			
+				
+					J4
+			
+			
+				
+					554
+			
+			
+				
+					584
+			
+			
+				
+					569
+			
+			
+				
+					4.9
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820D
+			
+		
+		
+			
+				
+					UHF
+			
+			
+				
+					M4
+			
+			
+				
+					662
+			
+			
+				
+					692
+			
+			
+				
+					677
+			
+			
+				
+					4.1
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820L3
+			
+		
+		
+			
+				
+					UHF, UC
+			
+			
+				
+					UB
+			
+			
+				
+					692
+			
+			
+				
+					716
+			
+			
+				
+					704
+			
+			
+				
+					4.0
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820B
+			
+		
+		
+			
+				
+					UHF, UC
+			
+			
+				
+					UA
+			
+			
+				
+					782
+			
+			
+				
+					806
+			
+			
+				
+					794
+			
+			
+				
+					3.5
+			
+			
+				
+					UA400
+			
+			
+				
+					UA820A
+			
+		
+		
+			
+				
+					UHF-R
+			
+			
+				
+					H4
+			
+			
+				
+					518
+			
+			
+				
+					578
+			
+			
+				
+					548
+			
+			
+				
+					5.1
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820H4
+			
+		
+		
+			
+				
+					UHF-R
+			
+			
+				
+					J5
+			
+			
+				
+					578
+			
+			
+				
+					638
+			
+			
+				
+					608
+			
+			
+				
+					4.6
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820J
+			
+		
+		
+			
+				
+					UHF-R
+			
+			
+				
+					L3
+			
+			
+				
+					638
+			
+			
+				
+					698
+			
+			
+				
+					668
+			
+			
+				
+					4.2
+			
+			
+				
+					UA400B
+			
+			
+				
+					UA820L3
+			
+		
+		
+			
+				
+					
+			
+			
+				
+					Quarter wave dimensions are actual and calculated for center frequency value.
+			
+			
+				
+					
+				
+					
+			
+		
+	
+
+

@@ -1,0 +1,19 @@
+Title: VNSE5MR stylus vs. VN5MR stylus
+Id: 4115
+Legacy Id: 4897
+
+Question:
+What is the difference between a Shure VNSE5MR stylus and a Shure VN5MR?Which one was produced first? Is there a difference in sound between thetwo?
+
+
+Answer:
+
+	VNSE5MR was designed to fit the VST V - a Special Edition cartridge.
+	
+	VN5MR was designed to fit the V15V-MR.It was produced first.
+	
+	The styli can be interchanged.
+	
+	
+	We find nothing in the engineering specs to indicate that one stylus was better than the other.
+

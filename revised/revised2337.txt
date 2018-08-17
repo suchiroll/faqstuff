@@ -1,0 +1,11 @@
+Title: SM98 cable to connect to a Shure Transmitter
+Id: 2337
+Legacy Id: 2423
+
+Question:
+What is the part number for the cable that connects the Shure SM98 mic capsule to a Shure transmitter with a four-pin TQG input?
+
+
+Answer:
+
+	The part number is 90A4039. The cable is 44 inches long. On one end is a 3 pin female TQG connector; on the other end is a 4 pin female TQG connector.

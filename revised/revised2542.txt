@@ -1,0 +1,19 @@
+Title: M367 Design Improvements
+Id: 2542
+Legacy Id: 2639
+
+Question:
+Has the design of the M367 ever changed?
+
+
+Answer:
+
+	In 2002, the M367 design was improved:
+	
+	1) With high quality potentiometers made by Noble.
+	
+	2) The tone oscillator circuit was changed so that all inputs are muted when the oscillator is activated.
+	
+	3) The level control for the tone oscillator was moved to the Master potentiometer.
+	
+	M367 units with the serial number beginning with L (or after) have these new features.

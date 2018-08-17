@@ -1,0 +1,12 @@
+Title: Tone Oscillator on M267
+Id: 1371
+Legacy Id: 1423
+
+Question:
+The tone oscillator on my M267 does not work correctly...sounds like a dying Canyon Wren. When I switch on the front panel control, the tone comes on, then the frequency drops, and the tone goes away entirely...a nice effect, but not what I'm looking for in a tone oscillator. How can I repair this?
+
+
+Answer:
+
+	Try replacing C223, 1uF at 25Vdc.
+

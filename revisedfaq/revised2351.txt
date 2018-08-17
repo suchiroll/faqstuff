@@ -1,0 +1,22 @@
+Title: Frequency response of SCM268
+Id: 2351
+Legacy Id: 2439
+
+Question:
+We are looking for a general purpose audio mixer for laboratory purposes. We need at most 4 channels but we do have applications that require extended frequency response up to 50kHz. Does the SCM268 have filtering put in to roll off the response above 20kHz? If so, do you know what the designed cutoff frequency is?
+
+
+
+Answer:
+
+	Here is what we measured:
+	
+	1kHz 0 dB
+	10kHz 0 dB
+	27kHz -1 dB
+	40kHz -2 dB
+	51kHz -3 dB
+	60kHz -4 dB
+	70kHz -5.2 dB
+	80kHz -6.4 dB
+

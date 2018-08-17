@@ -1,0 +1,18 @@
+Title: 520D, 520DX Green Bullet - Feedback
+Id: 631
+Legacy Id: 648
+
+Question:
+I USE A GREEN BULLET THROUGH A FENDER BASSMAN BUT CAN NEVER GET THE VOLUME HIGH ENOUGH DUE TO FEEDBACK. OTHER MICS DON'T DO THIS, BUT DON'T GIVE ANYWHERE NEAR AS GOOD A SOUND AS THE BULLET.
+
+
+Answer:
+
+	The Green Bullet is an omnidirectional microphone. The other mics you mention are likely unidirectional. In rock and blues performance, where the onstage level is loud, unidirectional mics are employed because they typically provide more gain before feedback.
+	
+	The Green Bullet has always been omnidirectional. If the design was changed to be unidirectional, the Green Bullet would no longer sound the same and harmonica players worldwide would revolt.
+	
+	Below is a link that discusses feedback and possible solutions. We also suggest you talk with other harmonica players and find out how they deal with the Green Bullet and feedback. Try posting a message at www.live-audio.com to reach sound engineers worldwide.
+	
+	How do I fix my feedback problem?
+

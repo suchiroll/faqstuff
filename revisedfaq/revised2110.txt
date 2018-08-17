@@ -1,0 +1,26 @@
+Title: 78 rpm reproduction and styli sizes
+Id: 2110
+Legacy Id: 2179
+
+Question:
+Among 78-lovers on the Internet the preferred pickup is often referred to as the discontinued M44/C with truncated styli from Expert Stylus in UK.
+
+Could you tell me what the sonical, mechanical and electrical differences are from the M44/C to the M75MB I use for 78 rpm records - along with a M78s I got hold of recently, because I was told it was impossible to get replacement 78 rpm styli for the M75.
+
+Is it possible to use M44/C stylus on a M75? From photographs I´ve seen, that they seem quite similar, while the the stylus from the M78s differ in several ways.
+
+I like the sound from both M78s and M75 with 78 rpm stylus, and I have different lp styli also for the M75 - good for worn lp records.
+
+But I need some special styli for some very old and abused records from around 1914. Here I need a much wider .0045 stylus, as provided by Expert Stylus. I could also use a .001 stylus for old mono lp's. Expert Stylus recommends the M44/C for the old lp's - not the M78s - not even with a compatible stylus.
+
+
+Answer:
+
+	The M44C has a .0007 inch radius, spherical stylus. It tracks at 3 to 5 grams. The output level is 9.5 millivolts per channel. The frequency response is 20 to 20,000 Hz. The replacement stylus is the N44C and it is available.
+	
+	The M75B has a .0006 inch radius, spherical stylus. It tracks at 1.5 to 3 grams. The output level is 5.0 millivolts per channel. The frequency response is 20 to 20,000 Hz. The replacement stylus is the N75B Type 2 and it is available
+	
+	The M78S cartridge has a .0025 inch radius, spherical stylus. It tracks at 1.5 to 3 grams. Note that this stylus radius is over 4 times the radius of the N44C.
+	
+	The recommended stylus radius for 78 rpm records is a minimum of .002 inch. A stylus tip of this size will not properly fit into an LP groove.
+

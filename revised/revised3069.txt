@@ -1,0 +1,24 @@
+Title: Shure SFG-2 gauge - affected by magnet in the cartridge?
+Id: 3069
+Legacy Id: 3200
+
+Question:
+Can the SFG-2 be used with moving coil cartridges, or only with moving magnet cartridges? It is my understanding that the magnets in moving coil cartridges are powerful enough to attract the stainless steel balance beam of the SFG-2 and produce incorrect readings.
+
+
+Answer:
+
+	Can the SFG-2 be used with moving coil cartridges, or only with moving magnet cartridges?
+	
+	- We only speak for Shure cartridges - all are moving magnet and work well with the SFG-2.
+	
+	
+	It is my understanding that the magnets in moving coil cartridges are powerful enough to attract the stainless steel* balance beam of the SFG-2 and produce incorrect readings.
+	
+	- This is feasible. Most phono cartridges use Mumetal for the cartridge body; MuMetal acts as a magnetic shield, thus shielding the internal mechanism from outside magnetic influence and vice versa. To test a phono cartridge body for external stray magnetic fields, use a paper clip and lightly touch it to the bottom of the phono cartridge. If the clip is attracted to the body, the cartridge body is not containing the magnet field within itself.
+	
+	- There are moving coil cartridges that do not have MuMetal bodies and therefore have an external magnetic field. Best to use a non-metallic stylus force gauge for such cartridges.
+	
+	
+	* Stainless steel has no, or very slight, magnetic properties.
+

@@ -1,0 +1,12 @@
+Title: BLX2 Handheld Transmitter - removeable mic element?
+Id: 4290
+Legacy Id: 5359
+
+Question:
+Does the BLX2 handheld transmitter use the same type of removeable mic element as previous Shure wireless systems?
+
+
+Answer:
+
+	Sorry, the answer is no. The mic element on the BLX2 cannot be removed.
+

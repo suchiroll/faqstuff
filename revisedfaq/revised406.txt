@@ -1,0 +1,22 @@
+Title: PSM400  frequency response
+Id: 406
+Legacy Id: 413
+
+Question:
+My band is getting ready to take the plunge into IEMs; we are running everything direct, and if everything works like it should, it will be a wonderful alternative to hundreds of pounds of monitors. I noticed a discrepancy in the specs of the PSM400 on the webpage, however.
+
+
+You list the system's frequency response as "50 Hz to 15 kHz", which is what my keyboardist warned me was his minimum requirements, and I pretty much agree; about the same as an FM Stereo radio. However, the manual for the P4R receiver lists *its* frequency response as "50 Hz to 12 kHz". Now, no matter what the transmitter was putting out, this would effectively limit the system response to 12 kHz. Which is true? If it is 12 kHz, is this a gradual rolloff, or drastic?
+
+
+We plan on putting an EQ before the transmitter, but no amount of EQ will fix what the P4R won't listen to.
+
+
+Thanks.
+
+
+Answer:
+
+	The correct frequency response specification for a complete PSM400 system (including the receiver) is:
+	
+	50 Hz to 15 kHz (+0, -3 dB re 1 kHz)

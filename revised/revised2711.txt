@@ -1,0 +1,10 @@
+Title: Can an LX Transmitter be used with an SC4 Receiver ?
+Id: 2711
+Legacy Id: 2815
+
+Question:
+Can an LX Transmitter be used with an SC4 Receiver ?
+
+Answer:
+
+	Yes. The SC4 must be tuned to the center frequency AND the tone key must be turned OFF. Do this via the front panel hidden compartment.

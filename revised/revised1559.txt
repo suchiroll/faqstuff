@@ -1,0 +1,31 @@
+Title: Stylus for Garrard Synchro Tech 95
+Id: 1559
+Legacy Id: 1613
+
+Question:
+Radio Shack on-line has (5) styli pictured.
+
+
+They are...
+
+
+N75-ED-T2 RSU# 10072619 Cat# 970-1168
+
+N75-C 10072684 1170
+
+N75-E/N75-G-T2 10072692 1171
+
+N75-EJ-T2 10072726 1172
+
+N75-EC 10072783 1175
+
+
+Please advise which, if any, is my replacement.
+
+
+Answer:
+
+	The difference is the tracking weight and the stylus tip shape. Please advise what is the tracking weight range of your tonearm.
+	
+	If you do not know, we suggest the N75EJ-T2 as a reliable choice. It tracks from 1.5 to 3 grams; the tip is elliptical.
+

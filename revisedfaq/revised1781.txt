@@ -1,0 +1,14 @@
+Title: How can I tell which mic is activated and be able to mute it?
+Id: 1781
+Legacy Id: 1841
+
+Question:
+Does Shure make a device that would indicate which mic is being activated and be able to cut that mic off?
+
+
+
+
+Answer:
+
+	Yes, if all the mics in question were connected to a Shure SCM810 automatic mixer. It has the capabilities you requested.
+

@@ -1,0 +1,13 @@
+Title: N78S stylus into an old model M44-7
+Id: 2435
+Legacy Id: 2530
+
+Question:
+I have an M44-7 from 20 to 25 years ago and would like to replace the stylus primarily with the N78S. Is this compatible? Also, just what is a DJ cartridge?
+
+
+Answer:
+
+	The plastic grip of the N78S stops it from fitting into the old M44-7 body. If  you own a Dremel drill, you can grind down the plastic on the body or on the stylus grip, and then you can use the N78S.
+	
+	We suggest you grind down the plastic on the body. If you grind the stylus grip, you will void the warranty.

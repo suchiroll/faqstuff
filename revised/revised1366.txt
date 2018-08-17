@@ -1,0 +1,10 @@
+Title: Table Microphone for a PA system
+Id: 1366
+Legacy Id: 1418
+
+Question:
+Which microphone would be best for the following application: Approximately 4 ft. round table; min. of two persons, with as many as 5 persons at table; relatively quiet surroundings; base of mic perhaps hidden in a flower arrangement; hard wired ok..have existing 3 pin hookups. This application is not for recording, but for use with a sound system. Could this be done with one mic, or would two be better?
+
+Answer:
+
+	Sound reinforcement systems are always subject to feedback. Mic placement is determined by the physics of sound systems, not by where the mics can be placed and look nice.Based on your question, it appears that your experience with sound system design is limited. Before you make any purchase, please read the booklet Audio Systems Guide to Meeting Facilities.We recommend you consider microphones from the MX series, perhaps the MX300 models. These models require phantom power for operation.However, where the mics can be placed and work successfully will be determined by physics, not the interior decorator.

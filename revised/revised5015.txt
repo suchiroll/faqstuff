@@ -1,0 +1,24 @@
+Title: Shure Model 99 and Model 99B Radio Modulator
+Id: 5015
+Legacy Id: 6307
+
+Question:
+What was Shure first RF (radio frequency) wireless product?
+
+
+Answer:
+
+	In 1933, Shure introduced the Model 99 Radio Modulator whose function was to make any radio set into a public address system.
+	
+	A Shure carbon microphone,such as the model 5N, was connected via cable to the model 99 in which the microphone signal was converted from an audio signal into an AM (Amplitude Modulation) radiosignal. An antenna cable from the model 99 connected to the antenna terminal on an AM radio set. To hear the microphone audio amplifed through the radio set, the radiotuningknobwas tuned to the middle of dial, around 1,000kHz (1MHz.)
+	
+	The model 99 employed three identical vacuum triode tubes, model #37: the first was anAC-to-DCrectifier; the secondwas a preamp for the microphone signal; the thirdprovided the AM modulation.
+
+	The model 99 operated from AC power or DC power; it had a toggle switch for On/Off and a potentiometer for Volume. The retail price was $33.50 ($622 in 2016 dollars.) The model 99B soon replaced the model 99. The primary change was a single rotary control for On/Off and Volume. The retail price was $39.50 ($734 in 2016 dollars.)
+	
+	Both Radio Modulator models were Finished in grained walnut and will match the most beautiful home furnishings. The grained walnut finish was brown paint applied to a metal enclosure.
+	
+	By 1935, the model 99 and model 99B disappeared from the Shure product catalog. The Shure Radio Modulator is perhaps the rarest of all Shure products.Fortunately,a pristine example of the model 99B is held in the Shure Archives.
+
+	See the attached PDF file below for model 99 and model 99B catalog pages.
+

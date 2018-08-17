@@ -1,0 +1,18 @@
+Title: Voice over microphone to record on computer
+Id: 236
+Legacy Id: 242
+
+Question:
+I'm a voice talent looking to install a home studio using my computer. I've had several offers for long distance work if I can record my voice and email a finished MP3 file. Could you please recommend a microphone for such an application? If you could also recommend a sound card and digital audio recording/editing program to use with such a microphone, I would be very grateful.
+
+
+Answer:
+
+	Divide your search into three parts: microphone; mic preamp; sound card and software.
+	
+	Microphone: To see which microphone we recommend for voice over, check out theView All page in our Microphones catalog. Also, see theRecording section of the Shure Notes blog.
+	
+	To connect your mic to the computer, see this link.
+	
+	Also, read Shures online MP3 Article.
+

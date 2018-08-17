@@ -1,0 +1,16 @@
+Title: wind noise and windscreens
+Id: 1547
+Legacy Id: 1601
+
+Question:
+I'm working on a project that involves cutting down wind noise for cyclists. As microphones use a windscreen to effectively do the same thing I thought it may also be appropriate to use the same material. The question is, what is the material? Is it just a polyurethane? Are there different ratings? Are there any that use a cloth instead of a foam?
+
+Where can I get any samples of this sort of thing?
+
+
+Answer:
+
+	The material is open cell foam. There are ratings are based on the the open-ness of the foam. The concept is to surround the microphone with still air, instead of turbulent air. The effectiveness of any windscreen is a direct function of its diameter, i.e., bigger is better.
+	
+	We suggest you contact a windscreen company for more assistance.
+

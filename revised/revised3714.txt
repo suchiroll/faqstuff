@@ -1,0 +1,11 @@
+Title: Hex Screw Wrench Size for RK100PK Preamp
+Id: 3714
+Legacy Id: 3947
+
+Question:
+I need to get inside of the RK100PK preamp to change the gain. This requires the removal of a small hex head set screw. I do not have the hex screw wrench that was packed with the MX mic. What is the size of the hex screw wrench?
+
+
+Answer:
+
+	The wrench size is 0.050 inch or 1.27mm.

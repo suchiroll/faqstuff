@@ -1,0 +1,13 @@
+Title: Is there a dual wireless system?
+Id: 767
+Legacy Id: 788
+
+Question:
+I have a situation. is there a dual recieving unit that can be used with an accoustic guitar as well as vocals?and with two seperate outs to the mixer? a reply would be appreciated.harry a silvia.
+
+Answer:
+
+	At 03/20/2001 10:14 AM we wrote - We do offer 3 different dual receivers, the T88, the LX88, and the UHF Series. Realize, though, that systems are simply 2 receivers placed in the same physical box. The T88 and LX88 are non-diversity systems, so you should expect an occasional dropout when using these two systems.
+	
+	We recommend that you look at 2 separate systems, such as the diversity T series or diversity LX series.
+

@@ -1,0 +1,26 @@
+Title: PG42 USB on 2014 MacBook Pro with OSx 10.10 Yosemite
+Id: 4651
+Legacy Id: 5814
+
+Question:
+I just got a new MacBook Pro (late 2014) running Yosemite (10.10) and connecting the PG42 USB through a USB 3.0 port and can barely get any audio from the mic at max gain. This mic worked flawlessly on my last MacBook Pro and I’m hoping to use it again.
+
+Answer:
+
+	
+		1) Please verify, if feasible, that the PG42-USB still works OK with another computer or a different operating system. Also try a new USB cable from the mic to the computer.
+
+
+
+	
+		2) Here are other suggestions:
+	
+		-  Open Audio MIDI preferences and select it as the default audio input and output. The built in mic on the computer could be the active audio source so as you talk into the PG42, the mac mic is slightly picking up your own voice.
+	
+		-  PG42 shows up as two separate audio devices in Audio MIDI preferences, but the volume controls in the Mac dont affect the headphone monitor volume or mic gain only the playback volume. Make sure that you turn up the headphone volume in the Audio MIDI preferences. There are two, one for left and one for right. The volume control in the toolbar is the master and does nothing, which is quite deceiving.
+	
+		-  Turn up the left and right channel volume in the Audio MIDI preferences, (find it by searching). The master volume in the toolbar does not affect the playback volume.
+
+
+
+

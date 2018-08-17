@@ -1,0 +1,12 @@
+Title: Hum in a Wired Microphone
+Id: 4358
+Legacy Id: 5443
+
+Question:
+I have an issue with audible hum in a microphone. I know it is related to the local environment because the mic is OK when used elsewhere? Suggestions?
+
+
+Answer:
+
+	Here is an article on this subject: http://recordinghacks.com/2013/02/18/fixing-microphone-hum/
+

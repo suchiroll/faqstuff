@@ -1,0 +1,16 @@
+Title: N75 stylus with Shure V15 Type II
+Id: 1732
+Legacy Id: 1791
+
+Question:
+Can you confirm that M75 compatible styli could be used in the V15 Type II?
+
+
+Answer:
+
+	Yes, the N75 replacement styli line will fit the V15 Type II body. The two N75 models available are:
+
+	
+	N75ED Type 2 - elliptical stylus; 0.75 - 1.5 grams tracking.
+	N75B Type 2 - spherical stylus; 1.5 to 3 grams tracking.
+

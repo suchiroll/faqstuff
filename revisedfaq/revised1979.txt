@@ -1,0 +1,10 @@
+Title: Connector Type on SC1 bodypack
+Id: 1979
+Legacy Id: 2042
+
+Question:
+What connector types is used in the SC Series i.e. TA4F?
+
+Answer:
+
+	The SC bodypack transmitter has a TA4M. The TA4F is at the end of the microphone cable.

@@ -1,0 +1,15 @@
+Title: UR1 and UR1M Input Impedance
+Id: 3439
+Legacy Id: 3631
+
+Question:
+What is the actual input impedance of the UR1 and UR1M bodypacks?
+
+
+Answer:
+
+	In the UR1, the input impedance is 1 megohm in all three input trim settings(-10 / 0 / +15 dB).  All three settings have a capacitor added to mimic the capacitance of a 10 foot (3 meters) guitar cable.
+	The UR1M Micro-Bodypack Transmitter has a different input stage from the UR1. 
+	
+	In the UR1M, the input impedance is 200 kohms at the 0 and +15dB settings.  In the -10dB setting, the input impedance is 900 kohms.  Again, all three settings have capacitance added to mimic a 10 foot guitar cable. We recommend using the -10dB setting for guitar.
+	 

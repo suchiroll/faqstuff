@@ -1,0 +1,11 @@
+Title: What are the noise specs for a dynamic mic, like the SM58?
+Id: 137
+Legacy Id: 137
+
+Question:
+What are the noise specs for a dynamic mic, like the SM58? e.g. Signal to noise ratio or noise floor.
+
+Answer:
+
+	As noted, the SM58 is a dynamic microphone and the noise specs are lower than can be typically measured. Dynamic microphones do not have the electrical components that their counterpart condenser microphones have. It is these electrical components that cause a condenser microphone to have a noise floor and signal to noise ratio. Since dynamic microphones do not have these electrical components, they essentially have a noise floor below 5 dB SPL depending on the actual impedance. If the SM58 noise floor is calculated at room temperature, the voltage output is 0.00000032 volts. This noise floor also applies to other Shure dynamic models, like the SM7, SM57, Beta 56, Beta 57, Beta 58, and others.
+

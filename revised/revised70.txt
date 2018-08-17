@@ -1,0 +1,38 @@
+Title: How do I fix my feedback problem?
+Id: 70
+Legacy Id: 70
+
+Question:
+How do I fix my feedback problem?
+
+
+Answer:
+
+	Feedback: Fact and Fiction
+
+	One of the most commonly asked questions in professional audio is What microphone can I use that doesnt cause feedback? The answer to the question is, of course, that no such microphone exists. Feedback results from a combination of many factors, including loudspeaker placement, microphone placement, the frequency response of both devices, and room acoustics.
+	
+	What is feedback?
+	Feedback is characterized by a sustained, ringing tone, which can vary from a low rumble to a piercing screech. Echoes and reverberation caused by room acoustics, as well as ground buzz and other extraneous noises, are not the same thing as feedback, and cannot be cured in the same manner.
+	
+	What causes feedback?
+	Feedback occurs whenever the sound entering a microphone is reproduced by a loudspeaker, picked up by the microphone, and re-amplified again and again. The familiar howl of feedback is an oscillation that is triggered by sound entering the microphone. The easiest way to create feedback is to point a microphone directly into a loudspeaker. (We dont recommend you try this!) Placing the microphone too close to the loudspeaker, too far from the sound source, or simply turning the microphone up too loud exacerbates feedback problems. Other contributing factors are too many open microphones, poor room acoustics, and uneven frequency response in the microphones or the loudspeakers.
+	
+	What can I do about feedback?
+	The single easiest way to reduce feedback is to move the microphone closer to the desired sound source. Keep microphones and loudspeakers as far away from each other as possible. Using a directional microphone (cardioid, supercardioid, etc.) can improve gain before feedback, but not in all circumstances.
+	
+	For speech systems,keeping the number of open microphones to a minimum by using an automatic mixer will improve gain before feedback. Do not use an automatic mixer for music. Lastly, acoustically treat the room to eliminate hard, reflective surfaces such as glass, marble, and wood.
+	
+	When all of the above solutions have been exhausted, the next step is to look towards equalizers and automatic feedback reducers. A common technique used by sound engineers is ringing out a sound system by using an equalizer to reduce the level of the frequencies that feed back first. After the techniques described in the above section have been applied, slowly bring up the system level until you begin to hear feedback. Now go to the equalizer andreduce the offending frequency roughly 3dB. If the feedback is a hoot or howl try cutting in the 250 to 500 Hz range. A singing tone may be around 1 kHz. Whistles and screeches tend to be above 2 kHz. Very rarely does feedback occur below 80 Hz or above 8 kHz. It takes practice to develop an ear for equalizing a sound system, so be patient. After locating the first feedback frequency, begin turning up the system again until the next frequency begins ringing. Repeat the above steps until the desired level is reached, but do not over equalize. Keep in mind the equalizers can only provide a maximum level increase of 3 to 9 dB. Parametric equalizers, though more confusing to the novice user, allow for more precise control of feedback frequencies. A graphic EQ allows the user to cut fixed frequencies with a fixed filter width. A parametric EQ allows the user to isolate specific frequencies and adjust the width and depth of the filter.
+	
+	Automatic feedback reducers will accomplish the same results as above. They automatically find and cut the frequencies that are feeding back. The same precautions listed above apply to feedback reducers as well as equalizers. Automatic feedback reducers are very helpful in wireless microphone applications. Remember that microphone placement is crucial to eliminating feedback, and the temptation to wander away from the ideal microphone position when using a wireless is great. If the performer gets too close to a loudspeaker, feedback will result; a good feedback reducer will be able to catch and eliminate the feedback faster than a human operator.
+	
+	Proper implementation of the above techniques will go a long way towards eliminating feedback in your sound system. Do not rely solely on equalizers or feedback reducers, and remember that feedback results from more than just the microphone!
+	
+	For more information, read Understand Sound System Design and Feedback.
+	
+	See also:
+	Controlling Feedback
+	Which microphone has less feedback?
+	The many variables of gain in a PA system
+

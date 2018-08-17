@@ -1,0 +1,12 @@
+Title: PGA81 Shock / Vibration Isolation Mount
+Id: 4859
+Legacy Id: 6046
+
+Question:
+Is there a shock mount that works with the PGA81 microphone?
+
+
+Answer:
+
+	The PGA81 fits securely into the A55M shock mount.
+

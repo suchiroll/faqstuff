@@ -1,0 +1,16 @@
+Title: SM7 research project
+Id: 1373
+Legacy Id: 1425
+
+Question:
+I'm a student under taking a course in sound engineering and I'm research (for school) the Shure SM7 microphone. I was hoping if you have time, can you please let me know of any links or personal experienced information that will help me with this project, example frequency response graphs, features and specifications. Thank you for your time.
+
+
+Answer:
+
+	All technical information on the SM7 can be found at: http://www.shure.com/ProAudio/Products/WiredMicrophones/us_pro_SM7B_content
+	
+	Information on microphone operation can be found at: http://www.shure.com/ProAudio/TechLibrary/EducationalArticles/ssLINK/us_pro_micsmusicstudio_ea
+	
+	Search the web for broadcast and recording bulletin boards. There may be postings about the SM7.
+

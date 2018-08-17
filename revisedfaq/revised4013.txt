@@ -1,0 +1,40 @@
+Title: Scan function - Recommended Method
+Id: 4013
+Legacy Id: 4420
+
+Question:
+I want to set up 8 Shure wireless systems using the Scan feature. What is the recommended method?
+
+Answer:
+
+	Note 1: If there are existing, older wireless systems that will still be used, make certain they are powered up, operating, and placed on stage before beginning the scanning function.  Refer to the User Guide of each Shure system for instructions on how to Scan.
+	
+		Power OFF all transmitters and power ON all receivers that have the scanning function.
+	
+		On receiver #1, scan for a clear channel.
+	
+		Once an open frequency has been located, power up transmitter #1 and set to the same frequency at receiver #1.
+	
+		Leave transmitter #1 powered up.
+	
+		Place transmitter #1 on stage at the location where it will be used during performance.
+		*THIS IS A VERY IMPORTANT STEP. Do not keep transmitter #1 near receiver #1 as this will cause false readings on the next scans.
+	
+		On receiver #2, scan for a clear channel. It will skip the transmitter #1 frequency and will find a new open frequency.
+	
+		Power up transmitter #2 and set to same frequency as receiver #2. Leave transmitter #2 powered up.
+	
+		Place transmitter #2 on stage at the location where it will be used during performance.
+		*DO NOT CREATE A PILE OF TRANSMITTERS ON STAGE. This will also create false readings on the next scans.
+	
+		Repeat steps 6, 7, and 8 for the remaining wireless systems.
+
+	Recommendation: Write down the Group/Channel settings for all scanned systems and keep it in a safe place.
+	
+	Note 2: It is feasible that 8 operating systems cannot be obtained using the scan feature because of local RF interference from TV stations or other sources. In that case, the solution is to use more expensive wireless systems that have a wider tuning range and better rejection of unwanted RF signals.
+	
+	Note 3: If a receiver is powered on, but its associated transmitter is powered off, the receiver may show RF activity from other transmitters or other RF sources.  This does not indicated a faulty receiver.  It indicates that the receiver is not captured by its associated transmitter, and it is attempting to pick up whatever RF signal is available.  This is normal operation for an RF receiver whose associated transmitter is powered off.
+	
+	Note 4: Using the Scan function is typically more accurate than a calculation of the desired frequencies.  The Scan takes into account the actual RF interference levels within the building and the RF shielding provided by the building structure.
+	
+	Note 5:  In less expensive wireless systems, the receiver scans only within the Group selected by the user.  In that case, start with Group 1 and continue until no additional open frequencies are found in Group 1.  Then select Group 2 and continue scanning until all open frequencies are used...then Group 3, etc. 

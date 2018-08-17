@@ -1,0 +1,12 @@
+Title: P4T to P4T-BNC: Upgrade program?
+Id: 2786
+Legacy Id: 2894
+
+Question:
+I've had my PSM400 system since last September. Love it. I saw on your website where the transmitter in the system has been modified a bit to now accept a remote antenna instead of the fixed, front-mounted one on my current P4T. That would actually work out better for me. Would it be possible to upgrade my unit to the new P4T-BNC? I really hope I can. If so, how do I go about doing this?
+
+
+Answer:
+
+	Sorry to disappoint you. The P4T-BNC is considered a new product, not an upgrade of the P4T. So there is no upgrade program for the P4T.
+

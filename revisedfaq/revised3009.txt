@@ -1,0 +1,50 @@
+Title: Beta52 and KSM32 - Why the difference in output levels?
+Id: 3009
+Legacy Id: 3138
+
+Question:
+I am trying to record a guitar track on my Yamaha AW16G Digital 16-Track WorkStation.
+
+
+I have miked up the 4x12 cabinet that I am running my amp through with a Beta52 1-inch away from the bottom left speaker lined up with the centre of the speaker, and a KSM32 2-inches away from the top right speaker lined up with the centre of the speaker.
+
+
+The cab is placed on the floor and its casters have been removed to preserve the base frequencies. The amp is at a sufficient volume for recording.
+
+
+I am having problems getting enough of a signal from the Beta52. Even with the input gain for the input on the Yamaha turned all the way up, it still isn't close to reaching the peak level on the Yamaha's monitor.
+
+
+The only way I can get close to the peak level is to use the Yamaha's EQ boost, adding 17db low gain and 15db low-mid gain (I deliberately didn't increase the high or hi-mid due to the highy adverse affect on the tone). However, as I am also using a KSM32, the added gain is also added to that input.
+
+
+I have used the input reduction switche and bass roll-off on the back of the KSM32 to compensate, but the added gain on the Yamaha is affecting the neutral sound of the KSM32, thus defeating the purpose of using it for its specific characteristics.
+
+
+I don't know why the Beta52 is providing such a low level of signal. Could it have anything to do with the fact that the 48v phantom power from the Yamaha, which the KSM32 requires, is also going to the Beta 52 as both mics are connected to the XLR balanaced inputs of the Yamaha ?
+
+
+I have a seperate phantom power supply that I can run the KSM32 through, and therefore turn off the phantom power on the Yamaha, but I don't expect this to be a solution as I don't think phantom power affects balanced dynamic mics.
+
+
+1. Is this a regular/usual problem ?
+
+2. Does it sound like my Beta52 could be faulty ?
+
+3. What solutions are there to the problem ?
+
+
+Answer:
+
+	I dont know why the Beta52 is providing such a low level of signal.
+	* The Beta 52 is a dynamic microphone. All dynamic mics have a much lower output level than a typical condenser mic.
+	
+	Could it have anything to do with the fact that the 48v phantom power from the Yamaha, which the KSM32 requires, is also going to the Beta 52 as both mics are connected to the XLR balanced inputs of the Yamaha ?
+	* The phantom has no effect on the Beta 52 output level.
+	
+	* The problem lies in Yamaha. The designers did not provide enough gain in the mic preamp to handle dynamic mics. We see this all the time with digital recording systems - the designers do not understand the wide variation in mic output levels.
+	
+	* For a given input, the KSM32 provides a signal 28 dB greater than the Beta 52. 28dB translates into a multiplication factor of 25; the KSM32 signal is 25 times greater than the signal from the Beta 52.
+	
+	* The solution is an external mic preamp to amplify the Beta 52 mic before it enters the Yamaha.
+

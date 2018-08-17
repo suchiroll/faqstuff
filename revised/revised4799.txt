@@ -1,0 +1,14 @@
+Title: QLX-D and ULX-D with electric guitars
+Id: 4799
+Legacy Id: 5985
+
+Question:
+I have encountered a strange issue. I own QLX-D and ULX-D. Both sound great on guitar. But on some guitar setups, I've noticed that there is an odd audible noise present. Any ideas?
+
+
+Answer:
+
+	Some guitars (and other instruments) with poorly shielded or poorly grounded internal preamps / electronics can be susceptible to noise into the audio path if used with ULXD and QLXD. This is caused by a radio frequency component present in common digital transmission schemes, such as used in QLX-D and ULX-D.
+	
+	Sometimes the noise can be reduced by moving the wireless transmitter farther away from the guitar body. The better solution is to improve the shielding / grounding in the guitar electronics if possible.
+

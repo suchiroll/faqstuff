@@ -1,0 +1,19 @@
+Title: Wireless mics for DJ
+Id: 654
+Legacy Id: 671
+
+Question:
+I am shopping for a friend who is a local DJ. He does a lot of private events where the crowd could be up to 200-300 people.  I am looking for a reasonably priced wireless microphone to go with his DJ equipment, something that has at least 300 feet of range.
+
+Could you please recommend couple of your products?
+
+Answer:
+
+	We suggest the BLX Series.
+	
+	Also, please read the following booklet about wireless:
+	
+	https://522bb370f5443d4fe5b9-f62de27af599bb6703e11b472beadbcc.ssl.cf2.rackcdn.com/publication/upload/438/us_pro_intro_to_wireless_ea.pdf
+	
+	TIP: Most DJs find significant performance improvements (less dropouts)by placing the wireless mic receiver up on top of their loudspeaker.
+

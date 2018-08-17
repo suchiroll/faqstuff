@@ -1,0 +1,14 @@
+Title: SE30 Rack Mount Brackets (A100B)
+Id: 1133
+Legacy Id: 1171
+
+Question:
+Tech support has been most helpful in supplying a copy of the tech manual for the SE30 gated compression mixer. I am inquiring about the availability of the A100B rack mount "ears" for the SE-30. Are they still available, and, if so, how do I order them??
+
+
+Answer:
+
+	Very unlikely as the SE30 was discontinued nearly 30 years ago. Try Shure Parts at 800-516-2525.
+	
+	Also consider using a universal rack tray. Try: http://www.middleatlantic.com
+

@@ -1,0 +1,19 @@
+Title: N75C Stylus
+Id: 867
+Legacy Id: 894
+
+Question:
+I am in need of an acceptable replacement for a Shure M75CS Cartridge as it appears to no longer be available. My grandson broke off the stylus. This cartridge is used in a BSR McDonald 510 automatic turntable which is a component of a Heathkit Compact Stereo Center Model AD-27A that I assembled around 1968 -1970. Needless to say there is sentimental value involved here.
+
+I really only need the stylus (.0006" spherical diamond, Shure N75C) but I am not sure I can get that without buying the whole cartridge. The phono cartridge has a tracking pressure of 3 to 5 grams.
+
+If you have an idea for a replacement please let me know where I can buy or order it from. Thank you.
+
+Answer:
+
+	The N75-6 stylus is available from Shure Parts at 800-516-2525. It will fit the cartridge body M75CS.
+	
+	The N75-6 tracking range is 1.5 to 3 grams. Use the 3 gram setting on your tonearm.
+	
+	The N75C stylus is no longer available from Shure.
+

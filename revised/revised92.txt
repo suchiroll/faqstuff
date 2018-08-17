@@ -1,0 +1,25 @@
+Title: Theater Audio - Where do I place microphones for a school play?
+Id: 92
+Legacy Id: 92
+
+Question:
+My daughter's elementary school is doing a play on a conventional proscenium stage that is 24' wide and 12' deep. They have a house sound system that allows 3 mic-level inputs (that can be phantom powered at 24 volts) along the front edge of the stage. The speakers are permanently mounted on the proscenium wall on either side of the stage. I can mount 3 mics on stands in front of the stage (with the mics slightly higher than stage floor level), or perhaps place mics like the MX390 series on the stage floor. Can you make recommendations of microphone type or model? Cardioid vs super cardioid, hand-held mics in stands at floor level vs floor mounted MX390 series or others?
+
+
+Answer:
+
+	Place 3 or 4 MX300 series boundary microphones across the front apron (about every 6 to 8 feet) and then hang 3 or 4 MX202 microphones 6 feet back from the apron.
+	
+	If use something other than boundary microphones, than we suggest thePG81 microphones on stands. Place the microphones at mouth height. Do not use stands that only lift the microphones 1-2 feet. This will cause comb filtering due to acoustic reflections off the stage floor. How far the performers are from the microphones will determine if stand mounted microphones would be beneficial. If the performers are close to the microphones, then the stand mounted microphones would be beneficial. If the performers are further back, then the performance of the boundary microphone verses the stand mounted mic would be similar.
+	
+	When positioning the mics, adhere to the 3-to-1 rule. Details on this rule are in the publication listed below.
+	
+	Only turn up the microphones that are near the performers on stage. Turn down (off) any unused microphones. The fewer microphones that are activated, the louder the PA system can be. More mics on equals more feedback, not less.
+	
+	Cardioid microphones would be the best choice for this application. Finally, do not expect the in-your-face sound quality of a current Broadway theater production when using distant miking. The current Broadway sound is achieved by using multiple wireless systems on each main actor with a microphone mounted somewhere on the actors head. Each theatrical wireless system typically costs between $3,000 and $5,000. Yes, we do mean thousands, not hundreds!
+	
+	Comb filtering and the 3-to-1 rule are described in our on-line publication Microphone Techniques for Sound Reinforcement listedat this FAQ.
+	
+	More Information:
+	Theater Audio: The Science Behind the Illusion
+

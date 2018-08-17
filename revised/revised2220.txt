@@ -1,0 +1,12 @@
+Title: N78S into a M44C body?
+Id: 2220
+Legacy Id: 2296
+
+Question:
+I know I am a lot of years out of date, but; I have a Shure M44C cartridge which I have tried to use to play some 16" transcriptions I have - they are VERTICAL - it works, but; the stylus of course is designed for Microgroove work. Do you have a 2mil stylus(which as I remember is the correct one to do the above ) which will fit the 44C??
+
+
+Answer:
+
+	The N78S stylus will fit the M44C body with modification. The plastic stylus grip of the N78S is too tall; it hits the plastic body of the M44C. You must grind away the top 1/3 of the N78S stylus grip for it to fit.
+

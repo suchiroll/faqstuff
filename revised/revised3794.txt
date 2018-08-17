@@ -1,0 +1,12 @@
+Title: Where to connect antenna on UAPF-X1
+Id: 3794
+Legacy Id: 4032
+
+Question:
+On the UAPF-X1, which of the connectors goes to the antenna and which goes to the receiver?
+
+
+
+Answer:
+
+	It does not matter. The UAPF-X1 is bi-directional and the antenna can be connected to either port.

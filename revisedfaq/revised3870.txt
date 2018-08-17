@@ -1,0 +1,37 @@
+Title: 545S pivot washers
+Id: 3870
+Legacy Id: 4113
+
+Question:
+I just purchased a used 545S ....the question...what is the final configuration of all those washers on the pivot bolt...I cant seem to get them just right...every combo I try, no matter how tight i make the bolt, they loosen immediately once you pivot it...love this mic...I am a harp player...I can't find it in the data sheets...no info...maybe you have a better schematic or cut sheet of the break down on these that I could follow. Thanks and love all your classic mics.
+
+
+Answer:
+
+	The 545S was discontinued in 1978.The remaining documentation is the User Guide.
+
+	An old 545S drawing indicates the following order:
+	
+	Bolt
+	Flat washer - brass
+	Flat washer - nylon
+	Spring washer (wavy or bent shape)
+	Flat washer - nylon
+	Mic body
+	Flat washer - nylon
+	Lockwasher (starred - external tooth)
+	Nut
+
+	The bolt and nut tighten independently. Once getting all of the parts assembled in the right order, this is how things need to be tightened:
+
+	1) Tighten bolt until mic swivels with desired resistance. The bolt engages with threads in the mic base.
+
+	2) Tighten nut against mic base. This will ensure the desired resistance is retained and the bolt doesnt come loose.
+
+	These instructions should also apply to:
+
+	545S
+	546
+	566
+	SM56
+

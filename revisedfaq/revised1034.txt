@@ -1,0 +1,14 @@
+Title: How many PSM700 receivers can be used at the same time?
+Id: 1034
+Legacy Id: 1066
+
+Question:
+How many PSM700 receivers can be used with a single transmitter? Also, how many transmitters can be operated at the same time?
+
+
+Answer:
+
+	The maximum number of PSM700 transmitters that can be used simultaneously is 16. (Unless there are particular TV transmitters in the immediate vicinity which would lower the maximum number of available frequencies.)
+	
+	Each transmitter will handle one stereo mix or two monaural mixes. Any number of receivers can be used with one transmitter.
+

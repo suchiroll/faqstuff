@@ -1,0 +1,9 @@
+Title: MXW2 replacing batteries
+Id: 5463
+Legacy Id: 
+
+Question:
+I found the instructions on replacing the battery for the MXW2 in the User Guide, but size of bit is needed for those screws in the bottom of the handle?
+
+Answer:
+The two security screws require a T8H bit.

@@ -1,0 +1,12 @@
+Title: Rechargeable AA batteries
+Id: 3024
+Legacy Id: 3153
+
+Question:
+In reading the specifications of the SLX1 and SLX2 transmitters, they both mention they work on alkaline or rechargeable AA cells (batteries). Can you give any particular specifications for rechargeable AA cells?
+
+
+Answer:
+
+	We recommend the following: Rechargeable AA Cells - Lithium Polymer
+

@@ -1,0 +1,23 @@
+Title: EAC9BK Earphone Extension Cable - Dimensions
+Id: 4589
+Legacy Id: 5744
+
+Question:
+Please provide dimensions of the EAC9BK cable.
+
+Answer:
+
+	EAC: Earphone Accessory Cable
+	
+	9: Total cable length in inches (23 cm)
+	
+	BK: Black cable
+	
+	3.5 mm male stereo phone plug: It has four sections.
+	1) Tip-Ring-Sleeve metal mating section 15 mm in length
+	2) Next is circular plastic section - 3 mm in length and 5.8 mm in diameter
+	3) Next is circular plastic section - 13 mm in length and 7.5 mm in diameter
+	4) Next is the flexible cable strain relief - 18 mm in length
+	
+	3.5 mm female stereo phone jack: 35 mm in length including cable strain relief
+

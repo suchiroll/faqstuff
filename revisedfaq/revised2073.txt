@@ -1,0 +1,11 @@
+Title: Replacement grille for SM85
+Id: 2073
+Legacy Id: 2139
+
+Question:
+On the SM85 pdf, replacement grille for discontinued SM85 is RK214G. Is this piece still available? Will other BLACK grille work as replacement (Ex Black Beta87A grille)? What is the order reference for such item ?
+
+
+Answer:
+
+	Shure Parts will have the RK214G as it is used for the Beta 87 as well. Please contact our Service Department at 800-516-2525.

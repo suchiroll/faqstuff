@@ -1,0 +1,26 @@
+Title: Two Presenter Systems - Static
+Id: 1516
+Legacy Id: 1570
+
+Question:
+I ordered and received two presenter wireless systems (diversity receivers).
+
+They work well separately. But when I try to use both at once I get static.
+
+Any ideas as to possible causes and solutions would be appreciated.
+
+
+
+---- 08/13/2001 09:46 AM ----------------------------------------------
+
+Both systems have operating frequencies of 183.600 MHz. That number appears on the back of both transmitters and both receivers.
+
+
+Answer:
+
+	Please advise the operating frequency of each system you own. Look for a number like: 176.200 MHz.
+	
+	At 08/13/2001 10:00 AM we wrote - That is your problem. Two systems cannot operate in the same vicinity on the same frequency. The two systems will work fine together when each has its own unique frequency.
+	
+	Contact the dealer that sold you these wireless systems. Inform them of their error (selling you two systems on the same frequency) and ask that one of the systems be replaced with a frequency that is not 183.600 MHz.
+

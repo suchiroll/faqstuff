@@ -1,0 +1,14 @@
+Title: UR5 receiver and SBC200 Charger
+Id: 4117
+Legacy Id: 4899
+
+Question:
+Can the UR5 rechargeable battery pack (SB900A) be recharged by placing the UR5 into the SBC200 charger?
+
+
+Answer:
+
+	Sorry, the answer is no. For recharging, remove the battery pack from the UR5, then place the battery pack into the SBC200.
+
+	(The purpose of the UR5 external battery contacts is for providing DC power from an outside source, such as an Anton Bauer battery pack.)
+

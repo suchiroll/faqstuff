@@ -1,0 +1,13 @@
+Title: Beta 57A and Beta 58A Comparison
+Id: 40
+Legacy Id: 40
+
+Question:
+What's the difference between a Beta 57A and a Beta 58A?
+
+Answer:
+
+	The form factor of the mics is different; basically, the grille and the label. The different grilles make the response of these two microphones slightly different in the higher frequencies. In addition, the Beta 57A grille allows a little closer placement of the microphone cartridge, which translates to higher output, more gain before feedback, and a more bass response, i.e. proximity effect.
+	
+	The Beta57A grill and the Beta58A grill are interchangeable.
+

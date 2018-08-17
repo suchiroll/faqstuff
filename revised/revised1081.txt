@@ -1,0 +1,14 @@
+Title: Lapel microphone for two-way radio
+Id: 1081
+Legacy Id: 1116
+
+Question:
+I would like to know what you have available in the lapel mic line. I am doing a project wiring a lapel mic for use with a G.E. two-way radio.
+
+
+Answer:
+
+	Shures lavalier microphone line consists of several omnidirectional choices, a cardioid and supercardioid models. We need to know more about the application and more importantly, the technical specifications of the radio.
+	
+	Please refer to the following FAQ for the information we would need to assist you in your choices. Will microphone model X work with my device that needs a mic?
+

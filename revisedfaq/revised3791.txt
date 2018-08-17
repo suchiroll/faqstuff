@@ -1,0 +1,11 @@
+Title: Cisco IP phone set with Shure headphones/earphones with microphone
+Id: 3791
+Legacy Id: 4029
+
+Question:
+My office uses Cisco IP phone sets - model 7942. Is there a method to connect my Shure SRH240m to the Cisco phone set?
+
+
+Answer:
+
+	This web site that sell a Cisco adapter cable to use the SRH240m, SRH240m+, SE115m, SE115m+, and SE earphones with CBL-M cables:http://www.headsetadapter.com/index.php?_a=viewProd=15The control switches on the Shure cable are inactive when used with a Cisco phone set; only the earphones operate and the microphone operates.  The audio level for the earphones and for the microphone are controlled by the Cisco phone set.NOTE: Cisco offers many different phone sets.  Shure has tested the cable above only with the Cisco model 7942.  Shure does not guarantee that our products will work with every Cisco phone set when using the adapter cable listed above.

@@ -1,0 +1,21 @@
+Title: Comparison between the KSM27 and the KSM32.
+Id: 2052
+Legacy Id: 2117
+
+Question:
+Comparison between self noise, frequency response at different distances, polar pattern differences at various distances. I will be miking vocals and horns(trumpets and saxophones)for most of my recordings-perhaps drums(maybe). Considering the price difference, I would suspect quite an audible difference-or am I wrong.
+
+
+Answer:
+
+	The specifications can be found in the User Guides for both products.
+	
+	KSM32 User Guide
+
+
+	KSM27 User Guide
+
+
+	
+	The KSM32 has a very neutral sound to it. The KSM27 has a more full bodied, warm sound. We suggest that you visit your local Shure dealer and listen to both microphones. Sound is subjective and only you can decide which mic you like better.
+

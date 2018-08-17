@@ -1,0 +1,18 @@
+Title: Microphone Physics and Design
+Id: 4036
+Legacy Id: 4468
+
+Question:
+For a dynamic microphone, this is my understanding. For a given sound pressure level, the pressure level and also the air movement (for a perfect gas using the gas law) is Asin(wt). If the diaphragm  associated moving mass of the microphone is sufficiently light enough to respond, it too will have a movement of Asin(wt). If this is coupled with a coil in a fixed magnetic field, the coil response will be N dO/dt (rate of change of flux) which results in an output voltage of NAw(cos(wt)). This means the output will rise at a 20dB/decade for a fixed spl. The response graphs are flat, so I'm missing something. What am I missing?
+
+
+Answer:
+
+	You are missing the arcane technology, tricks of the trade, and ingenuity that microphone engineers employ to make a microphone with a respectable frequency response.There are many variables that can be tweaked, including the diaphragm damping, its resonance, its mass, the acoustical chamber behind the diaphragm, and much more.The details of exactly how are trade secrets - not revealed in patents.
+	
+	To learn more, we recommend two books:
+	
+	TheMicrophone Book - John Eargle - ISBN0-240-51961-2
+	
+	Microphone Engineering Handbook - Michael Gayford - ISBN 0-7506-199-5
+

@@ -1,0 +1,12 @@
+Title: FP24 use
+Id: 1418
+Legacy Id: 1471
+
+Question:
+I am mech engineer using a DAT tape recorder with a stereo microphone with two 3 pin XLR microphone connectors. Can I use the FP24 as pre amp with a phantom voltage and also use the FP24 as an input for a power amplifier?
+
+
+
+Answer:
+
+	Yes, the FP24 will provide both functions you require.

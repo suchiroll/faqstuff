@@ -1,0 +1,92 @@
+Title: SCM820 Fan Acoustic Noise
+Id: 4322
+Legacy Id: 5400
+
+Question:
+The SCM820 has a cooling fan. Please provide operational details and noise measurements.
+
+
+Answer:
+
+	The SCM820 fan onlyactivates when the internal air temperature reaches 65 degrees C, or roughly 40 degrees C ambient air temperature. The fan activates at Start speed when the low temperature set-point is reached for one second before backing off to the Minimum speed. Installing the SCM820 in a well-ventilated rack will typically keep the internal temperature below 65 degrees C.
+	
+	Note: High fan speed will occur only at temperature extremes. Under normal operating conditions, the fan will remain idle.
+	
+	Measurement mic on-axis with the cooling fan:
+
+	
+		
+			
+				Total Noise 20-20k dBA SPL
+		
+		
+			
+				
+			
+				Fan Speed
+		
+		
+			
+				Distance
+			
+				Min
+			
+				Start
+			
+				Mid
+			
+				High
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				1 meter
+			
+				20
+			
+				26
+			
+				29
+			
+				31
+		
+		
+			
+				2 feet
+			
+				24
+			
+				31
+			
+				34
+			
+				35
+		
+		
+			
+				10 cm
+			
+				40
+			
+				46
+			
+				49
+			
+				51
+		
+	
+
+
+	
+

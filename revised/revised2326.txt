@@ -1,0 +1,12 @@
+Title: Stylus for RXP3 cartridge
+Id: 2326
+Legacy Id: 2412
+
+Question:
+I need a new stylus. What stylus would be a good one to choose? I have an old Technics SL-B211 turntable, and Realistic RXP3 cartridge.
+
+
+Answer:
+
+	The N104E stylus should fit your RXP3 cartridge.
+

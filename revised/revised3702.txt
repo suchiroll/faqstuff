@@ -1,0 +1,17 @@
+Title: Gooseneck with XLR connector
+Id: 3702
+Legacy Id: 3930
+
+Question:
+Does Shure sell a gooseneck with an XLR connector on the end?
+
+
+Answer:
+
+	Shure offers the models G12-CN (12 inch long gooseneck in chrome) and the G18-CN (18 inch long gooseneck in chrome) that include an integrated female 3-hole XLR connector for directly attaching a microphone.
+	
+	Switchcraft sells XLR adapters that can be fitted onto the standard 5/8"-27 threads of a gooseneck for custom assemblies:
+	
+	Switchcraft P3F Adapter - Female XLR 3-hole microphone jack for mounting on a gooseneck. Has internal 5/8"-27 threads to attach to a gooseneck with external 5/8"-27 threads. This connector is typically used at the "top end" of the gooseneck where a microphone is attached.  
+	
+	Switchcraft P3M Adapter - Male XLR 3-pin plug for mounting on a gooseneck. Has external 5/8"-27 threads to fit a gooseneck with internal 5/8"-27 threads.  This connector is typically used at the "bottom end" of a gooseneck and mates with a female XLR connector mounted in a desk, table, or lectern surface.

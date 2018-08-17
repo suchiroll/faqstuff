@@ -1,0 +1,197 @@
+Title: UHF-R Quick Start Frequency Setup
+Id: 5083
+Legacy Id: 3745
+
+Question:
+How do I easily set up the frequencies on UHF-R wireless systems?
+
+
+Answer:
+
+	UHF-R Quickstart Frequency Setup
+
+
+	
+		
+			
+				
+					
+						
+							Same Frequency Band. All wireless channels share same frequency code (G1, H4, J5, L3, or X1)
+					
+				
+				
+					
+						
+					
+						
+					
+						
+				
+				
+					
+						
+							Choose either network or non-network path
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Networked Receivers. Receivers are networked together using an Ethernet Router  the network icon is showing in the UHF-R Display.
+									
+								
+							
+						
+					
+					
+						
+					
+						
+							
+								
+									
+										
+											
+												
+													Non-Networked Receivers. Receivers share the same frequency band but are not networked together using a router.
+											
+										
+									
+								
+							
+						
+					
+				
+				
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							
+								
+									
+										Group Scan. Perform a Group Scan. Press [RADIO][SCAN] [GROUP SCAN]. Results will show the best group and # of available frequencies. Push Flashing [ENTER]
+								
+							
+						
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Group Scan. Perform a Group Scan. Press [RADIO][SCAN][GROUP SCAN]. Results will show the best group and # of receivers found. Push the flashing [ENTER] button. Frequency setup will be performed.
+									
+								
+							
+						
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+					
+						
+							
+								
+									
+										
+											Group Setup. Setup all remaining receivers to recommended group from scan results. Push [RADIO]. Rotate scroll wheel on highlighted [G:] to recommended group. Push flashing [ENTER] when finished.
+									
+								
+							
+						
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Transmitter Sync. Turn on one transmitter and open battery door. Hold sync window on transmitter up to the sync window on desired receiver (far left hand side). Push [SYNC] on receiver. Push [SYNC] again to lock transmitter to proper receiver. Orange RF lights should appear after sync. Repeat process with remaining transmitters.
+									
+								
+							
+						
+					
+					
+						◄---
+					
+						
+							
+								
+									
+										
+											Channel Scan  Sync. Perform a channel scan with first receiver. Push [RADIO] [SCAN][CHANNEL SCAN] then [ENTER] when finished. Lock the transmitter to the receiver by performing Transmitter Sync. Leaving the transmitter on. Repeat channel scan  sync with remaining systems. PLEASE NOTE: After performing the transmitter sync, it is essential to leave the transmitter on so the following receiver does not select the same frequency.
+									
+								
+							
+						
+					
+				
+			
+		
+	
+
+
+
+	To coordinate multiple frequency bands together, use the Wireless Workbench Software.
+

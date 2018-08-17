@@ -1,0 +1,15 @@
+Title: 585SAV volume poteniometer
+Id: 4342
+Legacy Id: 5427
+
+Question:
+I am in need of a RK93S replacement pot for a 585 SAV, can you provide specifications for replacement?
+
+
+
+Answer:
+
+	Sorry, Shure has not had parts for the 585 SAV for nearly 30 years. The engineering drawings are no longer available so we cannot find the value of the pot.
+	
+	Looking at the 585 SAV User Guide, we estimate that the pot was between 25,000 ohms and 50,000 ohms, with an audio/log taper.
+

@@ -1,0 +1,24 @@
+Title: Dating older Shure microphones
+Id: 2262
+Legacy Id: 2343
+
+Question:
+I'm looking at a Shure 707A (manufactured from 1940 through 1970) with a serial number of B2878. Can an approximate manufacture date be estimated from the serial number? If so is there a resource for narrowing manufacture dates through this methodology for other older discontinued Shure microphones? If not, is there another way to narrow the manufacture date?
+
+
+Answer:
+
+	Can an approximate manufacture date be estimated from the serial number? * No.
+	
+	If so is there a resource for narrowing manufacture dates through this methodology for other older discontinued Shure microphones?
+	* No.
+	
+	If not, is there another way to narrow the manufacture date?
+	* No.
+	
+	Sorry, but Shure never anticipated the vintage mic market and the interest in when a product was made.
+	
+	Shure products are gradually modified and changed over the years. These changes are documented via internal/confidential Engineering Change Orders (ECO). When a product has been discontinued, its ECOs are archived off-site and eventually destroyed. This is necessary as a company creates a lot of paperwork in 80+ years.
+	
+	Perhaps a vintage mic collector may have useful information for you.
+

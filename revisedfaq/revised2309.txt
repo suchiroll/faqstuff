@@ -1,0 +1,16 @@
+Title: Shotgun Microphone for a PA System?
+Id: 2309
+Legacy Id: 2395
+
+Question:
+Ourauditorium is about 60 (width) x 200 (length) feet and we currently use an amplified sound system (Loudspeakers are mounted in the ceiling about 10 feet apart). Currently wireless microphones are passed to audience participants which involves a lot of walking but otherwise works well. Do you think a Shotgun Microphone would work in a scenario like this? If so, how would you implement this solution? Would feedback be an issue?
+
+
+Answer:
+
+	A shotgun will not work. In your situation, a mic that is within 12 or less of the talker is required. The reason is physics - the Potential Acoustic Gain equation.
+	
+	A wireless mic is a great solution. Or a mic on a stand that a talker walks up to. Or a mic on the end of a long boom pole that is positioned close to the talkers mouth by a sound tech.
+	
+	Listen to the audio demo at: Miking a talker in a noise room - AUDIO DEMO
+

@@ -1,0 +1,14 @@
+Title: DFR22 Audio Input Connectors - Use all at the same time?
+Id: 3924
+Legacy Id: 4172
+
+Question:
+Each of the two audio inputs on the DFR22 System Processor has a phoenix-block connector and an XLR connector.Is it possible to simultaneously feed audio from two different sources into both of the connectors simultaneously?
+
+
+Answer:
+
+	It is permissible to feed audio into both the phoenix-block and XLR input connectors simultaneously on each input channel. Both the phoenix-block and XLR input connectors are wired together, but through 600 Ohm bridging resistors.This provides adequate isolation between two different audio sources that will prevent their output drivers from loading each other. This will also minimize the effects of changing the gain structure should one source device be disconnected from time to time.
+	
+	The typical output impedance of a pro-audio device is typically very low, often in the 50 to 100 Ohm range.The typical input impedance of a pro-audio device is often in the 10,000 to 20,000 Ohm range.Connecting a low impedance output driver to a typical medium impedance input provides excellent signal voltage transfer and very good signal to noise ratio performance. If two low impedance driver outputs are wired directly together as a Y connection to combine their signals, it will probably work.The complication is that each output driver stage will load each other unnecessarily due their very low impedance.To combine two low impedance outputs together, bridging resistors are recommended to provide some isolation between the output drivers.
+

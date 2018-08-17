@@ -1,0 +1,27 @@
+Title: How to connect audio mixer line out to Shure bodypack transmitter
+Id: 1136
+Legacy Id: 1174
+
+Question:
+This is my possible setup:
+
+Audio mixer line out 1/4 phone, transformer high/low (set to low) with XLR out to U1 transmitter switchcraft TA-4F.
+
+
+How exactly to wire XLR cable with Switchcraft TA4F?
+
+
+It will be pin 1 to shield and pin 3 audio but which wire should I use out of XLR side? from pin 2 or 3???
+
+
+Answer:
+
+	XLR pin 1 (shield) to TA4F pin 1
+	XLR pin 2 to TA4F pin 3
+	XLR pin 3 to TA4F pin 1
+	No connections to TA4F pin 4
+
+	
+
+	This cable can be purchased as Shure WA310.
+

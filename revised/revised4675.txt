@@ -1,0 +1,12 @@
+Title: PSM900 Frequency Band Discontinuation
+Id: 4675
+Legacy Id: 5842
+
+Question:
+In June 2015, Shure discontinued two PSM900 frequency bands in the U.S. What are these bands?
+
+
+Answer:
+
+	K1(596-632 MHz)and L6 (656-692 MHz)frequency bands.
+

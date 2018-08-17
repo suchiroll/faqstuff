@@ -1,0 +1,12 @@
+Title: Motiv MVi or MV5 or MV51 headphone volume level is low
+Id: 4714
+Legacy Id: 5884
+
+Question:
+The MVi (or MV5 or MV51) headphone volume level is very low. Suggestions?
+
+Answer:
+
+	Adjust the headphone output level for "Shure MV" in the device's Control Panel or Sound Settings.  Upon the initial installation of the driver, this setting is automatically lowered.  Once changed, the driver should retain the settings for future use.  
+	
+	Set the recording device's headphone level to its maximum, and adjust the listening volume level on the Motiv product.

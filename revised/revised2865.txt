@@ -1,0 +1,15 @@
+Title: Convert WH20QTR to WH20TQG
+Id: 2865
+Legacy Id: 2977
+
+Question:
+I bought the T-series headset a few years ago, and am now thinking of upgrading the transmitter and receiver systems. The problem is that none of the UHF wireless systems in your catalogue allow a 1/4 inch input into the transmitter. If this is the case, is there anyway that I can manually rewire my WH20QTR into a WH20QTG? If so, what is the wiring configuration?
+
+
+Answer:
+
+	WH20 QTR tip connection - move to WH20TQG pin 3 connection
+	
+	WH20 QTR sleeve connection - move to WH20TQG pin 1 connection
+	
+	Do not use WH20TQG pin 2 or pin 4.

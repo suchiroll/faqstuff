@@ -1,0 +1,16 @@
+Title: Shure TTR-116 test record
+Id: 3824
+Legacy Id: 4062
+
+Question:
+What was the TTR-116? Is it still available?
+
+
+Answer:
+
+	Created in 1979, the TTR-116 was designed to test output level and channel crosstalk. Both sides of the 33 1/3rpm LP record were the same. It was not a consumer test record.
+	
+	Sine wave signals were recorded at 1kHz with a 5cm/second peak velocity. The record bands alternated between left and right channel recordings. The record label had a strobe pattern for setting turntable speed.
+	
+	Sorry, the TTR-116 is no longer available.
+

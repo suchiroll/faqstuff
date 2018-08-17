@@ -1,0 +1,16 @@
+Title: PSM 900 U.S. Frequency Ranges
+Id: 3650
+Legacy Id: 3858
+
+Question:
+What are the frequency groups and ranges in the U.S. for the PSM900?
+
+
+Answer:
+
+	U.S. prime frequency ranges:
+	
+	G6: 470 to 506 MHz
+	G7: 506 to 542
+	K1: 596 to 632 (Discontinued)
+	L6: 656 to 692 (Discontinued)

@@ -1,0 +1,16 @@
+Title: Microphone for tape recording of concerts
+Id: 2199
+Legacy Id: 2275
+
+Question:
+I am a field recorder or "taper" of live Rock concerts. Jazz, Acoustic Allman Brothers, Phil  Friends etc. Current set up is Shure BG4.1 into Zeifro Analog to digital converter/preamp into Sony D-8. I LOVE my mics but being a taper I'm a tweeker, so I'm looking for just that lil something extra. A little more bottom and a little more expansive high end. I prefer my mics to others costing hundreds more. I'd love a replacement cartridge which would give me the desired effect.
+
+
+Answer:
+
+	Sorry, thereis no replacement cartridge for the BG4.1
+	
+	You can upgrade to the SM81, but it requires an external 12 to 48V phantom power supply.
+	
+	Or you can upgrade to KSM141 mic, but it requires an external 48V phantom power supply.
+

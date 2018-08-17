@@ -1,0 +1,14 @@
+Title: Microphone switching box
+Id: 248
+Legacy Id: 254
+
+Question:
+I have a question in reference to your tech bulletin Ref. #000531-0008 "Can I parallel microphones into one input of my mixer?" I would like to build a passive mic selector for dynamic mics (namely SM57's.) Each mic would have a corresponding switch on a box. I will only be using one mic at a time (it's switch would be on), while the other mics would be in the off (or mute) position. This way I could select one of four mics into one mixer input. Is this possible? Could I get a schematic for this? I wasn't sure if a parallel or series configuration would be best. Would this compromise the sound quality at all? Also, what could I do to keep hum to a minimum?
+
+
+Answer:
+
+	We strongly suggest you use a mic level combining transformer. The best source for such a product is Jensen Transformers in Van Nuys, California - phone 213-876-0059; www.jensen-transformers.com. It is likely they have an applications bulletin already written on this subject.
+	
+	FYI - The silent way to turn off a low impedance balanced mic is to short XLR pin 2 to XLR pin 3; and un-short pins 2 and 3 to turn on the mic. A mic on/off switch is not wired like a light bulb on/off switch!
+

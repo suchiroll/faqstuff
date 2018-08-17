@@ -1,0 +1,14 @@
+Title: Electro-magnetic fields and dynamic mics
+Id: 2119
+Legacy Id: 2188
+
+Question:
+I currently use an SM57 dynamic mic in my hobby studio and have problems with electro-magnetic fields resulting in an audible hum at higher gain levels. I'm wondering if condenser microphones are less susceptible to electro-magnetic fields.
+
+
+Answer:
+
+	In general, the answer is yes. This does assume that the condensor mic circuitry is properly shielded in a metal handle. The SM57 is susceptible to hum fields because the grill surrounding the voice coil is plastic. The Beta 57 would be a better choice than the SM57 because of its metal grill.
+	
+	It is the voice coil of the SM57 (or any dynamic mic) that picks up the hum field.
+

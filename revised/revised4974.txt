@@ -1,0 +1,14 @@
+Title: MXA310 Mounting Hole
+Id: 4974
+Legacy Id: 6239
+
+Question:
+What size of hole is required to install a MXA310 microphone on a table?
+
+
+
+Answer:
+
+		One inch diameter.  The MXA310 uses the same threaded mount as the MX396. Instructions on in the "Hardware and Installation" section of the User Guide.
+
+

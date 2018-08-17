@@ -1,0 +1,12 @@
+Title: Floor Mat Switch
+Id: 2824
+Legacy Id: 2934
+
+Question:
+Where can I find a floor mat switch to activate the SCM810 logic?
+
+
+Answer:
+
+	http://www.bpesolutions.com/sensoroduct.html
+

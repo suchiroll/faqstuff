@@ -1,0 +1,15 @@
+Title: Using other Receivers to Monitor PSM
+Id: 791
+Legacy Id: 813
+
+Question:
+I'm running different mixes on different frequencies, even combining some PSM 600's with PSM 700's.  Is it possible to monitor these transmissions with a non-Shure radio scanner that would pick up the necessary frequencies between 600-800 MHz, so that I could easily switch between the different feeds?  Would it sound OK on the scanner or would I only get scrambled static or distortion?
+
+Answer:
+
+	A great question...with no answer. A scanner will not work because the PSM transmits a multiplexed stereo signal; a scanner cannot properly demodulate a stereo FM signal. You would hear audio but it would sound funny. A PSM 700 receiver could be used for the PSM 700 transmissions, but tuning will be awkward.
+	
+	What you require is a interesting niche product no company is making. Let us know if you find a device, or if you start making one yourself!
+	
+	Also, check out: www.winradio.com They offer a PC based spectrum analyzer that will demodulate the PSM transmission as a mono signal with fair fidelity.
+

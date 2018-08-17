@@ -1,0 +1,24 @@
+Title: Acoustical Issues Created by Laptop Computers
+Id: 4612
+Legacy Id: 5768
+
+Question:
+How should mics be placed on a boardroom table where laptop computers are used?
+
+
+Answer:
+
+	In the modern boardroom, a common sight is a laptop computer, powered up with screen raised, in front of each attendee.On the opposite side of the laptop screen, there often is a poorly positioned microphone, such as a boundary mic, or button mic, or gooseneck mic.When the laptop screen is lowered, there is a direct path from the talkers mouth to the mic; but when the screen is raised, the talkers speech hits the laptop screen and is deflected in multiple directions.The audio quality supplied by the mics is thus compromised and intelligibility suffersbut dont the mics look great installed down the middle of the incomprehensively expensive boardroom table.
+	
+	If laptop computers are commonly used in a boardroom, the microphones must not be placed behind the laptop screens. Boundary microphones must be placed between the laptop locations.Gooseneck microphones that reach above the top of the laptop screens may be placed behind the computers. In brief, each talker must clearly see her/his own microphone at all times. If not, speech intelligibility suffers.
+	
+	Why is intelligibility compromised? Because the laptop screen blocks/deflects the higher frequencies of speech. Higher frequencies carry the consonants; consonants provide the meaning of most words.
+	
+	Vowels from a sentence: o e o e io.
+	Consonants from the same sentence: Bb wnt t th arprt.
+	Complete sentence: Bob went to the airport.
+	
+	One can ascertain the sentence meaning from the consonants, but not from the vowels. Consonants impart the meaning of many words. Vowels make the words mellifluous.
+	
+	Line-of-sight from the talkers mouth to the microphone is essential for intelligible speech.
+

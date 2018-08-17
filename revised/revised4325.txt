@@ -1,0 +1,16 @@
+Title: MXWNCS4 wobbles on a table surface
+Id: 4325
+Legacy Id: 5405
+
+Question:
+I noticed the MXWNCS4 4 channel networked charging station wobbles when placed on a table. Please comment.
+
+
+Answer:
+
+	There are two rubber disks that cover two holes used for permanent mounting. The solution is to peel off the two rubber disks that cover the mounting holes, or add two more rubber disks at appropriate locations. The threaded inserts in the holes are used for permanently securing the charging station to cabinetry, a counter, or a shelf.
+
+	
+
+	Starting in September 2013, the two rubber disks will be removed from the MXWNCS4 unit, and the wobble issue will be resolved.
+

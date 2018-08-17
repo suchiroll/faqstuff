@@ -1,0 +1,79 @@
+Title: GLX-D Pro / Con of the 2.4 GHz Frequency Band and User Hints
+Id: 4438
+Legacy Id: 5538
+
+Question:
+Why did Shure choose the 2.4 GHz band for the GLXD?
+
+
+Answer:
+
+	There is no perfect frequency band for a wireless mic system. Every frequency band has pros and cons. GLX-D operates within the 2.4GHz ISM band which is utilized by Wi-Fi, Bluetooth, and other wireless devices.
+	
+	2.4 GHz Pros
+
+	
+		No license required in any country.
+	
+		No interference from local TV stations.
+
+
+	
+	2.4 GHz Cons
+
+	
+		Used for many other wireless services, such as Wi-Fi. Note there are audio mixing boards that use Wi-Fi for remote control.
+	
+		Heavy RF traffic in this band can adversely affect the GLX-D performance. Symptoms can be short transmission range, frequent loss of signal, inability to operate multiple GLX-D systems at the same time.
+	
+		The human body efficiently absorbs and blocksthis frequency. The short 2.4 GHz wavelengths (4.9 inches) make it essential to maintain line-of-sight between the transmitter and the receiver for the most reliable operation.
+	
+		Microwave ovens can produce local interference in this frequency band.
+	
+		At 2.4 GHz, transmission distance outdoors is typically far less than indoors.Outdoors there is a lack of surfaces to reflect the transmitted signal.Such reflections improve transmission distance indoors.As a general rule, 2.4 GHz waves do not effectively penetrate many types of walls.
+
+
+	NOTE: In theory, it is feasible to simultaneously operate up toeight GLX-D systems in one venue under optimal conditions. However, local interference in the 2.4 GHz bandwill often reduce this number to four or less.
+
+	
+	The challenge of 2.4GHz is that Wi-Fi traffic can be unpredictable. GLX-D meets these challenges as follows:
+
+	
+		Prioritizes and transmits on the best three frequencies per channel - choosing from a pool of six frequencies across the 2.4GHz band.
+	
+		Repeats the most important information such that one frequency can be taken out entirely without audio interruption.
+	
+		Continuously scans during usage to rank all frequencies - both current and backup frequencies.
+	
+		Quickly moves away from interference to use backup frequencies without audio interruption
+
+
+	Coexisting with Wi-Fi
+
+	If Wi-Fi will be active during a performance, turn on Wi-Fi devices prior to turning on GLX-D and scanning for the best channel. GLX-D detects and avoids other Wi-Fi traffic by scanning the entire 2.4GHz environment and selecting thethree best frequencies to transmit on. Bursting Wi-Fi is harder to detect as it is periodic; however, because GLX-D repeats the most important information, even bursts at very high-levels often will not have an effect on audio performance. If there is a Wi-Fi transmitting device in use, the GLX-D receiver must be placed at least 10 feet away from the device.
+
+	Challenging Wireless Environments
+
+	Some environments are more difficult than others for 2.4 GHz wireless system performance. Additionally, RF signal absorption by the human body has a greater impact in the 2.4 GHz spectrum, compared to the UHF spectrum. The simplest solution often is to reduce the transmitter to receiver distance such as placing the receiver on the stage with a clear line of sight. Challenging environments include:
+
+	
+		Areas with few reflective surfaces such as: Outdoors; Buildings with very high ceilings.
+	
+		A venue wherethree or more GLX-D receivers are in use.
+	
+		Strong Wi-Fi presence. A typical Wi-fi transmitter/receiver will emit a signal ten times stronger(or more) than the GLX-D signal.
+	
+		Non-Shure 2.4 GHz systems in use - unlike analog TV band wireless system (which typically use the same type of RF transmission no matter the manufacturer) every 2.4GHz wireless currently on the market uses adifferenttype of wireless transmission. These differences make it difficult to successfully mix and match 2.4 GHz from multiple manufacturers.
+
+
+	
+	Predicted Operating Distance
+	
+	Indoors: Up to 100 feet (30 meters) is typical, with a maximum of 200 feet (60 m) under ideal conditions.
+	Outdoors: Up to 65 feet (20 meters) typical, with a maximum of 165 feet (50 m) under ideal conditions.
+	
+	However, adverse local RF conditions can limit GLX-D operating distance to as little as 10 to 20 feet. In the worst case, the GLX-D may not operate at all. Please read this:Conversation at a Loud Party and Wireless Microphones
+
+	
+	See the GLX-D User Guide for additional suggestions on improving performance in difficult venues.
+

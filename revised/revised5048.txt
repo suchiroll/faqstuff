@@ -1,0 +1,19 @@
+Title: IH6500 bias voltage
+Id: 5048
+Legacy Id: 6341
+
+Question:
+
+What is the bias or phantom voltage requirements for the condenser elementon the model IH6500?
+
+
+
+
+Answer:
+
+	
+
+	The IH6500 requires bias of3 - 10 Vdc.
+
+	
+

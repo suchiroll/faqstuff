@@ -1,0 +1,21 @@
+Title: Replacing an SC1 transmitter
+Id: 2602
+Legacy Id: 2703
+
+Question:
+Originally our church had 4 x SC4 receivers, 2 x SC1/SC14 lavaliers, and 2 x SC2/58 wireless handhelds. We have lost one of the SC1/SC14s (transmitter pack and microphone)and need to replace it. I notice from your web site that the SC1 is now an obsolete product...
+
+So my question is - do you have another transmitter pack/cardioid lavalier mike that is compatible with the SC4 receivers that we already have? Or do we have to buy the receiver as well as the transmitter pack and microphone?
+
+
+Answer:
+
+	The T1 transmitter will work with the SC4 receiver with three warnings:
+	
+		The T1 is only available on a handful of frequencies that the SC series was offered on. Thus, you must check frequencies first.
+	
+		The T1 is not retunable and will only work if the SC4 is set to its "base" frequency.
+	
+		The T1 does not have tone key squelch and so the Tone Key circuit must be deactivated on the SC4 receiver. This on/off switch is located on the SC4 front panel behind the door.
+
+	If the idea above is not viable, you will need to purchase a complete new wireless system.

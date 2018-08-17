@@ -1,0 +1,12 @@
+Title: PSM1000 ethernet type
+Id: 4427
+Legacy Id: 5526
+
+Question:
+What is the type of ethernet connection on the PSM1000 transmitters? 10/100 or GigEthernet? So I don't over spec the type of switch I need.
+
+
+Answer:
+
+	10/100.
+

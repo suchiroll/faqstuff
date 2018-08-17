@@ -1,0 +1,20 @@
+Title: Replacing T1P Transmitter
+Id: 1067
+Legacy Id: 1102
+
+Question:
+I have a T4 receiver that have a frequency of 177.600 MHz. and a T1P(old) bodypack transmitter that have a frquency CC 177.600 MHz. Can I replace the T1P transmitter with the new T1 transmitter? Does this transmitter have to be in the same frequency with the receiver? Thanks!
+
+
+
+
+Answer:
+
+	Yes and Yes.
+	
+	The T1 transmitter can be used with the receiver. Yes, it can be purchased on the same frequency.
+
+	
+
+	The T series is now discontinued and transmitters are no longer available.
+

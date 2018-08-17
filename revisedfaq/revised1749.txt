@@ -1,0 +1,35 @@
+Title: What type of Input connection does the SCM800 have on front panel?
+Id: 1749
+Legacy Id: 1808
+
+Question:
+We have a couple SCM800's in an auditorium. We want to connect some conferencing equipment to one of them temporarily. There is a 1/4" Input jack on the front panel but I can't tell from the specifications (user guide) if this is a balanced TRS type jack or unbalanced (I realize I might have missed something).
+
+
+The conferencing equipment is a Gentner AP800 so we can generate a balanced output.
+
+
+---- 09/26/2001 01:09 PM ----------------------------------------------
+
+If we have a mono line level signal from the Output on the
+
+Gentner should we use a mono 1/4 plug (which would ground the
+
+unused right channel) or use a stereo 1/4plug and leave the
+
+ring open (or connected to ???).
+
+
+Thanks again for your quick answers!
+
+
+Answer:
+
+	The Aux input on the front panel (and rear panel) is unbalanced. It is wired:
+	
+	Tip and Ring: resistively isolated, then summed together
+	Sleeve: ground
+	
+	It is designed to have a stereo 1/4" connector plugged into it with left on tip, right on ring, and ground on sleeve. The tip and ring are summed together inside the mixer to form a mono signal. This connector is line level.
+	
+	At 09/26/2001 01:12 PM we wrote - Makes no difference. Using the mono plug will attenuate the signal slightly, maybe 1 dB or so. Use whichever wiring scheme is easier.

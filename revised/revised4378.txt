@@ -1,0 +1,13 @@
+Title: GLX-D4 and GLX-D6 USB Port
+Id: 4378
+Legacy Id: 5469
+
+Question:
+I've recently purchares the GLX-D wireless system.What is the purpose of the USB port on the receiver?
+
+
+
+Answer:
+
+	The USB port is only for factory servicing, firmware updates,and diagnostics. It is not intended to be used for any other reason. Also, as it is a USB receiving port, it does not have a DC voltage on it, and cannot be used to recharge another device.
+

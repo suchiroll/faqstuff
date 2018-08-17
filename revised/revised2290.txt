@@ -1,0 +1,17 @@
+Title: SM57 vs. Beta 57A
+Id: 2290
+Legacy Id: 2374
+
+Question:
+What are the differences between the SM57 and the Beta 57A? Which one would be better for snare drum/guitar amp?
+
+
+Answer:
+
+	Polar pattern: Beta 57A = supercardioid; SM57 = cardioid
+	Output level: Beta 57A is 4dB hotter than SM57
+	Handling noise: Beta 57A is quieter than SM57
+	Grill: Beta 57A has a hardened grill that is very difficult to dent
+	Frequency response: Beta 57A has extended low end and high end compared to SM57
+	
+	The Beta 57A sounds different than SM57. You may like it better or you may not. We suggest a side by side comparision at your favorite Shure dealer.

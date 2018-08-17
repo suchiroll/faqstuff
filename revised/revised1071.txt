@@ -1,0 +1,12 @@
+Title: Does 514B need phantom power?
+Id: 1071
+Legacy Id: 1106
+
+Question:
+Does this microphone require phantom power, if not, can it operate in the presense of phantom power?
+
+
+Answer:
+
+	The 514B does not need phantom power. Its a dynamic microphone. It will ignore phantom power if the microphone connection to the device is balanced.
+

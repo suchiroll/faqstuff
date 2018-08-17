@@ -1,0 +1,16 @@
+Title: Best type of mic for computer speech recognition?
+Id: 2685
+Legacy Id: 2789
+
+Question:
+If you were trying to put the best computer speech recognition system (objective being to get the best speech quality into the computer) what would be your choices?
+
+
+Answer:
+
+	The best is a headworn microphone, because it positions the microphone close to the mouth and keeps a consistent distance. Look at the WH30 and WH20. In a test conducted January 2005, the WH30 provided a recognition score of 99% correct.
+	
+	If another mic style is desired, the MX418D/C gooseneck microphone provided a recognition score of 97% correct.
+	
+	Note that most professional microphones will require an interface box, like a microphone preamp, to be employed. The professional microphone connects to the input of interface box; the output of interface box connects to the computer.
+

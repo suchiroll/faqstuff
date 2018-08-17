@@ -1,0 +1,9 @@
+Title: KSM8 shock mount
+Id: 5445
+Legacy Id: 
+
+Question:
+What shock/vibration mount is recommended for the KSM8?
+
+Answer:
+The model A55HM is recommended.  The model A55M will also work but is a very tight fit on the KSM8 handle.

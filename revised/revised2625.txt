@@ -1,0 +1,12 @@
+Title: V15 Type III Output Voltage
+Id: 2625
+Legacy Id: 2727
+
+Question:
+What is the output voltage rating of the Shure V15 Type III cartridge in millivolts when measured at 1Khz and 5cm/sec?
+
+
+Answer:
+
+	3.5mV 2dB
+

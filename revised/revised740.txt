@@ -1,0 +1,14 @@
+Title: SM57 into 1/4" or 1/8" input
+Id: 740
+Legacy Id: 759
+
+Question:
+What transformer do I need so I can run an SM57 into a Tascam Porta four-track with 1/4" inputs? I would also like to know if I should plug it into the mic or line input of a PC soundcard when using the transformer with a 1/4" to 1/8” adapter?
+
+
+Answer:
+
+	If you need a transformer to slightly boost the signal so that it is compatible with the input sensitivity of the four-track, then the A85F would be a fine choice. If the input sensitivity of the four-track is appropriate for the output of the SM57, then a transformer is not necessary. You can you just a straight adapter cable, such as the C20HZ.
+	
+	For your soundcard, you would use the microphone input for both an adapter cable or a transformer. Again, depending on the input sensitivity of the soundcard, the transformer may or may not be necessary. If you want a transformer that already has an 1/8 plug on it, then purchase the A96F. For a straight cable that goes from XLR to 1/8, purchase the RP325 cable.
+

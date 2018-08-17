@@ -1,0 +1,14 @@
+Title: XLR to 1/4'' transformer
+Id: 1193
+Legacy Id: 1237
+
+Question:
+Do you make an xlr female to 1/4'' male transformer with a short tag line going to the 1/4'' end? If so could you tell me how I may order one.
+
+
+Answer:
+
+	Our XLR female to 1/4 male transformers are model A95UF and A85F.
+	
+	The transformers can be purchased from any Shure dealer.
+

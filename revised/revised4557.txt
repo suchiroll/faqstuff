@@ -1,0 +1,37 @@
+Title: PA421A comparison to PA411
+Id: 4557
+Legacy Id: 5681
+
+Question:
+Please compare the PA421A RF combiner with the less expensive PA411 RF combiner.
+
+Answer:
+
+	PA421A Bandwidth: 470 - 952 MHz
+	PA411 Bandwith: 470 - 865 MHz
+	
+	
+	PA421A Nominal Input Power: 20dBm / 100 mW
+	PA411 Nominal Input Power: 15dBm /30 mW
+	
+	
+	PA421A Absolute Maximum Power Input: 24dBm / 250 mW
+	PA411 Absolute Maximum Power Input: 20dBm / 100 mW
+	* With the PA411, 50 mW is the specified maximum input in order to minimize unwanted IMD frequencies. 30mW is recommended as this will provide headroom.
+	
+	
+	PA421A DC Supply to PSM Transmitters: Four DC coax jacks/ports
+	PA411 DC Supply to PSM Transmitters: One DC coax jacks with supplied four plug break-out cable (PS411-PC)
+	
+	
+	PA421A Cascade RF Port: Yes
+	PA411 Cascade RF Port: No
+	* It is not recommended to combine the RF outputs of two PA411 units using a passive combiner like the UA221. The radiated RF power will be noticeably reduced with this method.
+
+	
+	PA421A Power Supply: Internal
+	PA411 Power Supply: External
+	
+	
+	
+

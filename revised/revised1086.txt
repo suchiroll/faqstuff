@@ -1,0 +1,16 @@
+Title: Phono cartridge VST V
+Id: 1086
+Legacy Id: 1121
+
+Question:
+I have just acquired the above cartridge 2nd hand here in England but cannot find it listed in your current or discontinued product lines. Could you supply me with any background info and installation guidelines. I have already down loaded guides for the V15VxMR as I assume this is very similar. The serial no. on a spec. sheet enclosed is VST-V 004929 but the stylus body has the no.140073 so I assume the stylus has been replaced at some point.The cartridge body is all black and the stylus grip is grey metallic I am basically looking for some info on age, where it fitted into the Shure cartridge range and recommended tracking weight.
+
+
+Answer:
+
+	It was a variation on the V15 V cartridge. The main differences were probably packaging. The specifications are pretty much the same.
+	
+	The literature we have dates it around 1987.
+	
+	Tracking force: 1.2 grams
+

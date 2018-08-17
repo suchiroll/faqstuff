@@ -1,0 +1,11 @@
+Title: Age of 556S
+Id: 1945
+Legacy Id: 2008
+
+Question:
+I recently bought a Shure 556S, and was trying to figure out when the microphone was made. The serial number is 9041V. Is there any way to get a ballpark birth-year??
+
+
+Answer:
+
+	The mic was made from 1951 until 1981. The serial number does not help. It is simply a manufacturing lot number; it does not designate the year of manufacture.

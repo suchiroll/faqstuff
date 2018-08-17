@@ -1,0 +1,80 @@
+Title: Audio for Video: Sound Elements and Ambience
+Id: 4653
+Legacy Id: 5816
+
+Question:
+Most videographers and budding filmmakers agree: it’s just as important to capture and manipulate audio as it is video in production and postproduction. Audiences, according to the experts, are more irritated by poor sound than poor cinematography. Think about it: we’ve all seen badly lit shots that we might have handled differently. But bad sound is almost impossible to ignore. For sound advice, we turned to Dean Miles, who has been a professional location audio operator for television and film. His specialty: field recording (in places like the wilds of Central America). In this article, he targets the one-person-camera operator and explains the importance of recording sound elements to create a soundscape that complements the visual imagery of your project.
+
+Answer:
+
+	What are sound elements?
+	
+	Sound elements are components of sound that are recorded during the production process and then edited together to create the rich stereo mix that we all know and love.
+	
+	When Im recording sound on location, I need to record a variety of sound elements to create a stereo mix in post. These include recording dialogue, supporting ambience, room tone, and environmental ambience.
+	
+	A good way to understand sound mixing is to remember that sound has
+	depth, just like a visual image. For example, when everything in a photograph is in perfect focus, all elements making up the image compete equally for the viewers attention. But when theres shallow depth of field and only the primary subject in the photo is in focus, the image gains depth and there is separation between the various visual elements. It purposely draws your attention to a specific spot. Sound is very much the same.
+	
+	To illustrate the layers of sound in a stereo mix, lets take a sit-down interview and dissect the visual as well as the sound.
+	
+	When you shoot an interview, you draw the viewers attention to the talent by having the talent sharply in focus and separated from the background. We do the same with sound. Dialogue is typically mixed as the loudest sound element. By panning it to the middle, its clear, sharp and draws your attention  we could say the dialogue is in focus.
+	
+	The next layer of your shot usually consists of elements that are slightly out of focus surrounding the subject, such as pieces of furniture, artwork, lamps, etc. These visual elements provide context as well as visual depth and support the in focus image. Supporting ambience does the same thing. Its not as loud as dialogue and its panned a little wider. You can still make out what the sounds are, but theyre not the focus of your listening  they support the dialogue.
+	
+	The third layer is the stuff in the deep background or outside edges of your image  often completely out of focus. It doesnt really need to be there but it creates texture and richness  makes your shot more interesting without calling attention to itself. This is true for the environmental ambience of a stereo mix. Its the din of the location and barely audible. Its panned hard left and right (full stereo) in the stereo mix. The overall mix would still work if the environmental ambience wasnt there, but just like your picture, it adds depth and richness. You probably wouldnt notice the environmental ambience tracks in a final mix unless someone pointed them out.
+	
+	The Mixing Chair
+	
+	So when Im sitting in my mixing chair with all the sounds elements I need, I layer them like this:
+	The first element I always work on is the dialogue. I go through the entire show from start to finish leveling all dialogue tracks so the sound of the entire show is consistent. All dialogue is panned right up the middle (centered) and it is usually the loudest sound element in the mix.
+	The supporting ambience is a mix of room tone and b-reel ambience. Its panned a little wider and not as loud as the dialogue so it doesnt complete for the viewers attention.
+	The environmental ambience is panned hard or fully left and right. Its the air of the location that anchors the mix and helps to create a continuous bed of sound.
+	Finally, if there is a music element to the show I will pan all music a little wider than the supporting ambience (not fully panned) and at a volume where it makes sense for the mix. Music can be very loud and the focus of the listeners attention, or not very loud so not to complete with the dialogue.
+	
+	
+	Recording Dialogue
+	
+	Your first and most critical sound recording will be dialogue. Youll use the camera-mounted mic, lavaliers, and handheld mics when you go it alone. One very important detail every mic you use to record dialogue with is that it must be mono  all dialogue recording must be in mono! If you think that recording dialogue in stereo is better  its actually not. Stereo dialogue recordings always sound funny in the mix and they dont play nice when mixed with mono dialogue recordings.
+	
+	Recording Supporting Ambience
+	
+	This is audio recorded when shooting b-reel. It should be recorded properly whenever possible. Here are some things you can do to improve the quality of your supporting ambience tracks:
+	Be quiet! Dont rifle through your camera bag when you hit record on a locked-off shot. Its a cacophony of zippers and Velcro.
+	No talking! Theres nothing worse than people talking when shooting b-reel. It renders the ambience useless. Camera ops and directors are the biggest offenders when it comes to chatting over b-reel ambience. Zip it!
+	Be aware of the ambience around you. Listen for sounds that dont work with what youve got framed. People talking in the background can cause distractions and if an extraneous sound occurs while youre shooting, shoot it again! Youd shoot again if the camera move wasnt perfect.
+	Make sure the ambience matches the frame. Long lens close-ups can be problematic if the audio 15 feet away doesnt match it. After youve finished with the long lens shot, move in and grab 15 seconds of ambience with the camera mic so you can replace it in editing.
+	Make sure that sound-specific shots have usable sound. If youre shooting b-reel that has sound specific to that shot (a close-up of someone putting a golf ball), the sound needs to be usable. Its very difficult  if not impossible  to recreate these specific supporting ambient sounds in post.
+	
+	Recording Room Tone
+	
+	Room tone is a dialogue-free recording of ambience thats crucial for smooth audio edits. The best time to record room tone is immediately after youre finished the dialogue recording so it sounds the same as the ambience behind the on-camera dialogue. Its important to record with the same mic in the exact same position. For example: after an interview is completed, ask everyone to stay where they are and be quiet. Widen out your frame so its easy to find the room tone recording during editing. Start recording and identify the track by saying 30 seconds of room tone. Record for a minimum of 30 seconds.
+	
+	Avoid the temptation to record room tone at the end of the day. Its not going to sound the same and chances are youll forget until youre in the car on the way home.
+	
+	Recording Environmental Ambience
+	
+	Environmental ambience anchors the entire sound mix. It will be in the final stereo mix the entire length of the finished production. Taking the time to record this element does take time away from shooting pretty pictures, but environmental ambience is an extremely important sound element.
+	
+	Record this ambience track separate from any shooting. Its for sound only. Use either the camera-mounted mic or a small portable field recorder. Remember  what youre recording is deep background sound. Think in terms of this sound being out of focus.
+	
+	For example, lets take a shoot on a golf course. To record the environmental ambience element, youll need to move away from distinguishable sounds that are too specific (or in focus)  a noisy clubhouse, golfers talking loudly, course maintenance workers operating equipment, etc. Youd want to separate yourself from all these distinguishable sounds by walking out onto the golf course and finding a quiet place away from those sounds. Record a minimum of 2 minutes.
+	
+	Something I do to save time and be more present on set is to leave my field audio recorder in an isolated spot to record the environmental ambience element while we continue shooting throughout the day. Ill leave it for at least fifteen minutes. At the end of the shooting day Ill assemble the usable parts of the environmental ambience recording down to a two-minute clean track.
+	
+	Wrapping Up
+	
+	As the one-person camera crew, youre responsible for capturing all needed sound elements. If you dont capture them, you wont have the elements in post that you need to create the beautiful mix you were hoping for.
+	
+	Camera operators, the plain truth is, good audio will make your videos look better. By taking time to properly gather and record all needed sound elements the overall quality of your projects will dramatically increase. Youre going to be judged by the final production, and the sum of all its parts. If your sound is amateur, your production will be too.
+	
+	
+	
+	Dean Miles and Recording Sound for Video
+	
+	I carry the full line of VP89 shotguns and Im a big fan. After years of using Neumanns, it was hard to pry those beauties out of my hands, I found the VP89 series more flexible and forgiving in tough conditions.
+	
+	I also carry and use UR series wireless systems. Theyre rock solid and very easy to use  no dropouts with this system. Its so solid that I now use a wireless boom! Thats right, I have so much confidence in the UR3 and UR5s stability that Im putting every sound recording for every shot in the hands of Shure.
+	
+	I carry, use, and recommend the VP83F LensHopper camera mic to all DSLR users I work with. Its the only mic with a built-in recorder so it bypasses the notoriously hissy sound DSLRs are known for. Its a game-changer for the DSLR operator.
+

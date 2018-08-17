@@ -1,0 +1,14 @@
+Title: BLX transmitter with SLX receiver
+Id: 4288
+Legacy Id: 5357
+
+Question:
+I have an SLX1 bodypack system, but I don't like the push button operation of the pack. I would rather have a more tactile toggle switch so I can tell if it is on or off by touch. Can I substitute a BLX1 transmitter and use it on the SLX4 receiver?
+
+
+Answer:
+
+	Sorry, the answer is no. BLX transmitters cannot be used with SLX receivers.
+	
+	Even though there is an overlap of operating frequencies, the audio companding circuits are different and the hybrid system would not work properly.
+

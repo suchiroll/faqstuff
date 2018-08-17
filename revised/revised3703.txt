@@ -1,0 +1,32 @@
+Title: KSM44A vs. KSM44: What are the differences?
+Id: 3703
+Legacy Id: 3931
+
+Question:
+What is the difference between the KSM44A and the KSM44?
+
+
+Answer:
+
+	The KSM44A was introduced in July 2010. Here are the primary differences:
+
+	
+		The KSM44A has a lower noise floor: 3 dB less in Cardioid pattern; 4 dB less in Omni pattern; 2.5 dB less in Bidirectional pattern.
+	
+		The KSM44A maximum output level before clipping is 2 dB greater into a 2,500 ohm load, and 5 dB greater into a 1,000 ohm load.
+	
+		Depending upon the directional pattern selected, the KSM44A dynamic range is4 to 6dB better into a 2,500 ohm load, and7 to 9dB better into a1,000 ohm load.
+	
+		The KSM44A Cristal finish is not as dark as the KSM44 Champagne finish.
+	
+		The KSM44A shock mount (A44ASM)and the KSM44A stand mount (A44AM) have the lighter Cristal finish. Both mounts have the locking feature that secures the KSM44A mic to the mount.
+	
+		The KSM44A is supplied with an extra set of elastic bands (RK383) for the A44ASM shock mount.
+	
+		KSM44A frequency response and timbral quality are the the same as the KSM44.
+
+
+	Like the KSM44, the KSM44A is supplied with a shock mount (A44ASM), a stand mount (A44AM), a velveteen storage pouch (A44AVB), and an aluminum carrying case (A44ASC).
+
+	
+

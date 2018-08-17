@@ -1,0 +1,22 @@
+Title: Dual Diaphragm Design - Control of Proximity Effect
+Id: 3785
+Legacy Id: 4023
+
+Question:
+I noticed that my KSM42 does not have the same amount of proximity effect as other vocal mics. How is this accomplished?
+
+
+Answer:
+
+	The Shure KSM42 is a cardioid condenser microphone with a dual diaphragm capsule. Traditionally, dual-diaphragm capsules are used to create switchable, multiple pattern microphones, like the KSM44A microphone.  The KSM42 is unique due to the passive back diaphragm that reduces proximity effect and related low frequency problems.
+	
+	A single diaphragm directional microphone, like most cardioid microphones, derives its polar pattern by responding to the difference in sound pressure between the front of the diaphragm and the rear of the diaphragm.  When sound approaches the diaphragm from the front, the sound wave must travel farther get to the rear of the diaphragm: past the mic front - to the rear entry ports - through an acoustical resistance - to the rear of the diaphragm.  Thus, sound reaching the back of the diaphragm will be slightly delayed relative to the sound reaching the front of the diaphragm.  This process is known as acoustic phase shift and is a primary factor in determining the polar pattern of the microphone - cardioid, supercardioid, hypercardioid, etc.
+	
+	If the sound source is close to the microphone, there is a time delay difference between the sound pressures on either side of the diaphragm, along with the increased level of sound due to the closer distance (inverse square law).  This results in proximity effect, which is the increase in bass response as a sound source gets closer to the microphone.  Proximity effect influences frequencies below 1000Hz and the closer the sound source is to the microphone, the greater the effect becomes on lower frequencies. Proximity effect only occurs with directional microphones.  Omnidirectional microphones do not exhibit proximity effect as the rear of the diaphragm is blocked.  
+	
+	The KSM42 has additional passive diaphragm located behind the active front diaphragm.  This passive back diaphragm serves as an additional component in the acoustic phase shift network.  At mid and high frequencies, the passive diaphragm is acoustically invisible and the sound reaches the rear of the active diaphragm uninhibited, resulting in a cardioid pattern.  At lower frequencies, the passive diaphragm partially blocks the sound from reaching the rear of the active diaphragm.  The lower the frequency, the more the sound is blocked. Like an omnidirectional microphone that does not exhibit proximity effect because the rear of the diaphragm is blocked from the sound, the dual-diaphragm KSM42 microphone exhibits reduced proximity effect because some of the sound is blocked.  This results in extremely controlled proximity effect, reduced "plosives," and providing a large "sweet spot" for vocalists, while still maintaining a consistent polar pattern throughout its frequency response.  The KSM42 also works well as a voice-over microphone. 
+	
+	Note in addition that the KSM9 live performance vocal microphone and the KSM44A multi-pattern studio microphone have controlled proximity effect due to the dual diaphragm design.
+	
+	For a more detailed technical white paper on condenser microphones and dual diaphragm design please visit the following link: http://www.shure.com/publications/us_pro_dual_diaphragm_paper_ea.pdf
+

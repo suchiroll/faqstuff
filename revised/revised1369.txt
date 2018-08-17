@@ -1,0 +1,16 @@
+Title: U Series low frequency response
+Id: 1369
+Legacy Id: 1421
+
+Question:
+Can you provide audio frequency response for all three components (handheld transmitter, beltpack and diversity receiver) of the U124M/58 system?
+
+
+Specifically, I need to know the -3dB low-frequency cutoff of audio carried on the RF link between the transmitters and the receiver.
+
+
+
+Answer:
+
+	The low frequency 3dB down point of the RF link is 40 Hz; this is independent of the transducer.
+

@@ -1,0 +1,11 @@
+Title: 100' mic cables for rewiring a church
+Id: 1983
+Legacy Id: 2046
+
+Question:
+We are in the process of rewiring the sound system for our church. The cables will not continually be set up and torn down, but they will be move around somewhat on one end between various mics and instruments. Which of your cables do you recommend? I was looking at the c100j, but I want to make sure I'm making the right decision.
+
+
+Answer:
+
+	We cannot (in good faith) recommend the C100J. It is an economy cable at best. We suggest you contact Markertek (800-522-2025) and purchase their SC100XXJ. Great connectors, great cable, reasonable price for the quality.

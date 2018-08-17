@@ -1,0 +1,12 @@
+Title: VN45 into V15VxMR?
+Id: 959
+Legacy Id: 988
+
+Question:
+I would like to seek your expert technical advice on whether stylus VN45 (for V15 Type IV cartridge) could be installed in/or physically compatible with V15VxMR cartridge. I am not expecting a performance exactly the same as using VN5x stylus but wish to know whether a different tonal flavour could be achieved with such a combination.
+
+
+Answer:
+
+	Sorry, the VN45 will not fit in the V15VxMR.
+

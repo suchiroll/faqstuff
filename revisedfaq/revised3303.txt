@@ -1,0 +1,32 @@
+Title: Use of the Beta 54 - reducing breath noise
+Id: 3303
+Legacy Id: 3469
+
+Question:
+We are using a Beta 54 super-cardioid headworn microphone. The reproduced vocal sound is crystal clear, but we are experiencing some "breathiness" along with the desired vocal sound. Any suggestions on how the breathiness can be reduced?
+
+
+Answer:
+
+	The Beta 54 headworn microphone features an electret condenser element with a unidirectional pick-up pattern. From the front of the microphone, the angle of sound acceptance is approximately 120 degrees (at the 3 dB down point). The unidirectional characteristic of the Beta 54 microphone is often helpful in improving the gain before feedback in live sound reinforcement applications. The pick-up pattern is wide enough to be flexible for various positioning options for best vocal pick-up.
+	
+	There are two somewhat interrelated characteristics of all unidirectional microphones that users need to understand.
+	
+	The first is proximity effect. As the sound source is moved closer to the microphone, the bass or low frequency response increases. In almost all cases when using a unidirectional microphone, it is necessary to use the mixer channel EQ controls to roll-off the low frequencies to attain a clear and natural sound. This action will typically reduce breath noises as well.
+	
+	The second unidirectional microphone characteristic is sensitivity to air movement, especially in the form of "breath-blasts" or "plosives" (especially due to hard consonants such as "p" and "b"). One mitigation technique for air movement is use of a foam windscreen over the microphone. Windscreens are effective at reducing plosives and air movement. A second technique is to engage the low frequency roll-off filter switch on the mixing console channel, if available. Most energy from plosives is in the low frequency range. A third technique to reduce plosives is to position the microphone off-center from the mouth, which will reduce the amount of direct air from the mouth reaching the microphone element. Experimentation with different microphone element positions is recommended, because airflow patterns vary from person to person. Suggested possibilities include just below the mouth as well as to the side of the mouth.
+	
+	Here is a checklist of ideas for reducing background sounds from air movement and minimizing proximity effect when using the Beta 54 or other unidirectional microphones:
+	 
+	
+		Be sure the supplied windscreen is attached to the microphone. This will substantially reduce the effect of wind noise and "plosives". Hard consonant sounds like "p" and "b" tend to create stronger air turbulence.
+		 
+	
+		Position the microphone at the corner of the mouth, not in front of it, to avoid breath air movement. To do this, it may be necessary to adjust the microphone tube so that it comes up under the chin, allowing the microphone to be swiveled to the corner of the mouth. Experiment with different positions for best results.
+		 
+	
+		If available, engaging the low frequency roll-off switch at the mixing console will help reduce the effect of plosives and breath noise.
+		 
+	
+		Because of proximity effect, it is likely that the low frequency equalization at the mixer will need to be rolled off beginning about 200 Hz. This will further minimize undesired sounds below the voice frequency range. This will typically also increase the clarity of the voice being reinforced. Experiment with different settings to maximize the naturalness of the voice sound.
+

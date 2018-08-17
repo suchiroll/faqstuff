@@ -1,0 +1,19 @@
+Title: P4800 Dual volume and preset controls?
+Id: 2558
+Legacy Id: 2656
+
+Question:
+I would like to be able to set volumes and select presets from the presenter's position as well as from a control booth.
+
+
+1. What is the effect if two pots are both logically connected to the gain for the same input (the software permits this configuration)?
+
+
+2. Can the preset selection switches be momentary, so that if I wire two one-to-one preset controls (for example) using parallel momentary switches, the last selection will 'win' permitting preset selection from either location?
+
+
+Answer:
+
+	The dual volume controls will not work. The P4800 will constantly jump back and forth between the two different volume settings.
+	
+	The preset selection using momentary switches will work fine. Note, if the P4800 has not been upgraded to v4 firmware, you must hold the momentary switch down for 1-2 seconds for the preset change to activate. If the P4800 has v4 firmware, then you only need to just touch the switch.

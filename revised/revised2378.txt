@@ -1,0 +1,11 @@
+Title: Antenna combiner for PSM600
+Id: 2378
+Legacy Id: 2469
+
+Question:
+I am currently using 4 PSM600 and I have some interference problems. Is there a model of combiner for PSM600 transmitter?
+
+
+Answer:
+
+	PA421B or PA821B 

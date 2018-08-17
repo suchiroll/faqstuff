@@ -1,0 +1,20 @@
+Title: ULXP4 Output Level of Audio Signal
+Id: 4441
+Legacy Id: 5541
+
+Question:
+What is the dB output range of the ULXP4 receiver output level potentiometer knob? (does it add, + gain above 0 dB at full gain, or does it output 0 dB at full gain?)
+
+
+Answer:
+
+	
+		The ULXP4 does not a provide a true line level output, i.e, nominal +4dBm.
+	
+		The Mic/Line switch on the rear panel provides a boost of 30 dB over the MIC position.
+	
+		Per the ULXP4 User Guide, the maximum output level with a LINE setting is 3.9 dBV.Therefore, the typical/nominal output level is 20 dB below that, or -16 dBV.
+	
+		The receiver output level control is an attenuator only.It should be set to maximum, and lowered ONLY if the ULXP4 is clipping the input of the following device.
+
+

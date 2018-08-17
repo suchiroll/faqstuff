@@ -1,0 +1,16 @@
+Title: Repair of Model 51S Sonodyne Dynamic Microphone
+Id: 2231
+Legacy Id: 2311
+
+Question:
+I have two of the subject microphones. I have downloaded the data sheet for this microphone from your "Discontinued Products" web page. Comprehensive as the data sheet is, it does not describe nor indicate how to disassemble the microphone. I need to get inside the main body. There are two screws on the rear, one on the left bottom rear and one on the right bottom rear. I have removed these two screws and the two parts of the main body do separate at the bottom. However, the two pieces remain attached at the top and I see no obvious way to further separate them. I do not wish to apply force to separate them without knowing that that is the correct procedure to do so. I surely hope you can tell me how to get the microphone apart.
+
+
+Answer:
+
+	As Shure no longer repairs the model 51S, we no longer have repair/disassembly instructions. (We stopped repairing the model 51S in 1978.) The data sheet is the only remaining record of the model 51S.
+	
+	We suggest you try a vintage mic collector like Tom Ellis: tomsmics@flexcomp.com
+	
+	Tom may be able to help you or put you in touch with other vintage mic collectors.
+

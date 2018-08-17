@@ -1,0 +1,22 @@
+Title: V15V Models and Styli
+Id: 2178
+Legacy Id: 2251
+
+Question:
+What are the primary differences between the V15V models?
+
+
+Answer:
+
+	V15V: hyper-elliptical tip; dynamic stabilizer; premium packaging; VN5HE stylus - black serial number on silver label; silver SHURE on black background
+	
+	V15V B : hyper-elliptical tip; dynamic stabilizer; basic packaging; VN5HE stylus - black serial number on silver label; silver SHURE on black background
+	
+	V15V G: spherical tip; dynamic stabilizer; VN5G stylus - red serial number on silver label; silver SHURE on black background
+	
+	V15V P: P mount; hyper-elliptical tip; NO dynamic stabilizer;VN5P stylus - black SHURE on gray background
+	
+	V15V MR: Micro-Ridge tip; beryllium cantilever; dynamic stabilizer; tracks at 1.25 grams; VN5MR stylus - silver SHURE on bronzebackground
+	
+	V15V xMR: Micro-Ridge tip; beryllium cantilever; dynamic stabilizer; tracks at 1.0 gram; coils and pole pieces reconfigured for a warmer sound; VN5xMR stylus - silver SHURE on redbackground
+

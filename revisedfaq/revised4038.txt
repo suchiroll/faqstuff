@@ -1,0 +1,18 @@
+Title: Self-muting 1/4" phone plug
+Id: 4038
+Legacy Id: 4470
+
+Question:
+I want to add a self-muting 1/4" phone plug to the cable that connects my guitar to the Shure wireless bodypack. I want to unplug my transmitter from one guitar and move it to another guitar, but not create buzz/hum/noise. Do you have a recommendation?
+
+
+Answer:
+
+	Neutrik manufactures an superb self-muting 1/4 phone plug: model NP2X-AU-SILENT
+	
+	To create your own cable:
+	Phone plug sleeve  cable shield  TA4F pin 1
+	Phone plug tip  cable inner conductor  TA4F pin 3
+
+	
+

@@ -1,0 +1,11 @@
+Title: Beta 87A cartridge on a UT2 transmitter.
+Id: 2645
+Legacy Id: 2747
+
+Question:
+I am purchasing a UT4 reciever. The trasmitter is a Beta 58. Can I use a Beta 87A with this sytem?
+
+
+Answer:
+
+	Yes, the RPW120 cartridge (Beta 87A) will work on a UT2 transmitter.

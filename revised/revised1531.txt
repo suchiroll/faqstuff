@@ -1,0 +1,19 @@
+Title: Model DY21C
+Id: 1531
+Legacy Id: 1585
+
+Question:
+I recently acquired a Shure Brothers desktop dynamic microphone model DY21C. Can you provide me with the pinout of this mic. It has a 5 conductor wire (red, white, blue, black, and green) It is actually labeled Wilson Citi-Com Base on the top, but the underside has a Shure Brothers Inc. label.
+
+
+Any information on this mic would be greatly appreciated.
+
+
+Answer:
+
+	The DY21C was a special model made in 1982 for another manufacturer. All the records for this model are in the possession of that manufacturer, probably the Wilson company based on the label you found.
+	
+	We do know this: Audio output is the white and blue wires. PTT control output is the black and red wires. Monitor control output is the black and green wires.
+	
+	Please check the 444T, 450, 450T, or 526T. One of them may be similar in appearance to your microphone. If so, the specifications should also be similar.
+

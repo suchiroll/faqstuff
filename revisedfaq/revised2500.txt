@@ -1,0 +1,30 @@
+Title: Can N44-G and N78S be used on the M44E?
+Id: 2500
+Legacy Id: 2596
+
+Question:
+I see that the N44-7 stylus may be used on the old N44-E.
+
+
+Two questions:
+
+
+1) Can the lighter-tracking N44-G be fitted to the M44E?
+
+2) Can the N78S be fitted to the M44E?
+
+
+Also, can the N78S be fitted to the M91ED?
+
+
+Answer:
+
+	1) Can the lighter-tracking N44-G be fitted to the M44E?
+	* Yes.
+	
+	2) Can the N78S be fitted to the M44E?
+	* Yes, if you carefully file away the top of the plastic stylus grip.
+	
+	3) Can the N78S be fitted to the M91ED?
+	* Yes, if you carefully file away the top of the plastic stylus grip.
+

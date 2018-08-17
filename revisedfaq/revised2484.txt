@@ -1,0 +1,13 @@
+Title: C25J Cable Spec Sheet
+Id: 2484
+Legacy Id: 2579
+
+Question:
+Do you have a cutsheet for the C25J cable?
+
+Answer:
+
+	There is no cut sheet for the C25J.
+	
+	It is a 25 foot microphone cable; XLR female on one end; XLR male on the other; two twisted inner conductors with a braided shield.
+

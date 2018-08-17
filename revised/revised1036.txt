@@ -1,0 +1,23 @@
+Title: SM82 questions
+Id: 1036
+Legacy Id: 1068
+
+Question:
+A customer of mine asked me three questions regarding his SM82:
+
+
+What was the retail cost?
+
+Are they phantom powered?
+
+What application are they used for?
+
+
+Answer:
+
+	The last U.S. suggested retail price of this microphone was $410.00 in 1989.
+	
+	The SM82 was powered by a 9.8 volt battery or by phantom power.
+	
+	This microphone was a rare type of microphone in that it had a line level output rather than the typical microphone level output. It was used for such things as TV remote broadcasts where having a mic preamp would be awkward.
+

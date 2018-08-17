@@ -1,0 +1,24 @@
+Title: Theater Audio - Custom ear worn microphone
+Id: 4755
+Legacy Id: 5937
+
+Question:
+I have read that professional theaters make custom ear worn mics for the actors. What materials are used?
+
+
+Answer:
+
+	1) A miniature omnidirectional lapel microphone. This type of mic is typically offered in different colors to match skin tones.
+	
+	2) Millinery wire - a stainless steel wire wrapped in cotton; used for hats. Available at fabric stores.
+	
+	3) Hellermann flexible latex sleeves applied with a Hellermann tool. Hellerman Sleeve Expanding Tool
+	
+	Millinery wire is cut to length and shaped to fit around the actors pinna (ear flap). The mic cable is held to the millinery wire using Hellerman sleeves: these sleeves are expanded using the Hellermann tool, placed over the millinery wire and the mic cable, then collapse tightly to secure the cable to the wire form.The miniature mic is positioned toward the actors face and pointed upwardso sweat cannot drip into the the mic opening.
+	
+	Thanks to James Savage, head of audio for Chicago Shakespeare Theater, for this tip.
+	
+	Note: Heat-shrink tubing can be an alternative to the Hellermann sleeves, but great care must be taken whenheating the tubing. Too much heat might damage the mic cable or the mic itself.
+	
+	
+

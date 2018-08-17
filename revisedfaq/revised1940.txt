@@ -1,0 +1,14 @@
+Title: Miking a Flamenco Dance Stage
+Id: 1940
+Legacy Id: 2003
+
+Question:
+I have a sound reinforcement problem. We have a Flamenco guitarist, singers, and dancers in a noisy restaurant. Reinforcing the guitar, cajones, and voices were easy to resolve. The problem is that the sounds from the dancers stomping can not be heard more than 15' from the wooden stage. We tried placing a Beta 58 at each side of the stage but the background sound was too high. I am wondering if there is some way to pick-up the resonances directly from the wooden stage? The stage is about 20' wide and 15' deep. Placing a mic under the stage is not an acceptable solution. Any help would be appreciated.
+
+
+Answer:
+
+	The solution used on Broadway is to place a wireless tranmitter on the dancer with a miniature lapel mic placed at the ankle of the dancer. This technique has been used for many of the successful dance shows on Broadway.
+	
+	You might also consider a vibrational pick-up on the stage like used on the top of a guitar or on the soundboard of a piano. Try: http://www.c-ducer.com/
+

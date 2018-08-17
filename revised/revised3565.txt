@@ -1,0 +1,11 @@
+Title: X2u disabled input controls
+Id: 3565
+Legacy Id: 3771
+
+Question:
+In my Mac system preferences (OSX 10.5.7), it says the selected device has no input controls. When using garage band to record voiceovers, I am not able to use the recording volume control on the software. What am I doing wrong?
+
+
+Answer:
+
+	The X2u does not have any digital input controls.  Use the analog gain control that is on the side of the X2u to adjust the gain.

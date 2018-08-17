@@ -1,0 +1,13 @@
+Title: Controlled magnetic same as dynamic mic?
+Id: 914
+Legacy Id: 942
+
+Question:
+In Shure nomenclature, is a "controlled magnetic" mic the same as a dynamic mic?
+
+
+
+Answer:
+
+	No. A controlled magnetic microphone is not the same as a dynamic microphone. In a dynamic element, the voice coil is attached to the diaphragm and moves within the magnetic field. In a controlled magnetic, the coil is stationary and the diaphragm moves a ferrous armature which disturbs the magnetic field and induces a signal in the coil.
+

@@ -1,0 +1,12 @@
+Title: SM11 operation over a large temperature range
+Id: 1304
+Legacy Id: 1354
+
+Question:
+I bought a Shure microphone SM11 model, and I have a doubt. How does change it characteristics (frequency response, directivity, etc) with changes in the temperature? I hope to use that in a place where the temperature change between -10° Celsius and 30° Celsius
+
+
+Answer:
+
+	We do not have precise specifications for what you are asking. However, the changes should be minimal.
+

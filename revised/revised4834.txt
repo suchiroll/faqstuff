@@ -1,0 +1,24 @@
+Title: Feature Licenses for DIS-CCU
+Id: 4834
+Legacy Id: 6020
+
+Question:
+What Feature Licenses are available for the DIS-CCU central control unit?
+
+
+Answer:
+
+	Feature Licenses for the DIS-CCU facilitate system expansion.As of 2016, five Feature Licenses are available.
+
+	
+		FL6000 enables DCS 6000 Conference System mode for use with DCS 6000 conference units and components.
+	
+		FL6000-3800 enables expansion up to 3,800 participants.
+	
+		FL6000-INT-8 enables expansion to 8 interpretation languages instead of 4.
+	
+		FL6000-INT-16 enables expansion to 16 interpretation languages instead of 4.
+	
+		FL6000-INT-31 enables expansion to 31 interpretation languages instead of 4.
+
+

@@ -1,0 +1,22 @@
+Title: Motiv MVL microphone not working
+Id: 4813
+Legacy Id: 5999
+
+Question:
+I own a Shure MVL lavalier microphone and downloaded the Shure Motiv app. Upon plugging in mic in, I can see under "Record" that the phone is using the built-in mic rather than the MVL. Guidance, please.
+
+
+Answer:
+
+	The Motiv app should switch to "External Mic" automatically when the MVL is connected to the iPhone's earphone jack.  We tested this on an iPhone 5 S with the MVL, as well as with a different wired "hands-free" headset with a built-in mic.
+	
+	If the Motiv app isn't enabled under SettingsPrivacyMicrophone, it still indicates when an external mic is connected, even though no recording levels are indicated in the Motiv app.
+	
+	The MVL is configured to work with many smart phones: MVL technical information and wiring diagram
+	Please verify that the phone is using the most recent operating system. Try deleting the Motiv app, rebooting the phone, and re-installing the app.
+	
+	Another possibility is that the phone's earphone jack is dirty and not making a good connection; or that the phone case is interfering with the plug/jack connection.  Please test the phone, and the Motiv app, using the headset supplied with the phone or with a similar wired device.
+	
+	Finally, does the MVL microphone work on a different device with the Motiv app?  If not, there may be a problem with the MVL.  In that case, contact Shure Repair/Service.
+	
+	MVL Operational Requirements

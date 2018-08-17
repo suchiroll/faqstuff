@@ -1,0 +1,13 @@
+Title: SE earphones - Nickel plated MMCX Connectors
+Id: 4530
+Legacy Id: 5648
+
+Question:
+Why is SE846 supplied with nickel plated MMCX connectors instead of gold connectors?
+
+Answer:
+
+	1) The nickel plating was chosen for the its appearance, hardness, durability, and superb conductivity.
+	
+	2) Extensive engineering tests showed no audible differences between the nickel connectors and the gold connectors.
+

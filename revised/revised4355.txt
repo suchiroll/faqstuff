@@ -1,0 +1,115 @@
+Title: How to mount MXWAPT4 or MXWAPT8
+Id: 4355
+Legacy Id: 5440
+
+Question:
+How do I mount the MXWAPT Microflex Wireless Access Point?
+
+
+Answer:
+
+	The MXWAPT includes a removable mounting plate. The mounting plate can be attached with screws to an electricalbox, drywall, or wood (screws not included).
+	
+	At the bottom of this FAQ is a PDF template with the screw holes of the mounting plate. Print the PDF with No Scaling, and the printout will be the correct dimensions. Also, there is a CAD drawing of the mounting plate in the Microflex Wireless CAD file.
+
+	
+	
+
+	
+		
+			
+				
+				
+				
+					Electrical Box
+			
+		
+		
+			
+				
+					Feed the Ethernet cable through the electrical box.
+					
+					Mount the bracket to the electrical box using #6-32 screws (not included).
+					
+					Connect the Ethernet cable to the MXWAPT and mount the MXWAPT to the bracket.
+					
+			
+		
+		
+			
+				
+				
+					Drywall
+			
+		
+		
+			
+				Hold the bracket up to the wall and mark the location for the screws.
+				
+				Drill holes and install drywall anchors into the drywall.
+				
+				Mount the bracket to the drywall anchors using #8 screws (not included).
+				
+				Connect the Ethernet cable to the MXWAPT and mount the MXAPT to the bracket. Using the channels in the back of the MXWAPT, the Ethernet cable can be routed out the top or bottom.
+				
+		
+		
+			
+				
+				
+					Wood Paneling
+			
+		
+		
+			
+				Hold the bracket up to the wall and mark the location of the screws
+				
+				Drill 3/32 pilot holes
+				
+				Mount the bracket to the wall using #8 screws (not included).
+				
+				Connect the Ethernet cable to the MXWAPT and mount the MXAPT to the bracket. Using the channels in the back of the MXWAPT, the Ethernet cable can be routed out the top or bottom.
+				  
+		
+		
+			
+				
+				
+					Mic Stand
+			
+		
+		
+			
+				On-Stage offers adapters to bolt the mounting plate to a mic stand. The CM01 and UM01 both utilize a 1/4-20 bolt on them. Purchase a 1/4-20 nut from a local hardware store.
+				
+		
+		
+			
+				
+				
+					Ceiling Tile
+			
+		
+		
+			
+				
+					Use the mounting bracket to mark the location of two screw holes and the cable entrance on the ceiling tile. Drill two small holes for #6 screws into the ceiling tile to attach the mounting bracket. Drill or cut a larger opening for the cable. Attach the mounting bracket to the ceiling tile. Make certain to use large fender washers or a large metal plate on the back side of the ceiling tile to support the weight of the APT. In the picture, we simply drilled a couple holes into an old rack mount bracket.
+					
+					Front side of ceiling tile.
+					
+					
+					Back side of ceiling tile with fender washers or metal plate. The square hole is for the cable to run through.
+					
+					Use lock nuts or blue Locktite on standard nuts to make certain the nuts do not loosen with any vibration.
+					
+					Run the cable through the hole, attach it to the APT and attach the APT to the mounting bracket.
+					
+				
+					
+			
+		
+	
+
+
+	
+

@@ -1,0 +1,33 @@
+Title: SRH240m+ Description
+Id: 3731
+Legacy Id: 3965
+
+Question:
+What is the SRH240m+?
+
+
+Answer:
+
+	Introduced in July 2010, and discontinued in June 2011,  this product is the Shure SRH240 headphones combined with a microphone/remote control device for use with the specific Apple products listed below:
+	
+	- iPod touch (2nd and 3rd generation)
+	- iPod nano (4th and 5th generation)
+	- iPod shuffle (3rd generation)
+	- iPod classic (120GB, 160GB only)
+	- iPhone 3GS
+	- iPhone 4
+	- iPad
+	
+	The SRH240 fits over the head and the SRH240 ear cup pads surround each ear to attenuate background noise.  The microphone allows phone calls to be answered.  The remote control device has the ability to control volume level, track selection, and certain phone actions.  The exact functions that can be controlled are determined by the Apple product, not by the Shure remote control.
+	
+	Transducer type: Dynamic neodymium magnet
+	Driver size: 40 mm
+	Sensitivity (1kHz): 105 dB/mW
+	Impedance (1kHz): 38 Ohms
+	Max. input power (1kHz): 500 mW
+	Frequency range: 20 Hz - 20 kHz
+	Net weight: 0.4 lb (181 g)
+	Length of cable: 1.4  meters (4.58 ft)
+	Type of cable: Attached straight oxygen-free copper with integrated Remote + Mic
+	Plug: Gold- plated 1/8" (3.5 mm) stereo mini jack
+	U.S. retail price - $100

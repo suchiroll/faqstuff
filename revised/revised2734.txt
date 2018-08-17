@@ -1,0 +1,16 @@
+Title: Ultra 500 Phono Cartridge
+Id: 2734
+Legacy Id: 2840
+
+Question:
+I have an old Ultra 500 cartridge that I have used since the late 80's. It has served me well, and I have replaced the stylus faithfully, first with the original replacement, then the VN5MR as recommended. My question is this: I know that cartridges have a limited life due to internal parts losing magnetism, rubber hardening, etc. Is there anyway if I were to send you this cartridge to have it refurbished as new? Also, what is the output (in Mv)on the Ultra 500?
+
+
+Answer:
+
+	Is there anyway if I were to send you this cartridge to have it refurbished as new?
+	* Replacing the stylus returns the cartridge to like-new condition. There is nothing to deteriorate inside the cartridge body.
+	
+	Also, what is the output (in Mv)on the Ultra 500?
+	* 3.3mV
+

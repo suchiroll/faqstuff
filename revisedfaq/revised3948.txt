@@ -1,0 +1,12 @@
+Title: AXT400 cascade ports band limited
+Id: 3948
+Legacy Id: 4197
+
+Question:
+Are the cascade ports on the AXT400 band limited or wide band?
+
+
+Answer:
+
+	They are band limited to the selected frequency band of the receiver.
+

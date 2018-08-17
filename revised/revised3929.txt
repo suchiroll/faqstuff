@@ -1,0 +1,47 @@
+Title: Theater Audio - Sweat / Moisture Protection for Lav / Body  Microphones
+Id: 3929
+Legacy Id: 4178
+
+Question:
+How do professional theaters protect body mics from sweat and moisture?
+
+
+Answer:
+
+	These methods were provided by James Savage, head of audio for the Chicago Shakespeare Theater.
+	
+	Moleskin wrap:
+	
+	Wrap a layer of moleskin around the microphone body; be certain to not cover acoustical openings on the microphone. The moleskin will absorb moisture.  The moleskin must be replaced on a regular basis as it will become saturated.
+	
+	https://en.wikipedia.org/wiki/Moleskin
+	
+	Moleskin is sold with an adhesive backing for medical use. The manufacturer is CURAD.
+	
+	Miniature rubber "O" ring:
+	
+	A miniature microphone is often positioned on the head, grill facing downward toward the mouth, cable running upward over the head.  Place an "O"ring on the microphone body to act as a "drip off point."  Sweat will travel down the cable, onto the microphone body, and drip off the "O" ring.  The cable can be secured to the actor's hair, or to a wig, using toupee clips. 
+	
+	Toupee clips are sold by wig supply companies: http://www.headcovers.com/toupee-clips-medium/
+	
+	"Socking" a miniature microphone:
+
+	
+	Purchase nylon panty hose of a color that will match the actor's skin or costume.
+	
+	Cut the panty hose to create large squares of nylon.
+	
+	Create a square wooden frame, then stretch the nylon fabric on the frame and fasten it using staples.
+	
+	Spray the stretched nylon with 3M Scotch-Gard Fabric Protector- available at a hardware store.
+	
+	Once dry, remove the nylon from the wooden frame.  Cut into small squares that are large enough to cover the body mic.
+	
+	Place the nylon square over the body mic.  The nylon should not be pulled taut, but should form-fit to the mic's outline.
+	
+	Keep the nylon in place by sewing the fabric square together near/around the mic cable.
+	
+	As the nylon pores fill up with sweat and moisture, the high frequency response of the mic will deteriorate.  Replace the nylon square with a new one when the mic sounds "dull."
+	
+	
+

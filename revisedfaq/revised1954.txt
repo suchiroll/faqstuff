@@ -1,0 +1,13 @@
+Title: Are Auxpander inputs stereo or mono?
+Id: 1954
+Legacy Id: 2017
+
+Question:
+Could you please tell me if the inputs 1-8 on the Shure AuxPander are mono or stereo? I would like to use the AuxPander with my current monitor system setup and I was wondering if I could use the AuxPander to add stereo instruments to my monitor mix. 
+
+For instance: Let's just say that I would use all 8 inserts for vocal channels 1-8 and I would be using the left and right outputs of channel A for my personal monitor; with that in mind, can I then use the left and right direct inputs on channel A to input a stereo keyboard signal? Will the AuxPander combine the vocal channels 1-8 with the keyboard inputs and then send all signals to the left and right output of A? If my thinking is correct here, could this be done for each of the channels, A-D? I mean, could I add a keyboard signal on A and someone else add a bass guitar signal on B, etc.?
+
+
+Answer:
+
+	Inputs 1-8 on the AuxPander are mono. Each stereo pair of outputs contains the audio from those 8 inputs, as well as the Direct Inputs for that output pair. The direct inputs above each output pair (A-D) are switching jacks. If you plug a stereo source into the left and right inputs, they route directly to the left and right outputs for that output pair only. However, if you plug something into only the left (or right) jack, the signal will appear at both the left and right outputs. Note that the direct inputs do not a have volume control, the level will have to be controlled by the sending device (i.e. the keyboard).

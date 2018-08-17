@@ -1,0 +1,26 @@
+Title: PA760 and PA770 Operational Bandwidth
+Id: 3329
+Legacy Id: 3506
+
+Question:
+What is the actual operational bandwidth of the PA760 and the PA770 antenna combiners?  I have seen different specs.
+
+Answer:
+
+	As of March 2007, the PSM active antenna combiners are marked as:
+	PA760: 620-670 MHz
+	PA770: 720-750 MHz
+	
+	Yet, the Shure Price List (February 2007) states the following:
+	PA760: 524-670 MHz
+	PA770: 722-745 MHz
+	
+	In order to determine the actual frequency capability of the PA760 and the PA770, Shure Engineering re-tested the products using a spectrum analyzer with a tracking generator.
+	
+	For the PA760, the response at 520 MHz is about 2.8dB below the response at 620 MHz. The response at 670 MHz is about 1.2 dB below the response at 620 MHz. Thus, the response at 520 MHz is only about 1.6dB below the response at 670 MHz.
+	
+	For the PA760: the range (524-670 MHz) is accurate.
+	
+	For the PA770, the range (720-750 MHz) is accurate.
+	
+	Note: the PA760 was developed along with the PSM600 whose frequency range was limited to 620 - 670 MHz. When the PSM700-H3 band (524-554 MHz) was introduced, we re-evaluated the PA760 and found it compatible.

@@ -1,0 +1,15 @@
+Title: Output configuration of U4 receiver
+Id: 628
+Legacy Id: 645
+
+Question:
+UHF (U4/U4D) series wireless receiver: what is the structure of the output circuitry? Is it a chain of inverters, emulating a grounded-center-tap transformer winding? Or is it a cross-coupled output stage, emulating a floating transformer winding? What happens in the presence of 48V phantom power?
+
+Answer:
+
+	From the U4 receiver service manual: The output stage consists of an inverting amplifier stage, the output of which goes directly to one pin (pin 2) of an XLR connector. A 180 degree phase-shifted version of the same signal is obtained by tapping off of this point and entering another inverting stage. This phase-shifted version then goes to another pin (pin 3) on the XLR connector.
+	
+	The U4 XLR output is protected from 48 volt phantom by having a 47F/63V capacitor in series with each XLR leg.
+	
+	The complete U series service manual is available at nominal cost from Shure Service. Call 800-516-2525.
+

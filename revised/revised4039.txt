@@ -1,0 +1,55 @@
+Title: Shure SRH1440 Technical Questions
+Id: 4039
+Legacy Id: 4478
+
+Question:
+Please answer some questions about the SRH1440
+
+1. Clear - Powerful, Wide Spectrum Bass is very important to me. I don't mean the boom boom of DR Dres - But CLEAR ACCURATE BASS......From this prospective, the headphone must at a minimum exceed the capabilities of the Ultrasone 900 *BALANCED - IS THIS HEAD PHONE BALANCED. I HAVE A BALANCED AMP.
+2. The two other Headphones I am considering are the Senn 700, and a "Plannare" headphone the Hi-Fiman 600 -or the more evenly priced Hi-Fiman 500. I know most companies don't make a practice of comparing their products to other companies. But in this case, your product is brand new, and I must get a " feel " for where this product sits in comparison to other priced products on the market.
+
+3. Are the cables detachable ? I like a long straight cable for home use, but when traveling - having a long cable is like trying to carry a live snake with you. Can it be supplied with a short " coiled cable " as well.
+
+4. I like a real " quality " look to my headphones - no plastic or polished aluminum- I like sturdy steel.
+
+5. How long is the warranty for ?
+
+6. Does it come with a bag or a box
+
+7. What is the " impedance level "
+
+8. Is it highly efficient - or do you recommend a separate head phone amplifier ( OK ) - and what wattage.
+
+9. Do you have any " Open Box " units - or " Demos " from shows - or imperfect first runs - that you may be able to
+offer me at a unique savings?
+
+
+
+Answer:
+
+	Questions submitted to this forum are answered by Shure Engineering, not Shure Sales or Shure Marketing.  Therefore, I shall provide scientific, engineering answers.
+	
+	1) We have not compared the SRH1440 to the Ultrasone 900.  Therefore we cannot comment.
+	
+	1a) The term "balanced" as a specific definition:
+	
+	Answer Title: Difference between balanced and unbalanced
+	Answer Link: https://www.shure.com/americas/support/find-an-ans...
+	
+	As each SRH1440 earphone has only two conductors, not three, it cannot qualify be "balanced."
+	
+	2) We have not compared the SRH1440 to the headphones listed in your #2 question.  Even if we had, we do not offer public comment as our comments would be biased.
+	
+	3) The cable is detachable.    There is no "short cable" option.
+	
+	4) Plastic is used in the SRH1440.
+	
+	5) Warranty is two years from date of purchase.
+	
+	6) Storage case is included.
+	
+	7) 37 ohms, nominal, at 1 kHz.
+	
+	8)   Efficiency is 101 dB-SPL at 1 mW.   We have no opinion on a separate headphone amp as there are so many on the market.
+	
+	9) There are no demo units or used units for sale.  Shure only sell through authorized dealers.

@@ -1,0 +1,17 @@
+Title: Installing A2WS on the SM57
+Id: 4376
+Legacy Id: 5467
+
+Question:
+Is the set screw supposed to fit in the groove just below the mic head or is it supposed to tighten against the plastic shim supplied with the A2WS?
+
+
+
+Answer:
+
+	
+		Tighten against the plastic shim.
+	
+		Leave an air space, as much as feasible, between the SM57 grill and the A2WS foam.
+
+

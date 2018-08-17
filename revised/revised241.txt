@@ -1,0 +1,12 @@
+Title: Rack mount for an older model T series headset wireless?
+Id: 241
+Legacy Id: 247
+
+Question:
+I just purchased an older T-series wireless mic from ebay. Do you make a rack mount for the base of these units?
+
+
+Answer:
+
+	Assuming that the receiver is a model T4V or T4G, the rack mount kit is the model WA391. You may also use a rack tray kit such as the Shure model URT.
+

@@ -1,0 +1,19 @@
+Title: Proper gain adjustment for the UR2 handheld transmitter to reduce hiss
+Id: 3296
+Legacy Id: 3459
+
+Question:
+We have four vocalists, each with a UHF-R model UR2 handheld wireless microphone.  When the microphones are on, and in between songs, a low-level hiss is heard from the wireless microphone systems over the sound system.  The hiss can be heard by some people in the audience.  Is there an adjustment I can make?
+
+Answer:
+
+	Yes, there is an adjustment that you can make.
+	
+	The audio input of the UR2 transmitter was designed for a wide variety of sound reinforcement applications, including very high SPL (sound pressure level) sound sources. Because of this, the audio input preamplifier is designed to accommodate a wide range of input signals. The UR2 transmitter features an adjustable gain range of 10 to +20 dB, in 1 dB steps. This input gain range is adequate to adapt to just about any sound reinforcement application. Setting the gain properly for each sound source is imperative to maximize the signal-to-noise ratio of a wireless system.
+	
+	Lets digress for a moment to mention the electronic design technique used to fit a wide dynamic range audio signal into a radio signal, which permits the elimination of the microphone cable. In the world of wireless microphones, it is necessary to compress the dynamics of the audio signal to fit the radio transmission carrier. The compression process typically reduces an audio range of up to 90 dB down to about 50 dB. At the receiver, the signal is expanded back to its original dynamic range. The compression-expansion process, often called companding, has been used successfully for many years. But for best results, it does require properly matching the audio input level to the transmitter.
+	
+	The proven method for adjusting the gain structure of the UR2 handheld microphone is to have the user sing or talk into the microphone. The level of the audio signal is monitored on the receiver Audio LED display. The transmitter gain should be set to maximize utilization of the available dynamic range in the wireless system. This means that the transmitter gain should be set so the audio signal lights solidly in the yellow range of the receivers audio meter, with occasional peaks hitting red. This will place the desired audio signal well into the useable dynamic range of the radio carrier.
+	
+	This setting will maximize the signal-to-noise ratio of the overall wireless system, making the background hiss less audible. As a reference, for typical speech or singing, the UR2 gain setting should generally be set in the +10 to +20 range. As every talker or singer is different, customizing the gain setting is important for best results. In rare situations, where the sound source exhibits a low SPL (a quiet talker) and the room noise level is extremely quiet, some background hiss may be noticed during silent passages.
+

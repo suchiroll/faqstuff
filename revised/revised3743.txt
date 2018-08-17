@@ -1,0 +1,15 @@
+Title: Right angle adapter for a mic stand boom
+Id: 3743
+Legacy Id: 3979
+
+Question:
+I just bought a Shure Super 55 mic. I will mount it on a horizontal mic boom, but I want the mic to be vertical, not horizontal.
+
+
+Answer:
+
+	a) The performance of the Super 55 is the same when mounted horizontally instead of vertically.
+	
+	b) Place the boom in front of you and point it at your chin.  Attach the Super 55 to the end of the boom. The Super 55 can be positioned upward to form a right angle with the boom arm.
+	
+	c) Or purchase the AD14B right angle adapter from Atlas.  It adds a 90 degree bend to a boom arm or a mic stand.

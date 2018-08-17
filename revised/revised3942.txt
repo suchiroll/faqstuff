@@ -1,0 +1,12 @@
+Title: Which transmitters support Frequency Diversity?
+Id: 3942
+Legacy Id: 4191
+
+Question:
+Which transmitters support Frequency Diversity?
+
+
+Answer:
+
+	When used with the AXT400 receiver, the AXT200, AXT100, UR1, and UR1M transmitters support frequency diversity.
+

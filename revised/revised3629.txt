@@ -1,0 +1,11 @@
+Title: PG2 transmitter short battery life or unwanted power down
+Id: 3629
+Legacy Id: 3836
+
+Question:
+On my PG2 handheld transmitter, I find that sometimes a battery only lasts for one hour. And at times the PG2 shuts itself off. Any ideas?
+
+
+Answer:
+
+	Both problems can be caused by a poor or loose battery contact.  Typically the positive battery terminal connection becomes loose.  If the transmitter is bumped or jarred, the transmitter will shut off. This can also appear to be short battery life as the PG2 appears to have stopped working.  The Shure PG2 has a "soft" power switch that will stay off if the battery loses contact, even for a brief instant.To test, connect only the small terminal of the 9V battery to the large terminal on the PG2 transmitter. If the connection seems loose, use needle-nose pliers to tighten up the PG2 terminal.

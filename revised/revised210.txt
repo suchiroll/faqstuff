@@ -1,0 +1,11 @@
+Title: Changing mic heads on LX wireless
+Id: 210
+Legacy Id: 211
+
+Question:
+Is it possible to change the mic head on my LX handheld transmitter from an SM58 to a Beta 87, or do I need to buy a whole new unit?
+
+Answer:
+
+	The SM58 wireless head can be unscrewed and replaced with Beta 87 wireless head.
+

@@ -1,0 +1,43 @@
+Title: Wiring Shure WL185 to AKG PT4000  Transmitter
+Id: 2933
+Legacy Id: 3059
+
+Question:
+How do I connect a Shure WL185 lavalier microphone to an AKG PT4000 transmitter?
+
+
+Answer:
+
+	Wire as follows:
+	 
+	
+		
+			
+				Shure WL185
+			
+				AKG PT4000
+		
+		
+			
+				Red Wire
+			
+				Pin 3
+		
+		
+			
+				Black Wire
+			
+				Pin 2
+		
+		
+			
+				Shield
+			
+				Pin 1
+		
+		
+			
+				Connect a 10 kohm resistor between pins 1 and 2
+		
+	
+

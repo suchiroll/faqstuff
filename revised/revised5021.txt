@@ -1,0 +1,12 @@
+Title: SystemOn user account limit
+Id: 5021
+Legacy Id: 6313
+
+Question:
+Is there a limit to the number of user accounts I can create in SystemOn?
+
+
+Answer:
+
+	No, customers can create as many user accounts as needed, also with varying access and control rights. The software is licensed per IP addressable devices, not users.
+

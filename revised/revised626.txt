@@ -1,0 +1,15 @@
+Title: Reduced RF signal level on U2 transmitter
+Id: 626
+Legacy Id: 641
+
+Question:
+We are considering the purchase of a U4D receiver, U1 Body transmitter, and a U2 Handheld with a SM58 microphone.  We currently have this system on loan to us from a sales company for trial before purchase.  During our worship service I have noticed fading signal strengths from the handheld unit.  Most often the fading signal recovers before dropout but not always.  Is this normal???  
+
+I would be much more comfortable seeing stable strong signals for the entire performance especially since the distance between the transmitter and receiver is only about 80 feet.  This doesn't occur as much when using the body transmitter, and we have never lost the signal from the body transmitter.
+
+Answer:
+
+	The U1 bodypack and U2 handheld should be very similar in transmission strength. The U2 may be missing a component in the RF output section. This component connects the antenna to the RF output stage. The symptom you described perfectly fits this scenario.
+	
+	We suggest the unit be returned to Shure Service for examination and repair. The phone number is 800-516-2525.
+

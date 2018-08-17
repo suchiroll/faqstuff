@@ -1,0 +1,16 @@
+Title: Self-noise: Small vs. Large Diaphragm Condenser Microphone
+Id: 2856
+Legacy Id: 2968
+
+Question:
+Why does a small diaphragm condenser microphone exhibit more self-noise ("hiss") than a large diaphragm condenser microphone?
+
+
+Answer:
+
+	Two main reasons:
+	
+	1) The JFET impedance converter that immediately follows the condenser microphone element is the primary source of the noise. The amount of noise is a direct function of the capacitance connected to the JFET input: the greater the capacitance; the lower the JFET noise. A large diaphragm element has greater capacitance due to a greater surface area.
+	
+	2) The output level of a condenser microphone element is also a direct function of the diaphragm size. Larger diaphragms provide greater output levels than smaller diaphragms. Therefore, a larger signal is fed into the JFET from a large diaphragm microphone and this provides a better signal to noise ratio at the JFET output.
+

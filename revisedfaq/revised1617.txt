@@ -1,0 +1,14 @@
+Title: Beta87C cartridge on LX2 transmitter
+Id: 1617
+Legacy Id: 1674
+
+Question:
+I would like to know if is possible to install a Beta 87C Handheld microphone in a LX Wireless system. Actually I have a LX2/BETA58 but in a live performance I have a problem with ambient Noise using my PSM600 Ear monitor. In substance, I would to keep best quality but reduce the ambient noise. It's a possible way? Is there another solution for the problem?
+
+
+Answer:
+
+	Yes, the Beta 87C wireless cartridge (part number RPW100) will fit your LX2 transmitter. Unscrew the Beta 58 cartridge and screw on the RPW100.
+	
+	Many performers using the PSM are changing to cardioid cartridges. We believe it will help solve your problem.
+

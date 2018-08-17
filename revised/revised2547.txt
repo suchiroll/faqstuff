@@ -1,0 +1,23 @@
+Title: Mics for vibraphone amplification
+Id: 2547
+Legacy Id: 2645
+
+Question:
+Im new to this of amplification, but i know the basics regarding vibraphone amplification (different positions, advantages, disadvantages, 3-to-1 rule, etc). By what i've read here, your KSM series fit most of acoustic instruments, and i'd like to know wich one do your recomend for live and studio performances on vibraphone or marimba.
+
+
+Answer:
+
+	First, read our online booklets about Micropohone Techniques for Music - Studio and Microphone Techmniques for Music - Sound Reinforcement.
+	
+	Mics to consider: condensor, unidirectional models, like:
+	
+	KSM137
+
+	KSM109
+	SM81
+	SM94
+	PG81
+	
+	Which will you like the best? That is up to your ear to decide.
+

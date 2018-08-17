@@ -1,0 +1,19 @@
+Title: Polar plots of microphone directional patterns
+Id: 140
+Legacy Id: 140
+
+Question:
+Can you send me some polar plots of microphone directional patterns at a few frequencies?  I'd like to see the differences among cardioid, supercardioid, and hypercardioid.
+
+Answer:
+
+	Many of our online educational booklets have generalized polar plots in them. You can see them at:
+	
+	http://www.shure.com/americas/support/downloads/publications
+
+	
+
+	The beginning pages of Microphone Techniques for Music/Sound Reinforcement have the polar patterns in them.
+	
+	For more specific patterns, you should download the user guides for the BETA87C (cardioid), the BETA87A (supercardioid), and the WCM16 (hypercardioid). These three microphones would provide good examples of each pattern at multiple frequencies.
+

@@ -1,0 +1,13 @@
+Title: AMS26 mics functional without an AMS mixer?
+Id: 585
+Legacy Id: 597
+
+Question:
+I have the opportunity to purchase several AMS26 mics that are advertised as condensor mics. Can these mics be used apart from the complete AMS system in situations similar to using the SM81?
+
+
+Answer:
+
+	 Any Shure AMS microphone must be used with a Shure AMS mixer. An AMS microphone cannot be used with any other mixer from Shure or any other company.
+	
+	The AMS microphones are designed for speech applications, and though condensers, are not in the same performance class as the superb SM81 recording microphone.

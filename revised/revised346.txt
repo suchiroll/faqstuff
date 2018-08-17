@@ -1,0 +1,11 @@
+Title: Can I split the audio of a wireless receiver into two mixers?
+Id: 346
+Legacy Id: 353
+
+Question:
+Would splitting the output of a U4S wireless receiver (in Mic output mode) to two independent mixers give me any problems like a crackling, overdriven noise on one of the systems?
+
+Answer:
+
+	No, there shouldnt be any problem with the splitting the audio output of a wireless receiver to 2 different mixers.
+

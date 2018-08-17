@@ -1,0 +1,11 @@
+Title: Do the X2u/PG27USB/PG42USB work with Vista 64-bit version?
+Id: 3566
+Legacy Id: 3772
+
+Question:
+Do the X2u/PG27USB/PG42USB work with Vista 64-bit version?
+
+
+Answer:
+
+	Yes. These devices function with all versions of Microsoft Windows Vista.

@@ -1,0 +1,14 @@
+Title: Gold Layer on a Condenser Diaphragm
+Id: 4874
+Legacy Id: 6063
+
+Question:
+How thick is the gold layer on a condenser microphone diaphragm?
+
+
+Answer:
+
+	A typical layer thickness is around 400 Angstroms of gold on a diaphragm. This equals a thickness of 0.00000156 inch.
+
+	The Angstrom unitis one ten-billionth of a meter; or 0.0000000039 inch.
+

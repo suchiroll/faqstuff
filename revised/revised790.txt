@@ -1,0 +1,11 @@
+Title: Does your LX wireless Mics work with Sony's MB806A 6 bay receiver?
+Id: 790
+Legacy Id: 812
+
+Question:
+Does your LX wireless Mics work with Sony's MB806A 6 bay receiver?
+
+Answer:
+
+	No. You cannot mix the transmitters of manufacturer A with the receivers of manufacturer B. If you own the Sony receiver, you must use the Sony transmitters.
+

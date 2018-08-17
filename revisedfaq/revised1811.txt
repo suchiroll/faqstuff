@@ -1,0 +1,11 @@
+Title: M55E and N44-7 stylus
+Id: 1811
+Legacy Id: 1871
+
+Question:
+Will needle 44-7 fit the M55E cartridge?
+
+
+Answer:
+
+	The N44-7 will fit the M55E body. The tracking force is determined by the stylus, not by the cartridge body. The N44-7 stylus tracks at 1.5 to 3 grams.

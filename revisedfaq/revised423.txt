@@ -1,0 +1,13 @@
+Title: Connector for L1 transmitter?
+Id: 423
+Legacy Id: 430
+
+Question:
+Our church uses a Shure L1-V transmitter with a detachable lavalier mic. I want to use a headset mic instead of a lavalier mic and need to know what sort of connection it needs to have in order to be compatible. Thanks.
+
+
+Answer:
+
+	The L1 used the same type of connector that we still use. This 4 pin connector has many names, including Tini-QG, TA4, and mini-XLR.
+	
+	Shure offers several headset microphones with Tini-QG connectors.

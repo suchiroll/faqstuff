@@ -1,0 +1,11 @@
+Title: MX300 Series - Switch Attenuation
+Id: 3923
+Legacy Id: 4170
+
+Question:
+How much is the audio signal attenuated in the MX300 series with the mic is muted?
+
+
+Answer:
+
+	When the mute function is activated, the audio signal level is attenuated by a minimum of 50 dB.

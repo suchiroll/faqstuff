@@ -1,0 +1,25 @@
+Title: Playing monaural LPs
+Id: 587
+Legacy Id: 599
+
+Question:
+What do you recommend for the best reproduction of mono LPs? 
+
+I read in one of your FAQs that shunting the two channels of a stereo cartridge together would be an okay procedure for combing the two channels into one output line.
+
+Would a mono cartridge (if such a thing exists) and/or stylus be give better results than stereo cartridge and stylus? 
+
+I am starting from scratch and don't yet have a turntable. I have obtained a rare, pristine mono LP that I would love to record to CD in order to preserve it. Transferring the signal from the vinyl to a pre-amp is the most daunting of hurdles for me. I have the rest of the procedure under control. With a budget of $500, what would you recommend in the way of stylus/cartridge/turntable combination? 
+
+I have the opportunity to purchase a used Linn Axis with Akito arm and Linn K9 cartridge. Do you sell a stylus for this cartridge that would be adequate to bring out the best from a mono LP? Thanks for any help. 
+
+Answer:
+
+	Paralleling the outputs of a stereo cartridge is the best approach. To our knowledge, monophonic pickups for 33 rpm LPs are no longer manufactured.
+	
+	A modern stereo phono cartridge is superior to monophonic cartridge as it has horizontal and vertical compliance. This will provide less record wear and damage because a monophonic cartridge tended to be very stiff in the vertical direction.
+	
+	A Shure stereo cartridge, wired for monaural, will do a fine job reproducing monophonic records. This monaural connection helps reduce noise caused by record wear and dirt particles in the groove.
+	
+	We do not make recommendations for turntables. Your cartridge selection will be based on the tracking weight range and mounting method of the turntables tonearm.
+

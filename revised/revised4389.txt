@@ -1,0 +1,13 @@
+Title: BLX Video - How To Set Up and Use
+Id: 4389
+Legacy Id: 5482
+
+Question:
+Is there a video on how to use the BLX wireless?
+
+
+
+Answer:
+
+	http://blog.shure.com/shure-notes/getting-started-with-blx-wireless-part-1-basic-setup/
+

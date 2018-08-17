@@ -1,0 +1,13 @@
+Title: Does the Beta 58A have an on/off switch?
+Id: 486
+Legacy Id: 496
+
+Question:
+I am planning on buying the Beta 58A but I am not sure if it has an on/off switch. Can you tell me if it does and if not, who makes the best cables?
+
+Answer:
+
+	The Beta 58A does not have an on/off switch. Professional microphones rarely feature an on/off switch as the mic is controlled by the audio engineer at the mixing board. The engineer does not want a switch on the mic as the performer might accidentally turn off the mic during the performance. If an on/off switch is an important feature, consider the SM58S.
+	
+	In the Shure line, the C25E and C25F are premium mic cables.
+

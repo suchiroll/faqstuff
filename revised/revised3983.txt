@@ -1,0 +1,12 @@
+Title: UR transmitter - " BL " on LCD display?
+Id: 3983
+Legacy Id: 4280
+
+Question:
+" BL " shows on the LCD display of my UR2 transmitter. It isnext to the battery icon. What does it mean?
+
+
+Answer:
+
+	BL means that the transmitter has been Band Limited. The UR transmitter has been set to operate in a smaller frequency range than its full capability. This may be done to meet governmental regulations or for local operational reasons.
+

@@ -1,0 +1,22 @@
+Title: Antenna placement for VHF wireless microphone systems
+Id: 5032
+Legacy Id: 6324
+
+Question:
+Do antenna placement considerations change when using a VHF wireless microphone system instead of UHF?
+
+
+Answer:
+
+	Yes. The following recommendations apply to VHF antenna placement:
+
+	
+		Optimal distance between antennas in a diversity system: 6 feet
+	
+		Clear line of sight (solid objects tend to block VHF waves more so than UHF)
+	
+		Minimize transmitter-to-receiver antenna distance (due to higher RF noise floor in VHF, keeping antennas closer to transmitters improves signal-to-noise).
+	
+		For long range, or outdoor applications, UHF may be a better choice.
+
+

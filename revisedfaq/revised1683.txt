@@ -1,0 +1,50 @@
+Title: Will bias voltage from a computer effect a dynamic microphone?
+Id: 1683
+Legacy Id: 1740
+
+Question:
+I have two questions regarding Computer / Soundcard microphone inputs:
+
+
+1. On some computers the electret bias source is actually wired together with the "tip" signal inside the computer. This is done to be able to handle electret microphones with mono jacks (no separate tip and ring). I have seen some Taiwan PC motherboard companies do this. What happens if a dynamic microphone is used on this jack and the bias current flows through the MIC voice coil? Does it affect the microphone performance ? Or, because the bias is a DC current it has no affect ?
+
+
+I realise that a dynamic mic is less sensitive and will require an internal preamp (and the signal will face the 2K impedance of the mic bias resistor), but will it still produce it's normal AC audio signal into the jack with the bias current present?
+
+
+2. What is the typical output impedance of an electret microphone (at the tip, AC wise)?
+
+
+I use and recommend Shure microphones and would appreciate a quick answer. Thank you for your antecipated support.
+
+
+---- 09/10/2001 05:00 PM ----------------------------------------------
+
+
+Rick, thanks for your quick response. You do raise some interesting points.
+
+
+
+3. The bias current under the conditions that I described is about 1 to 3 mA, will this be enough to damage or upset the dynamic microphone? Do you have a jack input circuit that can handle electret as well as dynamic microphones?
+
+
+4. Do the professional dynamic microphones actually have a built-in preamp? Are they powered by batteries?
+
+
+Thanks for your response.
+
+
+
+
+Answer:
+
+	1. It does effect the microphone and could damage the microphone. The bias voltage should be blocked by a capacitor. It will still produce an AC audio signal with the bias present, assuming the current from the bias doesnt burn up and destroy the voice coil. It could very well sound funny though. With DC current running through the coil, the coil will no longer be centered in the magnetic field.
+	
+	2. It depends on where you are measuring it. Directly off the element, the impedance is usually in the megaohm range. Within one inch of the element, there will be a JFET. The output of the JFET has an impedance of 1-2kohm. A professional microphone will then have a another set of electronics that lower the impedance even further to 150-300 ohms.
+	
+	At 09/10/2001 05:52 PM we wrote -
+	
+	3. We do not have the specifications on how much current would heat up the voice coil enough to fry it. I dont quite understand what you mean by a jack input circuit. The only input circuits we design are the ones on our mixers, and those are balanced XLR type inputs. A balanced XLR input can handle a dynamic mic or a professional condenser mic (which would be powered by phantom power). A dynamic mic is not damaged by phantom power on an XLR connector.
+	
+	4. No. Professional dynamic microphones do not have a built-in preamp.
+

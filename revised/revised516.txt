@@ -1,0 +1,16 @@
+Title: Benefits of the Beta 87C over the 87A?
+Id: 516
+Legacy Id: 527
+
+Question:
+I've been using a Beta 58A for over 2 years now (live), and I love it. I have recently been doing acoustic duos with a guy that uses the Beta 87. I've been recording our shows, and the 58A sounded great -- until I heard the 87A. The difference in clarity and overall quality is night and day - the 87 sounds crystal clear. Anyhow, to make a long story short, I've been researching the Beta 87A, and I'm getting ready to buy one -- but I checked out your web site, and see the addition of the Beta 87C. Other than having a little bit higher of a frequency response, what is the MAIN difference? I mean - realistically, how (or) will the 87 C benefit me over the 87A (as a vocal mic), and the main question I have is -- is there a price difference? Also - I assume the 87C also operates on Phantom power, although it doesn't say on the description page, where the 87A does say - am I correct in this assumption? Thanks for your help.
+
+
+Answer:
+
+	The primary difference is the pick-up pattern. The BETA 87A is a supercardioid; the BETA 87C is a cardioid. The 87C was introduced for performers using in-ear monitors. In brief, a cardioid mic is often preferred by in-ear monitor users as it sounds more natural with the in-ear mix.
+	
+	If you use floor monitors, the BETA 87A may be a better choice as it will often provide a bit more gain before feedback than the BETA 87C. However, which model works better for you can only be decided via auditioning the mics.
+	
+	Both models require phantom power for operation.
+

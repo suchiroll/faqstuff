@@ -1,0 +1,40 @@
+Title: Two Antennas Feeding Two Separate Wall Panels
+Id: 4451
+Legacy Id: 5553
+
+Question:
+Here is the scenario:
+1) Antenna A and Antenna B located above a stage.
+2) Antenna A signal is split using the UA221 into A1 and A2.
+3) AntennaB signal is split using the UA221 into A1 and B2.
+4) Low-loss RG213/U cable bring A1 and B1 to a wall plate at the rear of the room, east side.
+5) Low-loss RG213/U cable bring A2 and B2 to a wall plate at the rear of the room, west side.
+6) A rack mounted portable wireless system will connect to the east plate, or to the west plate.
+When the east plate is being used, is it recommended to terminate the west plate to improve the RF performance or to minimize RF interference?
+
+
+
+
+Answer:
+
+	Our opinion is:
+
+	
+
+	1) Loading the unused A/B RF outputs with 50 ohm BNC terminators certainly could not hurt.
+
+	
+
+	2) However, the termination is probable unnecessary in realistic terms.The un-terminated runs are not likely to insert RF interference back into the UA221.
+
+	
+
+	3) The UA221 splitter, being passive, is a power divider, so each split output is 3 dB less than the un-split feed.
+
+	
+
+	4) Using 50 ohm terminators will physically protect the unused BNC wall plate connectors, and may prevent someone bent on mischief from breaking off a pencil lead in the unused BNC connector. Experience is an effective teacher.
+
+	
+	
+

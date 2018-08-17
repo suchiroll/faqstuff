@@ -1,0 +1,11 @@
+Title: Which MPA adapter for Palm Pre
+Id: 3603
+Legacy Id: 3809
+
+Question:
+Which MPA adater works with the Palm Pre?
+
+
+Answer:
+
+	MPA-3C

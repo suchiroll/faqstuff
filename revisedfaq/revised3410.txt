@@ -1,0 +1,12 @@
+Title: SM58 ball grill on the SM86 handle?
+Id: 3410
+Legacy Id: 3600
+
+Question:
+Will a ball screen designed for an SM58 fit onto a SM86 Microphone?
+
+
+Answer:
+
+	Yes. The SM58 ball grill will fit the SM86 handle.
+

@@ -1,0 +1,11 @@
+Title: Shure Phono Cartridge on the Voyager Spacecraft
+Id: 4375
+Legacy Id: 5466
+
+Question:
+I heard that a Shure phono cartridge was placed on the Voyager Spacecraft so the onboard record could be played back. Please comment. 
+
+Answer:
+
+	Each of the two Voyager spacecraft carries a golden record with recorded sounds from Earth. Each spacecraft also includes a phonograph cartridge and stylus for playback of the record. It was rumored that the cartridges were Shure. Based on NASA articles, this is not feasible as the phono cartridges are described as ceramic. In the 1970s, Shure no longer made ceramic cartridges. NASA likely acquired commercially available ceramic cartridges made by other manufacturers, such as Astatic or Micro-Acoustics.
+

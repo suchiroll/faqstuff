@@ -1,0 +1,12 @@
+Title: Failure of a C1-Di or C1-Ds Delegate Unit
+Id: 2887
+Legacy Id: 3011
+
+Question:
+What happens if one of the Delegate units does not operate for any reason? Does the signal pass down the line?
+
+
+Answer:
+
+	Audio and control are passed to the next unit assuming the problem is not the cable.
+

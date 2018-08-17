@@ -1,0 +1,31 @@
+Title: UC14 Wireless System - Frequency Selection
+Id: 1242
+Legacy Id: 1288
+
+Question:
+I'm ready to order a UC14 wireless system, but before I do, I have a stupid question to ask you. Are all of the UC14 Units the same.....as far as being frequency agile. For instance, a guy in Seattle, WA can just order the same UC14 unit as a guy in Miami, FL. The frequencies are then chosen on the UC14 unit to match the frequencies that are available in each guys respective town.
+
+Do I need to specify a certain (frequency range UC14 unit) or do I just order one and adjust the frequency to fit the areas I perform in?
+
+
+Also, are all of the connections on the UC1 body pack transmitters (when ordered with the UC14 package) the 4 pin type. I want to make sure that I don't get a UC1 body pack with a Quarter inch jack for a guitar, because I'll be using a Lavalier mic from Applied Microphone Technology on my sax.
+
+
+
+
+
+
+Answer:
+
+	The UC system is available in two frequency bands: UA band (TV channels 66 - 69; 782 to 806 MHz); UB band (TV channels 51 - 54; 692 to 716 MHz). The band is chosen based on which is more clear of TV stations in the geographic area. Base your choice on the TV channels that are NOT in use in your area.
+	
+	All UC transmitters has a four pin TA4M input connector. No UC models use a 1/4 jack input.
+	
+	Let me extract your questions:
+	
+	Q: Are all of the UC14 Units the same.....as far as being frequency agile?
+	A: All UC systems are frequency agile. But every UC system is available in one of two bands: UA and UB. (See above.)
+	
+	Q: Do I need to specify a certain (frequency range UC14 unit) or do I just order one and adjust the frequency to fit the areas I perform in?
+	A: Chose the UC band based on your geographic area. Then adjust your UC system to one of its nearly 100 selectable frequencies.
+

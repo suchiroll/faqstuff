@@ -1,0 +1,15 @@
+Title: axsgwd wireless for bass
+Id: 819
+Legacy Id: 841
+
+Question:
+i resently purchased a axsgwd wireless for my warwick thumb bolt-on bass. If i play lightly it works fine, but if i play hard it cuts out for a second leading me to believe my bass is too hot and i need to adjust the input sensitivity somewhere. i don't have a manual, so i'd appreciate any help you could give me. thank you.
+
+Answer:
+
+	At 03/26/2001 04:29 PM we wrote -
+	
+	If the reciever Audio overload light is coming on when you play hard, then yes, it means that you are overloading the transmitter/receiver. There is a page in the users guide that talks about lowering the gain or volume level coming out of the transmitter.
+	
+	The user guide which is in a pdf format is attached to this message. Just follow the directions.
+

@@ -1,0 +1,40 @@
+Title: SCM820 versus SCM810 - unique features
+Id: 4311
+Legacy Id: 5382
+
+Question:
+What features are unique to the SCM820 compared to the SCM810?
+
+
+
+Answer:
+
+	Below are features unique to the SCM820:
+	
+	IntelliMix Technology
+	 IntelliMix modes offer five different mixer mode presets of automixing styles
+	(Classic, Smooth, Extreme, Custom or Manual) to tailor the mix for a particular application.
+	
+
+	Enhanced I/O Connectivity
+	 DB25 or logic-enabled block connector models available, each with 8 analog input channels
+	 Per-channel direct outputs allow the SCM820 to be used as an insert processor
+	 Mix A and B outputs with selectable mic or line level to connect to a sound reinforcement system, broadcast
+	feed or recording device.
+	
+
+	Flexible Control
+	 Individual channel control for adjustment of gain, limiter, EQ, and solo/mute
+	 LED meter rings display real-time settings and output levels
+	 Web browser GUI delivers software control, monitoring, routing and configuration
+	 3rd party control system (AMX, Crestron, Extron) compatible
+	
+
+	Networking
+	 Models available with Dante digital networked audio for multi-channel audio networking over Ethernet
+	 Dante upgrade card available for standard Ethernet models
+	 Dante Virtual Soundcard license included with Dante-equipped models to enable recording and playback capabilities between computer and Dante-equipped devices
+	
+
+	The SCM810 is an analog device.The SCM820 is a digital device.
+

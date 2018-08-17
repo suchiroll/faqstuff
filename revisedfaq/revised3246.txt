@@ -1,0 +1,12 @@
+Title: Metal Mesh Screen to reduce "P-pop" and wind noise
+Id: 3246
+Legacy Id: 3397
+
+Question:
+The Shure SM91 had a fine metal screen under the outer perforated grille. This screen helped reduce wind noise and P-popping. What was this metal screen material?
+
+
+Answer:
+
+	The metal screen was stainless steel (type 304), mesh wire cloth. The open area was 37.4% of the total surface. The wire diameter was 0.0026 inch, i.e., very tiny wire and very tiny openings. This type of fine metal mesh wire cloth is effective at reducing the velocity of air blasts, like a P-pop.
+

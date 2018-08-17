@@ -1,0 +1,26 @@
+Title: Getting shocked when I touch the mic
+Id: 2555
+Legacy Id: 2653
+
+Question:
+I play in a garage environment and have had two SM58 mic's that I have been using for about 3 years for recording/rehearsal purposes. Recently I have been getting shocked stepping up to the mic's. Now the two mic's are being used through a mixer that is pretty old with about a 7 foot range between the two mic's for performance. My curiosity is being that the two mic's have been used with the same two guitar rigs/guitars for 3 years what was causing both to give such a shock. Could this be a mixer issue?
+
+Answer:
+
+	The SM58 outer case is connected via the cable to the metal chassis of the mixer. The mixer chassis could have stray AC voltage/current on it, and this is a dangerous situation.
+
+If you play guitar and are connected to the amp via a cable, the strings are connected via the cable to the metal chassis of the guitar amp. The guitar amp chassis could have stray AC voltage/current on it, and this too is a dangerous situation.
+
+Or the grounding in the AC outlets in the garage may be faulty.
+
+This dangerous situation cannot be resolved by email. It requires an inspection of the PA and the guitar amp by a qualified technician, and the inspection of the AC outlets by a qualified electrician.
+
+Do not ignore these shocks. They are a warning that something is amiss in the electrical chain.
+
+Please read this link:
+
+
+	https://www.questronix.com.au/tingles.htm
+
+A neon test lamp, available from a local hardware store for less than $10, provides a method to test for this situation.  With all cable connections made, and all audio equipment powered up: 1) Touch the guitar strings with one probe of the neon lamp, 2) Touch the other neon lamp probe to the metal mic grill.  3) If the neon lamp illuminates, there is AC current leakage indicating the possibility of electrical shock.
+

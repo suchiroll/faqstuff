@@ -1,0 +1,17 @@
+Title: How to use an external limiter for extra hearing protection
+Id: 2869
+Legacy Id: 2982
+
+Question:
+What would be the best way to set a compressor/limiter for use with PSM's?
+
+Answer:
+
+	The exact set-up varies dramatically depending upon the model of the compressor/limiter.
+	
+	We suggest an experimental approach. As a source, use a CD player and a CD of your music or a similar type. Monitor the CD via your entire in-ear signal chain and adjust the compressor/limiter (based on the manufacturers instructions) to your liking.
+	
+	Next, try these settings during a rehearsal and see if they work. If not, re-adjust.
+	
+	Finally, use the rehearsal settings for a gig, and tweak as necessary.
+

@@ -1,0 +1,27 @@
+Title: Upgrading existing equipment-Handheld to headset-T-series
+Id: 1020
+Legacy Id: 1050
+
+Question:
+I purchased about 3 years ago the Shure, "Vocal Artist" wireless mic with the SM58 capsule. It uses the T4 Marcad diversity receiver. The freq. is 182.2. It has been an excellent choice.
+
+
+I have an application that now requires a "headset" mic.
+
+
+Question:
+
+Can I purchase additional components to convert my existing T4 receiver to work with "The Headset" configuration?
+
+
+If so, please advise exactly what I need to order.
+
+
+Answer:
+
+	Yes, the individual components for a Headset configuration can be purchased separately. The bodypack transmitter would be ordered on the same frequency as the receiver. Because of this, the two microphones can not be used at the same time.
+	
+	The microphone that has the 1/4 phone plug connector on it is model WH20QTR. The transmitter bodypack model number is T1G.
+	
+	The microphone with the four pin connector on it is the model number WH20TQG. The transmitter body pack model number is T1. (This latter configuration would allow a lavalier microphone to be used in the future, if desired.)
+

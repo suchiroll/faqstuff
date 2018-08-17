@@ -1,0 +1,11 @@
+Title: FP22 line level inputs
+Id: 182
+Legacy Id: 183
+
+Question:
+In the FP22 headphone amplifier, is the input clipping level for the XLR (line level) 50 V or does that only apply to the Stereo line with the -30 dB pad?
+
+Answer:
+
+	The +34 dBV (50 V) clip level applies to the XLR line position.
+

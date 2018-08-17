@@ -1,0 +1,15 @@
+Title: Motiv Accessories for MV5
+Id: 4861
+Legacy Id: 6049
+
+Question:
+Looking for any recommended accessories for the MV5 microphone, esp windscreen and extension cable.
+
+
+
+Answer:
+
+	A male-to-female Micro B extension cable should allow extension ofthe cable supplied with the MV5.The MV5 product team reported good results using cables up to 6 feet, but cautioned that using too long a cable might result in connection issues due to Apples hardware. For such cables, try: www.monoprice.com
+	
+	Shure does not make a windscreen for the MV5; a possible source for a generic windscreenis www.olsenaudio.com
+

@@ -1,0 +1,14 @@
+Title: Multiple ULX-D encrypted transmitters linked to one receiver
+Id: 4933
+Legacy Id: 6191
+
+Question:
+I want use encryption on the ULX-D but need a handheld transmitter and a body pack transmitter to work with the same receiver...not at the same time, of course.
+
+
+Answer:
+
+	Thereis a firmware update to ULX-D that allows pairing multiple transmitters to a single receiver with encryption enabled. Firmware version 1.4.14 added this functionality.
+	
+	Go into the Encryption menu and set it to ON (Manual). Select this option. The receiver sends the same key to every transmitter rather than generating a new one each time an infrared sync occurs.
+

@@ -1,0 +1,14 @@
+Title: Is the MXWAPT rated for use in a plenum?
+Id: 4365
+Legacy Id: 5453
+
+Question:
+Is the MXWAPT rated for use in a plenum?
+
+
+Answer:
+
+	Yes, the MXWAPT meets the Underwriters Lab Plenum code 2043.
+	
+	The UL 2043 test is a simulation of a rectangular air space that is similar to the air handling space above an enclosed ceiling. The product being tested is hung from a metal framework about 2 feet above a gas burner. Exhaust heat and smoke from the product under test rise into an area where heat/smoke sensors are located. The electronic product passes the ten minute test if: a) the heat release rate does not exceed 100 kilowatts; b) the peak optical density of smoke is less than 0.5; c) the average optical density of emitted smoke is less than 0.15.
+

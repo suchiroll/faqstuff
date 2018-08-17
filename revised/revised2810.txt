@@ -1,0 +1,14 @@
+Title: Stylus for TM2E cartridge
+Id: 2810
+Legacy Id: 2920
+
+Question:
+I just inherited a really nice technics turntable (sl-d202). It had your cartridge TM2E on the tone arm. I think the cartridge is OK, but the needle itself is worn. What is the recommended upgrade for this needle, or do i have to get both the needle and cartridge?
+
+What is the recommendation?
+
+
+Answer:
+
+	The N75ED Type 2 stylus will fit the TM2E body.
+

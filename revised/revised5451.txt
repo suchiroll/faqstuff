@@ -1,0 +1,9 @@
+Title: Will the 3-button remote on the RMCE-BT1 work with my device?
+Id: 5451
+Legacy Id: 
+
+Question:
+Will the 3-button remote on the RMCE-BT1 work with my device?
+
+Answer:
+The 3-button remote controls such functions as Play/Pause, Answer/End call, Activate Voice Assistant, Volume up/down, and Next/Previous track.  Functionality of the remote ultimately is device-dependent, but these commands should work on almost all Bluetooth-enabled source devices, including both Android and iOS products.

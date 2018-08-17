@@ -1,0 +1,16 @@
+Title: SCM820 Crestron Control: TCP / IP Client
+Id: 4766
+Legacy Id: 5948
+
+Question:
+I downloaded the Crestron module from your website and my question is on the tcp/ip client: should the ethernet connection always be active or should I try to disconnect if system is not in use?
+
+
+Answer:
+
+	
+		We recommend leaving it active.
+
+
+
+

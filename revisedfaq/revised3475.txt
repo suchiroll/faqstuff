@@ -1,0 +1,21 @@
+Title: DFR11EQ locked
+Id: 3475
+Legacy Id: 3672
+
+Question:
+I have just aquired two DFR 11 EQ's. The bypass and lock buttons on the front do not seem to work. The dip switch in the back is set to unlock front panel. Is it possible these units have been locked via computer?
+
+
+Answer:
+
+	The DFR11EQ features several front panel lock modes:
+	  
+	1. The default option for the front panel lock is “unlocked”.  
+	2. The front panel can be locked by setting dipswitch 7 on the rear panel of the DFR11EQ to the down position.  
+	3. The front panel can be locked via software, which overrides the setting of the rear panel dipswitch.  In the DFR11EQ software, the front panel lock options can be found at:  
+	     -- select “Options” from the top menu bar.  
+	     -- select “Hardware” from the drop down menu.   
+	     -- a “Hardware Options Window” will be displayed.  
+	     -- select or de-select as needed the “DIPSWITCH 5, 6, 7 Override and Disable” check box.   
+	     -- select or de-select the front panel lock choice from the check-box selections:  “Unlock” (software unlocked), “Lock Front Panel”, or “Lock DFR” (which locks only the DFR filters).
+	 

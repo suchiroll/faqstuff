@@ -1,0 +1,16 @@
+Title: Pistol Grip, Angled Vocal Microphone
+Id: 3458
+Legacy Id: 3652
+
+Question:
+Do you make a vocal mike that is angled at the body, similar to your beta drum mikes, but mounts directly to a boom, in other words? I'm a lead vocal, drummer looking for an angled vocal mike, where the cable doesn't extend forward, or can you recommend an existing angled mike that you already make?
+
+
+Answer:
+
+	This style of mic, called a pistol grip, was very popular in the 1960s and 1970s, then fell out of favor.
+
+	I recommend that you use the Beta 56 and add a windscreen (A1WS) to make it a vocal mic.When installing the windscreen, keep an air gap between the mic grill and the foam floor of the windscreen.In other words, pull it on tight, then pull it off slightly to leave an air gap of 1/4 to 1/2 or so.
+
+	The mic element in the Beta 56 is the same as the Beta 57 and Beta 58.
+

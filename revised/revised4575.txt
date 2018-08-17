@@ -1,0 +1,22 @@
+Title: MX Microphones for a conference table
+Id: 4575
+Legacy Id: 5701
+
+Question:
+I have a customer that is looking to put microphones in a 204” long by 54” wide conference room table. They would like to go with the MX395 straight down the middle, but I am worried that it won’t be sufficient enough pick up for the 16 chairs locations. Can you assist in helping me make sure I design the right system?­­
+
+
+Answer:
+
+	Assuming the mics will be used for sound reinforcement within the room itself:
+	
+	1) There must be one mic person OR one mic between every two people.This is required so that every person is the same distance from the local mic.
+	
+	2) Surface mounted mics, like the MX395,must NOT be covered by papers, or other debris.This includes open laptop computers screens that block the direct path from mouth to mic.
+	
+	3) The mics must be controlled by some type of automatic mixer so that the fewest number of mics are open at any instant.
+	
+	4) The PAG equation must be employed during design to see if the mics can be this far from the talkers to provide adequate gain-before-feedback.Please read this link carefully: PAG Calculator
+	
+	5) Another helpful link: Audio Systems Guide to Meeting Facilities
+

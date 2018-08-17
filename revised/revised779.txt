@@ -1,0 +1,29 @@
+Title: UT Wireless setup for videography
+Id: 779
+Legacy Id: 801
+
+Question:
+I have a UT4 receiver and a UT1 transmitter.
+
+What is the proper method of setup for this wireless system?
+
+How should the gain be set on the UT1 and the volume on the UT4 be configured for various situations?
+
+I have tried different configurations and suggestions but can't seem to get the performance I had anticipated.
+
+I used this mostly for pastors who move around a lot on the platform and I also use this for weddings on the groom.
+
+I use it occasionally outdoors.  Sometimes it is windy and you get the typical wind noise.
+
+Any suggestions?
+
+Do you have a white wireless?  I have been trying to find one for use on brides.
+
+Answer:
+
+	1. Please review the UT Series User guide
+	2. Please read this booklet:Audio Systems Guide for Video Production
+	3. For speech applications, set the UT1 transmitter gain to maximum. Set the UT4 volume only as high as required by the input to your camera or mixer.
+	4. Wind noise can only be controlled minimally. Use omnidirectional mics and foam windscreens outdoors.
+	5. The Shure WL50W mic is white and will connect to the UT1 transmitter.
+

@@ -1,0 +1,16 @@
+Title: Cable wiring for a 565S Microphone
+Id: 2700
+Legacy Id: 2804
+
+Question:
+I would like to know how to wire a Low Impedance cable to an Amphenol MC4M connector for my Shure 565S microphone.
+
+
+Answer:
+
+	Amphenol MC4M pin 1 to cable shield to XLR male pin 1.
+	
+	Amphenol MC4M pin 3 to cable conductor #1 to XLR male pin 3.
+	
+	Amphenol MC4M pin 4 to cable conductor #2 to XLR male pin 2.
+	* NOTE: It is recommended that the polarity of the 545 be checked after the XLR cable is fabricated. If the polarity is reversed when compared to other mics, like the Shure SM57 or Shure SM58, reverse the wiring of XLR pin 2 and XLR pin 3 on the 545 cable.

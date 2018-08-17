@@ -1,0 +1,26 @@
+Title: wireless system suggestion for a church
+Id: 2098
+Legacy Id: 2165
+
+Question:
+---- 11/30/2001 12:08 AM ---------------------------------------------
+
+I am looking for a wireless mic system for my church's meeting hall that can seat about 450 people. It will be best if the system include 2 lavalier mics and 2 people can speak at the same time. Could you give me some suggestion and some price information? My church is locate at Irvine, CA 92606.
+
+
+Answer:
+
+	At 11/30/2001 07:33 AM we wrote - There are too many variables to discuss via email. We suggest the following steps:
+	
+	1) Read: ht-tp://ww-w.shure.com/booklets/intro/intro_to_wireless.html
+	
+	2) Then read: ht-tp://ww-w.shure.com/pdf/booklets/church.pdf
+	
+	3) Then contact the Shure rep in southern California for assistance: ht-tp://ww-w.shure.com/scripts/dom_reps/bystate/california.asp#audiogeer
+	
+	Choosing and installing the correct wireless system requires detailed knowledge of sound system operation. The Shure rep, Audio Geer, will help you find such audio professionals in your area.
+	
+	As an example of a wireless system often used in churches, see: htt-p://ww-w.shure.com/wllxidx.html
+	
+	But this does not mean the LX Series is right for your church! It is only an example.
+

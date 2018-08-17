@@ -1,0 +1,37 @@
+Title: Why is 0dB master factory set at +4dB FP33 mixer
+Id: 199
+Legacy Id: 200
+
+Question:
+I'm a novice sound recordist as you will be able to tell from the following question and I would really appreciate it if you would help me with something that I just can't seem to be able to get my head around. The book says I should set the master gain knob at 2 o'clock, 0dB, (reading +4dB on the VU scale) and send the 1kHz tone to (say) an analogue camera and presumably set the camera scale to zero. Now, if I leave the master gain control on the mixer where it is (2 0 clock) and have the audio level peaking at 0dB on the mixer VU scale as controlled by the input knob is this correct or should I turn the master gain down 4dB.  I'm sure I've made this sound unnecessarily complicated but what I'm really asking is how to set up the relationship between input and output for optimum sound quality given that it is often necessary to "ride" the input for unexpected higher than average peaks to avoid distortion.
+
+At 06/13/2000 02:46 AM you wrote - Thanks very much for your prompt reply to my query and your helpful comments. Your reply went only part way to answering the aspect that is causing me the most confusion (my fault in the way I asked the question). In Tip#2 you say to adjust the master output level up or down to get the "desired output level or meter reading". My question is - what IS the desired output level or meter reading and how does one know when it is set to the OPTIMUM level. Also could you please explain why 0dB (2 0 clock) is factory set at +4dB on the VU scale and not 0dB on the VU scale and under what circumstances it should be adjusted by the user. Sorry about these basic questions but I don't seem to be able to find a useful book or website on this aspect of sound recording.
+
+Thanks again for your help
+
+Answer:
+
+	At 06/12/2000 07:19 AM we wrote -
+	
+	Your question would be easy to answer if every level meter in the world responded the same to speech and music signals, but alas, they do not. Meters are calibrated to a steady 1 kHz tone only as a starting point. Once program signals are sent through the your system, you will note that the FP33 meter may act very different than the camera meter. You are seeing the difference in meter ballistics, that is, how fast can each meter start and stop when displaying a varying signal such as speech. One FP33 driving another FP33 would have a good match between the meter movements; an FP33 driving any other device may or may not have a good match between the meter movements. It depends on the meter ballistics of the other device. How you operate the FP33 will vary from camera to camera, from device to device. The level meter is only a crude indicator.
+	
+	Tip #1: Have a great set of headphones and monitor the FP33 output signal via the FP33 headphone output. If you hear distortion at this point, so will the camera.
+	
+	Tip #2: Have the FP33 input turned up as high as possible with the input LED flashing red only on peak signals. Then adjust the Master up or down until you get the desired output level or meter reading. If we did not want the Master control adjusted, we would have not put it on the mixer! Do not feel you have to keep it at one spot; it is there to be used.
+	
+	Tip #3: Find out the maximum input signal that the camera can handle, and set the FP33 output limiter to that level or perhaps 3dB below it. The FP33 limiter responds in .001 seconds, much faster than you can. So it will stop too large a signal from distorting the camera audio. The FP33 output meter is your best audio assistant.
+	
+	Tip #4: Do not depend on the FP33 meter or any other meter. Use any meter as a basic guide, but use your ears as the final judge. No matter what a meter reads, if you are hearing distortion, something needs to be adjusted.
+	
+	If you have other questions, call Shure U.S. Applications Engineering at 847-600-8440.
+	
+	At 06/13/2000 07:12 AM we wrote -
+	
+	The desired output level is determined by the device the FP33 is feeding, not the FP33 itself. The FP33 can provide a wide range of output levels. The only limitations are: 1) Keep the FP33 level low enough so its internal circuitry does not distort, that is below +18dBm. 2) Keep the FP33 level high enough so that you are not bothered by its noise floor (the inherent hiss level of any amplifier) As long as the FP33 output level is well above the hiss level (which you would hear) and below the distort level (which you would hear), it is in its normal operation range. This might be anywhere from -30dBm to +15dBm - a huge range. Therefore, with this wide operation range, the optimal output level is determined by the device fed by the FP33.
+	
+	0VU is simply a reference point; it is not absolute value. Depending on the industry and time in history, 0VU has been defined as: +10dBm; +8dBm; +4dBm; -10dBV. In the U.S. broadcast industry, +4dBm = 0VU has been a de facto standard since the late 1970s. Before that, +8dBm had been a standard. All of these standards relate back to the Bell Telephone who has over the years set level standards for the broadcast industry because radio and TV signals have been carried over Bell Telephone lines since the 1920s. So as the FP33 is often used by broadcasters, Shure factory sets the meter for 0VU = +4dBm. If this is not to your liking or does not match well with your devices driven by the FP33, you can readjust the meter as well as the peak output LEDs. See your FP33 owners manual for instructions.
+	
+	Always remember that an output meter on any mixer is primarily used to let you know how much signal is being fed to the next device downstream.
+	
+	Once again, keep the FP33 inputs up as high as possible (watch the input LEDs) and keep the Master up only as high as necessary to satisfy the next device in the signal chain.
+

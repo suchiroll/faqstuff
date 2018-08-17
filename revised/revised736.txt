@@ -1,0 +1,18 @@
+Title: How do I get studio quality with SM7B mic through my computer?
+Id: 736
+Legacy Id: 755
+
+Question:
+I have the SM7B plus the A96F transformer (which has been wiring adjusted per your user guide), and the recorded voice level is still low. The sound is also subject to line noise. What do you suggest? I require studio quality. Everything else (CD's, Cassette played thru my "line" port on the computer etc. record at full level, and all settings for the sound card are correct).
+
+
+Answer:
+
+	The A96F will not supply enough additional gain for the line input of a computer. You need to purchase a mic to line amplifier (also called a preamp).
+	
+	If your computer has a microphone input, you should be able to plug the A96F into it without any problem.
+	
+	For more information on transformers and their uses, click on the following link:
+	
+	Transformers - When to use and how does it work?
+

@@ -1,0 +1,15 @@
+Title: V15 V bad sound after stored for many years
+Id: 1014
+Legacy Id: 1043
+
+Question:
+I have an old Shure V15 Type V cartridge, which, although babied, hasn't been used for many years. I am trying to resurrect my record-playing system in order to copy my pristine 1970-80s collection to a computer disk, for later editing, compiling, and burning to CD-ROM.
+
+
+When playing records, I get distortion as if the stylus is dusty (it's not). The rest of the playback system checks out, and I've realigned the cartridge. I assume that cartridges have a life span (?); is there any way to know if the whole cartridge needs replacement, or just the stylus? And what is the approximate price for replacements; I'm trying to keep this project somewhat reasonable in cost.
+
+
+Answer:
+
+	The cartridge body is likely fine. The problem is very likely in the stylus, particularly the rubber bushing that supports the stylus. A new stylus will restore the entire cartridge to original performance. The replacement stylus is the VN5MR.
+

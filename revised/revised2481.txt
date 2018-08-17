@@ -1,0 +1,19 @@
+Title: Which wireless has Worldwide Coverage
+Id: 2481
+Legacy Id: 2576
+
+Question:
+I'm emailing you from Australia, very interested in your ULXP14 system. I have a query regarding the usage overseas as well. I realise it's illegal in lots of cases, but I notice on the ULXP series, you can manually set the frequency that you wish for it to operate at.
+
+
+Does the unit cover a wide enough range to be usable everywhere legally, and it's only a matter of changing it in each location, or is the unit's range coverage to suit 1 country only?
+
+
+Answer:
+
+	The brief answer: No, the ULX is not legal everywhere.
+	
+	Please read the following link to understand why NO wireless microphone is legal everywhere.
+	
+	Can I use my Shure wireless system in another country?
+

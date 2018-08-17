@@ -1,0 +1,12 @@
+Title: Matched pair SM81 microphones
+Id: 201
+Legacy Id: 202
+
+Question:
+I am about to purchase two SM81 microphones and would like to know if they are available in matched pairs. I have been unable to find a part number for such. Perhaps the SM81 design does not require matched pairs and I am looking for something that does not exist.
+
+
+Answer:
+
+	The SM81 is not available in a matched pair set. The quality of the microphone is such that you can purchase two SM81s at random and know that they will be the equivalent of a matched set.
+

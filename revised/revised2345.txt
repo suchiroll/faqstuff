@@ -1,0 +1,14 @@
+Title: V15V xMR with a Ittok LV11 tonearm
+Id: 2345
+Legacy Id: 2432
+
+Question:
+Will this cartridge work well in a high mass tonearm? I have a Linn LP12 with Ittok LV11 arm.
+
+
+Answer:
+
+	Tonearm effective mass for V15 Type V phono cartridge
+	
+	Check with Ittok to find the effective mass of the arm.
+

@@ -1,0 +1,19 @@
+Title: Interchanging UHF antennae?
+Id: 422
+Legacy Id: 429
+
+Question:
+My office employs four dual UHF mic kits. Just wondering if the antennae from one kit can be used on another kit (I'd noticed the different color bands on each antenna and wondered if this indicated something). Thanks for your help.
+
+At 10/31/2000 10:43 AM you wrote - So I have ascertained that we do indeed have two different frequencies in service here. Are the antennae color-coded to differentiate between UA and UB models?
+
+Answer:
+
+	At 10/31/2000 08:48 AM we wrote -
+	
+	There are two frequency bands available. The UA band (782 - 806 MHz) and the UB band (692-716 MHz). Check to see what frequency bands your receivers are. The antennas are not interchangeable between bands, so mark them accordingly.
+	
+	At 10/31/2000 12:55 PM we wrote -
+	
+	No, the antennas are not color coded. But the antennas do have their frequency range printed on them at the base of the antenna.
+

@@ -1,0 +1,13 @@
+Title: MX392 Extension Cable
+Id: 3962
+Legacy Id: 4213
+
+Question:
+I was looking at my Extron catalog and they offer a cable that is called a STP20-2P.It's basically two twisted pairs, 20 AWG, with each pair wrapped in a foil shield and with each pair having a drain wire.Can I use this Extron cable?Would the twisting of the pairs present a problem?Please let me know.
+
+
+Answer:
+
+	The Extron cable should be OK.Twisting of the pairs is desired.
+	
+

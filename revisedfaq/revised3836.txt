@@ -1,0 +1,10 @@
+Title: PGXD2 Attenuation Switch Setting
+Id: 3836
+Legacy Id: 4075
+
+Question:
+When sent from the factory, what is the setting for the internal pad (attenuator) of the PGXD2?
+
+
+Answer:
+The PGXD2 has the pad engaged at the -10dB setting.  This setting provides an output level (at the PGXD4 XLR) similar to that of a wired SM58.  If the unit is used only for the spoken word, it may be advantageous to set the pad to the 0 dB setting. See the User Guide for instructions.

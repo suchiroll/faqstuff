@@ -1,0 +1,18 @@
+Title: Performance miking of a stringed harp
+Id: 271
+Legacy Id: 277
+
+Question:
+I'm looking for a recommendation for a microphone to pick up a harp, the stringed instrument, not a harmonica, for live performance in small venues, such as school auditoriums, at cocktail parties, weddings, and possibly outdoor concerts for small audiences. Please advise.
+
+
+Answer:
+
+	We recommend the KSM137, SM137, orPGA81 to mic a string instrument such as the harp.
+	
+	For a complete listing of microphones that we recommend for stringed instruments, see our online Selection Guides/Buyers Guides.
+	
+	We outline how to mic many different instruments in our online publication Microphone Techniques for Music - Sound Reinforcement.
+	
+	Harp mic placement is on page 23.
+

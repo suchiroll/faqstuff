@@ -1,0 +1,13 @@
+Title: Wireless Mic Frequencies in England and United Kingdom
+Id: 2340
+Legacy Id: 2427
+
+Question:
+Is there a source that lists the legal wireless mic frequencies in England and the United Kingdom?
+
+
+Answer:
+
+	http://www.caig.com 
+	
+	For this link, we wish to thank Geoff Ingle of: http://www.wirelessmics.co.uk

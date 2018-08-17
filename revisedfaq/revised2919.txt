@@ -1,0 +1,14 @@
+Title: Microphone to pick up lake waves
+Id: 2919
+Legacy Id: 3044
+
+Question:
+I have a client that wants to listen to the pounding waves of the lake thru his distributed house audio system. I currently have a PZM Omni condensor flush mounted on his boathouse. The main complaint is lack of low frequency. Also, wind noise becomes a problem. I know I can address the wind noise, but don't know of anybody with a special full bandwidth outdoor mic.
+
+
+Answer:
+
+	The Shure SM63 has been used for such applications. Install the A81WS windscreen to minimize wind noise. Make certain the mic is sheltered from direct rainfall and wave splashes. Humidity and temperature changes are tolerated by the SM63.
+	
+	However, no microphone will exactly reproduce the low frequency effect of waves as perceived by a human because much of the low frequency effect is due to bone conduction in the human head.
+

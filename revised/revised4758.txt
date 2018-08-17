@@ -1,0 +1,19 @@
+Title: Protective Case for VP88 Microphone
+Id: 4758
+Legacy Id: 5940
+
+Question:
+I am searching for a protective case for our Shure VP88 microphone. Does the Shure A89SC shotgun mic cases fit the VP88?
+
+
+Answer:
+
+	
+		A89SC is 12.2 inches in length.  VP88 is 11.5 inches in length. It fits within the A89SC but rattles around because the A89SC inner diameter is made to fit the foam windscreen of the VP89S.
+	
+		
+		We suggest you make your own. Get PVC pipe from a hardware store. Choose the correct diameter to fit snuggly over the VP88. Glue on one end, and get a snug fit cap for the open end.  The A89SC mentioned above is nothing but PVC pipe covered in a fabric.
+
+
+
+

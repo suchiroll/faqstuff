@@ -1,0 +1,16 @@
+Title: SCM810 main output
+Id: 2275
+Legacy Id: 2356
+
+Question:
+I'm looking at the SCM810 manual. The connector block to the left of #8 channel is the mixed microphone output, correct? It is the connection to the input on my sound card or other recording device, yes?
+
+
+Answer:
+
+	The connector block to the left of #8 channel is the mixed microphone output, correct?
+	* Yes. It is the main output of the mixer. It will contain the signals of all nine inputs on the SCM810.
+	
+	It is the connection to the input on my sound card or other recording device, yes?
+	* Yes. It is a line level output (about 1 volt), not a mic level output (about .001 volt).
+

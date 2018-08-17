@@ -1,0 +1,29 @@
+Title: GLXD reception problems caused by wireless Wi-Fi router
+Id: 4452
+Legacy Id: 5554
+
+Question:
+Picked up one of the new GLXD16 guitar wireless system and was very excited about it. Built tough, lots of great features. But the range on this unit is short. If I walk down the hallway and around the corner, it starts cutting out (sounds kind of like a wacky tremolo). It even cut out on me today standing right in front of it. I have tried different groups and different channels in all the groups, same problem each time. Comments?
+
+
+
+Answer:
+
+	This customer had a wireless router. He wrote back with this information:
+	
+	Setting my wireless router to a more specific range of frequencies rather than leaving it on Auto cleared up the GLX-D range problem. As for the router, I looked up what the various channels correspond to in terms of frequency, and it looks like router channel 01 (2399.5 MHz - 2424.5 MHz) is the least likely to cross any of the GLX-Ds channels.
+	
+	Other hints that can improve matters:
+
+	
+		Position the GLX-D receiver 10 feet or more from the Wi-Fi access point/router.
+	
+		Use GLX-D Group 4 (best) or Group 2 (good).
+	
+		First activate Wi-Fi traffic and then scan using GLX-D. GLX-D will avoid the Wi-Fi frequencies.
+	
+		Once GLX-D is working, most Wi-Fi will avoid the GLX-D frequencies. GLX-Dwill adapt to changes in the Wi-Fi frequencies.
+	
+		Minimize the distance between the GLX-D transmitter and its associated receiver.
+
+

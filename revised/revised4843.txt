@@ -1,0 +1,12 @@
+Title: Replacement for PS 6001
+Id: 4843
+Legacy Id: 6029
+
+Question:
+What is the replacement for the discontinued PS 6001 Power Kit?
+
+
+Answer:
+
+	The PS 6001 DCS-LAN Power Kit is replaced by one of five country-specific models:PI-6000-AR (Argentina), PI-6000-BR (Brazil), PI-6000-E (Europe), PI-6000-UK (United Kingdom), or PI-6000-US (USA).For other countries, order one PI-6000 Power Inserter and one PS-CCU-xx appropriate Power Supply.
+

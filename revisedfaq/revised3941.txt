@@ -1,0 +1,14 @@
+Title: Axient Interference Detection and Avoidance with UR transmitters
+Id: 3941
+Legacy Id: 4190
+
+Question:
+Does the AxientInterference Detection and Avoidance also work with the UR1 or UR2 transmitters?
+
+
+Answer:
+
+	When using the UR1 or UR2 with the AXT400 receiver, Interference Detection will work. However, Avoidance requires AXT transmitters.
+	
+	That is, the AXT400 receiver will detect the interference, but the UR transmitters will not be able to automatically tune to a new frequency.
+

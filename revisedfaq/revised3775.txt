@@ -1,0 +1,13 @@
+Title: UR4 receivers do not appear in Wireless Workbench
+Id: 3775
+Legacy Id: 4011
+
+Question:
+I have two UR4 receivers and have them and my computer connected to a router. I'm using Wireless Workbench v5.0.3. I am using DHCP and have verified the IP address and gone through the troubleshooting on the FAQ. The UR4 receivers do not show up in the Wireless Workbench software at all.
+
+
+Answer:
+
+	It's good that you have gone through the troubleshooting FAQ as those are the first things to check.
+	We have had some people with these symptoms that have a damaged router. Try connecting to a single receiver via USB or via an Ethernet cable without the router. If that works, then try a different router.
+	Also, note the lights on the front of the router to see if they are acting normally. If they are acting abnormally, the router might be damaged.

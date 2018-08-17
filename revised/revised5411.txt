@@ -1,0 +1,256 @@
+Title: Lavalier / Headset compatibility with Wireless Systems
+Id: 5411
+Legacy Id: 5901
+
+Question:
+Lavalier / Headset compatibility with Wireless Systems
+
+Answer:
+
+	The following chart provides compatibility information between Shure lavalier and headset mics and Shure wireless systems.
+	
+
+	
+		
+			
+				
+			
+				PG185/CVL
+			
+				PG30/PGA31
+			
+				SM31FH
+			
+				WL183/184/185
+			
+				WH30/SM35
+			
+				MX153
+			
+				MX150
+			
+				WBH53/WBH54
+		
+		
+			
+				PG
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				PGX
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				BLX
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				No
+			
+				No
+		
+		
+			
+				PGX-D
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				GLX-D
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				SLX/FP
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				ULX
+			
+				No
+			
+				No
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				QLX-D
+			
+				No
+			
+				No
+			
+				No
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				ULX-D
+			
+				No
+			
+				No
+			
+				No
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				UHFR
+			
+				No
+			
+				No
+			
+				No
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				Axient
+			
+				No
+			
+				No
+			
+				No
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+			
+				Yes
+		
+	
+
+

@@ -1,0 +1,17 @@
+Title: MP3 player to a wireless bodypack
+Id: 1277
+Legacy Id: 1325
+
+Question:
+I have a last minute request for a way to connect a small MP3 player to a wireless beltpack. How would you recomend I do this? I already have a Switchcraft TA4F connector and a stereo 1/8" mini for the MP3 player. My plan was to tie the + left and right output of the mini plug to pin 3 of the TA4F, and the the mini shield/sleeve to pin 1. Pin 2 and 4 would not be connected on the TA4F. I know I'll have to keep the gain way back on the beltpack to accomodate for the high output. Does this sound correct?
+
+
+
+Answer:
+
+	Yes, you are correct.
+	
+	Is there also an output level control on the MP3 player?
+	
+	If not, is there a headphone output with adjustable level? That can also be used.
+

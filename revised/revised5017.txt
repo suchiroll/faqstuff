@@ -1,0 +1,14 @@
+Title: Maximum SPL Specifications for Condenser Microphones
+Id: 5017
+Legacy Id: 6309
+
+Question:
+Many professional condenser microphones have maximum SPL (Sound Pressure Level) input specifications which are 140 dB SPL or higher. One example is the Beta 91A, rated at 155 dB SPL into a 2,500 ohm load. It this an actual measurement or is it calculated?
+
+
+Answer:
+
+	It is calculated. Shure measures the voltage into the microphone internal preamp that creates1% THD (Total Harmonic Distortion.) Shure then calculates backwards to what SPL input levelat the microphone diaphragmwould create that voltage levelinto the preamp.
+	
+	This calculated method is used because there is no reliable way to measure distortion through the mic capsule without adding high levels of distortion through the loudspeaker usedfor measurement. Inother words,it is extremely difficultto create 155 dB SPL through a loudspeaker without the loudspeakersignal being noticeably distorted. If the input signal is already distorted, the microphone capsule distortion measurement will be inaccurate. Garbage in = Garbage out.
+

@@ -1,0 +1,15 @@
+Title: Using a mono ear bud with the P2R receiver
+Id: 3514
+Legacy Id: 3715
+
+Question:
+I am using the P2R for a speech application. It works fine with a set of stereo earphones, but not with a single monaural earphone. I get no audio. What is happening?
+
+
+
+Answer:
+
+	In the P2R, the headphone jack is wired with the jack tip and jack ring connection in parallel. There are no isolation resistors. When the monaural earphone plug (tip and sleeve only) is connected, the jack ring is shorted to the plug sleeve, thus the audio is shorted to ground on the jack tip.
+	
+	The solution is to replace the monaural plug (tip and sleeve) with a stereo plug (tip, ring, and sleeve) and not use the plugs ring.
+

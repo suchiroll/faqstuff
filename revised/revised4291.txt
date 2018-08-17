@@ -1,0 +1,20 @@
+Title: BLX1 Bodypack Transmitter - Feature Changes
+Id: 4291
+Legacy Id: 5360
+
+Question:
+How has the BLX1 transmitter been improved compared to the SLX1 or PGX1 transmitter?
+
+
+Answer:
+
+	For the BLX1 transmitter:
+	
+	Increased battery life: up to 14 hours of operation from two AA cells
+	
+	On/Off toggle switch: tactile indication that the switch has been activated
+	
+	Continuously variable audio input gain control: range of 26 dB
+	
+	Bi-color LED battery status indicator: Green (battery OK) or Red (less than 60 minutes of operating time)
+

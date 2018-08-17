@@ -1,0 +1,9 @@
+Title: RMCE-BT1 work with all Shure earphone models?
+Id: 5450
+Legacy Id: 
+
+Question:
+Does the RMCE-BT1 work with all Shure earphone models?
+
+Answer:
+The RMCE-BT1 features MMCX connectors, making it compatible with all Shure detachable SE earphones models except for the SE112.  The BT1 adapter is included with SE215-BT1 and SE112-BT1 models.

@@ -1,0 +1,12 @@
+Title: MX153 with Axient bodypack transmitter
+Id: 4215
+Legacy Id: 5185
+
+Question:
+Will the Shure MX153 work with the Axient AXT100 bodypack transmitter?
+
+
+Answer:
+
+	Sorry, it will not work. The Axient transmitter provides 7 to 9 volts of bias. The MX153 will not operate properly with bias above 5 volts.
+

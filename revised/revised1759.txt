@@ -1,0 +1,17 @@
+Title: SM57 vs SM58 - proximity effect
+Id: 1759
+Legacy Id: 1819
+
+Question:
+Why does the SM57 sound so much different than the SM58? I know the grill affects the sound and so does porting and microphone body shape and size. The specs say the SM57 goes a bit lower yet many people feel the SM58 is bassier sounding. I'm guessing their perception of bass is actually lower mids but I can't find any frequency graphs on your site to confirm this. I would have expected the SM57 to sound bassier because a greater proximity effect is possible since you can get closer to the cartridge but I guess many people's sense of bass is not really low frequency extension.
+
+
+Answer:
+
+	The SM58 and the SM57 share the same mic element, the Unidyne III. The only difference between the these two models is the grill design.
+	
+	The grill design does affect the high frequency response, particularly above 8,000 Hz.
+	
+	The SM57 grill design allows more proximity effect because the mic diaphragm can be placed closer to the sound source. Proximity effect increases each time the distance from the mic to the source is halved. When a mic is placed very close, it is quite easy to halve the distance: 1 inch to 1/2 inch; 1/2 inch to 1/4 inch; etc. Remove the ball grill from the SM58 and it will be more similar to the SM57 in its low frequency response.
+	
+	Any other differences you hear between the SM57 and SM58 are likely to be subjective (psycho-acoustic) or due to slight manufacturing differences due to part tolerance.

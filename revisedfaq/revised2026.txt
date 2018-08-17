@@ -1,0 +1,12 @@
+Title: Balanced Line
+Id: 2026
+Legacy Id: 2091
+
+Question:
+Why does a balance line provide a better quality sound?
+
+
+Answer:
+
+	The balanced line does not provide better audio quality. It is simply better at rejecting unwanted noise and interference than an unbalanced line. Thus, the audio signal is typically cleaner when using a balanced source, balanced cable, and balanced load.
+

@@ -1,0 +1,14 @@
+Title: Shure MPA 3C and iPhone4 or iPad
+Id: 3772
+Legacy Id: 4008
+
+Question:
+Will my Shure MPA-3C work with an iPhone4?
+
+
+Answer:
+
+	Sorry, it will not work properly. The MPA-3C is not recommended for the iPhone4 as there is an undesirable interaction between the MPA-3C microphone and the ambient noise sensing microphone that is a new feature of the iPhone4. This ambient noise sensing microphone is located directly next to iPhone4 earphone jack - look for a very tiny circular opening.
+
+	For the iPhone4, Shure recommendsthe CBL-M+-K accessory paired with Shure earphone model SE535, SE425, or SE315. This combination is also recommended for the iPad.
+

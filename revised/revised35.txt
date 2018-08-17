@@ -1,0 +1,52 @@
+Title: SCM810, SCM800, SCM410, FP410 link jack pin-outs and cable info
+Id: 35
+Legacy Id: 35
+
+Question:
+What is the pin functions of the link in and link out for the SCM810, (and FP410, SCM410, AMS8100, and SCM800)?
+
+
+Answer:
+
+	Pin Functions of SCM810 Link Jacks.
+	
+	Pin 1 - Signal ground; shield of link cable
+	
+	Pin 2 - Link In jack: signal ground
+	Pin 2 - Link Out jack : When grounded, defeats internal link bus terminations
+	
+	Pin 3 - Auxiliary Input audio bus
+	
+	Pin 4 - Last Mic Lock-On bus; internal termination is 200k ohm resistor connected to +15 Vdc
+	
+	Pin 5 - Post gate audio bus; internal termination is 5.6k ohm resistor to ground
+	
+	Pin 6 - Reverb Inhibit Bus; works in conjunction with Maxbus to prevent random input activation due to strong reverberant signals; never disconnect; no internal termination
+	
+	Pin 7 - Pre gate audio bus; internal termination is 1 kohm resistor to ground
+	
+	Pin 8 - Maxbus; never disconnect; no internal termination
+	
+
+	
+	Male Plug View
+
+	
+	
+	Do not attempt to link the SCM810 to any other mixer besides the FP410, SCM810, SCM800, SCM410 or AMS8100, as the link connections are unique. Not only are audio signals linked, but all IntelliMix functions are also linked.
+	
+	For the SCM800: pin 4, pin 6, pin 7, and pin 8 are not used. Refer to the pin list above.
+	
+	Note that the audio signal path in the link cable is unbalanced, and is a medium impedance. The cable length should be kept as short as possible to avoid, hum, buzz, etc. Less than 6 feet (2 meters) is recommended.
+	
+	The connector at either end of the cable is a DIN-8.
+	
+	A source for cables with this connector is:
+
+	
+
+	L-Com, Inc.
+	45 Beechwood Drive
+	North Andover, MA01845 USA
+	Phone: 800-341-5266
+

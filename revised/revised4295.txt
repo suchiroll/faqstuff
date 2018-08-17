@@ -1,0 +1,22 @@
+Title: Shure BRH Headset with Bosch - Telex DCN Interpreter Console
+Id: 4295
+Legacy Id: 5364
+
+Question:
+The Bosch DCN Interpreter Console is supplied with a Beyer Headset Model DT 394.DCN. I'd like to use the Shure BRH440M Headset in place of the Beyer. Will it work as a direct substitute?
+
+
+Answer:
+
+	Sorry, the answer is no. Here are the reasons:
+
+	
+		The mic output level of Beyer DT 394.DCN is -44 dBV at one Pascal. The mic output level of the Shure BRH440M is -66 dBV at one Pascal. The Shure output level is 20 dB lower than required. Therefore, the Shure mic signal would require an external preamp that provides at least 20 dB of gain.
+	
+		The Bosch DCN Console uses a five pin DIN plug. The pin functions are: pin 1 = Mic supply; pin 2 = Mic input; pin 3 = Headphone output Left; pin 4 = Headphone common; pin 5 = Headphone output Right. Pins 1 and 2 provide DC bias to power the FET impedance converter in the Beyer mic element. The DC bias must be blocked from reaching the Shure dynamic mic element.
+	
+		The Beyer DT 394.DCN is provided pre-wired with the DIN mating connector to the Bosch DCN Console. The Shure BRH440M is not supplied with a DIN connector of any type.
+	
+		The headphone impedance of the Beyer DT 394.DCN is 80 ohms. The Shure headphone impedance is 300 ohms. The higher impedance of the Shure could equate to diminished sound pressure level (loudness) delivered to the ears of the headphone user.
+
+

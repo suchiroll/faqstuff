@@ -1,0 +1,15 @@
+Title: Phantom power for MX200 series
+Id: 442
+Legacy Id: 451
+
+Question:
+I have 4 Microflex MX200 series and I want to know if there is a device that I can power them with besides a powered mixing board?
+
+Answer:
+
+	We will assume your question is: Is there a device that will provide phantom power to the MX202 besides a powered mixing board?
+	
+	Yes. There are several companies that offer phantom power supplies. You can also build your own supply. You will find instructions at the following links:
+	
+	How do I build a phantom power supply?
+	Battery Powered Phantom Power Supply with Balanced Output

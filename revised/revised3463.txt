@@ -1,0 +1,27 @@
+Title: Lemo Connector Tightening Tool
+Id: 3463
+Legacy Id: 3657
+
+Question:
+A Lemo connector is used on some of the UR transmitters. The mating Lemo connector employed on the mic cable is nearly impossible to install or repair without the use of a specialized tool sold by Lemo. Where can I purchase this tool?
+
+
+Answer:
+
+	Lemo does indeed offer a specialized "tightening tool". As of June 2008, this tool (model DCL.91.516.5TK) may be ordered from:
+Mouser Electronics Mansfield, TX
+	(www.mouser.com)
+	1-800-346-6873
+	Mouser part #736-DCL915165TK
+Or from:
+IMTRON, Inc. Eden Prairie, MN
+	(www.imtron.com)
+	1-800-927-3312
+NOTE: Before purchasing any Lemo connectors or tools, we recommend that you contact Lemo directly to ascertain that the model number is current:
+Lemo USA
+	635 Park Court
+	Rohnert Park, CA
+	Tel: 707-578-8811
+	Email: info-US@lemo.com
+	Web: www.Lemo.com
+

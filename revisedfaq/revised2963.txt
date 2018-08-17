@@ -1,0 +1,12 @@
+Title: Stylus for M78S stylus to play 33 1/3 RPM and 45 RPM records
+Id: 2963
+Legacy Id: 3091
+
+Question:
+Is there a stylus that I could use with the M78S cartridge to play a mono LP or 45 RPM?
+
+
+Answer:
+
+	The SS35C stylus will fit the M78S body. This stylus has a spherical tip with a radius of 0.7 mils. It is suitable for mono LPs and 45 RPM records.
+

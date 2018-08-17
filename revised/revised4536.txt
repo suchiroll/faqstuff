@@ -1,0 +1,29 @@
+Title: SE846 vs SE530 vs W60
+Id: 4536
+Legacy Id: 5655
+
+Question:
+I am inquiring information about your Ear Buds product number SE846. I have the SE530 before the detachable cables. This product is about 4 years old or maybe older. They just broke due to the wire pulling out of the ear bud itself. I am look to replace my SE530 with a new upgraded version and I am looking into both the SE846 and Westone W60. I do realize that the ear bud cabling issue was resolved with the new detachable cable.
+
+I have researched several reviews on the SE846 product and one of the complaints compared to the Westone W60 is the ear bud size difference. What is the size comparison of the new SE846 verse my old SE535? Are they the same size? Can you also provide some additional details on how your product is better than the Westone W60.
+
+My normal use for these ear buds are at work and exercise that include both cold and warm tempter environments. It also appears that the Westone earbud have a total of 6 divers compared to the quad drivers. I noticed that my SE535 use to get a little distorted in the midrange when there was a lot of compressed sound being exerted. Where the Westone multiple drivers may separate the sound more accurately since there is less frequency ranger per driver allowing for a faster recovery time, this depends on where the crossovers between drivers are placed.
+
+Also please clarify if the impedance is lower on the SE846 compared to the older model SE535. My classic iPod running wave files would power the SE535 easily. I do realize that you have two additional filters with the SE846 product but I am more of a flat frequency response person who likes to hear the clarity in the original recording. Again any additional information that you can provide regarding how you product quality and performance exceeds Westone W60 would be appreciated since I am currently in-between these two models.
+
+Answer:
+
+	Yes, the SE846 is a little larger than the SE530.The sole reason for this is because the SE846 has so many more parts.The technology needed to give SE846 its performance required more space.The SE846 is thicker from side to side.
+	
+	Better is a subjective term and whilewe always try to avoid comparing ourselves to competitive products using subjective terminology,we can explain some of the technological points that separate the SE846 from other products in the market.Many of our competitors make excellent products, sowe will avoid calling any particular product or brand out, but rather refer to the general features of all multi driver Balanced Armature earphone systems.
+	
+	Multi driver earphone systems:Multi Balanced armature driver earphone systems can provide very wide reaching frequency responses, and if they are engineered properly, they can definitely achieve more range than a single balanced armature driver.As the number of drivers in a system increase, so must the precision of the engineering.Crossover regions become more difficult to control consistently - if these points are not engineered precisely, or if manufacturing consistency is not maintained, extra drivers can start to cause problems with the overall sound signature of the system.In general, Balanced armature drivers have a fairly wide band output, meaning even abalanced armaturethat is designed to excel at low frequency reproduction still reproduces a good amount of mid and even high frequencies.
+	
+	When we were designing the SE846, one of our goals was to band limit the output of the low frequency drivers to keep that energy from interfering with the outputs of the mid and high frequency drivers.Our engineers designed an industry first low pass filter that ensures that our low frequency drivers are contributing only truly low frequencies to the overall system.The SE846 is the only earphone that features this patented design.The low pass filter allows the SE846 to have a deep natural low end that was not possible in prior passive earphone systems.Because the Low frequency drivers are band passed, this leaves room for the Mid and High frequency drivers to reproduce their regions of the spectrum without interference.Higher frequencies are easier to shape to preference with traditional acoustic filtering - the SE846 removable nozzle and interchangeable high-mid frequency filters allow the listener to decide how much energy they want in the very sensitive high-mid range (about 1k to 8k).
+	
+	3) The impedance spec of the SE846 is lower; 9 Ohms to be exact.A balanced armatures impedance is frequency dependent, unlike a typical dynamic type driver which is fairly even in comparison.The Impedance of the SE846 is much higher at lower high energy frequencies, and lower at higher frequencies.The SE846 is also easily driven by an iPod.
+	
+	4) The additional filters are there to give the listener options in a very critical region.The human ear is very sensitive in the region between 1k and 8k.Everyone hears a little differently based on a long list of factors, including what they determine as enough clarity and detail for any particular recording, and therefore the SE846 can be customized to suit personal preference.We believe the options included with the product represent enough of a difference in the shaping of this sound region to satisfy a very wide range of preferences.
+	
+	5) Again, please understand thatwe believe the overall quality of a listening experience to be very personal thing that depends on many factors, from comfort and fit, through isolation levels, and overall sound reproduction etc., sowe avoid saying that one product will provide everyone with a superior listening experience.We will say the SE846 has unique features and benefits.If you are looking for a wider range of user comparisons,we recommend searching the internet for reviews and direct comparisons.
+

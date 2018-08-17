@@ -1,0 +1,39 @@
+Title: AP201K Cable Information
+Id: 5341
+Legacy Id: 3937
+
+Question:
+AP201K Cable Information
+
+Answer:
+
+	AP201K: This is a cable assemble designed to allow a user to sum together an ambient mic signal and a line level signal into their P2R Aux input jack. The cable consists of a male TRS 1/4 jack, preamp module, TA4M connector and a female 1/4 connector. The preamp provides a 3dB down point at 130Hz for low end roll off. The preamp provides 12dB of gain to the mic input if no line level signal is inserted into the female 1/4 jack.When the line level signal is present its signal level at the  TRS output is attenuated by -6dB . The mic input gain is reduced to +6dB when the 1/4 line level input is present. The preamp input impedance is approximately 20 kohms and the line level input impedance is approximately 100 Kohms.
+
+	
+
+	
+
+	
+		Sums a line level signal with preamp output for independent control of two signal levels in P2R Aux In monitor mix.
+	
+		5V Bias supply from P2R is passed to the preamp and to lavalier mic.
+	
+		Provides 12dB gain to mic input with no line level input and 6dB mic gain with a line level input. The microphone output level is adjusted through thumbwheel control.
+	
+		The line level input has a -6dB attenuation.
+	
+		Provides 130Hz 3dB down point for low end roll off of mic input to reduce effects of stage rumble in monitor mix.
+	
+		Preamp input impedance is approximately 20Kohms.
+	
+		Line Level Input impedance is approximately 100Kohms.
+	
+		Cable lengths provide convenient cable management for performers.
+	
+		Over molding of Summer PCB provide rugged Y Junction.
+	
+		Preamp case allows easier handling and control over thumbwheel.
+	
+		Zero Position on Preamp will not pass any audio from mic input.
+
+

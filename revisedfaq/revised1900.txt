@@ -1,0 +1,32 @@
+Title: SHURE HTS 50LRS loudspeaker
+Id: 1900
+Legacy Id: 1961
+
+Question:
+I recently acquired a pair of Shure HTS speakers. They are the Model 50 LRS that I believe was part of a Pro Home Theater line that your company produced around 1989/90.
+
+
+I would like to receive whatever information you can provide about this speaker. I'm particularly interested to know if it would be appropriate as a small monitor used in a stereo application or was it designed with a modified frequency response more appropriate to home theater?
+
+
+Any information you can provide, would be greatly appreciated. Thank you in advance.
+
+
+Answer:
+
+	Here is all the information we have.
+	
+	Response: 60 Hz to 18,000 Hz (We could not find a response curve.)
+	
+	Sensitivity: 85dB SPL at 1 meter, on axis, with 2.83 Vac wideband pink noise input signal
+	
+	Power handling: 100 RMS watts maximum
+	
+	Impedance: 5.6 ohms nominal; 200 Hz to 18,000 Hz
+	
+	Crossover: Fourth order passive crossover with driver equalization and midband response correction
+	
+	Protection: 3 amp fast blow fuse for high frequency driver only
+	
+	No other information is available. We hope the above is useful to you.
+

@@ -1,0 +1,14 @@
+Title: Stromberg Carlson OEM Microphones
+Id: 2515
+Legacy Id: 2611
+
+Question:
+Did Shure make OEM microphones for Stromberg Carlson?
+
+
+Answer:
+
+	Yes. There was an OEM version of the Unidyne II Model 55S. The MC-41 was likelymanufactured between1951 to1961. The predecessor of the MC-41 was the model MC-31; it was based on the Unidyne Model 55, with the larger housing. MC = Moving Coil
+	
+	There was also the model MD-57, based on the Shure model 535.
+

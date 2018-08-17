@@ -1,0 +1,63 @@
+Title: Microphone Polar Pattern Explained Using a Clock Dial
+Id: 4247
+Legacy Id: 5296
+
+Question:
+I just do not understand the polar pattern of a mic and how angles are used in the polar pattern. Can you offer a simple explanation?
+
+
+Answer:
+
+	The KSM9 microphone will be used as an example because it is available with four different polar patterns.
+	
+	The Shure KSM9 and the KSM9HS are fraternal twins - nearly identical, but not quite.
+	
+	The KSM9 is selectable for a cardioid pattern or a supercardioid pattern. The pattern is chosen using a toggle switch hidden under the mic grille.
+	
+	The KSM9HS is selectable for a hypercardioid pattern or a subcardioid pattern, again chosen using a toggle switch hidden under the mic grille.
+	
+	Before reading farther, lets discuss on-axis, off-axis, and angles:
+	On-axis means sound approaches the mic directly from the front.
+	Off-axis means sound approaches the mic from the side or from the rear.
+	
+	Imagine a clock face with the mic grille pointed at 12 oclock on the dial:
+	12:00 oclock = 0 degrees (on-axis)
+	3:00and 9:00 oclock = 90 degrees off-axis
+	3:30 and 9:30 oclock = 110 degrees off-axis
+	4:00 and 8:00 oclock = 120 degrees off-axis
+	6:00 oclock = 180 degrees off-axis
+	
+	
+	
+	Now, back to the KSM9 with its cardioid or supercardioid pattern:
+	
+	Cardioid: -6dB at 90 degrees off-axis;  -25 dB at 180 degrees off axis.
+	Sound that approaches the KSM9 from 3 oclock or 9 oclock is heard 6 dB softer than sound that approaches from 12 oclock. Sound that approaches from 6 oclock is heard 25 dB (at minimum) softer than sound that approaches from 12 oclock.
+	
+	Supercardioid: -9 dB at 90 degrees off-axis;  -25 dB at 120 degrees off axis.
+	Sound that approaches the KSM9 from 3 oclock or 9 oclock is heard 9 dB softer than sound that approaches from 12 oclock. Sound that approaches from 4 oclock or 8 oclock is heard 25 dB (at minimum) softer than sound that approaches from 12 oclock.
+	
+	And now the KSM9HS with its hypercardioid or subcardioid pattern:
+	
+	Subcardioid: - 3dB at 90 degrees off-axis; -10 dB at 180 degrees off axis.
+	Sound that approaches the KSM9HS from 3 oclock or 9 oclock is heard 3 dB softer than sound that approaches from 12 oclock. Sound that approaches from 6 oclock is heard 10 dB (at minimum) softer than sound that approaches from 12 oclock.
+	
+	Hypercardioid: -12 dB at 90 degrees off-axis;  -25 dB at 110 degrees off axis.
+	Sound that approaches the KSM9HS from 3 oclock or 9 oclock is heard 12 dB softer than sound that approaches from 12 oclock. Sound that approaches from 3:30 oclock or 8:30 oclock is heard 25 dB (at minimum) softer than sound that approaches from 12 oclock.
+	
+	To summarize:
+	
+	Off-axis rejection at 90 degrees (3 oclock or 9 oclock):
+	Subcardioid: -3 dB
+	Cardioid: -6 dB
+	Supercardioid: -9 dB
+	Hypercardioid: -12 dB
+	
+	Angle of maximum rejection:
+	Subcardioid: 180 degrees (6 oclock)
+	Cardioid: 180 degrees (6 oclock)
+	Supercardioid: 120 degrees (4 oclock or 8 oclock)
+	Hypercardioid: 110 degrees (3:30 oclock or 8:30 oclock)
+	
+	Though the term directional is often applied to microphones, the better term is rejectional. The KSM9 does not enhance sound that approaches on-axis; instead it rejects sound that approaches off-axis. It is this off-axis rejection that makes the KMS9 appear to favor sounds approaching from on-axis.
+

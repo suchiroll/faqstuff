@@ -1,0 +1,21 @@
+Title: U1L with Lemo conector for Guitar
+Id: 2806
+Legacy Id: 2916
+
+Question:
+I have a U1L with a Lemo conector, I bought the WA302 cable for my guitar but realized it was the wrong conector. Is there any kind of adaptor I can buy to make the WA302 work with the lemo conector? Could send me a wiring diagram for the Lemo and the TA4F?
+
+
+Answer:
+
+	Is there any kind of adaptor I can buy to make the WA302 work with the lemo conector?
+	
+	* Sorry, there is not. Have a technician replace the TA4F connector with the proper Lemo. Beware! The Lemo connector itself will cost $40 to $50.
+	
+	The TA4F is wired:
+	1/4" tip to TA4F pin 3 (audio)
+	1/4" sleeve to TA4F pin 1 (ground)
+	
+	The mating connector for the Lemo on Shure UHF transmitters is FFA.OS.304.CLAC42. Check the Lemo web site for photos: www.lemo.ch
+	1/4" tip to Lemo pin 1 (audio)
+	1/4" sleeve to Lemo pin 4 (ground)

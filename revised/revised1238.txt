@@ -1,0 +1,30 @@
+Title: What is the pinout of the MX392?
+Id: 1238
+Legacy Id: 1284
+
+Question:
+I have an MX392/C microphone that someone has ripped the connector off the end of the mic's cable. The connector is a 5 pin XLR and the cable has 5 conductors and a shield. There is a White, Black, Green, Red, Orange and a shield in the mic cable. I need to know which color wire goes to which pin (ie shield to 1, ect). I have another Mic I could take apart and figure it out but I figured I'd ask you guys first and hopefully you have the pinout. It would save me a lot of time not to mention the colors could be different on the conductors.
+
+
+Answer:
+
+	The MX392 comes from the factory with no connector on it. The 5 pin XLR that is on it must have been put on it by the company that installed the microphones. Thus, we do not know what pin out was used when they soldered the connector onto the microphone.
+
+	
+
+	If a three pin XLR connector will be used for audio only:
+
+	red wire - XLR pin 2 (audio +)
+
+	black wire - XLR pin 3 (audio - )
+
+	shield - XLR pin 1 (ground)
+
+	
+
+	green wire - TTL logic ground
+
+	white wire - TTL switch out
+
+	orange wire - LED control
+

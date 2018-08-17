@@ -1,0 +1,12 @@
+Title: "Tini QG" (ta4f) to 1/4" adapter cable
+Id: 1015
+Legacy Id: 1044
+
+Question:
+For some odd reason your T series system for "The Headset" has a 1/4" connector which makes the transmitter practically useless for any other microphone but the Headset VHF microphone...My question is, is there an adapter that goes from TQG to 1/4" so that I may plug in my WCM16 head mic into my system? and if not how would you wire something like that?
+
+
+Answer:
+
+	The WCM16 requires +5 volts of dc bias to operate. This bias is not available on Shure transmitters that have a 1/4 female phone jack input. Your adapter cable idea will not work.
+

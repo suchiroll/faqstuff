@@ -1,0 +1,15 @@
+Title: FP42 and field mixing
+Id: 2390
+Legacy Id: 2482
+
+Question:
+Why is the FP42 not listed as a "Field Mixer"? Is there anything that would make this undesireable as a portable field mixer for video?
+
+
+Answer:
+
+	1) Most customers today consider the term "field mixer" to be a device small enough to hang around one's neck. The FP42 is too large.
+	
+	2) The FP42 is a mid-1980's circuit design and is not as quiet as the FP33 or FP24 or M367.
+	
+	There are no other reasons the FP42 cannot be used for field video production.

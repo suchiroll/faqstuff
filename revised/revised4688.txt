@@ -1,0 +1,13 @@
+Title: GLX-D Video
+Id: 4688
+Legacy Id: 5858
+
+Question:
+Please provide a GLXD video for basic setup.
+
+
+
+Answer:
+
+	GLX-D setup video
+

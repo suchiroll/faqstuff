@@ -1,0 +1,27 @@
+Title: Omni or Unidirectional??
+Id: 1099
+Legacy Id: 1135
+
+Question:
+I am currently trying to decide which type of wireless lapel mic to purchase next for our church.
+
+I can't seem to make a decision on which type of mic to get... omni or unidirectional mic.
+
+After reading some of the technical articles, it sounds like the omni mic has an edge over a uni mic as far as a better sound and resistance to noise from clothing but am not sure I read it all right...
+
+Right now I am not real happy with the noise I get from the XYZ brand lapel mic that is a uni model. Lots of clothing noise but it is clear and not prone to feedback.
+
+I am looking for the "best" quality lapel mic (although I have to select a LX system for reasons I won't go into). I have always worried if I get an omni lapel mic that I might be inviting feedback whereas if I get another uni-directional, I'll be asking for more noise from clothes.
+
+I would appreciate any guidance here since I have not used an omni mic in the church. Will the omni mic give me a more consistent and natural sound over the uni model? I don't have a problem with dropout or feedback with the XYZ brand uni mic now... only a noise issue.
+
+
+Answer:
+
+	The omni will provide a more consistent and nautural sound with less clothing noise.
+	
+	Why should I use an omnidirectional microphone?
+	Directional Mic compared to an Omnidirectional Mic
+	
+	The omnidirectional microphone will be more prone to feedback. Audio is a science of compromises. Using an omni will provide better sound, but more possiblity of feedback. Using a uni will provide more gain before feedback but more clothing noise and other artifacts.
+

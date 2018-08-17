@@ -1,0 +1,31 @@
+Title: SM58 vs. 588SD - comparison
+Id: 2001
+Legacy Id: 2064
+
+Question:
+I have three SM588SD microphones which I purchased for use with my sound system that is used for live performances mostly in churches.
+
+What is the difference between my mics and the SM58?
+
+
+---- 11/13/2001 08:07 AM ----------------------------------------------
+
+I read the label band wrong. It reads 588SD Unisphere B.
+
+Thanks!!
+
+
+Answer:
+
+	Shure has never made a model SM588SD. Please recheck this model number carefully and contact us again.
+	
+	At 11/13/2001 09:27 AM we wrote - The SM58 is a better microphone for the following reasons:
+	
+	1. Extended frequency response (more low end and more high end)
+	2. Better shock mount (less handling noise)
+	3. More consistent polar pattern (more resistant to feedback)
+	
+	The 588SD has two advantages over the SM58:
+	
+	1. An on/off switch
+	2. Dual impedance

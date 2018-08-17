@@ -1,0 +1,11 @@
+Title: A56D universal drum mounting system
+Id: 508
+Legacy Id: 518
+
+Question:
+Does the A56D universal drum mounting system pick up any noise if attached to the drum rim and so fourth or is it designed to reduce that effect to nil?
+
+Answer:
+
+	The A56D does not provide shock mounting. Consider using the Shure A53M or A55M shock mounts (which will fasten to the A56D) as effective ways to reduce unwanted vibrations transferred to the mics via the A56D.
+

@@ -1,0 +1,15 @@
+Title: Vocal mic for choir
+Id: 2156
+Legacy Id: 2229
+
+Question:
+What kind of mic do you recommend for vocals in a choir with handheld mic at a distance about 50 cm (1.5 feet). Is SM57 a good choice? 1 to 3 singers at one mic.
+
+
+Answer:
+
+	A condenser mic is a better choice for this application. We assume the mic will be on a mic stand. Correct?
+
+	
+	Please see our Selection Guides
+

@@ -1,0 +1,20 @@
+Title: Human Hearing Range in Decibels
+Id: 4668
+Legacy Id: 5835
+
+Question:
+Please provide a simple explanation about the range of human hearing.
+
+
+Answer:
+
+	The human hearing mechanism is highly sensitive and covers a wide range of loudness. From the average threshold of hearing to the threshold of pain. This range is often described as 0 dB SPL to 120 dB SPL. SPL = Sound Pressire Level.
+	
+	0 dB SPL is the sound level below which most humans cannot hear a sound. This is an average and there are some acutely sensitive ears than can sense sound that is below 0 dB SPL.
+	
+	120 dB SPL is the sound level above which most humans feel ear pain. Again, this is an average and there are some insensitive ears than can withstand sound that is above 120 dB SPL.
+	
+	How much louder is 120 dB SPL compared to 0 dB SPL? If we define 0 dB SPL as 1 unit of loudness, then 120 dB SPL is 1,000,000 units of loudness. As one acoustician put it, If 0 db SPL is equivalent to the weight of a butterfly, then 120 dB SPL is the weight of a pick-up truck.
+	
+	Or if 120 dB SPL is equivalent to the height of Mount Everest, 0 dB SPL is the height of a fatearthworm.
+

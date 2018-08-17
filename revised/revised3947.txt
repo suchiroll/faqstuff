@@ -1,0 +1,12 @@
+Title: Frequency range of AXT610
+Id: 3947
+Legacy Id: 4196
+
+Question:
+In what frequency range does the AXT610 Showlink Access Point operate?
+
+
+Answer:
+
+	2.4 GHz
+

@@ -1,0 +1,12 @@
+Title: Are the MX202 series microphones compatible with the SCM800 mixers?
+Id: 171
+Legacy Id: 172
+
+Question:
+Are the MX202 series microphones compatible with the SCM800 mixers?
+
+
+Answer:
+
+	The MX202 microphones will work perfectly fine with the SCM800/SCM810 mixers.
+

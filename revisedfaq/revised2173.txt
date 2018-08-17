@@ -1,0 +1,11 @@
+Title: Information on PE15L
+Id: 2173
+Legacy Id: 2246
+
+Question:
+I would like to know more about my Shure PE15L mic.
+
+
+Answer:
+
+	The data sheet for the PE15L can be found here:Discontinued User Guides

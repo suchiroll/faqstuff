@@ -1,0 +1,13 @@
+Title: Frequency allocation for LX88
+Id: 1809
+Legacy Id: 1869
+
+Question:
+I am planning to purchase 2 of the LX88 series wireless microphone systems. I am located approximately 40 miles north of Baltimore, MD and approximately 50 miles southeast of Lancaster, PA. Using the Shure selection chart I have identified that the "E" and "F" frequency groups are the only applicable groups. Baltimore transmits on TV channels 11  13 and Lancaster transmits on channel 8. I believe that there should be no interference with the selected wireless channels. I also currently have a single Telex wireless system in use. It operates on 169.505MHz. Shure's frequency group "E" utilizes 169.445MHz. Is there enough frequency separation between the 2 systems to prevent interference? Can a different frequency than 169.445MHz be provided? If so how would one specify a part number?
+
+
+Answer:
+
+	Sorry, the LX88 will not work with the Telex. 169.445 will conflict with 169.505. As a general rule, wireless frequencies must be separated by at least 0.5 MHz.
+	
+	The LX88 is not available in custom frequencies

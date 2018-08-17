@@ -1,0 +1,38 @@
+Title: Monitor Loudspeakers for Church Choir
+Id: 4781
+Legacy Id: 5966
+
+Question:
+Please comment about having a monitor loudspeaker for a church choir.
+
+
+Answer:
+
+	Good idea: Use of a monitor loudspeaker so the choir can hear the pastor, the soloist, or the band.
+	
+	Badidea: Use of a monitor loudspeaker so the choir can hear themselves sing even louder.
+	
+	By definition, a choir is a collection of voices, and these massed voices combine to create a loud sound. Typically, a loud sound does not need to be made louder via the use of a monitor loudspeaker.If the choir is to be miked, the choir mics must feed only the house PA system; the mics must not feed into the choir monitor loudspeaker.
+	
+	When this advice is ignored, and the choir mics are fed into the choir monitor loudspeaker, the result is acoustic feedback (howling and squealing).Why? Because the laws of physics ALWAYS win, and the PAG (Potential Acoustic Gain) equation is physicsand must be obeyed.
+	
+	If the reader is not familar with the PAG equation: Potential Acoustic Gain Calculator, Definition, and Articles
+	
+	Lets do a sample PAG calculation for a choir monitor loudspeaker:
+	
+	Distance from the choir to the hanging choir mics:10 feet
+	Distance from the mics to the monitor loudspeaker: 15 feet
+	Distance from the monitor loudspeaker to the choir: 8 feet
+	Distance from singer to listener: 1 foot (as zero will not work in the equation)
+	Number of choir mics:3
+	
+	Target amount of required gain:+15 dB
+	(To make the choir sound more than twice as loud!)
+	
+	Calculated amount of gain using PAG: -25 dB
+	(The monitor loudspeaker system will immediately feed back when powered up.)
+	
+	The concept of a monitor loudspeaker (where a singer hears herself amplified) can work if the distance from the singer to the mic is very tiny, typically less than one inch. Think about every rock concert you have seen.Have far is the mic from the mouth of the singer?
+	
+	If the choir must hear themselves at a deafening level, Shure has the solution: a PSM (Personal Stereo Monitor) system.Equip each choir member with his/her own PSM receiverand a set of earphones.
+

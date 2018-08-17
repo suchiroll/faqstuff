@@ -1,0 +1,11 @@
+Title: Realistic 33-1070D microphone
+Id: 4637
+Legacy Id: 5796
+
+Question:
+Would it be possible to get the frequency response on the model 33-1970D that Shure made for Radio Shack?
+
+Answer:
+
+	See PDF file below.
+

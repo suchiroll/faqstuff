@@ -1,0 +1,14 @@
+Title: Phantom Power for Prologue 200M
+Id: 1942
+Legacy Id: 2005
+
+Question:
+We just received a 200M mixer, which works well. We would like to use it with phantom powered mics. Is there an adapter we can buy to provide this voltage to the mic?
+
+
+Answer:
+
+	There is no simple way to add phantom power to the Prologue 200M.
+	
+	You could replace the 200M mixer with the Shure SCM268 mixer that has internal phantom power.
+

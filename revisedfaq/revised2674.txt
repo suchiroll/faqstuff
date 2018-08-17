@@ -1,0 +1,12 @@
+Title: Thread size for mic stands and clips
+Id: 2674
+Legacy Id: 2778
+
+Question:
+What diameter and threads per inch is standard for mic stands and mic clips. I keep getting them in with threads banged up would like to obtain Die to clean up threads.
+
+
+Answer:
+
+	In the United States: 5/8-27
+

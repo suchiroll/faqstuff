@@ -1,0 +1,18 @@
+Title: Wireless Method for Announcing School Buses
+Id: 4269
+Legacy Id: 5331
+
+Question:
+A school wants to have a person act as a bus monitor. He will be stationed outside and needs to announce "Bus 12 is here", and be heard in the school's paging system. I thought about a wireless mic, but the person will be over 300 feet from the equipment room. I could add remote antennas but that will be expensive and the school budget is limited. Any ideas?
+
+
+Answer:
+
+	Walkie-talkies. They have a far greater operating range than a wireless microphone system.
+
+	The earphone output of a walkie-talkie is low impedance and unbalanced.Essentially, it is an AUX level signal. Connect the earphone output of the inside walkie-talkie into the schools paging system via an AUX level input. Choose a walkie-talkie that has a DC input jack so it can be powered from a AC/DC power supply.
+
+	The outside walkie-talkie used by the bus monitor can be battery powered. The range of 300 feet should be no problem for most walkie-talkies.
+
+	
+

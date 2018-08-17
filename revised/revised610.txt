@@ -1,0 +1,18 @@
+Title: Miking for tuba multi-phonics
+Id: 610
+Legacy Id: 623
+
+Question:
+I'm a tubist, and I'm trying to figure out how to mike myself when I use multi-phonics. That's a method in which a note is sung while playing another note through the horn. What I'm wondering is: will a standard headset microphone do the job, or will I need a special setup to mike my throat?
+
+
+Answer:
+
+	This will require experimentation on your part as we have no experience with this unique miking situation. Assuming you are not amplifying your music at rock and roll level, we suggest you experiment with the following microphones and microphone techniques.
+	
+	1. A lapel microphone placed on the collar of your shirt, or in that general area. Try the Shure MC50 or the SM93.
+	
+	2. A wide range condenser microphone on a boom stand with the mic placed within 12 of your throat. Try the Shure KSM44 (if money is no object), SM81, or KSM137.
+	
+	3. A headworn microphone with wide frequency response. Experiment with different mic locations. Try the Shure WH30XLR or Beta 53.
+

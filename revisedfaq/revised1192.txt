@@ -1,0 +1,12 @@
+Title: XLR barrel L.P.F. - A15LP
+Id: 1192
+Legacy Id: 1236
+
+Question:
+Do you make a LPF version of the "A15HP" HPF? I remember using one back in the late 1980's and I'm now searching for about 16 of these XLR in-line barrel devices to eliminate RF from a nearby AM broadcast station, so an upper cut-off frequency of about 18kHz would be excellent.
+
+
+Answer:
+
+	The A15LP was discontinuedseveral years ago. We no longer have a product that serves that function.
+

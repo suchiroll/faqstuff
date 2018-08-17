@@ -1,0 +1,26 @@
+Title: Sennheiser model  MKE2-gold to a Shure UHF belt pack
+Id: 2914
+Legacy Id: 3039
+
+Question:
+How do I connect a Sennheiser model MKE2-gold to a Shure UHF belt pack?
+
+
+Answer:
+
+	Per the Sennheiser service department:
+	
+	Wiring for a MKE2 Gold to a U1 bodypack using a TA4F (Tini QG) connector
+	
+	-R and -P style models
+	Red lead to Pin 2
+	Blue lead to Pins 3  4
+	Shield to Pin 1
+	
+	
+	For models that end in -3, -2, -5, -2R, -4: these models have integrated impedance converters and preamplifiers.
+	Shield and Blue lead to Pin 1
+	Pin 2 and Pin 3 bridged with 8.2k Ohm resistor
+	Red lead to Pin 3
+	Pin 4 not connected
+

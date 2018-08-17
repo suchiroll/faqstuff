@@ -1,0 +1,15 @@
+Title: M267 to FP42 Mix Bus Connection
+Id: 2659
+Legacy Id: 2763
+
+Question:
+I have an M267 and an FP42. I would like to connect them together using their mix bus connectors. Since the M267 is a monaral mixer and the FP42 is a stereo mixer, how should the connection of these two mixers be made. Since some my inputs will be stereo and I need a stereo output, I do not want to short the two buses of the FP42 together. The Technical Data for the M267 states specifically that it can be interconnected with other Shure mixers such as the FP42.
+
+
+Answer:
+
+	To maintain the stereo of the FP42, the M267 muct be connected to only one of the FP42's two mix buses. Connecting the two mixers via the mix bus will lower the level on the interconnected mix buses by 6 dB.
+	
+	1) Make certain that both mixers are connected to the same AC outlet. Both AC ground pins must be at the same ground point.
+	
+	2) Connect the M267 mix bus to one of the two FP42 mix buses. Use a cable where the shield is connected only at one end! This is to avoid a ground loop between the mixers.

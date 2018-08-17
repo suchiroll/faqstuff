@@ -1,0 +1,26 @@
+Title: High-Res Earphones and Headphones
+Id: 4928
+Legacy Id: 6186
+
+Question:
+Please comment on High-Res earphones and headphones.
+
+
+Answer:
+
+	About High-Res Audio definition and logo:
+	
+	There are many products on the market, that have been out for years - decades even, that would satisfy the requirements for the High-Res Audio (HRA)logo.There are several organizations which bless a product with their seal of approval, one is the Japan Audio Society.The HRA Logo itself has only been around for a few years, and Shure did not register for that logo for any products, including the SE846.
+	
+	This Logos presence on a package is not the same as the HDTV logo.For HDTV, the TV requires a compatible resolution 1080i/p source signal to perform properly.Whereas any headphone or earphone can be used with any resolution signal.
+	
+	If one were looking into a DAC (Digital to analog converter), or digital audio player of some kind - then the High-Res Audio logo on that type of product means that DAC or player is capable of decoding or reproducing digital files with a sample rate higher than 44.1kHz and a bit depth higher than 16 (higher res than CD).So with digital music files above this CD quality resolution, the DAC or digital Player can reproduce them in their native file resolution.
+	
+	The Japan Audio Society has a noble goal to help regulate and improve digital audio reproduction and transduction.However, keep in mind that a product without the HRA logo could still meet the HRA specifications- in many cases, it just means that the product manufacturer did not apply for that product to have the High-Res Audio logo, or the producthas been around longer than the HRA logo.
+	
+	Addressing the question about the response up to 40kHz:This is true that the High Res Audio logo spec states an acoustic transducer must reproduce frequencies of 40kHz.This is capable with many earphones and headphones - even if they dont have the logo.Most manufacturers only state specs that fall within the realm of human hearing because they are more meaningful, and helpful - though there is no standard in the industry for measuring / stating frequency ranges for headphones or earphones - which means stated frequency ranges on packaging is subject to scrutiny.
+	
+	In a nutshell, a product with the HRA logo is not inherently better than a product without the logo.Determining if a product is right for your needs will always depend on how that product sounds.When it comes to headphones and earphones, there is no magic specification that can say whether one product is better than another.There are a lot of great products out with many different sound signaturs.Great sound remains a very personal thing that depends on the listeners preferences.The only way to truly determine the headphone or earphone that pleases you is to listen and compare.Sometimes it is very difficult to find an opportunity to tryout these products, so if you dont have that opportunity, we recommend product reviews on the internet, and reading what others say about their experiences.
+	
+	There is an online Forum where one can view pages of discussions about available headphone or earphone products.http://www.head-fi.org/
+

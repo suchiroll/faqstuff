@@ -1,0 +1,27 @@
+Title: Voice recording on an iPod or iPhone with the MPA-3C
+Id: 3511
+Legacy Id: 3712
+
+Question:
+Can I voice record onto my iPod/iPhone with an MPA-3C Music Phone Adapter?
+
+
+Answer:
+
+	The current and most recent Apple iPod lineup supports voice recording in the firmware of the device. The headphone jack on the iPod is now a 4-conductor jack just like the iPhone. When using an MPA-3C it does properly work and you can record to the iPod through this feature.
+	
+	Please note this is only capable on the current lineup of iPods:
+	
+	iPod classic 120GB
+	iPod Nano (4th Generation)
+	iPod touch (2nd Generation)
+	
+	
+	
+	
+	The iPod Shuffle does not support Voice Recording.
+	
+	
+	
+	Please click Here to view information about the MPA-3C.
+

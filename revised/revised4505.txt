@@ -1,0 +1,14 @@
+Title: Using Shure Workbench v5 without a Router or Switch
+Id: 4505
+Legacy Id: 5619
+
+Question:
+I was using a single UR4D receiver last weekend and I was not able to access the unit from my Macbook by only using an Ethernet cable connected to the receiver's Ethernet port. I am running the Shure Wireless Workbench V 5.0. In the past I have always used units that were networked with a router and have had no issues. 
+HOW CAN I INTERFACE A SINGLE UR4D WITH MY LAPTOP? I did not have an USB A to B cable to try the USB connection and I have never used an USB in the past.
+
+Answer:
+
+	What firmware version is the UR4D using? There was a particular firmware version is the past that inhibited the receivers ability to network directly to a computer. To be safe, consider updating this receiver to the version 1.171. You might need to temporarily use a network switch to perform the firmware update.
+	
+	If the firmware is up to date, it might just be be a case of not waiting long enough for the receiver to establish a network connection with your computer. If both your computer and the UR4 are set for Automatic IP addressing, it could take the receiver 2 - 3 minutes before it resolves back its link-local address and establishes a connection to the computer. If you use static IPs instead, the connection will happen much more quickly - less than 30 seconds.
+

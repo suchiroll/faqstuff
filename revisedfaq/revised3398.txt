@@ -1,0 +1,27 @@
+Title: Loud Low Frequency Noise from PGX4 or SLX4 Receiver
+Id: 3398
+Legacy Id: 3588
+
+Question:
+I am a DJ and at some events I encounter a loud and undesirable low frequency noise that comes from the output from my Shure PGX wireless microphone receiver. Are there any solutions to this annoying sound?
+
+
+Answer:
+
+	The low frequency noise may be caused by a low power line voltage condition. Check these symptoms to determine if this applies to your situation.
+
+
+	Intermittent, intense, and offensive low frequency noise
+	PGX4 or SLX4 receiver
+	Does not occur with microphone transmitter turned off (receiver squelched)
+	Does occur when microphone is turned on
+
+
+	The PGX4 and SLX4 receivers can generate a low frequency oscillation noise when the DC power supply voltage dips below approximately 10.5 volts. Under normal circumstances, the supplied PS20 power supply provides 12 - 14 VDC at normal power line voltages of 110 -120 VAC. However, when the power line voltage dips to 95 VAC and below, the DC voltage output will dip below 10.5 VDC, resulting in the undesirable noise. Several reports of the low frequency noise issue have been received from DJs - the problem can be traced to a marginal or heavily loaded AC supply circuit for running both sound and lights - which results in abnormally low AC line voltages.
+
+
+	The solution is to replace the PS20 power supply with a power supply that is less sensitive to AC line voltage fluctuations. The Shure PS21 power supply is the recommended replacement, and should work on AC line voltages down to 80 volts or less. We do recommend that if you are experiencing AC line voltages below 105 volts AC, a qualified electrician should be engaged for analysis and correction. Unusually low line voltage can be detrimental to many electronic devices with linear power supplies.
+
+
+	A second alternative is to use a generic regulated switching power supply rated at 12 VDC with 400 mA (or more) current capacity, capable of wide AC input voltage swings, and with a matching DC connector (coaxial, 5.5 mm x 2.1 mm, center pin positive, such as the Switchcraft S760).
+

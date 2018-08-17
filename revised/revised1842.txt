@@ -1,0 +1,14 @@
+Title: Replacement for M24H Quadraphonic cartridge
+Id: 1842
+Legacy Id: 1902
+
+Question:
+We are after one piece of M24H Phonograph Cartridge complete with stylus for our Yamaha discreet 4 channel record player. We understand M24H has been discontinued.
+
+
+Answer:
+
+	We wish we could help. Assuming you want to play 4 channel Quadraphonic records, you need a cartridge that can respond up to 40,000 Hz. We know of no companies that still make a Quadraphonic cartridge like the M24H.
+	
+	If you do not require a Quadraphonic cartridge, then we suggest the Shure M97xE as an equivalent performance cartridge.
+

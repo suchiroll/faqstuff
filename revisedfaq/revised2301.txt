@@ -1,0 +1,12 @@
+Title: Demagnetize a phono cartridge?
+Id: 2301
+Legacy Id: 2386
+
+Question:
+I know that a moving coil cartridge must be demagnetized periodically. Does this also pertain to a moving magnet design as well?
+
+
+Answer:
+
+	No, it is not required for a moving magnet cartridge.
+

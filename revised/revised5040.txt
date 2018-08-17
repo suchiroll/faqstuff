@@ -1,0 +1,17 @@
+Title: Microphone Cartridge 99A668
+Id: 5040
+Legacy Id: 6332
+
+Question:
+What model microphone uses the 99A668 cartridge?
+
+
+
+Answer:
+
+	
+		The 99A668 is inside of the 527B microphone and the 450 Series II microphone.
+
+
+
+

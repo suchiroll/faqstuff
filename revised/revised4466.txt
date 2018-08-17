@@ -1,0 +1,17 @@
+Title: MXW with the SCM820-D
+Id: 4466
+Legacy Id: 5576
+
+Question:
+Is it possible to link the MXWANI to the SCM820-D and 2 charging stations (for 8 goosenecks) and a laptop without using a router? I figure i have enough ports but not sure if it will work..
+
+If this is possible does it make set up more complex. i.e would i have to manually assign i.p addresses?
+
+
+
+Answer:
+
+	Yes, it is possible. Utilize the additional Ethernet port on the SCM820D. If this is a self-contained system, you should not have to assign IP addresses.
+	
+	Keep in mind the MXWAPT must connect to the PoE port on the MXWANI.
+

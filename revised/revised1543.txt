@@ -1,0 +1,13 @@
+Title: Will the model 450 work with my amateur radio transceiver?
+Id: 1543
+Legacy Id: 1597
+
+Question:
+I would like to know if it is possible to use the model 450 mike on a amateur radio transceiver. I have had one lying around for a long time and would like to put it to good use if possible.Which wires are used for the rx, tx, common, and mike.It will be used in a relay switched radio.
+
+
+Answer:
+
+	The wiring diagram can be found in the Data Sheet in the Discontinued Product area of the website. Look for User Guides.
+	
+	Also, Will microphone model X work with my device that needs a mic?

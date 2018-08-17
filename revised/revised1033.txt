@@ -1,0 +1,12 @@
+Title: Using UT4 XLR and 1/4" output simultaneously.
+Id: 1033
+Legacy Id: 1064
+
+Question:
+I'm thinking of purchasing this unit, but I need to know if the UT4 receiver can send output signals from the XLR and 1/4" jack simultaneously as I need to send one signal to my amp and another to my tuner.
+
+
+Answer:
+
+	Yes, you may use both the XLR and 1/4jack at the same time.
+

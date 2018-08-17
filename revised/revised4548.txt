@@ -1,0 +1,23 @@
+Title: SCM410 straddle / link bars - 53B8443
+Id: 4548
+Legacy Id: 5671
+
+Question:
+Do you have any data you can share on the straddle / link bars used for mounting the SCM410? Overall dimensions, hole locations, and hole size?
+
+Answer:
+
+	This metal link bars is shipped with the SCM410.
+	
+	Length: 132 mm
+	
+	Width: 19 mm
+	
+	Thickness: 2 mm
+	
+	Countersunk Hole diameter: circa 5 mm. There are four holes.
+	
+	Center of hole is 15 mm down for the narrow end of the bracket.Center of hole is 4 mm in from long side each of bracket.
+	
+	All measurements taken by eye usingan actual bar and a millimeter rule.Any/all measurements above can be off by 1 mm.
+

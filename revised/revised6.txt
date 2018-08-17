@@ -1,0 +1,36 @@
+Title: RS232 codes for changing scenes on DFR11EQ v5 with Crestron or AMX
+Id: 6
+Legacy Id: 6
+
+Question:
+What are the RS232 codes necessary to change scenes on a DFR11EQ v5 using a control system?
+
+
+Answer:
+
+	Download Crestron module for the DFR11EQ (written by Crestron).
+
+	
+
+	The following command strings will change the scenes on the DFR11EQ version 5. The commands are given in hex strings.
+
+	
+
+	Global Set Scene Number
+
+	
+		F0 00 01 00 20 07 48 [Scn #] F7
+
+
+	Local Set Scene Number
+
+	
+		F0 00 01 00 [Device ID] 07 44 [Scn #] F7
+
+
+	The connection from a DFR11EQ to a control system is seven wire RS232. Click here for more information on how to connect the DFR11EQ to a 3 or 5 wire control system.
+
+	
+
+	Click here for the RS-232 codes to control gain, delay, bypass, and mute functions of the DFR11EQ.
+

@@ -1,0 +1,18 @@
+Title: Auctioneers system
+Id: 523
+Legacy Id: 534
+
+Question:
+What type of system would I need to conduct an auction of 200-300 people with 2 auctioneers with 2 cordless headsets?
+
+
+Answer:
+
+	To use two wireless headsets at the same time, you will need two complete wireless systems. If you are using the systems within an 50 miles radius of your home base, then the T series or UT series would be a good choice. If you travel outside of a 50 mile radius, then we would recommend using frequency agile (re-tunable) systems such as the ULX or UC series.
+	
+	These wireless systems must be connected to a PA system.
+	
+	You may see a comparison of all of our wireless systems at:
+	
+	http://www.shure.com/selectionguides/sel-wirelessfeatures.html
+

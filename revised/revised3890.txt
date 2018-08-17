@@ -1,0 +1,12 @@
+Title: KSM Shock Mount Locking Thread Size
+Id: 3890
+Legacy Id: 4136
+
+Question:
+What is the thread size on the shock mount of the KSM27 and other KSMside address mics? I mean the mechanism that secures the mic to the shock mount.
+
+
+Answer:
+
+	13/16 diameter / 32 threads per inch
+

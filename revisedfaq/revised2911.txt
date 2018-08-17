@@ -1,0 +1,16 @@
+Title: Shure mic into an Audio Technica transmitter?
+Id: 2911
+Legacy Id: 3035
+
+Question:
+I need to make my beta 53 and 54 work with an AT wireless?
+
+
+Answer:
+
+	For all A-T transmitters that have a four pin Hirose input connector:
+	
+	Shure shield (pin 1-ground) to A-T pin 1
+	Shure red wire (pin 2-bias) to A-T pin 4
+	Shure black wire (pin 3-audio) to A-T pin 3
+	No connection to A-T pin 2. A-T recommends shorting pin 2 to pin 1 when pin 2 is not used.

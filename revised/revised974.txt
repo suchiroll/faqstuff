@@ -1,0 +1,31 @@
+Title: Maintenance of wireless microphone
+Id: 974
+Legacy Id: 1003
+
+Question:
+I was surprised to find a maintenance section dealing with the general upkeep, cleaning and gain control settings (both on the MARCAD receiver and the mic) to optimize performance! I own a SHURE wireless SM58 and have used pure alcohol on the connectors to clean them, as well as adjusted the contacts to make better ...... well ... contact.
+
+
+I was told by a technician that this was ok, but, I wanted to come to the source to make sure this was correct. I must admit that I was shocked that no section existed in your site. I have used your products exclusively for my vocal (singing) needs and have always been pleased at the way your mics present my talent and I plan to always use them live!
+
+
+But, I have lost my mic's gain control device and need to know where in my area I can get a new one, and I need to know how the gain control settings (both on the mic and the receiver combined) affect my overall sound and how to set them for the best mic/receiver performance.
+
+
+1) If the gain is too high on the receiver will it hurt the mic and visa versa?
+
+2) How can I get more of a hardline mic sound out of my wireless? The corded mics always seem to sound better at lower gain and volume levels.
+
+
+Answer:
+
+	There isnt any maintenance that should be needed on Shure wireless contacts. If you do wish to clean the contacts, a quality electronics contact cleaner would be better. Contact cleaner can be purchased at Radio Shack as well as other electronic supply stores.
+	
+	For the replacement part that you mention, please contact the Shure Parts Department at 800-516-2525.
+	
+	Instructions on setting the transmitter gain and receiver volume control are in the User Guides of each system.
+	
+	Answers to your questions:
+	1) No, the microphone or receiver will not get damaged.
+	2) Properly adjusting the gain on the transmitter (as described in the User Guide) will provide better signal at lower volume levels.
+

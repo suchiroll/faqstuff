@@ -1,0 +1,26 @@
+Title: AXT100 Talkback Switch
+Id: 4940
+Legacy Id: 6202
+
+Question:
+I have updated my Axient hardware to the lastest firmware and my WWB is the most current version as well. When I select toggle TRS as the talk function, I see no option to use the AXT100 power switch as the talkback switch. Please provide detailed instructions on how this should be configured.
+
+
+
+Answer:
+
+	
+		You are correct in noting that there is no way to turn this feature on/off fro the pack itself. Instead, once you have made certain that the AXT400 and AXT100 are on firmware1.16.11, do the following:
+	
+		1) Navigate on the AXT400 receiver to the IR Presets menu. This is done by going to the Tx menu and then the IR Presets menu within that.
+	
+		2) Once in the IR Presets sub-menu, you may notice a new field at the bottom just under the settings for Sens, Gain, Power, and Lock. You can press the control wheel to toggle down and highlight the option in the new BP Power Button section.
+	
+		3) Scroll though the options till you have chosen Talk Switch and then save the value by pressing the green ENTER button.
+	
+		4) Now when you sync the AXT100 to that receiver, the talk switch function should be enabled in the pack. You will now see that when you press the power button on the AXT100, the time of remaining battery life on the LCD display is replaced by the word TALK. Again, the TALK function will only be active while the power button is pressed.
+	
+		Also, it sounds as if you found the setting within the AXT400 receiver for Talk Switch, but it should be noted for the sake of thoroughness, that just turning on the Talk Switch functionality on the AXT100 is not enough. You also need to select the appropriate Talk Switch functionality for receiver audio output behavior that you desire within the Audio menu of the AXT400.
+
+
+

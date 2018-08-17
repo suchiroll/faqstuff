@@ -1,0 +1,21 @@
+Title: Difference between a Shure FP24 and a Sound Devices MixPre
+Id: 3280
+Legacy Id: 3441
+
+Question:
+What is the difference between a Shure FP24 and a Sound Devices MixPre?
+
+
+Answer:
+
+	Originally, the products were identical. In October 2002, Sound Devices made several changes to the MixPre. These are detailed in the following bulletin on the Sound Devices website:
+	
+	http://www.sounddevices.com/tech/mixpre_changes.ht...
+	
+	Include were a change in the output meter LEDs, a change to the input DC connector, and a change in the output signal configuration; specifically, the output signal configuration was changed from "impedance balanced" to "active balanced". The differences between these two configurations are noted here:
+	
+	http://www.sounddevices.com/tech/balancing.htm
+	
+	The single issue that prompted this change is that certain specific Sony camcorders,like the PD150, "do not properly accept any audio signals from impedance-balanced outputs". For these cameras, Sound Devices supplied an accessory cable (XL-55) that padded down the line-level signal from the MixPre to mic-level and then unbalanced the signal in a suitable manner, due to the fact that the "impedance balanced" output only has signal on Pin 2.
+	
+	The result is that the Shure FP24 and the Sound Devices MixPre are no longer the same product and have not been since October 2002.

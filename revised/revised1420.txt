@@ -1,0 +1,11 @@
+Title: Replacement for Shure 444
+Id: 1420
+Legacy Id: 1473
+
+Question:
+I'm restoring a late-60s ham radio transceiver. In its day, it used your old Shure 444 high impedance mic. What options are available to me today for a HIGH impedance mic with a rich sound for AM SPEECH-only broadcast?
+
+
+Answer:
+
+	Consider the 450 Series II. It is dual impedance.

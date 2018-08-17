@@ -1,0 +1,15 @@
+Title: GLX-D operation with RF signal loss after sound check and before use
+Id: 4690
+Legacy Id: 5860
+
+Question:
+We recently purchased several GLX-D body pack systems. These are being added to our 8 UHF and 4 VHF analog systems. What will happen when the GLXD transmitter loses contact with the receiver after the sound check is complete? The actors go to the green room, out of range of the receiver before the performance, so we need to know how that will effect the systems.
+
+
+
+Answer:
+
+	With GLX-D, link it once and it remains linked, unless the user manually breaks the link between the transmitter and the receiver.
+	
+	Other GLX-D systems will not have an impact because once a transmitter is linked it remembers to look for the original receiver to which it was originally paired.
+

@@ -1,0 +1,14 @@
+Title: RF spectrum analyzer
+Id: 1400
+Legacy Id: 1452
+
+Question:
+I heard there is software for analyzing RF signals to help determine busy areas. The application would be in a theatre using Shure as well as other brands of wireless to help pick channels that are free from interference and cross talk.
+
+
+Answer:
+
+	Consider the spectrum analyzers fromWiNRADiO.
+	
+	And from: http://usbspectrumanalyzer.com/rfviewer/
+

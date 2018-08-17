@@ -1,0 +1,22 @@
+Title: SE315 vs. SE310
+Id: 3745
+Legacy Id: 3981
+
+Question:
+When was the model SE315 introduced and how is it different than the discontinued SE310?
+
+
+Answer:
+
+	The SE315 was announced in August 2010, with a U.S. retail price of $250. It is available in clear or black.
+	
+	The detachable 64 inch (163 cm)cable has a wire-form fit that can be molded to a specific outer ear shape. The single driver is a balanced armature type with a tuned bass port. The attenuation of outside noise is rated up to 37 dB depending upon the seal between the earphone sleeve and the ear canal.
+	
+	The SE315 sensitivity is 116 dBSPL/mW; 5 dB greater than the SE310.
+	
+	The SE315 impedance is 27 ohms; 1 ohm less than the SE310.
+	
+	The SE315 frequency response is 22 Hz to 18,500 Hz.
+
+	
+

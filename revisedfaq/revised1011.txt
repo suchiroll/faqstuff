@@ -1,0 +1,12 @@
+Title: Shure UT UHF WIRELESS hotter output level
+Id: 1011
+Legacy Id: 1040
+
+Question:
+I have the UT UHF receiver and have a question about the line/mic level switch on the back of the unit. Shouldn't the line input setting 'BOOST' the level like a preamp? I'm running into a situation where the level is just not high enough when I attach the output into my gear.
+
+
+Answer:
+
+	Yes. Set the UT4 volume control to 0. Set the mic/line switch to LINE. Slowly increase the volume control until you reach the desired signal level. The switch only effects the XLR connector.
+

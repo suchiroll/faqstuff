@@ -1,0 +1,20 @@
+Title: V15 lll-B1 Magnetic Phono Cartridge
+Id: 1831
+Legacy Id: 1891
+
+Question:
+Seeking specifications for your Shure Magnetic Phono Cartridge Model: "Super Track Plus" V15 III-B1. Desire, at least, the following: Tracking force; Frequency range; Channel seperation db.
+
+
+
+Answer:
+
+	The V15 Type III
+	Tracking force: 0.75 to 1.25 grams
+	Frequency range: 10 to 25,000 Hz
+	Channel seperation db: 28 dB at 1,000 Hz
+	Mounting hole separation dimensions: 1/2 inch mounting centers
+	B1 likely means a packaging variation, not a performance difference.
+
+	This product has been discontinued since the 1980s. A replacement stylus is still available as the VN35MR. The current model M97xE would be similar in performance.
+

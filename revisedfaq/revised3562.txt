@@ -1,0 +1,11 @@
+Title: SCL5 vs E5c
+Id: 3562
+Legacy Id: 3768
+
+Question:
+What is the difference between the SCL5 and the E5c?
+
+
+Answer:
+
+	There are some differences in the cable diameter and cable flexibility.

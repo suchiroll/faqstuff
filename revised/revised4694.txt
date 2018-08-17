@@ -1,0 +1,23 @@
+Title: ULX-D in the 900 MHz band
+Id: 4694
+Legacy Id: 5864
+
+Question:
+When was the ULX-D introduced using the 900 MHz band? Please provide details.
+
+
+
+Answer:
+
+	Introduction date: July 2015
+	
+	Frequency band X52 (902 - 928 MHz)for North America, Central America, and South America except Brazil
+	
+	Frequency band X53 for Brazil (902 - 908 MHz and 915 - 928 MHz)
+	
+	* This range of the RF spectrum is reserved internationally for radio frequencies used by Industrial, Scientific and Medical (ISM) industries.
+	
+	As a result of new governmental compliance regulations, the ULX-D1 X52 transmitter will eventually feature an antenna boot at the base of the antenna.The addition of this boot means that the ULX-D1 X52 antenna will not be field replaceable as it is with other ULX-D bodypacks that use a lower UHF frequency band.
+
+	In the U.S., it is feasible to operate up totwelve ULX-D X52 systems simultaneously if thereare no other devices using the X52 band.
+

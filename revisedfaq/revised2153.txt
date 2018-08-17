@@ -1,0 +1,11 @@
+Title: How to do a mono subwoofer output with the P4800?
+Id: 2153
+Legacy Id: 2224
+
+Question:
+How can I configure the P4800 to do a mono sub output?
+
+
+Answer:
+
+	Implement a mono subwoofer (or a 1 in, 1 out bandpass filter) using the Cut/Shelf block. The Cut filters contain all of the slope choices found in the crossover - from 6 to 24 dB per octave. Just set the frequencies of the low cut and the high cut filters and set the slopes.

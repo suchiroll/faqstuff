@@ -1,0 +1,11 @@
+Title: Audience ambience mic for PSM
+Id: 1978
+Legacy Id: 2041
+
+Question:
+As a singer, it's a year now that I've got a PSM system and I find them REEAALLY GOOD. The only one problem is that I can't hear the audience after a song. I tried to use only one earphone in a ear, and it works, but obviously I would like to use them both. How can I do? (and better still, How can everyone else does?)
+
+
+Answer:
+
+	Many users of in-ear monitors add an "audience ambience" mic to the PSM mix. This is mic hung over the audience and its signal is added only to the mix that feeds the PSM. A typical mic for this application is the Shure SM63.

@@ -1,0 +1,14 @@
+Title: Grill material in Beta 58A, Beta 57A, SM58
+Id: 3375
+Legacy Id: 3562
+
+Question:
+I am concerned about metals prone to cause allergies, such as nickel and chrome. I am therefore pleased to read in the specs sheet that the Beta 58A has a steel mesh grille. (Steel is good.) My question is just this: is it really steel? If possible, please tell me the components (metals) of the alloy (i.e. the steel). Besides the Beta 58A, I am also interested in the Beta 57A as well as the SM58 - all with regard to this question.
+
+Answer:
+
+	Beta 58A and Beta 57A grill: steel with carbon added for strength; plated with a chrome plating
+	
+	SM58 grill: steel; plated with chrome
+	
+	I would recommend using the SM57 with the A2WS windscreen. The "grill" area of the mic will be foam rubber and plastic.

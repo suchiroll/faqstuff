@@ -1,0 +1,25 @@
+Title: SE210M+ Basic Features and Operation
+Id: 3795
+Legacy Id: 4033
+
+Question:
+What are the basic features and operation of the SE210M+? Is it just for Apple products?
+
+
+Answer:
+
+	Yes, the SE210M+ is specifically for Apple products designed to work with the Apple Remote + Mic.  As of November 2010, the remote and mic are supported by iPod Nano 4G and 5G; iPod Classic 120GB and 160GB; iPod Touch 2G and 3G; iPhone 3Gs; iPhone 4; and iPad. The remote is supported by iPod Shuffle 3G.  Audio is supported by all iPod models and requires latest iPod software.
+	
+	The SE210M+ includes a pair of SE210 earphones, a microphone, and three switches that can provide the functions listed in the next paragraph.  The earphones serve a dual purpose: to listen to music or to listen to the person on the other end of the call.  The microphone is used to speak to the other person during a call.
+	
+	The SE210M+ mic/switch module contains a proprietary integrated circuit chip that communicates with a complementary integrated circuit chip inside of the Apple product.  The communication signals between the chips travel on the same wire as the microphone audio. The interaction of these two chips can provide these functions: send call; end call; volume up; volume down; pause music track; fast forward; and rewind.
+	
+	NOTE: If the SE210M+ is connected to a device that does not have the complementary integrated circuit chip, the switch functions will not operate.
+	
+	The 3.5mm male plug is configured as follows:
+	Tip - audio feed to left earphone;
+	Ring 1 - audio feed to right earphone; 
+	Ring 2 - ground return for earphones and for microphone;
+	Sleeve - audio feed from microphone.
+	
+	The operating voltage range for the microphone is 1.5Vdc to 3.6Vdc.  The current draw is 0.25 mA maximum.

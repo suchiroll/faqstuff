@@ -1,0 +1,21 @@
+Title: Helical antennas - matching or opposite polarization?
+Id: 4249
+Legacy Id: 5298
+
+Question:
+When using the P10T and a UHF-R4 to do a point to point transmission with helical antennas, does the polarization direction of the helicals have to match or be opposite?
+
+
+Answer:
+
+	Matched - having the same polarization.
+	
+	Here is an analogy: take two identical bolts. Thread a nut on tobolt #1. Now place the open ends of bolts together; the nut can be threaded off frrom bolt #1on to bolt #2. The nut is the polarized RF wave. The bolts are the two antennas. The bolts share the same thread orientationorpolarization.
+	
+	How to determine if a helical antenna is left hand polarization or right hand polarization.
+	1) Position the antenna so it is parallel to the floor.
+	2) Place the base of the antenna to your left.
+	3) If the helical antenna element slants away from the antenna base, it is left hand polarization.
+	4) If the helical antenna element slants towards the antenna base, it is right hand polarization.
+	
+

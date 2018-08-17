@@ -1,0 +1,19 @@
+Title: DJ Cartridges: Vinyl Wear
+Id: 1343
+Legacy Id: 1395
+
+Question:
+I was wondering what's the main property that contributes to vinyl wear among your DJ cartridges. Is it mainly the tracking force? Because if that is so it would seem to be that both the M44-7 and M44G (even more so) would produce the least vinyl wear compared to the other models (M35S, M35C, M35X) even though they have higher skip resistance Is this a correct assumtion.
+
+
+I am going to be DJ'ing but not really scratching that much. Would the 44G be the best choice?
+
+
+Answer:
+
+	Tracking force is the prime contributor. The amount of polishing applied to the diamond tip is the second contributor.
+	
+	Also, there are different qualities of vinyl used. Some wear more easily than others.
+	
+	In general, use the lightest tracking force that works for you. We agree with your M44G choice.
+

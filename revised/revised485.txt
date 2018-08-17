@@ -1,0 +1,13 @@
+Title: UHF operation in Spain
+Id: 485
+Legacy Id: 495
+
+Question:
+Hi, I've got ten U4D-MA DUAL RECEIVER, my question is how to do to work them in the best way, I wish to know the best group and channel combination for them. I'm in Spain Barcelona and it's really urgent, I would like to have the answer in less than an hour. Thanks I have now a very big problem, thanks, I'm waiting your answer. 
+
+Answer:
+
+	We suggest you contact Shure Europe for assistance. This office (located in Germany) has complete information on RF frequencies and regulations for every country in Europe. We do not have that information in the U.S. office.
+	
+	The telephone for Shure Europe is: 49-71-31-72-14-22. Ask for Applications Engineering. Email is: support@shure.de
+

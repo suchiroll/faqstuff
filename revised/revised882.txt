@@ -1,0 +1,16 @@
+Title: Wildtrack - mics for sound effects
+Id: 882
+Legacy Id: 909
+
+Question:
+Could you please advise me of most reasonable priced Shure microphone suitable for wildtrack effect recording in the field using a portable recorder? The sound sources will be birds, trains, cars, church bells etc..
+
+
+Answer:
+
+	Check out the Shure VP88 and the Shure SM63.
+	
+	However, your ears must make the final decision. We can only make recommendations on models for you to audition.
+	
+	For a complete listing of microphones that we recommend for ambient recording, see our online Microphone Techniques for Recording.
+

@@ -1,0 +1,25 @@
+Title: Shure 55S, 556 rewiring
+Id: 983
+Legacy Id: 1012
+
+Question:
+I just acquired a 50's 55S and a 556 which have 1/4" plugs for connecting. I would like to rewire for XLR connections. Can you help me with this?
+
+
+Answer:
+
+	Depending on the year of 55S that you have, it will have either a 3 pin XLR connector or a 3 pin screw-on Amphenol connector. These are both wired the same way.
+	
+	Pin 1 - Ground
+	Pin 2 - Audio +
+	Pin 3 - Audio -
+	
+	More information:
+	Mic cable for Shure 55S
+	
+	The 556 came with a permenantly attached cable. To wire this for an XLR, connect the wire as follows:
+	
+	Shield - Pin 1
+	Black - Pin 2
+	White - Pin 3
+

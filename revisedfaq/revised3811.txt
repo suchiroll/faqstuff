@@ -1,0 +1,30 @@
+Title: Audio Signal Levels: General Guidelines
+Id: 3811
+Legacy Id: 4049
+
+Question:
+I have heard the terms: mic level; line level; aux level. Please provide details.
+
+
+Answer:
+
+	Here are general guidelines to the typical ranges of audio signal levels. Note the difference between each defined signal level range is 20 dB.
+	
+	Mic level signal (low) = 0.0001 V = 0.1 mV = -80dBV
+	Shure SM11 output is an example.
+	
+	Mic level signal (average or typical) = 0.001 V = 1 mV = -60 dBV
+	Shure SM58 output is an example.
+	
+	Mic level signal (high or hot) = 0.01 V = 10 mV = -40 dBV
+	Shure MX418 outputis an example. Also the Shure 588SDX output, set to high impedance, is an example.
+	
+	Auxiliary level signal (AUX) = 0.1 V = 100 mV = -20 dBV
+	Shure SCM268 output, RCAjack, is an example.
+	
+	Line level signal= 1.0V = 1,000 mV = 0 dBV
+	Shure SCM810 main output is an example.
+	
+	Poweramplifier signal (loudspeaker level) = 10V = +20dBV
+	QSC GX3amplifier output is an example.
+

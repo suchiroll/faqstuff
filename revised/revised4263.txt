@@ -1,0 +1,13 @@
+Title: WL93 mic used as a wired XLR version
+Id: 4263
+Legacy Id: 5321
+
+Question:
+I have 3 wireless systems, each with the WL 93 mic, with the small connector that fits the body packs. In case there's too much interference (I work in the Orange County-Los Angeles area), I want to be able to use these as wired mics also. Can't seem to find the gadget that would allow me to use these as wired mics with XLR connectors to plug into my camera or field mixer.
+
+
+Answer:
+
+	Preamplifier part# 90A4360Ais required to make the WL93 into a wired SM93.This preamp requires phantom power in order to operate. To purchase, call Shure Parts: 800-516-2525.
+	
+

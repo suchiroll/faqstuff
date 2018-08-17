@@ -1,0 +1,16 @@
+Title: Is the Beta 53 headset compatible with wireless systems?
+Id: 949
+Legacy Id: 977
+
+Question:
+Is the new Beta 53 headset compatible as a wireless to the U4S dual system? Or can you recommend another receiver?
+
+
+Answer:
+
+	Yes.
+	
+	You can use it on any of our wireless bodypack transmitters except the T1G.
+	
+	There are two versions of the Beta 53 with the TA4F connector on them. One is black and the other is tan/beige. The black version is model number WBH53B and the tan version is model number WBH53T.
+

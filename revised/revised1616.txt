@@ -1,0 +1,22 @@
+Title: Connecting the M367 to my stereo camcorder
+Id: 1616
+Legacy Id: 1673
+
+Question:
+I recently purchased an M367 Shure mixer.
+
+
+Now I need to be able to connect the M367 to my Sony TRV900 camera. I note that the mixer output has two male XLR outputs which I need to connect to a stereo mini plug to insert into the camera input. I imagine I will need to have such a cable made for me? Is there a technical way I should describe this cable when I request it?
+
+
+Answer:
+
+	Yes, there is a technical description.
+	
+	A. Use standard mic cable with two twisted inner conductors and a shield.
+	
+	B. XLR pin 2 to inner conductor #1 to tip and ring of 3.5mm mini plug
+	
+	C. XLR pin 3 to inner conductor #2 to sleeve of 3.5mm mini plug
+	
+	D. XLR pin 1 to shield. No connection at 3.5mm mini plug

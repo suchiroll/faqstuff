@@ -1,0 +1,20 @@
+Title: Connecting E3c to iMate pocket pc.
+Id: 2952
+Legacy Id: 3079
+
+Question:
+I recently bought your Quiet Spot hands free earphone/microphone for my new iMate pocket pc.  It's great and I really like it.
+
+I liked it so much that I also bought your E3C headphones so I could enjoy much better sounding MP3's on my new iMate.  But there is a major problem.  The E3C connector is too big to fit the iMate.  It needs to be the same size connector as the Shure Quiet Spot.  
+
+Can you help me find an adapter to take the E3C connector down to the size of the Shure Quiet Spot?
+
+Do you make the adapter or can you help me find one?
+
+Answer:
+
+	It appears that Radio Shack makes an adapter.
+	
+	If your iMate is mono, then get Radio Shack # 274-381.
+	
+	If your iMate is stereo, then get Radio Shack # 274-373.

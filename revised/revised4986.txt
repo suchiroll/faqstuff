@@ -1,0 +1,12 @@
+Title: Vertical or wall-mounting of MXA910
+Id: 4986
+Legacy Id: 6254
+
+Question:
+Can I use the MXA910 Ceiling Array in a vertical/wall mount orientation?
+
+
+Answer:
+
+	Yes, though currently, the web based software is designed for ceiling-mount orientation.In order to use the MXA910 properly in a vertical orientation you need to do your own calculation, your own listening, or use the included auto-position feature.
+

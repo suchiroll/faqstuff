@@ -1,0 +1,17 @@
+Title: Static Electricity Discharge through Headphones / Earphones?
+Id: 3403
+Legacy Id: 3593
+
+Question:
+Is it possible to be shocked by static electricity through headphones / earphones?
+
+
+
+Answer:
+
+	Yes, it is possible.In a cold climate with low humidity, it is easy to build up a static charge on ones body.As an example, wearing shoes with leather soles while shuffling ones feet on a wool carpet will often build up a substantial static charge.When a part of ones body touches an item that is grounded (like the screw on a switch wall plate), the bodys static electricity will discharge to the grounded screw.The amount of electrical current in such a static discharge is not harmful, though the discharge itself can startle.
+	
+	The cable that carries the audio signal from the headphone jack to the headphones / earphones has metallic wire inside.This wire is also a path to ground through which the static charge can travel. Though ones ears are touching the plastic parts of the headphones / earphones, there is metallic wire inside of the headphones / earphones.A static charge often has a high enough voltage to leap from ones ear to the metal inside of the headphones /earphones, discharging the static electricity via the cable and into the device playing the audio signal, e.g., CD player or MP3 player.
+	
+	It is important to note that such static discharges are acts of nature and do not indicate that ones headphones / earphones are defective.Nor will the static discharge cause harm to the headphones / earphones.
+

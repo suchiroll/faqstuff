@@ -1,0 +1,17 @@
+Title: Compatibility between mic output and guitar amp input
+Id: 636
+Legacy Id: 653
+
+Question:
+Will a low impedance mic work with a guitar amp through the regular input jack?
+
+Answer:
+
+	The impedance will not be an issue, but if the sensitivity of the input jack is not similar to the microphone, then there will be a large level difference.
+	
+	Click here for information on impedance.
+	
+	Click here for information on sensitivity.
+	
+	Click here for information on connecting a low impedance mic into a guitar amp.
+

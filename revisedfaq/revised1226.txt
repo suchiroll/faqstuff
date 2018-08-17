@@ -1,0 +1,14 @@
+Title: Cartridge replacement for Pro Track 10
+Id: 1226
+Legacy Id: 1272
+
+Question:
+I need help. I have a Kenwood turntable, KD52FB, rack system that is about 16 years old and I have a Shure Pro Track 10 Cartridge on it and it has broken. I would like to replace the cartridge and stylus with the same, or better performance. Everyone that I have talked to has never heard of the Pro Track 10. Can you help me out?
+
+
+Answer:
+
+	Replace the Pro Track 10 with the M92E.
+	
+	The Pro Track 10 was the equivalent of the Shure model M105E. Both of these models were P-mounts cartridges. They plug into the end of the tonearm and are held in place by a single screw.
+

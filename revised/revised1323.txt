@@ -1,0 +1,18 @@
+Title: Will a condenser lapel mic work with the T1G transmitter?
+Id: 1323
+Legacy Id: 1374
+
+Question:
+I have a client who has a VHF T1G body-pack. I understand that he originally purchased it as a headset system a couple of years ago. He would now like to purchase a new headset microphone for his system however I have some concerns about compatability, so would be grateful for your assistance.
+
+
+The current microphone of choice is a DPA4065. The client would like this to be relatively flexible in terms of using his microphone with in-house systems which are more likely to be UHF systems here in Australia, and therefore TA4F connectors. So, will the following work:- a DPA4065 terminated to TA4F, with an additional adaptor cable of TA4M to 1/4" Jack (I assume that this is what the WA302 may be?) Physically this can obviously work, but what about impedance, gain issues etc.
+
+
+Looking forward to your kind assistance.
+
+
+Answer:
+
+	Sorry, the T1G does not provide the +5Vdc bias needed to operate the DPA4065.
+

@@ -1,0 +1,12 @@
+Title: T Series receiver jack - balanced or unbalanced
+Id: 1197
+Legacy Id: 1241
+
+Question:
+Is the 1/4 Jack on the T Series receiver a Balanced or unbalance output? Can I plug it into my Mackie 1604 on the low-z mic input or does it need to go into the line input?
+
+
+Answer:
+
+	The T series receiver has an unbalanced microphone level 1/4 output. Since it is microphone level, it would have to be plugged into the mic input of your Mackie. You will need a 1/4 to XLR-M adapter cable.
+

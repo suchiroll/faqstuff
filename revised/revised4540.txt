@@ -1,0 +1,11 @@
+Title: QLX-D Scanning issue with Wireless Work Bench
+Id: 4540
+Legacy Id: 5662
+
+Question:
+I was having issues scanning via WWB6 through a QLXD4. The device was showing up in inventory, frequency selection and communication seemed fine. But I was unable to perform a scan in WWB. My problem was that I was using a cross-over cable connected directly. My default assumption is that when connecting a computer directly to any gear, I use a crossover cat5 cable. As soon as I switched to a regular patch cat5 cable, the scan worked. Not sure if I should have been smarter than this, or if the WWB help file (connect your computer and equipment) needs to note “do not use a crossover cable”. The fact that it “sort of” worked compounded the difficulty in troubleshooting.
+
+Answer:
+
+	Thank you for this useful information. It will help other customers.
+

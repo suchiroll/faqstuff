@@ -1,0 +1,12 @@
+Title: SM17 replacement
+Id: 2803
+Legacy Id: 2913
+
+Question:
+I have an Shure SM17. Great mic. Sorry it was discontinued. Do you have anything similiar to it now, that could be used in an acoustic guitar (nylon string)?
+
+
+Answer:
+
+	The SM11 is the identical mic, but it does not have the mounting accessories that came with the SM17.
+

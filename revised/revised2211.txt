@@ -1,0 +1,14 @@
+Title: Using the V15VxMR on a Realistic LAB-395
+Id: 2211
+Legacy Id: 2287
+
+Question:
+I am thinking of replacing the cartridge on my LAB-395 Realistic turntable with the V15VXMR . The original specifications in the service manual for this turntable state the tonearm supports a minimum tracking force of 1.5 grams. The specifications for the V15VXMR state it should be tracked at 1 gram. Could I run into any problems with the tonearm if I set the tracking force this low?
+
+
+
+Answer:
+
+	It would be a mistake and a waste of your money. The tone arm is too massive for the V15VxMR.
+	The M97xE cartridge tracking at 1.5 grams would be a better match to the tonearm.
+

@@ -1,0 +1,13 @@
+Title: Radio Frequency Spectrum in the United States
+Id: 3322
+Legacy Id: 3494
+
+Question:
+Is there a chart or table that shows the radio frequency spectrum in the United States and how each slice of spectrum in assigned?
+
+
+Answer:
+
+	https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf
+This chart was published October 2003 by the Department of Commerce.
+

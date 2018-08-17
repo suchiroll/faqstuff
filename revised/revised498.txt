@@ -1,0 +1,12 @@
+Title: Best choice table microphone for SCM810
+Id: 498
+Legacy Id: 508
+
+Question:
+I am installing a Shure SCM810 for a boardroom installation. Board room has 14-20 seats and I will use 16 mics. The speaker system will be ceiling based and my contractor has suggested using MX393 mics. Will these be the most suitable for this application or would a gooseneck type microphone be better? Can you confirm this mic selection or make appropriate suggestions for mic in same price range as MX393 that are compatible with SCM810?
+
+Answer:
+
+	A gooseneck microphone, such as the MX400 series, will provide better sound than a boundary microphone, simply because the microphone will be closer to the talker's mouth.
+	
+	The MX393 or the MX400 series will work with the SCM810.

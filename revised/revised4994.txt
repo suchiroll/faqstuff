@@ -1,0 +1,14 @@
+Title: Alternatives to mounting the MXA910 in a drop ceiling
+Id: 4994
+Legacy Id: 6262
+
+Question:
+Besides mounting in a drop ceiling, how else can MXA910 microphones be mounted?
+
+
+Answer:
+
+	For the MXA910, there are eyelets on the back of the unit for hanging wire to suspend the mic, as well as 100mm screw holes for attaching a standard VESA-D mount to a hanging pipe (as you might with a projector).
+	
+	Mounting in drywall
+

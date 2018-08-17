@@ -1,0 +1,18 @@
+Title: Vampire clip for lavalier
+Id: 1803
+Legacy Id: 1863
+
+Question:
+I was needing a part for a Shure UC1-UB wireless Lav mic. The mic it's self is a Micro-miniature Omnidirectional Lavalier. Our pastor clips the mic close to the knot of his tie. Someone said they make a  device that you thread(?) through the knot of your tie. I think its called a vampire clip. Do you have anything like what I've described?
+
+---- 10/02/2001 01:46 PM ----------------------------------------------
+How much is it, and where can I order it. Thanks
+
+Answer:
+
+	At 10/02/2001 11:47 AM we wrote - The vampire clip (#95A2162) comes with the WL50 microphone. It is not threaded into clothing, but has two pins that stick through the clothing. You can see a picture of it in the User Guide at:Discontinued User Guides
+	This clip will also work with the WL93 microphone
+	
+	At 10/02/2001 01:58 PM we wrote - For parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	www.shure.com/service

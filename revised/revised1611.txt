@@ -1,0 +1,17 @@
+Title: SM10A Headworn Microphone
+Id: 1611
+Legacy Id: 1668
+
+Question:
+I was told that Shure makes a mic that is worn like the WH20, but instead of the mic mounted on the side of the head, it actually comes over the top of the head.
+
+
+---- 08/28/2001 08:12 AM ----------------------------------------------
+
+From my understanding, the mic itself actually comes over the top of the head and down in front of the face. I visualize a tiny boom mic "half moon" shaped???
+
+
+
+Answer:
+
+	The SM10A band goes over the top of the head. The mic itself is mounted at the side of the head. The boom arm is rigid but is adjustable via a thumbscrew.

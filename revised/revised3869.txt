@@ -1,0 +1,12 @@
+Title: Wireless Systems for Sousaphone
+Id: 3869
+Legacy Id: 4112
+
+Question:
+I have a sousaphone (tuba) and I would like to use it with a wireless mic system. What do you recommend?
+
+
+Answer:
+
+	Interesting question as the low frequencies of the sousaphone can be difficult for any wireless system.Here are the current Shure products that will best reproduce the sousaphone pitch range:Wireless system:   PGXD14/BETA98H We strongly urge that you audition this equipment before you buy it.   Your ear is the final judge about the performance of the wireless system.
+	 

@@ -1,0 +1,12 @@
+Title: Phantom Power for 16AM mic
+Id: 1722
+Legacy Id: 1781
+
+Question:
+I took out the Size AA Battery from the 16AM and tried to operate it using Phantom Power (48V) from my mixer. I get no sound. Is the 16AM able to operate with Phantom Power?
+
+
+Answer:
+
+	No, it will not operate on phantom. The 16AM only operates from the AA battery.
+

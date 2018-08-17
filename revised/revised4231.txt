@@ -1,0 +1,12 @@
+Title: CU 5905 Power Up Delay
+Id: 4231
+Legacy Id: 5215
+
+Question:
+When I press the power button on the DIS CU 5905 front panel, it takes over 20 seconds for the display to illuminate, or well over 60 seconds for the unit to be operational? Is this correct?
+
+
+Answer:
+
+	Yes, there is a lengthy delay between pressing the power button and the CU 5905 being ready for use. One reason is the self-diagnostics beingperformed, and also the quizzing of each attached conference unit to determine if it is a Delegate, Translator,or Chairman.
+

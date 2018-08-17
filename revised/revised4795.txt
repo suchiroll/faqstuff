@@ -1,0 +1,56 @@
+Title: VP83 hints for video production
+Id: 4795
+Legacy Id: 5980
+
+Question:
+Here are VP83 / VP83F hints from media producer, SueAnn Shiah. Ms. Shiah works in the music industry in management, music production, and video production.
+
+
+Answer:
+
+	Start with proper gain staging.
+	
+	Proper gain staging on your VP83 LensHopper starts with the preamp. Your loudest (peak) level should be between -12db and -6db, the area of the meter where the line is solid. If it flashes CLIP! at you, turn it down.
+	
+	After that, the signal goes to camera output and headphone output. Some cameras have a manual audio input setting, and some dont. My Canon 60D has manual internal record levels, but if your camera doesnt have this feature, you can use the LensHoppers menu to change the output level to your camera. Watch the metering on your LensHopper, and make sure it matches the internal record level (a -12db on the microphone is a -12db on the camera). Do this, and you wont need to set the output level on the microphone or internal record level on your camera again. If it looks too loud on your LensHopper, then it means its too loud in your camera.
+	
+	Additional Tip: You might think, Im not planning on using the low-quality audio supplied by the camera. Dont make this mistake. Youll always need a backup. Before you replace or sync the audio, you might use the internal audio until you start mixing. Take my word for it: you do not want to listen to hours of distorted clipping audio.
+	
+	Remember that the camera output level and the headphone level dont affect the record level at all. If your record level is too low and you turn up your headphone level louder to hear it, you may not realize that youre not getting a healthy record level. This is another reason why its important to visually confirm the meter before listening on headphones.
+	
+	Use a windscreen.
+	
+	Nothing ruins a good take like wind noise. I never removed my windscreen during the entire production. About 90% of our footage was shot in open air where wind was a problem. Its a simple thing that will dramatically improve the quality and quantity of usable audio content you record.
+	
+	Set the date and time. Use a slate, too.
+	
+	Make sure you set the date and time on the microphone. That information will be embedded into your file when you try to find it later in post-production. Save yourself a lot of grief and time by making sure that your microphone has the correct date and time; especially if you travel to different time zones, take that into account in your settings.
+	
+	If possible, use a slate at the beginning of your recordings: a quick little statement that will help you identify the file. If youre shooting something scripted with scenes or multiple takes, call out the scene and the take number.
+	
+	If youre shooting documentary-style footage in the field, say the date, time, location, and if possible, a short description of what youre filming. File management can be the difference between whether or not you find the audio file you need.
+	
+	Listen.
+	
+	If youre working in a controlled environment, shooting a scripted scene, be conscious of the auditory environment. Is there background noise outside? Is the air conditioning loud? These are all going to contribute to your noise floor.
+	
+	Monitor your recordings. I like to audibly confirm what I am seeing visually on the LensHopper, so plug in headphones to monitor the microphone (its the black 3.5mm jack on the right side of the mic as it faces away from you). If you cant hear your audio, turn up your monitoring level. This is especially helpful if youre in a louder environment or using earbuds instead of isolating headphones.
+	
+	If it isnt convenient for you to monitor with headphones while youre shooting, then make sure you check regularly after shooting. If youre in a documentary setting, following people around and trying to capture great footage, listen for content. Its easy to zone out sometimes, especially if youve been at it for hours or days.
+	
+	With experience, Im better able to tell when something interesting is going to happen because Im listening. What may appear insignificant can often produce the most amazing footage. Ive learned to trust my instincts and start recording.
+	
+	Dont be afraid to speak up.
+	
+	Part of listening is having the confidence to speak up when its appropriate. It can mean something as small as asking the person youre interviewing to speak a little louder, repeat a statement, or face the microphone. If youre working with actors, directors, or other artists, the same rule applies. Everyone youre working with wants the best outcome possible too.
+	
+	Final Thoughts
+	
+	I still turn to the VP83F for shooting interviews, weddings, behind-the-scenes album footage and the occasional concert. Its a good versatile microphone for DSLR applications.
+	
+	As a career audio engineer, Ive often been frustrated with the lack of gain staging and monitoring features available to me with audio equipment designed for video. The LensHopper solves that, but its also easy to work with, even if youre not a career recording engineer and work exclusively on the video side.
+	
+	Theres a saying Ive heard in Nashville that the best guitar is the one you have. The same principle applies when youre filming documentary footage: the best audio recordings are the audio recordings you have.
+	
+	There were times when I didnt feel like carrying a lot of excess weight. There were scenes where I ditched my monopod or tripod.I never left the VP83 LensHopper behind because its a self-contained unit that didnt require me to bring a lot of extra equipment. I didnt have to sacrifice audio quality for price or convenience.
+

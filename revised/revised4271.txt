@@ -1,0 +1,19 @@
+Title: WA580 Cloth Pouch
+Id: 4271
+Legacy Id: 5334
+
+Question:
+What devices fit into the WA580 cloth pouch?
+
+
+Answer:
+
+	UR1 transmitter
+	ULXD1 transmitter
+	P9R receiver
+	
+	There is a hole in the pouch for the antenna to protrude.
+	Approximate dimensions for the pouch (madewitha stretchable material): 4 H x 2 W x 0.75 D
+	
+	There are two belts that come with the WA580 bodypack pouch. One is 20 inches long and one is 30 inches long.They can be velcroed together to form an extra-large single belt.
+

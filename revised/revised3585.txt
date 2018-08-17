@@ -1,0 +1,14 @@
+Title: MPA Switch Does Not Work
+Id: 3585
+Legacy Id: 3791
+
+Question:
+I have owned my Shure MPA for over a year and it suddenly stopped functioning properly with my iPhone. I tried the MPA in a friend's phone and it worked. Any ideas?
+
+
+Answer:
+
+	The problem is likely dirt or lint in your phones headphone jack. We recommend cleaning the jack by using a can of compressed air - used for cleaning a camera lense. A flexible fabric pipe cleaner can also be used.
+	
+	The MPA operates by shorting one connection point in the headphone jack to another connection point in the jack. Lint or dirt will raise the resistance of this electrical short and the phone may not recognize the MPA switch action.
+

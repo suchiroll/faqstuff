@@ -1,0 +1,18 @@
+Title: WL185 compatibility with Sony wireless
+Id: 444
+Legacy Id: 453
+
+Question:
+We have recently purchased a Sony WCS-999 wireless system that uses a omnidirectional lavalier mic. We would like to replace the mic with a cardioid type because there is too much ambient noise. The Sony mic attaches to the transmitter via a 2 conductor 1/8 plug. I would like to know if the wiring of the Shure WL185 can be modified for a 2 wire input. I guess the battery power and the audio use the same conductors on the Sony mic.
+
+
+
+Answer:
+
+	To use the WL185 with a two-wire transmitter input, wire as follows:
+	
+	from WL185 to 1/8" mono miniplug
+	Red to tip
+	Black and shield to sleeve
+	
+	This should work.

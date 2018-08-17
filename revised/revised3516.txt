@@ -1,0 +1,19 @@
+Title: MX395 Painting The Grill?
+Id: 3516
+Legacy Id: 3717
+
+Question:
+My client wants the MX395 to be a different color.Can I repaint it?
+
+
+Answer:
+
+	Sorry, we cannot recommend this action. 
+	
+	The MX395 would have to be disassembled in order to paint it.   Disassembly requires tools that are custom made for the manufacturing of this microphone. These tools are not available for sale.
+	
+	Disassembly will also destroy/harm the extensive grounding schemes employed to reduce RF interference from cell phones, Blackberries, and other transmitting devices that might be placed near the MX395.
+	
+	Repainting will also void the warrantry.
+	
+	In short, don't do it.

@@ -1,0 +1,16 @@
+Title: Beatboxer looking for a good mic.
+Id: 1878
+Legacy Id: 1938
+
+Question:
+I'm a beatboxer looking for a good mic. I need it to pick up the bass from my throat as well as the blowing and beating sounds from my lips.
+
+
+Answer:
+
+	I need it to pick up the bass from my throat
+	* Microphones respond to air movement, not to surface vibration like at the throat. This requires a vibration pickup like used on the top of an acoustic guitar. Search the web for manufacturers of piezo-electric pickups.
+	
+	...as well as the blowing and beating sounds from my lips.
+	* Check out the microphone models BETA 58A or SM58.
+

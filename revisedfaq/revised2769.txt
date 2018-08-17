@@ -1,0 +1,103 @@
+Title: Wireless microphone for jazzercise, aerobics, fitness centers
+Id: 2769
+Legacy Id: 2877
+
+Question:
+1) I need to get a wireless microphone system for instructing purposes and needed to find out which Shure system is recommended.
+
+2) In particular I need to find out whether or not there is any guidance from Shure about the microphone model recommended being exposed to sweat
+
+3) Areany Shure models are guaranteed against sweat damage?
+
+
+
+Answer:
+
+	1) BLX14 with the SM31FH headset. Most often used for this application due to the low price point.
+	
+	2)TheSM31FH mic is the most durable. The transmitter pack should be kept in a belt pouch to keep sweat away - the Shure belt pouch is the model WA570A.
+	
+	3)No Shure models are guaranteed against sweat damage. Wipe off, with a clean towel, all wireless equipment after a class. Never store the equipment wet - corrosion will quickly occur, particularly if placed into a sealed bag or case.
+	
+	Here are more hints:
+	
+	Basic Wireless System Setup and Operation Checklist
+	
+	Before any concert or event, professional sound engineers do a sound check to make sure their equipment is working properly. Wireless microphone systems are much more complicated to setup and trouble shoot than regular hard wired microphones. So if you have not used your wireless microphone system for a while or it is a new setup, test the whole audio system before your event.
+	
+	Setting up:
+	
+	Check your equipment
+	* Make sure there are not broken or missing pieces
+	* Make sure all cables and connectors are in good condition, no nicks or cuts on the insulation.
+	* Make sure you have new batteries.
+	
+	Use the proper cables and connectors to attach the output of the receiver to the input of the mixer or amplifier.
+	* Cables with 1/4 phone plugs or RCA plugs on the ends should be kept under 10 feet in length.
+	* Cables with 3 pin XLR connectors on the ends can be several hundred feet in length.
+	
+	Make sure the output of the receiver is connected to the proper input of the mixer or amplifier.
+	* Follow the directions in your wireless systems Users Guide.
+	* Microphone level outputs must go into microphone level inputs
+	* Aux/Line level outputs must go into aux or line level inputs.
+	
+	Locate receiver and its antennas away from any potential sources of interference, such as:
+	* Digital equipment: CD players, DAT recorders, digital signal processors, computers, digital electronic musical instruments and computer driven equipment.
+	* AC power equipment: Lighting dimmers and some neon or fluorescent light ballast.
+	
+	Maintain line-of-sight between microphone/transmitter and receiver.
+	* The microphone user should be able to see the antennas.
+	* Avoid metal objects, walls, and large numbers of people between the microphone/transmitter and receiver. Ideally, the receiving antennas should be in the same room as the transmitters and elevated above the audience or other obstructions.
+	* Keep antennas from different receivers at least 3 feet apart.
+	If the receiver antenna is positioned vertically, make sure the antenna on the microphone/transmitter antenna is positioned vertically.
+	* The body pack antenna should be vertical.
+	* The handheld microphones position is going to be variable, so the receiver antennas may be angled up to 45 degrees from vertical.
+	
+	Keep the distance between microphone/transmitter and receiver as short as practical.
+	* Minimum distance between microphone/transmitter and receiver distance is 10 feet.
+	* Maximum distance between microphone/transmitter and receiver distance depends on the environment in which the system is used. Outdoors, the system may work up to 1,000 feet while indoors, it may be only 50 feet.
+	
+	
+	System Checkout and Operation:
+	
+	Use Only Fresh Batteries
+	* Use alkaline battery for longest operation.
+	* Do not use rechargeable types; they run out of power too quickly and do not charge up to a full 9 volts.
+	
+	Turn on the wireless receiver. Turn on the microphone/transmitter. Turn on the amplifier last.
+	
+	Stand in one place, talk into the microphone, and listen to see if the audio level is adequate.
+	
+	Do a walk-around test to verify no drop outs or interference.
+	
+	
+	Tear down:
+	
+	Power down all your equipment. Turn the amplifier off first. Then turn off the rest of the equipment.
+	
+	Disconnect the cables. Coil them up and tie them off with a twist tie to keep them from tangling. This prolongs the life of the cables.
+	
+	If you have used the body pack and headset microphone for an aerobics application, dry it off with a towel. Unplug the microphone cable and dry off the connector.
+	
+	* Keeping the cable connections clean and dry will prevent corrosion.
+	
+	Other things to remember:
+	* Dont turn the microphone/transmitter off while the receiver is on
+	Turning the receiver on or off while the amplifier is on will create a thump noise from your loudspeaker.
+	
+	* Dont turn the receiver on unless the microphone/transmitter is on.
+	If the amplifier volume is turned up will create a thump noise from your loudspeaker.
+	
+	* Use the Microphone Mute switch, not the On/Off switch, if your sound system is still live.
+	If you turn the microphone/transmitter off while the receiver is still on, you might get a thump sound out of your loudspeakers. You may also hear noise or interference from other radio frequency sources.
+	
+	* Dont crumple up the body pack antenna in your pocket or aerobics pack.
+	Extend the antenna all the way. If necessary, hide it under clothing. If the antenna is crumpled up, you will get intermittent sound at best, no sound at worst.
+	
+	* The receiver antennas must remain attached to the receiver when it is in use.
+	
+	* Have extra cables, and microphones,and body packs available in case of loss or damage, especially if used for aerobics.
+	Professional sound engineers realize that cables and microphones do go bad. They always carry extras so that the show can go on.
+	
+	Properly maintaining your audio system, cables, and microphones extends the life of the equipment. Taking a few moments to clean and pack up your equipment correctly can save you from nasty surprises later on.
+

@@ -1,0 +1,20 @@
+Title: U1 or U2 with UR4+ receiver
+Id: 4852
+Legacy Id: 6038
+
+Question:
+Wiill the old U1 body packs work with the UR4+ receivers (assuming they are the same frequency)?
+
+
+Answer:
+
+
+	
+		1) Frequencies must match.
+	
+		2) Defeat tone key squelch on the UR4 receiver. See the User Guide.
+	
+		3) Audio will sound funny as the companding schemes do not match.
+
+
+

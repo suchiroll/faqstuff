@@ -1,0 +1,15 @@
+Title: Remote monitoring of the UHF-R receiver
+Id: 3134
+Legacy Id: 3268
+
+Question:
+Can I dial into a corporate network over the internet to monitor and control networked UHF-R receivers when I am off-site?
+
+
+Answer:
+
+	The answer is no, if you intend to dial-in over the internet. There are issues involving subnet addresses and hand-shaking protocol that will likely prevent Wireless Work Bench 4 from operating over the internet.
+	
+	The answer would be maybe, if you use software such as Live Meeting or Remote Desktop which runs on top of a networks Virtual Provider Network. You would run this software on an on-site PC that is also running Wireless Work Bench 4. Then, you might be able to see Wireless Work Bench 4 when off-site. We strongly recommend that you work with your Information Services department to explore this concept.
+	
+

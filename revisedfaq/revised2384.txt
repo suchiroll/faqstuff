@@ -1,0 +1,22 @@
+Title: Suspended Choir Mic Selection
+Id: 2384
+Legacy Id: 2475
+
+Question:
+I am about to purchase 6 suspended choir mics for our church. I have a local dealer that has let me test the Beta 98 miniature mics. I was impressed at the "gain before feedback" that these mics exhibited. I have not tried the MX202 series. My questions are:
+
+1. Compare the MX202 vs Beta 98 for this application. Pros  cons.
+
+2. What is the highest professional quality, miniature suspended mic Shure offers for suspended choir pickup?
+
+
+Answer:
+
+	1. Compare the MX202 vs Beta 98 for this application. Pros  cons.
+	* No need. The Beta 98 is designed for close miking of very loud instruments. It is NOT a good choice for choir miking.
+	
+	2. What is the highest professional quality, miniature suspended mic Shure offers for suspended choir pickup?
+	
+	To see what microphones we recommend for stage overhead, see our online Selection Guide at:
+	Which microphone should I use on ... ? (Selection Guides)
+

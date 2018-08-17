@@ -1,0 +1,14 @@
+Title: OEM Shure Bullet Mic for RCA
+Id: 4135
+Legacy Id: 5028
+
+Question:
+I'm trying to find out information on a microphone I've recently acquired. It appears to be an RCA. I've been unable to locate any information on a bullet/aerodynamic type RCA branded product that matches this particular microphone to the exception of the information below. I've attached a fewpictures of the RCA microphone.
+
+
+Answer:
+
+	Based on the photos attached below, the mic appears to have been made by Shure.However, the historical records of OEM model (made by Shure for another manufacturer like RCA) are not kept by Shure.When an OEM model is discontinued, the records are sent to the company that was buying the OEM model, in this case, RCA.No records of this RCA mic are in the Shure archives.
+	
+	In June 2016, the OEM model EM8B came to light. Based on themodel 520, it was manufactured by Shure after 1955 because it is marked Evanston.The EM prefix was used by General Electric for certain OEM mics; however the model EM8Bdid not carry theGeneral Electric brand or logo.
+

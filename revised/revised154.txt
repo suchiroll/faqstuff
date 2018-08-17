@@ -1,0 +1,588 @@
+Title: Which frequencies did the T, LX, SC, and EC series use in the U.S.?
+Id: 154
+Legacy Id: 154
+
+Question:
+Which frequencies did the T, LX, SC, and EC series use in the U.S.?
+
+
+Answer:
+
+	That depends on the wireless series. The tables below shows what frequencies were used on our different VHF systems in the United States. International versions may vary. Note that you cannot use all available frequencies at the same time. All of these systems are now discontinued.
+
+	
+		T Series  VP Series
+	
+		
+			
+				Frequency Code
+			
+				Frequency
+			
+				Television Channel
+		
+		
+			
+				V
+			
+				169.445 MHz
+			
+				N/A
+		
+		
+			
+				W
+			
+				171.845 MHz
+			
+				N/A
+		
+		
+			
+				CA
+			
+				176.2 MHz
+			
+				7
+		
+		
+			
+				CC
+			
+				177.6 MHz
+			
+				7
+		
+		
+			
+				CE
+			
+				182.2 MHz
+			
+				8
+		
+		
+			
+				CF
+			
+				183.6 MHz
+			
+				8
+		
+		
+			
+				CG
+			
+				186.2 MHz
+			
+				9
+		
+		
+			
+				CL
+			
+				192.2 MHz
+			
+				10
+		
+		
+			
+				CQ
+			
+				202.2 MHz
+			
+				11
+		
+		
+			
+				CV
+			
+				208.2 MHz
+			
+				12
+		
+	
+
+
+
+
+	
+		LX Series
+	
+		
+			
+				Frequency Code
+			
+				Frequency
+			
+				Television Channel
+		
+		
+			
+				V
+			
+				169.445 MHz
+			
+				N/A
+		
+		
+			
+				AD
+			
+				169.505 MHz
+			
+				N/A
+		
+		
+			
+				AC
+			
+				170.245 MHz
+			
+				N/A
+		
+		
+			
+				AH
+			
+				170.305 MHz
+			
+				N/A
+		
+		
+			
+				AB
+			
+				171.045 MHz
+			
+				N/A
+		
+		
+			
+				AG
+			
+				171.105 MHz
+			
+				N/A
+		
+		
+			
+				W
+			
+				171.845 MHz
+			
+				N/A
+		
+		
+			
+				AA
+			
+				171.905 MHz
+			
+				N/A
+		
+		
+			
+				AZ
+			
+				174.5 MHz
+			
+				7
+		
+		
+			
+				CA
+			
+				176.2 MHz
+			
+				7
+		
+		
+			
+				CC
+			
+				177.6 MHz
+			
+				7
+		
+		
+			
+				CD
+			
+				180.4 MHz
+			
+				8
+		
+		
+			
+				CE
+			
+				182.2 MHz
+			
+				8
+		
+		
+			
+				CF
+			
+				183.6 MHz
+			
+				8
+		
+		
+			
+				CG
+			
+				186.2 MHz
+			
+				9
+		
+		
+			
+				CH
+			
+				186.6 MHz
+			
+				9
+		
+		
+			
+				CJ
+			
+				189.0 MHz
+			
+				9
+		
+		
+			
+				CK
+			
+				190.6 MHz
+			
+				9
+		
+		
+			
+				CL
+			
+				192.2 MHz
+			
+				10
+		
+		
+			
+				CM
+			
+				192.6 MHz
+			
+				10
+		
+		
+			
+				CN
+			
+				195.0 MHz
+			
+				10
+		
+		
+			
+				CP
+			
+				196.6 MHz
+			
+				10
+		
+		
+			
+				CS
+			
+				200.3 MHz
+			
+				11
+		
+		
+			
+				CQ
+			
+				202.2 MHz
+			
+				11
+		
+		
+			
+				CR
+			
+				203.0 MHz
+			
+				11
+		
+		
+			
+				CT
+			
+				206.0 MHz
+			
+				12
+		
+		
+			
+				CV
+			
+				208.2 MHz
+			
+				12
+		
+		
+			
+				CU
+			
+				209.0 MHz
+			
+				12
+		
+	
+
+
+
+
+	
+		SC Series
+	
+		
+			
+				Frequency Code
+			
+				Frequency
+			
+				Television Channel
+		
+		
+			
+				TA
+			
+				169.445 MHz
+			
+				N/A
+		
+		
+			
+				TB
+			
+				169.505 MHz
+			
+				N/A
+		
+		
+			
+				TA
+			
+				170.245 MHz
+			
+				N/A
+		
+		
+			
+				TB
+			
+				170.305 MHz
+			
+				N/A
+		
+		
+			
+				TA
+			
+				171.045 MHz
+			
+				N/A
+		
+		
+			
+				TB
+			
+				171.105 MHz
+			
+				N/A
+		
+		
+			
+				TA
+			
+				171.845 MHz
+			
+				N/A
+		
+		
+			
+				TB
+			
+				171.905 MHz
+			
+				N/A
+		
+		
+			
+				CA
+			
+				176.2 MHz
+			
+				7
+		
+		
+			
+				CC
+			
+				177.6 MHz
+			
+				7
+		
+		
+			
+				CD
+			
+				180.4 MHz
+			
+				8
+		
+		
+			
+				CE
+			
+				182.2 MHz
+			
+				8
+		
+		
+			
+				CF
+			
+				183.6 MHz
+			
+				8
+		
+		
+			
+				CG
+			
+				186.2 MHz
+			
+				9
+		
+		
+			
+				CH
+			
+				186.6 MHz
+			
+				9
+		
+		
+			
+				CJ
+			
+				189.0 MHz
+			
+				9
+		
+		
+			
+				CK
+			
+				190.6 MHz
+			
+				9
+		
+		
+			
+				CL
+			
+				192.2 MHz
+			
+				10
+		
+		
+			
+				CM
+			
+				192.6 MHz
+			
+				10
+		
+		
+			
+				CN
+			
+				195.0 MHz
+			
+				10
+		
+		
+			
+				CP
+			
+				196.6 MHz
+			
+				10
+		
+		
+			
+				CS
+			
+				200.3 MHz
+			
+				11
+		
+		
+			
+				CQ
+			
+				202.2 MHz
+			
+				11
+		
+		
+			
+				CR
+			
+				203.0 MHz
+			
+				11
+		
+		
+			
+				CT
+			
+				206.0 MHz
+			
+				12
+		
+		
+			
+				CV
+			
+				208.2 MHz
+			
+				12
+		
+		
+			
+				CU
+			
+				209.0 MHz
+			
+				12
+		
+		
+			
+				CW
+			
+				210.6 MHz
+			
+				13
+		
+	
+
+
+	Note that the SC system came on the above center frequencies. The systems can be tuned slightly up and down from these center frequencies.
+

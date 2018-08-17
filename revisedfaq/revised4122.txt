@@ -1,0 +1,12 @@
+Title: ULXD2 short battery life; batteries warm to the touch
+Id: 4122
+Legacy Id: 4904
+
+Question:
+One of my ULXD2 transmitters will consume two fresh AA cells in less than 3 hours. And I noticed that the AA cells were warm when I touched them. Any ideas?
+
+
+Answer:
+
+	The likely cause is that a battery terminal (with a spring) is shorting to the metal transmitter handle. Please return the ULXD2 to Shure Serviceto have this problem corrected.
+

@@ -1,0 +1,12 @@
+Title: Preamp RK100PK for Shure WB98H/C?
+Id: 4037
+Legacy Id: 4469
+
+Question:
+Will the RK100PK Preamp work with the Shure WB98H/C mic?
+
+
+Answer:
+
+	The RPM626 is the preferred preamp for changing the WB98H/Cto a wired application. The RK100PK is not recommended as it will be somewhat noisy and possibly distorted when used for miking an instrument.
+

@@ -1,0 +1,16 @@
+Title: PG Wired Mics: Impedance and Output Level
+Id: 3657
+Legacy Id: 3865
+
+Question:
+What is the impedance and output level of each PG wired microphone model?
+
+
+Answer:
+
+	PG48: 600 ohms, -52 dBV/Pa (2.5 mV)
+	PG52: 300 ohms, -55 dBV/Pa (1.8 mV)
+	PG56: 200 ohms, -56 dBV/Pa (1.6 mV)
+	PG57: 200 ohms, -56 dBV/Pa (1.6 mV)
+	PG58: 300 ohms, -53 dBV/Pa (2.2 mV)
+	PG81: 600 ohms, -48 dBV/Pa (4.0 mV)

@@ -1,0 +1,19 @@
+Title: PSM 1000 Firmware 1.3.1 Compatibility
+Id: 5351
+Legacy Id: 4350
+
+Question:
+PSM 1000 Firmware 1.3.1 Compatibility
+
+Answer:
+
+	
+		Firmware version 1.3.1 is available and required for P10Ts to work with Axient hardware.
+	
+		Most P10Ts are on firmware version 1.1.0, and this version is not compatible with P10Ts running version 1.3.1
+	
+		All P10Ts on the same network must be running the same firmware version.
+	
+		The latest (and only) firmware for P10Rs is still version 1.1.0.This firmware will work perfectly with P10Ts on either version of firmware.
+
+

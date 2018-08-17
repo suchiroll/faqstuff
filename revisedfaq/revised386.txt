@@ -1,0 +1,11 @@
+Title: Will the Beta 87C change with a lower phantom power voltage?
+Id: 386
+Legacy Id: 393
+
+Question:
+I was wondering what difference, if any, it makes to a Beta 87C what Phantom Power voltage is used. I am considering a small mixer which only supplies 12V phantom power and was worried that this might be inferior to 48V for the Beta 87C. Will the sound quality be any different with the lower voltage? Any ideas on this?
+
+
+Answer:
+
+	Using the Beta 87C on the lower phantom power voltage will not have any effect on its performance. The performance and specifications for the Beta 87C stay the same, regardless of the actual phantom power voltage.

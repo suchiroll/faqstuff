@@ -1,0 +1,13 @@
+Title: Wireless accordion
+Id: 951
+Legacy Id: 980
+
+Question:
+Can you suggest Shure wireless products for use around Milwaukee, Wisconsin USA.
+
+I am interested in using a wireless with an accordion equipped with condenser mics.  Output jack of accordion is standard 1/4 inch.
+
+Answer:
+
+	Any of our systems are available as guitar systems that would have a 1/4 cable to go into the transmitter. These should work for you.
+

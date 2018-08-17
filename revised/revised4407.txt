@@ -1,0 +1,13 @@
+Title: WL183 Mic Is Popping
+Id: 4407
+Legacy Id: 5504
+
+Question:
+Over the last month or so, both of my WL183 mics have begun to pop hysterically. It doesn't appear to be the mic's themselves, and the receivers don't pop when I use them for my wireless handhelds. We tried changing the frequency/band but still encountered the loud pop. Would the body packs be able to cause these pops?
+
+
+
+Answer:
+
+	I suspect that the WL183 mic elements need to be re-tightened.Remove the foam windscreen (if there is one) and tighten each element as tight as possible using fingers only.
+

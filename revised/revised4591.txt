@@ -1,0 +1,23 @@
+Title: MXWAPT4 RF Coordination Mode
+Id: 4591
+Legacy Id: 5747
+
+Question:
+What is RF coordination mode in the MXWAPT4 control software?
+
+Answer:
+
+	Microflex Wireless firmware version 3.0.2 and greater offer RF Coordination Mode on the MXWAPT4 and MXWAPT2.
+	
+	The MXW system relies on precise frequency and timeslot allocation for RF reception and transmission between microphones and a single APT, as well as between multiple APTs. Previously, MXWAPT4s implemented one single method of timing, whereas the MXWAPT8 used 2 different methods simultaneously. This had the potential to introduce some timing conflicts if the occasion arose where multiple MXWAPT4s were networked together in adjacent rooms. With firmware version 3.0.2 the installer can now specify during configuration of the systems whether an MXWAPT4 will transmit in Mode A or Mode B timing methods.
+	
+	This Mode setting can be found in the MXWAPT4 control software (GUI). Go to the Utility tab, click on Edit under Device Properties. Go to RF Mode settings and use the drop down for RF Coordination Mode.
+	
+
+	
+	
+	
+
+
+	The recommendation is, when presented with installation of multiple MXWAPT4s in adjacent spaces/rooms, to alternate a Mode A configuration, with a Mode B configuration. This added feature is not present, or necessary, on MXWAPT8s.
+

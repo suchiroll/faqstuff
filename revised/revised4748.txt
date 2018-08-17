@@ -1,0 +1,13 @@
+Title: Motiv MVi Headphone Monitor Output
+Id: 4748
+Legacy Id: 5930
+
+Question:
+Is the MVi headphone monitor output mono or stereo?
+
+
+Answer:
+
+	If the audio input source is monaural, such as the MVi mic input, the MVi headphone monitor output is dual mono (same thing heard in both ears).
+	
+	If the audio input source is stereo, such as music from a computer, the MVi headphone monitor output will be stereo.

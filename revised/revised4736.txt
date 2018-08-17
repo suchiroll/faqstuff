@@ -1,0 +1,12 @@
+Title: SE112 internal drivers
+Id: 4736
+Legacy Id: 5908
+
+Question:
+Is the SE112 driver the same as the SE215 driver?
+
+
+Answer:
+
+	Yes. However, the internal acoustical chamber of the SE215 is different, and this produces a better bass response.
+

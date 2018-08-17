@@ -1,0 +1,13 @@
+Title: What is difference between BG 4.0 and BG 4.1 microphones.
+Id: 499
+Legacy Id: 509
+
+Question:
+What is difference between BG 4.0 and BG 4.1 microphones. I have a chance to purchase two BG4.0 mics at a good price but I can't find info on your BG 4.0 on your site. Also, is the main difference between the BG 4 and the SM94 the higher internal noise of the BG4 series?? I would like to have to SM81's but they are outside my price range. I do sound for some small venue events here in Maui HI and I plan to use the two likes for small vocal/ukulele choirs (15-25 people). This application is not very common and hence a large expenditure is not really warranted for a good set of condensers but I do need reasonably good sound!
+
+
+Answer:
+
+	There is no difference between the BG 4.0 and the BG 4.1; the model number was changed to reflect new packaging. The differences between the BG 4.1 and the SM94 include the noise floor and the maximum SPL when using phantom or internal battery. When using phantom power the SM94 has more dynamic range. When using an internal battery, the BG 4.1 has the advantage.
+	
+	The BG 4.0 or BG 4.1 would be a great microphone for your application.

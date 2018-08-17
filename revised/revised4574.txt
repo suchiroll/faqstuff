@@ -1,0 +1,15 @@
+Title: 5575LE vs Super 55 Comparison
+Id: 4574
+Legacy Id: 5700
+
+Question:
+Is the new 5575LE the same size or larger than the Super55? Also how does the sound compare.
+
+Answer:
+
+	1) The size is larger, like the original model 55 from 1939.
+	
+	2) The 5575LE has a cardioid element, like the SM58.The Super 55 has a supercardioid element, like the Beta 58A.
+	
+	Which is better, the SM58 or the Beta 58A?
+

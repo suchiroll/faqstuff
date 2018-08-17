@@ -1,0 +1,18 @@
+Title: A55M and A53M shock mount diameter
+Id: 3052
+Legacy Id: 3183
+
+Question:
+I'm trying just get a shock mount assembly and small stand together for a Sony mic for live recordings of bands I’m producing. The mount they supply with the mic has a thread that doesn't seem to fit any stand I've ever seen.
+
+I'm interested to know weather you think your A53M or A55M shock/isolation mounts would be suitable for the job, i.e. Hold the mic securely while its screwed into a desktop stand.
+
+The diameter of the Sony mic is 1.1". I'm not quite sure of the diameter that your shock mounts accept.
+
+
+Answer:
+
+	A53M is too small - I.D. is 0.75 inch.
+	
+	A55M might work - I.D is just a hair over 1.0 inch.
+

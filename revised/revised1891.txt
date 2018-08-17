@@ -1,0 +1,31 @@
+Title: Number of Wireless Units & Best Series to Choose
+Id: 1891
+Legacy Id: 1951
+
+Question:
+---- 10/18/2001 11:03 AM ---------------------------------------------
+
+Our church is upgrading from a 18 channel mixer to a 32 channel. Due to difficulties hard wiring within the building the decision has been made to buy wireless microphones going forward.
+
+The location of the church is 8 North Concord Ave., Havertown, PA 19083. (just west of Philadelphia)
+
+1. Since we will have up to 14 available channels on the mixer which series would offer the most available compatable systems?
+
+2. What would be the maximum number of systems we could use?
+
+The dimensions of the room are aproximately 50' x 150 x 50'. There is a balcony that extends out from the rear about 25'. The sound equipment is located on the balcony.
+
+
+Answer:
+
+	At 10/18/2001 11:20 AM we wrote - 1) which series would offer the most available compatable systems?
+	* The UHF series.
+	
+	2) What would be the maximum number of systems we could use?
+	* A maximum of forty, but the actual number may be less depending on many technical variables.
+	
+	3) Make certain you budget for remote antennas and distribution amplifiers for the antenna signals.
+	
+	Also, we suggest you read the following links:
+	
+

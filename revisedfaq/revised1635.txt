@@ -1,0 +1,11 @@
+Title: Will an LX system pop when I turn off the transmiter?
+Id: 1635
+Legacy Id: 1692
+
+Question:
+I recently bought a Sennheiser EW 135 wireless. When I turned off the hand held transmitter first it almost blew out my speakers. I brought it back. I am told that your LX4 system has a feature to keep this from happening by instantly muting the signal in this event is this true? If so you should tout this fact in your advertiseing.
+
+
+Answer:
+
+	The amount of pop experienced by the LX system is dependent on the squelch control setting. The LX system uses a noise sensitive squelch.The type of squelch that you are thinking of is called Tone Key.See the following booklet for a description of squelch circuits:Selection and Operation: Wireless Microphone Systems

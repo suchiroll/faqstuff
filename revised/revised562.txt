@@ -1,0 +1,13 @@
+Title: Link Cable extension for DFR11EQ or DP11EQ
+Id: 562
+Legacy Id: 573
+
+Question:
+How long may a link cable be if used between two DFR11EQ units or two DP11EQ units?
+
+Answer:
+
+	The link cable provided with each DSP unit is 19.5 inches in length. Longer link cables may be constructed by using 24 gauge, twisted 2 conductor, shielded cable. The DFR11EQ User Guide and the DP11EQ User Guide illustrate the proper wiring of a link cable.
+	
+	The maximum recommended length is 100 feet. Shure has tested link cables of 50 feet successfully. Please note that the last DSP unit in the chain must be linked back to the first unit in the chain. See the User Guide for linking details.
+

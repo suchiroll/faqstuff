@@ -1,0 +1,13 @@
+Title: Wireless mic element interchangeability.
+Id: 2304
+Legacy Id: 2389
+
+Question:
+Can I swap a SM58 element in a wireless mic with a beta 58 element from the wired version? And vice versa?
+
+
+
+Answer:
+
+	No. The wireless mic elements and the wired mic elements are not interchangable.
+

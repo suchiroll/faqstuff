@@ -1,0 +1,13 @@
+Title: ULX-D Receiver asking for a password
+Id: 4471
+Legacy Id: 5581
+
+Question:
+I have a single channel ULXD4. Upon power up, the receiver asks for a "password." Comments?
+
+
+
+Answer:
+
+	This is a sign of a defective receiver in need of repair. The firmware is likely corrupt and this cannot resolve in the field. The ULXD receiver must be sent in to Shure Service for repair/replacement.
+

@@ -1,0 +1,16 @@
+Title: Unidyne B PE515 versus the model 565
+Id: 2047
+Legacy Id: 2112
+
+Question:
+I currently play blues harmonica using a Shure Green Bullet, usually thru a Fender Blues Jr. amp. I recently bought the above unidyne mike. What is the difference between that mike and the one Paul Butterfield used-the 565S unisphere I?
+
+
+Answer:
+
+	There is quite a bit of difference. The model is 565 is a close cousin of the model SM58. Either model is a high-end dynamic mic. The PE515 is a close cousin of the model 515. Either model is an entry level dynamic mic.
+	
+	Compared to the 565, the PE515 will:
+	1) Have less low end
+	2) Have less high end
+	3) Will feedback easier

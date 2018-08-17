@@ -1,0 +1,31 @@
+Title: Can this mic be wired for a Kenwood TS850S?
+Id: 296
+Legacy Id: 303
+
+Question:
+I was wondering if one of you mics would work on my Kenwood ts850s. The one radio shack calls the pro-unidirectional highball microphone... I heard some folks talk of using these mics on various ham gear, and was wondering if it worked if it would be difficult to be wired. I have provided the info below that hopefully can help someone to provide an answer... I could not find the sensitivity but I'm still looking.... maybe this will be a start....
+
+600 ohms impedance with an 8pin female mic plug on the front of the radio...
+Here is the pinout..
+1. MIC
+2. STBY
+3. Channel Down
+4. Channel Up
+5. 8V / approx. 10mA
+6. NC
+7. GND (MIC)
+8. GND (STBY)
+
+Maybe this info will be worth something. Thanks for the help.
+
+Answer:
+
+	Without the radio input sensitivity, we can only make an educated guess. Here is what I can tell you:
+	
+	1. Any mic with an output impedance of 600 ohms or less may work.
+	2. Professional mics use an output connector known as an XLR male; it has three pins. To connect a mic with an XLR to your radio: XLR pin 2 goes to your pin 1; XLR pin 1 (mic ground and cable shield) goes to your pin 7; put a jumper from XLR pin 3 to XLR pin 1.
+	3. All the other pins on your radio are control pins. You will have to make your own switch box to handle these pins.
+	4. If the professional mic you choose does not have enough audio signal output to modulate your radio, go to: http://www.rdlnet.com. This company has several models of adjustable mic preamps that can be put after the mic output and before the radio input. Simply adjust the mic preamp gain while you speak into the mic until you get full modulation.
+	
+	I hope you find this information helpful. Go to http://www.shure.com to see a wide selection of professional mics with XLR connectors. We offer many models similar to the Radio Shack style you like.
+

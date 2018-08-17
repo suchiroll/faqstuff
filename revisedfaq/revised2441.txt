@@ -1,0 +1,25 @@
+Title: VHF wireless in a partitioned room.
+Id: 2441
+Legacy Id: 2536
+
+Question:
+We have a ballroom that can be broken into two smaller rooms. An airwall can be pulled splitting the large room into two smaller rooms. How can I place antennas so that the wireless microphones will get picked up if the room is combined or not combined?
+
+
+Answer:
+
+	Using two VHF wireless systems with a divisible room
+
+	
+	Some applications call for a VHF wireless system to be used in two adjoining rooms, such as might be created when a hotel ballroom is divided into two smaller rooms by a movable wall. To ensure good performance, it is usually necessary to install antennas in both rooms.
+	
+	One antenna should be placed in each side of the divisible room. Place the antennas close to where the air wall is, but leave the two antennas at least 3-6 feet away from each other.
+	
+	Use only the WA380 or WA490 Half-wave antennas. The standard steel whip antennas supplied with Shure VHF wireless systems cannot be remote mounted.
+	
+	RG58 cable can be used between the antenna and the WA470 for lengths up to 50 feet. For longer lengths, contact Applications Engineering at 847-600-8440.
+	
+	Click here for information on cables needed to remote VHF antennas.
+
+	
+

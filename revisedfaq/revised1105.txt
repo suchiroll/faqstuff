@@ -1,0 +1,31 @@
+Title: Replacement cartridge for the R47XT on Technics SL-23 turntable
+Id: 1105
+Legacy Id: 1141
+
+Question:
+I just found a Technics SL-23 turntable in pristine condition however I would like to replace the existing cartridge and stylus. Can you recommend these items as far as good, better, and best?
+
+
+Answer:
+
+	At 05/07/2001 01:30 PM we wrote -
+	
+	In descending levels of sound quality, we have the following phono cartridges available:
+	
+	Cartridge - Application - Mounting type
+	V15VxMR - audiophile - standard
+	M97XE - audiophile - standard
+	M94E - music lover - standard
+	MP94E - music lover - p-mount
+	M92E - versatility - both
+	M70BX - value - standard
+	M78S - 78 RPM - standard
+	
+	Monophonic cartridge for playing wide-groove / 78 RPM records: M78S
+	
+	The N78S replacement stylus will work in any of the above cartridges, providing them with wide-groove / 78 RPM record playback capability.
+	
+	Shure also offers phono cartridges for professional DJ use. All DJ cartridges are standard mount, but these are not recommended for home audio use.
+	
+	There are product descriptions at:
+

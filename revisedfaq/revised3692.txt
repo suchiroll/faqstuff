@@ -1,0 +1,14 @@
+Title: PA745 Rack Mount Kit Discontinuation
+Id: 3692
+Legacy Id: 3909
+
+Question:
+Is the PA745 rack mount kit discontinued?
+
+
+
+Answer:
+
+	Yes, the PA745 was discontinued in May 2010.  This PA745 was used for the P6T transmitter, the P7T transmitter, the PA760 antenna combiner, and the PA770 antenna combiner.  The final U.S retail price was $64.00
+	
+	The PA745 contained hardware to rack mount a single device or two devices in one rack space.  The PA745 package also included a BNC bulkhead adapter and a 24 inch (61 cm) BNC cable.

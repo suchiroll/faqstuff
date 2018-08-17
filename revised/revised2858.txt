@@ -1,0 +1,21 @@
+Title: Multiple microphone holder/stand
+Id: 2858
+Legacy Id: 2970
+
+Question:
+I'm looking for a microphone holder that can hold 6 to 8 microphones. I've seen items like this that are attached to a floor stand, but I can't seem to find it.
+
+
+Answer:
+
+	A few options are available:
+	
+	1) Konig  Meyer make a nice one that will hold 5 clips. It is distributed by Ultimate Support Systems and is their part #23600B.
+	
+	2) Ace Backstage offers one that holds 6 microphones.
+	
+	3) Hosa has a drop in type for 4 mics. Model MMH-346.
+
+	
+	4) If you have a rack nearby, using a 1 rackspace blank plate (or better yet, a perforated metal security cover that protrudes out past the equipment in the rack) you can fasten 7 - 8 surface-mount fixtures for standard mic clips (a la Atlas AD12BE) side by side. This can be more convenient in some situations, saves space, and wont get knocked over as easily as a mic stand.
+

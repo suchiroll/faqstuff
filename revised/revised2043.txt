@@ -1,0 +1,10 @@
+Title: Housing of 55SH II
+Id: 2043
+Legacy Id: 2108
+
+Question:
+The user guide of the 55SH II states that the case is made of “Chrome–plated die casting”. I presume this is a METAL casting, but I realise that it may also be plastic, or arguably even chocolate :-) Please confirm. What is the nature of the case: would it rather dent than crack, should the microphone be subjected to high enough impact?
+
+
+Answer:
+The 55SH Series II housing is metal; it is diecast zinc. If the housing is subjected to excessive abuse, it will crack, not dent.

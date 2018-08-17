@@ -1,0 +1,17 @@
+Title: C/PEK-3 cartridge analyzer
+Id: 842
+Legacy Id: 866
+
+Question:
+Are there any manuals available for the Shure C/PEK-3 stereo cartridge analyzer? I have found a used one, and would be interested in purchasing manuals or test LP's for it.
+
+
+Do the original Shure TTR-117 test records work with the C/PEK-3 analyzer?
+
+
+Answer:
+
+	Provide us your mailing address and we will send a manual.
+	
+	The test records supplied with the C/PEK-3 were: TTR 103 and TTR 107. The 107 specifically tested for output level and channel crosstalk. We have never tried the TTR 117 with the C/PEK-3.
+

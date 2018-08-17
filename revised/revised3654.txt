@@ -1,0 +1,13 @@
+Title: Using a USB Port for earphones or audio output
+Id: 3654
+Legacy Id: 3862
+
+Question:
+I bought some Shure sound isolating earphones (SE210) awhile back (and they're great). I've recently upgradedmy computer system and I'm faced with a sound dilemma: I'm working with a 13" Mac Book Pro with a single audio port. I'd like to find a way to get high quality sound out to my earphones and external speakers without switching jacks all the time. Both work great in the audio port. I don't have USB speakers, as I've found powered speakers deliver better sound - so I have a free USB port.
+Is it possible to run my Shure earphones through the USB port via an adaptor?
+
+
+
+Answer:
+
+	Startach makes an inexpensive device: the USB2.0 to Audio Adapter/Converter. Shure earphone customers report that this device works well. It is supplied with a small 6" extension cable that is helpful if the USB ports on the computer are close together. The user can switch audio output devices by option-clicking the Mac menu volume icon.

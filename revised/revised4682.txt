@@ -1,0 +1,19 @@
+Title: Sync issue with our ULX-D transmitter
+Id: 4682
+Legacy Id: 5850
+
+Question:
+I have a networked system consisting of two ULXD4D receivers, one ULXD4Q receiver, one ULXD4 receiver, seven ULXD1 lavalieres, and three ULXD2 hand held units. Recently, I have been encountering the need to sync the devices to the receivers rather frequently. It seems that they lose their sync overnight making them mute. I have them all networked even though they are placed in two separate rooms.
+
+Answer:
+
+	ULXD systems dont typically lose sync in that the IR syncsendd the frequency information (and additional presets) to the transmitter and, once done, the transmitter is supposed to remember that setting.In other words, there is not a real-time data link going on that can be lost.
+	
+	When this issue happens, do you happen to notice if the receivers have somehow switched frequency necessitating the need to re-sync the transmitters?If these are changing, it could be possible that someone using Wireless Workbench software is loading a show file and pushing changes from the show file into the receivers.This would lead to a scenario where the transmitters and receivers would no longer line up, thus requiring a sync.
+	
+	If the receivers frequencies are not changing, are the transmitters frequencies changing when they power on?What are they changing to?This shouldnt happen unless a pack is somehow issued a factory default command.If the transmitters are spontaneously switching frequency. this is a problem that will require service here in Niles.
+	
+	If neither the transmitters or receivers frequencies are changing, the audio is no longer passing, but an IR sync fixes the issue, thats surprising.There are a couple reasons a receiver and transmitter on the same frequency would not pass audio. One is if there was an issue with the tone-key signal indicated by the blue LEDs on top of the RF meter.Those normally switch back and forth but if both are off, the receivers will mute. The other reason could be if you employ the encryption feature.When using encryption, the encryption key is passed to a transmitter along with frequency and preset info.However, every time you press sync (even if you do it without the transmitter present), a new encryption key is generated.
+	
+	If this key was pressed after syncing a transmitter, this would setup a scenario where the receiver and transmitter would be on the same frequency but the receiver would not pass audio.If you then re-sync the transmitter, it would work again because now they would both share the same encryption key.In recent firmware, we introduced a feature called Encryption Manual (Keep Key) which makes it so that the encryption key will NOT change every time you sync.That could help if you are using this feature. Or simply turn encryption off if youre not using it.
+

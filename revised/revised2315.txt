@@ -1,0 +1,26 @@
+Title: General info on WL84A Lavalier Microphone
+Id: 2315
+Legacy Id: 2401
+
+Question:
+I have a microphone which has the number 84A on it. Someone thought it might be a WL84A. I cannot find any information out on either number on your web site. Is it discontinued? If so, when? Is it similar to the WL93 or WL184A? What was the original list price? Will it work with a T1 presenter and T4 receiver?
+
+
+Answer:
+
+	Is it discontinued?
+
+	* Yes.
+	
+	If so, when?
+	* About 1996.
+	
+	Is it similar to the WL93 or WL184A?
+	* Very similar to the WL184.
+	
+	What was the original list price?
+	* $150
+	
+	Will it work with a T1 presenter and T4 receiver?
+	* If your T1 has a four pin input connector.
+

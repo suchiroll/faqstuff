@@ -1,0 +1,14 @@
+Title: Stand adapter for the 570S
+Id: 896
+Legacy Id: 924
+
+Question:
+I have a stand alone microphone and the actual microphone holder has broke and I am looking for the microphone holder. The microphone is a Shure 570S...they are old. The part that holds the microphone is gray in color and has the number 310 on it.
+
+
+Answer:
+
+	At 04/02/2001 01:24 PM we wrote - Is the mic on a floor or table stand? Or is the mic hung around the neck of a talker?
+	
+	At 04/02/2001 03:39 PM we wrote - Use the Shure A57F mic adapter. To find a vendor, use this link:
+

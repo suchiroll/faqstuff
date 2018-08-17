@@ -1,0 +1,12 @@
+Title: X2u and Pro Tools Incompatibility
+Id: 3662
+Legacy Id: 3870
+
+Question:
+I have Pro Tools by Digi-Design on my computer. When I attempt to use the Shure X2u, it will not work properly. Any ideas?
+
+
+Answer:
+
+	Sorry, the X2u will not work properly on a computer that has had Pro Tools installed on it. Unfortunately, uninstalling Pro Tools will not resolve the issue. If Pro Tools is on the computer, the X2u will not perform properly.
+	Digi-Design offers a hardware mic interface that takes the place of the X2u and will work with Pro Tools.

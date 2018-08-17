@@ -1,0 +1,16 @@
+Title: Playing records made on home recorders
+Id: 586
+Legacy Id: 598
+
+Question:
+I am transferring home recorded vinyl records to CD. They were originally recorded with a 1949 vintage Motorola disk recorder and it appears that the stylus used in those days were very sharp "needles". The recordings are mono and frequency range is not a big issue. I'm playing back using a turntable with an M91ED cartridge and an unknown 1970's stereo stylus. Currently I'm going directly from the turntable to my sound card and the high frequency noise is quite bad. From one of the other questions posted I see that I should go through my preamp which I will do. Question is what kind of stylus should I be using for this, where do I get it and will it fit in my M91ED?  Thanks 
+
+At 01/25/2001 07:50 AM you wrote - Shure: Thanks for writing back.
+Most are recorded at 78 RPM and some at 33 1/3. The same machine and recording needle were used at both speeds. The recorder was something Motorola called a "Recordio". The thing was about 18" long, a foot high and 16" deep with the turntable on top. The recording arm and cutting head was a heavy thing using a crystal cartridge. There was a small rectangular flap that dragged behind the cutting needle to disperse the cuttings.
+
+Answer:
+
+	At 01/24/2001 12:25 PM we wrote - What is the playing speed of the records? That may help us determine the groove width of your recordings.
+	
+	At 01/25/2001 10:20 AM we wrote - Your records are likely wide groove, similar to a standard 78 rpm record. We suggest using the Shure M78S phono cartridge. It has the proper diameter stylus for wide groove records. The M78S will mount in place of the M91ED.
+

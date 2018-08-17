@@ -1,0 +1,24 @@
+Title: Input Capacitance required for V15VxMR
+Id: 843
+Legacy Id: 867
+
+Question:
+Consumer Reports, who always top-ranked your fine cartridges, said in their1986 buying guide review of my receiver: "low phono input capacitance may slightly degrade the performance of some cartridges." Could you please tell me what this means in regard to cartridge selection, viz, am I looking for a certain output voltage?
+
+
+The instruction manual for the Onkyo TX-930 states sensitivity andimpedence : 2.5mV/50 kohms; phono overload: 120mV RMS at 1 kHz, 0.2% THD;Signal-to-noise ratio 80dB (at 5mV input, IHF-A). This is the only infoI have.
+
+
+Answer:
+
+	The V15VxMR prefers an input with a capacitance of 250 pF.
+
+	
+	(The output voltage is of no concern in this case.)
+	
+	Contact Onkyo. They should know the input capacitance. If the capacitance is lower than 200 pF, the high frequency response of the V15V will be boosted slightly. If it sounds too bright, you can add capacitance to the Onkyo input by soldering capacitors to the input jacks.
+	
+	If the capacitance is higher than 300 pF, the high frequency response of the V15V will be reduced slightly.
+	
+	Our advice: dont worry about it. These frequency response changes are quite small.
+

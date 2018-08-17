@@ -1,0 +1,17 @@
+Title: Motiv MVi and Direct Monitoring
+Id: 4817
+Legacy Id: 6003
+
+Question:
+I'm using the MVi interface with a microphone to record on my computer, and I'd prefer to monitor the signal after it passes through my software DAW, but I can't seem to defeat the "input monitoring" feature on the MVi. Is this possible?
+
+
+Answer:
+
+	The short answer is "no." Input monitoring (the signal coming into the XLR input on the MVi and routed directly to the headphone output) cannot be defeated. In cases where this might be desirable, such as the "live monitoring" application you describe, the Shure X2u may be a better option. The X2u features a blend control that allows you to adjust the blend of the direct microphone signal versus the return audio from the computer.
+	
+	Note that if you are using the 1/4" input jack instead of the XLR input, then input monitoring can be disabled. Since electric guitarists may use a computer as an effects processor or amplifier simulator, then there wouldn't be any need to hear the unprocessed direct signal. See the MVi user guide for more details.
+	
+	Be aware that monitoring a live signal after it passes through the computer, instead of directly from your interface, will result in increased signal latency.
+	
+	The MVi Product Manager adds "There's no setting within the MVi that would allow this, but here is an idea. The customer should go into the Mac's audio/midi settings and set the internal headphone port as the active output, then plug the headphones into the laptop instead of the MVi. As mentioned above, there may be significant latency going through Logic (or any DAW), which is why there is direct monitoring on the MVi. Depending on the Mac and on the recording session, the latency may or may not be acceptable."

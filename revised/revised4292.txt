@@ -1,0 +1,12 @@
+Title: Rackmount for GLXD4
+Id: 4292
+Legacy Id: 5361
+
+Question:
+Is there a rackmount kit available for the GLXD4 receiver?
+
+
+Answer:
+
+	The GLXD4 receiver can beattached via Velcroto the Shure URTrack tray, or to an equivalent rack tray.
+

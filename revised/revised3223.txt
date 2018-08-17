@@ -1,0 +1,34 @@
+Title: Error Uninstalling Wireless Workbench v4
+Id: 3223
+Legacy Id: 3373
+
+Question:
+I'm trying to upgrade Wireless Workbench but am having problems. When I try to install the new version, it says that the old version must be uninstalled first. I tried uninstalling the old version but when I try to install the new version it always gives that same error. Even though the old version is uninstalled, it still says that it cannot continued until the old version is uninstalled.
+
+
+Answer:
+
+	There is a bug in the Wireless Workbench software that makes it not uninstall correctly. Follow these instructions.
+
+	Note that these instructions involve editing the Windows Registry. Be VERY careful editing the Windows Registry. If you accidentally change or delete the wrong thing, you could render your computer useless. If you are not comfortable editing the Windows Registry then have a friendly, knowledgeable computer geek follow these instructions.
+
+	
+		Uninstall the old Wireless Workbench software using standard Uninstall methods.
+	
+		Click on START and choose Run.
+	
+		Type in regedit and click on OK. The Registry Editor will open up.
+	
+		Click on the Edit menu and choose Find...
+	
+		Type Shure Wireless Workbench Software (Version 4) and click on Find Next. Your screen should look like the following:
+		
+		
+	
+		In the left pane of the window, you will see a single folder that is open (pointed out by the green call out in theabove screen shot). Right click this open folder and choose Delete. This folder might be named/numbered differently on your computer. Just make certain to right click on the folder that is open.
+	
+		Close the Registry Editor.
+	
+		Install the new version of Wireless Workbench.
+
+

@@ -1,0 +1,12 @@
+Title: Schematic for model 580 microphone
+Id: 2113
+Legacy Id: 2182
+
+Question:
+I would like to use this old 580SA Unidyne A unit on my Ibanez TA25 acoustic amp in the XLR plug. Need wiring info to avoid mishaps.
+
+
+Answer:
+
+	Internally rewire the 580SA (high impedance) so that it becomes a 580SB (low impedance). The schematics are on the 580SA data sheet.
+	The male XLR is wired: shield to pin 1; white to pin 2; black to pin 3.

@@ -1,0 +1,22 @@
+Title: 1/4" balanced output from SM57?
+Id: 748
+Legacy Id: 767
+
+Question:
+Can I wire my SM57's to use "XLR -- Tip, Ring, Sleeve" cables to obtain balanced output using a 1/4" jack? Also, it was long ago when I purchased my '57's (used for drums) and I was connecting them to a Teac Tascam porta-studio high-Z input(s)using "XLR -- 1/4 phono" cables. It seems to me that I had to open the mike and change one of the connections inside. Does this sound right?
+
+
+Answer:
+
+	It is possible to wire the SM57 to a 1/4 balanced connector, but we have never seen any device with a balanced, mic level, 1/4 connector. When 1/4 connectors are used for microphone level signals, they are almost always unbalanced.
+	
+	How do I wire an XLR to 1/4 adapter cable?
+	
+	The current SM57 is only low impedance, but many years ago, we did have a dual impedance version. To change from the lower impedance to higher impedance in the older version, follow these instructions:
+	
+	1. Remove the XLR connector insert by turning the slotted setscrew in.
+	2. Unsolder the RED lead from pin 3.
+	3. Solder the ORANGE lead to pin 3.
+	4. Insulate the end of the RED lead with tape.
+	5. Reassemble the insert in the microphone and seat the set screw securely by turning out.
+

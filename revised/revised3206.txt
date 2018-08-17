@@ -1,0 +1,15 @@
+Title: SM58 XLR male plug is loose
+Id: 3206
+Legacy Id: 3352
+
+Question:
+The three pin XLR plug in the base of the SM58 mic is loose and when the mic lead is disconnected, it pulls out the plug. How can I secure the plug in the mic body?
+
+
+Answer:
+
+	The XLR plug has a small set-screw in the side. The set-screw aligns with a small hole in the SM58 handle.
+
+	1) Insert the XLR plug into the SM58 handle, aligning the set-secrew with the handle hole.
+	2) Using a small screwdriver, rotate the screw clockwise to re-tighten the XLR plug.
+

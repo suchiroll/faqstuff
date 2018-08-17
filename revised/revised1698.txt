@@ -1,0 +1,12 @@
+Title: Power supply for AX4RD
+Id: 1698
+Legacy Id: 1755
+
+Question:
+I recently lost the AC adapter for my Shure wireless system. Is it possible to simply buy another one from your factory? It's the AXR4D model.
+
+
+Answer:
+
+	The power supply is the PS20. Call Shure Parts at 800-516-2525.
+

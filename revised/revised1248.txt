@@ -1,0 +1,14 @@
+Title: Data sheet for Prologue 16L
+Id: 1248
+Legacy Id: 1294
+
+Question:
+Please advise if specifications and applications for this model are still available.
+
+
+Answer:
+
+	The Prologue 16L is the same as the 16A. You can see the User Guide for the 16A at the following link:
+	
+	Discontinued User Guides
+

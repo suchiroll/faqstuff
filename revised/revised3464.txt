@@ -1,0 +1,44 @@
+Title: Lemo 3 pin mating connector / wiring for UR1M-LEMO3 transmitter
+Id: 3464
+Legacy Id: 3658
+
+Question:
+Please provide technical details on the Lemo mating connector required for the UR1M-LEMO3.
+
+
+Answer:
+
+	The mating connector (used on the mic cable) for the UR1M-LEMO3 transmitter is sold by Shure as the part WA336. The WA336 consists of the LEMO connector model FVB.00.303.NLA and a LEMO cable flex relief sleeve model GMF.00.018.DN.
+	
+	Lemo pin 1: cable shield/ground;near key tab - at 12 oclock on solder side of connector
+	Lemo pin 2: +5Vdc bias supplied through a 499 ohm resistor;at 7 oclock on solder side of connector
+	Lemo pin 3: mic audio;at 5 oclock on solder side of connector; pin 3 is also connected to +5V dc bias through a 6.2k ohm resistor
+	NOTE: The audio input impedance of the UR1M-Lemo 3 is between 7,000 and 8,000 ohms. This is satisfactory for a microphone, but is too low to handle a high impedance source, e.g., an electric guitar. An electric guitar typically wants to see an input impedance of 100,000 ohms or greater.
+	
+	The technical description of Lemo connector FVB.00.303.NLA:
+	Shell style/model: FVB - Straight plug
+	Keying: B - plug has male pins (UR1M-LEMO3 transmitter has female sockets)
+	Housing Material: N - Brass (nickel plated) shell, collet nut, latch sleeve, and interal pieces
+	Insulator: PEEK ( a semicrystalline polymerthermoplastic)
+	Number of Contacts:Three pins; wires are to be soldered to the contacts; recommended wire size is AWG 28 or smaller
+	Dimensions: length -20.0 mm; diameter - 9.0 mm
+	For additional technical details, go to: www.lemo.com
+	The Lemo connector on the UR1M-LEMO3 transmitter is Lemo part XRB.00.303.NLN.
+	
+	To connect a Shure lapel mic (e.g., WL183) or headworn mic (e.g., WBH53) to the Shure WA336 Lemo 3 connector:
+	- Shure black wire (audio) and Shure cable shield (ground)to Lemo pin 1
+	- Shure red wire (bias)to Lemo pin 3
+	NOTE: When a Shure mic is connected using a two-wire configuration, the mic output level can be up to 10 dB greater compared to the same mic wired in a three-wire configuration used for the Shure TA4F connector.
+	
+	To connect a Shure WL93 mic to the Shure WA336 Lemo 3 connector:
+	
+	1) Determine the WL93 version. Measure the resistance between the red wire and the black wire. Connect the red wire to the + lead on ohm meter; the black wire to the - lead on ohm meter.
+	
+	2) Measurement result = Approximately 700 to 800 ohms - older version of WL93:
+	- WL93 black wire (audio) and WL93 cable shield (ground)to Lemo pin 1
+	- WL93 red wire (bias)to Lemo pin 3
+	
+	3) Measurement result = Approximately 18.6k ohms - newer version of WL93:
+	- WL93cable shield (ground) to Lemo pin 1
+	- WL93 black wire (audio) and WL93 red wire (bias) to Lemo pin 3
+

@@ -1,0 +1,25 @@
+Title: Switching wireless between multiple guitars
+Id: 1485
+Legacy Id: 1538
+
+Question:
+I'm new to the wireless scene and want to get a Shure system. Here's my question. I use multiple guitars on stage with a few different amps. What system do I need to accomplish wireless guitar for all this? Do I need a different unit for each guitar and amp? What if I want to use the same guitar but switch amps?
+
+
+Answer:
+
+	There are many ways to do this. (1) You could swap the transmitter to each guitar when you change guitars. (2) You could have a separate transmitter on each guitar that are all on the same frequency, but you would have to remember that only one of the transmitters could be on at any one time. (3) Have a separate transmitter and receiver on separate frequencies for every guitar and amplifier.
+	
+	Changing amplifiers would be more complicated. You would either have to unplug the receiver out of one amp and plug it into the other amp, or have separate receivers for each amp.
+	
+	Just remember that if you put everything on the same frequency, only one transmitter can be turned on at a time. But multiple receivers could be on. If you put everything on separate frequencies, then all the transmitters can be on at any time. So, depending on how you are going to use the systems, will depend on which is best for your scenario.
+	
+	Please see the following links to our online FAQ:
+	
+	Where can I get a second wireless transmitter?
+	Guitar or bass: Should I use wireless?
+	
+	Also, you might want to search our online FAQ for the word guitar.
+	
+	Finally, if you wish to discuss your application in greater detail, please call our Applications Engineering Department at 847-600-8440.
+

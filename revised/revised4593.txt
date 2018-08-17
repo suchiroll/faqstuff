@@ -1,0 +1,18 @@
+Title: OEM microphone for Revere Camera Company or Wollensak
+Id: 4593
+Legacy Id: 5749
+
+Question:
+Did Shure make an OEM microphone for Revere Camera or for Wollensak?
+
+
+Answer:
+
+	Yes. The model was C-24-162-1. Manufactured in the 1950s, it had a rectangular,beige case with a perforated,matchingmetal grill. There was an attached cloth-covered cable that terminated in a male tip-sleeve 1/4 phone plug. The tip-sleevesection was only 22 mm inlength, shorter than a standard 1/4 male phone plug.Two flat-head screws on the rear panel fastened the front panel.
+	
+	This mic was sold by Revere as part of their audio tape recorder product line. Sadly, no specifications are in the Shure Archives. Based on the C in the model number, the internal mic element was likely ceramic or crystal, with an output impedance of 20,000 ohms or greater.
+	
+	Dimensions: Width 55 mm; Height 75 mm; Depth 38 mm.
+	
+	There is a 1950s OEM variation: model B-162-4.This microphone was ivory in color, wide at the bottom / narrower at the top, with a silverperforated grill, and an off-white cable terminated with a right angle, tip/sleeve, phone plug. It was made by Shure for the Wollensak Optical Company, Chicago Illinois.In the 1960s, Shure manufactured themodel B-162-20 for Wollensack 3M Revere. The mic was black with a silver perforated metal grille; a variation of this Wollensack product was the model 162-23.
+

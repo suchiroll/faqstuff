@@ -1,0 +1,12 @@
+Title: Placement of adjacent MXWAPT units
+Id: 4380
+Legacy Id: 5471
+
+Question:
+I am installing multiple MXWAPT8 units. Is there a recommended minimum spacing?
+
+
+Answer:
+
+	Yes. We recommend a minimum spacing of 8 feet between MXWAPT units. These devices transmit and receiver, so the spacing improves performance.
+

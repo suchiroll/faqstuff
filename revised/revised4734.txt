@@ -1,0 +1,12 @@
+Title: Windows 10 with Shure Wireless Work Bench 6.11 (WWB)
+Id: 4734
+Legacy Id: 5906
+
+Question:
+Is Shure WWB 6.11 compatible with Windows 10?
+
+
+Answer:
+
+	As of September 1, 2015: While WWB 6.11.2 does not officially support Windows 10,Shures initial tests have shown no defects.Pleaseinform Shure using the WWB6 Forum if issues are found or strange behaviors are observed. 
+

@@ -1,0 +1,15 @@
+Title: SM58 to mike my guitar amp?
+Id: 280
+Legacy Id: 287
+
+Question:
+Can I use SM58 for my guitar amp?
+
+And the most IMPORTANT question, if I use this mic (SM58), in front of my guitar amp, lets say about 3 inches, there's any chance that I could damaged the mic? I mean, the pressure generate by the amp, can damage the microphone?
+
+
+Answer:
+
+	The SM57 is the most common mic used to mike a guitar amp. The SM58 is same as the SM57, except the SM58 has a ball-shaped grille. Either model is a good choice for miking a guitar amp.
+	
+	The sound pressure from the guitar amp will not damage the SM57 or the SM58, no matter how loud you set the amplifier.

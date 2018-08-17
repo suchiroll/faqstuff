@@ -1,0 +1,25 @@
+Title: C98D Cable Pin out
+Id: 3379
+Legacy Id: 3566
+
+Question:
+What is the pin out for the C98D cable?
+
+
+Answer:
+
+	TA3F
+	pin 1 - ground/cable shield
+	pin 2 - bias (red wire)
+	pin 3 - audio (black wire)
+	
+	TA4F
+	pin 1 - ground/cable shield
+	pin 2 - bias (red wire)
+	pin 3 - audio (black wire)
+	pin 4 - unused
+	
+	Colors of the internal wires may be different than red and black.
+	
+	This 15 foot cable is used with the Beta 91, Beta 98/S, and Beta 98D/S. The C98D connects the mic element to the inline preamp.
+	 

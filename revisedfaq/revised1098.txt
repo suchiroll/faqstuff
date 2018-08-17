@@ -1,0 +1,17 @@
+Title: Input sensitivity of model #562
+Id: 1098
+Legacy Id: 1134
+
+Question:
+1)Per the spec sheet on the Shure 562 dynamic mic- the sensitivity level is noted at -64dBV/Pa  - this is at 94 dB SPL - What is the sensitivity level at 74 dB SPL ?
+
+2) Is there a formula to get from 74 dB SPL to 94 dB SPL or visa versa ?
+
+Answer:
+
+	Simply subtract 20 dB from the sensitivity level to change from 94 dB input to 74 dB input. Its that simple. For your example of -64 dBV at 94 dB SPL, at 74 dB SPL the sensitivity is -84 dBV.
+	
+	See the following link for more information:
+	
+	How do I compare the sensitivity of two microphones?
+

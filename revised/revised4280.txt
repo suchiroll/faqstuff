@@ -1,0 +1,20 @@
+Title: SBC800 - blinking yellow LED
+Id: 4280
+Legacy Id: 5347
+
+Question:
+When I place the Shure SB900 battery pack into the SBC800-US charger, there is a yellow LED that blinks. What does this mean?
+
+
+Answer:
+
+	The blinking yellow LED indicates that the SB900 battery has beenplaced in the charger incorrectly. The battery is positioned backwards.That is, the label is still facing up but the orientation has been reversed for the positive and negative ends.
+	
+	The SB900 battery can be inserted into the SBC800 tray charger or the SBC200 docking charger in reverse orientation.Although the SB900 will not snap into place with the usual reassuring thunk, it will fit and will make contact with the at least some of the charging contacts.Depending on how firmly the SB900 is fitted into the charger, it will either display a blinking yellow LED immediately or it will display a red LED (charging) for 10-20 seconds after which time the red LED will go out and the blinking yellow LED will illuminate.
+	
+	The SBC200 charger can detect when the SBC900 battery is reversed in the transmitter. It is feasible to insert the SB900 battery, in reverse orientation, into the ULXD handheld transmitter or ULXD bodypack transmitter.If either transmitter is then placed into the SBC200, the corresponding red LED will illuminate for 10-20 seconds after which time the red LED will go out and a blinking yellow LED will illuminate.
+	
+	Note: the red and green LEDs only appear to operate in a non-blinking mode.When the battery is in the 0-90% condition, the red LED is solid.When the battery is in the 90-99% condition, both the green and red LEDs are solid.Finally, when the battery is in the 99-100% condition, the green LED is solid and the red LED is dark.
+	
+	The blinking yellow light can also indicate a problem with an individual SB900 battery.The charger will display the same error when the affected battery is inserted in a different bay.A wireless transmitter also will display an error message when used with a malfunctioning battery.
+

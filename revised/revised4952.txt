@@ -1,0 +1,16 @@
+Title: MXA910 Dante
+Id: 4952
+Legacy Id: 6217
+
+Question:
+How many Dante channels does the MXA910 present to a DSP such as a Biamp Tesira?
+
+Do I need to allocate 8 channels of DSP per MXA910 (8 lobes per unit)?
+
+Or, would each MXA910 take one channel on a DSP?
+
+
+
+Answer:
+
+	There is a choice. Technically, the MXA910 presents 9 Dante channels - 8 individual lobes, plus an automix of all 8 lobes. So, the installer can either take each lobe as an independent channel into the Tesira, or the automix as a single input. It all depends on whether or not the installer wishes to treat each lobe as a unique microphone.

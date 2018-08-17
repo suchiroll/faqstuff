@@ -1,0 +1,10 @@
+Title: L11 Transmitters working with LX receivers?
+Id: 230
+Legacy Id: 235
+
+Question:
+My client recently had two receivers stolen during a break in.  Nobody knows what model receivers they were.  The thieves did not take the two transmitters.  Transmitters are model L11.  Freqs are: 183.6 and 182.2  Are LX series receivers compatible with these transmitters/freqs?
+
+Answer:
+
+	Yes, an LX receiver will work properly with an L11 transmitter.

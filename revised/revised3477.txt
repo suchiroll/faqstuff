@@ -1,0 +1,15 @@
+Title: PG185 used as a wired microphone
+Id: 3477
+Legacy Id: 3674
+
+Question:
+I would like to conect my PG 185 lavalier straight into the talk back input of my PA desk.
+
+I will therefore need to transform the female mini TA4F connector into a male XLR - do you have an adapter that will do this or any suggestions?
+
+
+Answer:
+
+	Sorry, this will not work and will damage the PG185.
+	
+	The PG185 must be connected to an inline preamp first, then the preamp must be connected to a mic level mixer input that provides phantom power.  The inline preamp required is a Shure RK100PK.

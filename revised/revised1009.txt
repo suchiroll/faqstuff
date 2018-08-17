@@ -1,0 +1,12 @@
+Title: Shure mics with Audio Buddy preamp
+Id: 1009
+Legacy Id: 1038
+
+Question:
+I am wanting to record vocals. I am going to be using an Audio Buddy preamp to connect the mic to my sound card on my computer. Is there any other things that I need to make this connection??
+
+
+Answer:
+
+	As all Shure professional microphones use an XLR connector and the Audio Buddy has XLR inputs, there will be no problem using the two together.
+

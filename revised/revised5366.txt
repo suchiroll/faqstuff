@@ -1,0 +1,23 @@
+Title: Interaction of PSM transmitter and Wireless Mic Receiver
+Id: 5366
+Legacy Id: 5339
+
+Question:
+Interaction of PSM transmitter and Wireless Mic Receiver
+
+Answer:
+
+	A customer purchases a Shure PSM (Personal Stereo Monitor) system and installs the PSM transmitter in the equipment rack next to a Shure wireless mic receiver.At the rear of the rack, the PSM transmit antenna is six inches away from the wireless mic receive antennas.When the PSM transmitter is operating, the wireless mic system becomes unreliable, exhibiting numerous drop-outs.Power off the PSM transmitter and the wireless mic operates satisfactorily.
+	
+	Now here is the rub: it is not a frequency issue.The frequencies were properly coordinated to avoid interference between the units.So what is the root cause?An analogy will explain.
+	
+	You are sitting in a dark room and your eyes have adjusted to the darkness.In the far corner, there is a nightlight with a very low wattage light bulb. You can easily see the glow emitted from the nightlight.Suddenly, a bright ceiling light is switched on and then off.For some time, you can no longer see the nightlight glow because your eyes have been de-sensitized by the bright light.
+	
+	The dim nightlight is the wireless mic transmitter.Your eyes are the wireless mic receiver.The bright ceiling light is the PSM transmitter.Because the PSM transmit antenna is very close to the wireless mic receive antennas, the wireless mic receiver is overloaded (or swamped) by the strong PSM signal.The wireless mic receiver can no longer see the tiny signal coming in from the its transmitter.The receiver has been de-sensitized by the strong PSM signal.Just like your eyes were de-sensitized by the bright ceiling light.
+	
+	How much stronger is the PSM signal because of its proximate position to the wireless mic receiver?Lets assume that the mic transmitter and the PSM transmitter are emitting the same signal strength.However, the wireless mic transmit antenna is 20 feet away from the receiving antennas, while the PSM transmit antenna is 0.5 feet away.This difference in distance provides a difference in signal level of nearly 30 dB!The wireless mic receiver is being blinded by the strong signal from the neighboring PSM transmitter.
+	
+	The solution is to separate the PSM transmit antenna from the wireless mic receive antennas.But how great must the separation be?There is no hard and fast rule.The answer is farther is better.As a starting point, ten feet (three meters)of separation is suggested.
+	
+	Though it may be convenient to mount a PSM transmitter in the same rack as thewireless mic receiver, it is not best practice. The PSM transmit antenna and the wireless mic receive antennas will be too close for comfort.
+

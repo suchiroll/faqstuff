@@ -1,0 +1,20 @@
+Title: L Series at 181.00 MHz
+Id: 1157
+Legacy Id: 1196
+
+Question:
+I have an opportunity to buy a used LX receiver but have been unable to verify the frequency the seller has given me as a frequency used by an LX receiver. Seller claims frequency is 181.000.
+
+
+Is this a valid frequency for one of your LX receivers??? I couldn't find the frequency in any of your charts for this LX receiver. I know it is an older unit but I still thought it would be listed as on eof the frequencies.
+
+
+AND is there ANY reason why I couldn't buy a BRAND NEW LX1 body pack transmitter and mic to use with this used LX receiver assuming that the frequency is valid and that the frequencies match?
+
+
+Answer:
+
+	The LX series never used the 181.000 MHz frequency. The older L Series did. A new LX transmitter will work with an L Series receiver if the frequencies match. In your case, the 181.000 MHz frequency is no longer available in the LX series.
+	
+	But, a Shure SC transmitter with the frequency code CD (180.4 MHz) has 181.000 MHz as one of its 8 frequency settings. It will work with the L Series receiver at 181.000 MHz.
+

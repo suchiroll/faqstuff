@@ -1,0 +1,18 @@
+Title: SM57, SM7, Beta 57A Grill to Diaphragm Spacing
+Id: 4309
+Legacy Id: 5380
+
+Question:
+I'm experimenting with dual miking of electric guitar cabs. To reduce comb filtering problems, it would be helpful to know the distance from a given mic's grille to its diaphragm. (That way I can make sure that the diaphragms of any two mics I'm using are the same distance from the sound source.) I have an SM57, a Beta 57A, and an SM7B. I want to mention that I continue to be impressed by Shure designs and commitment to quality.
+
+
+Answer:
+
+	SM57 - 9 mm
+	
+	Beta 57A - 15 mm
+	
+	SM7B - 45 mm
+	
+	* Note the difference between the SM57 and the SM7B. Because the SM7B diaphragm is set back farther from the grill, itsoutput level will be less than the SM57 when miking the same sound source. With the grills of the two mics aligned, the SM57 output will be around 8 dB greater than the SM7B output.
+

@@ -1,0 +1,44 @@
+Title: Can I put an SM58 cartridge in my 55SH microphone?
+Id: 67
+Legacy Id: 67
+
+Question:
+I own a 55SH vocal mic. Is it possible to replace its current element with either a SM58 or SM87 element?
+
+
+Answer:
+
+	No, you should not replace the element in the 55SH with any other element. Mic elements cannot be randomly dropped into any housing. Each is designed to work properly only with the housing in which it came. The housings size and acoustic characteristics have a great impact on the sound of the element.
+	
+	You are certainly free to experiment if you wish, but Shure will only guarantee the performance of a mic element that is used in its original housing.
+	
+	The following offer third-party modification services for the model 55:
+
+	
+		
+			
+				1)
+			
+				Modify a 55SH Series II to put a Beta 87A cartridge in it. Maintains the 3-point shock mount, the transformer shield, the RF filter, and the 2-stage pop filter.
+				
+				Carl Schreiber
+				Willowbrook IL
+				Ph: (630) 654-0053
+				email: bopkat59@yahoo.com
+		
+		
+			
+				2)
+			
+				Modify a 55SH Series II to put a Beta 58A or SM58 cartridge in it.
+				
+				Jobey McGinty
+				jobey@themovement.org
+		
+	
+
+
+
+
+	Note: Shure does not endorse these products, nor will Shure service these products. We provide this information solely as a service to customers seeking such a hybrid microphone.
+

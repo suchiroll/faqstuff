@@ -1,0 +1,28 @@
+Title: Stage play miking techniques
+Id: 521
+Legacy Id: 532
+
+Question:
+I installed a system in a grade school auditorium. The stage is 40'x30' and we currently have 3 MX202's hanging directly over the front of the stage, and 3 more positioned back another 15' or so.
+
+These kids range from ages 6 to 17 (not always in the same play though) so not only does their height play into it, but so does their ability to vocalize.
+Although they use lav's on their key players, there is a real need to help the supporting cast more, and they're not sure the 6 mics are enough. Often they are using every inch of the stage for their plays and have a few serious dead spots, or weak areas that they can't push the mics hard enough in.
+I know about the 3 to 1 rule, but what do you think of adding 2 more, out wider across the front, and 3 more further back creating a 3rd row. Giving us 5 across the front, 4 in the center and 3 across the back. I know those will be closer to the back wall, but we can sub group them and run them through a Parametric EQ, as we are doing the other 2 rows.
+
+Or, what would be the ultimate mic, in what quantities and placed in what position?
+
+
+Answer:
+
+	A great question but impossible to answer because of the many variables involved. The most important variable is the room acoustics. Here are some articles to read that will help you evaluate your situation:
+	
+	Understanding Sound System Design and Feedback Using (Ugh!) Math
+	
+	Critical Distance and Microphone Placement
+	
+	Basics of Equalization and Feedback
+	
+	Audio Systems for Houses of Worship (look at the section on miking choirs)
+	
+	In the Shure line, look at the MX202 series of hanging mics. But keep in mind that each new mic adds a new feedback path, and typically feedback problems get worse when adding more mics, not better.
+

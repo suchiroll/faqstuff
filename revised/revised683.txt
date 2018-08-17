@@ -1,0 +1,11 @@
+Title: R25XT stylus replacement
+Id: 683
+Legacy Id: 700
+
+Question:
+I have a Shure R25XT cartridge and a Shure 3X stylus.  The stylus needs to be replaced, but it seems that the replacement styli for the R25XT aren't in production.  Do you have any suggestions as to what I can do about getting a new stylus?
+
+Answer:
+
+	The N75B Type 2 stylus will likely fit the R25XT cartridge. To purchase, call Shure Parts at 800-516-2525.
+

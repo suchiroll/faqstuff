@@ -1,0 +1,16 @@
+Title: Using the SM58 without the ball grill
+Id: 1856
+Legacy Id: 1916
+
+Question:
+On the Shure FAQ "SM57 vs SM58 - proximity effect", the answer contained the following sentence:
+
+"Remove the ball grill from the SM58 and it will be more similar to the SM57 in its low frequency response."
+
+Can you actually use an SM58 this way, or was that only a theoretical statement?
+
+
+Answer:
+
+	"Can you actually use an SM58 this way, or was that only a theoretical statement?"
+	Yes, but be very careful! With the ball grill removed, there is very little protection for the SM58 diaphragm. Take the ball grill off and examine the SM58 mic element to see for yourself. As long as you take great care, the SM58 can be used with the ball grill removed.

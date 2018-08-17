@@ -1,0 +1,12 @@
+Title: Tarnish on the stylus shaft housing
+Id: 2132
+Legacy Id: 2202
+
+Question:
+I just received a replacement stylus VN35MR for my old V15 Type III. I noticed that the copperstylus housingis moderately tarnished. Will this effect performance? Should it be cleaned in some way before inserted into the cartridge?
+
+
+Answer:
+
+	The tarnish will have no effect on performance. Clean it at your own risk as you might damage the stylus shank during the cleaning process.
+

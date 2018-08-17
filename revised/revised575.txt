@@ -1,0 +1,12 @@
+Title: Mounting  a Beta 56 on a drum
+Id: 575
+Legacy Id: 586
+
+Question:
+I recently bought a Beta 56 used. I wanted to use it on a floor tom. Is there a special clip I have to get. It will not work with a normal "claw". The cable can't be inserted into the jack.
+
+
+Answer:
+
+	When used with the LP Claw, you mayneed to use the 3 extension tube that comes with the Beta 56. The other option is to use the A56D or A75M Drum Clamp.
+

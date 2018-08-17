@@ -1,0 +1,16 @@
+Title: What is "Squelch" on a wireless receiver?
+Id: 5345
+Legacy Id: 3961
+
+Question:
+What is "Squelch" on a wireless receiver?
+
+Answer:
+
+	Blog Posting about Squelch
+	
+	An circuit that is important to proper receiver behavior is called "squelch" or muting. The function of this circuit is to mute or silence the audio output of the receiver in the absence of the desired radio signal. When the desired signal is lost (due to multi-path dropout, excessive distance, loss of power to the transmitter, etc.) the "open" receiver may pick up another signal or background radio "noise." Typically, this is heard as "white" noise and is often much louder than the audio signal from the desired source.
+	The traditional squelch circuit is an audio switch controlled by the radio signal level using a fixed or manually adjustable threshold (level). When the received signal strength falls below this level the output of the receiver is muted. Ideally, the squelch level should be set just above the background radio noise level or at the point where the desired signal is becoming too noisy to be acceptable. Higher settings of squelch level require higher received signal strength to unmute the receiver. Since received signal strength decreases as transmission distance increases, higher squelch settings will decrease the operating range of the system.
+	One refinement of the standard squelch circuit is referred to as "noise squelch." This technique relies on the fact that the audio from undesirable radio noise has a great deal of high frequency energy compared to a typical audio signal. The noise squelch circuit compares the high frequency energy of the received signal to a reference voltage set by the squelch adjustment. In this system the squelch control essentially determines the "quality" of signal (signal-to-noise ratio) required to unmute the receiver. This allows operation at lower squelch settings with no likelihood of noise if the desired signal is lost.
+	A further refinement is known as "tone-key" or "tonecode" squelch. It enables the receiver to identify the desired radio signal by means of a supra- or sub-audible tone that is generated in the transmitter and sent along with the normal audio signal. The receiver will unmute only when it picks up a radio signal of adequate strength and also detects the presence of the tone-key. This effectively prevents the possibility of noise from the receiver when the desired transmitter signal is lost, even in the presence of a (non-tone-key) interfering signal at the same frequency.
+	Turn-on and turn-off delays are incorporated in the transmitter tone-key circuits so that the transmitter power switch operates silently. When the transmitter is switched on, the radio signal is activated immediately but the tonekey is briefly delayed, keeping the receiver muted until the signal is stable. This masks any turn-on noise. When the transmitter is switched off, the tone-key is deactivated instantly, muting the receiver, but actual turn-off of the transmitted signal is delayed slightly. This masks any turnoff noise. As a result, the need for a separate mute switch is eliminated. Finally, the tone-key signal is often used to transmit additional  information to the receiver. This may include battery voltage, transmitter audio gain settings, transmitter type, and transmitter power level.

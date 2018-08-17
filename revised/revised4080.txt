@@ -1,0 +1,32 @@
+Title: Seven Common Reasons for Wireless Mic Problems
+Id: 4080
+Legacy Id: 4653
+
+Question:
+What are the most common reasons that a wireless mic system does not operate properly?
+
+Answer:
+
+	Reason #1: Dead or weak batteries
+	How to check: Substitute newly purchased, brand name alkaline batteries. Examine the wireless mic battery terminals to make certain they are making a secure contact to the terminals on the battery.
+	
+	Reason #2: Operating frequency range of the wireless receiver does not match the operating frequency range of the wireless mic/transmitter
+	How to check: Look for the operating frequency range that is marked on the receiver, e.g., H6 524-542 MHz. Check the wireless mic/transmitter for the same frequency range. The frequency ranges must match exactly.
+	
+	Reason #3: Failure of an audio interconnect cable
+	How to check: Substitute another cable of the same type. Use an ohmmeter to check the cable for a shorted wire or an open wire. Disconnect the audio cable from the wireless receiver and connect a wired dynamic mic, like a Shure SM58, to see if the cable is OK and the rest of the sound system is operational. If using a body-pack transmitter, substitute another lapel mic or head-worn mic of the same model.
+	
+	Reason #4: Operating frequency is not appropriate for the location
+	How to check: Using the zip code of the location and the model number of the wireless system, consult the Shure Wireless Frequency Finder web tool to determine the recommended frequencies. Or use the SCAN feature of the wireless receiver to find an open frequency.
+	
+	Reason #5: Local interference from other electronic devices or wireless systems
+	How to check: Turn off electronic devices that are within 5 feet of the wireless receiver, such as a DVD player, a CD player, a computer, an iPod, the transmitter for an in-ear monitor system. Or remove the wireless system and take it to a different location that is at least  mile away. If it works OK there, the problem is local interference in the original location. Finding the exact source of local interference often requires the use of a frequency spectrum analyzer - an expensive piece of test equipment.
+	
+	Reason #6: Improper installation of the wireless receiver or its antennas
+	How to check: There should be a clear line-of-sight, at all times, from the location of the wireless mic transmitter to the receiver antennas. If there is not, the installation could be suspect, though hidden antennas can work satisfactorily if installed correctly. Have the installation evaluated by a local wireless microphone expert.
+	
+	Reason #7: Failure of the receivers external power supply
+	How to check: Substitute another power supply of the same type or with equivalent electrical specifications.
+	
+	And do not forget: make certain the wireless mic/transmitter is powered up and unmuted!
+

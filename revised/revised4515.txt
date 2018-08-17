@@ -1,0 +1,17 @@
+Title: Connection to an MXW device using DNS name
+Id: 4515
+Legacy Id: 5631
+
+Question:
+The Shure Web Discovery Application is not displaying any MXW devices. If I don't know the IP addresses, is there another way I can open the GUI?
+
+Answer:
+
+	Yes. You can enter the DNS (Domain Name System)name of the device directly into your browser, using the following format: xxxxxx-yyyyyy.local
+	
+	Where xxxxxxxx is the model number (e.g. MXWAPT8) and yyyyyy is the last six digits of the MAC address. The MAC address can be found on the same label that shows the model number.
+	
+	Note that this works for the APT and ANI only, but not the NCS charger, since it does not have a GUI.
+	
+	
+

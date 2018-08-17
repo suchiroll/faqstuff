@@ -1,0 +1,14 @@
+Title: SCM810 Aux In Circuit
+Id: 4234
+Legacy Id: 5260
+
+Question:
+Is the AUX on the SCM810 Unbalanced TRS? Does it sum stereo?
+
+Answer:
+
+	1) Unbalanced.
+	
+	2) Yes, it will sum stereo (Tip and Ring)into mono.Tip and Ring each have 10k ohms in series.
+	
+

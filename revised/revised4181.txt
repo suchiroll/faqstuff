@@ -1,0 +1,30 @@
+Title: Conversation at a Loud Party and Wireless Microphones
+Id: 4181
+Legacy Id: 5132
+
+Question:
+Is there an analogy between signal to noise ratio at a loud party and the operation of a wireless microphone or a wireless PSM system?
+
+
+Answer:
+
+	Yes, indeed there is. Please read below:
+	
+	Conversation at a Loud Partyand Wireless Microphones
+	
+	Recently, I arrived early for a party. The host was working in the kitchen 20 feet from where I stood. Have a seat and I will tell you whats been going on, she said. I settled into a nearby comfy chair and we chatted. The house was quiet and it was no problem to converse even though the talker/transmitter (the host) was located 20 feet from the listener/receiver (me).
+	
+	Later that evening, the house was filled with guests when the host decided to continue the earlier conversation. But to hear each other we had to be one foot apartthe talker/transmitter had to be much closer to the listener/receiver. What changed?
+	
+	The answer: the ambient (background) noise level had increased due to the many conversations in the room. For me, the hosts voice was the signal that I wanted to hear. All other sounds were noise, because these were signals that did not interest me. Yet when I arrived at the party and the noise level was quite low, I could be 20 feet away and still have a conversation.
+	
+	This is a practical demonstration of Signal-to-Noise Ratio. The signal is the voice of the host; the noise is everything else. The noise is uncorrelated (random) acoustical debris. If the level of the noise is greater than the level of the signal, I cannot understand what is being said. Everyone has experienced a poor Signal-to-Noise Ratio at a party, or a rock concert, or sporting event. Noise creates an acoustical fog that makes it difficult, or impossible, to understand what is being said.
+	
+	Here is a related question: Why might a Shure wireless mic system work properly over a distance of 500 feet in the Utah desert, while the same exact Shure wireless system will work properly for only 50 feet in New York City? As the wireless mic system did not change, what did?
+	
+	The answer: the ambient (background) RF (Radio Frequency) noise level increased due to the many sources of RF transmission in New York City. Examples are numerous TV station transmitters, two-way radio signals, broadcast radio signals, Wi-Fi, data networks, plus the ubiquitous smartphone, owned by every New Yorker and consistently in use. These signals are uncorrelated waves of electro-magnetic debris. Even though most of these RF noise sources do not operate on the same frequency as the Shure wireless system, these sources raise the level of the RF garbage. This makes it more difficult for the Shure transmitter (talker) to be heard by the Shure receiver (listener). Just like what happened at the party, the receiver has a tough time sorting out the desired transmitter signal from the undesired noise.
+	
+	In an environment with a high level of RF noise, the receiver (or the receiver antennas) must be located closer to the transmitter. This improves the RF Signal-to-Noise Ratio. The receiver then can pick up the desired transmitter because the signal is now stronger than the noise.
+	
+	A wireless receiver can be made more selective (improved ability to sort out the signal from the noise) by adding front-end RF filters. Located after the antennas, these filters reduce the level of RF noise sent into the receiver. Effective RF filters are expensive thus they are primarily found on higher priced wireless systems.
+

@@ -1,0 +1,22 @@
+Title: SE535LTD Models
+Id: 3981
+Legacy Id: 4271
+
+Question:
+What are the SE535LTD models?
+
+
+Answer:
+
+	SE535LTD-EFS: The earbuds are red in color and come with both the CBL-M+-K and CBL-M-K cables. The frequency response has been changed with a slight boost to the higher midrange frequencies.
+	
+	SE535SPE-CHN and SE535SPE-J: The earbuds are red in color and come with a light gray cable that is 46 long. The frequency response has been changed with a slight boost to the higher midrange frequencies. These two models aresold only in Asia, with warranty and repair service provided by Shure Asia.
+	
+	SE535LTD: The earbuds are silver colored and the cable is black. The CBL-M+-K accessory cable is included. The frequency response has not been altered in this model. When first introduced in 2011, the SE535LTD was sold only at In Motion stores at U.S. airports. This silver model was discontinued in 2012.
+	
+	The SE535LTD-J and SE535LTD-CHN: The earbuds are red and the 45 detachable cable is light gray. The frequency response has been changed with a slight boost to the higher midrange frequencies. (The internal drivers are the same in all SE535models.) When first introduced in 2011, these two models were only sold only in Asia, with warranty and repair service provided by Shure Asia.
+	
+	SE535 earbuds with a red housing have a stated frequency response of 18 Hz - 19.5 kHz.
+	
+	SE535 earbuds with a clear, bronze, or silver housing has a stated frequency response of 18 Hz - 19.0 kHz.
+

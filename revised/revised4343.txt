@@ -1,0 +1,17 @@
+Title: UA864US Antenna - Does it require 12Vdc bias to operate?
+Id: 4343
+Legacy Id: 5428
+
+Question:
+Will the UA864US antenna operate if 12Vdc bias is not supplied?
+
+Answer:
+
+	The UA864 antenna will work without 12V dc bias in the 0, -10, and -20 switch positions; note that the LED gain setting indicators will not illuminate.
+	
+	12Vdc bias is required for the +10 dB setting.
+	
+	Recommended practice is to provide 12Vdc bias as this enables the UA864 LED indicators.
+	
+	Upon installation, set the gain to - 20. If the system works properly, leaveat this setting.Too little gain is better than too much gain.
+

@@ -1,0 +1,12 @@
+Title: Cable Management Device
+Id: 3092
+Legacy Id: 3224
+
+Question:
+I recently saw a cable management device mounted on a Shure ULX1 transmitter. It had the Shure logo, and the model number “CMD-1” printed on it’s face. It is fastened to the ULX1 with Velcro. I’d like to purchase a few more to retrofit some ULX transmitters that we have in our church.
+
+
+Answer:
+
+	CMD-1 is the part number. It is also known as piece part #95A2177.  It is supplied with the Beta98H/C microphone.For pricing and availability, please contact our Service Department at 800-516-2525.Here is a picture of the CMD-1 being used with earphones:
+	

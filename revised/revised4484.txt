@@ -1,0 +1,29 @@
+Title: Phono Cartridge Troubleshooting
+Id: 4484
+Legacy Id: 5597
+
+Question:
+I purchased a Shure phono cartridge and it will play fine for a few minutes then the audio will nearly cut out in one of the channels. If I pull the stylus and reseat it will come back for a little while then randomly cut out. I have replaced the head shell and lead wires and still get the same result. I have tried the turntable with a different head shell, cartridge and needle and do not get the same results. I have calibrated the cartridge with your protractor and verified that the overhang for my Technics table is at 52mm. Is there something else that I can try?
+
+
+Answer:
+
+	Failure of a phono cartridge is rare as there are only a few components inside of the body.There is a coil of wire for the left channel.There is a coil of wire for the right channel.There are two wires from each coil that connect to the output pins at the rear of the cartridge.And there is a tunnel into which the stylus is inserted.Cutaway view of a moving magnet phono cartridge
+	
+	Within the body, the only failure that is common (but not frequent) is when a wire to an output pin becomes disconnected.This cannot be repaired but can be easily tested:Testing a phono cartridge body
+
+	Looking at the stylus, the possible failures are also limited.The stylus shank can be bent or broken.The stylus support bushing can harden or become dislodged.The diamond tip can fall off (rare) or the magnet can fall off (extremely rare.)In each case, replacing the defective stylus with a new one will resolve the issue.
+	
+	When a customer claims that the Shure phono cartridge has failed or does not operate as expected, what is the root cause over 95% of the time?It is the wiring associated with the turntable.Here are the most common issues:
+	
+	1) Corrosion on the headshell connectors that push onto the pins at the rear of the cartridge.
+	2) Intermittent connection where the headshell connector is soldered to the associated wire.
+	3) Intermittent connection where the headshell contacts mate with the tone arm contacts.
+	4) Intermittent connection within the cable that links the turntable to the preamp/amplifier.
+	5) Corrosion on the RCA plug / RCA jack used to link the turntable to the preamp/amplifier.
+	6) Incorrect wiring within the turntable itself or within the tone arm headshell, including incorrect wire colors.
+	
+	Metal-to-metal, low voltage electrical connections corrode eventually.It is inevitable and resistance is futile. An electrical contact cleaner, such as DeOxit from CAIG Labs, can be useful.
+
+	
+

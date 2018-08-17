@@ -1,0 +1,15 @@
+Title: UA874US wall mount bracket
+Id: 4113
+Legacy Id: 4836
+
+Question:
+Can you clarify what the "swivel adapter bracket" is for the UA874 in a wall-mount condition?How does it mount to the wall?
+
+Answer:
+
+	UA874 has a mount that is like a mic clip.UA874 will mount to the top of a mic stand that has a 5/8-27 thread, or to a gooseneck.Check Atlas Sound for a large selection of mounting hardware with 5/8-27 threads.
+	
+	Mount to a wall: Atlas will have hardware that fits your wall mount requirements.Thread the UA874 on to the Atlas hardware.
+
+	
+

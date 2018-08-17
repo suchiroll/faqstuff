@@ -1,0 +1,21 @@
+Title: SCM810 input gain restoration
+Id: 3997
+Legacy Id: 4385
+
+Question:
+I read in Answer ID 3480 that older SCM810s have 13db more gain than newer ones. I need the levels on a newer unit to match those on an older unit. Is there an internal modification that can be done to increase the gain on the newer one by 13db?
+
+
+Answer:
+
+	I read in Answer ID 3480 that older SCM810s have 13db more gain than newer ones.
+	* This is true ONLY when the input switch is set to MIC with PHANTOM.
+	
+	I need the levels on a newer unit to match those on an older unit. Is there an internal modification that can be done to increase the gain on the newer one by 13db?
+	* On input #1, note that X110 is a jumper that bridges R1026 (499 ohms).Solder a 125 ohm resistor (or a close value) at X110.
+	
+	OR
+	
+	* Remove R1026 and replace with a 100 ohm resistor.
+	* Repeat for the remaining 7 channels.
+

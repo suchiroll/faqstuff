@@ -1,0 +1,27 @@
+Title: ALM cable - pin / wire functions / source
+Id: 555
+Legacy Id: 566
+
+Question:
+I have an older Shure mic with ALM Modulink cable. What is the function of each wire/pin in the ALM cable? Where can I purchase ALM cables?
+
+
+Answer:
+
+	Shure ALM cables are configured as follows:
+	
+	pin 1 = no connection
+	pin 2 = red wire = bias voltage and audio
+	pin 3 = yellow wire = push-to-talk switch
+	pin 4 = blue wire = hang-up button (on back of mic)
+	pin 5 = black wire = ground for push-to-talk switch
+	pin 6 = white wire = unamplified audio (direct from mic element)
+	pin 7 = silver wire = ground for audio
+	pin 8 = no connection
+	
+	As of January 2005, Shure discontinued all ALM cables. The supplier for many of the Shure ALM cables was Whitney Blake.
+
+	New London Technology, Inc.(434-525-0068) has some ALM cables still in stock as of 2010.
+	
+	Whitney Blake fabricates connecting cables for communications products and may be able to provide a substitute for your ALM cable.
+

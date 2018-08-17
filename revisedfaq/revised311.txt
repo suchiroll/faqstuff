@@ -1,0 +1,11 @@
+Title: Low modulation 590T mic to Midland radio
+Id: 311
+Legacy Id: 318
+
+Question:
+Is there a resistor I have to remove on a Midland 70-1336B radio to get the modulation where it needs to be?
+
+Answer:
+
+	Our notes indicate that when using the 590T microphone with the ALM5 cordset with a Midland Syntech 1 or XTR that the 270 ohm resistor inside the radio needs to be changed to a 1200 ohm resistor. If your Midland radio has this same type of input, then you should perform this same modification. Also, dont forget that the 590T has a screwdriver adjustable gain on it.
+

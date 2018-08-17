@@ -1,0 +1,43 @@
+Title: ULX-D High Density Mode
+Id: 4381
+Legacy Id: 5473
+
+Question:
+What is ULX-D High Density mode?
+
+
+Answer:
+
+	High Density mode creates additional bandwidth for more channels in crowded RF environments. Frequency efficiency is optimized by running at 1 mW RF transmit power and narrowing the modulation bandwidth, allowing for the channel spacing to be reduced from 350 kHz to 125 kHz. Transmitters can be positioned on adjacent channels with unsubstantial intermodulation distortion (IMD).
+	
+	High Density mode is ideal for applications where many channels are needed in a confined area, transmission distances are short, and the number of available frequencies is limited. Up to 30 meters of range is available in High Density mode.
+	
+	To set the receiver to High Density mode:
+	DEVICE UTILITIES  ADVANCED RF  HIGH DENSITY
+	Use the control wheel to set HIGH DENSITY to ON.
+	When prompted, sync the transmitter and receiver to enable HIGH DENSITY mode.
+	
+	Note: When the receiver is in HIGH DENSITY mode, the following indicators are shown on the receiver display:
+
+	
+		The HD icon will appear on the receiver display
+	
+		The receiver band name will be shown with an HD added. (example: The G50 band will appear as G50HD)
+	
+		The transmitter group and channel are assigned letters instead of numbers (example: G:AA CH:AA)
+
+
+	Best Practices for High Density Mode
+
+	
+		When band planning, position ULX-D High Density channels in a range of frequencies separated from other devices.
+	
+		Use a separate RF zone for ULX-D High Density channels to prevent intermodulation distortion from other devices.
+	
+		During High Density channel scanning, turn on all other transmitters and move them to their intended position.
+	
+		Perform a walk test to verify transmitter range
+	
+		If using custom groups, the groups loaded into the receiver must be compatible with High Density mode
+
+

@@ -1,0 +1,11 @@
+Title: Model 556 microphone
+Id: 2755
+Legacy Id: 2862
+
+Question:
+I have a Unidyne, as it is spelled on the tag, model number, 556, dynamic microphone. It looks to be fairly old, and is not working at the present time. The serial number on it is; E2019.
+
+
+Answer:
+
+	It could be as old as 1942, or as young as 1963. The serial number does not identify the year.

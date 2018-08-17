@@ -1,0 +1,12 @@
+Title: Lavalier mic with 30 foot (10 meter) cable
+Id: 2650
+Legacy Id: 2754
+
+Question:
+I need a unidirectional lavalier mic that has a very long cable between the mic and the preamp.
+
+
+Answer:
+
+	Use the EZO/G mic. It will mount in the tie clip RK183T1.
+

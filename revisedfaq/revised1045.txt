@@ -1,0 +1,12 @@
+Title: SCM262 mixer output polarity
+Id: 1045
+Legacy Id: 1078
+
+Question:
+We have a Shure SCM262 mic/line mixer. There seems to be no reference to this in the manual. The TRS main output jacks; what is their polarity? Which contact is HOT or +? The TIP OR RING?
+
+
+Answer:
+
+	The tip is positive, ring negative, and sleeve ground.
+

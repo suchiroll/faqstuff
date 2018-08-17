@@ -1,0 +1,12 @@
+Title: 4 mono mixes with 2 PSM transmitters?
+Id: 718
+Legacy Id: 736
+
+Question:
+The band that I do sound reinforcement for is currently using 3 monitor mixes in mono. There are eight (8) members in the band. I am considering a system that has the capability of doing 4 separate mono feeds with 4 wireless receivers and 4 hardwired receivers. My question is, could I use 2 transmitters to perform this task? Since we have eight people on stage, you can imagine the volume of sound coming off the stage into the house.
+
+
+Answer:
+
+	You could certainly do this. The receivers would need be in MixMode with the balance control panned completely to one side or the other. For more information on setting up different PSM systems, please see: Selection and Operation of Personal Monitor Systems
+

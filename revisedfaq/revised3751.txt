@@ -1,0 +1,15 @@
+Title: PG30 Small Foam Windscreen Falls Off
+Id: 3751
+Legacy Id: 3987
+
+Question:
+I own the PG30 headworn microphone. The supplied foam windscreen falls off easily. Is there a quick and cheap way to fix this?
+
+
+Answer:
+
+	Yes, and the solution is Velcro.  It is the hook Velcro portion that will be used, not the softer loop Velcro portion. From a local hardware store or craft score, purchase Velcro that has an adhesive on its backing.
+	
+	Cut from the hook Velcro a piece that is 1/4" (5 mm) wide and 1" (25 mm) long.  Peel off the backing and expose the adhesive.  Adhere the hook Velcro onto the PG30 mic body - either above or below the openings on the side of the mic element.  Do not cover the side opening with the Velcro as this will degrade the microphone's acoustical performance.
+	
+	The hook Velcro will grab onto the tiny cell openings in the foam windscreen and hold the windscreen quite securely. 

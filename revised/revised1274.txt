@@ -1,0 +1,14 @@
+Title: PSM600 and PSM700 Operating Frequencies
+Id: 1274
+Legacy Id: 1322
+
+Question:
+I was just wondering what the frequency in MHz that the PSM600  PSM700 operate under. Any info would be greatly appreciated.
+
+
+Answer:
+
+	Frequency charts can be found at the following link:
+	
+	Frequency Charts
+

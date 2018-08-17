@@ -1,0 +1,11 @@
+Title: TA4F / WA330 Installation Instructions
+Id: 3613
+Legacy Id: 3819
+
+Question:
+Please provide an instruction sheet on how to install a TA4F connector to a cable.
+
+
+Answer:
+
+	See the attached PDF file created by Switchcraft.

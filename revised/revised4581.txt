@@ -1,0 +1,17 @@
+Title: ULXD1 transmitter with new battery frame
+Id: 4581
+Legacy Id: 5707
+
+Question:
+In late 2014, the battery frame in the ULXD1 was changed. Please provide details.
+
+Answer:
+
+	Toimprove the quality, reliability and durability of the ULXD1, Shure instituted a new battery frame design that was first employed with QLX-D.The new frame eliminates potential battery contact issues when using AA Alkaline cells.
+	
+	Note that the SB900 rechargeable battery does not have contact issues.
+	
+	To determine if a ULXD1 has the new frame, look for the label inside the battery compartment.Printed above the word Mexico, there will be the letter F (for Frame).
+	
+	When using AA cells with an older ULXD1 without the new frame, use the battery cradle accessory that was supplied with transmitter.
+

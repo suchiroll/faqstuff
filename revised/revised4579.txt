@@ -1,0 +1,15 @@
+Title: Limiter on PSM300
+Id: 4579
+Legacy Id: 5705
+
+Question:
+Is there a limiter on the PSM300 devices?
+
+Answer:
+
+	The P3RA has a volume limiter that is activated from the menu.The P3RA limiter attenuates the maximum volume output in 3dB increments between -3dB and -21dB. This is slightly different than the P9RA and P10R implementation where a maximum volume output can be selected between 3 and 9 on a 1-10 scale.
+	
+	For optimal gain structure, the proper setup involves first bringing a good signal level into the PSM transmitter, then adjusting the input level, and then bringing the receivers volume up to a comfortable level. If there is any excess headroom, with P3RA/P9RA/P10R, one can then set the volume limiter in the menu accordingly.
+	
+	Starting with the PSM900, Shure has employed technology that mutes interference when detected. So instead of employing a limiter at x-dB SPL to prevent excessive noise from interference, the noise is attenuated.
+

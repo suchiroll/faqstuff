@@ -1,0 +1,18 @@
+Title: WWB6 Unable to Recognize ULX-D receiver
+Id: 4194
+Legacy Id: 5148
+
+Question:
+I have networked a PC with the latest WWB6 software to several ULX-D Receivers. The PC and receivers are properly networked using a router, the IP addressing and subnet masks are verified, and I can successfully ping the transmitters from the PC. However, WWB6 cannot find the networked transmitters. What is missing?
+
+
+Answer:
+
+	After checking that the network configuration is correct, it is possible that a mismatch in the firmware version of theULX-D receiverand the required firmware version for interoperability with WWB6 software is preventing communications.
+	
+	First, it is recommended to verify that the latest version of WWB6 software is loaded in the computer.If a newer version of WWB6 is available, download and install it.
+	
+	In Shure Update Utility, check for the latest requiredULX-D firmware version.
+	
+	If the ULX-D receiver firmware version is older than the latest firmware version shown in theUpdate Utilitysoftware, update the receiver firmware.The Update Utility program will connect to the receiver for a firmware update no matter the current version installed, as long as a valid network is configured, and even if WWB6 program reports that it cannot find the receiver. Once the ULX-D receiver firmware is updated to the latest level, WWB6 will find the receivers and report them as online.
+

@@ -1,0 +1,14 @@
+Title: Using wireless systems and in-ear monitors together
+Id: 2120
+Legacy Id: 2189
+
+Question:
+We are in the process of specifing and installing a large wireless system (12 UHF wireless mic transmitters and 4 PSM900 in-ear monitor transmitters). We are planning on using the UA845 antenna distribution system with UA874 antennas for the wireless system and the PA421 antenna combiner with PA805 antenna. Are there any special installation requirements for the two different antennas to ensure the compatability of the two systems? We are experienced users of wireless systems,so are aware of all their installation requirements, antenna location, etc. Are there any other considerations to optimize the installation of the two systems?
+
+
+Answer:
+
+	The two UA874 antennas should be at least two feet apart. The PA805 should be at least ten feet away from either of the UA874 antennas.
+	
+	Use low loss cable, like RG8U, between the antenna and the equipment rack.
+

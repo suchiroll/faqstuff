@@ -1,0 +1,55 @@
+Title: SM57 rattle from grill piece
+Id: 1506
+Legacy Id: 1560
+
+Question:
+When I use the SM57 attached with a drum mic clamp- the drummer's strikes cause the grill of the SM57 to rattle and make noise. What can I do?
+
+
+Answer:
+
+	Here are two options to consider:
+
+
+
+	
+		Option 1 (preferred)
+	
+
+
+	
+		Occasionally, an SM57 may develop an audible rattle when the microphone is shaken vigorously. The noise may be reduced or eliminated by inserting one rectangular piece (1/4" X 1/8") of thin foam rubber between the SM57 grill housing and the black metal screen. An excellent alternative to the foam is a small piece of Scotch-Brite scour pad. The pad is open mesh, non-metallic, and can be obtained at a grocery store or hardware store.
+		
+			
+		
+		
+			Use a bright light to locate one of the four flat areas beneath the screen. Carefully insert the foam piece between the grill frame and screen. Push it in until no longer visible. If necessary, repeat using one of the other flat areas.
+		
+		
+			
+		
+		
+			The addition of this small foam pad does not degrade the SM57 frequency response or polar pattern.
+		
+	
+
+
+	
+		Option 2
+	
+
+
+	
+		
+			You will need a toothpick and Duco Cement (available from a hardware store). Locate the black metal screen that is 1.25" below the SM57 grill. This screen is right below the band that says "Shure" and "SM57". In a strong light, look carefully through the screen. You will see four bright areas that are just below the screen. Each of these areas is 90 degrees apart from the next area. These four areas are the glue targets.
+			
+			Stand the microphone upside down on its grill. Put a small dab of cement (the size of a pin head) on the toothpick. Place the cement on the first area. Let the cement flow downward and get between the black screen and the rotating plastic grill. Repeat for the remaining three areas. Let the cement dry thoroughly, then break off the length of toothpick that is not required. 
+			
+			This technique should stop the rattling. Use the cement sparingly.
+			
+			Never cover up this black screen with duct tape as this will destroy the SM57 directionality.
+		
+	
+
+
+

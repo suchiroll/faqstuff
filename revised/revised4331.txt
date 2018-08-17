@@ -1,0 +1,64 @@
+Title: BRH Headphone Cables and Wiring
+Id: 4331
+Legacy Id: 5413
+
+Question:
+What is the accessory cable wiring on the BRH headphones?
+
+
+Answer:
+
+	In July 2016, Shure introduced updated versions of the BRH Headphone accessory cables, which now feature Neutrik connectors.The headphones now are available as BRH440M-LC and BRH441M-LC, which do not include the unterminated cable.
+	
+
+	
+		
+			
+				Previous Model
+			
+				New Model
+		
+		
+			
+				BCASCA-XLR4
+			
+				BCASCA-NXLR4
+		
+		
+			
+				none
+			
+				BCASCA-NXLR4-FEM (female connector)
+		
+		
+			
+				BCASCA-XLR3QI
+			
+				BCASCA-NXLR3QI
+		
+		
+			
+				none
+			
+				BCASCA-NXLR3QI-25 (25-foot version)
+		
+		
+			
+				BCASCA-XLR5
+			
+				BCASCA-NXLR5
+		
+		
+			
+				BCASCA1 (unterminated)
+			
+				no change
+		
+	
+
+
+
+	The PDFs attached below describes the accessory cable wiring scenarios that are offered for the BRH440M and BRH441M. The 2013 PDF is for the old cable model numbers. The 2016 PDF is for the newer cable model numbers.
+	
+	Note: The BRH cable has three shields: 1) Foil shield; 2) Spiral shield covering the foil; 3)Spiral shield covering only the two microphone wires. Allthree shields aretouching and electrically equivalent.
+

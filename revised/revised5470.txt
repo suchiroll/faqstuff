@@ -1,0 +1,9 @@
+Title: Axient Digital Crestron/AMX Control Strings
+Id: 5470
+Legacy Id: 
+
+Question:
+I want to control the AD4D or AD4Q receiver with a Crestron touchscreen. What are the control strings?
+
+Answer:
+The AD1, AD2, AD4D, and AD4Q can be monitored and controlled via a control system, such as AMX, Crestron, or Extron.Below is a PDF of the command strings.The AMX/Crestron can control and/or monitor the following items:MuteVolumeNamesFrequencyBattery Usage InformationInterference DetectionAudio & RF MetersEncryption

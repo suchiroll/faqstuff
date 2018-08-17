@@ -1,0 +1,12 @@
+Title: “Participants” vs “Units” in DIS-CCU conferencing systems
+Id: 4830
+Legacy Id: 6016
+
+Question:
+What is the difference between the number of "participants" and "units" that can be controlled by a DIS-CCU central control unit?
+
+
+Answer:
+
+	In DCS 6000 Conference System mode, the DIS-CCU can operate with 6000-series conference units that may be configured for dual delegate mode, where one unit is shared by two participants.The DIS-CCU manages each participants identity, speaking requests, speech time, voting activity, etc. separately.The maximum number of participants in a meeting is 3,800 (with optional FL6000-3800 Feature License installed).If each participant has their own conference unit, then the maximum number of units is also 3,800.If two participants share each conference unit, the maximum number of participants is 3,800 but the maximum number of conference units is 1,900.
+

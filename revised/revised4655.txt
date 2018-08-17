@@ -1,0 +1,13 @@
+Title: MX150 and MX153 Cable Diameter
+Id: 4655
+Legacy Id: 5818
+
+Question:
+Please provide cable diameters of these models.
+
+Answer:
+
+	MX150 cable: 2.2mm diameter
+	
+	MX153 cable: 1.3mm diameter
+

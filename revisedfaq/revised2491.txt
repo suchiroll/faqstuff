@@ -1,0 +1,12 @@
+Title: Replacement for Shure HW505A Mic
+Id: 2491
+Legacy Id: 2586
+
+Question:
+I understand that the Shure HW505A microphone has been discontinued. Can you tell me if there is a comparable replacement for that model? Our company uses these mics with a voice dictation system. The HW505A mic has been the best mic for our needs.
+
+
+Answer:
+
+	There is no direct Shure replacement. A Shure WH20XLR mic combined with a mic preamp will be close to the HW505A.
+

@@ -1,0 +1,11 @@
+Title: Mixer with four inputs and phantom power
+Id: 637
+Legacy Id: 654
+
+Question:
+Do you have a four-channel mixer, i.e., 200M, with phantom power for the mikes?
+
+Answer:
+
+	The SCM268 has four microphone inputs, phantom power, four aux inputs, an RCA phono plug aux level output, and balanced XLR switchable microphone/line level output.
+

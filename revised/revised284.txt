@@ -1,0 +1,13 @@
+Title: What's the best place for my guitar transmitter?
+Id: 284
+Legacy Id: 291
+
+Question:
+I haven't purchased any wireless gear, but I'm anxious to.  While playing live with my band, we get extremely stupid and violent.  Many times we end up having ceasures and such on our back on stage.  Is it safe for me to put the transmitter on the back of my strap if I'm going to be slamming my body weight on top of it?  Is there a safer place to put it that you know of?  I was thinking to strap the transmitter to the front of my guitar just to the outside of the bridge.  Would that work?
+
+Answer:
+
+	Most wireless transmitters are made of plastic. Though rugged, they will eventually crack based on your scenario of body slams. (The Shure U1 transmitter is made of metal, but is part of a very expensive system.)
+	
+	Putting the transmitter on front of the guitar may work just fine. But keep in mind that you should try to position the receiver so it has line of sight to the transmitter. Putting your body between the transmitter and receiver will attenuate the transmitter signal sent to the receiver, and you may have drop outs (momentary losses of signal). In that case, reposition the receiver so it can see the transmitter.
+

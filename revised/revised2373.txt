@@ -1,0 +1,12 @@
+Title: Will phantom power damage the 16A?
+Id: 2373
+Legacy Id: 2464
+
+Question:
+I have 4 16AM mikes and I'm adding a mic that requires phantom voltage. My mixer will apply that voltage to all inputs. Will this be a problem for the 16A?
+
+
+
+Answer:
+
+	Phantom power will not damage the 16A microphone.

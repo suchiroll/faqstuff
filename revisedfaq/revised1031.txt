@@ -1,0 +1,12 @@
+Title: On-off foot switch for microphone
+Id: 1031
+Legacy Id: 1061
+
+Question:
+Does SHURE or any other company make an on-off switch that can be accessed by foot? I'm a drummer and it would be helpful if I could turn my voice microphone on and off by hitting a switch located on the floor with my foot.
+
+
+Answer:
+
+	Shure does not have such a product. There is one made by a company called ProCo Sound. Its called the Cough Drop. You can use it as a hand switch or a foot switch.
+

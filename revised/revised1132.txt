@@ -1,0 +1,18 @@
+Title: 18 channels of UHF wireless
+Id: 1132
+Legacy Id: 1170
+
+Question:
+I do not know if you can help me or not, I live in Naples, Florida area code, 34109. I am with First Baptist Church Naples, and we have 5 U4D-UA UHF wireless systems, and were looking at maybe getting up to 4 more. We are wanting to make sure that we would be able to effectivly use 9-10 systems at once.
+
+
+Answer:
+
+	At 05/10/2001 12:16 PM we wrote - To confirm, you want to operate a total 18 wireless transmitters into 9 U4D receivers.
+	
+	The UA frequency band is TV channels 66, 67, 68, and 69. Your region of Florida appears to not have any TV stations of these channels. Perhaps you can confirm this observation.
+	
+	That being said, it is possible to operate 18 wireless transmitters at the same time in the UA frequency band. But the proper setup is very important.
+	
+	Please call Shure for assistance on how to properly set up this large wireless system before you buy any new product. Call 800-516-2525, then press 4 to reach Shure Applications Engineering.
+

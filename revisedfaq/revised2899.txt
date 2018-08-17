@@ -1,0 +1,11 @@
+Title: Wired Microphone Signal into a USB port
+Id: 2899
+Legacy Id: 3023
+
+Question:
+Is there an solution if I want to connect a Shure microphone into a USB audio port?
+
+
+Answer:
+
+	Look at the Shure model X2u or MVi to provide this function. 

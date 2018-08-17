@@ -1,0 +1,60 @@
+Title: How to calibrate a VU meter?
+Id: 1829
+Legacy Id: 1889
+
+Question:
+What is the procedure to calibrate the VU meter on a Shure mixer?
+
+
+Answer:
+
+	How to Calibrate the VU Meter on a Shure Mixer
+
+	Why does a VU meter require calibration?
+
+	A VU meter indicates the signal level being sent from the mixer to the next device. A VU meter can be calibrated to any reference level desired. In the United States, the most common reference level is 0VU = +4dBm. That is, when the VU meter needle is lined up with 0 reading on the meter face, the audio signal at the output of the mixer has a level of +4dBm. Please note that the 0 indication on any VU meter has no pre-determined value. 0 VU is simply a point of reference.
+
+	What does +4dBm equal in volts?
+
+	+4dBm equals a signal voltage of 1.23 volts measured across a 600 ohm load.
+
+	What is required to calibrate a VU meter for a reference level of 0VU = +4dBm?
+
+	In addition to basic soldering skills, a soldering iron, and solder, you will require:
+
+	
+		A multimeter that can accurately measure audio signal levels at 1,000 Hz. An example is Radio Shack multimeter #22-174. As of September 2001, this meter has a price of $90. Do not use inexpensive multimeters as the calibration will not be accurate!
+	
+		A 600 ohm load resistor. Create a 600 ohm resistor by using one 270 ohm resistor (Radio Shack #271-1112) and one 330 ohm resistor (Radio Shack #271-1113). Solder the lead of one resistor to one lead of the other. This puts the resistors in series and their values add together to create a new resistor with a value of 600 ohms.
+	
+		An XLR female connector (Radio Shack #274-011) to mate with the mixers male XLR output connector. Remove the outer metal shell of the female XLR connector as it will not be used. Solder one lead of the 600 ohm resistor to pin 2 of the female XLR connector. Solder the other lead of the 600 ohm resistor to pin 3 of the female XLR connector.
+	
+		A set of insulated alligator clip test leads (Radio Shack #278-001) to connect the multimeter to the 600 ohm load.
+
+
+	What are the steps for calibration?
+
+	
+		Set the XLR output level of the mixer to LINE.
+	
+		Connect the female XLR connector with the 600 ohm load to the mixers XLR output.
+	
+		Using the alligator clip test leads, connect one multimeter probe to pin 2 of the female XLR. Connect the other multimeter probe to pin 3 of the female XLR.
+	
+		Power up the multimeter and set it to read AC voltage.
+	
+		Power up the mixer.
+	
+		Turn on the mixers 1kHz tone oscillator.
+	
+		Turn up the mixers Master control until the multimeter reads 1.23 volts. Note: on some mixers you may also have to turn up the level control for input #1. In that case, set the Master to the middle of its range and turn up input #1 until the multimeter reads 1.23 volts.
+	
+		With the multimeter reading 1.23 volts (or as close as possible), adjust the mixers VU calibration control until the meter reads 0 VU. See your mixers User Guide to find the location of the VU calibration adjustments.
+	
+		If you have a stereo mixer, do this same calibration for the Left output and the Right output. Make certain the channel pan pots are in the center position.
+
+
+	What are other common calibration levels besides +4dBm?
+
+	+8dBm = 1.95 volts; 0dBm = 0.775 volts
+

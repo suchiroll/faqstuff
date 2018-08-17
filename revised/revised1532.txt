@@ -1,0 +1,13 @@
+Title: SM10A and computer card
+Id: 1532
+Legacy Id: 1586
+
+Question:
+I have a SM10A that has a 1/8 mono male plug and would like to use it with my computer, but the output seems too low. Can you recommend a specific product to make this work?
+
+
+Answer:
+
+	Microphone connected to a computer sound card
+	
+	Permanently replace the 1/8" plug with an XLR male plug. (Radio Shack sells a male XLR.) Inside of the SM10 cable, there will be two wires, typically red and black, and a shield. Shield connects to XLR pin 1; red to XLR pin 2; black to XLR pin 3. The XLR connector will mate with USB sound cards.

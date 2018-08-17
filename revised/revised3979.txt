@@ -1,0 +1,14 @@
+Title: Shock mount for SM137 and KSM109
+Id: 3979
+Legacy Id: 4269
+
+Question:
+What Shure shock mount will fit the SM137 and KSM109?
+
+
+Answer:
+
+	Unfortunately, the Shure A53M isolation mount is just a bit too small to accommodate the SM137 or KSM109. But, the Shure A55M will fit the SM137 or KSM109.
+	
+	The mic handle fits loosely in the A55M and is secure when the mic is parallel to the floor. If the mic is postioned perdendicular to the floor, it may slowly slide out of the A55M. To prevent this slippage, slightly increase the diameter of mic handle using gaffers tape. Or add a rubber O-ring to the mic handle, 2 inches away from the XLR connector.
+

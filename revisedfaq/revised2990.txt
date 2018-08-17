@@ -1,0 +1,51 @@
+Title: UA221 Modification for DC bias and antenna combining
+Id: 2990
+Legacy Id: 3118
+
+Question:
+How do I modify the UA221 to get DC bias voltage to both antennas when used as an antenna combiner?
+
+
+Answer:
+
+	UA221 conversion to UA220
+	DC blocking Capacitor removal
+
+	In certain applications it may be necessary to use multiple remote antennas. If the antenna runs exceed 25 they may require an inline amplifier, such as the UA834, to overcome antenna cable line losses. In order to supply the necessary dc power to more then one antenna, the UA221 must be modified by replacing the dc blocking capacitor C102 with a jumper wire or solder short.
+
+	NOTE: Reinstalling C102 is very difficult so you should consider this a permanent change.
+
+	
+
+	
+		
+			
+				
+				The discontinued UA220 passed dc from the lower BNC to upper BNCs
+			
+				
+				The UA221 passes dc from ANT to R1 but blocks dc from R2
+			
+				
+		
+	
+
+
+	Process
+
+	
+		Remove the two Philips head screws taking care not to lose the associated nuts.
+	
+		Open the UA221 clam shell case and remove the pc board.
+	
+		Locate C102 between the opposing BNC connectors
+	
+		With a small tip soldering iron remove C102
+	
+		Replace C102 with a jumper wire or solder short between the two solder pads
+	
+		Reassemble case and mark it as modified
+
+
+	 
+

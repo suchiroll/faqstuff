@@ -1,0 +1,29 @@
+Title: Shure wireless microphone system frequency responses
+Id: 3381
+Legacy Id: 3568
+
+Question:
+I am looking for the frequency responses of Shure wireless microphone systems.  What can you provide me?
+
+Answer:
+
+	Shure wireless microphone system frequency responses  as printed in specification sheets and/or user guides.
+	
+	
+	UHF-R
+	40 Hz to 18 kHz +1 / -3 dB
+	
+	U-Series
+	50 Hz to 15 kHz +/- 2dB
+	
+	ULX
+	25 Hz to 15 kHz +/-2 dB
+	
+	SLX or PGX
+	45 Hz to 15 kHz +/-2 dB
+	
+	PG
+	45 Hz to 15 kHz +/-2 dB
+	
+	All of the above frequency responses are dependent upon the microphone elements being used, and could also vary slightly with input levels and gain settings on the transmitter.
+

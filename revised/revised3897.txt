@@ -1,0 +1,22 @@
+Title: PS124 and PS124L  power supply with one in / four out DC coaxial connectors
+Id: 3897
+Legacy Id: 4143
+
+Question:
+What are the PS124 and the PS124L?
+
+
+Answer:
+
+	Introduced in June 2011, the PS124 In-Line Power Supply is a solution for DC power supply cable management when multiple Shure wireless receivers or PSM transmitters are used. The PS124 consists of the Shure PS45 In-Line Power Supply with a DC power-splitter cable, and allows DC power distribution into four DC power connections via a single in-line power supply.
+	
+	Two Models:
+	PS124 - with non-locking power connectors. For use with multiple PG, PGX, PGXD, BLX, QLXD, SLX receivers and P2T, P3Ttransmitters.
+	
+	PS124L - with locking power connectors. For use with multiple GLXD4, ULXP4, ULXS4, and ULXD4 receivers and P9T transmitters.
+	
+	
+	The length of the power-splitter cable is one meter (40 inches).
+	Each of the four coax DC power output connectors has an O.D. of 2.5 mm and an I.D of 2.1 mm.
+	The single threaded DC power input connector that mates with the PS45 has an O.D. of 5.5 mm and and I.D of 2.5 mm.
+

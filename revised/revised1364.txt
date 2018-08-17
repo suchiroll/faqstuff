@@ -1,0 +1,20 @@
+Title: Switch from LX headset to LX handheld
+Id: 1364
+Legacy Id: 1416
+
+Question:
+---- 07/16/2001 07:10 PM ---------------------------------------------
+
+I purchased a Shure LX4 wireless system with the headset. I now would prefer a handheld. Which mic should I get to match the receiver? Some info off my unit:
+
+
+LX4-CP 196.600 MHz
+
+
+Thank you in advance for your assistance. I wish to purchase the handheld unit ASAP.
+
+
+Answer:
+
+	Purchase the LX2/58-CP. As of July 2001, the U.S. retail is $451.36. Note: You can only use one transmitter at a time since both will be on the same frequency.
+

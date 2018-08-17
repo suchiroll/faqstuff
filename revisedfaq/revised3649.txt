@@ -1,0 +1,14 @@
+Title: SRH840 headphones are too tight on my head
+Id: 3649
+Legacy Id: 3857
+
+Question:
+I just bought a pair of SRH840 headphones. I'm finding that they are uncomfortable when worn for more than 20 minutes. The clamping pressure on the side of the head seems too high. Is there any way to adjust this or stretch them out?
+
+
+Answer:
+
+	From the headphone product line manager:
+	
+	Place the headphones on a box, helmet, or something else to approximate your head size and leave the headphones on for at least 48 hours.This will typically loosen the fit.As long as the object is close to the target head size, the clamping force will be reduced over time. Use caution and do not stretch the headphones too far.
+

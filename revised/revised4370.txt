@@ -1,0 +1,20 @@
+Title: Use an Alternate Phono Stylus? Buy an New "Old" Phono Stylus?
+Id: 4370
+Legacy Id: 5461
+
+Question:
+I have an vintage Shure phono cartridge and I found a new stylus that fit into the body. Will this work OK? Is there a risk in buying vintage Shure styli that have never been used?
+
+
+Answer:
+
+	Since Shure starting manufacturing phonograph cartridges and replacement styli in the 1930s, there have been well over 2,000 different models offered. Each phono cartridge accepted a specific model of stylus, and some cartridges would accept several different styli, as different styli can be required for different types of records.
+	
+	With this many models, it is not practical to have a cross-reference that lists every stylus and cartridge combination that will work together. As an example, there could a stylus model ABC that was designed to fit into cartridge ABC, but stylus ABC also happens to physically fit into cartridge FGH. The combination of stylus ABC and cartridge FGH produces an audio signal when playing a record, but does this hybrid meet the same specifications of stylus ABC/cartridge ABC? Probably not.
+	
+	A stylus is designed to precisely align its magnet with the cartridge internal coils, just as the cartridge internal coils are precisely designed to operate with a magnet of specific field strength. Using an alternate stylus that simply fits the cartridge body is not a guarantee of acceptable audio. It is only a guarantee that the stylus fits into the body. If the audio is acceptable using an alternate stylus, then all is well.
+	
+	Customers will also ask about buying new old stock, i.e., a genuine Shure stylus, still in the box, that has never been used but was manufactured years ago, or decades ago. The risk here is the stylus bushing. The stylus shank is supported by and passes through a miniature bushing made of an elastic material. As the years pass, this bushing can become stiff and restrict the free movement of the stylus. Does this always happen? No, but there is not a reliable method for a buyer to determine the elasticity of the stylus bushing before the purchase. If the bushing has hardened, the audio signal will sound harsh, distorted, and lack low frequencies.
+	
+	What about third party after-market styli? There are companies that make new styli for discontinued Shure cartridges. After-market non-Shure styli may perform perfectly well, but let the buyer beware: Shure does not test third-party styli. Therefore, Shure cannot endorse using these styli.
+

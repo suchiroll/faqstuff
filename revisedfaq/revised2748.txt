@@ -1,0 +1,14 @@
+Title: 3 mil stylus for 78 RPM records
+Id: 2748
+Legacy Id: 2854
+
+Question:
+For which, if any, of the Shure stereo phono cartridges (current or old) can 3 mil (78 rpm) needles be obtained.
+
+
+Answer:
+
+	Shure does not offer a 3 mil stylus. The M78S cartridge, made to play 78 RPM records, has a 2.5 mil radius tip.
+	
+	Read the following about the N78S stylus: Will the N78S fit all Shure cartridges?
+

@@ -1,0 +1,16 @@
+Title: How to set a signal delay?
+Id: 2656
+Legacy Id: 2760
+
+Question:
+Could you please explain the mathematics behind configuring a speaker delay for a second row of speakers or under-balcony speakers?
+
+
+Answer:
+
+	A simple explanation:
+	1) Sound travels about 1 foot per millisecond.
+	2) Assume the main speaker cluster is 100 feet from the underbalcony seats.
+	3) Sound takes 100 milliseconds to travel from the main cluster to these seats.
+	4) The underbalcony loudspeakers should be delayed by about 100 milliseconds to be in phase with the main cluster sound.
+

@@ -1,0 +1,21 @@
+Title: Model 61CP accelerometer?
+Id: 2341
+Legacy Id: 2428
+
+Question:
+Do you still make the 61CP mic? I have one (serial # 13662) that needs replacing. Can you supply?
+
+
+Answer:
+
+	Sorry, Shure has not made an accelerometer, like the 61CP, for over 20 years. Try these sources for a new accelerometer:
+	
+	Entran Fairfield, NJ (www.entran.com)
+	1-888-836-8726
+	Fax: (973) 227-6865
+	
+	Sensotec Columbus, OH
+	(www.sensotec.com/index.html)
+	1-800-298-5000
+	Fax: (614) 850-1111
+

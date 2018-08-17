@@ -1,0 +1,14 @@
+Title: VP83 or VP83F Setting for Specific Cameras
+Id: 4346
+Legacy Id: 5431
+
+Question:
+Can you provide me with Shure VP83F LensHopper initial settings for use with Nikon D800 DSLR? I shoot Community Theater productions and I usually only get one chance to record dress rehearsals. Can you provide suggestions for DLSR Movie settings for audio?
+
+
+Answer:
+
+	Sorry, we do not have have recommend setting for specific cameras. There are far too many camera models and far too many different audio scenarios. Recording a string quartet is very different than recording a rock concert. Recording a lecturer is very different than recording a Broadway show. Experimentation is the key.
+	
+	Primer on Audio for Video
+

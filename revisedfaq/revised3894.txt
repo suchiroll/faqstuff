@@ -1,0 +1,13 @@
+Title: UR4 Receiver Infrared Synchronization Link
+Id: 3894
+Legacy Id: 4140
+
+Question:
+What is the modulation frequency of the infrared beam used by the UR4 receivers to synchronize the matching microphone transmitters?
+
+
+
+Answer:
+
+	The modulation frequency of the infrared beam used to synchronize the matching UR1, UR2, and UR3 transmitters is 40 kHz (pulse width modulation). Note that the infrared synchronization link is bi-directional between the receiver and transmitter. The actual data transmission protocol is proprietary, developed by Shure, and is essentially RAW IR.
+

@@ -1,0 +1,28 @@
+Title: Does Shure recycle products that cannot be repaired or are obsolete?
+Id: 3698
+Legacy Id: 3916
+
+Question:
+What happens to the product sent to Shure Service that cannot be repaired?
+
+
+Answer:
+
+	From a Shure press release dated May 2010:
+	
+	We all know it's going to happen sooner or later, a Shure microphone has been subjected to so many years of abuse that it can't be repaired and must be discarded. Befitting a product whose specialty is taking a beating, the journey to that great road case in the sky ends . . . well, with another beating.
+	
+	When a Shure product can no longer be repaired, it becomes scrap. In addition, the FCC's closing of the 700 MHz frequency band in June 2010 has resulted in thousands of wireless microphone systems being replaced prematurely. Many of these have been returned to Shure as part of its 700 MHz rebate program, adding to the amount of scrap.
+	
+	Instead of sending all of this product to a local landfill, Shure sends all scrap products and components to an EPA-approved electronics recycler. Everything is shredded into pieces smaller than one inch, and then separated into different types of material- metals, glass, plastic, etc. Each material category is then recycled. Nothing goes to a landfill, and all processing takes place in the U.S.
+	
+	In 2009, Shure recycled 52 tons of material that would have been sent to landfills. This is calculated to be the equivalent of saving:
+	
+		888 trees, or
+	
+		214,206 kilowatts of electricity, or
+	
+		19,844 gallons of oil, or
+	
+		365,540 gallons of water
+

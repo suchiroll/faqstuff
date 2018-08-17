@@ -1,0 +1,19 @@
+Title: P10R Firmware - March 2013
+Id: 5367
+Legacy Id: 5345
+
+Question:
+P10R Firmware - March 2013
+
+Answer:
+
+	On the P10R (receiver), the original firmware version was 1.1.0, as was the original firmware version of the P10T (transmitter).
+	
+	The 1.1.0 version of the P10T did not communicate with Wireless Workbench 6.A subsequent firmware (version 1.3.1) for the P10T was released to allow WWB6 to find P10T transmitters on the network.Compatibility with P10R (receivers) running firmware 1.1.0 was maintained.
+	
+	Two firmware updates for the P10T have been released:1.3.4 and 1.3.6.The latter is the March 2013 version.It supports additional frequency bands and improves audio meter response at high frequencies.The previous version improved the spectrum display.
+	
+	One firmware update for the P10R has been released in March 2013:1.3.2.This version supports additional frequency bands and improves the sync function.
+	
+	Again, operational compatibility between all transmitter and receiver firmware versions is maintained.
+

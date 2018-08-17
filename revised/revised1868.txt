@@ -1,0 +1,18 @@
+Title: Choir Microphones - how to use
+Id: 1868
+Legacy Id: 1928
+
+Question:
+I have recently been put in charge of the sound system at church? They wanted me to check into getting a couple of choir mics to hook up to our sound system. Someone had already purchased (2) audio technica choir mics, and they did not work. I don't want to make the same mistake. I am interested in the Microflex MX202. Are they compatible with any sound system? Is there a certain distance limitation to how long the cable can be?
+
+
+Answer:
+
+	The Audio Technica choir mics require phantom power to operate, as do the Shure MX202 mics.
+	
+	1. If your Crate powered mixer has phantom power, turn it on and your choir mics will work.
+	
+	2. If the Crate does not have phantom power, add a phantom power supply.
+	
+	Dont buy anything new until you get the Audio Technica mics to work.
+

@@ -1,0 +1,31 @@
+Title: Hum pickup on SM87
+Id: 1252
+Legacy Id: 1299
+
+Question:
+---- 06/21/2001 01:06 PM ---------------------------------------------
+One of the members of our Hawaiian music group likes to use an SM87 for his vocal. He has had it for many years and likes the sound with his voice. The mic quit working recently and being the band member with electronic experience, I took it home to fix it. Actually getting it working was easy... one of the wires had broken off the capsule and I resoldered it. It works OK.
+
+However my question is about another issue that was present even before the broken wire. The mic hums when the grill/windscreen is touched. Since the top section of the mic appears to be plastic, how does the grill/windscreen ever get grounded. Or does it.  I cant see any way for it to get grounded and I guess if it isn't, 60 Hz will be induced in the cartridge when it is touched by an ungrounded person. If one touches the main mic grip along with the grill the hum is reduced. Is there something missing in this mic that would normally ground the grill??
+
+This hum has always been annoying when his lips accidentally touch the grill, but he loves the mic so much that I was hoping that there was a way to fix it. 
+
+
+
+---- 06/21/2001 01:47 PM ----------------------------------------------
+
+
+I looked closer and the problem is that the threads that hold the grille are not electrically connected to the rest (long section) of the mic handle. Pin 1 of the XLR is connected to the long section, but somehow the threads holding the grille do not make connection to the long handle section or of course pin 1 of the XLR . It appears that the threads would unscrew using a spanner but mine wont budge. Any other ideas. I initially thought that the upper section was plastic, but I guess its just a decorative plastic sleeve.
+
+Answer:
+
+	At 06/21/2001 01:11 PM we wrote - The grill is grounded via the metal threads that secure the grill to the handle.
+	
+	Using an ohmmeter, measure resistance from XLR pin 1 to the grill. The reading should be under 10 ohms. If it is not, the XLR pin 1 may not be making good electrical contact with the mic handle. Try troubleshooting the problem from the XLR end of the mic.
+	
+	At 06/21/2001 01:56 PM we wrote - We just measured 13 ohms from the threads to pin 1. Our repair department does not take the handle portion apart as it is designed not to be disassembled. We suggest you return the SM87 to Shure for repair. A new handle will be installed and the mic will be checked to make certain it meets like new specs.
+	
+	For repair or parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

@@ -1,0 +1,19 @@
+Title: 200M op amp upgrade
+Id: 2710
+Legacy Id: 2814
+
+Question:
+Can the 200M mixer's performance be improved by changing the op amps?
+
+
+Answer:
+
+	Yes. Shure customer Bob Michaels of Michael Communication provided the following information:
+	
+	I have a Shure Prologue Model 200M that has been in operation in my studio for years as a talkback mic pre. The unit is built like a tank and has provided trouble-free service through time, but the unit contains a trio of older op amps, which, if replaced, could improve the sound of the unit. Analysis of the schematic and the unit revealed fairly standard circuitry surrounding the original JRC4558DD dual op amps, and the power supply (with the Shure PS-20 wall transformer) seems well suited to deal with modest additional current demand if necessary.
+	
+	Some notes on removing the top cover of the 200M. There are eight (8) screws which hold the top cover in place. Two of the screws are on the top/front, two are on the rear/top, and four are on the bottom toward the outside edge next to the feet. Note the difference in screw types as you remove them. The feet do not have to be removed, the center screws stay in place and the bottom/rear screws stay in place. DO NOT just force the cover off or you will cause damage to the unit. The cover has four internal screw tabs which have to be carefully maneuvered around assemblies inside the unit for the cover to lift off. Be careful.
+	
+	The next step involves carefully removing the bottom (main) circuit board (make note of exactly how the various subassemblies plug into the main board AND the direction of the plugs), desoldering the old 4558 chips (I used solder wick and a low wattage iron) and removing them. Pay careful attention to the direction/position of the key notch...there is also a "dot" on the circuit board to show you the direction. I highly recommend putting 8 pin IC sockets in the op amp positions, although you can simply solder the new chips carefully to the circuit board. Replacement sockets/chips MUST be installed in the correct direction! After installation of the sockets, I tried both TL072 and NE5532A chips (both made by Texas Instruments, and available from a number of sources), settling on the NE5532A's. The difference in the sound is dramatic as compared to the original chips, and the noise level is greatly diminished. There are a number of other dual op amps available which (theoretically) could be substituted in this circuit (like the OP275 or OPA2132, etc.), but I definitely met my improvement goals for the 200M with this simple, inexpensive upgrade. Later I will consider replacing some of the ceramic capacitors in the signal path, but for now the sound of the unit is much improved.
+	
+	NOTE: This is not a project for the inexperienced, and neither Shure nor the author assumes any responsibility for failed upgrades. No support will be provided to those attempting this refit. Changes to circuitry are not endorsed by Shure and will void any existing warranty.

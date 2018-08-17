@@ -1,0 +1,21 @@
+Title: WL184 into an AKG bodypack
+Id: 813
+Legacy Id: 835
+
+Question:
+I have a client who owns an AKG wireless system. It comprises of a SR-61 receiver and a PT-61 belt pack transmitter. The microphone that comes with it needed to be replaced and my colleague has convinced him on a Shure WL184.
+
+I am hoping you can advise me on the correct pin configuration for the mic to be integrated to the wireless system. I have tried several myself and it didn't work very well. The AKG transmitter comes with a 3-pin "mini-xlr". The only info I have on the beltpack's input: << Pin1: gnd, Pin2: audio in, Pin3: +bias(7volts via internal resistor of about 7.6 kohms) condenser mics requires pins 2 & 3 to be linked>>
+
+Certainly hope you can help in the above. I suspect that I may need an optional item to match the impedances or supply the phantom power. Do point me in the right direction.
+
+Answer:
+
+	Here is our suggestion based on the information you supplied on the AKG unit:
+	
+	WL184 shield wire to AKG pin 1
+	WL184 black wire to AKG pin 2
+	WL184 red wire to AKG pin 3
+	
+	You should require no additional items.
+

@@ -1,0 +1,23 @@
+Title: Power for multiple remote antenna amplifiers
+Id: 3294
+Legacy Id: 3457
+
+Question:
+We are installing a distributed multi-room antenna system for our wireless microphone systems.  Antenna amplifiers are planned for each room to overcome the losses in the coaxial cable runs.  Since the receivers and active antenna splitters can supply current to power up to two amplifiers, how can we provide power for more than two amplifiers?  
+
+
+Answer:
+
+	The best way to inject DC power for multiple remote antenna amplifiers is with a product called a “Bias-Tee”. The Bias-T is inserted in-line on the coaxial cable. It allows the radio signal to pass through the device, while simultaneously allowing injection of DC current into the coaxial cable in one direction only to power remote antenna amplifiers.
+	
+	Shure offers a bias-T:  model UABIAST-US
+	
+	Alternatively, the parts for a single Bias-T are available from: http://www.Pasternack.com
+	
+	1 – Pasternack PE1612 Bias-Tee with N-Female connectors
+	2 - Pasternack PE9002 N-Male to BNC-Female Adapters (These adapters provide the interface to standard BNC terminated cables.)
+	1 – Shure PS41US AC-to-DC power supply (or equivalent)
+	 
+	The Shure UA221 Passive Antenna Splitter/Combiners are frequently used to combine multiple remote antenna feeds together. As supplied, the UA221 passes DC current on only one of its ports. However, the UA221 can be modified to pass DC current on both of its combining ports to allow powering a pair of inbound antenna cables. Instructions for performing the modification are available on this knowledge database – search on text "UA221".
+	
+	NOTE: The Shure UA830 amplifiers will work with a 12 - 15 Vdc power source. In a typical antenna design, there will normally be DC voltage drop due to longer lengths of coaxial cable as well as passive devices such as combiners (UA221). There is also voltage drop when cascading two UA830 amplifiers, where the pass through voltage drop of a single UA830 is about 1 volt. There can even be some voltage drop through a Bias-T depending on the design of the particular device chosen.

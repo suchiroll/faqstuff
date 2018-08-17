@@ -1,0 +1,12 @@
+Title: SM87A vs Beta 87A
+Id: 466
+Legacy Id: 475
+
+Question:
+I am having a tough time figuring out the difference between these two microphones (SM87A and Beta 87A). Can you provide some assistance?
+
+
+Answer:
+
+	The SM87A and Beta87A are both supercardioid, condenser microphones designed for handheld vocal applications. The differences between the two are subtle, and best determined by auditioning both microphones at a local Shure dealer, to determine which one sounds better for your specific application. The Beta87A, however, does feature a more consistent supercardioid polar pattern, giving it a slight edge in gain-before-feedback.
+

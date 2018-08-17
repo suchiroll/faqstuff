@@ -1,0 +1,12 @@
+Title: Group Scan/Auto Receiver programming - ascending order?
+Id: 3135
+Legacy Id: 3269
+
+Question:
+Is there a way to auto program receivers in ascending order by frequency? i.e...lowest frequency to highest frequency acording to device ID. So far, I have seen random channel programming within groups.
+
+
+Answer:
+
+	There is no way to automatically have the receivers set the frequencies is ascending order. However, if you use the Wireless Workbench software for the Group Scan function, you can manually select which receiver will get a particular frequency.
+

@@ -1,0 +1,13 @@
+Title: Technics Turntable SL-10
+Id: 868
+Legacy Id: 895
+
+Question:
+I have a Technics Turntable model SL-10 (a linear tracking tonearm) and I would like to replace my stylus. The cartridge is a EPS-310MC, moving coil stereo cartridge, coreless twin-ring coil type (Pure boron pipe). Stylus tip has the following characteristics : 0.2 x 0.7 mil (4 x 18 um), Elliptical stylus, block diamond tip. I cannot find any equivalent number on you cross-reference guide. Can you tell me what is the best one for this cartridge. Thank you for your help.
+
+Answer:
+
+	Shure makes only moving magnet cartridges so if your turntable preamp will handle moving magnet cartridges, there are certainly a variety of choices.
+	
+	What phono cartridge will fit my turntable?
+

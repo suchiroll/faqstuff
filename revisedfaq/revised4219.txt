@@ -1,0 +1,35 @@
+Title: KSM9 and KSM9H/S - pick up patterns
+Id: 4219
+Legacy Id: 5199
+
+Question:
+Please explain the different pick up patterns (polar patterns) of the KSM9 models.
+
+
+Answer:
+
+	KMS9: cardioid pattern or supercardioid pattern. Selected by a toggle switch hidden under the mic grille.
+	
+	KMS9H/S: hypercardioid pattern or subcardioid pattern. Selected by a toggle switch hidden under the mic grille.
+
+	Subcardioid: - 3dB at 90 degrees off-axis; -10 dB at 180 degrees off axis. Sometimesincorrectly referred to as aforward-facing omnidirectional.
+	Cardioid: -6dB at 90 degrees off-axis;  -25 dB at 180 degrees off axis.
+	Supercardioid: -9 dB at 90 degrees off-axis;  -25 dB at 120 degrees off axis.
+	Hypercardioid: -12 dB at 90 degrees off-axis;  -25 dB at 110 degrees off axis.
+
+	* All specifications above based on an acousticinput signal of 1,000 Hz.
+
+	To summarize:
+	
+	Off-axis rejection at 90 degrees:
+	Subcardioid: -3 dB
+	Cardioid: -6 dB
+	Supercardioid: -9 dB
+	Hypercardioid: -12 dB
+	
+	Angle of maximum rejection:
+	Subcardioid: 180 degrees
+	Cardioid: 180 degrees
+	Supercardioid: 120 degrees
+	Hypercardioid: 110 degrees
+

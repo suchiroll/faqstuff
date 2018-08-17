@@ -1,0 +1,17 @@
+Title: MX1BP Internal Low Cut Filter
+Id: 2978
+Legacy Id: 3106
+
+Question:
+How do I implement the internal low cut filter on the MX1BP?
+
+
+Answer:
+
+	The MX1BP low frequency response is a 6 dB per octave roll-off below 25 Hz. This response can be changed if desired. A low cut filter that provides a 12dB per octave roll-off below 95 Hz is available inside of the MX1BP.
+	
+	To implement this low cut filter:
+	1. Remove the three screws from the underside of the MX1BP.
+	2. Remove the plastic cover and lift the printed circuit board up and out of the pack with the attached faceplate.
+	3. Change the jumper on the opposite side of the printed circuit board from its factory position over the first two pins nearest the input jack, to a position over the second and third pins.
+	4. Re-assemble the MX1BP by re-seating the printed circuit board and faceplate. Replace screws.

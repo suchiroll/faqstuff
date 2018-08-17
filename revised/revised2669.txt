@@ -1,0 +1,18 @@
+Title: Volume control for high impedance microphone
+Id: 2669
+Legacy Id: 2773
+
+Question:
+In the 60's I owned a Shure mic that looked similar to the SM58 except it had a volume control knob on it... can you tell me what the model was so I can look for a used one. I have small hands and don't feel comfortable with the DX520 I just bought. Do you make any other mics with a volume control or an inline volume control that fits between the mic and cable?
+
+
+Answer:
+
+	In the 60s I owned a Shure mic that looked similar to the SM58 except it had a volume control knob on it... can you tell me what the model was so I can look for a used one.
+	* It might have been the 588SAV.
+	
+	Do you make any other mics with a volume control or an inline volume control that fits between the mic and cable?
+	* Sorry , we do not.
+	
+	*If you always use a high impedance mic, consider employing a foot pedal volume control used by guitarists. Then you may use any high impedance mic you wish and not be concerned with it having a volume control.
+

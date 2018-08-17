@@ -1,0 +1,29 @@
+Title: Mic Level and Line Level -- What do they mean?
+Id: 739
+Legacy Id: 758
+
+Question:
+What is the difference between microphone level and line level?
+
+
+Answer:
+
+	Some mixers have switches on the rear panel for setting each input jack or output jack for mic level or line level. These terms refer to the signal level or intensity.
+	
+	Microphone level isin the region of -60 dBV(0.001 volt)to -40 dBV (0.010 volt).
+	A mic-level or microphone-level signal is the voltage level that comes out of a microphone when someone speaks into it, typicallyjust a few ten-thousandths of a volt. Of course, this voltage varies in response to changes invoice leveland and in the talker-to-micdistance. Butthe signal is still quite small.
+	
+	Line level isin the region of 0 dBV (1.000 volt).
+	A line-level signal is approximately one volt, or about 1,000 times greater than a mic-level signal. Connecting a microphone to a line-level input will result in almost no sound at all because the mic signal is so faint that the line input cannot hear it.
+	
+	Connecting a line-level source (such as mixer output) to a mic-level input will cause the sound to be loud and distorted because the line signal is much stronger than what the mic input will accept. Inputs and outputs on many mixers are switchable for either mic or line level operation.
+	
+	The nomenclature of line is from telephone line.When the telephone network was being developed in the early 20th century, the nominal level of a telephone signal as it travelled along telephone cables was around 1 volt. So, 1 volt was a line level signal.
+	
+	Aux-level is in the region of -10 dBV (0.300 volt).
+	One may also encounter jacks marked aux(or tape) and phono. Aux-level inputs and outputs are found on many kinds of equipment, including DVD player, tape recorders, CD players, and some computer sound cards. Aux-level is near to line-level, but aux-level inputs and outputs are nearly always unbalanced, using RCA connectors or 1/4 phone plugs. Microphones will not operate properly if connected to aux inputs. Jacks marked phono are for phonograph turntables only and are not compatible with anything else.
+	
+	Devices exist to boost microphone level signals up to line level signals. Mixers are the most popular piece of equipment. A mixer will not only boost a microphone level signal, but it will also combine multiple signals together into a single output. There are also devices called Mic preamplifiers or Mic-to-Line amplifiers. These are available as single-channel or multi-channel devices.
+
+	To attenuate (reduce)a line level signal down to a microphone level signal, use the ShureA15LA attenuator.
+

@@ -1,0 +1,11 @@
+Title: Output impedance of U4S
+Id: 2660
+Legacy Id: 2764
+
+Question:
+What is the impedance of the U4S XLR output?
+
+
+Answer:
+
+	The XLR output is 30 ohms - mic or line level.

@@ -1,0 +1,14 @@
+Title: Replacement Stylus for R1000XT
+Id: 2324
+Legacy Id: 2410
+
+Question:
+What is the replacement stylus for the R1000XT cartridge from Radio Shack?
+
+
+Answer:
+
+	The NE95ED stylus that fits the R1000XT.
+	
+	Note: There may be other pages in the Shure web site that indicates the N91ED stylus is the replacement. These pages are incorrect; the N91ED does not fit!
+

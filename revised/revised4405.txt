@@ -1,0 +1,22 @@
+Title: AXT600 Resolution Bandwidth and Scan Results
+Id: 4405
+Legacy Id: 5501
+
+Question:
+I performed a scan directly from the Antenna ports on the following devices:
+Green AXT 600
+Pink AXT 400
+Blue ULXD4D
+
+My question is: why does the AXT 600 vary so much from the other 2 devices? It almost appears the ULXD has a more sensitive scan than the AXT 400. I used a pair of UA860 antennas and 25' RG cables for this experiment.
+
+
+
+Answer:
+
+	The RF spectrum scans that you sent are very similar to experimental scans taken at Shure. Upon inspection, the scans that you collected produce very similar results between the three receivers (ULXD, AXT400, AXT600), at least for actual on-air TV signals of consequence. The results are very close (within the margin of error).
+	
+	What we did notice in both yours and our experimental scans is that the AXT600 displays a somewhat higher RF noise floor than the ULXD and AXT400 receivers. This may be due to the receivers having a narrower optimized RF front end, while the AXT600 has a very wide RF front end to accommodate a wide tuning range and the multiple scanning receivers. Also, the noise floor at about -100 dBm is way below the dynamic range where wireless microphone signals are expected. And any TV signals below -100 dBm can essentially be ignored - not only are they a long ways off, but their signals are inconsequential.
+	
+	If it desired to improve the scan quality from the AXT600, it is possible to adjust the Resolution Bandwidth (RBW) of the scan. The default RBW setting for all receivers and the AXT600 is 200 kHz, but if it is changed to 25 kHz, the noise floor will drop to about -110 dBm - essentially equivalent to the ULXD and AXT400 receivers. The spectrum plot will be at higher resolution, but may take a little longer to do the scan. Note that the RBW cannot be changed on the ULXD and AXT400 receivers - the value is fixed at 200 kHz.
+

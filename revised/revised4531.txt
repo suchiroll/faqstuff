@@ -1,0 +1,19 @@
+Title: UHF-R changing battery in handheld transmitter
+Id: 4531
+Legacy Id: 5649
+
+Question:
+I just got six UR4D+ systems. The handheld mics take two AA batteries but they are a pain to replace...in fact, yesterday I changed the batteries and the mic would not turn back on. Is there an easy technique to change the batteries and quickly?
+
+Answer:
+
+	Handheld battery cavity designs can always be tricky because of the design requirements of handheld transmitters. Some of the difficulty may be related to finger size and the ability to grip batteries especially when trying to extract the old batteries so whatwe suggest may not work for you while it seems to work for others.
+	
+	When trying to get the batteries out, dont try to pry the bottom battery out down by the positive terminal (closest to the power switch).Instead, try to grab and/or pry the battery out in the area between the battery and sync symbol with the arrow i.e. near the negative terminal.
+	
+	Notice that the top battery may not spring down far enough if the lower battery is removed too carefully or slowly.This most likely will vary, though, based on small battery diameter differences due to tolerances or different kinds of batteries (regular Alkaline versus AA NiMH or Li-ION).Get the bottom battery halfway removed, then grip it better and then remove it in one quick, deliberate motion. The top battery should spring down farther, thus making it easier to slide out.
+	
+	When putting the batteries in, the hardest part seems to be getting the bottom battery in.After sliding the first battery up into the chamber, it helps to insert the bottom battery by resting the bottom negative terminal against the top battery positive terminal and then hold the bottom battery in with the thumb, while pushing the bottom battery in with the other hand to help keep the bottom battery from popping out.
+
+	
+

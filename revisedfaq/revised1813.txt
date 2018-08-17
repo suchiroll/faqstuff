@@ -1,0 +1,20 @@
+Title: Is the KSM27 compatible with the KSM32 accessories?
+Id: 1813
+Legacy Id: 1873
+
+Question:
+I have two of the KSM32 mics, the champagne with the shockmount  case, etc. Now I'm intrigued by the new KSM27. I know it has its own shockmount, but is this mic compatible with the KSM32 accessories?. That is:
+
+
+1. Will the KSM27 mic fit in one of the KSM32 shockmounts?
+
+2. Will the 27 mic fit on that Shurelock swivelmount that I also have?
+
+3. Will the 32 mic fit in the 27 mount?
+
+
+Answer:
+
+	1. No. The KSM27 body is larger then the saddle used in the shock mount for the KSM32.
+	2. Yes.
+	3. The KSM32 will thread into the shockmount for the KSM27, but the saddle in the shockmount will be too large and the KSM32 will be loose in the shockmount.

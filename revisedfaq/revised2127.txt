@@ -1,0 +1,16 @@
+Title: Shure 512 Headworn Microphone for speech recording
+Id: 2127
+Legacy Id: 2197
+
+Question:
+How would this microphone be for recording spoken voice into a hard drive using Sound Forge software (through a preamp) for the purpose of producing educational CDs?
+
+
+Answer:
+
+	It depends upon the quality you are seeking. Will the 512 work? Yes (assuming the use of a preamp).
+
+	Will the 512 sound as full and rich as the SM7B or a KSM44? No.
+	
+	Sound is subjective. We cannot predict if the 512 will provide the sound quality you desire.
+

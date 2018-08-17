@@ -1,0 +1,39 @@
+Title: UR3 Firmware 1.0.0.31 Update
+Id: 5365
+Legacy Id: 5302
+
+Question:
+UR3 Firmware 1.0.0.31 Update
+
+Answer:
+
+	On January 28, 2013, Shure released new firmware version 1.0.0.31 for the UR3 plug-on transmitters.
+	
+
+	New Feature:
+	The 1.0.0.31 firmware adds this new feature:
+
+	
+		Three sensitivity options within the Audio Menu: 1) Line, 2) Mic, 3) Mic w/ pad. The new mic w/ pad option adds an additional 17dB of attenuation for microphones with hotter outputs. Phantom Power may be engaged with this new setting.
+
+
+	
+
+	
+
+	Improvement:
+	The 1.0.0.31 firmware addresses an issue found on a limited number (1% sold to date) of UR3 units with the previous firmware version:
+
+	
+		A limited number of UR3 units experienced a dramatic increase in gain level when selecting the lowest values of gain (-10, -9, or -8) in the SENS/GAIN menu. The new firmware fixes this uncommon issue.
+
+
+	
+
+	Action:
+	For customers in the United States: if you own a UR3 transmitter manufactured before January 28, 2013 and require the new feature or have experienced the gain error, please contact Shure Service at 800-516-2525 for further information. Unfortunately, the firmware update cannot be performed in the field. Thus, the UR3 transmitter must to be sent to Shure.
+
+	
+
+	For customers outside the United States, please contact the Shure distribution center for your country for information on this firmware update.
+

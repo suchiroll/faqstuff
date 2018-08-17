@@ -1,0 +1,13 @@
+Title: URT Dimensions
+Id: 2838
+Legacy Id: 2950
+
+Question:
+What are the dimensions of the Shure Universal Rack Tray (model URT)?
+
+
+Answer:
+
+	Width: 19" (one full rank width)
+	Height: 1.75" (one full rank height)
+	Depth: 5"

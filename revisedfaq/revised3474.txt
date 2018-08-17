@@ -1,0 +1,12 @@
+Title: Educational Website about batteries
+Id: 3474
+Legacy Id: 3671
+
+Question:
+Is there an educational website about batteries that is not full of technical jargon?
+
+
+Answer:
+
+	http://michaelbluejay.com/batteries/
+

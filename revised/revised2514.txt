@@ -1,0 +1,15 @@
+Title: Remote audio mute for U4D
+Id: 2514
+Legacy Id: 2610
+
+Question:
+We are currently using a U4D for vocals. We would like to know if there is any way to set up a remote mute control (perhaps through the mult on the back).
+
+
+Answer:
+
+	The multi-pin connector of the U4D will not mute the audio.
+	
+	Here is an idea: run the U4D audio output through a device made by Radio Design Labs: the ST-RX2. The ST-RX2 has one line level input and two line level outputs. An external switch of any sort can be used to route the input to either output. This could be used for a remote mute control.
+	
+	http://rdlnet.com

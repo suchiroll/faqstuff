@@ -1,0 +1,66 @@
+Title: Choosing a Shotgun Microphone
+Id: 4968
+Legacy Id: 6233
+
+Question:
+Why is it so long? Why are there so many lengths available? When is a shotgun mic required? Which length is right to use?
+
+
+Answer:
+
+	One of the most misunderstood types of microphones is the interference-type line microphone, commonly referred to as a shotgun microphone. Its pretty clear how it got this nickname. Its much longer than a typical end-address microphone and resembles the barrel of a shotgun. You may have seen them at press and sporting events or on movie sets, mounted to a boom pole or strapped to the top of a camera.
+	
+	Why is it so long? Why are there so many lengths available? When do you need a shotgun mic? Which length is right for you? This post will answer all of those questions.
+	
+	Shotgun microphones: uses and misconceptions
+	
+	Shotgun microphones fall into a category called high-directionality microphones. They are more directional than a typical cardioid or supercardioid microphone. This means that they reject unwanted sounds coming at the microphone from the sides, thus allowing clearer pickup of the desired sound source at which the microphone is pointed, or the on-axis source. A typical use for a shotgun microphone is to pick up a desired sound source located some distance away, and that, for whatever reason, cannot be approached or close miked. Think of the bat crack from a Major Leaguer or a lions roar.
+	
+	A common misconception is that they magically reach out and grab the sound coming from a source; however, in reality, shotgun mics merely reject more of the undesirable off-axis sound (see The Myth of Microphone Reachin the FAQs on shure.com for details). This could be noise from a busy street or excessive room sound in a space where youre recording dialog. Shotguns are also used in voiceover work, typically in situations where you dont have a proper non-reverberant vocal booth and you need a really close and present voiceover sound. Again, the shotgun will reduce the reflected room sound that comes into the mic off-axis.
+	
+	Characteristics of shotgun microphones
+	
+	The main characteristic weve talked about so far is high directionality. Other things to look for in a shotgun microphone are high sensitivity and low self-noise. (Self-noise is the noise introduced to the audio path by the microphones circuitry. Using a microphone with too high a self-noise to capture very quiet sounds will result in audible hiss.) As mentioned earlier, shotguns typically are used when capturing sources at a distance. This often means trying to pick up a low-level signal, which is why a proper shotgun microphone needs to have a higher sensitivity than microphones designed to pick up close sources. Since the low-level sound will need to be amplified to a usable signal level, having a mic with low self-noise is critical.
+	
+	What lobar means (and more misconceptions)
+	
+	If youve looked at shotgun mic specifications, youve likely seen microphones specified as supercardioid/lobar or hypercardioid/lobar. Understanding those terms requires knowing a little bit more about how a shotgun microphone gets its characteristic directionality. This is the result of an interference tube, which is mounted to the front of the microphone capsule (typically a condenser). It has several openings along its length, which are designed to allow sound to enter the tube.
+	
+	The interference tube enables the microphone to discriminate between on-axis and off-axis sounds by forcing each type of sound to arrive at the capsule in a different manner.
+	
+	On-axis sounds share a uniform path length to the microphone capsule. Because they arrive at the same time, they end up being what we call in phase and are thus accepted by the mic element and passed down the audio circuit.
+	
+	
+	
+	Off-axis sounds arrive at the openings of the interference tube at the same time, but they will have different paths to the capsule depending upon where they enter the tube. Sounds that enter farther down the tube have a longer path length than those entering nearer to the capsule. These waves arrive at different times and are thus out of phase, which results in the phase cancellation of that sound. Maximum cancellation occurs at frequencies where the phase difference is  wavelength.
+	
+	
+	
+	The result is a narrow, highly directional lobe of sound pickup at the front of the microphone. Shotgun polar patterns, characterized by such lobes, are thus called lobar.
+	
+	Its important to note that the lowest frequency that can be adequately cancelled is directly related to the length of the interference tube. The longer the tube, the lower the frequency at which the tube is effective in reducing off-axis sound. To reject sound down to, say, 100 Hz would require a tube 5.5 feet long!
+	
+	Many people think that the length of the tube determines only the overall sound acceptance angle. While that is somewhat true, its very much a frequency-dependent relationship. Below the frequency at which the interference tube is effective, the directional pattern comes from the microphone cartridge itself, usually a hypercardioid. The composite polar response would be specified as hypercardioid/lobar: hypercardioid at low frequencies and lobar at frequencies where the tube is working.
+	
+	Below we see the polar response at several frequencies for the VP89L, which has an 18-inch interference tube.
+	
+	
+	
+	As the frequency increases, the directionality of the microphone pickup pattern becomes much tighter. Because the VP89L interference tube is quite long, the microphone is able to maintain directionality to fairly low frequency, but by around 250 Hz, the polar response is mostly hypercardioid. Also, note the smooth polar response at high frequencies and minimal undesirable side-lobes.
+	
+	Another way of looking at directionality
+	
+	A really cool way to understand the directionality of a microphone as it relates to frequency is to look at a graph of its directivity index (DI). The directivity index is the ratio of on-axis pickup relative to the sound pickup in all directions, specified in dB. The higher the number, the more directional the microphone.
+	
+	An omnidirectional microphone has a DI of 0dB since it picks up sound equally in all directions. A hypercardioid microphone has a DI of 6.0 dB. This graph illustrates the frequency at which the microphones directionality really takes off, which, again, is dependent on its length. The directivity index graph below compares the VP89S (short), VP89M (medium), and VP89L (long) shotguns. Notice how the cardioid pattern stays uniformly directional with frequency, while the shotgun mics become increasingly directional at lower frequencies proportional to the length of their interference tubes.
+	
+	
+	
+	So which length should I use?
+	
+	Depends! A longer interference tube will reject the most off-axis sound, but is also more difficult to work with because of the length. It is quite sensitive to positioning and requires a fixed mic / source or a skilled boom operator since moving the mic even slightly off-axis will result in attenuation of the sound source. For very distant sounds and /or loud environments, this is often the best option. A medium shotgun works well in most situations for booming and voice pickup. A short shotgun is less directional than its longer siblings but often useful where length must be minimized; it still provides better rejection of off-axis high frequencies than a hypercardioid microphone would. Of course, the Shure A89U double barrel U-adapter also can be used in these situations as it minimizes total length by placing the preamp below the tube.
+	
+	The quality of rejection is as important as the degree of rejection. Even a highly directional shotgun will admit off-axis sound at certain frequencies. When this audio is colored by comb-filtering artifacts, your end result will be affected.
+	
+	Most shotgun mics are reasonably good at capturing on-axis audio, but for the best shotgun, its important to look for low-self noise and high sensitivity in conjunction with a natural on-axis sound and uniform off-axis rejection. This will ensure the best audio overall.
+

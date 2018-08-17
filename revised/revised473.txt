@@ -1,0 +1,11 @@
+Title: SCM262 Bass, Treble controls
+Id: 473
+Legacy Id: 483
+
+Question:
+Is there a neutral setting for the bass and treble controls on this stereo mixer?  My application is professional mics to consumer tape deck, and I don't want to alter the high/low frequencies in the output.  (Thanks!)
+
+Answer:
+
+	Each tone control has a center-detent position which is the flat (neutral) position.
+

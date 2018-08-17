@@ -1,0 +1,20 @@
+Title: How do I connect an Audio Technica 815b to a Shure Bodypack?
+Id: 735
+Legacy Id: 754
+
+Question:
+Can you provide a cable diagram XLR-F to TA4F to connect an AT815b to Shure Bodypack? 
+
+Answer:
+
+	1. You must power the AT815b from its internal battery.
+	
+	2. You may purchase the WA310 adapter cable from Shure and use it to connect the AT mic to any Shure bodypack that has a Tini QG TA4M connector as the audio input.
+	
+	3. Or you may construct your own cable by using this wiring scheme:
+	- Cable shield to XLR female pin 1 and TA4F pin 1.
+	- Cable inner conductor to XLR female pin 2 and TA4F pin 3.
+	- Connect jumper between XLR female pin 3 and XLR female pin 1.
+	- Do not use pin 2 of the TA4F.
+	- If the AT815b sounds too bright when used with the Shure transmitter, jumper TA4F pin 3 to TA4F pin 4. This will change the input impedance of the Shure bodypack and will load the mic in a different manner.
+

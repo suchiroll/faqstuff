@@ -1,0 +1,11 @@
+Title: Shure earphones and headphone amp?
+Id: 3151
+Legacy Id: 3289
+
+Question:
+Do Shure earphones require an external headphone amplifier?
+
+Answer:
+
+	Shure earphones were designed to be compatible with portable battery-powered devices. Their high sensitivity allows them to produce comfortable listening levels even when driven by devices with low-powered headphone amplifiers. Also, their sound isolating design blocks out background noise, so you can listen comfortably at lower levels than with standard earbuds. So, an external headphone amplifier is unnecessary, but could be used.
+

@@ -1,0 +1,20 @@
+Title: Recording sound in courtrooms
+Id: 1534
+Legacy Id: 1588
+
+Question:
+I'm a court reporter and some courtrooms have terrible sound systems. I want to record the sound and ensure the quality. Basically I want the sound amplified. I currently have two Sound Grabbers from Martel Electronics for a tape recorder. If you have any suggestions, please contact me. Thank you for your time.
+
+
+Answer:
+
+	Before you make any buying decisions, you need to understand the underlying problems. Please read the following links, than contact again to discuss possible technical solutions.
+	
+	http://www.shure.com/pdf/booklets/meeting.pdf
+	
+	http://www.shure.com/pdf/booklets/video.pdf
+	
+	http://www.shure.com/support/technotes/app-critical.html
+	
+	http://www.shure.com/support/technotes/app-snratio.html
+

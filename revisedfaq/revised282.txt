@@ -1,0 +1,11 @@
+Title: 588SB Microphone Cable
+Id: 282
+Legacy Id: 289
+
+Question:
+I have an old Shure microphone model 588SB and I'm in need of a replacement cable. Could you provide me with a current part number for this cable?
+
+
+Answer:
+
+	The 588SB has an XLR connector on it. The cable model depends on what the 588SB connects into. If the microphone plugs into another XLR jack, use the C25J cable.

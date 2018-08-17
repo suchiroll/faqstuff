@@ -1,0 +1,12 @@
+Title: A12 drawing
+Id: 3912
+Legacy Id: 4158
+
+Question:
+I need a drawing of the A12 flange. One of our local contractors is looking to mount the flange on a custom plate and needs the dimensions.
+
+
+Answer:
+
+	See the PDF below.
+

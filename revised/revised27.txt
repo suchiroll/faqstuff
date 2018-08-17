@@ -1,0 +1,11 @@
+Title: Playing mono records with a stereo cartridge
+Id: 27
+Legacy Id: 27
+
+Question:
+I need to archive a large collection of monophonic LP's. What is the best way obtain a mono output from a stereo cartridge?
+
+Answer:
+
+	Connect the stereo cartridge to a phono preamp, then take the stereo output of the pre-amp and put it through a Y adapter to convert it to mono. Check with the pre-amp manufacturer to see if the outputs can be connected together for mono. If the pre-amp has a mono switch, using the switch would have the same result. The phono preamp is necessary for the RIAA equalization it contains. Without this equalization, the audio will be lacking bass and extremely bright.
+

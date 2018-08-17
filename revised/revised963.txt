@@ -1,0 +1,12 @@
+Title: Denon DP-45F turntable
+Id: 963
+Legacy Id: 992
+
+Question:
+I am the owner of a Denon DP-45F turntable, equipped with a Shure cartridge- I need to replace the stylus, but I'm unsure which cartridge I actually own- It's a V series, as evidenced by the large "V" on it, but I haven't been able to notice any other markings on it to help identify it. The stylus, however, has the number 008065 printed on the back.
+
+
+Answer:
+
+	The product is a V15 V and the replacement stylus is the VN5xMR.
+

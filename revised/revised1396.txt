@@ -1,0 +1,21 @@
+Title: BG 5.1 Pick Up question
+Id: 1396
+Legacy Id: 1448
+
+Question:
+I own 3 BG5.1 microphones. I generally use these for a Native American Drum. They pick up ok, but not as well as I expected.
+
+
+We are on average about 3 feet away from the mic. It is located over the drum in the center we point it up so it picks up minimal drum sound.
+
+
+What can I use, or what other microphone can I use to pick up that circle of men? I could multiple mic the group but that could get problematic we use a Mackie 408m PPM and it may run out of inputs. I would like to increase the vocal pick up. Suggestions?
+
+
+Answer:
+
+	The BG 5.1 is designed as a close-up vocal mic. It works best when used within 12 inches or less of the performer's mouth.
+	
+	The BG 4.1 is designed for instrument use. It would be a much better drum microphone. If used for vocals, the BG 4.1 should not be placed closer than 6" from the performer as it has no protection from breath popping.
+	
+	Cardioid microphones have a pick up angle of 120 degrees. Performers outside of the 120 degree angle will not be picked up as well. Try two BG 4.1 mics mounted on a stereo adapter like the Shure A27M. This will allow the two mics to pointed in different directions and increase the pick up angle.

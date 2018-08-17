@@ -1,0 +1,12 @@
+Title: Muting time for UHF-R tone key squelch circuit
+Id: 3118
+Legacy Id: 3251
+
+Question:
+When the UHF-R transmitter is powered on (or off), how long does it take for the UHF-R receiver to unmute (or mute)?
+
+
+Answer:
+
+	300 milliseconds(0.3 seconds)
+

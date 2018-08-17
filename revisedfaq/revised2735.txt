@@ -1,0 +1,12 @@
+Title: Cable from XLR mic output to prosumer camcorder
+Id: 2735
+Legacy Id: 2841
+
+Question:
+Where can I find a cable to interface between a professional mic with an XLR male output and a camcorder 3.5mm female mic input?
+
+
+Answer:
+
+	Use the Shure A96F adapter.
+

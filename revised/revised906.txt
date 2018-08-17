@@ -1,0 +1,40 @@
+Title: Computer microphone for voice recognition
+Id: 906
+Legacy Id: 934
+
+Question:
+I have a Pentium 3 with what I suspect is a powered sound card and I need a microphone for computer voice recognition software with the following features:
+
+
+1. excellent noise cancellation
+
+
+2. an off/on switch
+
+
+3. 10 ft cord
+
+
+4. over the top of the headset with an adjustable microphone
+
+
+5. ability to hear/playback what is recorded (ie. bidirectional features)
+
+
+Are the HW501 or WH505 the correct mic's? If not which best meet the needs that I have listed?
+
+
+Answer:
+
+	The VR230D or the VR250BT would have all the features you have listed except one. The VR230D is a dynamic microphone. And the VR250BT is a condenser. Condenser computer microphone typically draw voltage from the sound card to operate. They have a higher output level than the dynamic microphones. Both have over-the-head style of headset. Return audio provided through a single, wide range earphone speaker.
+	
+	The only feature they do not have is an on/off switch.
+	
+	You can view the specifications for each of the microphones at these addresses.
+	
+	For the VR250BT
+	
+	For the VR230D
+	
+	You will also find information about pricing and ordering these microphones. These are the only microphones Shure sells directly.
+

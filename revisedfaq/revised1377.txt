@@ -1,0 +1,12 @@
+Title: Pin connections Prologue 14H
+Id: 1377
+Legacy Id: 1429
+
+Question:
+I have a Shure Prologue 14H which is a hi Z mic with an XLR output. What are the pin connections, i.e., signal, ground?
+
+
+Answer:
+
+	Pin 3 is audio hot. Pin 1 is audio ground. Pin 2 is not used.
+

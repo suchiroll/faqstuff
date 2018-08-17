@@ -1,0 +1,11 @@
+Title: T4V receiver
+Id: 1957
+Legacy Id: 2020
+
+Question:
+I have receiver that I can not find. It looks like the T88 but it is only one channel and it has two yellow lights not one. it is diversity and VHF.
+
+
+Answer:
+
+	Your receiver is the T4V. It has been discontinued.

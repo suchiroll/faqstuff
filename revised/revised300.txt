@@ -1,0 +1,20 @@
+Title: MX418 internal wiring and switch location
+Id: 300
+Legacy Id: 307
+
+Question:
+Looks like the MX418C/S will work for a job I'm spec'ing.  I'm need a wiring diagram for the internal wiring.  Also need to know if the switch is a momentary contact type, and where the switch is located on the mic body.
+
+This is for a permanent installation in a board room.  An XLR mount would probably be preferable so the mics can easily be removed when the room is not in use, and quickly reinstalled just prior to use.  Client specifically wants non-locking, momentary PTT operation of each mic.  Logic controlled switching and/or auto mic mixing is specifically NOT desired.  Client is inflexable in this regard.
+
+They do not need to turn individual mics on/off from a central location, but they do want the chair to be able to disable/enable all the delegate mics with one switch.  That can be accomplished from the mixer.
+
+Will the MX418C/S do what they want, or can you suggest something more appropriate?
+
+Answer:
+
+	Shure does not offer a MX418C/S. Do you mean MX418S/C? If so:
+	
+	The switch is on the preamp portion of the mic near the XLR connector. It is a push on/push off switch. It cannot be a momentary switch.
+	
+	But if the client wants a momentary Push to Talk switch, then use the MX418D/C. It has a cable with an XLR male at the end. The switch is configured by the installer via DIP switches hidden inside the mic base. The switch is a membrane type located on the face of the mic base.

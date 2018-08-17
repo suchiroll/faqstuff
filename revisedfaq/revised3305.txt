@@ -1,0 +1,43 @@
+Title: Differences between UHF-R and UHF series
+Id: 3305
+Legacy Id: 3472
+
+Question:
+What are the detailed differences between UHF-R and UHF Series wireless systems?
+
+Answer:
+
+	UHF-R versus UHF Series
+	(United States versions)
+	
+	Bandwidth
+	60 MHz versus 30 MHz
+	
+	Selectable Frequencies (per band)
+	2400 versus 1200
+	
+	Simultaneous Comp. Freqs. (per band)
+	40 versus 24
+	
+	Simultaneous Comp. Freqs. (multi-band)
+	108 versus 78
+	
+	Track Tuning
+	Yes versus No
+	
+	Dual RF Power Bodypack
+	Yes versus No
+	
+	Companding Ratio
+	Variable versus 2:1
+	
+	
+	Networking
+	Ethernet (built-in)versus RS232 (with external interface)
+	
+	AMX/Crestron Compatibility
+	Yes versus No
+	
+	Auto Setup Features (Scanning and InfraRed Sync)
+	Yes versus No
+

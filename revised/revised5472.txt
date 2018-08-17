@@ -1,0 +1,16 @@
+Title: Band-limit my wireless mic to be compliant with the 2020 regulations?
+Id: 5472
+Legacy Id: 
+
+Question:
+I have a ULX-D system in the J50 band. Since part of the tuning range will continue to be legal to use after the incentive auction transition, can I band-limit my devices to be compliant with the new regulations?
+
+Answer:
+You can permanently band-limit your devices to operate in permitted bands per the new FCC regulations using the U.S. 600 MHz Conversion Tool (built into Wireless Workbench) if you own any of the following, operating in the following affected frequency bands:
+
+	Axient® (AXT) Wireless Management Network – J5 or L3 bands
+	ULX-D® Digital Wireless System – J50 or L50 bands
+	QLX-D® Digital Wireless System – J50 or L50 bands
+	PSM® 1000 Wireless Personal Monitor System – J8 or L8 bands
+Information about the conversion.
+

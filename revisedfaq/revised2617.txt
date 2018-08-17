@@ -1,0 +1,15 @@
+Title: ULX antennas on rack front
+Id: 2617
+Legacy Id: 2719
+
+Question:
+I have recently aquired a rackmount for my ulx standard wireless system could you tell me if the aerials are supposed to be kept in the back of the transmitter or if there should be a seperate wire ( same as the lx rackmount)so you can connect the aeriel to the front of your rack in the flight case.If there should be a seperate wire then should it have come with my rackmount or do i have to buy this part seperate.
+
+
+Answer:
+
+	The aerials (antennas) must be positioned so there is line-of-sight from the transmitter to the antennas.
+	If the back of the rack is open and faces the transmitter, then keep the antennas in the rear. If not, the antennas need to be in the front....they need to see the transmitter.
+	
+	The Shure part UA600 provides two antenna bulkhead connectors and two antenna cables. Use the UA600 to mount the antennas on the rack front.
+

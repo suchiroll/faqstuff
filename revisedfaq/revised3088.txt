@@ -1,0 +1,59 @@
+Title: E4c Technical Information
+Id: 3088
+Legacy Id: 3220
+
+Question:
+Please tell me about the E4c earphones introduced in May 2005.
+
+Answer:
+
+	The E4c has a flatter high end response compared to the brighter sounding E3c. Mid-range is similar to the E3c. Tuned Port technology provides a more extended low end compared to the E3c; the lower frequencies appear more clearly defined than the E3c.
+	
+	The E4c has a smoother response overall and has sturdy Teflon coated cables.
+	
+	The E4c package includes a level attenuator and a wide selection of earphone sleeves. The level attenuator gives the user volume control when the earphones are plugged into an airliner audio system.
+	
+	The E4c comes with a nozzle cleaning tool to prevent clogs. Replaceable nozzles are also provided if they become damaged. The User Guide provides step by step instructions on how to change the nozzles and how to properly insert them into your ears.
+	
+	An 1/8 stereo to 1/4 stereo adapter plug is provided.
+	
+	E4c Technical Specifications - -
+	Transducer Types: Single balanced armature
+	Sensitivity: 109 dB SPL/mW
+	Impedance: 29?
+	Cable Length: 62 inches
+	
+	Furnished accessories - -
+	Level attenuator: PA235
+	Carrying pouch: 95A2259
+	Triple Flange Sleeves: 90WX1371
+	Replacement nozzles: 90XF1371
+	Plug Adapter (1/8 female stereo to 1/4 male stereo): PA234
+	Fit Kit with cleaning tool: 90XC1371
+	Fit Kit includes:
+	One pair of Small Grey Flex sleeves
+	One pair of Medium Grey Flex sleeves
+	One pair of Large Grey Flex sleeves
+	One pair of Small Translucent PVC sleeves
+	One pair of Medium Translucent PVC sleeves
+	One pair of Large Translucent PVC sleeves
+	One pair of Yellow Foam Sleeves
+	Cleaning tool
+	
+	Replacement Parts - -
+	20 piece bag of yellow foam sleeves: PA750
+	500 piece bag of yellow foam sleeves: PA754
+	
+	10 piece bag of clear flex sleeves:
+	Small: PA756S
+	Medium: PA756M
+	Large: PA756L
+	
+	10 piece bag of soft flex sleeves:
+	Small: PA758S
+	Medium: PA758M
+	Large: PA758
+	
+	Triple Flange Sleeves (pair packaged) : PA755
+	Replacement nozzles (pair): PA4NC
+

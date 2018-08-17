@@ -1,0 +1,11 @@
+Title: WL93 Cable Diameter
+Id: 4615
+Legacy Id: 5773
+
+Question:
+What is the diameter of the cable for this mic?
+
+Answer:
+
+	2mm diameter.
+

@@ -1,0 +1,17 @@
+Title: PSM300 Point to Point Wireless
+Id: 4599
+Legacy Id: 5755
+
+Question:
+How can I use the PSM300 for point to point wireless? I want to send the line level output signal from my mixer to a three powered loudspeakers?
+
+Answer:
+
+	1) The line level output of the mixer connects into the P3T transmitter.
+	
+	2) Position the P3T transmitter high in the air to establish line-of-sight to the powered loudspeakers.
+	
+	3) At each powered loudspeaker, place a P3RA receiver. The receiver can be powered by internal batteries, or by a battery eliminator, Shure model SBC-DC.
+	
+	4) Use the P3RA headphone output jack as an unbalanced audio feed into the powered loudspeaker AUX IN or LINE IN connection.
+

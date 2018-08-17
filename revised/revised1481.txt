@@ -1,0 +1,14 @@
+Title: N111E for RXT6 cartridge
+Id: 1481
+Legacy Id: 1534
+
+Question:
+I understand that the replacement stylus (N111HE ) for my RXT6 cartridge has been discontinued. What model would you suggest for replacing my cartridge?
+
+
+Answer:
+
+	As you noted, the N111E stylus is no longer available. Consider the M92E cartridge as a replacement.
+
+	
+

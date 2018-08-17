@@ -1,0 +1,11 @@
+Title: Headset For WL50/51?
+Id: 2115
+Legacy Id: 2184
+
+Question:
+Do you make an adjustable headet for the WL50 mic line?
+
+
+Answer:
+
+	The WL50 is available as a headworn mic: the model WBH53B, bu there is no Shure product available that mounts the WL50 on a headset.

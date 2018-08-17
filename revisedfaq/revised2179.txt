@@ -1,0 +1,16 @@
+Title: Base Frequency on an SC4 with traveling frequencies
+Id: 2179
+Legacy Id: 2252
+
+Question:
+I have a Shure SC4 receiver... I was wondering if you can give me the base frequency of this unit... On the pull Down door the frequencies are as follows....
+
+169.445 170.245 171.045 171.845
+
+
+Model # SC4-TA
+
+
+Answer:
+
+	You have an SC4 set to traveling frequencies (non-TV frequencies). There is no base frequency for these units. You select any one of the four frequencies listed.

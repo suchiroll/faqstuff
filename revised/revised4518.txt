@@ -1,0 +1,14 @@
+Title: MWX Charging Bays - using an USB extension cable
+Id: 4518
+Legacy Id: 5634
+
+Question:
+I have had several cases where I specified the MXW system and the need for two (2) slots on the charging appliance when using the tabletop transceiver has become an issue. The most recent - six (6) standard transceivers and two (2) tabletop - requires both eight and four slot chargers. Can we use a short cable to connect the tabletop transceiver to the charging appliance (single slot) when linking/pairing? After the initial system setup - the user would alternate charging slots.
+
+
+
+Answer:
+
+	We have found using a USB cable to connect a MXW transmitter to a charging bay on the MXWNCS to be unreliable. One specific USB cable will work, but many others will not. We do not yet know why there is a difference in cable performance.
+	
+	Therefore, it is recommended to not use your suggested method. It is best practice to have the proper quantity of MXWNCS chargers to accommodate all MXW transmitters in their proper charging bays. The MXW8 required two bays; other MXW models occupy one bay.

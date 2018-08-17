@@ -1,0 +1,24 @@
+Title: SystemOn versus third-party control systems
+Id: 5024
+Legacy Id: 6316
+
+Question:
+What benefits are there to SystemOn instead of third party control systems?
+
+
+Answer:
+
+	General benefits of SystemOn over using third party control strings:
+
+	
+		Shure software can be used out of the box and doesnt require any programming.
+	
+		Software updates can be applied easily whenever a new software release is available.
+	
+		It provides a direct link between Shure software and hardware.
+	
+		More granular control is available than what can be achieved with custom programming.
+
+
+	Achieving the same feature set with third party control systems would require extensive programming, usually at high cost. Updates and new feature additions do not come as effortlessly in a third party control system or custom software.
+

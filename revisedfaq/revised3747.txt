@@ -1,0 +1,22 @@
+Title: P2R Headphone Output Level
+Id: 3747
+Legacy Id: 3983
+
+Question:
+I would like to know the out put power of the P2R receiver into 32 Ohms. Basically, how many mW does the P2R send to 32 Ohm headphones.
+
+
+Answer:
+
+	The maximum output power is approximately 17mW with the left output and the right output each loaded with 32 ohms.
+	
+	Test Conditions:
+	- Test signal - 1 kHz sine wave tone
+	- P2R output termination - 32 Ohm resistor
+	- Test signal into  transmitter set to just below limiting - i.e. just before audio level light illuminates red.
+	- Volume control on P2R set at maximum.
+	- Limiter light on P2R receiver off - but just on the threshold of active.
+	
+	Measurement Results:
+	P2R output signal, 32 Ohm load on one channel only = 0.80 Vrms - equals about 19 mW.
+	P2R output signal, 32 Ohm load on both left and right output channels = 0.75 Vrms - equals about 17 mW.

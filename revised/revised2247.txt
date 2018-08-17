@@ -1,0 +1,17 @@
+Title: V15-IV distortion in some frequency ranges
+Id: 2247
+Legacy Id: 2328
+
+Question:
+I have a Technics SL-1300MK2 with a V15 Type IV Cartridge. It has been sitting for about 10 years without use. I stopped using it because it was producing distortion sometimes while playing LPs. I have cleaned off the dust and want to get all my vinyl transferred to MP3s on my PC. It still plays but it still has distortion on some frequencies. What are the chances that it could be the Cartridge and not the turntable that is faulty? I can’t find a stereo shop around here that has any turntable knowledge or inventory of cartridges. Any ideas?
+
+
+
+Answer:
+
+	The problem could be in the V15-IV stylus, or in the interaction between the V15-IV and the tonearm. The replacement stylus for the V15-IV is no longer available. We suggest you replace the V15-IV with a Shure M97xE.
+	
+	The M97xE will perfrom better than the V15-IV. Make certain to follow the set-up instructions carefully.
+	
+	We also suggest that you dust off the User Guide for the Technics and make certain it is adjusted properly and lubricated.
+

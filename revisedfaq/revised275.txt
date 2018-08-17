@@ -1,0 +1,14 @@
+Title: 78 rpm stylus for original V15V
+Id: 275
+Legacy Id: 282
+
+Question:
+Do you have a 78 stylus that will fit the Shure V15V cartridge?
+
+
+Answer:
+
+	Sorry, we do not have a 78 stylus that will fit the original V15V cartridge.
+	
+	The N78S 78 rpm stylus will fit the V15xMR cartridge only.
+

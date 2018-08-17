@@ -1,0 +1,56 @@
+Title: Comparing wireless systems via a "shootout"
+Id: 3502
+Legacy Id: 3701
+
+Question:
+Is it worthwhile to do a wireless microphone "shootout"?
+
+
+Answer:
+
+	It is very difficult to conduct a wireless microphone field comparison in a way that is meaningful. To properly judge both the audio and radio performance of a wireless system requires sufficient control over both the acoustic and radio environments that the conditions for each wireless system are identical. This is not practical in the typical field setting.
+
+	
+
+	
+
+	It may be possible to judge the sound quality to some extent using comparable microphone elements (condenser vs. condenser or dynamic vs. dynamic) but of course vocal microphones are very subjective and somewhat dependent on the singer or talker. For lapel microphones or headset microphones again it would be necessary to use comparable elements. In either case, the same singer(s) or talker(s) need to present the same acoustic input to each system.
+
+	
+
+	
+
+	In general, for high performance wireless systems, the sound of the wireless should be neutral enough that you just hear the sound of the actual microphone. If the evaluator prefers the sound of the Company A mic to the sound of the Company B mic then Company A wins. If the evaluator likes the sound of the Company B mic then they win. Obviously, this is a completely subjective test, particularly for handheld elements which are not interchangeable between different manufacturers transmitters. Though it may be possible to put the same lapel or headset mic on two different bodypack transmitters, the result is still highly dependent on the specific microphone.
+
+	
+
+	
+
+	As for the results of any sort of real-time shootout, here are two cautionary examples. First, an important audio difference that may be heard is the relative signal-to-noise ratio of different wireless systems. Again, in order to make a proper comparison it is necessary to set the optimum gain structure for each wireless system. To do this requires some familiarity with each wireless system. It is quite easy to compromise the gain settings on a wireless system to degrade its apparent signal-to-noise ratio. The proper gain structure is a critical part of any such evaluation as is an overall equal loudness requirement.
+
+	
+
+	
+
+	Second, a radio performance issue that is often the subject of a shootout is range. Since this is highly dependent on antennas, antenna placement, power levels, squelch settings and possible interference levels it is nearly impossible to setup a truly comparable evaluation in the field. For systems with similar power levels and similar antenna efficiencies any sort of transmission distance contest is not likely to show significant differences. If it does, then there are likely other uncontrollable factors at work. Single system outdoor range capability has little relationship to performance in a large, indoor, multi-channel wireless installation.
+
+	
+
+	
+
+	Ultimately, any good diversity receiver with a properly chosen and positioned set of antennas and tuned to a compatible frequency should be able to cover a given area regardless of the details of the local environment.
+
+	
+
+	
+
+	For comparable specification/price equipment, a shootout will not usually demonstrate either product to be substantially superior or inferior in overall performance. At best, it may reveal some subjective differences or preferences that may or may not be important in the long term.
+
+	
+
+	Tim Vear
+
+	Senior Applications Engineer
+
+	September 2008
+

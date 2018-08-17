@@ -1,0 +1,18 @@
+Title: Wireless noise problem
+Id: 798
+Legacy Id: 820
+
+Question:
+I am happy to use your wireless system model L4 Diversity Marcad Diversity, but it has a little problem for me, some time it has a noise like fire cracker, that no good when we singing. Some of my friend  said that is the battery problem, when I put a new battery, it had a same problem, I ask for more information from some people, they said that is the noise problem, and it maybe come from handphone or some has use the transformer. At last, I hope sir that you can answer my question. Isn't it need to add a filter or booster, or some thing is very important that I must do but I didn't know. 
+
+Answer:
+
+	Interference on wireless mic systems is very difficult to troubleshoot. We suggest you read the following link for help with your problems:
+
+	
+
+	Selection and Operation of Wireless Microphone Systems
+
+	
+	A filter or booster is not the answer to your problem.
+

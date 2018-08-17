@@ -1,0 +1,12 @@
+Title: Orientation of QuietSpot microphone?
+Id: 2995
+Legacy Id: 3123
+
+Question:
+I notice one side of the microphone has a 1 imprinted on the plastic, and the other side a 2. Which side should be facing my mouth when I talk (or should I talk into the side of the microphone)?
+
+
+Answer:
+
+	Speak into the flat part of the mic, that has a hole in the center AND has 3 concentric arcs molded into the plastic on both sides of that hole. These arcs represent sound waves from your mouth.
+

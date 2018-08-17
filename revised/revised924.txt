@@ -1,0 +1,14 @@
+Title: Microphone or pick up for uilleann pipes chanter
+Id: 924
+Legacy Id: 952
+
+Question:
+I play in a band with a mix of electric, direct inputs: electric guitar, bass guitar, acoustic guitar with a direct. The sound man often loses the chanter in the mix. Do you have a mic that could go inside the chanter top and pick up the chanter reed? I tried this once in a store and the tiny microphone amplified every squeeze and wheeze of the air from the bag and bellows. Thanks.
+
+
+Answer:
+
+	Any mic placed into the chanter will pick up all air movement (sound). A mic cannot distinguish between the sounds you want to hear and sounds you do not want to hear.
+	
+	Therefore, we suggest a flat response condenser mic (like the Shure SM81 or KSM137), mounted on a boom arm, and aimed at the chanter. Experiment with different mic placements to find the sound you want.
+

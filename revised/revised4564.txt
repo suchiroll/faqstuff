@@ -1,0 +1,15 @@
+Title: V15 Type III - Color of the printed lettering
+Id: 4564
+Legacy Id: 5689
+
+Question:
+I am using Shure V15 type III with yellow letters(yellow colored logo). And there is a Shure V15 type III with white letters. Some people say that the latter ones were produced later than the former and are better for listening to classical music. Is there any difference between the two colors?
+
+Answer:
+
+	Shure has samples of the V15 Type III. Some have yellow lettering. Some have white lettering. We find NO data to indicate any difference between the two, EXCEPT for the color of the printing.
+	
+	Hypothesis: The yellow lettering was used on V15 III cartridges that were sold to turntable manufacturers. The yellow V 15 III units came pre-installed on the different turntables.
+	
+	As the V15 III stylus can be used on any and all V15 III cartridge bodies, the bodies must be the same internally.
+

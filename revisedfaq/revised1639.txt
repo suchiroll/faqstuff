@@ -1,0 +1,15 @@
+Title: Mic for recording books on tape
+Id: 1639
+Legacy Id: 1696
+
+Question:
+We are curently doing a lot of audio cassette books and I need a mike that is omni directional and can be used in the center of a table and pick up voices in a full circle.The mike needs to have a very short range as not to pick up sound outside of the room. Is there such a thing?
+
+
+Answer:
+
+	1) KSM44; set to omni pattern; requires phantom power
+	2) MX393/O; requires phantom power
+	3) SM63
+	4) VP64A mic cannot distinquish between the sound you do want (the readers) and the sound you do not want (the outside sounds). If you can hear it, so can the mic.We suggest you read: Audio Systems Guide for Video Production 
+	The audio principles in this book apply to your situation.

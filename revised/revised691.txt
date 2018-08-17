@@ -1,0 +1,15 @@
+Title: Handheld does not work.
+Id: 691
+Legacy Id: 708
+
+Question:
+I have an SM58 wireless which operates on the same receiver as a wireless lavalier.  Now that I have the lavalier working I can no longer get a signal from the handheld SM58.  I have the settings all correct, but I get no response at all.  Is there something I can do to make this work?  I know that you cannot use both microphones at the same time.  Is it possible the SM58 is in need of repair?
+
+Answer:
+
+	It does sound as though the handheld needs to be sent in to our Service Department. You have verified that the receiver works by testing it with the bodypack. Thus, the only other possibility is that the handheld has broken and needs repaired.
+	
+	For repair or parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/service
+

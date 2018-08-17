@@ -1,0 +1,14 @@
+Title: Classical guitar and wireless microphones - who uses it?
+Id: 1256
+Legacy Id: 1303
+
+Question:
+What is recommended if I want to use a wireless microphone on my classical guitar?
+
+
+Answer:
+
+	Concert guitarist Sharon Isbin amplifies her acoustic guitar with a Shure wireless SC system so there are no wires and no permanent electronics mounted on her guitar. The wireless system uses a small microphone that is placed in the soundhole along with the units transmitter, which is wrapped in foam. The signal is transmitted to a box that houses the receiver, an amplifier, a 15-band equalizer, and two Celestion speakers, and the whole system is powered by cell batteries rather than AC power to avoid ground hum. The box, which is placed about ten feet behind Isbin on stage, is ported to provide omnidirectional sound for orchestral performances and solo concerts in halls with more than 400 seats.
+	
+	This information is based on an article in Acoustic Guitar magazine - July 2001.
+

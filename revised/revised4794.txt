@@ -1,0 +1,17 @@
+Title: Motiv Device - Noise and Static with iPad Mini
+Id: 4794
+Legacy Id: 5979
+
+Question:
+I'm hearing noise and static when I record in GarageBand. I'm using a Motiv mic and an Apple iPad Mini. Advice, please.
+
+
+
+Answer:
+
+	Shure has encountered a scenario when using the MV5, MV51, MVi, and MV88 with a first-generation iPad Mini (model MD528LL/A) running iOS version 9.1.When monitoring is enabled in GarageBand, the recording exhibits either a continuous or bursting noise.
+	
+	Apparently, this was an issue with the iOS 9.1 update.It is caused by the iPad itself, not the attached accessory; Shure has recreated the scenario with USB/iOS mics from other manufacturers as well.
+	
+	This issue appears to have been resolved with the iOS 9.2 update.
+

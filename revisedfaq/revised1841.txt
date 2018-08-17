@@ -1,0 +1,21 @@
+Title: Connecting SM57 and SM58 microphones to a +4 dBu input
+Id: 1841
+Legacy Id: 1901
+
+Question:
+I need to be able to connect an SM57 and/or and SM58 to a device with the following characteristics. I do not know how to translate from the microphone specs to these specs. I suspect I need a transformer, and I was hoping you could recommend an appropriate Shure transformer.
+
+Nominal input level: +4dBu
+Maximum input level: +18dBu
+Input impedence: 10K
+Connector: TRS (balanced)
+
+(If it matters, the device is an Echo MIA sound card.)
+
+Answer:
+
+	You need more than a transformer. The output of the SM58 is only -54 dBu. A transformer would only boost the signal about 20 dB, so that would not boost the level up to +4 dBu. You need a mic to line amp. See the following links for more information.
+	
+	Transformers - When do you need one?
+	How to connect an SM58 to a computer sound card.
+	Mic and Line Level - What do they mean?

@@ -1,0 +1,16 @@
+Title: Microphone Connection into a USB Port
+Id: 4856
+Legacy Id: 6043
+
+Question:
+Can an analog wired microphone, like a Shure SM58, be connected directly into a USB port using only passive adapters?
+
+
+Answer:
+
+	No.
+	
+	The analog microphone signal must be converted into a digital signal that is USB compatible. A device that does this analog-to-digital conversion is known as an interface. The Shure X2U and MVi are interface devices which provide this conversion.
+	
+	There are also inexpensive XLR-to-USB adapter cables available, but these are not passive devices like most cables. Inside of this type of cable there is an active analog-to-digital interface activated by the DC power supplied from the computers USB port.
+

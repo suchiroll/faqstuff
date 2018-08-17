@@ -1,0 +1,13 @@
+Title: Differences between Beta 87A and Beta 87
+Id: 253
+Legacy Id: 259
+
+Question:
+Are these different microphones?
+
+I bought a Beta 87 and the shop owner was adamant that this is the same as the Beta 87A. I am a little suspicious because the box it comes in is quite old.
+
+
+Answer:
+
+	The only difference between the Beta 87 and the Beta 87A is the diameter of the handle. On the Beta 87A, we increased the diameter of the handle so that the microphone can be used with standard microphone clips. The electronics and element are exactly the same between the two microphones.

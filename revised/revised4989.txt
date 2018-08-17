@@ -1,0 +1,12 @@
+Title: Does MXA910 have Auto-tracking capability?
+Id: 4989
+Legacy Id: 6257
+
+Question:
+Does the MXA910 Ceiling Array do "auto-tracking"?
+
+
+Answer:
+
+	The MXA910 allows you to deploy up to eight highly directional lobes throughout the room. By using the built-in automatic mixing (part of the IntelliMix DSP Suite), the microphone will manage itself and only activate the correct pick-up area for the appropriate talker when they speak, as well as follow a talker as they move from lobe to lobe.So the lobes themselves dont move, but the microphone activates the correct lobe based on the talker position. Similarly, an external automixer can be used in the same way, but allows the flexibility to process each lobe independently.
+

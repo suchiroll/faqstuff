@@ -1,0 +1,12 @@
+Title: Does DIS-CCU include button overlays?
+Id: 4836
+Legacy Id: 6022
+
+Question:
+Does the DIS-CCU central control unit ship with Chairman and Interpreter button overlays for the DC 5980 P portable discussion unit, like the CU 5905 central unit did?
+
+
+Answer:
+
+	No.The DIS-CCU may be used with a variety of 5900-series and 6000-series conference units that each use different button configurations.The Chairman and Interpreter button overlays for the DC 5980 P discussion unit are sold separately as model DC5980P-ACC-CM-IS, which includes 2 Chairman overlays and 3 Interpreter overlays.Delegate button overlays are still included with each DC 5980 P.
+

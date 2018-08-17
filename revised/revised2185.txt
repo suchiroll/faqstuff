@@ -1,0 +1,16 @@
+Title: Electret and Phantom power for Microflex Mics
+Id: 2185
+Legacy Id: 2258
+
+Question:
+I'm presently going to purchase 2 of your microflex gooseneck microphones for use in our house of worship. The spec sheet data states that these are condensor microphones and are built with a term "electret" microphone. Does this have any affect on using them with the phantom power of the mixer I am using, in other words is there an additional power source such as a battery or other power I must use as well at the podium where it is mounted?
+
+
+Can I just power these gooseneck mics (MX series) with just the phantom power provided by the mixer? or do I need another pre-amp as well...
+
+
+
+Answer:
+
+	The phantom power from your mixer is all that is required to power the Microflex models.
+

@@ -1,0 +1,14 @@
+Title: Microscope to check stylus
+Id: 2634
+Legacy Id: 2736
+
+Question:
+Is there a stylus checking gauge (microscope) available to check the condition of a stylus? Does Shure have one available?
+
+
+Answer:
+
+	Until 1980, Shure sold the SEK-2 microscope for stylus inspection. We no longer sell such a product.
+	
+	The SEK-2 was capable of 100 to 200 times enlargement of the stylus. It featured two lamps to illuminate the stylus and a stylus mounting block. You might find one on e-bay. Or use a microscope with similar specifications.
+

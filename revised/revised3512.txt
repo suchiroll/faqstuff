@@ -1,0 +1,28 @@
+Title: PA720 wiring - cable for P9HW and P6HW
+Id: 3512
+Legacy Id: 3713
+
+Question:
+What is the wiring scheme for the PA720 cable?
+
+
+Answer:
+
+	Five pin LEMO:
+	pin 1= cable shield
+	pin 2 = red
+	pin 3 = black
+	pin 4 = clear
+	pin 5 = blue
+	LEMO part number: FGG.0B.305.CLAD.52 (not available directly from Shure)
+	
+	Female XLR Left
+	pin 1 = cable shield
+	pin 2 = red
+	pin 3 = clear
+	
+	Female XLR Left
+	pin 1 = cable shield
+	pin 2 = blue
+	pin 3 = black
+

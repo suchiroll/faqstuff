@@ -1,0 +1,11 @@
+Title: My UT guitarist feeds back in heavy channel.
+Id: 138
+Legacy Id: 138
+
+Question:
+I have a UT series "the guitarist". When I play through my clean channel, I have no unwanted noise. But when I play through my heavy channel, I get all kinds of loud types of heavy feedback. I've tried to turn down the gain settings,new battery,etc... But still no difference.
+
+Answer:
+
+	If the UT system is performing fine through your clean channel, than obviously the UT is performing fine through the other channel. It sounds like your processors and effects boxes/pedals are providing too much gain and causing feedback. It does not sound like this has anything to do with the wireless system. If you replace the UT system with a 1/4 cable, what does your heavy channel sound like? Does it still cause the heavy feedback? That would be a good indication that the wireless system is fine, but the other components are causing the problem. With complex problems such as this, it might be better for you to call the Applications Engineering Department at 800-516-2525 or 847-600-8440.
+

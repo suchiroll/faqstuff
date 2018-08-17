@@ -1,0 +1,29 @@
+Title: 1980's V15V MR vs. 2002 V15 VxMR
+Id: 2399
+Legacy Id: 2491
+
+Question:
+What is the difference?
+
+
+I have the older version now and suspect elastomer failure in process in the suspension.
+
+
+Will the new stylus replace the old?
+
+
+Should I go all the way to a 2002 cartridge and why?
+
+
+
+Answer:
+
+	What is the difference?
+	* A minor difference in the high frequency response.
+	
+	Will the new stylus replace the old?
+	* No. You require the VN5MR.
+	
+	Should I go all the way to a new cartridge and why?
+	* No. The difference is slight and not worth the extra expense to most customers.
+

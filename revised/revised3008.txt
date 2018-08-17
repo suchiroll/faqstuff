@@ -1,0 +1,14 @@
+Title: Microphones for two-way radios
+Id: 3008
+Legacy Id: 3137
+
+Question:
+Could you please advise a replacement mobile microphone suitable for the Maxon radios?
+
+
+Answer:
+
+	Due to a rapidly declining market, Shure is exiting the two-way radio/mobile communications business as of December 2004.
+
+	Telex Communications (www.telex.com) may be able to provide you with an acceptable solution.
+

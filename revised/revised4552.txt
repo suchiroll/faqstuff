@@ -1,0 +1,15 @@
+Title: Function of RK100PK in-line preamp
+Id: 4552
+Legacy Id: 5675
+
+Question:
+I received a RK100PK IN-LINE PREAMPLIFIER with my MX150/O Sublav microphone. Could you please give a brief overview of what it does and what situations call for it?
+
+Answer:
+
+	If the MX150 is to be used as a wired mic, the RK100PK must be employed.
+	
+	The RK100PK requires phantom power to operate.Phantom power is provided by the mic mixer.
+	
+	The RK100PK converts the mic element signal (unbalanced and medium impedance) into a signal that is balanced and low impedance.
+

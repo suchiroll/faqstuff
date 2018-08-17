@@ -1,0 +1,18 @@
+Title: Other ball grills for the SM58
+Id: 2758
+Legacy Id: 2865
+
+Question:
+Are there other Shure mic ball grills that will fit the SM58 handle?
+
+
+Answer:
+
+	These grills fit the SM58 handle:
+	Beta 57A
+	Beta 58
+	
+	These grills do NOT fit the SM58 handle:
+	Beta 87A
+	SM87
+	SM86

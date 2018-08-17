@@ -1,0 +1,18 @@
+Title: Will a phantom power mic work with a 1/4" input?
+Id: 1016
+Legacy Id: 1045
+
+Question:
+I wanted to inquire about phantom power. I read your small thing about it and am not sure about some of the language. If a mic uses phantom power, but the mixer doesn't have an XLR input...will it still work correctly? A mic I want to get uses 48 volts of phantom power, but I don't have a mixer that has the XLR jack...just a typical one inch jack. Will it still work to its best ability?
+
+
+Answer:
+
+	If a mic requires phantom power, but the mixer doesnt have an XLR input...will it still work correctly?
+	
+	* Phantom power is typically supplied only by a mixer with an XLR input. If the mic requires phantom to operate and not phantom is present at the mixer input, the microphone will not produce a signal.
+	
+	A mic I want to get uses 48 volts of phantom power, but I dont have a mixer that has the XLR jack...just a typical 1/4 inch jack. Will it still work to its best ability?
+	
+	* You must purchase an external 48 volt phantom supply. The mic connects to this device. The output of the phantom supply connects to your mixer. In general, mixers that only have 1/4 phone jack inputs are not of professional quality. The mixer will be the weakest link in your signal chain.
+

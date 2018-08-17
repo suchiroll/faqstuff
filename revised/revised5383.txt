@@ -1,0 +1,11 @@
+Title: Article about Bit Depth, Bit Rate, and Signal To Noise
+Id: 5383
+Legacy Id: 5454
+
+Question:
+Article about Bit Depth, Bit Rate, and Signal To Noise
+
+Answer:
+
+	http://www.sonicscoop.com/2013/08/29/why-almost-everything-you-thought-you-knew-about-bit-depth-is-probably-wrong/#_
+

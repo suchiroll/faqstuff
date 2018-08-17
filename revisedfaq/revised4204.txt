@@ -1,0 +1,14 @@
+Title: SBC-DC to RemoteAudio BDS
+Id: 4204
+Legacy Id: 5171
+
+Question:
+I am considering adding a pair of UR5 receivers to my production sound mixing bag. However, I need them to be able to be powered by my RemoteAudio BDS battery distribution system. I see that you guys offer the SBC-DC battery insert, but how do you recommend I convert the cable over to the BDS? Also, will the battery insert take care of padding down the DC power (usually around 14v) from the BDS? RemoteAudio offers a cable which is used to power two Lectrosonics receivers from the BDS. I would like to be able to use this same cable to power two UR5 receivers.
+
+Answer:
+
+	The SBC-DC was designed for use with our PS41 power supply, for fixed AC-power applications. However, the supplied adapter will interface with the Lectrosonics cable mentioned. One important note: the Lectrosonics cable is not a locking connector, like the one on the Shure cable (the PS41 has a locking connector as well). Consider taping the two ends together for a more secure connection.
+	
+	The SBC-DC itself will work with voltage from 8 to 20 V DC.
+	
+

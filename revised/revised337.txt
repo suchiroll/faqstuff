@@ -1,0 +1,18 @@
+Title: R47EDT cartridge with N78S stylus?
+Id: 337
+Legacy Id: 344
+
+Question:
+Will the R47EDT cartridge accept the N78S stylus?
+
+
+Answer:
+
+	The R47EDT is the same as the Shure model M75ED. The N78S stylus will not fit it.
+	
+	However, the N75B Type 2 replacement stylus will fit your R47EDT.
+	
+	The N75B Type 2 replacement stylus has a spherical tip like the N78S; it tracks at 1.5 to 3 grams like the N78S; but it has a smaller diameter (0.6 mils) than the N78S (2.5 mils). This means it will ride at the bottom of the groove. The result would be increased surface noise and distortion when playing the record. According to the 1959 version of the Audio Cyclopedia, the standard diameter for a 78 rpm stylus is 2.3 mils.
+	
+	You can try the N75B Type 2 replacement stylus and if you like the results, great! However, it does not have the recommended diameter for tracking a 78 rpm record groove.
+

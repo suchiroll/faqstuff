@@ -1,0 +1,18 @@
+Title: Would a SM58 sound ok plugged into a regular guitar amp?
+Id: 170
+Legacy Id: 171
+
+Question:
+I am about to buy an the SM58 but I need a good recommendation of what to plug it into. Would a regular electric guitar amp work, or would I need a different kind of amp? If so, what would you recommend?
+
+Also, I have one other question. What advantages does the Beta 58A have over the SM58?
+
+
+Answer:
+
+	You would not be able to plug the SM58 directly into the normal input of a guitar amplifier, unless you added a ShureA95UF transformer to the end of the mic cable. This transforms the SM58 low impedance, balanced signal into a high impedance, unbalanced signal similar to a guitar signal.
+	
+	Our best suggestion, however, it to get a piece of equipment that has an XLR microphone input will work perfectly fine with the SM58. The connector on the SM58 is called an XLR.
+	
+	The Beta 58A has a supercardioid pattern, the SM58 has a cardioid pattern. The Beta 58A has a hardened grill, the SM58 does not. The Beta 58A has a neodymium magnet for a little hotter output. The Beta 58A has a better internal shock mount. The Beta 58A has a little bit more extended high frequency response. The microphone are two different tools. Some people prefer the SM58, some people prefer the Beta 58A. Its all personal preference.
+

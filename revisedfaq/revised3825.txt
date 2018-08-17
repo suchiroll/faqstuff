@@ -1,0 +1,16 @@
+Title: Shure TTR-107 test record
+Id: 3825
+Legacy Id: 4063
+
+Question:
+What was the TTR-107 test record?
+
+
+Answer:
+
+	Created in 1972, the TTR-107 was a 45 rpm recording on a 7 disc. The TTR-107 was designed to test output level and channel crosstalk. Both sides of the record were the same. It was not a consumer test record.
+	
+	Sine wave signals were recorded at 1kHz with a 5cm/second peak velocity. The record bands alternated between left and right channel recordings. The record label had a strobe pattern for setting turntable speed.
+	
+	Sorry, the TTR-107is no longer available.
+

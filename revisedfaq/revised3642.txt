@@ -1,0 +1,11 @@
+Title: Hardening of the earphone cable - prevention?
+Id: 3642
+Legacy Id: 3850
+
+Question:
+I have some Shure earphones.What is the proper care of the leads to the earbuds, and wires? I am concerned about the covering to the wire hardening.
+
+
+Answer:
+
+	Hardening is a factor of how your body oils and body chemistry react with the insulation coating on the wire. Hardening of the cable does not occur with most people, and always occurs eventually with some people.  Shure has yet to find an  appropriate cable insulation that is immune to all body oils and chemistry, but we keep looking. To slow down hardening, wipe off the wire with a cloth after each use, and before the earphones are stored.  Once or twice a month, wipe off the wire with a cloth that is moistened with water and Dawn dish-washing liquid.  Use Dawn as it removes grease and oil.

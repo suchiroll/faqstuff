@@ -1,0 +1,20 @@
+Title: RMCE-LTG and RMCE cables for SE Series Earphones
+Id: 5045
+Legacy Id: 6338
+
+Question:
+What are the RMCE-LTG and RMCE accessory cables?
+
+
+Answer:
+
+	January 2017-Shure announced the launch of two audio accessory solutions for Shure earphone customers.
+	
+	The new Remote + Mic Lightning Accessory Cable (RMCE-LTG - $99.99 U.S. retail) features an inline DAC and stereo headphone amplifier for use with any Apple device using iOS (iPhone, iPad, iPod) with a Lightning connector. Employing the Apple-certified Lightning Audio Module, three-button remote and mic, the Shure Remote + Mic Lighting Accessory Cable brings together the benefits of digital audio and convenience. This Remote + Mic Lightning Accessory Cable features MMCX connectors, providing digital iOS compatibility for all detachable SE Sound Isolating earphones.
+
+	* NOTE: The iPod Nano is NOT COMPATIBLE with the Shure RMCE-LTG cable. (The iPod Nano does not use iOS. It uses a custom software that is simulates iOS.)
+	
+	The new Remote + Mic Accessory Cable (RMCE - $29.99 U.S. retail) is designed for detachable SE earphones and Apple devices with 3.5mm TRRS connectors. This cable features a three-button remote/mic pod that enables listeners to conveniently control device playback, volume, and the sending/receiving of calls.
+	
+	Both cables work with SE215, SE315, SE425, SE535, and SE846.
+

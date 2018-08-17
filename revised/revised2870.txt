@@ -1,0 +1,22 @@
+Title: Permanent, secure mounting of MX412D, MX418D, MX392, MX393
+Id: 2870
+Legacy Id: 2983
+
+Question:
+We have a hearing room project where we need gooseneck-type microphones with a built-in push-to-mute button. We think a button on the base of a stand would be easier to operate than a button on the side of the XLR barrel.
+
+Looking at the MX418D, I see how you can slide the microphone onto a couple screws. Is it possible to install this microphone in a more "permanent" fashion that would prevent someone from sliding it off of the screws and also enable the cable to pass out of sight thru a hole in the table below the base?
+
+
+Answer:
+
+	Heres how; the method applies to older Shure microphones with keyhole slots on the bottom.
+	
+	Use the MX412D baseplate as a placement template. Identify the permanent location of the mics mounting screws and measure the thickness of the mounting surface at those exact points. Then select a bolt long enough to go all the way through and extend below the mounting surface. Choose a nut for the bottom of that bolt, plus a washer larger than the hole diameter that will be drilled. We also recommend using a washer under the actual bolt head to ensure that a persistent person still couldnt force the mic towards the larger opening of the baseplates keyhole.
+	
+	Drill the holes, install the bolts first into the MX418D when the baseplate is off, re-fasten the baseplate of the MX418D, and lower the bolts through the mounting holes. Then, tighten in place with washer and nut beneath the mounting surface.
+	
+	Important note: Depending on the mics placement relative to the chair placement at the table/desk, watch out for the potential of the mounting bolt protruding too much below the surface - a knee hazard. If this is a concern, select a bolt length shorter than the thickness of the mounting surface and countersink the hole underneath to a depth sufficient to conceal the nut and washer, and also for the outer diameter of the hex wrench needed to tighten the countersunk nut.
+	
+	Regarding passing the cable out the bottom, this can be done by bending the MX412D cable 90 degrees and drilling a hole for it. To avoid soldering, unscrew the leads of the cable from the terminals in the mic while doing the permanent mounting procedure, and bring the cable back up through the table and reattach to the mics screw terminals before reinstalling the baseplate of the mic.
+

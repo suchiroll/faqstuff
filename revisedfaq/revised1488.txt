@@ -1,0 +1,36 @@
+Title: How to connect a mic to a 10k mic input?
+Id: 1488
+Legacy Id: 1541
+
+Question:
+I am currently looking for a microphone to connect to the audio input of an audio/video encoder card from Optibase (MM200). This microphone is targeted to a presenter for live broadcasting and recording in MPEG Layer-2. I have been through your web site and read some of your litterature and now have a few questions. Basically, I am thinking at a wired microphone such as a 588SDX or a
+
+BG1.1 with the A85F transformer.
+
+
+The issue I have is with the impedance matching between the microphone and the encoder card which uses an unbalanced analog input rated at 10kohm. I have read your FAQ but I am still unclear regarding impedance matching.
+
+
+1) What is the high impedance range (it is not indicated in your brochures) for your dual impedance microphones such as the 588SDX?
+
+2) Does the A85F transformer is high enough for a 10kOhm input?
+
+3) What other microphones would you recommend for my application?
+
+
+Answer:
+
+	1) What is the high impedance range (it is not indicated in your brochures) for your dual impedance
+	microphones such as the 588SDX? * Typically, around 15,000 ohms.
+	
+	2) Does the A85F transformer is high enough for a 10kOhm input? * Actually, it is too high
+	
+	3) What other microphones would you recommend for my application? * Find out the input sensitivity of the audio/video encoder card. This is the signal level (in volts or millivolts) that the mic must deliver for the encoder card to work properly. Advise us of this number and we will recommend a mic model.
+	
+	4) * Or buy an interface preamp like the Audio Buddy from www.midiman.com. Connect any professional mic you want to the Audio Buddy, and its adjustable output level will satisfy the encoder card mic input no matter what input sensitivity is rated.
+	
+	More information:
+	
+	Should I match impedances of my microphone to my mixer?
+	Transformers - When to use and how does it work?
+

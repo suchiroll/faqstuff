@@ -1,0 +1,15 @@
+Title: Site Survey for RF Activity
+Id: 3575
+Legacy Id: 3781
+
+Question:
+My company wants to install over 20 wireless mic systems. Before we do, we'd like to hire a company to survey our building site for RF activity and possible RF interference sources. Does Shure offer this service?
+
+
+Answer:
+
+	Shure does not offer this service. However, this service is offered by the following:
+	
+	T.C. Furlong Professional Audio Specialists.
+	Clean Wireless Audio
+

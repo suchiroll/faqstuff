@@ -1,0 +1,256 @@
+Title: MXW Ports and Protocols
+Id: 4930
+Legacy Id: 6188
+
+Question:
+What ports and what protocols are used by Microflex Wireless?
+
+
+Answer:
+
+	Open Ports  Protocols
+
+	
+		
+			
+				Port
+			
+				TCP/UDP
+			
+				Protocol
+			
+				Description
+			
+				Factory Default
+		
+		
+			
+				68
+			
+				UDP
+			
+				DHCP
+			
+				Access to DHCP server
+			
+				Open
+		
+		
+			
+				80
+			
+				TCP
+			
+				HTTP
+			
+				Required to launch embedded web server GUI
+			
+				Open
+		
+		
+			
+				427
+			
+				TCP  UDP
+			
+				SLP
+			
+				Required for service discovery
+			
+				Open
+		
+		
+			
+				843
+			
+				TCP
+			
+				Flash
+			
+				Required for embedded Adobe Flash GUI (MXW)
+			
+				Open
+		
+		
+			
+				2202
+			
+				TCP
+			
+				
+			
+				Required for 3rd part control strings
+			
+				Open
+		
+		
+			
+				5353
+			
+				TCP
+			
+				mDNS
+			
+				Required for device control
+			
+				Open
+		
+		
+			
+				5568
+			
+				UDP
+			
+				SDT
+			
+				Required for device control
+			
+				Open
+		
+		
+			
+				8023
+			
+				TCP
+			
+				Telnet
+			
+				Debug console interface
+			
+				Password
+		
+		
+			
+				8180
+			
+				TCP
+			
+				Flash
+			
+				Required for embedded web server GUI (MXW)
+			
+				Open
+		
+		
+			
+				8427
+			
+				UDP
+			
+				Multicast SLP
+			
+				Required for service discovery
+			
+				Open
+		
+		
+			
+				64000
+			
+				TCP
+			
+				
+			
+				Shure firmware update port
+			
+				Open
+		
+		
+			
+				162
+			
+				UDP
+			
+				SNMP
+			
+				Used by Dante
+			
+				Open
+		
+		
+			
+				319-320
+			
+				UDP
+			
+				PTP
+			
+				Precision Time Protocol used by Dante clocking
+			
+				Open
+		
+		
+			
+				4321
+			
+				UDP
+			
+				
+			
+				Used by Dante audio
+			
+				Open
+		
+		
+			
+				4440-4455
+			
+				UDP
+			
+				
+			
+				Used by Dante
+			
+				Open
+		
+		
+			
+				5353
+			
+				UDP
+			
+				mDNS
+			
+				Used by Dante
+			
+				Open
+		
+		
+			
+				8700-8706
+			
+				
+			
+				
+			
+				Used by Dante
+			
+				Open
+		
+		
+			
+				14336-14591
+			
+				UDP
+			
+				
+			
+				Used by Dante audio
+			
+				Open
+		
+		
+			
+				16000-65536
+			
+				UDP
+			
+				
+			
+				Used by Dante
+			
+				Open
+		
+	
+
+

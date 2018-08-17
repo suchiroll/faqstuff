@@ -1,0 +1,11 @@
+Title: ULX-D and Ethersound
+Id: 4541
+Legacy Id: 5663
+
+Question:
+We’re interested in purchasing the Shure ULX-D wireless receiver and the question I have is – Will this be compatible with EtherSound (ES100)? Your brochure only mentions compatibility with Dante systems. We are using a Yamaha M7CL- 48ES board with EtherSound ES100.
+
+Answer:
+
+	Sorry, the ULXD is not compatible with Ethersound. ULXD Dual and Quad receivers feature only Dante.
+

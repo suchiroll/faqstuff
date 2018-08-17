@@ -1,0 +1,11 @@
+Title: "*" after frequency in the AXT400 display
+Id: 3846
+Legacy Id: 4086
+
+Question:
+In the display of my AXT400 receiver, there is an "*" after the frequency. What does the "*" indicate?
+
+
+Answer:
+
+	The "*" indicates the frequency was manually selected on the receiver, and is not part of the compatible list from the AXT600 spectrum manager. If the spectrum manager supplies a frequency to the receiver, it will not be followed by an "*".

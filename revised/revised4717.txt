@@ -1,0 +1,10 @@
+Title: Motiv MV88 won't power on when used with an iOS device
+Id: 4717
+Legacy Id: 5887
+
+Question:
+MV88 won't power on when used with an iOS device. Ideas?
+
+Answer:
+
+	Find the Motiv app in "Settings" on the iOS device, and make sure that "Microphone" is set to "On" under "Allow Motiv To Access"

@@ -1,0 +1,11 @@
+Title: Longer cable for P6HW?
+Id: 2754
+Legacy Id: 2861
+
+Question:
+What is the length of the P6HW cable? Is it possible to get a longer cable?
+
+
+Answer:
+
+	The PA720 is 10 feet. The cheapest and easiest way to extend it is by adding two standard XLR mic cables. Shure does not offer a longer version of the PA720.

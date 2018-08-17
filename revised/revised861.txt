@@ -1,0 +1,14 @@
+Title: Beyer MCE10.09 mic to Shure transmitter
+Id: 861
+Legacy Id: 888
+
+Question:
+How do I connect a Beyerdynamic MCE10.09 microphone to the TA4M connector of a Shure bodypack?
+
+
+Answer:
+
+	The information at the following link should also work for the Beyer MCE10.09.
+
+	How do I connect a Beyer TG-X35, TG-X30, or DT 297 to a Shure bodypack?
+

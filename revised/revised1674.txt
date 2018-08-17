@@ -1,0 +1,18 @@
+Title: Troubleshooting static on wireless mic.
+Id: 1674
+Legacy Id: 1731
+
+Question:
+System purchased in 97 or 98. Frequency: V (169.445) MHz. Used for aerobics instruction. Not used in more than a year. Has static seeming to originate from either mic or transmitter, gets worse when I manipulate the antenna and/or cord that connects mic to transmitter.
+
+
+Best guess?
+
+
+Thanks very much.
+
+
+Answer:
+
+	Wireless systems are nearly impossible to troubleshoot over email. Please call our Applications Engineering department during normal office hours at 800-516-2525 (then press option #4) or 847-866-2525.
+

@@ -1,0 +1,11 @@
+Title: LX4 Output level
+Id: 1934
+Legacy Id: 1996
+
+Question:
+What is the voltage (RMS) maximum output voltage (RMS) for the LX receiver on the line/mic output before clipping?
+
+
+Answer:
+
+	At line level, maximum output is around +4dBV (1.6 volts); at mic level -16dBV (0.16 volts).

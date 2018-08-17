@@ -1,0 +1,12 @@
+Title: L Series - Difference in products
+Id: 1080
+Legacy Id: 1115
+
+Question:
+Is there any difference between a L4-R/L1-R and a L4-CQ/L11-CQ? I notice that the transmitter on the L1-R is longer other than that I don't see any difference. Because of a frequency conflict I need to replace one with the other and want to make sure that there is no problem.
+
+
+Answer:
+
+	The L1 had some minor circuitry differences from the L11. The L series was replaced by the LX series.
+

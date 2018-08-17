@@ -1,0 +1,16 @@
+Title: M91ED and M93E - stylus compatibility?
+Id: 2410
+Legacy Id: 2502
+
+Question:
+Is stylus of M91ED and M93E exchangeable? The shape looks same? What is the track force for M93E's (N93E) stylus?
+
+
+Answer:
+
+	Is stylus of M91ED and M93E exchangeable?
+	* Yes.
+	
+	What is the track force for M93Es (N93E) stylus?
+	* 1.5 grams to 3 grams.
+

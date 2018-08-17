@@ -1,0 +1,17 @@
+Title: Shure PSM700's w/ Antenna combiner
+Id: 1030
+Legacy Id: 1060
+
+Question:
+We own 9 PSM700's w/ 3 antenna combiner/dist. amps in out church. I was told that due to the strength of the transmitter output (100mW) that it is not recommended that we use the distribution amp/ antanna combiners. Is this true?
+
+
+We have a distance of about 100 ft from stage to transmitter.
+
+
+Answer:
+
+	ThePA421SWB and PA821SWBantenna combiners can hande up to 100mW of RF power per input. There should be no problem with your configuration.
+	
+	You also mention distribution amplifiers. Please clarify with model numbers and where in the signal chain these amps are located.
+

@@ -1,0 +1,15 @@
+Title: SLX4 receiver - defective PS21US power supply - symptoms
+Id: 3723
+Legacy Id: 3956
+
+Question:
+I believe the PS21US power supply for my SLX4 receiver is defective or starting to fail. What are the symptoms?
+
+
+Answer:
+
+	1) Flashing SLX4 LCD panel (almost fully on to fully off) and Audio Frequency noise output that is consistent in repetition with the flashing.
+	2) Faint flickering in the LCD panel, dim backlight, and sometimes no Audio output from the receiver.
+	3) Flashes of full Audio Frequency LED's, and simultaneous flashing of "Ready" indicator, plus no Audio output from the receiver.
+	
+	Any of the above can indicate a faulty PS21US power supply.

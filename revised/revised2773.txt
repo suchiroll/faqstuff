@@ -1,0 +1,41 @@
+Title: Specifications SHURE V15 III
+Id: 2773
+Legacy Id: 2881
+
+Question:
+I would like to have the complete specifications of this particular cartridge.
+
+
+Answer:
+
+	Tip
+	* Diamond Elliptical (0.2 mil x 0.7 mils)
+	
+	
+	Weight
+	* 6 grams
+	
+	Stylus pressure
+	* 0.75 to 1.25 grams
+	
+	compliance
+	* 30 x 10 (-6) cm/dyne of force
+	
+	separation of channels
+	* 28 dB at 1,000 Hz
+	
+	frequency range
+	* 10 - 25,000 Hz
+	
+	inductance
+	* 500 millihenries nominal
+	
+	dc resistance
+	*1,350 ohms
+	
+	vertical angle
+	* 15 degrees
+	
+	output level
+	* 3.5mV at 1,000 Hz - 5 cm/sec peak velocity
+

@@ -1,0 +1,12 @@
+Title: M35 Styli replacement
+Id: 977
+Legacy Id: 1006
+
+Question:
+Hi, I have M35X cartridges and was wondering if replacing the stylus with the N35S styli would improve or change any performance levels, or is this at all possible?
+
+
+Answer:
+
+	The N35S tracks at 3 to 5 grams. The N35X tracks at 1.5 to 3 grams. The N35S will fit the M35 body. The N35S will not improve performance; it simply lets you track records at a higher tracking force.
+

@@ -1,0 +1,11 @@
+Title: Is the KSM32 suitable for gigs?
+Id: 323
+Legacy Id: 330
+
+Question:
+Is the KSM32 rugged enough to use on a regular performance basis? Any disadvantages to using the KSM32 in clubs?
+
+
+Answer:
+
+	The KSM32 passes the same physical and environmental testing as the SM58. That is, we drop it onto hard wood floors from a distance of 6 feet, multiple times at multiple angles. The KSM32 is definitely rugged enough for the stage.

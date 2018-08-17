@@ -1,0 +1,30 @@
+Title: Choose a noise-cancelling close talk mic to match camcorder mic input specs
+Id: 238
+Legacy Id: 244
+
+Question:
+I need to find an appropriate microphone for spoken voice recording (not music) which appropriately matches the mic input for a Sony DSR100A digital camcorder with given mic input specs as follows:
+
+3.5mm stereo mini-jack, 0.388mv, DC 2.5v, input impedence 6.8 kilohms-
+
+
+Proposed Use: multimedia/CD ROM instructional material using voice-over audio clips. The idea is to use the mic fed into the camera (to match the mic level up to line level), then out of the camera into a computer video/audio capture card (the same as if we were feeding the video and audio off video tape into the computer for capture).
+
+
+I was looking at HW501A, HW505A, VR230D, VR250BT, etc. BECAUSE we also may wish to use it with the computer integrated sound card mic input as well. The only specs on the computer audio I have are these: Dell Precision 420 computer, with INTEGRATED Crystal SoundFusion CS4614 PCI audio controller, is Sound Blaster Pro-compatible....supports most nondynamic monaural microphones for personal computers. NOTE: Do not use standard microphones. Use only microphones designed for personal computers.
+
+
+I hope this information is sufficient. If one mic will not properly fulfill both input requirements, please recommend one for each application (camcorder and computer audio card).
+
+
+
+Answer:
+
+	Since you want to use one microphone for two different applications, I recommend the purchase of an interface device called The Audio Buddy. See it at www.midiman.com. The Audio Buddy is a universal interface between the professional microphone world and the semi-professional sound card world.
+	
+	This device has an input that will accept any professional low impedance balanced microphone that has an XLR output connector; this means virtually any mic in the Shure professional line. The output of the Audio Buddy can be adjusted over a wide range to match the Sony camera or the sound card of your choice.
+	
+	With the Audio Buddy, you can choose from the complete line of Shure mics, not just the computer mic line.
+	
+	Preferred Shure model for voice-over: SM7B
+

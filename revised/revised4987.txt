@@ -1,0 +1,12 @@
+Title: MXA310 or MXA910 software “offline” mode
+Id: 4987
+Legacy Id: 6255
+
+Question:
+Is there any way to get familiar with the MXA310 or MXA910 user interface "offline," or without hardware?
+
+
+Answer:
+
+	Yes. Designer System Configuration Software allows multiple "virtual" MXA910 Ceiling Array Microphones to be configured in one tool. Arrange pickup lobes over a room diagram for precise coverage; import saved settings to each MXA910 on site.
+	Also, there are demo versions of the software interfaces available on the MXA webpage at www.shure.com. They are not "offline" but they are without hardware.  You can take screen grabs of the user interface and use it to show microphone pickup coverage for design drawings, based on mounting height and talker height.

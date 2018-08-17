@@ -1,0 +1,12 @@
+Title: Canadian Wireless Frequency Channels
+Id: 1044
+Legacy Id: 1076
+
+Question:
+I was wondering if you have a corresponding map to the US one that shows the channels that are used around Canada?
+
+
+Answer:
+
+	We do not have a Canada map showing the television stations. For specific information, please contact our Canadian distributor.
+

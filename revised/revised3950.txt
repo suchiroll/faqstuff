@@ -1,0 +1,12 @@
+Title: Operating range of ShowLink
+Id: 3950
+Legacy Id: 4199
+
+Question:
+What is the operatng range of the Axient ShowLink?
+
+
+Answer:
+
+	The ShowLink range is equal to the range of the forward RF link. The forward RF link is the RF audio transmission from the transmitter to the receiver.
+

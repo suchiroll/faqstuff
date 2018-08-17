@@ -1,0 +1,25 @@
+Title: Information on FCC "White Spaces" Proposal
+Id: 3260
+Legacy Id: 3414
+
+Question:
+I’ve heard that the FCC is taking away wireless microphone frequencies. Is that true?
+
+
+Answer:
+
+	For updates and new information about this evolving legislation and the FCC, please refer to this link: http://www.shure.com/americas/news-events/spectrum-issues
+
+	In the United States, most wireless microphones operate in locally unused TV channels. As part of the transition to Digital Television (DTV), the FCC decided to reallocate some of the upper UHF TV channels to other services. The new “core” TV band will consist of channels 2-51. After the DTV transition ends on February 17, 2009, frequencies above 698 MHz (which corresponds to channel 51) will no longer be available for wireless microphone use. As a result, Shure has phased out its UA and UB frequency bands, which operate in this range. All other Shure frequency bands will still be available. For more information about available bands, please contact Shure Applications Engineering.
+What about interference from “unlicensed devices”?
+You may have heard that the FCC is also studying the possibility of allowing unlicensed devices to use the “white spaces“, which are “unoccupied” TV channels. Examples of unlicensed devices include wireless broadband services, wireless multimedia systems, and cordless telephones. Currently, these products operate in other radio frequency bands, such as 2.4 GHz. Obviously, Shure is concerned about this proposal, since these devices would be using the same spectrum that wireless microphones use. This would create a potential for interference, even though wireless microphones will retain their secondary use status (secondary only to digital television). At this time, we do not know when (or if) this new policy might go into effect.
+What is Shure doing about the “White Spaces” proposal?
+Congress and the FCC are under intense pressure from major lobbying groups to allow unlicensed devices to use the TV spectrum. In response, Shure has mounted a multi-million dollar effort to explain the issues with this proposal to the decision-makers, and to come up with workable means for preventing interference to wireless microphones.
+During the public comment period, Shure filed formal comments with the FCC that you can view online.
+Shure comments to the FCC
+In addition to these comments, Shure met with the FCC on a number of occasions to explore ways to prevent interference. Shure was also granted a Part 5 experimental license and a special temporary authorization from the FCC to conduct interference tests using a simulated wireless broadband signal in the television band. Shure presented the results of these tests to the FCC and also gave live demonstrations to the House and Senate staff members.
+Shure is a member of two work groups organized by the Institute of Electrical and Electronic Engineers (IEEE), the world’s leading professional association for the advancement of technology. These groups include the 802.18 Radio Regulatory Technical Advisory Group (RR-TAG) and the 802.22 Wireless Regional Area Network (WRAN) group. The WRAN group is developing a standard for unlicensed wireless broadband in the TV spectrum. Shure joined these groups to help represent the interests of incumbent TV spectrum users and to develop a standard that will help prevent interference to wireless microphones.
+What can I do?
+Currently, Congress is drafting legislation (H.R. 5252 and S. 2686) that would force the FCC to act prematurely to allow unlicensed devices to operate in the TV bands. The FCC, IEEE, and other industry technology leaders must have time to develop solutions that will permit unlicensed devices to operate without causing harmful interference to current users of the TV spectrum, including wireless microphones. You can help by contacting your House and Senate representatives and letting them know how important wireless microphones are to your business. Tell them it’s extremely important that Congress not rush the FCC into making a hasty decision that results in interference to wireless microphones or digital television reception. Urge them to oppose H.R. 5252 and S. 2686 until wireless microphones are sufficiently protected from all harmful interference.
+Shure will be happy to assist you in filing your letter. Please go to http://www.shure.com/americas/news-events/spectrum-issues/white-spaces/index.htm for filing information. If you need additional assistance send a message to whitespacesinfo@shure.com.
+

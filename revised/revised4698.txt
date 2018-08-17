@@ -1,0 +1,17 @@
+Title: SCM820-DB25 Cables
+Id: 4698
+Legacy Id: 5868
+
+Question:
+1) Is the SCM820-DB25 supplied with audio interface cables?
+
+2) Does the DB-25 interface cable have to be a Shure model?
+
+
+Answer:
+
+	1) No. The cable must be purchased separately.
+	
+	2) It does not have to be a cable sold by Shure. Make certain it is an ANALOG DB-25 cable. A digital DB-25 cable can have a different wiring scheme that is incompatible with the SCM820-DB25.
+	
+

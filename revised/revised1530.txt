@@ -1,0 +1,31 @@
+Title: Clipping Distortion using PSM400
+Id: 1530
+Legacy Id: 1584
+
+Question:
+We've been using Shure in-ear monitors for about 3 months and lately we've been having quite a bit of problems with them clipping while we're on stage. During the sound check, we never have any clipping problems. But when it's show time, we get into the first song and it's constantly clipping. Not much is changing at show time with the possible exception of the vocal mics potentially picking up the stage sound from our amps and the drums.
+
+
+Here is what our set-up looks like:
+
+
+2 PSM 400 Wireless Transmitters and Mixers, one running on channel 8, which we have vocals and guitar running through and one running on channel A, which we use for the drums and bass. We only have two aux outs from our Mackie board and we run a balanced out from the first two channels of the top mixer to the inputs of the second mixer (XLR to 1/4"). We have the limiter on on the P4R.
+
+
+I'm pretty careful to check the transmitter to make sure it's not clipping, all the while, listening to my own receiver as I adjust the monitor signals. We're running the main volume on the mixer slightly above the half way mark and running the receivers about half way as well. I originally thought the Aux output volume from our Mackie was causing part of the problem, and it still might be, but I've tried adjusting that without any luck.
+
+
+It seems that we should be able to run things at a decent volume without it clipping, but that hasn't been the case. We just need some professional advice. Do you think our aux output volume is just extra sensitive and that is causing the level going into the transmitter to be too high? Ideally, is there any set place each volume should be adjusted to on the in-ear monitor equipment? Any insight you have would be appreciated.
+
+
+Answer:
+
+	There are several potential issues. Here are a few suggestions:
+	
+	A primary cause of clipping during a performance is that many bands tend to play/sing louder during a show than they do during sound check. Whether this is caused by adrenaline or some other factor, this would explain why you don't see clipping during sound check. If this is the case, just keep the volume backed down at the point where the clipping is occuring - if the P4T is clipping, back down the volume controls on the P4M. If it seems that the controls from the P4M are as low as they can go, and you're still clipping, turn down the Aux Outputs from the Mackie.
+	
+	If there still seems to be clipping, check the Aux Sends on the Mackie by using the PFL function (see the Mackie manual). Monitor the signal at the Mackie by plugging your E1s (or a set of headphones) into the Mackie to be certain the signal is clean there as well. Also check the individual microphone channels, again using the PFL funtion. Again, encourage the musicians to play as hard during sound check as they will duing the performance.
+	
+	There is no "default" setting that will not cause clipping. Volume controls should be set to a point where the incoming signal is loud enough, but you should not see any red lights on the P4M or P4T. Since you are sending line level signals into the P4M, the mixer controls will probably need to be set in the lower part of their range. The P4M inputs are designed to accept microphone signals as well as line level (such as from a mixer Aux send), therefore setting the volume of the mixer too high will cause the line level signal to clip at the P4M input.
+	
+	Also, you mentioned that the vocal mics may be picking up the amps and drums. This could be an issue on smaller stages. Do you sound check with the vocal mics live and the whole band playing? Snare drum and cymbals are particularly likely to cause excess clipping, especially if the vocal microphones are close to the drum kit. This problem is more difficult to overcome. Some bands have dealt with this by employing plexiglass around the kit, electronic drums, or noise gates on the vocal microphones. One particularly useful device is the Mic Mute made by Pure Sound (www.puresound.net). The Mic Mute mounts on the back of the microphone and uses an infrared sensor to determine when someone is standing in front of the microphone. When the singer backs away from the mic, the Mic Mute cuts the signal off, so the vocal mic doesn't act like a drum overhead when no one is using it. It's great when the microphones are mounted on stands, but can be problematic with singers who hold the microphone.

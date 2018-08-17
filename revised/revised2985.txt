@@ -1,0 +1,43 @@
+Title: Choosing the best microphone
+Id: 2985
+Legacy Id: 3113
+
+Question:
+I want the best microphone for my voice. How do I choose the best one?
+
+
+Answer:
+
+	Choosing the "Best" Microphone
+
+	best (best), adj. [superlative of good] 1. most excellent; of the most excellent sort; surpassing all others. 2. most suitable, most desirable, most favorable, most profitable, etc.
+
+	In the hallowed halls of Shure Applications Engineering (well, okay, maybe not "hallowed." In fact, not really halls either…cubicles), we field a seemingly endless barrage of customer inquiries. From the complex - "I need to coordinate 56 channels of wireless microphones in Manhattan," to the perplexing – " Why do my microphones only work after I warm them up in my armpits?" – there’s not much we haven’t heard. One question, however, continually leads the pack as the most difficult to answer: "Which Shure microphone is the best for me?" Using the last part of the above definition ("most profitable") it would behoove us to recommend the KSM44 as the best choice for everyone, no matter the application. Unfortunately, our high ethical standards, unquestionable scruples, and old-fashioned "family values" prevent us from doing so.
+
+	The reason this question is impossible to (honestly) answer, in most instances, is the highly subjective nature of the word "best," and furthermore, which parameter defines the best microphone? Flattest frequency response? Most rugged? Most expensive? The one that doesn’t have any feedback in it? (If you don’t get the irony in that last one, please see the Shure Technical Bulletin "Feedback: Fact and Fiction".) To put it another way, are PCs better than Macs? Is Ford better than Chevy? Is pepperoni pizza always preferable to sausage?
+
+	All joking aside, only YOU can determine which microphone is the proper one for your application, particularly where the sound of the microphone is concerned. Sound quality is largely a matter of personal taste. We will absolutely do our best to recommend some specific models for your consideration, as certain microphones are obviously geared toward specific applications, but the only true way to ensure your satisfaction is by using your own ears. Note that sound quality is not necessarily the only factor you should consider. Other characteristics, such as dynamic versus condenser and physical design, are more concrete concepts that can be dealt with objectively. To learn more about these concepts, see the Shure educational publications.
+
+	A Microphone Case Study: The SM58 vs. the Beta 58A
+
+	Johnny Voxx is in the market for a new microphone. As lead singer of Poughkeepsie glam rock stalwarts Venus Flytrap, he needs a rugged microphone the will accurately convey his trademark falsetto. He has used the SM58 for years, but is seriously considering a switch to the Beta 58A. Roger Twiddleknob, who mixes down at the Rusty Screwdriver, swears by the Beta, claiming he wouldn’t touch an SM58 with a 10 foot mic stand. Though never having used this particular model, Johnny nonetheless concludes that upgrading is the proper thing to do since the Beta 58A is more expensive, therefore, it must be better.
+
+	The Beta 58A features a supercardioid pickup pattern, which typically offers better gain-before-feedback than cardioid-pattern microphones such as the SM58. Unfortunately, our hero is used to the somewhat broader pickup pattern of the SM58, and he has problems adjusting to the narrower pattern of the Beta 58A. While he can most likely adjust his technique to the microphone, a larger issue is the somewhat "brighter" sound quality of the microphone, versus the SM58. On many voices, the added brightness really helps the vocals cut through the mix, but in this case Johnny’s shrill falsetto doesn’t need the assistance. Did Johnny make the right choice?
+
+	The most important step you can take in choosing a microphone is auditioning it yourself. The following suggestions may make the process more productive.
+
+	
+	Visit a reputable music store or pro audio dealer.
+	This is the easiest way to try a wide variety of microphones in a somewhat controlled environment. Choose a dealer with a knowledgeable sales staff that can help you narrow down the choices and provide you with a decent test setup. Make sure that all the microphones are set to the same volume level, otherwise the loudest microphone tends to be the winner. Do not use any equalization. Do use headphones if possible. If you are testing a vocal microphone, although it may seem embarrassing, sing like you are performing. A quick "check, check" will tell you next to nothing about how the microphones really sound. If there is a way to make a short recording, you can concentrate on listening to the sound of the mic, rather than listening while performing.
+	
+	If buying online or from a catalog, check out the return policy.
+	While buying online may be the most cost-effective way to buy a microphone, odds are you won’t be able to try one before making a final purchase. In some cases, vocal microphones cannot be returned, due to "health" concerns. While this may or may not be true, it’s worth knowing ahead of time. If the dealer does offer some sort of return policy, this option presents you with the opportunity to try the microphone in an actual performance environment, the ultimate way to audition a microphone. (Note: Many brick-and-mortar retailers may (or may not) also allow you to return microphones. Find out ahead of time and use to your advantage!)
+	
+	Beg and borrow from friends.
+	If all else fails, find out who in your area has microphones you can borrow. Pay attention to what microphones are used at the venues where you perform. Does a particular model seem to sound good to you?
+	
+	Bring along a friend or colleague.
+	While the choice is ultimately yours, it often helps to get a second opinion. Bring along someone whose ears you trust. If you have a sound engineer in your employ, be sure to get his/her input. Their expertise in choosing a microphone could prove invaluable, and besides, nothing will annoy them more than having to use a microphone they know is the wrong choice!
+
+	It’s been said before, but it applies here as well, "If it sounds good, it is good." There are very few rules when it comes to microphone choice, so use the one the works best for you. Top-flight recording studios typically stock a wide variety of microphones to suit many situations, and recording engineers know to try several microphones before hitting the "record" button. So which microphone is the best one for you? In the words of a wise man, "It depends." Use your ears!
+

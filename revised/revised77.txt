@@ -1,0 +1,32 @@
+Title: How do I compare the sensitivity of two microphones?
+Id: 77
+Legacy Id: 77
+
+Question:
+How do I compare the sensitivity (output level) of two microphones?
+
+
+Answer:
+
+	Microphone Sensitivity Rating
+
+
+	What is microphone sensitivity?
+	A microphone sensitivity specification tells how much electrical output (in thousandths of a volt or millivolts) a microphone produces for a certain sound pressure input (in dB SPL). If two microphones are subjected to the same sound pressure level and one puts out a stronger signal (higher voltage), that microphone is said to have higher sensitivity. However, keep in mind that a higher sensitivity rating does not necessarily make a microphone better than another microphone with a lower sensitivity rating.
+
+
+	What is dB SPL?
+	The term dB SPL  is a measurement of Sound Pressure Level (SPL) which is the force that acoustical sound waves apply to air particles. As a person talks or sings, SPL is strongest near the mouth and weakens as the acoustical waves move away from the person. As reference levels, 0 dB SPL is the quietest sound a human can normally hear and 1 dB is the smallest change in level that the human ear can detect. For comparison, at three feet, speech conversation level is about 60 dB SPL and a jackhammers level is about 120 dB SPL.
+
+
+	What about dB SPL input levels?
+	Microphone manufacturers normally specify one of two dB SPL input levels: 74 dB SPL or 94 dB SPL. Shure uses 94 dB SPL unless indicated otherwise on the data sheet. How do these dB SPL values relate to the real world? 74 dB SPL is typical of the sound intensity twelve inches away from a talker. 94 dB SPL is typical of the sound intensity one inch away from the same talker. A microphone hears these sound intensities and converts the acoustic wave into an equivalent electrical signal. To determine which SPL is used for a sensitivity measurement, look at the microphone data sheet. Confusion can arise because of the different units by which SPL may be specified. For example, 94 dB SPL = 1 Pascal = 10 microbars = 10 dynes/cm2. And 74 dB SPL = 0.1 Pascal = 1 microbar = 1 dyne/cm2. Unfortunately for the microphone buyer, different manufacturers use different units to specify SPL. But by following these dB SPL unit conversions, you can determine how different dB SPL ratings relate to each other.
+
+
+	What does open circuit voltage rating mean?
+	First, open circuit means the microphone is not connected to anything. That is, there is no electrical load on the microphone. The open circuit voltage rating indicates how much voltage appears at the microphone output when a certain SPL is introduced to the microphone diaphragm. A value for a typical dynamic mic is -75 dBV/microbar. The V in dBV indicates the microphone output level is referenced to 1 Volt. If there was a microphone with an output voltage of 1 volt, its level would be given as 0 dBV. The negative dBV output level (-75) indicates that the mic output voltage is less than 1 volt (-75 dBV converts to .00018 volts). The microbar part indicates the microphone was tested with an input of 74 dB SPL. (Please reread the preceding section if the conversion from 1 microbar to 74 dB SPL is confusing.) To compare this typical dynamic microphones sensitivity with a different microphone that was tested at 94 dB SPL or 1 Pascal, simply add 20 dB to the rating: -75 + 20 = -55 dBV/Pascal. Remember, to compare specifications from different manufacturers, make certain that each has been converted to the same input dB SPL level.
+
+
+	What is a microphone power rating?
+	To get a power rating, a microphone is attached to a load equal to its own internal resistance. The microphone is subjected to 94 dB SPL and the resulting power output across the load is measured. Power ratings have virtually no relevance to todays audio circuits and are now rarely used.
+

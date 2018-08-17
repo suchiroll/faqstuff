@@ -1,0 +1,12 @@
+Title: X2u - No audio input to recording software
+Id: 3896
+Legacy Id: 4142
+
+Question:
+I am using a Windows computer and Audacity as the recording software. I do not hear or see any audio signal from the X2u in my recording software, but I see audio on the X2u LED indicator. Please help.
+
+
+Answer:
+
+	From within the recording software, you must select the Shure X2u, or Shure Digital, as the input device. That selection is made from within the Audacity program, under the Audio I/O tab.This step is necessary because the computer will often have multiple audio input sources, such as the built-in sound card, the built-in microphone, etc.Manual selection ofthe audio source applies to Audacity and other recording software.
+

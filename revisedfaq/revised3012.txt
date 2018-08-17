@@ -1,0 +1,19 @@
+Title: SLX1 transmitter and Countryman E6 headworn microphone
+Id: 3012
+Legacy Id: 3141
+
+Question:
+The Countryman E6 distorts the SLX1 transmitter when the SLX1 is in the "mic" setting. What should I do?
+
+
+Answer:
+
+	Reset the SLX-1 to the 0 setting.
+	
+	In some cases, this may make the output level on the SLX4 XLR connector unacceptably low. In that case, use the 1/4 phone jack output on the SLX4; this signal is 10 dB greater than the XLR signal and has an actual impedance of 1,000 ohms.
+	
+	Note: When connecting the SLX 1/4 phone jack output to an XLR input, use a twisted pair, shielded mic cable configured as follows:
+	phone plug sleeve - cable shield - XLR pin 1
+	phone plug tip - cable inner conductor A - XLR pin 2
+	phone plug sleeve - cable inner conductor B - XLR pin 3
+

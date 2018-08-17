@@ -1,0 +1,13 @@
+Title: How do I install the Windows drivers for the X2u?
+Id: 3685
+Legacy Id: 3894
+
+Question:
+How do I install the Windows software drivers for the X2u Mic/USB interface?
+
+
+Answer:
+
+	Software drivers for Windows do not need to be installed to use the X2u.  When the X2u is connected for the first time, several messages should appear in the bottom of the computer screen. Examples are: "Found New Hardware"; "Shure Digital"; "USB Audio Device".  Then the following message should appear, "Your hardware is installed and ready to use."  At no point should any install wizards open or be opened. 
+	
+	Once the X2U is ready, the user should be able to access Control Panel  Sounds and Audio Devices, and see Shure Digital as an option for playback and recording.

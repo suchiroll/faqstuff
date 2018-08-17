@@ -1,0 +1,12 @@
+Title: Multiple receivers of same frequency with one transmitter
+Id: 2651
+Legacy Id: 2755
+
+Question:
+We currently have an LX system operating on 202.200 MHz. We would like to use a second receiver in a different location (same room) to pick up the audio from a single speaker/mic. Can a second LX4 receiver operating at 202.200 MHz be used with the original mic such that both LX4 receivers are picking up the transmit from a single mic, or do we need a totally seperate set up at a different frequency?
+
+
+Answer:
+
+	Yes, that works perfectly fine. Its just like multiple car radios listening to the same radio station.
+

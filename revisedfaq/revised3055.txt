@@ -1,0 +1,62 @@
+Title: Cell Phone Frequencies / Wireless Communications Devices
+Id: 3055
+Legacy Id: 3186
+
+Question:
+Please provide frequency information about cell phones and other wireless communication devices. I have encountered situations where such devices created interference in the sound system components: microphones (wired and wireless), cable snakes, mixers, and other pro audio equipment. Nothing seems immune!
+
+
+Answer:
+
+	The cellular industry offers a wide range of consumer devices to satisfy customer needs. The term cellphone implies a device capable of voice calls and some limited data, such as texting. More advanced devices, usually referred to as smartphones, can provide full internet access and sophisticated tools for almost any function. For this discussion, all of these devices will be referred to as smartphones.
+	
+	The actual frequencies used by smartphones varies by country and by carrier. In the United States, there are the four major frequency bands in use:
+	698-806 MHz (700 MHz Band)
+	806-849/851-896 MHz (800 MHz Band)
+	1850-1910/1930-1990 MHz (PCS Band)
+	17101755/21102155 MHz (AWS Band)
+	
+	Multiple carriers are licensed in each frequency range. A few examples include:
+	ATT and Verizon are primarily licensed in the 700 and 800 MHz bands.
+	Sprint is mostly licensed in the PCS band.
+	T-Mobile operates in slices of both the PCS and AWS bands.
+	
+	There are several major classes of digital transmission schemes.
+	
+	Time Division Multiple Access (TDMA) has been around for a long time, and is being replaced by newer technology. GSM and iDEN (voice connect service from Nextel) were originally based on TDMA.
+	
+	Code Division Multiple Access (CDMA) is a newer high capacity digital scheme used by Verizon and Sprint. More recently, ATT has been upgrading their voice network to wideband-CDMA to support improved call capacity.
+	
+	Long Term Evolution (LTE) uses a combination of code division multiple access and frequency hopping to increase transmission capacity. This technology is rapidly becoming the worldwide standard for all cellphone/smartphone operations. Initially LTE will support data only, but voice transmission is anticipated as the technology matures.
+	
+	A carrier or service provider is generally assumed to be a company (Verizon, Sprint, ATT, etc.) that has licenses to use blocks of frequencies in various parts of the country. The carrier owns and maintains a network of antennas, towers, base stations, switching centers, interconnecting landlines, etc. But that definition is changing. There are newer carriers in business who do not have any spectrum licenses or network infrastructure. They essentially buy huge blocks of minutes from the big carriers and resell them under their own brand name. These are called Mobile Virtual Network Operators (MVNOs). Virgin Mobile is an example -- they sell service using Sprints CDMA network.
+	
+	Interference to audio equipment from cellphone systems and the wireless infrastructure can be assigned into two categories.
+	1. RF signals that get into audio circuits and are detected (demodulated) similar to an AM radio. Low level audio circuits, such as microphone lines, can act as antennas and conduct RF signals into semiconductor devices where amplitude modulation (AM) detection can occur. This may be due to a combination of factors, such as exceptionally strong RF signals from a cellphone adjacent to a low level audio circuit with inadequate shielding. The best example of this is the interference received from GSM-TDMA phones from ATT, T-Mobile, and Nextel (iDEN-TDMA). In the TDMA protocol, the cell tower and the phone communicate or handshake call set-up information using a series of pulses. Unfortunately, the pulses have a repetition rate of 217 Hertz, which when detected, falls inside the audio range. When the pulses are demodulated, a very recognizable bleeping sound is heard in affected audio circuits. This interference affects both wired and wireless microphones as well as mixers and other audio devices with low level audio signals. The good news is that the newer CDMA and LTE transmission protocols do not cause interference to audio devices.
+	2. RF interference to RF circuits, such as receiver front-ends, transmitter output stages, and active antenna systems.
+	a. Spurious signals and RF noise can be created when excessively strong signals are received by antenna system RF amplifiers. The amplifier overload results in distortion causing an elevated RF noise floor, which may result in decreased range for wireless microphones or outright reception failure.
+	b. Off-channel very strong RF signals can overload receiver front end amplifiers. When this happens, the receiver may temporarily act like it is deaf or inoperative due to a condition known as de-sense.
+	c. If strong radio signals reach a transmitter antenna, some of the rogue signal energy may be conducted into the transmitter final RF amplifier and result in intermodulation distortion. The resulting intermod interference frequencies may interfere with other wireless equipment.
+	
+	One final aspect of mobile phones that can impact professional audio products is that smartphones have variable power output. The base station tells the phone to increase or decrease its power depending on how strong the phones signal is, which can be affected by the phone user being inside of a meeting room in a large building like a hotel or convention center. In those situations the phone might be operating (exchanging data traffic) at higher power levels, even if no voice call is in progress. The ambient RF noise floor may be elevated with dozens, or even hundreds, of phones together in one space doing this at the same time. This may result in reception problems for wireless microphone systems.
+
+	
+	
+
+	*******************************
+
+	
+
+	Previousanswer posted in 2005
+
+	The actual frequencies used by cell phones varies by country and by carrier. There are four major digital transmission schemes in use:GSM, TDMA, CDMA, and iDEN; plus the analog AMPS system. To make things more confusing, the digital schemes can be configured to work in different frequency ranges depending on which carrier is selling the service and what frequencies they are licensed to use.
+	
+	The Blackberry devices are available from several different service providers. In North America, most use GSM and operate in 850 MHz band and 1.9 GHz band; some use CDMA on 800 MHz and 1.9 GHz; the ones sold by Nextel use the 800 MHz iDEN frequencies. Some models can also automatically switch to the Europe/Asia frequencies so they can be used in other parts of the world.
+	
+	A carrier or service provider is generally assumed to be a company (Verizon, Sprint, Cingular, etc.) that has licenses to use blocks of frequencies in various parts of the country, and that owns and maintains a network of antennas, towers, base stations, switching centers, interconnecting landlines, etc. etc. That definition is changing. There are some new carriers in business who do not have any spectrum licenses or network infrastructure at all. They essentially buy huge blocks of minutes from the big carriers and resell them under their own brand name. These are called Mobile Virtual Network Operators (MVNOs); Virgin Mobile is an example -- they sell service using Sprints CDMA network. Sprint has actively pursued this type of OEM business, but Verizon has not.
+	
+	Here is a good map with frequencies listed by country here:
+	http://www.ctia.org/research_statistics/statistics/polmap/index.cfm
+	
+	One final aspect of mobile phones that could impact professional audio products is that phones have variable power output. The base station tells the phone to increase or decrease its power depending on how strong the phones signal is, which could be affected by the phone user being inside of a meeting room in a large building like a hotel or convention center. In those situations the phone might be operating at higher power levels, even if no call is in progress. Put dozens, or even hundreds, of phones together in one space doing this at the same time, and who knows what kind of RF interference could be generated.
+

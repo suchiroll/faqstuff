@@ -1,0 +1,30 @@
+Title: USB to Serial Port Adapter for Windows XP, Vista, 7 (32 and 64-bit editions)
+Id: 4047
+Legacy Id: 4506
+
+Question:
+I have a new PC with the Windows 7 64-bit operating system. What USB to Serial Port Adapter is recommended when programming a Shure DSP product – DFR11EQ, DP11, DFR22, P4800?
+
+
+Answer:
+
+	Consider obtaining the FTDI Chip (www.ftdichip.com) model US232R USB to Serial Port Adapter.It is available in several cable lengths, including the model US232R-100 (1 meter cable) and the US232R-500 (5 meter cable).The US232R-500 may be especially useful for field work.
+	
+	The US232R models are readily available from most major electronics jobbers, including Mouser Electronics (www.mouser.com).Use a search engine to locate other stocking distributers.
+	
+	The FTDI Chip company is actively supporting their product with driver software updates.Updated drivers are released about every 6 months.This means that drivers are and will be available for new and updated Windows operating systems.
+	
+	Installing the US232R adapter on a Windows XP, Vista, or 7 PC is easy.Confirm that the PC is connected to the internet.Plug the US232R adapter into a spare USB port.Windows will install the drivers automatically and the adapter will be ready for use in a minute or two.The drivers install automatically because they are certified through the Windows WHQL process.
+	
+	Alternatively, the drivers can be manually pre-installed to a PC using a tool available on the FTDI website.
+	
+	The US232R adapter features LEDs that indicate data traffic.
+	
+	We cannot guarantee Shure DSP programming software will work in every possible PC hardware and software configuration.However, here is what has worked when using the FTDI Chip US232R adapter based on our testing and user feedback:
+	1. 64-bit versions of Windows OS  the P4800 and DFR22 software.
+	2. 32-bit versions of Windows OS  the DFR11EQ, DP11, DFR22, P4800 software
+	
+	When running the Shure DSP software on Vista or 7, set the program compatibility mode to Windows XP (service pack 2).
+	
+	The full company name of FTDI Chip is Future Technologies Devices International, Ltd
+

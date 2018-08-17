@@ -1,0 +1,33 @@
+Title: Best mic cable to reduce interference from AM radio station
+Id: 3326
+Legacy Id: 3501
+
+Question:
+I have a sound system installation at a church. The church is located near several AM radio station transmitters. What type of mic cable should I use to keep the AM interference to a minimum?
+
+
+Answer:
+
+	Itis imperative to use the proper cable type to keep AM interference out of microphone circuits
+	
+	Twisted pair with braided copper shield or copper French braid is highly resistant to RFI from AM broadcast radio stations. Dual copper spiral wrap shield, also commonly known as double serve, is also effective at shielding against AM broadcast radio signal ingress. Copper wire outer shield with a foil shield works well, too.
+
+	
+
+	Examples of this cable type:
+
+	Belden 9841 (not rated for plenum use)
+
+	Belden 82841 (rated for plenum use)
+
+	http://www.belden.com
+	
+	The microphone cable typically used by sound system installers consists of a twisted pair with a drain wire and a spiral wrapped shield of aluminized polyester. This type of cable is highly susceptible to AM broadcast radio interference. The aluminized polyester shield is essentially transparent to RF energy at low frequencies, especially below 10 MHz, where most of AM radio is located.
+	
+	In addition, the drain wire is not twisted symmetrically with the twisted pair audio wires, causing common mode coupling of any AM signal from the drain wire and the shield into the inner audio signal conductors. Once on the audio signal leads, the low frequency RF signal can travel into the mic circuitry and/or the mixer preamp, where it can be detected by a semiconductor and transformed into an undesired audible signal.
+
+	
+
+	
+	
+

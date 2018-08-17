@@ -1,0 +1,22 @@
+Title: Choosing microphones for recording band practice
+Id: 1065
+Legacy Id: 1099
+
+Question:
+I am a guitarist in a local Chicago band. We have three vocalists in the band, and we all use Shure mics.
+
+
+We would like to begin recording some of our practices to assist in developing our music. We currently have two old vocal, dynamic mics going into a Midiman AudioBuddy mic pre-amp, into a standard cassette tape deck. We have hung the two mics from the rafters of our practice space, positioned in the midst of the vocal PA speakers, the guitar amps and the drums. The sound quality on the resulting recordings is less than inspiring.
+
+
+I have heard that condenser mics would go a long way toward improving the sound, but I have no way of testing that theory without spending a great deal of money. Would condenser mics make a significant difference? If so, which Shure condenser mics would you recommend we purchase to suit our application? Any other tips or suggestions? Thank you for your time and your great products.
+
+
+Answer:
+
+	Shure recommends downloading and reading the Shure Microphone Techniques for Studio Recording.
+	
+	It has some tips on microphone positioning, etc. Following some of the guidelines should help the recordings.
+	
+	Condenser microphones offer a wider frequency response and are more sensitive than dynamic microphones.
+

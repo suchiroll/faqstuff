@@ -1,0 +1,61 @@
+Title: Using the Configuration Lock feature on MXW
+Id: 5410
+Legacy Id: 5819
+
+Question:
+Using the Configuration Lock feature on MXW
+
+Answer:
+
+	One of the new features introduced to the MXW product category with the firmware release of 3.0.2 is the system Configuration Lock that is accessible from within the MXWAPT web browser interface. This feature was introduced to not only prevent inadvertent changes to your MXW system configurations but to also support and improve the performance of large channel count multi-room deployments of MXW and decrease network traffic.
+	
+	To use Configuration Lock, first make sure that your system has been updated to Firmware version 3.0.2 using the Shure Update Utility (available for free download at www.shure.com). If so, you will be able to find the Configuration Lock check box in the upper right corner of the Configuration Tab of the MXAPT web browser interface. (See Figure 1)
+	
+	Before fully explaining what the Configuration Lock does, it is important to understand the distinction between devices in a single configuration versus a collection of devices in multiple configurations.
+
+	
+	Figure 1: Configuration Lock deters changes and lowers network chatter
+
+	
+	Single Configuration:
+	
+	When you create a single MXW configuration, you are effectively telling the system that those items listed on the single configuration page should behave together as if they are in one large system, not separate systems on the same network. Essentially the idea is that you would group all microphones in a single room into one configuration. To setup a configuration with multiple Access Points (APTs), Networked Chargers (NCSs), Audio Network Interfaces (ANIs), and microphones, you would assign them to slots in the different rows of the Configuration Tab on the MXWAPT web browser interface. Generally, you would place the APT that you are configuring from into the upper left slot in Group 1 and populate the rest of the cells per the system design. (See Figure 2).
+
+	
+	Figure 2: Two systems in one configuration
+
+	
+	There is a maximum of ten rows or Groups allowed for each configuration. This is because the maximum possible simultaneous channels in one room are 40 (in the United States DECT band), which can be accomplished with 10 MXWAPT4 four channel Access Point Transceivers. You generally wouldnt want to put multiple rooms into the same configuration though because functions like Global Mute might accidentally affect another meeting in progress. Another thing you may notice when working within a single configuration is that you are only able to open the web browser interface of the Master APT or, in other words, the APT that you place in Group #1. You can then switch which APT (and microphones) you view in the browser through the View Access Point drop down located in the upper left of the web browser interface.
+	
+	If your system only consists of one configuration, the benefits of using Configuration Lock are both to prevent any inadvertent configuration changes as well as reducing network traffic. Note that the Configuration Lock is not password protected so it serves as more of a visual deterrent to making changes.
+	
+	If you have other equipment that will be used in other adjoining or nearby rooms, you will likely need to created additional (separate) configurations.
+	
+	Multiple Configurations:
+	
+	In situations involving multiple rooms, you will likely want to split the gear up into multiple configurations so that the equipment in each room behaves independently from one another. To create multiple configurations, enter the gear into the appropriate rows (Groups) within the first room, then open up the browser of the MXWAPT in the next room and continue to configure. This is where the lock configuration feature will benefit your installation. (See Figures 3a  3b).
+
+	
+	Figure 3a: System #1 in Config #1
+	
+	
+	Figure 3b: System #2 in Config #2
+
+	In any given MXW installation, it is generally a good idea to network all the components together for a number of reasons. Because the components in the system rely on synchronized timing to maintain their configuration, they are in constant communication over the network. This communication can cause increased network traffic as the number of components in the MXW system increase. In smaller systems ( 40 channels and/or 10 APTs), this network traffic doesnt cause much operational lag. However, in larger multi-building or campus-wide network installations, the increased network traffic from more than ten APTs can dramatically effect network traffic and decrease the responsiveness of the MXW browser interfaces and system operation.
+	
+	To prevent this, it is possible to stop APTs from continuing to discover each other on the network by locking the configuration. To do this, you would navigate to the Configuration tab of an APT browser and put all components belonging to that configuration in the numbered rows. Once the room is configured as desired, you would check the Configuration Lock check box. This will then grey-out or disable the configuration page for that configuration. You should do this BEFORE moving onto setting up the other configurations within the larger network of MXW equipment. Locking your configurations as you go will reduce the chances of the system lagging or locking up as you setup more and more individual configurations.
+	
+	Checking Configuration Lock will also activate the Configuration Filter on the Utility Tab of the MXWAPT, thus allowing you to only see the equipment that has been assigned to the configuration you are currently viewing. In other words, any items with a status of Open or Other or Unknown will be hidden form the Utility view if Configuration Lock is enabled. (See Figures 4a  4b).
+
+	
+	Figure 4a: No Configuration Filter shows system in other room
+	
+	
+	
+	Figure 4b: Configuration Filter on hides everything BUT this configuration
+
+	
+	One would think that you could also avoid causing this additional network traffic by simply not networking MXW systems together. However, even though equipment is in different rooms (and thus configurations), it is still best practice to still network all the rooms together to improve RF performance and maximize channel count. Also, not networking all the MXW equipment removes one of the primary benefits of MXW, which is to have remote monitoring and control of all the systems.
+	
+	Configuration Lock provides us with a great way to network large scale MXW systems and have them still perform and respond quickly across the network.
+

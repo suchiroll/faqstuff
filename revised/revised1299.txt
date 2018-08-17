@@ -1,0 +1,29 @@
+Title: Which microphone has less feedback?
+Id: 1299
+Legacy Id: 1349
+
+Question:
+I have found out that there are very few people in the music industry that truly understand microphones, but you have been recommended to me.
+
+I have received conflicting reports on this. Can you tell me whether the Shure SM58 or Beta 58 would be better at reducing feedback for live vocals? Some tell me that the Beta would be better because it has a supercardioid pattern; others tell me the normal SM58 is better because it *doesn't* have a supercardioid pattern because the supercardioids apparently have a tail on the back of the pattern which picks up the sound from stage monitors.
+
+Also, is there another mic (hopefully in the SM58 or Beta 58 price range) that will do it's best to eliminate feedback? (I understand, of course, that feedback is a function of other speaker placement, EQ, room attributes, etc., but we're considering just the contribution of mics here.) If I must go above $200, what mic is the best for eliminating feedback?
+
+Thank you very much. It’s very tough to find folks that genuinely know what they're talking about on this.
+
+
+
+Answer:
+
+	It is impossible to say that the SM58 or Beta 58A is better or worse at feedback rejection. The amount of rejection that each has is completely dependent on the physical relationship of the microphone versus the loudspeakers.
+	
+	Now, if the microphones are both in an ideal ambient field, the supercardioid would have slightly more rejection, because it is slightly less sensitive to ambient noise coming from all directions. In the ambient field, feedback acts just like any other ambient noise.
+	
+	The next part, though, is how the frequency response of the microphone interacts with the frequency response of the room and loudspeakers that are used. Those factors will also have an effect on which microphone will feed back first.
+	
+	Unfortunately, it is impossible to answer your question. The point of feedback for the SM58 and Beta 58A will be completely dependent on the room, loudspeakers, physical relationship, etc. We could easily get the SM58 to provide more gain before feedback in one situation, and then turn around and get the Beta 58A to provide more gain before feedback in a second situation. You cannot just consider the contribution of microphones when talking about feedback. Feedback only occurs when you have a complete sound system with all components interacting with each other. How these components interact will decide when feedback occurs.
+	
+	As an analogy, consider two cars. The first car has a 4 cylinder engine that produces 190 horsepower. The second car has a V8 that produces 300 horsepower. Now, which car goes faster? Well, if the first car only weighs 1500 pounds (typical for a race car) and the second car weighs 3000 pounds (typical for a street car), the smaller, less powerful car will actually win. So, its not just how much power the engine has, but how the engine, car, transmission, et al, interact together.
+	
+	More information: How do I fix my feedback problem?
+

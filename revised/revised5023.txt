@@ -1,0 +1,12 @@
+Title: SystemOn software updates
+Id: 5023
+Legacy Id: 6315
+
+Question:
+Will there be SystemOn software updates or additional software in the future?
+
+
+Answer:
+
+	There will be ongoing updates, including support for future active subscription customers.
+

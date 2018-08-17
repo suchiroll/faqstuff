@@ -1,0 +1,339 @@
+Title: Wireless Troubleshooting Hints
+Id: 5330
+Legacy Id: 3834
+
+Question:
+Wireless Troubleshooting Hints
+
+Answer:
+
+	Troubleshooting Wireless Microphone Systems
+
+	
+
+	Even when wireless microphone systems appear to be properly selected and set up, problems may arise in actual use. While it is not practical here to offer comprehensive solutions for all possible situations some general guidelines are suggested.
+
+	
+	Though problems with wireless microphone systems eventually show up as audible effects these effects can be symptoms of audio and/or radio problems. The object of troubleshooting in either situation is first to identify the source of the problem and second to reduce or eliminate the problem.
+
+	
+	The following abbreviations are used below:
+
+	
+		AF = audio frequency
+	
+		RF = radio frequency
+	
+		RFI = radio frequency interference
+	
+		TX = transmitter
+	
+		RCV = receiver
+
+
+	
+
+	A common symptom in multiple system operation is apparent activation of two receivers by a single transmitter. This can be due to one of several causes: operating frequencies the same or too close, crystal harmonics, transmitter at the image frequency of the second receiver, IM with an unknown source, etc. If activating the second transmitter results in proper operation of both systems this effect can usually be ignored. Recommended operating procedure is to turn up a receiver only when its transmitter is active. If it is desired to allow open receivers without transmitters, readjusting the squelch settings may suffice. Otherwise the operating frequencies may have to be changed.
+
+
+	
+		
+			
+				
+					
+						
+							
+								
+									Troubleshooting Guide
+							
+						
+						
+							
+								Conditions: TX on, RCV on, single system
+						
+						
+							
+								Symptom
+							
+								TX - RCV
+								Distance
+							
+								Possible cause
+							
+								Action
+						
+						
+							
+								No AF signal and no RF signal
+							
+								any
+							
+								low TX battery voltage
+							
+								replace battery
+						
+						
+							
+								No AF signal and no RF signal
+							
+								any
+							
+								TX and RCV tuned to different frequencies
+							
+								retune one or both units
+						
+						
+							
+								No AF signal and no RF signal
+							
+								average
+							
+								multipath dropout
+							
+								use diversity RCV or reposition TX and/or RCV
+						
+						
+							
+								No AF signal and no RF signal
+							
+								long
+							
+								out of range
+							
+								move TX closer to RCV
+						
+						
+							
+								No AF signal but normal RF signal
+							
+								any
+							
+								TX muted
+							
+								un-mute TX
+						
+						
+							
+								No AF signal but normal RF signal
+							
+								any
+							
+								microphone or other input source
+							
+								check input source
+						
+						
+							
+								Distortion with no AF peak indication
+							
+								any
+							
+								low TX battery voltage
+							
+								replace battery
+						
+						
+							
+								Distortion with AF peak indication
+							
+								any
+							
+								excessive TX input level
+							
+								decrease source level or TX input level
+						
+						
+							
+								Distortion with AF peak indication in subsequent equipment
+							
+								any
+							
+								excessive RCV output level
+							
+								decrease RCV output level
+						
+						
+							
+								Noise with low AF signal and normal RF signal
+							
+								any
+							
+								insufficient TX input level
+							
+								increase source level or TX input level
+						
+						
+							
+								Noise with low AF signal and normal RF signal
+							
+								any
+							
+								strong RFI
+							
+								identify source and eliminate, or change frequency of wireless microphone system
+						
+						
+							
+								Noise with normal AF signal and low RF signal
+							
+								average
+							
+								moderate RFI
+							
+								increase squelch setting until RCV mutes
+						
+						
+							
+								Noise with normal AF and RF signals
+							
+								any
+							
+								very strong RFI
+							
+								identify source and eliminate, or change frequency of wireless microphone system
+						
+						
+							
+								Intermittent AF signal and low RF signal
+							
+								long
+							
+								out of range
+							
+								move TX closer to RCV
+						
+						
+							
+								Intermittent AF signal and low RF signal
+							
+								long
+							
+								insufficient antenna gain
+							
+								use higher gain antenna
+						
+						
+							
+								Intermittent AF signal and low RF signal
+							
+								
+									long
+							
+							
+								excessive antenna cable loss
+							
+								use low loss cable and/or less cable
+						
+						
+							
+								Intermittent AF and RF signals
+							
+								average
+							
+								multipath interference
+							
+								use diversity RCV or reposition TX and/or RCV
+						
+						
+							
+								Intermittent AF and RF signals
+							
+								average
+							
+								obstructions in signal path and/or RCV
+							
+								remove obstructions or reposition TX
+						
+						
+							
+								Intermittent AF and RF signals
+							
+								average
+							
+								squelch set too high
+							
+								decrease squelch setting
+						
+						
+							
+								Intermittent AF and RF signals
+							
+								average
+							
+								very strong RFI
+							
+								identify source and eliminate, or change frequency of wireless microphone system
+						
+						
+							
+								
+								When multiple systems are in use some additional problems can occur due to interaction between the systems. Turning individual systems on and off and trying systems in different combinations can help to pinpoint the cause. However, this can become much more difficult as the number of systems increases.
+								
+									Following are some multiple system troubleshooting suggestions for symptoms observed when all systems are active.
+									
+							
+						
+						
+							
+								Conditions: TX on, RCV on, multiple systems
+						
+						
+							
+								Symptom
+							
+								Distance
+							
+								Possible cause
+							
+								Action
+						
+						
+							
+								Distortion on two (or more) systems with no AF peak indication
+							
+								any
+							
+								units on same frequency
+							
+								change frequencies
+						
+						
+							
+								Distortion on one (or more) systems with no AF peak indication
+							
+								TX-TX short
+							
+								TX + TX intermod
+							
+								change frequencies
+						
+						
+							
+								Distortion on one (or more) systems with no AF peak indication
+							
+								TX-TX short
+								TX-RCV short
+							
+								TX + TX intermod
+								TX + TX + RCV intermod
+							
+								increase TX to TX distance
+								change frequencies
+						
+						
+							
+								Distortion on one (or more) systems with no AF peak indication
+							
+								TX-RCV short
+							
+								TX + TX + RCV intermod
+							
+								increase TX to RCV distance
+						
+					
+				
+			
+		
+	
+
+

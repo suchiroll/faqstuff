@@ -1,0 +1,20 @@
+Title: Outdoor theater for spoken voice - how to reinforce the actors' voices
+Id: 3263
+Legacy Id: 3418
+
+Question:
+I am the audio engineer and designer for a young Shakespeare theatre which concentrates on outdoor performances. I have spent the past two years jury-rigging a system from hyper cardioid, super cardioid and cardioid mics to be able to pick up the actors as they travel around the 35' wide by 25' deep grass playing space in hopes to project their voices onto the 50' by 200' grass audience space.
+
+I have had much success in the past using your SM58 and SM87a models, but I wonder if there is something more appropriate to use? Body mics are out of the question due to the cost of batteries and equipment. Boundary mics tend to have reduced pick up when placed in the grass, cardioids tend to lose any real pick up at 10' and hypercardioids introduce a great deal of wind noise even when covered with screens.
+
+As you can imagine, the system is tuned to balance on a knife's edge, but with practice I have made it work.
+
+Any suggestions you have would be appreciated.
+
+
+Answer:
+
+	We have no words of wisdom. As you have moving talkers and stationary microphones, the production of quality audio is problematic BECAUSE it is not possible to keep a constant distance between the talkers mouth and the mic. Think of any high quality audio production - distance between the talker and the mic is kept constant, or relatively so. Broadway theatre employs mics mounted on the head. TV employs a mic on the chest. Radio employs a boom mic and a stationary announcer. Live music employs a mic positioned very close to the mouth. Film employs an overhead mic on a boom-arm being moved by a human to track the actors.
+	
+	There is no magical mic solution to your requirement. Our best recommendation would be a flat response, cardioid, condenser mic with very effective windscreen: Shure PG81 mic with A81WS windscreen - as an example.
+

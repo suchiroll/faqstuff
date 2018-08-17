@@ -1,0 +1,76 @@
+Title: What does the term "dB" mean? How do you calculate it?
+Id: 1331
+Legacy Id: 1383
+
+Question:
+I've heard the term "dB" used frequently in sound. What is it? How do I calculate it?
+
+
+Answer:
+
+	THE DECIBEL
+
+	What is a dB?
+
+	The decibel (dB) is an expression often used in electrical and acoustic measurements. The decibel is a number that represents a ratio of two values of a quantity such as voltage. It is actually a logarithmic ratio whose main purpose is to scale a large measurement range down to a much smaller and more useable range. The decibel is not a unit of measure such as feet, inches, or pounds. The decibel is a comparison between two values. The form of the decibel relationship for voltage is:
+
+	dB = 20 x log(V1/V2)
+
+	where 20 is a constant, V1 is one voltage, V2 is the other voltage, and log is logarithm base 10.
+
+	Examples:
+
+	
+		What is the relationship in decibels between 100 volts and 1 volt?
+	
+		dB = 20 x log(100/1)
+		dB = 20 x log(100)
+		dB = 20 x 2 (the log of 100 is 2)
+		dB = 40
+	
+		That is, 100 volts is 40dB greater than 1 volt.
+	
+		What is the relationship in decibels between 0.001 volt and 1 volt?
+	
+		dB = 20 x log(0.001/1)
+		dB = 20 x log(0.001)
+		dB = 20 x (-3) (the log of .001 is -3)
+		dB = -60
+	
+		That is, 0.001 volt is 60dB less that 1 volt.
+
+
+	Similarly:
+
+	
+		if one voltage is equal to the other they are 0dB different
+	
+		if one voltage is twice the other they are 6dB different
+	
+		if one voltage is ten times the other they are 20dB different
+
+
+	What is dBV or dBm?
+
+	Since the decibel is a ratio of two values, there must be an explicit or implicit reference value for any measurement given in dB. This is usually indicated by a suffix on the decibel value such as: dBV (reference to 1 volt which is 0dBV) or dBm (reference to 0.775 volts). In other words, to calculate dBV, use 1 volt as V2 in the above equations. To calculate dBm, use 0.774 volts as V2 in the above equations. Therefore, dBV and dBm are a little different than just a plain dB because they have a specific set value for V2. The terms dBV and dBm are units of measure, where as the term dB is not a unit of measure.
+
+	What is dB SPL
+
+	Just like dBV or dBm, dB SPL uses a constant, specific value in the denominator of the equation. dB SPL is referenced to 0.0002 microbar. In other words, 0.0002 microbar is equal to 0 dB SPL. Therefore, if a sound level measures 75 dB SPL, that means the sound is 74 dB greater than 0.0002 microbar. The term dB SPL is a unit of measure, where as the term dB is not a unit of measure.
+
+	Be very careful about the use of the term dB. The term dB should only be used when talking about greater than, less than, increased by, or decreased by. At all other times, the terms dBV, dBm, dB SPL, dBW, dBs, etc should be used.
+
+	
+		Incorrect: This microphone has an output level of -54 dB.
+		Correct: This microphone has an output level of -54 dBV.
+		
+		Incorrect: The sound pressure level was 102 dB.
+		Correct: The sound pressure level was 102 dB SPL.
+		
+		Correct: The first track is 2 dB louder than the second track. (This statement is correct because it is specifically stating that the first and second track are being compared. Thus, both values that are being compared are given.)
+		
+		Correct: John is 1.5 dB taller than Bill. (While the decibel is typically used for audio and electrical comparisons, it can be used for other comparisons, such as length, weight, etc.)
+
+
+	One reason that the decibel is so useful in certain audio measurements is that this scaling function closely approximates the behavior of human hearing sensitivity. For example, a change of 1dB SPL is about the smallest difference in loudness that can be perceived while a 3dB SPL change is generally noticeable. A 6dB SPL change is quite noticeable and finally, a 10dB SPL change is perceived as twice as loud.
+

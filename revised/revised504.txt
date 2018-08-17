@@ -1,0 +1,13 @@
+Title: Line output from mixer XLR to mic input
+Id: 504
+Legacy Id: 514
+
+Question:
+How do I go about converting from line to mic signal? I need to take a line signal w/ XLR from a mixer, send it to a transmitter -> then from the receiver to mic input on a camcorder.  Any Help you can offer would be nice.
+
+Answer:
+
+	To convert from line to mic level, use the Shure A15LA. This device is female XLR in and male XLR out. It provides 50 dB of attenuation. The A15LA can be used at the output of your mixer.
+	
+	If you also need to convert the receiver output to mic level, the A15AS can also be used if this output is also XLR, line level, and balanced.
+

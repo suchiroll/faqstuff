@@ -1,0 +1,19 @@
+Title: Miking a choir - outside using sound reinforcement
+Id: 2661
+Legacy Id: 2765
+
+Question:
+Which microphone, and how many, would you recommend using to best mic a choir of 30 on risers, outdoors using sound reinforcement for a crowd of 300 people? any suggestions for placement or other ideas for success would be greatly appreciated
+
+
+Answer:
+
+	Two cardioid condenser mics of the same model, each with the A81WS windscreen. Mount both on the Shure A27M stereo mic mount with the mics in an X-Y positioning (explained on the A27M sheet).
+	
+	Learn more about choir miking in the Houses of Worship book.
+	
+	See the following link: How do I mic a choir?
+	
+	To see what microphones we recommend for choirs, see our online selection guide at:
+	Selection Guides
+

@@ -1,0 +1,11 @@
+Title: Termination on antenna splitters
+Id: 322
+Legacy Id: 329
+
+Question:
+Is it always good to put 50 Ohm resistance termination on all the input(s) not used in any antenna splitter (UHF or VHF) or Shure products do not need them? I could not find anything about that in your manuals.
+
+Answer:
+
+	It is not necessary to put terminators on unused antenna splitter outputs. The circuitry inside the splitter provides termination whenever there is not anything hooked up to an individual output.
+

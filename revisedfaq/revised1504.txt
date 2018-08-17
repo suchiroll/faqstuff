@@ -1,0 +1,13 @@
+Title: Differences between SM58 and the BG 3.1
+Id: 1504
+Legacy Id: 1557
+
+Question:
+What is the difference between the SM58 and the BG3.1 mics?
+
+
+Answer:
+
+	Though these mics have similar specifications, the SM58 definitely sounds better: more low end and an extended high end.
+	
+	If you intend to use the mic only for speech, you will likely hear little difference between these two models. But in a music application, the SM58 will be better.

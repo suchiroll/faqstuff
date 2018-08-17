@@ -1,0 +1,18 @@
+Title: WBH53BX terminated to a 1/4" plug?
+Id: 2044
+Legacy Id: 2109
+
+Question:
+I have an Audio Technica wireless system. My questions are... 1) Does the WBH53 Headset microphone plug into the Audio Technica wireless body pack which has the mini 4 wire connector 2) If not, can I attach a 1/4" plug to the WBH53BX to plug it into either a mixer, or the wireless body pack? 3) If I use the 1/4" connector to terminate the WBH53BX, will I notice signal loss when coupling via a barrel connector (1/4" female to 1/4" female) to allow plugging into the wireless body pack?
+
+
+Answer:
+
+	1) Does the WBH53 Headset microphone plug into the Audio Technica wireless body pack which has the mini 4 wire connector? *Please supply the exact name and model number of the connector used on your AT transmitter. AT has used several connectors and we need to know EXACTLY what connector is on your unit.
+	
+	2) If not, can I attach a 1/4 plug to the WBH53BX to plug it into either a mixer? *No.
+	
+	2a) If not, can I attach a 1/4 plug to the WBH53BX to plug it the wireless body pack? * No.
+	
+	3) If I use the 1/4 connector to terminate the WBH53BX, will I notice signal loss when coupling via a barrel connector (1/4 female to 1/4 female) to allow plugging into the wireless body pack? * You cannot use the WBH53BX with a 1/4 connector.
+

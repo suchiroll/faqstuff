@@ -1,0 +1,12 @@
+Title: SM58 works into preamp, but SM81 does not.
+Id: 1205
+Legacy Id: 1249
+
+Question:
+I just bought a pair of SM81 mics and wonder what type of preamp is needed for them to work properly. Will an ART Tube MP suffice?
+
+
+Answer:
+
+	Any microphone preamp that supplies phantom power will work. Make certain to turn on the phantom power for the preamp; that you are using. Contact ART to find out if this preamp has phantom power.
+

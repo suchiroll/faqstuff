@@ -1,0 +1,26 @@
+Title: Receiver antenna orientation - does it matter?
+Id: 4555
+Legacy Id: 5678
+
+Question:
+I have read that receiver antennas MUST be positioned like "rabbit-ears", with one 45 degrees to the left and the other 45 degrees to the right. Is this true?
+
+Answer:
+
+	Theory and practice may have different results. Typically, signal strength fluctuation due only to polarization angle difference (how the antennas are angled relative to each other) is no more than 10 to 15dB.Signal strength fluctuation due only to multipath cancellation may be as much as 30 to 35dB.
+	
+	The total signal strength fluctuation at a receive antenna will be a combination of these two effects, which could potentially be somewhat more than 40dB in the worst case.
+	
+	If one had to choose between space diversity only (antennas spaced apart but oriented in the same direction) or polarization angle diversity only (antennas not spaced apart but oriented orthogonally), then we would suggest choosing space diversity because the potential signal fluctuation due to multipath is significantly greater than the fluctuation due to polarization angle.
+	
+	Ideally, we suggest using both methods which results in the traditional spaced, rabbit ears setup.
+	
+	So, is the performance difference noticeable if only space diversity is used?Probably only if you are operating in a high RF noise environment and/or an end-of-range condition.
+
+	
+
+	
+
+	
+	
+

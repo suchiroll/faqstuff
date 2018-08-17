@@ -1,0 +1,26 @@
+Title: Extension for MicroFlex (MX400 series) Gooseneck
+Id: 3058
+Legacy Id: 3189
+
+Question:
+Can Shure extend the length of a MicroFlex gooseneck?
+
+
+Answer:
+
+	Shure does not provide this service.
+
+	However, this service is offered by:
+
+	Garret Maki
+	1205 W. 7th Ave Dr.
+	Broomfield, CO 80020 USA
+	Email: openear2001@yahoo.com
+	Phone: 303-521-6716
+
+	As of February 2005, the fee for this service is $275 to $325. The turnaround time is typically 7 to 14 days. The rigid center section of the gooseneck is where the additional length is added.
+
+	Note that this service makes any Shure warranty null and void.
+
+	Note that Shure does not endorse this product, nor will Shure service this product. We provide this information solely as a service to customers seeking such a modification.
+

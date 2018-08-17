@@ -1,0 +1,31 @@
+Title: Fifty channels of MXW wireless?
+Id: 4525
+Legacy Id: 5643
+
+Question:
+I have a requirement where I would like to utilize all MXW products. Each bullet point is for an individual room, but each room is right next to one another. Could you confirm for me that these will all function without interfering with each other?
+
+· Shure MXW (2 x HH; 2 x Lav)
+· Shure MXW (2 x HH; 2 x Lav)
+· Shure MXW (2 x HH; 2 x Lav)
+· Shure MXW (2 x HH; 2 x Lav)
+· Shure MXW (2 x HH; 2 x Lav)
+· Shure MXW (16 x Boundary)
+· Shure MXW (4 x HH; 4 x Combo; 4 x Gooseneck)
+· Shure MXW (2 x Combo)
+
+
+Answer:
+
+	While it may very well be possible to accomplish the channel count (50 systems if we have understood the list and counted correctly),we cannot guarantee perfect compatibility of the system for a multiple reasons.
+	
+	First, the stated maximum channel count is up to 40 systems in one room (80 systems in high density mode).We understand that these will not be used in one room but you do indicate that the rooms are adjacent to each other which means that we are relying on the walls to help attenuate the signals enough to free up spectrum to achieve an additional 10 systems.This may work but will likely require more information about wall construction and a picture of actual room to room layout.At the very least, you will need to make certain that the MXW systems are all networked so that they share the same digital clock reference.This assists with their compatibility.
+	
+	Second, you may have to achieve this using varying power settings depending on floor plan and building construction and room dimensions.Here is a link to an FAQ regarding MXW multi channel operation that discusses a number of points including what the RF power levels are for MXW and their estimated range: Microflex wireless channel limitation
+	
+	Third, the maximum channel count of the system also depends on how crowded the DECT spectrum already is.Whenever entertaining channel counts this high, it is essentially a requirement to conduct a site scan using one of the MXWAPTs.If this isnt possible because the building doesnt exist yet, it would be good to make sure that no other DECT devices are on the bid.These include other DECT wireless like Revo Labs, cordless DECT phones, headsets like certain Plantronics models, etc.
+	
+	Fourth, we should discuss what you mean by Combo in the list. The MXW choices are Gooseneck, Boundary, Handheld, and Bodypack.The traditional Combo system where you use two transmitters with one receiver as long as you only use one at a time does not work conveniently with MXW.Each mic is specifically paired with a specific receiver channel.Combo operation requires repairing mics each time and may prove cumbersome to the end-user.It will also be important to know the total gooseneck transmitter count because the MXW8 gooseneck bases take up two slots on a charger...so the quantity of goosenecks will affect the quantity of chargers needed.
+	
+	We also recommend that you contact your Shure rep as they can provide useful local assistance.
+

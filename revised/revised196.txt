@@ -1,0 +1,11 @@
+Title: LX1 Transmitter Needs new Mic
+Id: 196
+Legacy Id: 197
+
+Question:
+I have an LX1 transmitter.  We have lost the microphone that came with it? Is there a specific microphone that you can recommend for it, or even get another of the same one that came with it? May I also mention that this is for a church, if that would make any difference as to the type of mic that we should buy.
+
+Answer:
+
+	There are many microphones that will work with the LX1, so it really depends on what you need for your application. Chances are you probably want a lapel microphone. For most general speaking applications with live sound reinforcement, a cardioid pattern (unidirectional) microphone works well. The WL185 will probably be the best choice. This may or may not be the microphone that came with the LX system, but it should work fine.
+

@@ -1,0 +1,12 @@
+Title: Simplex Power on M267 mixer
+Id: 1194
+Legacy Id: 1238
+
+Question:
+Couldn't get a hit on "SIMPLEX" the manual talks about phantom power (switch etc.) My M267 says SIMPLEX on/off. Are they the same?
+
+
+Answer:
+
+	Yes.Simplex is the same as phantom power. Many years ago, both names were used. Phantom power has become the preferred term.
+

@@ -1,0 +1,14 @@
+Title: Computer audio / earphone output to mic mixer input
+Id: 3109
+Legacy Id: 3242
+
+Question:
+I require a device to connect a laptop computer audio output to a mic mixer or input.
+
+
+Answer:
+
+	The earphone/headphone output from a computer is low impedance, unbalanced, and has a typical signal level of 100 millivolts. It can be connected to an aux input on a mixer, or a high impedance mic input on a mixer. Required is a cable with the proper connectors on each end.
+	
+	If the mixer only has a low impedance mic input, the computer earphone output can be connected to the 33,000 ohm side of a Shure A15BT Bridging Transformer. The 600 ohm side of the A15BT connects to the mic input.
+

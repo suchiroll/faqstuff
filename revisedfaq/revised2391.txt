@@ -1,0 +1,12 @@
+Title: How does a condenser mic operate?
+Id: 2391
+Legacy Id: 2483
+
+Question:
+I have a presentation to give on the process a condenser mic goes through to reproduce sound. I have recently bought the Shure KSM44 and find it very flexible for my recording needs, but in order to use the mic as an illustration it would be a great help to me if you could give me some tech support on it. Things like, sound waves enter the transducer of the mic, then is transformed into electric current, which is then dumped through the cord into an output device to produce a signal. But could you give me a more in-depth overview of this process.
+
+
+Answer:
+
+	Basic information on mic operation can be found in several of the booklets at: Educational Articles - Online booklets and bulletins
+

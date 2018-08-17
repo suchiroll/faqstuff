@@ -1,0 +1,22 @@
+Title: SM81 on Electric Guitar Amplifier use?
+Id: 2544
+Legacy Id: 2641
+
+Question:
+Could you let me know if is not completely insane to try a SM81 on my Electric Guitar Amp for recording? What should I take care of to do it and get good sound and without any damage for my SM81?
+
+
+Answer:
+
+	You will not damage the SM81 with high SPL, but it might produce a distorted signal.
+	
+	Suggestions:
+	
+	1. Use the 10 dB pad.
+	
+	2. Use the lo-cut filter in the steep position.
+	
+	3. Place the mic capsule at a 45 degree angle in relation to the speaker cone.
+	
+	4. Experiment with different mic positions and distances.
+

@@ -1,0 +1,15 @@
+Title: M70BX specs
+Id: 1237
+Legacy Id: 1283
+
+Question:
+Besides the difference in the audio output specification (mV), what is the difference in this cart over the other ones, as well I know that the output of the cart is also almost 2000 Hz in frequency difference from the top of the audio spectrum. being 18000 from the 20000 in the other carts.
+
+
+Anyways I just got one this weekend, I changed a older Spectrum W/ SC95-II for a M70BX. Works nice as well on my 1200MK2 , I have not tried it out on my Akai as of yet, but It should be the same.
+
+
+Answer:
+
+	The M70BX has a spherical stylus tip; more expensive models have an elliptical tip. The M70BX has less channel separation than more expensive models. And as you already noted, the M70BX has a frequency response that is not as wide as more expensive models.
+

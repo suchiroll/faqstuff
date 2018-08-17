@@ -1,0 +1,17 @@
+Title: Does DP11EQ have a side-by-side rack mount?
+Id: 227
+Legacy Id: 232
+
+Question:
+This relates to the entire line of DSP Products? My distributor cannot locate one. Can you supply this info?
+
+We are integrating a system using an Arrakis Console and I want to use the DP11EQ for the dynamics control on the console mix-minus output. Do you have specific information on this application?
+
+
+Answer:
+
+	You can view and download the complete manual for the DP11EQ at the Shure website.
+	
+	The DP11EQ is a half-rack space unit and is supplied with rack panels for single and dual mounting.
+	
+	We do not have specific information on your application, but we see no reason that the DP11EQ should not work for you.

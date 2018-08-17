@@ -1,0 +1,27 @@
+Title: SM58 with X2U on Apple OSX 10.9.3
+Id: 4516
+Legacy Id: 5632
+
+Question:
+My sonpurchased a Shure mic for my birthday, and I need help with getting it set up with Audacity. I’ve plugged in the USB and followed the instructions from the video on your website. The quicktime player recognized the mic, and played back on the headphones. So far, so good.
+However, Audacity does not recognize the mic at all. My son told me to download the drivers from the Shure website, so I tried that.
+Unfortunately, the driver software does not work on my MacBook. The readme file said that OSX 10.4.11 is supported, but I am running OSX 10.9.3.
+I would love to use the mic for recording my vocals on Audacity and mixing it with karaoke. I really appreciate your help in making this work.
+
+
+Answer:
+
+	It is feasible to successfully use an X2u on a MacBook Pro that is running 10.9.4 (10.9.3 was no longer easily available as there is an update).
+	
+	First thing is to make certain that your OSX is up to date (10.9.4) and that the version of Audacity that you have is the most recent (should be version 2.0.5) This was written July 2014.
+	
+	Before starting Audacity, make sure to plug the X2u into one of the USB ports.It is important to have the X2u plugged in and verified by your OS prior to starting Audacity.We found that ifwe started Audacity and then plugged in the X2u, Audacity would not update to recognize it.If you do this, you can just quit Audacity and start it again with the X2u plugged in.One way of verifying that the X2u has been discovered by your Mac is to click on System Preferences = Sound.Then check that the Shure Digital device shows up as an Input and Output device.If it does, Audacity should also see it.
+	
+	Once the X2u is plugged in and you have verified that your OS sees it, start Audacity.Once it opens, there seems to be two methods of selecting to use the X2u.
+	
+	1) There are two drop downs on the main screen.One that pictures a microphone and one that looks like the standard speaker with curved lines emanating from it.By default, these show Built-In Mic or Built-In Output.You should be able to change these to Shure Digital.It is recommended to set the output to be Shure Digital so that you can monitor through the X2u headphone output because this is offers zero latency monitoring.Monitoring through your Built-In Output and the headphone jack of your Mac will have some latency (digital delay) associated with it and can be distracting.
+	
+	2) In Preferences, you can also select Shure Digital as the playback and recording device.
+	
+	If you would like to see microphone level metering, you will need to enable this meter.In the upper right corner where the meter is with a mic symbol by it, there should be a Down arrow that has a drop down menu.Select the options to Enable Meter and Start Monitoring.You should then see metering of your mic level.The output wont meter until playback.
+

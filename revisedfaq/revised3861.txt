@@ -1,0 +1,14 @@
+Title: Microphone with PTT switch and male XLR output
+Id: 3861
+Legacy Id: 4103
+
+Question:
+Does Shure make a variation of the 515SBGX mic that has a PTT (Push To Talk) switch?
+
+
+Answer:
+
+	Sorry we do not. However, a Switchcraft adapter, model P3M, may be added to the 515SBGX mic to provide a male XLR output.
+	
+	The P3M fastens to the 515SBGX via a 5/8-27 thread. The male XLR in the P3M must be soldered to the cable that exits from the bottom of the 515SBGX.
+

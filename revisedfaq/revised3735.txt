@@ -1,0 +1,13 @@
+Title: Discontinuation - models RS25, RS35, RS45
+Id: 3735
+Legacy Id: 3969
+
+Question:
+When were these microphones discontinued? What replaced these models?
+
+
+Answer:
+
+	The RS25, RS35, and RS45 microphones were discontinued in August 2010. The RS25 was replaced by the model SV100.
+	The RS45 was replaced by the model SV200.
+	The RS35 was not replaced by a new model.

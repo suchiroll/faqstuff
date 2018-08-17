@@ -1,0 +1,15 @@
+Title: U2/Beta 87 microphone with other recievers
+Id: 706
+Legacy Id: 724
+
+Question:
+I am in the position to purchase just a U2/Beta 87 microphone and a U1 bodypack. If I were to purchase say a T-Series, a UT-Series, or and LX-Series reciever on the same frequency as the U2/Beta 87, would the transmitters work? Or will it only function on a U Reciever?
+
+
+
+
+
+Answer:
+
+	The T Series, UT Series, and LX Series are not offered on the same frequency as the U2 transmitter. You cannot get these other systems on the same frequency as your U2 transmitter.
+

@@ -1,0 +1,52 @@
+Title: Does DIS-CCU include a power supply?
+Id: 4839
+Legacy Id: 6025
+
+Question:
+Does the DIS-CCU central control unit include a power supply?
+
+
+Answer:
+
+	The DIS-CCU is available with or without an included power supply, depending on region.The model DIS-CCU does not include a power supply.
+	
+	Five other DIS-CCU models do include a power supply:
+
+	
+		DIS-CCU-AR (Argentina)
+	
+		DIS-CCU-BR (Brazil)
+	
+		DIS-CCU-E (Europe)
+	
+		DIS-CCU-UK (United Kingdom)
+	
+		DIS-CCU-US (USA)
+
+
+	Power supplies are also available separately for 11 countries:
+
+	
+		PS-CCU-AR (Argentina)
+	
+		PS-CCU-AZ (Australia)
+	
+		PS-CCU-BR (Brazil)
+	
+		PS-CCU-CHN (China)
+	
+		PS-CCU-E (Europe)
+	
+		PS-CCU-IN (India)
+	
+		PS-CCU-J (Japan)
+	
+		PS-CCU-K (Korea)
+	
+		PS-CCU-TW (Taiwan)
+	
+		PS-CCU-UK (United Kingdom)
+	
+		PS-CCU-US (USA)
+
+

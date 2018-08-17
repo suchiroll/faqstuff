@@ -1,0 +1,17 @@
+Title: Beta 87A requires two monitors to have balanced  sound in mono application?
+Id: 552
+Legacy Id: 563
+
+Question:
+Please explain why the Beta 87A can not have a monitor placed directly in front of the user.
+
+
+Answer:
+
+	Because the Beta 87A has a supercardioid polar pattern. For the best explaination, download the following booklet:
+	
+	Microphone Techniques for Music - Live Sound Reinforcement
+
+	
+	Page 10 of the book has a section called Using Polar Patterns to Reject Unwanted Sounds. This section has a great explanation and diagrams to answer your question.
+

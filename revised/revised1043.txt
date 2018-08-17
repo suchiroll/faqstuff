@@ -1,0 +1,25 @@
+Title: Saxophone
+Id: 1043
+Legacy Id: 1075
+
+Question:
+What system would you suggest for tenor and soprano saxophone applications? Someone suggested a WM98 with a SC14 but I don't see these products even listed. Also I'll be using a personal monitor like a Mackie that in small rooms I'd just forget about the hassels of going into a PA system, it will be loud. Are these small condenser mikes more or less prone to feedback? I'm in Rochester, NY., will VHF interference be a problem?
+
+
+Answer:
+
+	The SC14 consists of the SC1 bodypack transmitter and the SC4 receiver. Click here for more information:
+	
+	The WM98 is a wireless instrument condenser microphone that has a unidirectional (cardioid) pickup pattern. Click here for more information:
+	
+	There is also the A98KCS horn clamp. Click here for more information:
+	
+	
+	All these items can be ordered as a complete system using the model number SC14/98.
+	
+	The cardioid pickup pattern is less sensitive at 180 degrees off the front of the microphone. Thats where your monitor should be placed. (It is not whether a microphone is dynamic or condenser, its what the pickup pattern of the microphone is, that has a role in feedback susceptibility. Also the directionality of the loudspeaker and the distances between each item play a part as well.)
+	
+	The only TV channels to avoid are 8,10,and 13 within 50 miles of Rochester, NY.
+	
+	For more information about Shure wireless systems and their use in different cities:
+

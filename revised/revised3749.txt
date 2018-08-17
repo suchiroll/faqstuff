@@ -1,0 +1,16 @@
+Title: Cable for SE535 and CBL-M+-K
+Id: 3749
+Legacy Id: 3985
+
+Question:
+I had a question about the new Shure Cable for the iPhone CBL-M+-K. I was wondering if the cable is the same as my 535 cable? I ask because on the website they look thinner, or are they exactly the same as the 535 cables that come on the Bronze Version just with the mic and control buttons?
+
+
+Answer:
+
+	The diameter of the SE535 cable, measured at 5 inches below the earphone, is 0.060 inch.At the 3.5mm plug, the diameter is 0.090 inch.
+	
+	The diameter of the CBL-M+-K cable, measured at 5 inches below the earphone, is 0.060 inch.At the 3.5mm plug, the diameter is 0.090 inch.
+	
+	The cable use on the CBL-M+K is slightly more flexible than the SE535 cable.
+

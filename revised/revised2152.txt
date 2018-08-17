@@ -1,0 +1,11 @@
+Title: Maximum SPL of SM7
+Id: 2152
+Legacy Id: 2223
+
+Question:
+What kind of sound pressure levels can this mike take before distortion?
+
+
+Answer:
+
+	Over 180 dB SPL - like the sound of the Space Shuttle launch at a close distance.

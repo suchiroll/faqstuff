@@ -1,0 +1,12 @@
+Title: Supercardioid and hypercardioid
+Id: 852
+Legacy Id: 878
+
+Question:
+What is the difference between super and hyper cardioid?
+
+
+Answer:
+
+	The front pickup angle is narrower on a hypercardioid. To see the difference in these pickup patterns, look at the user guides for the BETA87C (cardioid), the BETA87A (supercardioid), and theVP89 (hypercardioid). These three microphones provide good examples of each pattern at multiple frequencies.
+

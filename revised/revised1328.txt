@@ -1,0 +1,110 @@
+Title: Is input SPL in direct proportion to output in volts?
+Id: 1328
+Legacy Id: 1379
+
+Question:
+Let's say we have a mic with sensitivity of -74dB open circuit for 94dB SPL,
+
+
+For 94dB we have -74dB = 200uV
+
+
+Then for an output of 200uV/2 = 100uV input SPL is 94/2 = 47dB
+
+is that correct?
+
+
+or do we have to convert SPL dB to linear?
+
+
+
+---- 07/12/2001 08:34 AM ----------------------------------------------
+
+OK, If I have an output of 100uV, that would equal to -80dBV, but my question was, what would be the INPUT SPL for an output of -80dBV (100uV)?
+
+
+In other words, if I want to plot input SPL vs output (V or dBV), what are the values for:
+
+
+100 uV - ? dB SPL
+
+200 uV - 94 dB SPL (Given by specs)
+
+300 uV - ? dB SPL
+
+and so on
+
+
+Thanks
+
+
+Answer:
+
+	At 07/11/2001 04:38 PM we wrote - No, that is not correct. The dB is a logarithmic scale.
+	
+	If you have an output of 100 uV, that would equal -80 dBV. Every time you halve the voltage, the signal drops by 6 dB.
+	
+	Also see:
+	
+	How do I compare the sensitivity of two microphones?
+	
+	At 07/12/2001 10:00 AM we wrote - As you can see from the following table, the dB increase/decrease in the input (expressed in dB SPL) directly corresponds to the dB increase/decrease in the output voltage (expressed in dBV). So, if the input decreases by 4 dB, then the output of the microphone will also decrease by 4 dB. So, take the given specification, subtract 4 dB from it, and then use the equation to calculate the voltage.
+	
+	BTW, in audio, we hardly ever talk about raw voltage. Instead we discuss things in terms of dBV. That is why you will see that term used all the time.
+	
+	Equation: (value in dBV) = 20 log (voltage)
+
+
+
+	
+		
+			
+				INPUT
+			
+				OUTPUT
+		
+		
+			
+				dB SPL
+			
+				uV
+			
+				dBV
+		
+		
+			
+				88
+			
+				100
+			
+				-80
+		
+		
+			
+				94
+			
+				200
+			
+				-74
+		
+		
+			
+				98
+			
+				300
+			
+				-70
+		
+		
+			
+				100
+			
+				400
+			
+				-68
+		
+	
+
+
+	
+

@@ -1,0 +1,11 @@
+Title: Replacement for M110HE
+Id: 294
+Legacy Id: 301
+
+Question:
+What can I use to replace the discontinued M110HE cartridge?
+
+Answer:
+
+	That depends on which mount your turntable has. The M97xE or M94E/MP94E would be good choices for you to look at.
+

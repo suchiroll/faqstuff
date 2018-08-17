@@ -1,0 +1,17 @@
+Title: Shure M75D and NB71 Stylus
+Id: 2426
+Legacy Id: 2520
+
+Question:
+I recently purchased the above item. Can you tell me something about the quality and stylus selection? I cannot find the NB71 stylus in your knowledge base and I wonder if it is the right needle? Also, what is the proper tracking weight for this combination? It sounds good.
+
+I also got an M95ED cartridge and stylus and would like to know the same information on it.
+
+
+
+Answer:
+
+	We have no record of an NB71 stylus. It might be a replacement stylus not made by Shure. The proper Shure replacement stylus for the M75D is the N75B Type 2: spherical tip; 1.5 to 3 grams tracking range; good quality.
+	
+	The M95ED replacement stylus is the N95ED: biradial tip; 0.75 to 1.5 tracking range; better quality.
+

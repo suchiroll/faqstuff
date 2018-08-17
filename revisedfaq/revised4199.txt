@@ -1,0 +1,11 @@
+Title: Multiple ULXD transmitters and encryption
+Id: 4199
+Legacy Id: 5156
+
+Question:
+Can both a handheld and bodypack transmitter be synced to a receiver so that either one will work without re-syncing?Can this be done in "Encryption" mode?We have 8 of these systems in a courthouse and the customer wants to use the handheld in one session and the bodypack in another session.
+
+Answer:
+
+	Multiple transmitters can be synced to a receiver when encryption is on.Note that for 1 receiver, only 1 transmitter can be turned on at any time.
+

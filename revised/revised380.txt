@@ -1,0 +1,59 @@
+Title: T Series polarity
+Id: 380
+Legacy Id: 387
+
+Question:
+Polarity query : All Shure wireless models we have tested for polarity ie positive acoustic pulse into the microphone of the transmitter and measuring the output polarity of both the XLR and phone jack output show pin 2 positive [in polarity] EXCEPT for the T series which shows opposite ie pin 3 positive.
+
+This seems inconsistent with other products including wired microphones and requires a inline reverser if several models are used for vocals on the same stage.Is this correct as the operation manual for the T series omits mention of polarity also ?
+
+
+At 10/09/2000 06:06 PM you wrote - I have just verified our tests again with the following results :Tested T series system against L series and UT series. T series opposite polarity relative to the other two on both XLR and phone jack tip. Neutric minirator polarity function test source via powered speaker. Neutric Minilyzer XLR input from XLR output of receiver and Minilyzer RCA input from jack output of receiver. All cables and test speaker checked for absolute polarity and test repeated with Galaxy Cricket polarity test system. Did also have a HH transmitter for the 189 T series [stolen last week] that when tested also resulted in reversed polarity result with the T4V receiver.
+
+
+Shure models:
+
+T Series 171.845
+
+WL185 and WL83
+
+T1 transmitter
+
+T4V receiver NEGATIVE polarity XLR  Tip phone jack
+
+
+L series 189.000
+
+WL185 and WL83
+
+LX1-CJ
+
+L4-CJ POSITIVE polarity both outputs
+
+
+UT series 600.800
+
+Handheld transmitter SM58
+
+UT4 receiver POSITIVE polarity XLR Mic /Line
+
+
+
+Answer:
+
+	This has not been brought to our attention before. Please provide the exact model number of the T Series transmitter, mic element, and receiver in which you have discovered this problem.
+	
+	Do you show pin 3 positive AND the phone jack tip positive?
+	
+	At 10/10/2000 07:58 AM we wrote -
+	
+	Your findings are correct. Here is an Engineering note I found from October 1999:
+	
+	"The old T Series was designed correctly at the beginning. At some point during the product lifecycle, we changed a component in the FM detector area of the circuit and began using the Quad-coil component we use everywhere now. This change reversed the polarity of the audio signal, making the old T Series
+	incorrect.
+	
+	"The New T Series (introduced in 2000 with a 1/2 rack sized receiver) was designed correctly as well, and since it started out using the Quad-coil, it's output polarity matches the stated Shure standard:
+	
+	"A positive pressure at the microphone diaphragm shall produce a positive voltage swing on pin two relative to pin three of the XLR, and a positive voltage swing on the tip, relative to ground, of the 1/4" connector."
+	
+	There is no quick fix inside of your T Series receiver. The external polarity reverser is the only logical solution.

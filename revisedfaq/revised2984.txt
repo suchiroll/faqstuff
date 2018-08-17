@@ -1,0 +1,22 @@
+Title: MX391 with 3 pin mini connector - Model 700623-002
+Id: 2984
+Legacy Id: 3112
+
+Question:
+I just bought a microphone from eBay that looks like the MX391, except it has a 3 pin mini connector on it. It is model 700623-0002. How do I adapt this to an XLR connector?
+
+
+Answer:
+
+	That was an OEM microphone that we made for Intel. The connector on it was specialized to Intel. Follow these instructions to connect this microphone to a normal XLR input on a mixer:
+	
+	1) Cut off the 3-pin mini connector.
+	
+	2) Solder on a new 4 pin TA4F connector. This can be ordered as Shure part number WA330. Wiring is as follows:
+	
+	Shield - Pin 1
+	Red wire - Pin 2
+	Black wire - Pins 3 and 4
+	
+	4) Purchase the RK100PK inline electronics module. The 4 pin TA4F connector will plug into the RK100PK. The output of the RK100PK is a 3 pin XLR. The RK100PK requires phantom power from the mixer.
+

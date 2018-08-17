@@ -1,0 +1,16 @@
+Title: DIS-CCU Power Supply vs Power Inserter vs Power Kit
+Id: 4840
+Legacy Id: 6026
+
+Question:
+What's the difference between a power supply, a power inserter, and a power kit for the DIS-CCU central control unit?
+
+
+Answer:
+
+	A Power Supply (such as model PS-CCU-US) provides power to a central control unit or other DDS 5900 or DCS 6000 accessory.
+	
+	A Power Inserter (model PI-6000) is an accessory that provides additional power to the DCS-LAN, to accommodate additional conference units or over long cable distances; the PI-6000 requires one of the available country-specific PS-CCU-xx power supplies.
+	
+	A Power Kit (such as model PI-6000-BR) is a bundle that includes one PI-6000 Power Inserter and one PS-CCU-xx Power Supply for a particular country.For example, a PI-6000-US includes one PI-6000 and one PS-CCU-US.
+

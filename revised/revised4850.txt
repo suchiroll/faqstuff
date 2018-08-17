@@ -1,0 +1,13 @@
+Title: Motiv MV88 and Periscope app
+Id: 4850
+Legacy Id: 6036
+
+Question:
+Does the MV88 work with the Periscope app?
+
+
+Answer:
+
+	The MV88 should work fine with Periscope.  Use Shure's Motiv app to make adjustments to the MV88 settings or to choose a preset mode appropriate to the recording environment and sound source.
+	
+	Be aware that the phone may introduce noise artifacts if it accesses cellular data while recording with a Motiv mic.  For best results, disable Periscope's access to cellular data (SettingsCellular).  This should not be an issue when the phone sends or receives data over a wi-fi network.

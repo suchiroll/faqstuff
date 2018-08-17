@@ -1,0 +1,22 @@
+Title: P9T Rack Mount Hardware
+Id: 4610
+Legacy Id: 5766
+
+Question:
+Is there a rack mount kit for the P9T transmitter?
+
+Answer:
+
+	RPW503 - Single rack mount kit
+	
+	RPW504 - Dual rack mount kit (two P9T units in one rack space)
+	
+	Available from Shure Parts and Service.
+	
+	The P9T has the same chassis as these other Shure units:
+	BLX4R
+	P3T
+	PA411
+	SLX4
+	ULXD4 (Single receiver only)
+

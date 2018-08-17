@@ -1,0 +1,48 @@
+Title: Disassembly of a handheld transmitter: T Series and others
+Id: 3284
+Legacy Id: 3447
+
+Question:
+How do I disassemble my T2 handheld transmitter?
+
+
+Answer:
+
+	The procedure below works with most of Shure handheld transmitters that use a 9V battery: T, LX, SC, UT, UC, and ULX, but not PG, L, or W.
+	
+	To disassemble the T2 handheld wireless transmitter:
+	 
+	
+		Unthread the battery cap and remove battery.
+	
+		Unthread the microphone cartridge assembly from the transmitter handle.
+	
+		Using c-clip pliers or needle nose pliers, remove the c-clip inside the top of the transmitter handle. Be careful not to damage the gold spring contacts on the top pc board.
+	
+		Look down into the transmitter handle through the open area on the top pc board. Locate the plastic tab that protrudes into the interior about 3/4" below the top end of the transmitter handle.
+	
+		Using a small screwdriver, push the plastic tab slightly down and then out to release the upper end of the switch bezel from the transmitter handle.
+	
+		Using your fingers, pry the bezel the rest of the way out of the transmitter handle. Be careful not to lose the two switch actuators that are now exposed.
+	
+		Remove the two switch actuators.
+	
+		The entire circuit assembly may now be slid out of the top of the transmitter handle.
+
+	To reassemble the T2 handheld wireless transmitter:
+	 
+	
+		Slide the circuit assembly into the transmitter handle, noting the grooves on the inside walls to properly orient the circuit assembly.
+	
+		Replace the two switch actuators in the proper switch openings. They are interchangeable. Make sure to place the actuators so that they allow proper switch movement.
+	
+		Snap the bezel into place, noting the correct orientation.
+	
+		Using c-clip pliers or needle nose pliers, replace the c-clip inside the top of the transmitter handle. Note that the ends of the c-clip should be over the open area on the top pc board. Note also that the c-clip should be resting snugly in the larger groove just below the threaded portion of the brass insert. Again, be careful not to damage the gold spring contacts on the top pc board.
+	
+		Reassemble the microphone cartridge assembly to the top of the transmitter handle.
+	
+		Replace the battery.
+	
+		Replace the battery cap.
+

@@ -1,0 +1,14 @@
+Title: Beta 98A element used with Beta 98 housing and vice versa
+Id: 3810
+Legacy Id: 4048
+
+Question:
+What is the sonic result when a Beta 98A mic element is used with the Beta 98 housing? And the reverse: a Beta 98 element placed onto a new Beta 98A housing?
+
+
+Answer:
+
+	Beta 98A mic element used with Beta 98 housing = Lower output level and greatly increased high frequency response.
+
+	Beta 98 element used with Beta 98A housing = Same sound as the original Beta 98. The housing doesn not change the sound of the Beta 98 element, which is essentially an MX series element.
+

@@ -1,0 +1,12 @@
+Title: USB Driver for UHF-R
+Id: 3148
+Legacy Id: 3285
+
+Question:
+I'm working on a show with four channels of UHF-R. The two receivers are connected together via the Ethernet cable, I have downloaded Wireless Workbench 4 and want to connect via USB to my laptop. When I do, my laptop says it's found new hardware, and wants to know where to locate the driver for it. I don't see anything available for download.
+
+
+Answer:
+
+	The driver was downloaded with the WWB software. It will be in a sub folder of the WWB4 software.
+

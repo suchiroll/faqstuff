@@ -1,0 +1,22 @@
+Title: Professional microphone with XLR into an Apple ipod or ipad
+Id: 3885
+Legacy Id: 4131
+
+Question:
+Any suggestions for a microphone to work with an IPOD touch 4th generation or an IPAD?
+
+
+Answer:
+
+	Shure does not offer a professional mic specific for iphone devices, primarily because the 3.5 mm connector is an unreliable connector, and the mic inputs of these devices are not designed to work with a professional, low impedance, balanced microphone output.
+
+	
+
+	Here is an accessory that could be useful for this requirement:
+	http://vericordertechnology.mybigcommerce.com/products/XLR-Adapter-Cable.html
+
+	
+
+	NOTE: Shure has not tested this accessory. Shure does not endorse this accessory.
+	
+

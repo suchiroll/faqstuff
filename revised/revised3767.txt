@@ -1,0 +1,14 @@
+Title: PG27 Stand Adapter
+Id: 3767
+Legacy Id: 4003
+
+Question:
+How do I purchase a replacement mic stand adapter for the PG27?
+
+
+Answer:
+
+	As of September 2010, this part may be purchased from Shure Parts (800-516-2525) for $17.50.
+	
+	The part number is 95A15045. The stand adapter will also work with the PG42-XLR and PG42-USB.
+

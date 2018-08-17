@@ -1,0 +1,18 @@
+Title: WH20QTR repair
+Id: 1565
+Legacy Id: 1620
+
+Question:
+I own a Shure single diversity VHF "Headset" wireless system. The headworn mic is broken - the cable got stretched. Can I plug an aftermarket headset mic into the 1/4" jack on the beltpack transmitter? Is the factory mic dynamic or condenser? If the aftermarket mic won't work, can I buy a new one from the factory? The dealer that I purchased it through doesn't sell replacement parts, and I don't think it needs to be sent back to the factory for an external mic that just needs to be plugged into the beltpack transmitter.
+
+
+Answer:
+
+	Can I plug an aftermarket headset mic into the 1/4" jack on the beltpack transmitter?
+	* It depends upon the specs of the mic.
+	
+	Is the factory mic dynamic or condenser?
+	* Dynamic.
+	
+	If the aftermarket mic won't work, can I buy a new one from the factory?
+	* Why not send it to Shure Service for repair? It will be cheaper than buying a new one. Call 800-516-2525.

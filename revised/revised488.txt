@@ -1,0 +1,14 @@
+Title: Quality of headset vs SM87 cordless -- vocal sounds
+Id: 488
+Legacy Id: 498
+
+Question:
+We are currently using a SM87 cordless system that has a hand held cordless mic. Is there a headset that can be used with that system and will it have the same or better or worse voice clearity and transmission?
+
+
+Answer:
+
+	To answer your question, please provide the exact model number of your Shure wireless system and the operating frequency.
+	
+	The answers are: Yes, there is a headset that will work. No, it will probably not sound quite as good as the SM87 as the SM87 is a superb microphone.
+

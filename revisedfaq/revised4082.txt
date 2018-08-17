@@ -1,0 +1,20 @@
+Title: Repair of wireless systems in the 700 MHz band after July 2010
+Id: 4082
+Legacy Id: 4656
+
+Question:
+I own a Shure wireless system that operates in the range of 698 - 806 MHz and it needs repair. I understand that this frequency band is now illegal to use in the United States (as of July 2010), but I live in Trinidad in the Caribbean. This frequency range is OK in my country. Can I still have my wireless repaired by Shure?
+
+
+Answer:
+
+	As of July 2010, by Federal mandate, ShureService can no longer repair wireless products operating within the698 - 806 MHzrange, if those products will be operated within the borders of the United States.
+
+	
+
+	However, Shure Service can repair such wireless products for customers using them outside the United States. For this to take place, Shure Service requires a signed letter certifying that the repaired wireless product will not be operated within the borders of the United States.If the product is being repaired on behalf of a business, the required letter must be on company letterhead.
+
+	
+
+	Please contact Shure Service before sending the unit. Repair parts for 700 MHz systems are dwindling and will eventually be depleted.
+

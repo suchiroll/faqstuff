@@ -1,0 +1,10 @@
+Title: Noise Attenuation / Isolation for the SRH headphone line
+Id: 3733
+Legacy Id: 3967
+
+Question:
+What is the typical level of noise attenuation when using the SRH series of headphones?
+
+Answer:
+
+	At 1 kHz, the typical minimum level of attenuation is 15 dB.  It can be up to 22 dB depending upon the earphone pad contruction, and the tightness of the seal between the earphone pad and the user's head.

@@ -1,0 +1,14 @@
+Title: 527B Specifications
+Id: 1890
+Legacy Id: 1950
+
+Question:
+I am looking for A specs on the 527B microphone.
+
+
+Answer:
+
+	The specification sheet can be found here:
+	
+	https://pubs.shure.com/view/guide/527B/en-US.pdf
+

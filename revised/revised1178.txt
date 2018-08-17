@@ -1,0 +1,11 @@
+Title: MX412D with shorter cable
+Id: 1178
+Legacy Id: 1221
+
+Question:
+Is it possible to get ten MX412D's with a relatively short cord (i.e. less than 6 feet) (less important). and with a high-impedance 1/8" plug suitable for using with contemporary multimedia soundcards (very important)? nb: the contemporary sound cards I refer to use a 3 conductor 1/8" plug with +signal on the tip, ~2 - 5VDC bias voltage on the ring, and ground / common / shield on the sleeve.
+
+Answer:
+
+	The MX400 series of mics require phantom power to operate. So the length of the cable is a moot point as sound cards do not provide phantom power; they provide bias. See: Microphone connected to a computer sound card
+

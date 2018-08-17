@@ -1,0 +1,16 @@
+Title: Shure SM80 Omnidirectional Microphone
+Id: 4019
+Legacy Id: 4426
+
+Question:
+I recently found a Shure SM80 microphone. What can you tell me about it?
+
+
+Answer:
+
+	The SM80 was introduced in 1982 ($327 U.S. retail)and discontinued in 1989 ($380 U.S. retail). Typical uses included classical music recording, pipe organ music recording,scientific measurement, and natural reverberation chamber pick up.
+
+	
+
+	Before digital reverb, well-known recording studios and large concert halls were often equipped with a natural reverberation chamber - a large, long concrete tunnel with a playback loudspeaker at one end and an omnidirectional recording microphone at the other end. This type of chamber was typically in the building basement or sub-basement.
+

@@ -1,0 +1,15 @@
+Title: Tuner on GLXD6 Receiver - how to use
+Id: 4759
+Legacy Id: 5941
+
+Question:
+Please provide hints on using the GLX-D6 tuner.
+
+
+
+Answer:
+
+	1. Tune the guitar: to do so stomp on the silver colored big metal switch on the GLXD-6.
+	
+	2. To change parameters of the tuner: first, be in tuner mode (see above) and have the guitar tuner feature working; second, press MODE to toggle through the tuner options (strobe tuning, reference pitch, et al) and use the UP/DOWNarrows to select whatoption is desired.
+

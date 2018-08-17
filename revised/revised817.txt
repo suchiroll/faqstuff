@@ -1,0 +1,20 @@
+Title: KSM32 sounds thin when used a few feet away
+Id: 817
+Legacy Id: 839
+
+Question:
+My wife and I tried to boost the gain on the KSM32 so that the mike would pick up my voice, my guitar and her mandolin "live" from a few feet away. The result was thin and "tinny." Is this mike designed only for close-proximity or can it be used effectively at a distance?
+
+Running the KSM32 through the Presonus VXP into SAW 32 Plus.
+
+Answer:
+
+	The warmth you hear when using the KSM32 up close is called proximity effect. It is a natural characteristic of directional microphones. Most people like this warmth, but it means the mic must be used quite close to the performer.
+	
+	Omnidirectional mics do not have proximity effect and sound the same when used up close or at a distance. The KSM44 mic has selectable patterns so you can have proximity effect or not.
+	
+	See the following link for more details:
+
+	
+	Microphone Techniques for Music - Studio Recording
+

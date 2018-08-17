@@ -1,0 +1,13 @@
+Title: DC power plug for VP3
+Id: 2589
+Legacy Id: 2688
+
+Question:
+I am trying to find the size of the DC plug of the DC plug on the VP3-CA reciever. Do you have a DC cord part number?
+
+
+Answer:
+
+	Radio Shack will have a plug that fit. The pin diameter is 2.5 mm. We suggest you take the VP3 to Radio Shack to make certain their part fits.
+	
+	Sorry, Shure does not sell a mating connector as it is commonly available.

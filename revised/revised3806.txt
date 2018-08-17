@@ -1,0 +1,16 @@
+Title: Power / Thermal Dissipation of Shure Products
+Id: 3806
+Legacy Id: 4044
+
+Question:
+I need to calculate the power/thermal dissipation of several Shure products to figure out how much ventilation will be required for a room filled with racks of pro audio gear. Is there an online tool to assist me?
+
+
+Answer:
+
+	http://www.unitconversion.org/unit_converter/power-ex.html
+	
+	See the User Guide for each Shure product in question.  It should list the wattage or amperage consumed during operation.   Enter the wattage into the first line of the calculator above.   Then scroll down the page to find the calculated BTU heat output.
+	
+	Note the result will be extremely conservative, erring on the side of caution.  If a more precise thermal specification is required, contact Shure Applications Engineering.
+

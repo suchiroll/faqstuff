@@ -1,0 +1,9 @@
+Title: Variations of the 545 microphone
+Id: 1804
+Legacy Id: 1864
+
+Question:
+I have a question about your 545S mic. it seems that the 545S mic gets described in a few different ways. My question, is the Shure 545S impedance mic and the 545S Unidyne III the same mic?
+
+Answer:
+The current model of the 545 is the 545SD-LC. It is a Unidyne III design.Any Shure mic with 545 in the model number is a Unidyne III design.The Amphenol connector used on 545 models was eventually replaced by an XLR connector.  To distinguish the XLR version, “Series 2” was added to the grille label.  There was a time when Shure made both versions – Amphenol and XLR.  If an Amphenol 545 has a “Series 2” label, the reasons are:  1) The grille was replaced, 2) The mic element was replaced, 3) The label was replaced, or 4) The assembly person installed the incorrect label.

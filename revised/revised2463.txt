@@ -1,0 +1,12 @@
+Title: M74CSZ Replacement Stylus
+Id: 2463
+Legacy Id: 2558
+
+Question:
+I have a Zenith stereo console equipped with a Shure M74CSZ magnetic cartridge and I would like to purchase a couple replacement stylii. Unfortunately, I have not been able to locate such a cartridge on any of your cross-referencing charts. I am sure I have the correct cartridge model because I still have all of the original documentation for the stereo, including the turtable specs. I hope you will be able to assist me in my search for the proper stylus.
+
+
+Answer:
+
+	The Shure stylus model N75B Type 2 should fit your cartridge. Note the tracking weight range for the N75B Type 2 is 1.5 to 3 grams. Make certain you reset your tonearm tracking weight to this range.
+

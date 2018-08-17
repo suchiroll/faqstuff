@@ -1,0 +1,11 @@
+Title: Does the SM81 audio change with phantom voltage?
+Id: 2533
+Legacy Id: 2630
+
+Question:
+The SM81 accepts phantom power voltages ranging from 11 to 52 volts. Does sound quality vary at all over that range, and if so, what voltage would produce the best results?
+
+
+Answer:
+
+	The SM81 performs exactly the same across the entire phantom voltage range.

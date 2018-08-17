@@ -1,0 +1,21 @@
+Title: Signal Output Levels of Acoustic Guitar Pickups
+Id: 3342
+Legacy Id: 3524
+
+Question:
+What are typical maximum output levels of acoustic guitar pickups?  I have heard the signal levels can be excessive and therefore not compatible with the inputs on wireless transmitters.
+
+Answer:
+
+	The following information came from an article in Acoustic Guitar magazine, July 2007. The article was entitled Electric Round and focused on the amplification of acoustic guitars.
+	
+	Rick Turner of D-TAR/Seymour Duncan: As an experiment, we dropped a small ball bearing directly onto our pickup and saw (an output signal) of 100 volts [+40dbV]. I believe that when using a heavy pick, the output level will be between 12 to 14 volts [+22 dbV].
+	
+	Larry Fishman of Fishman Transducers: From our gear, I see an output level of about 3 volts [+9 dBV].
+	
+	Udo Rosner of AER: We go up to 44 volts [+33 dBV].
+	
+	Note: It was not clear from the article if the above output levels were measured at the output of the pickup or at the output of the pickup preamp.
+	
+	As a point of comparison, a typical output signal from a microphone is 0.001 volt [-60 dBV]. A wireless bodypack transmitter is designed to handle this tiny signal. The guitar pickups had maximum output levels that are 70 to 100 dB greater! Therefore, a typical acoustic guitar pickup must be heavily attenuated before it will work properly with a typical bodypack transmitter. Without adequate attenuation, the pickup signal will easily overload the audio input of the wireless transmitter.
+

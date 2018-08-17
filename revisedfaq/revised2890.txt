@@ -1,0 +1,11 @@
+Title: Number of Chairman's Units in a System
+Id: 2890
+Legacy Id: 3014
+
+Question:
+How many Chairman's can I use on one power supply with ConferenceOne?
+
+
+Answer:
+
+	Just one. You can not have a co-chair with this system. Keep in mind that you can place the chairman at any location in the system.

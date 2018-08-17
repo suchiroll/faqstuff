@@ -1,0 +1,35 @@
+Title: How should I clean my microphone?
+Id: 72
+Legacy Id: 72
+
+Question:
+How should I clean my microphone?
+
+Answer:
+
+	Cleaning Microphones
+	
+	Youve finally invested in a high quality vocal microphone and your voice has never sounded better. Unfortunately, the keyboard player in your band decides he wants to use your mic during his featured rap. You cringe as he practically eats the microphone. You can barely watch as he encourages audience members to scream into the mic. Afterwards he returns your mic, still operational but considerably wetter and unhygienic.
+	
+	Microphones are subject to an inordinate amount of abuse, especially in live music. Grilles and foam windscreens can become saturated with saliva, clogged with lipstick, and will absorb the smell of cigarette smoke prevalent in most clubs. Regular cleaning of your microphone will not only improve its performance, but is also good hygiene. This document provides several simple yet effective techniques for cleaning microphones.
+	
+	Dynamic Microphones
+	
+	The best way to clean a microphone is to remove the grille. Most vocal microphone grilles simply unscrew, e.g., SM58, Beta 58. If the grille doesnt slide off easily, gently rock it back and forth while pulling it away from the cartridge. Do not pull sharply or with excessive force, since that could damage the cartridge or separate it from the microphone housing. Once the grille is removed, it can be thoroughly cleaned without damaging the mic. Since most of the offensive material on the grille comes from the human body, plain water should be a sufficient cleanser. Adding a mild detergent (dishwashing liquid) to the water will act as a mild disinfectant and remove odors absorbed by the foam windscreen. To remove lipstick and other material stuck in the grille, use a toothbrush with soft bristles. In some models, the foam windscreen can be removed from the grille, but this is usually not necessary since water will not damage the grille. Most Shure microphone grilles have a nickel finish that makes them resistant to rust, and replacing the foam windscreen can also be difficult and time-consuming.
+	
+	The most important thing to remember is: let the grille dry completely before reattaching it to the microphone! Microphones dont like water, and although dynamic mics can withstand small amounts of moisture, a soggy foam windscreen will introduce more than is acceptable. Air drying is the best way to dry the grille, but a hair drier on a low-heat setting can be used. Care must be taken not to get too close to the grille as excessive heat can melt some windscreen material.
+	
+	Cleaning must be done more carefully for microphones that do not have removable grilles , e.g., SM57, 545. Using a damp toothbrush, hold the microphone upside down and very gently scrub the grille. Holding the mic upside down will prevent excess moisture from leaking into the microphone cartridge. This technique is also useful for cleaning the foam that covers the diaphragm inside an SM58. Again, keep the mic upside down, and be very gentle.
+	
+	In live situations with multiple acts, it may be desirable to clean the microphones between acts. Use a diluted solution of mouthwash (Listermint, Scope) with water. Using a toothbrush and holding the microphones upside down, scrub the grille of the microphone. At the very least, this technique will make the microphones smell more pleasant to the performer. Also make certain the sound system is turned off before the cleaning begins!
+	
+	Condenser Microphones
+	
+	Due to the more delicate nature of condenser microphones, never use water or any other liquid for cleaning purposes. Even a small amount of moisture may damage a condenser element. For microphones with removable grilles like the Beta 87 or KSM9, the grille and foam windscreen may be washed as described above. Again, the grille and windscreen must be completely dry before reattaching it to the microphone. To clean a microphone with a permanently attached grille like the SM81 or KSM 137, use a dry, soft bristle toothbrush and gently scrub the grille. Keep the microphone upside down so that loosened particles fall away from the it. Take care not to let stray bristles get caught in the grille. This technique also works well for lavaliers and miniature gooseneck mics.
+	
+	For condenser microphones that will be subject to harsh conditions, such as vocals and theater applications, it is advisable to use a removable external foam windscreen. This will protect the microphone from saliva and make-up, and can be removed and cleaned with soap and water after the performance. Remember, never get water near a condenser element!
+	
+	In 2009, a new product made specifically for microphones was introduced. Microphome is advertised as a disinfectant/deodorizer for microphones. Shure tested Microphome and found that did not harm the microphones finish, operation, or material.
+	
+	
+

@@ -1,0 +1,48 @@
+Title: Change mic element on MX690
+Id: 3402
+Legacy Id: 3592
+
+Question:
+Can I change the mic element on the MX690 wireless boundary microphone to get a different polar pattern?
+
+
+
+Answer:
+
+	The following instructions show how to change the microphone element in the MX690 boundary microphone. A cardioid pattern capsule (model R185B) is supplied with the MX690 as shipped from the factory. Omnidirectional (model R183B) and Supercardioid (model R184B) capsules can be installed.
+	
+	Step 1 - Open Cover and remove batteries.
+	
+	Step 2 - Remove three machine screws.
+	
+	Step 3 - Carefully remove transmitter electronics module.
+	
+	Step 4 - Remove screw holding plastic indicator lens in place.
+	
+	Step 5 - Remove five case screws.
+	
+	
+	Step 6 - Separate upper and lower case halves. Using small pointed tool, slide antenna flexi-circuit board off case top mounting columns.
+	
+	Step 7 - Carefully swing case top away from case bottom.
+	
+	Step 8 - Change microphone capsule.
+	
+	Step 9 - Reassemble the wireless boundary microphone.
+	
+		After replacing the microphone capsule, reattach microphone assembly using clamp and screw.
+	
+		Swing top half of case onto bottom half, making sure to position the antenna flexi-circuit onto the mounting columns. Make sure the antenna flexi-circuit is completely inside the case.
+	
+		Re-install 5 coarse-thread screws to secure case halves.
+	
+		Reinstall plastic indicator lens on top of case, using one screw.
+	
+		Reinstall transmitter circuit board module, making sure the multi-pin connector and the antenna connection posts properly mate with the connectors on the transmitter circuit board.
+	
+		Reinstall three machine screws to secure the transmitter module.
+	
+		Reinstall two AA batteries.
+	
+		Close bottom cover.
+

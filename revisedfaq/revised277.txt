@@ -1,0 +1,10 @@
+Title: Can I leave my UT receiver power on all the time?
+Id: 277
+Legacy Id: 284
+
+Question:
+Just purchased a UT14/85-TD.  I am using this system in a House of Worship with the receiver being in a fixed position. Since there is no on/off switch, will it damage the receiver to leave it powered up all the time? 
+
+Answer:
+
+	It is perfectly fine to leave the receiver on all the time. It will not damage it.

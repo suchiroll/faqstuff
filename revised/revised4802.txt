@@ -1,0 +1,14 @@
+Title: UA506 and UA507 Rack Ears
+Id: 4802
+Legacy Id: 5988
+
+Question:
+Please provide details.
+
+
+Answer:
+
+	UA506 has a short rack ear #53E8484(1.1 inch wide) and a long rack ear #53F8484(9.7 inches wide.) These attach to a ULX receiver (8.5 inches wide). Total width is 19.3 inches.
+
+	UA507 has two short rack ears #53E8484(1.1 inch wide each.)  These attach onto two ULX receivers (17.0 inches wide). Total width is 19.2 inches.ULX receivers are fastened together with metal link bars.
+

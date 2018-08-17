@@ -1,0 +1,15 @@
+Title: UT4 and phantom power
+Id: 2797
+Legacy Id: 2906
+
+Question:
+I would like to use a Beta 87A microphone, it requires phantom power, I am concerned about my other microphones. I also use a UT4 wireless system, Beta 58's, and SM 57's. Are these microphones going to be affected by the phantom power?
+
+
+Answer:
+
+	I also use a UT4 wireless system, Beta 58's, and SM 57's. Are these microphones going to be affected by the phantom power?
+	
+	* No problem with the Beta 58 and SM57.
+	
+	* The UT4 is also protected, but much depends upon the phantom power circuit in the mixer. To be 100% safe, we suggest that phantom power be turned off at the mixer input for the UT4. Or if that is not possible, use an isolation transformer between the UT4 XLR output and the mixer's XLR input. We recommend the transformer part - ITX. It is available from: http://www.markertek.com

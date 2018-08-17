@@ -1,0 +1,34 @@
+Title: Push To Hear (PTH) Accessory - Basic Functions and Operation
+Id: 3665
+Legacy Id: 3873
+
+Question:
+What are the functions of the Shure PTH (Push To Hear) accessory? What is the operational principle?
+
+
+Answer:
+
+	The PTH accessory lets the user listen to a talker and carry on a conversation without removing his/her Shure sound isolating earphones.  The PTH is connected between the program source (iPod, iPhone, MP3 player, etc.) and the sound isolating earphones.  When the PTH is off, the program material is routed directly to the earphones.  When the PTH is on, the program material is reduced in level by 40dB and the PTH built-in microphone is activated - allowing the user to hear the talker.  The PTH is activated via a locking slide switch.  A user adjustable "volume control" provides a means to adjust the sound level based upon the sensitivity of the earphones.  The PTH requires one AAA cell (battery).
+	
+	MICROPHONE SPECIFICATIONS
+	The PTH microphone is omnidirectional.
+	The microphone maximum sound pressure level is 124 dbSPL - measured at 1 kHz with 1% total harmonic distortion.
+	The microphone sensitivity at 94 dBSPL (one Pascal) is -35 dBV.
+	The microphone frequency response is 150 Hz to 8,000 Hz, with a peak at 3,000 Hz to enhance intelligibility.
+	Gain in the microphone circuit is 26 dB.
+	Positive pressure on the microphone diaphragm produces positive pressure on the tip and the ring of the 3.5 mm output jack.
+	The microphone circuit contains a circuit to limit the maximum signal level sent to the earphones.
+	
+	BATTERY SPECIFICATIONS
+	One AAA cell provides 15 to 20 hours of continuous operation.
+	The red LED Low-Battery indicator illuminates at around 1 Vdc.
+	Current draw is 35 mA.
+	
+	DIMENSIONS and WEIGHT
+	Main unit with battery compartment and belt clip: 19 mm x 13 mm x 26 mm
+	Microphone pod unit that contains output 3.5 mm jack: 15 mm x 13 mm x 14 mm
+	Length of each cable is 61 cm (24 inches).
+	Input cable has a 3.5 mm male phone plug - tip/ring/sleeve.
+	Output cable has a 3.5 mm female phone jack - tip/ring/sleeve.
+	Weight is 45 grams (1.6 oz) without the battery.
+	Main unit and mic pod unit are molded of ABS plastic.

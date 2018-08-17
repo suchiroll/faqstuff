@@ -1,0 +1,37 @@
+Title: June 2017 Discontinuation of General Line Microphones
+Id: 5432
+Legacy Id: 6388
+
+Question:
+In June 2017, Shure discontinued 11 models of general line microphones. Here is the list and recommended replacements.
+
+
+Answer:
+
+	450 Series II - $175 U.S. retail - suggested replacement Model 522
+	*450 Series II was omnidirectional; 522 is unidirectional
+	
+	515BSLX - $90 U.S. retail - suggested replacement Model 515SBGX
+	*515BSLX had a locking slide switch; 515SBGX has a push-to-talk switch
+	
+	515BSM - $135 U.S. retail - suggested replacement Model 515SBGX
+	*515BSM had a coiled cable and a 5 pin XLR connector; 515SBGX has a straight cable and no connector
+	
+	515SBG-18X - $105 U.S. retail - suggested replacement Model 515SBGX + gooseneck + A13HD mounting flange
+	
+	515SBG-18XF - $101 U.S. retail - suggested replacement Model 515SBGX + gooseneck + A12 mounting flange
+	
+	527B - $110 U.S. retail - suggested replacement Model 514B
+	* 514B is smaller than the 527B
+	
+	527C - $110 U.S. retail - suggested replacement Model 514B + Radio Design Mic Preamp
+	* 527C had an internal preamp that increased the output signal by 25 dB
+	
+	561 - $101 U.S. retail - suggested replacement Model 503BG
+	*561 was omnidirectional; 503BG is unidirectional
+	
+	562 - $121 U.S. retail - suggested replacement Model 503BG
+	
+	588SDX - $74 U.S. retail - suggested replacement Model PGA58-LC
+	* 588SDX had a locking slide switch; PGA58-LC slide switch does not lock
+

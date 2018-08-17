@@ -1,0 +1,13 @@
+Title: Converting a mic signal to a line level signal.
+Id: 946
+Legacy Id: 974
+
+Question:
+How do I convert a balanced microphone signal to a balanced/unbalanced line level signal? Can I use the A15LA in reverse? If no such device exists, then what is the easiest, i.e. cheapest way to convert a balanced low impedance mic signal to an unbalanced 600 ohms (or higher) mic signal?
+
+Answer:
+
+	The A15LA cannot be used in reverse. You require a mic to line amplifier.
+
+	Try www.rane.com; or www.rdlnet.com
+

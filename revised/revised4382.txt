@@ -1,0 +1,21 @@
+Title: Model CM9L
+Id: 4382
+Legacy Id: 5474
+
+Question:
+What information is there about the model CM9L?
+
+
+
+Answer:
+
+	
+		CM9L is not a Shure model number. It is a model number from another manufacturer who used a Shure mic as part of their radio equipment. This is called an OEM model.
+	
+		The model CM9L is the same as the Shure model 401B.
+	
+		Information about OEM mics.
+
+
+	
+

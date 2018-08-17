@@ -1,0 +1,26 @@
+Title: SCM810 output into an RCA jack/line level input
+Id: 1873
+Legacy Id: 1933
+
+Question:
+We currently have a SCM810 mixer connected to a PictureTel video conference system and it works great. I have read through your e-mails and have gathered the idea that the mixer has an unbalanced mic (1000 Ohm impedance) output. Is this correct? We are going to replace our PictureTel system with a Polycom FX system. Polycom's brochure says it has a RCA line level input (unbalanced). What Shure product can we purchase to make the two compatible (Shure mixer and Polycom system)? In other words we need an mic output to talk to a line level input. DO I make the cable from XLR to RCA using this transformer to match impedance?
+
+
+Answer:
+
+	The Master Output of the SCM810 is a BALANCED LINE LEVEL output. (Unless you have had the output modified for microphone level?)
+	
+	If your mixer has not been modified you should use a balancing transformer between the mixer master output and the input of the Polycom. This will help prevent ground loop hum. Shures balancing transformer is the A15BT.
+	
+	You could also try using the headphone output if the mixers Master output HAS been modified and you dont have the facilities to change it back. (Though you may still have a problem with ground loop hum. You will have to try it to see.)
+	
+	To understand the use of transfomers: Transformers - When to use and how does it work?
+
+	Yes, you will have to make a custom cable.
+	
+	1) Position the A15BT near the Polycom RCA jack.
+	
+	2) The line output of the SCM810 will connect to the 33,000 ohm side of the A15BT (the female XLR). SCM810 + terminal to A15BT pin 2; SCM810 - terminal to A15BT pin 3; SCM810 ground terminal connects the cable shield, BUT do not connect the cable shield to the A15BT.
+	
+	3) The A15BT 7,500 ohm side (the male XLR) connects to the RCA plug. Wire the custom cable as follows: A15BT pin 2 to RCA tip; A15BT pin 3 to RCA sleeve; A15BT pin 1 to RCA shield.
+

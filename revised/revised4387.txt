@@ -1,0 +1,15 @@
+Title: What's the difference between the AXT100 and AXT100+?
+Id: 4387
+Legacy Id: 5479
+
+Question:
+What's the difference between the AXT100 and AXT100+?
+
+Answer:
+
+	The AXT100+ includes a new feature that allows you to lock the power on, even when the battery is removed. This feature allows for quick replacement of the battery, without needing to turn the unit back on again after connecting the fresh battery. The transmitter will automatically turn on as soon as the battery is connected.
+	
+	To enable this feature, remove the battery and locate the small slide switch on the underside of the transmitter. Slide this switch to the lock position. The Utility menu on the transmitter can be used to change whether just the Power button is locked, or all buttons are locked.
+	
+	The AXT100+ also has a serial number label located beneath the battery.
+

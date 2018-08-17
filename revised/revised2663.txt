@@ -1,0 +1,12 @@
+Title: BC90 replacement stylus
+Id: 2663
+Legacy Id: 2767
+
+Question:
+What is the replacement stylus for the model BC90?
+
+
+Answer:
+
+	The replacement stylus was the SS90.
+

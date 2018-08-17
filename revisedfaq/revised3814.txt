@@ -1,0 +1,27 @@
+Title: Networking two UR4 receivers
+Id: 3814
+Legacy Id: 4052
+
+Question:
+Can I connect two UR4 receivers directly to each other using their ethernet ports?
+
+
+Answer:
+
+	Yes, it was possible for a same-band pair of UHF-R receivers to be linked together by a single Ethernet cable.This results in a self-aware network that can scan and set frequencies for both of the connected receivers.In addition, it is possible to connect a computer to either receiver of the connected pair via USB cable to use Wireless Workbench with both.
+	
+	Unfortunately, this capability did not work with some older firmware versions.
+	
+	Make certain to download the most recentWireless Workbench software andload the latest firmware on the receivers.
+	
+	
+	Operational notes:
+	
+	Both receivers must have the most recent firmware version.
+	Both receivers must be in the same frequency band.
+	Ethernet connection may be made before or after receivers are powered on.
+	Both receivers in the DHCP mode:receivers will fall back to default IP addresses.Network icons will appear on both receivers after 2-3 minutes.
+	Both receivers in MANUAL mode:IP addresses must be set within the same Subnet.Network icons will appear within 30 seconds.
+	If receiver power is lost and restored, MANUAL mode receivers will restore network within 30 seconds while DHCP receivers will take 2-3 minutes.
+	Once network is established, network will re-establish quickly if Ethernet cable is disconnected but receiver power is not lost.
+

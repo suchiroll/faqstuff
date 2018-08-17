@@ -1,0 +1,16 @@
+Title: MX412D and MX418D XLR wiring
+Id: 3752
+Legacy Id: 3988
+
+Question:
+The MX412D cable has been pulled out from the 3 pin XLR connector. How was it wired?
+
+
+Answer:
+
+	Shield to XLR pin 1
+	Red to XLR pin 2
+	Black to XLR pin 3
+	
+	Other wires are not used.
+

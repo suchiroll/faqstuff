@@ -1,0 +1,20 @@
+Title: Wireless mic element that works at a distance
+Id: 3599
+Legacy Id: 3805
+
+Question:
+I have a BLX2/SM58 that I use for presentations. Sounds great as long as the person speaking holds it a few inches away from their mouth like a singer would. I need to be able to pick up the voice (non singing) with the mic about 12 inches away from the mouth. Do you have a head available that I can replace the SM58 with that would help solve my problem?
+
+
+Answer:
+
+	Sorry, there is no solution to the problem, because it is a law of physics, not an improper mic element.
+	
+	The SM58 element does not operate different at 12 inches versus one inch - it is the acoustical level of the person's voice that drops.  This is called the inverse square law:
+	
+	http://www.acousticalsurfaces.com/acoustic_IOI/101_5.htm
+	
+	The difference in output level between 1 inch and 12 inches is huge: nearly 22 dB.     The mic element will not change this.
+	
+	You can try a different mic element that will sound differently, like the RPW114 (SM86 mic element), but the effect of the inverse square law is the same.
+

@@ -1,0 +1,16 @@
+Title: Differences between SM and PG or PGA microphones
+Id: 2393
+Legacy Id: 2485
+
+Question:
+I was wondering what the differences were between the SM  PG or PGAseries microphones. I have used SM58  SM57's for quite a while now, and just recently I saw in the store the PGA58  PGA57's. I purchased them to give them a try, and other than substituting plastic parts for metal, is there that big of a difference. They appear to have the same specifications. My question is referring to durability and performance.
+
+
+Answer:
+
+	The PG or PGA series are an entry level series, while the SM series is a mid level series.
+	
+	The performance of the SM series is better, when comparing frequency response, polar response, handling noise, transient response, etc.
+	
+	They both pass the same drop test and environmental tests.
+

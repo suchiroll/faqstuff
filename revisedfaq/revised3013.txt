@@ -1,0 +1,10 @@
+Title: Discontinued Products - User Manuals
+Id: 3013
+Legacy Id: 3142
+
+Question:
+Some time ago, I visited your site and downloaded several schematics and data sheets for now discontinued equipment.  Could you tell me if this information is still available?  It seems to have been removed from your current website.  I hope it's still around because it was a great resource for older products.
+
+Answer:
+
+	Please click below for the entire list of discontinued and current model manuals:http://www.shure.com/americas/support/user-guides/discontinued-products

@@ -1,0 +1,54 @@
+Title: Lavalier Microphone for a motorcycle use
+Id: 1278
+Legacy Id: 1326
+
+Question:
+I'm looking for a microphone for my 1999 Harley-Davidson Ultra Classic. They make a headset available at any local dealer. The only thing is, I do not like wearing a helmet and the headset is only designed for one. I was hoping to find a microphone that I could configure to work with my motorcycle. Like a Lavaliere size microphone. This way I could attach the microphone to my shirt and use the PTT button on the handle bars to transmit with. The microphone that I need is suppose to be at 32 OHMs. Can you help me with this problem or possibly direct me on where I might find such an item? I have checked with Radio Shack and other such stores. Thank you for any help in this matter.
+
+
+---- 07/07/2001 08:44 AM ----------------------------------------------
+
+[jim poston] It does not have to be a Lavaliere microphone, I was just
+
+looking for something in that size in order to attach it to my shirt while
+
+riding. The microphone that Harley-Davidson provides is can be worn with any
+
+helmet configuration, placing it directly into the wind in many
+
+applications. I realize that you may not produce the best sound while
+
+transmitting, but that is some thing I'm willing to sacrifice. Thanks again
+
+for the speedy reply.
+
+
+
+Answer:
+
+	We assume you want to use the mic while the motorcycle is moving. A lavalier mic will be not work due to wind noise. A headset mic is the only choice if you want to use the mic while in motion.
+	
+	At 07/09/2001 08:07 AM we wrote - Let me rephrase my original answer: any type of small microphone worn on your shirt will not work well when riding. A microphone changes air movement into an electrical signal. While riding, the wind that is created will be much greater than the air movement created by your speech. Therefore, your speech will be drowned out by wind noise. (If Harley Davidson has a microphone designed for your needs, it might be your best choice.)
+	
+	A headworn mic may work because it is positioned less than 1 inch from your mouth. The Shure WH20 headworn mic microphone might work for you, but there are electrical considerations to consider. Please read the following paragraphs:
+	
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your tape recorder or your two way radio or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+

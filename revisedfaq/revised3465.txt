@@ -1,0 +1,11 @@
+Title: WL93 Dimensions
+Id: 3465
+Legacy Id: 3660
+
+Question:
+I was wondering about the precise dimensions for the WL93 lavalier condenser microphone.
+
+
+Answer:
+
+	The mic element is a rectangle.   Dimensions: 10mm x 6mm x 4mm.

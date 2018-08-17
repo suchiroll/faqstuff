@@ -1,0 +1,39 @@
+Title: Camcorder and SM58
+Id: 1168
+Legacy Id: 1209
+
+Question:
+I've browsed your tech support but haven't found an answer to this question so I'll ask directly.
+
+
+I have a Sony camcorder and would like to buy a professional microphone to use with it (I know you get asked about this all the time). I am thinking the SM58 will do the trick.
+
+
+The camcorder's mic connection is 3.5mm minijack with the words "Plug In Power" under it. Here are the specs for that mic jack from the manual:
+
+
+Minijack, 0.388 mV low impendence with 2.5 to 3.0 V DC, output impedance 6.8 kilohms (3.5mm) Stereo type
+
+
+I read your document on selecting microphones and it said that "microphones and that do not require this power (input jack DC voltage) must be connected in such a way to avoid contact with it." Do you know if or how how I can connect the SM58 to my camcorder without the "Plug In Power" being a problem? If not, do you sell a microphone that would not be bothered by the "Plug In Power"?
+
+
+I'd also like to use the same microphone with my computers sound card to edit the video production I'm making. Do you make an adapter of some sort to plug the XLR microhone jack into the sound card on the computer?
+
+
+Thanks in advance for your help and I apologize if this quesion is already answered on your site in a place I couldn't find.
+
+
+Answer:
+
+	The simplest way to connect the SM58 to the camcorder (and avoid the Plug In Power) is by using the Shure A96F transformer. It offers a balanced input for the SM58, and an unbalanced output for the camcorder.
+	
+	The SM58 will likely not properly drive the sound card input. See: Microphone connected to a computer sound card
+	
+
+	Consider the following interfaces:
+	
+	Beachtek: http://www.beachtek.com
+	Audio Buddy by M-Audio:http://www.m-audio.com
+	JuicedLink
+

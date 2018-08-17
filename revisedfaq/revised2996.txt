@@ -1,0 +1,13 @@
+Title: Adjustable RF Attenuator
+Id: 2996
+Legacy Id: 3124
+
+Question:
+When setting up a complex wireless audio system in a major city, I often need to attenuate the RF signal being supplied by the antennas. Where can I obtain an adjustable RF attenuator to use with Shure UHF wireless systems?
+
+
+Answer:
+
+	Consider the model RFA-4056-03. Sold by RF Industries of San Diego, California, USA. http://www.rfindustries.com
+This attenuator is adjustable in 1 dB steps up to a maximum of 30 dB. The connectors are BNC.
+

@@ -1,0 +1,11 @@
+Title: X2u with XBOX 360?
+Id: 3576
+Legacy Id: 3782
+
+Question:
+Will the Shure X2u XLR-to-USB Signal Adapter work with the XBOX 360?
+
+
+Answer:
+
+	No. The Shure X2U is designed to be used with a  computer that has recording software installed. Basically, the X2U is a substitute for a sound card / mic preamp in a computer.

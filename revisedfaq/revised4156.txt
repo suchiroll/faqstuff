@@ -1,0 +1,255 @@
+Title: DDS 5900 Control using a Web Browser
+Id: 4156
+Legacy Id: 5062
+
+Question:
+What types of adjustments and features are available on the DDS5900 when using a web browser in conjunction with the CU 5905 Control Unit?
+
+
+Answer:
+
+	Note that a computer and web browser are not required for the operation of the DDS 5900. The features that are accessible via the web browser are considered advanced and are likely notessential for most DDS 5900applications.
+	
+	A web browser can control the firmware that exists inside of the CU 5905. Six general categories can be accessed:
+	
+	1) SYSTEM
+	2) AUDIO
+	3) CONFIGURATION
+	4) OPERATION
+	5) DIAGNOSTICS
+	6) MICROPHONE CONTROL
+
+	
+		SYSTEM
+		
+			
+				System Status
+				
+					
+						Lists the serial number of each DC 5980P portable unit connected to the CU 5905.
+					
+						Shows if the DC 5980P is connected to Signal Chain A or Signal Chain B on the CU 5905.
+					
+						Shows the type of each DC 5980P - Chairman, Delegate, or Interpreter.
+					
+						Shows the state of each DC 5980P - Active, Lost (not connected).
+				
+			
+			
+				Unit Count
+				
+					
+						Shows the quantity of DC 5980P units connected to Signal Chain A, to Signal Chain B, and the Total.
+				
+			
+			
+				LAN Setup (Local Area Network)
+				
+					
+						Allows a host name to be assigned to the CU 5905 in place of the IP address. Example: citycouncil could be a host name.
+					
+						IP configuration may be set to Active (DHCP) or Static.
+					
+						Shows the actual address assigned to the CU 5905, such as: 192.168.1.103.
+					
+						Shows the actual subnet mask assigned to the CU 5905, such as: 255.255.255.0.
+					
+						Apply Changes button used to accept changes made to the above.
+				
+			
+			
+				Security
+				
+					
+						Sets a password that permits a web browser connection to the CU 5905.
+				
+			
+		
+	
+	
+		AUDIO
+		
+			
+				Loudspeaker Control
+				
+					
+						Sets the audio level of all DC 5980P loudspeakers.
+					
+						Permits on/off control of the DC 5980P loudspeaker/headphone audio.
+				
+			
+			
+				Input/Output Control
+				
+					
+						Sets the level of Audio Input #1 (XLR female) on the CU 5905 rear panel.
+					
+						Routes auxiliary Audio Input #1 (XLR female) to DC 5980P loudspeakers/headphones, and/or to Audio Output A (XLR male) on the CU 5905 rear panel.
+					
+						Sets level for Audio Outputs A, B, C, D (XLR males) on the CU 5905 rear panel.
+				
+			
+			
+				Audio Output
+				
+					
+						Assigns each DC 5980P to Audio Outputs A, B, C, D (XLR males) on the CU 5905 rear panel.Each DC 5980P can be assigned to a maximum of two Audio Outputs.
+					
+						Assigns Audio Outputs A, B, C, D (XLR males) forrecording purposes, such as separaterecordings for different language translations.
+					
+						Submit Changes button used to accept changes made to the above.
+				
+			
+		
+	
+	
+		CONFIGURATION
+		
+			
+				Unit to Seat Relation
+				
+					
+						Assigns each DC 5980P a seat number, starting with 1. Each seat number may be replaced with the name of the person at that seat. Each name must be typed into the browser.
+					
+						When the computer screen curser is placed on a seat number, the microphone red light ring on the corresponding DC 5980P will flash.
+				
+			
+			
+				Unit Type Change
+				
+					
+						Locks the function (Delegate, Chairman, or Interpreter) of all DC 5980P units.
+				
+			
+			
+				Reset to Factory Defaults
+				
+					
+						Restores all settings to out-of-the-box conditions.
+				
+			
+		
+	
+	
+		OPERATION
+		
+			
+				Delegate Setup
+				
+					
+						Sets the maximum number of delegates allowed to speak at the same time.
+					
+						Sets the maximum number of requests to speak allowed in the queue.
+				
+			
+			
+				Operation Mode
+				
+					
+						Selects Auto, Manual, FIFO (First In First Out), or VOX (Voice Operation).
+					
+						Selectson/off for delegate interrupt mode.
+				
+			
+			
+				Voice Detection
+				
+					
+						For VOX mode, sets the threshold to activate a microphone in VOX mode.
+					
+						For VOX mode, sets the release time to deactivate a microphone in VOX mode.
+					
+						For Auto, Manual, and FIFO mode, selects the time interval to deactivate a microphone after a delegate stops talking.
+				
+			
+		
+	
+	
+		DIAGNOSTICS
+		
+			
+				Create Report
+				
+					
+						Authors a technical report required for service/repair purposes.
+				
+			
+		
+	
+	
+		MICROPHONE CONTROL
+		
+			
+				Microphone On/Off
+				
+					
+						Used by the chairman to determine what delegate is allowed to speak.
+				
+			
+			
+				Add to Request List
+				
+					
+						Used by the chairman to add delegate to the Request-To-Speak queue.
+				
+			
+			
+				Next On
+				
+					
+						Used by the chairman to activate the next microphone on the Request-To-Speak queue.
+				
+			
+			
+				All Delegates Off
+				
+					
+						Used by the Chairman to deactivate all delegate microphones.
+				
+			
+			
+				All Requests Off
+				
+					
+						Used by the chairman to empty the Request-To-Speak queue.
+				
+			
+			
+				Operation Mode
+				
+					
+						Selects Auto, Manual, FIFO (First In First Out), or VOX (Voice Operation).
+				
+			
+			
+				Speakers
+				
+					
+						Shows the list of active talkers.
+				
+			
+			
+				Requests
+				
+					
+						Shows the list of delegates requesting to speak.
+				
+			
+			
+				Delegate Microphones - Speak
+				
+					
+						Shows the list of seats with delegates and with chairmen. Click on a name to activate the microphone.
+				
+			
+			
+				Delegate Microphones - Request
+				
+					
+						Shows the list of seats with delegates and with chairmen. Click on a name to place into the request queue.
+				
+			
+		
+	
+
+

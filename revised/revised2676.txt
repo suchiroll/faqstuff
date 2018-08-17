@@ -1,0 +1,19 @@
+Title: KSM137 compared to SM81
+Id: 2676
+Legacy Id: 2780
+
+Question:
+Please compare the KSM137 to the SM81.
+
+
+Answer:
+
+	The SM81 is:
+	1) longer in length
+	2) has flatter response below 100 Hz
+	3) has a flatter response above 5 kHz
+	
+	The KSM 137 is:
+	1) quieter
+	2) has a higher SPL overload point
+	3) has a higher output level

@@ -1,0 +1,16 @@
+Title: Microphone for Voice Over
+Id: 839
+Legacy Id: 863
+
+Question:
+I want to make very high quality mono voice recordings on my cassette deck which is a top of the line Pioneer cassette deck with a single 1/4 inch microphone input and the MIC INPUT is listed as 0.63mV. After I make a master cassette I take it to a studio for high speed duplication of copies. I went to a store who recommended your Shure SM57 stating it is the "studio standard." They sell lots of Shure mics. Do you agree this one would be my best bet or do you have an alternative suggestion? Also does Shure sell mic pre-amps if I buy a deck that doesn't have mic inputs. If not who does? And are these preamps or mixers as good as the ones built into the decks that have mic inputs?
+
+
+Answer:
+
+	Here are Shures recommendations. If you are looking for a broadcast quality mic, consider the SM7B dynamic mic, formerly the SM7 or SM7A. It is indeed a standard for TV and radio voice over work. Or the Shure model KSM42 condenser mic, but it requires phantom power to operate.
+	
+	If the SM7B or KSM42 is too expensive for your budget, then consider the Beta 58A; and next the SM58. Keep in mind that matching a mic to your voice is a personal decision. We strongly suggest you audition any mic before you buy.
+	
+	For preamps, consider products offered by Grace.
+

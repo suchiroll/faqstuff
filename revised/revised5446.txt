@@ -1,0 +1,9 @@
+Title: RMCE-BT1 compatible with my Bluetooth device?
+Id: 5446
+Legacy Id: 
+
+Question:
+Is the RMCE-BT1 compatible with my Bluetooth device?
+
+Answer:
+The RMCE-BT1 uses the Bluetooth 4.1 standard, which offers reliable, short-range wireless connectivity and performs well when used near LTE and 4G devices.  Bluetooth 4.1 is backwards-compatible with all Bluetooth source devices.

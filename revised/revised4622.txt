@@ -1,0 +1,16 @@
+Title: Lithium vs Alkaline vs Zinc AA Cells
+Id: 4622
+Legacy Id: 5781
+
+Question:
+On average, how long will it take for typical 1.5 VDC zinc AA cell to decline to 1.0 VDC? Also, the same information for an alkaline AA cell and lithium AA cell?
+
+
+Answer:
+
+	Assuming a constant current draw of 200 mA per hour (similar to a wireless mic transmitter):
+	
+	Zinc AA cell - 3 hours
+	Alkaline AA cell - 9 hours
+	Lithium AA cell - 14 hours
+

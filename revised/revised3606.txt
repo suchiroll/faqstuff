@@ -1,0 +1,21 @@
+Title: SLX4 Receiver Display indicates "FULL"
+Id: 3606
+Legacy Id: 3812
+
+Question:
+Last night, I had a gig in Fullerton, California. I used the scan feature on my SLX4 receiver and the front panel display said: FULL. What does that mean? I could not get the SLX system to operate.
+
+
+
+Answer:
+
+	The FULL warning indicates that all available channels in the currently selected group are in use. Though you did not mention the SLX frequency band, it is likely your system is J3: 572 - 576 MHz; TV channels 31 - 34.  In the Fullerton area, this entire band is occupied by local TV stations, thus the SLX4 could not find an open frequency to use, and the display indicated "FULL."To check for local TV interference before arriving at the gig:
+	www.shure.com/frequencyHere are three options to consider:
+
+	
+	Locate the SLX4 receiver as close as possible to the SLX transmitter.  Experiment with different Group/Channel settings. There is a chance that the SLX system can overcome local TV interference if the transmitter and receiver are in close proximity.
+	
+	Use another SLX system that operates in a different frequency band. (Yes, it is expensive to have another wireless mic system for emergency use.)
+	
+	Use a wired mic and a cable. (You do have one for emergency use....don't you?)
+

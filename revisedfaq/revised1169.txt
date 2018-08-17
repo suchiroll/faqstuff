@@ -1,0 +1,15 @@
+Title: E1 or E5 for monitor mixing
+Id: 1169
+Legacy Id: 1210
+
+Question:
+I am looking to buy an in ear monitor system to monitor at a monitor desk. And I was wondering if I buy the E1 or the E5 if I need the hard wire body packalso.
+
+Answer:
+
+	If the monitor mixing desk has a 3.5mm female jack headphone output with level control, then the E1 or E5 can connect directly.
+	
+	If the monitor desk does not have a headphone output, then use the P6HW in conjunction with the E1 or E5.
+	
+	Also, please read: Selection and Operation of Personal Monitor Systems
+

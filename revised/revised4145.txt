@@ -1,0 +1,34 @@
+Title: Axient AMX/Crestron Control Strings
+Id: 4145
+Legacy Id: 5047
+
+Question:
+What are the control strings for the Axient system to control it via AMX or Crestron?
+
+
+Answer:
+
+	On the Axient system, the AXT400 receiver and AXT900 battery charger can be monitored and controlled via a control system, such as AMX, Crestron, or Extron.
+	
+	Axient Control Sting Document(pdf)
+	
+	The AMX or Crestron can control and/or monitor the following items:
+
+	
+		Mute
+	
+		Volume
+	
+		Names
+	
+		Frequency
+	
+		Battery Usage Information
+	
+		Interference Detection
+	
+		Audio  RF Meters
+	
+		Battery Charge Information
+
+

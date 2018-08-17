@@ -1,0 +1,22 @@
+Title: X2U and Windows Skype
+Id: 4862
+Legacy Id: 6050
+
+Question:
+Just took delivery of an X2U and am liking it, but am wondering about proper Skype and laptop settings. When I first plugged the X2U in, Skype showed the X2U as an option for both the mic and for playback/monitoring, but now the X2U does not appear in the list of playback/monitoring devices. Am I to plug headphones into the X2U or the laptop's 3.5mm jack for use with Skype? I'm aware that there can be a latency issue, so I assume you recommend that I plug into the X2U, eh? But without the X2U showing in the list for playback, I'm not getting any of the system sounds/Skype in my headphones if I plug into the X2U...and I'm not getting any of the mic in the headphones if I plug them into the laptop's jack, though then
+I DO get the system sounds/Skype test signal in the headphones. Can you shed any light on this for me? I've got two Skype interviews coming up this week and need to be functional.
+
+
+
+Answer:
+
+	Shure did not develop the X2U for Skype use - it was developed for home recording (music) on a computer.Thus, Shure does have any experts on Skype or using Skype with the X2U.We did hear from one customer that reinstalled an older version of Skype and the X2U reappeared.
+	
+	If you find a solution, please so kind as to share it with Shure.
+	
+	The customer replied:
+
+	Im on Skype 7.18.0.112. Device Manager was no help, nor was Control PanelSound. Unplugging and replugging the USB cable into the laptop didnt do any good for me; I was still missing Shure Digital as a playback option in Skype.
+	
+	I WAS able to get Shure Digital to show up again in both the recording and playback options in Skype by unplugging the USB cable from the laptop and instead plugging it into a USB3 hub that I have attached to the laptop. This works for me right now cause Im working from my office, but may not work while I travel on business, as I dont always use a hub. Plus, Id be concerned about potential issues when going through a hub instead of direct to the laptop.
+

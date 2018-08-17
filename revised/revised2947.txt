@@ -1,0 +1,14 @@
+Title: 1942 Magazine Article on Shure model 556 microphone design
+Id: 2947
+Legacy Id: 3074
+
+Question:
+Is there a vintage magazine article on the Shure microphone model 556?
+
+
+Answer:
+
+	The following article, by Ben Bauer, describes the design of Shure's first single-element supercardioid microphone, the 556.
+
+	Electronics - January, 1942. (3.6 MB) 9 pages
+

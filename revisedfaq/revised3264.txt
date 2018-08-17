@@ -1,0 +1,25 @@
+Title: How far does a microphone diaphragm move with a really loud sound source?
+Id: 3264
+Legacy Id: 3419
+
+Question:
+How far does a microphone diaphragm move with a really loud sound source?
+
+
+Answer:
+
+	The answer is much less than you may think.
+	
+	Some microphone users worry about the diaphragm wearing out because of use. In reality, a mic diaphragm moves so little that wearing out is not a cause for concern. Lets see how far a microphone diaphragm actually moves when exposed to a loud sound.
+	
+	120 db SPL is the threshold of pain for the human ear. For the sound source, we will use 140 dB SPL. 140 dB SPL is a weather warning siren at 50 feet; a level that would quickly damage ones hearing.
+	
+	Using this dangerously loud acoustic signal, the diaphragm of a typical professional quality microphone will move a total of 8 microns. A human hair is about 80 microns thick, so the diaphragm moves about 1/10 the diameter of a human hair.
+	
+	8 microns = .000008 meter
+	8 microns = .0008 millimeter
+	8 microns = .00003 inch
+	8 microns = 1/30,000 of an inch
+	
+	Source: Microphone Engineering Handbook; ISBN 0-7506-1199-5; copyright 1994
+

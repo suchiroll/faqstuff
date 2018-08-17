@@ -1,0 +1,13 @@
+Title: Assigning remote volume control for P4800
+Id: 2069
+Legacy Id: 2135
+
+Question:
+Can I connect a remote volume control and assign it to control what ever input or output level that I choose, and cause that selected input/output to be different whith each preset?
+
+
+Answer:
+
+	Yes. This is all done in the Control Pin Configuration window.
+	
+	For example, in preset 1, you can have the volume control effect inputs 1 and 2. In preset number 2, you can have the same volume control effect outputs 3 and 6, instead, etc.

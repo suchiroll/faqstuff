@@ -1,0 +1,13 @@
+Title: How to make a supercardioid mic
+Id: 938
+Legacy Id: 966
+
+Question:
+I'm a student & I really need your help. I have to submit a thesis regarding mics. It so happened that "polar patterns" was the topic assigned to me. Can you give at least an overview on how to make a supercardioid mic or any suggested reading material and where to avail them? I will really appreciate the info you will share with me. For as long as I know you were the best
+
+Answer:
+
+	We suggest you consult the book: Microphone Engineering Handbook; edited by Michael Gayford; Focal Press; ISBN 0-7506-1199-5. Also try: www.aes.org
+	
+	Shure closely guards the design techniques used for our products.
+

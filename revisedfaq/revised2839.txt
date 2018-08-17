@@ -1,0 +1,15 @@
+Title: DFR22 RS232 Codes - AMX / Crestron Subprograms
+Id: 2839
+Legacy Id: 2951
+
+Question:
+What are the RS232 serial strings to control the DFR22 from an AMX or Crestron system?
+
+
+Answer:
+
+	Download the DFR22 serial strings in PDF format, including examples and communication protocol.
+	
+	Download an AMX Netlinx module (written by AMX).
+	
+	Download Crestron module (written by Shure).

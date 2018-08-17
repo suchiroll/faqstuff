@@ -1,0 +1,22 @@
+Title: ULX and rechargeable batteries
+Id: 3051
+Legacy Id: 3182
+
+Question:
+Should I use a rechargeable 9 V battery with a ULX transmitter?
+
+
+Answer:
+
+	The primary reason that we dont recommend 9-volt-size rechargeable batteries is that the operating time is usually too short for many purposes. The capacity of the typical 8.4V or 9.6V NiMH battery is only about 150mAh. When compared to 500mAh for the typical alkaline 9-volt, the operating time is only about 25% as long. Thus, if the alkaline lasts eight hours, the rechargeable will only last about two hours at best. Note that wireless transmitters are relatively high-current devices: 40 - 50mA is typical current draw.
+	
+	The operating voltage is also not standard for NiMH 9-volt-size devices: six-cell versions have only 7.2V initial voltage and will run only briefly while seven-cell versions have 8.4V initial voltage and will run up to a couple of hours. Eight-cell versions have a 9.6V initial voltage but will still only run a couple of hours typically.
+	
+	NOTE: There is a problem operating the ULX transmitters with the 9.6V NiMH batteries. When the battery voltage is above 9.0 volts, the transmitter may not send an RF signal; (from unit to unit, the actual RF cut-off voltage will vary from 9.0 to 9.5 V.) Once the battery drains down to 9.0 volts or lower, the RF signal is transmitted.
+	
+	There is one additional wrinkle unique to the ULX transmitters: they have a latching circuit governed by the battery voltage to prevent false good battery indications due to brief voltage bounce when the unit is switched off in a low-battery condition. That is, once the battery voltage falls below 6.8 volts during operation (red low-battery indicator on transmitter), the unit will not display a good battery indication until the unit is switched off then the supply voltage is brought above 8.4V and the unit is switched back on. This effectively forces the operator to put a new battery in the unit rather than continue with the nearly dead one. Note that the transmitter tone key ceases at 6.0V and the unit turns off altogether at 5.5V.
+	
+	The battery meter on the transmitter will still read the voltages correctly, but the expected remaining operating time as a function of the number of battery bars is no longer accurate since it is still proportional to the (expected) alkaline discharge curve. In particular, a low battery indication will be very near the end of operation for the rechargeable battery.
+	
+	There is no risk to the equipment when using rechargeable batteries in the ULX product and no issues with warranty coverage. The only real risk is unexpectedly short operating times of the rechargeable batteries if they are not properly managed. In our experience, it is necessary to find a very responsible individual to manage the rechargeable batteries to provide satisfactory and reliable operation in regular service. However, if such a person can be found, it is possible to reduce battery expenses considerably in the long run.
+

@@ -1,0 +1,16 @@
+Title: CU 6105/CU 6110 Firmware v8.0.1 features
+Id: 4828
+Legacy Id: 6014
+
+Question:
+What happens when you install firmware version 8.0.1 on a CU 6105 or CU 6110 central unit?
+
+
+Answer:
+
+	A CU 6105 or CU 6110 central unit that has been updated to firmware version 8.0.1 adds some new features, including basic voting (see the FAQ What is Basic Voting?), VOX voice activation, and the ability to manage conference units for up to 250 participants.
+	
+	In the web browser control interface, the new firmware adds separate browser addresses for an Administrator, the Chairman, and for Display of speaker information on external video monitors.Each of these pages can be assigned a password if desired to prevent unauthorized access.
+	
+	Users of SW6000 software should note that updating the central units firmware may require updating SW6000 software as well, which may entail a fee.
+

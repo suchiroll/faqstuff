@@ -1,0 +1,16 @@
+Title: Ceramic Mic Element and Crystal Mic Element
+Id: 4434
+Legacy Id: 5533
+
+Question:
+What type of material was used for a ceramic mic element? Why was ceramic considered superior to crystal?
+
+
+Answer:
+
+	Barium titanate was the material commonly used for a ceramic mic element. (See U.S. Patent 2,640,165, issued May 26, 1953.) Lead Titanium Zirconate was also used.
+	
+	For Shure microphones with ceramic elements, the ceramic material was obtained from Gulton Industries, Metuchen, New Jersey, or from Brush Electronics Company, Cleveland, Ohio.
+	
+	A crystal mic element used a Rochelle salt crystal. This type of salt crystal could not withstand temperatures above 130 degrees F. Also direct moisture, or a very humid environment, would eventually damage the salt crystal. A ceramic element was far more tolerant of high temperature and high humidity. The advantages of the ceramic element eventually led to the elimination of the Rochelle salt crystal as a mic element.
+

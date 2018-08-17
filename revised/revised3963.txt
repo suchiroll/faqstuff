@@ -1,0 +1,16 @@
+Title: PA821A and PA421A versus PA821SWB and PA412SWB
+Id: 3963
+Legacy Id: 4214
+
+Question:
+In October 2011, Shure discontinued the PA821SWB and PA421SWB. These were replaced by the PS821A and the PA421A. What are the new features?
+
+
+Answer:
+
+	The PA821A features improved thermal management, which, when coupled with a new quieter fan, reduces the acoustic noise level by a minimum of 15 dB. Each input of the PA821A has an individually controlled amplifier that activates onlywhen signal is detected at the RF input; this reduces the need for the fan cooling. The fan will activate only when necessary and will run at the minimum speed required to keep the internal temperature below the critical point.
+
+	
+
+	The PA421A features a front-panel 2 in / 1 out passive combiner, which allows two active combiners to share a single antenna. The PA421A has also been upgraded to the same thermal management described above.Four DC output jacks provide power for PSM900 transmitters. Front-panel LED status indicators for the DC power outputs jacks have been added. The LED glows green when there is a transmitter connected to the corresponding DC power output, or glows red if there is a fault. If no transmitter is connected, the LED is dark. Coaxial DC power jumper cables are provided.
+

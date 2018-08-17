@@ -1,0 +1,14 @@
+Title: SM77 versus SM57
+Id: 2749
+Legacy Id: 2855
+
+Question:
+What is the difference between the SM77 and the SM57?
+
+
+Answer:
+
+	SM77 - no output transformer; aluminum voice coil
+	SM57 - output transformer; copper voice coil
+	
+	The mics have a similar sound, but are not identical.

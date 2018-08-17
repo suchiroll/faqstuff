@@ -1,0 +1,14 @@
+Title: Will Motiv products work with a laptop docking station or bus-powered USB hub?
+Id: 4709
+Legacy Id: 5879
+
+Question:
+Will Motiv products work with a laptop docking station or bus-powered USB hub?
+
+
+Answer:
+
+	For best performance, connect the Motiv device directly to the USB port.Lap top computer docking stations can introduce noise or grounding issues, and a bus-powered USB hub may not provide sufficient power on each of its ports.
+	
+	As an example, the Motiv MVi needs at least 100 mA of current from the USB port.
+

@@ -1,0 +1,14 @@
+Title: Adding licenses to an existing SystemOn subscription
+Id: 5027
+Legacy Id: 6319
+
+Question:
+Can I upgrade my subscription to add more licenses?
+
+
+Answer:
+
+	No. Standard subscriptions have a specific entitlement period with licenses for a set number of IP addresses/devices. If a user requires more licenses to control new or additional hardware, they can purchase an additional subscription at any time.
+	
+	High volume users may consider purchasing an Enterprise License, which covers an unlimited number of IP addresses.
+

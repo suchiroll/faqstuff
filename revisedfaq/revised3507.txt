@@ -1,0 +1,43 @@
+Title: Troubleshoot Wireless Workbench Ethernet Connection
+Id: 3507
+Legacy Id: 3706
+
+Question:
+I have tried Wireless Workbench 5.0 and can't get it to see my UHFR receivers using an Ethernet connection.
+
+
+Answer:
+
+	To troubleshoot Wireless Workbench 5 (WWB5) Ethernet connections, please follow these steps.
+
+	
+		Connect the computer and the UR4 or P10T to a router. A router acts as the DHCP server for the devices.If you are using a switch instead of a router, you will need to change the computer and the UR4 or P10T to manual (static) IP mode. We recommend using a router with DHCP for easiest setup. Many4-port routers are available forunder $50.8-port routers are under $100.
+	
+		Power on the router before turning on the power to the UR4 or P10T. If the UR4 or P10T are turned on before the router, they may not correctly get an IP address.
+	
+		Check the IP addresses of the UR4 receivers and the computer. The IP addresses need to be in the same subnet. This means that the first two or three octets of the IP need to be the same. For example:
+		
+			Computer IP: 192.168.1.100
+			Computer Subnet Mask: 255.255.255.0
+			Receiver IP: 192.168.1.102
+			Receiver Subnet Mask: 255.255.255.0
+		Write down the IP address of the computer, as you will need it in step 5.
+	
+		Make certain that any Firewall or other security software is disabled. Many corporations have security software on their computers, and you might need to contact your IT department for assistance with this.
+	
+		Make certainWireless Workbenchis using the correct network adapter.
+		
+			
+				v5.0.2through v5.0.5. Start Wireless Workbench, pull down the Devices menu, and select Configure Ethernet Connection.
+				Put a check mark in Override Default Config. Use the dropdown list to select the network adapter that you are using. You can verify that you have selected the correct adapter because the IP address will match that of step 3. Close Wireless Workbench and Restart Wireless Workbench.
+			
+				v5.0.0 or v5.0.1. Go to: C:\Program Files\Shure\Wireless Workbench-5.0\SNetConfig.exe
+				Double click on the SNetConfig program to run. Put a check mark in Override Default Config. Use the dropdown list to select the network adapter that you are using. You can verify that you have selected the correct adapter because the IP address will match that of step 3. If Wireless Workbench is open, close Wireless Workbench and Restart Wireless Workbench.
+		
+	
+	
+		On the front panel of the UR4 or P10T, make certain each chassis has a different Device ID.
+	
+		Run WWB5 and click on the Live button.The UR4 or P10T should show up in the Device Manager section of WWB5.
+
+

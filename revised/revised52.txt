@@ -1,0 +1,46 @@
+Title: M44-7 Phono Cartridge Set Up
+Id: 52
+Legacy Id: 52
+
+Question:
+I replaced the cartridge on my Sl1200 turntable with a M44-7 cartridge.  The problem is the stylus is more unstable now.  Scratching back and forth makes the head move all over the place.  If I remount the old cartridge, the problem is gone.  I've tried all the different settings with anti-skate, tracking force, and arm height.  Any ideas?
+
+Answer:
+
+	Finding your optimum set-up solves most skipping problems. Every DJ has a different touch, and some experimentation is required to obtain maximum results. Unfortunately, it is very difficult to diagnose specific problems from a distance. Fortunately, we have collected several tips from our numerous conversations with turntablists. We hope you find these helpful.
+	
+	Shure is also in the process of rewriting our cartridge manual to reflect three installation methods: Hi-Fi, Standard DJ, and Unorthodox DJ.
+	
+	Hi-Fi:
+	Install the cartridge on the headshell w/o the headshell weight.
+	Align the cartridge so that the tip of the stylus is flush with the front of the headshell weight.
+	Anti Skate to zero
+	Tone arm height set level
+	Balance the tone arm, then add 3 grams
+	
+	Standard DJ:
+	Install the cartridge on the headshell w/o the headshell weight.
+	Align the cartridge to the rear of the headshell slots.
+	Anti Skate to zero
+	Tone arm height set level
+	Balance the tone arm, then add 3 grams
+	
+	Unorthodox DJ:
+	Install the cartridge on the headshell with the headshell weight.
+	Align the cartridge so that the tip of the stylus is flush with the front of the headshell weight
+	Anti Skate to zero
+	Tone arm height set level or slightly down 4.5-5.5
+	Reverse the tone arm weight
+	Eye the weight somewhere between flush with the rear of the tone arm and halfway toward tone arm pivot joint.
+	
+	
+	Other tips
+	Are the records warped?
+	Are your slip mats slippery?
+	Are the record holes loose on the spindle?
+	The cartridge can be angled outward (away from the spindle) 23 degrees to increase skip resistance.
+	
+	Finally, does your turntable need to be calibrated? There are two screws on the tone arm pivot. The screw at the top pulls the tone arm outward as it is tightened. The screw on the side makes the vertical movement stiffer. Do not attempt to calibrate your turntable if you are uncomfortable making these adjustments.
+	
+	If you experience other problems related to your cartridges, feel free to contact us.
+

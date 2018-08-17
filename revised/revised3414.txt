@@ -1,0 +1,45 @@
+Title: DC Power on Wireless Mic Receiver Antenna Connectors
+Id: 3414
+Legacy Id: 3605
+
+Question:
+The power supplies associated with several recently installed ULX wireless microphone receivers are failing. In two cases, the receivers have also failed. Any suggestions on what is happening?
+
+
+Answer:
+
+	Failure of the power supplies used with the ULX receivers is a very rare occurrence. The power supplies are conservatively rated and should last indefinitely.
+	
+	The higher than expected power supply failures suggest another problem:that the power supplies are under a much heavier current load than normally expected.
+	
+	The most likely problem to check for is an incorrect antenna configuration. Several of the Shure wireless receivers provide 12 VDC at the BNC antenna connections.This permits active antenna amplifiers to be powered via the connecting coaxial cable.
+	
+	If the antenna installation includes devices that are not designed to work with the DC voltage, problems can occur.Here are two examples:
+
+	
+		Using a passive RF signal splitter to share an antenna with several receivers. The output ports on non-Shure passive antenna splitters are frequently designed such that the antenna connections are at DC ground, but not RF ground.
+	
+		Connecting a receiver directly to an antenna that is designed with a matching circuit that is at DC ground, but not RF ground.
+
+
+
+	If a condition similar to the examples exists, then substantial current will be drawn from the receiver antenna terminals, resulting in premature failure of the receiver power supply, or the receivers internal voltage regulator that provides power to the antenna terminals.
+	
+	All Shure antenna products, including the active antenna splitters are designed to interface with receivers with DC voltage at the BNC connector. When appropriate, DC blocking is provided.
+	
+	Shure wireless receiver and antenna distribution products that provide 12 VDC at the antenna input connections are:
+	
+
+	UR4 - Internal jumpers permit disabling the DC voltage supply to the antenna terminals. Please contact Shure Applications Engineering for assistance.
+	
+	U4 - Two zero Ohm resistors (R344, R390 - identified on circuit board) in each receiver channel can be removed to disable the DC voltage at the antenna terminals. Please contact Shure Applications Engineering for assistance.
+	
+	ULXS and ULXP - Click here for instructions on how to disable the 12 VDC at the antenna terminals.
+	
+	UA844US - 4-port wireless antenna distribution unit that provides 12 VDC at the antenna input connections. Click here for instructions on how to disable the 12 VDC at the antenna terminals.
+	
+	UA845US - 5-port wireless antenna distribution unit that provides 12 VDC at the antenna input connections. Please contact Shure Applications Engineering for assistance.
+
+
+	Blocking the DC voltage at the wireless receiver antenna terminals can also be accomplished externally. BNC adapters that provide DC blocking can be purchased and installed inline with the ports needing DC isolation. When using the DC Blocks, RF flows without any significant loss. A recommended model of DC Block is Pomona Electronics part #5297.
+

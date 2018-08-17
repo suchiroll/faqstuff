@@ -1,0 +1,18 @@
+Title: Mic for amplifing live classical guitar
+Id: 2440
+Legacy Id: 2535
+
+Question:
+What would be two choices for a mic that would be suitable to use to amplify live classical guitar? My main concern is to reduce feedback howl.
+
+
+Answer:
+
+	1. Gain before feedback involves the entire sound system, not just the mic.
+	
+	2. Recommended models: KSM137; SM81; PGA81. All are condenser mics with a flat frequency response.
+	
+	3. Also use a shock mount holder like the A53M.
+	
+	4. Search our FAQ to read about miking a classical guitar
+

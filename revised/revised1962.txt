@@ -1,0 +1,14 @@
+Title: Mics and PA systems for a novice
+Id: 1962
+Legacy Id: 2025
+
+Question:
+This may seem like a dumb question. I just ordered a Shure mic online, and all I have at home is an acoustic guitar amplifier. Do I need to buy a speaker or something to plug the mic into, or does that go into the amplifier along with the guitar? What kind of speaker should I buy if I'm just thinking about coffee shop settings? Also, just for future reference, what is the difference between a speaker and an amplifier?
+
+
+Answer:
+
+	Do I need to buy a speaker or something to plug the mic into, or does that go into the amplifier along with the guitar?
+	*It is best to have a separate PA (Public Address) system for the mic. Running the guitar and mic into the same amplifier is a compromise and neither will sound its best.What kind of speaker should I buy if I'm just thinking about coffee shop settings?
+	* You require a small PA system, not just a "speaker".what is the difference between a speaker and an amplifier? *A loudspeaker is only the very end of the audio signal chain. A simple audio signal chain consists of: singer - microphone - cable - mixer - cable - power amplifier - cable - loudspeaker - audience.You might also read: http://www.shure.com/publications/audio-systems-guide-for-houses-of-worship.pdf
+	Though aimed at the church market, the audio concepts also apply to live music.

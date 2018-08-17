@@ -1,0 +1,17 @@
+Title: Mounting position for VP88
+Id: 524
+Legacy Id: 535
+
+Question:
+I am confused with the word grille and the word up, in the MOUNTING instructions for the VP88. I quote, "Make sure the front of the grille faces the sound source... and the top of the microphone faces up,..."
+
+
+Beginning with the first part of the sentence. I make reference to the word grille faces. Since there are three grille faces, all grille face's face the sound source. In other words the mic is parallel with the floor. Looking at the data sheet that comes with the A88SM it leaves me to believe this is the proper way.
+
+
+However, (here comes the confusion) the sentence goes on to say the top of the microphone faces up, therefore the microphone is vertical to the floor.
+
+
+Answer:
+
+	The round grill should be pointed toward the sound source with the microphone parallel to the ground. The microphone should be rotated so the switches are on the top of the microphone. Point the VP88 just like you would an SM58.

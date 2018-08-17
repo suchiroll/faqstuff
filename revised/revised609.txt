@@ -1,0 +1,28 @@
+Title: UC14/85 and UA600 - front mount antennas
+Id: 609
+Legacy Id: 622
+
+Question:
+If I am going to purchase and mount a single UC wireless receiver in a rack, do I need the UA600 to mount the antennas in the front or does the rack ears that come with the UC provide for this?
+
+
+Answer:
+
+	Yes, you require the UA600, plus the rack ears supplied with the UC wireless.
+
+	Here are the UA600 instructions.
+	
+	UA600 FRONT MOUNT ANTENNA KIT
+	The Shure UA600 is a front mount antenna kit for Model UC4 an and U4 UHF
+	wireless receivers. To mount receiver antennas to the front of an equipment
+	rack, proceed as follows:
+	1 Insert the supplied bulkhead adapters into the mounting bracket holes of the rack ears.
+	2 Connect the supplied 2 ft. antenna cables to the BNC connectors on the
+	rear of the receiver labeled Antenna A Input and Antenna B Input.
+	3 Connect each antenna cable to the rear of the bulkhead adapters.
+	4 Connect the antennas to the front portion of the bulkhead adapters.
+	NOTE: Shure recommends connecting the bulkhead adapter and antenna
+	cables before mounting the receiver in a rack. Once the receiver is in the
+	rack, it is more difficult to install the bulkhead adapters and antenna cables.
+	5 Mount the receiver in a 19-inch audio equipment rack.
+

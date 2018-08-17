@@ -1,0 +1,16 @@
+Title: Side Guard Stylus Protection System
+Id: 4489
+Legacy Id: 5603
+
+Question:
+What is the Shure Side-Guard Stylus Protection System?
+
+
+Answer:
+
+	The protection system helps to limit stylus damage if: 1) the cartridge accidentally slides across a record, 2) the cartridge is dropped onto the record, or 3) the stylus is bumped into the edge of the record. This unique feature responds to side thrusts on the stylus by momentarily forcing the stylus shank and stylus tip upward so that the shank does not bend sideways.
+	
+	Note that the stylus shank does not withdraw into the cartridge body like a turtle withdrawing its neck into the shell.
+	
+	When the stylus is deflected to an extreme lateral position, the magnet at theshank endcontacts a formed protrusion inside the stylus housing.This contact causes the magnet to move downward; the stylus tip in turn is forced upward into a shaped recess that applies equal pressure along the shank length, thus preventing excessive stress points along the stylus shank.
+

@@ -1,0 +1,14 @@
+Title: Beta 58 vs. Beta 58A - Beta 57 vs Beta 57A
+Id: 269
+Legacy Id: 275
+
+Question:
+Are there any major diferences between the "BETA 58A" and the older "BETA 58"?
+
+
+Answer:
+
+	The Beta 58A has a completely new cartridge in it. While the new cartridge is meant to mimic the old cartridge as far as polar pattern, output level, and frequency response goes, it is a different cartridge and will sound slightly different. Two major differences are that we removed the hum bucking coil on the new model and added an output transformer.
+	
+	The difference between the Beta 57 and the Beta 57A is the same as the Beta 58 vs Beta 58A.
+	Beta 57A and Beta 58A Comparison: Beta 57A and Beta 58A Comparison

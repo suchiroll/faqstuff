@@ -1,0 +1,20 @@
+Title: Beta 53 and feedback
+Id: 1349
+Legacy Id: 1401
+
+Question:
+I am a violinist/singer who performs with a band on a small stage very near to my speakers. I have a Mackie PA system and sub-woofers and the music we play has to be very loud. I have previously had an Audio Technica headphone set but unfortunately this broke and also the quality isn't as good as Shure, however, it didn't have any feedback problems during my live performance. People advised me that Shure is the very best quality you can buy. Therefore I was surprised that my new Shure Beta WBH53B headset does have terrible feedback problems.
+
+This headset has a fantastic quality but the feedback is so bad that I have to switch it off. I had phoned Shure USA recently and I was told that the WCM16 would be my best bet for vocals/live performance and would have minimum feedback. I was also told that the Beta 53 was more for Seminars. My local Shure dealer convinced me that the 53B was the very best I could buy. I will be taking it back to the shop but I would like to know if the WCM16 is the best for what I need or do you have a better headset for singers/live performers?
+
+
+Answer:
+
+	The Beta 53 is an omnidirectional microphone. We are not surprised that you are encountering feedback problems. The Beta 53 is designed for speech applications and live sound where loudspeakers are NOT close to the stage, like in theater. Based on your stage setup, the Beta 53 will likely be a problem.
+	
+	The WCM16 may work better, but you wont know until you try it onstage with your loudspeaker arrangement.
+	
+	The WH20 will likely be the best at controlling feedback, but you may not like the audio quality as it will be inferior to the Beta 53.
+	
+	For our FAQ for feedback: Click Here
+

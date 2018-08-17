@@ -1,0 +1,11 @@
+Title: M91GD tracking force recommendation
+Id: 299
+Legacy Id: 306
+
+Question:
+I'm owner of a M91GD phono cartridge. I would like to know your recommendations for the tracking force.
+
+Answer:
+
+	The recommended tracking force is .75 to 1.5 grams.
+

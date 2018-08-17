@@ -1,0 +1,11 @@
+Title: P4800 vs P4800E
+Id: 2037
+Legacy Id: 2102
+
+Question:
+What is the difference between the P4800 and the P4800E?
+
+
+Answer:
+
+	The P4800E comes with a 2-prong "Schuko" AC plug for European use. The P4800 comes with a 3-prong Edison plug for USA use. That is the only difference.

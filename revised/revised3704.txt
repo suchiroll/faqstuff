@@ -1,0 +1,14 @@
+Title: AA Cell Eliminator
+Id: 3704
+Legacy Id: 3932
+
+Question:
+I want to power a Shure MX690 without using batteries. I have an external source that provide 3 volts of DC from 120 Vac. But I need an idea on how to fabricate a fake AA cell to place inside of the MX690.
+
+
+Answer:
+
+	A single AA cell is 1/2 in diameter, 1 7/8 in length. It can be fabricated by cutting a 1/2 diameter wooden dowel to length. Insert a brass, round head screw into the end to act as the battery terminal. Connect the wire that carries the DC power to the brass screw.
+	
+	The MX690 requires two AA cells in series. This will require one fake AA cell for the positive DC connection and one fake AA cell for the negative DC connection. The current draw is less than220 mA; the wire that carries the DC can be quite small, such as AWG 22 or AWG 24.If the MX690 bottom plate is drilled to provide anpass-through for the wire, make the hole as small as possible to reduce the possibility of RFI getting into the MX690.
+

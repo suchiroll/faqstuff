@@ -1,0 +1,16 @@
+Title: MX412SE MX418SE Shock Mount Adapter
+Id: 3727
+Legacy Id: 3960
+
+Question:
+I need the shock mount adapter that lets the MX412SE fit into the A400SM shock mount. It is an external threaded piece of aluminum tube that attaches to the internal threaded flange at the gooseneck bottom.
+
+
+Answer:
+
+	As of July 2010, the Shure part number is 31A2151. The part description is threaded aluminum bushing.
+	
+	It is black in color. It is 2.25 inches in length. It is 0.75 inch in diameter. It is hollow. On one end is a male thread, 5/8-27. The thread length is 3/16.
+	
+	The mounting flange, that fastens to the desk top, is part number 65B8264.
+

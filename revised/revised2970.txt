@@ -1,0 +1,35 @@
+Title: E2, E3, E5, Comparative Specifications
+Id: 2970
+Legacy Id: 3098
+
+Question:
+Please provide comparative specifications for the E2, E3, and E5.
+
+Answer:
+
+	E2 SPECIFICATIONS
+	Transducer Type: Single driver; dynamic; miniature loudspeaker
+	Impedance: 16 ohms
+	Sensitivity: 105dB SPL/mW
+	Weight: 30g (1.0 oz.)
+	Cable Length: 1.52m (60 in.)
+	Input Connector: 3.5mm (1/8) gold-plated
+	
+	E3 SPECIFICATIONS
+	Transducer Type: Single driver; balanced armature
+	Impedance: 26 ohms
+	Sensitivity: 115dB SPL/mW
+	Weight: 28g (0.9 oz.)
+	Cable Length: 1.52m (60 in.)
+	Input Connector: 3.5mm (1/8) gold-plated
+	
+	E5 SPECIFICATIONS
+	Transducer Type: Dual drivers with crossover; balanced armature
+	Impedance: 110 ohms
+	Sensitivity: 122dB SPL/mW
+	Weight: 31g (1.1 oz.)
+	Cable Length: 1.55M (62 in.)
+	Input Connector: 3.5mm (1/8) gold-plated
+	
+	The above specs also cover the c versions for the E2, E3, and E5.
+

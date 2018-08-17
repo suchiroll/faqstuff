@@ -1,0 +1,14 @@
+Title: M92E body with N97xE stylus
+Id: 4943
+Legacy Id: 6205
+
+Question:
+Will this hybrid combination produce an audio signal?
+
+
+Answer:
+
+	Yes. The N97xE stylus will fit into the M92E body. It looks odd, but it works. Several customers have reported quite favorable results.
+	
+	However, please read this link: Hybrid Phono Cartridges
+

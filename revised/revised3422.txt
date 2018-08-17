@@ -1,0 +1,28 @@
+Title: MX202 Plate Mount Preamp Wiring Scheme
+Id: 3422
+Legacy Id: 3613
+
+Question:
+How are the wires connected in to and out ofthe MX202 plate-mount preamp?
+
+
+Answer:
+
+	The input is a terminal strip with 3 connection points; the output is the same type of terminal strip.
+	
+	The preamp input is labelled: R B S
+	
+	R  =  red wire (carries +5 Vdc bias to the mic)
+	B  =  black wire (carries the audio signal from the mic)
+	S  =  cable shield (return path for bias and audio)
+	
+	
+	The preamp output is labelled: S  +  -
+	
+	+  =  audio send
+	-  =  audio return
+	S  =  cable shield
+	
+	The ppeamp output is a balanced, mic level signal.   
+	
+	NOTE: The MX202 preamp requires phantom power to operate.

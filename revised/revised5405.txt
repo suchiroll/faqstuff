@@ -1,0 +1,13 @@
+Title: What is the transmitter? What is the receiver?
+Id: 5405
+Legacy Id: 5745
+
+Question:
+What is the transmitter? What is the receiver?
+
+Answer:
+
+	In a wireless microphone system, the transmitter is the handheld mic, or the bodypack (worn by the talker) that connects to a lapel mic or a headworn mic. The transmitter always has a battery of some type. The receiver is the box that connects into the sound system. A receiver typically has two external antennas; in some systems, the antennas are hidden inside the box. The receiver requires AC power from a wall socket, though some receivers can be battery powered.
+	
+	In a wireless in-ear monitor system (ShurePSM products), the transmitter is the box that connectsto themixing board. The transmitterrequires AC power from a wall socket. The receiver is the bodypack worn by the performer and provides the signal toearphones. The receiver always has a battery of some type.
+

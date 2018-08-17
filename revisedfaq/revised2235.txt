@@ -1,0 +1,14 @@
+Title: SM11 Maximum Sound Pressure
+Id: 2235
+Legacy Id: 2315
+
+Question:
+How much sound pressure can the SM11 take at the windscreen (lips on windscreen) before distortion occurs.
+
+
+Answer:
+
+	Greater than 160 dB SPL.
+	
+	Read the following link for more information: Maximum SPL of dynamic mics
+

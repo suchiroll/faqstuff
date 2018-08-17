@@ -1,0 +1,11 @@
+Title: Rack Mounting UT Series Receivers
+Id: 2719
+Legacy Id: 2823
+
+Question:
+Is there an off the shelf solution for rackmounting UT series Wireless recievers. Is this a side by side configuration or are they one to a shelf so to speak?
+
+
+Answer:
+
+	Use the URT rack tray. It will allow two UT4 receivers to sit side by side.

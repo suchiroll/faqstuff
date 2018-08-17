@@ -1,0 +1,13 @@
+Title: Number of Open Microphones - Audio Demo
+Id: 4004
+Legacy Id: 4411
+
+Question:
+Please provide a demo that illustrates the benefit to limiting the number of open microphones.
+
+
+Answer:
+
+	Too many open microphones can greatly deteriorate the audio quality of a sound system. Automatic mixers are usedto reduce the number of open microphones in speech applications. The following recordings demonstrate the effect of using an automatic mixer to reduce the number of open microphones.
+	
+

@@ -1,0 +1,24 @@
+Title: Shure 800E cartridge
+Id: 1186
+Legacy Id: 1230
+
+Question:
+I have a Technics SL-DD33 turntable outfitted with a Shure 800E cartridge. Questions:
+
+
+--What kind of stylus is it? (diamond, sapphire, etc.)
+
+--How long will it last?
+
+--If I need to replace it, what should I replace? (the entire cartridge, stylus only?) I'm looking for maximum fidelity and longevity.
+
+
+What's the catalogue number(s) for the replacement stylus?
+
+
+Answer:
+
+	The stylus is diamond. The life is typically 500 to 750 playing hours. Only the stylus needs to be replaced to bring the unit back to like new condition.
+	
+	Use the N92E replacement stylus.
+

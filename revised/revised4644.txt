@@ -1,0 +1,13 @@
+Title: MXW2 Mic Clip
+Id: 4644
+Legacy Id: 5803
+
+Question:
+Which mic clip is used for the MXW2?
+
+Answer:
+
+	WA371
+
+
+

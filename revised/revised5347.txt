@@ -1,0 +1,15 @@
+Title: Source for V15V MR stylus and V15VxMR stylus
+Id: 5347
+Legacy Id: 4080
+
+Question:
+Source for V15V MR stylus and V15VxMR stylus
+
+Answer:
+
+	As of January 2011, there is a company in Japanselling a VN5MR replacement stylus (V15V MR) and a VN5xMR replacement stylus (V15VxMR.)
+	
+	www.jico-stylus.com
+	
+	NOTE: These replacement styli are not manufactured by Shure. Shure has not tested and does not endorse these replacement styli. Shure is not affiliated in any manner with the company that sells these styli.
+

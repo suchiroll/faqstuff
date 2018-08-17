@@ -1,0 +1,15 @@
+Title: Motiv MVi connected to a monitor loudspeaker
+Id: 4784
+Legacy Id: 5969
+
+Question:
+I'm interested in the MVi, but may I connect the MVi to a monitor loudspeaker, in place of using headphones? Is the gain different when used with studio monitors? I want a minimal audio interface to use with my iMac but I have professional studio monitor speakers. I want the ability to connect an instrument when needed, but I don't intend to use headphone monitoring.
+
+
+Answer:
+
+	It is OK connect the monitor loudspeaker to the MVi's headphone output.  Use the MVi headphone level adjustment to control the level sent to the monitor loudspeaker.  This assumed the monitor loudspeaker has a built-in amplifier. The monitor speaker also may have an input level control.
+	
+	When a instrument source is plugged into the 1/4" input on the MVi, it automatically selects the "flat" EQ setting.  The Mode button will toggle input monitoring on and off.  When the Mode LED is lit, you may monitor the direct signal from an instrument.  At times, it may be desirable to disable input monitoring to hear only the output from a guitar amp simulator or recording software.
+	
+	Be certain to lower the monitor speaker level before connecting a microphone to the MVi to avoid acoustic feedback.

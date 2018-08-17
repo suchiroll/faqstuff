@@ -1,0 +1,16 @@
+Title: Guitar or bass: Should I use wireless?
+Id: 1462
+Legacy Id: 1515
+
+Question:
+Will my guitar or bass sound the same when using wireless as when using a cable?
+
+
+Answer:
+
+	It is important to understand that a guitar or bass often sounds much different when played through a wireless system than a cable. When using a cable, the instruments sound quality is affected primarily by the device that directly follows the instrument, be it an amplifier or effects pedal. The cable also has some effect, but not as much as the electronics into which the guitar is plugged. This loading effect will change the sound of the guitar which is why it is important to audition your guitar with any amplifier you might buy. Only you will know if you like the guitar/amp combination when you hear it. No one else can tell you ahead of time that you will like the sound. This is a personal choice.
+	
+	When you decide to make your guitar wireless, the guitar is now loaded by the transmitter; it is no longer loaded by your amplifier or effects pedal. Therefore, the sound of the guitar may change greatly when you go wireless because of the transmitters input characteristics. The guitars sound can also change because of the audio circuits in some wireless systems that compress and expand the dynamic range;this can affect the sustain of the sound as it decreases in level.
+	
+	For these reasons,Shure strongly recommends auditioning wireless systems. Many players prefer a digital wireless system, though every digital system has some amount of signal latency (delay). For the audition, set up your entire guitar system using a cable. Then substitute the wireless systemfor the cable and listen carefully for differences. Only your ears can tell you if you like a specific wireless system in combination with your guitar, your amp, and playing style.
+

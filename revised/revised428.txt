@@ -1,0 +1,15 @@
+Title: 545D with guitar amplifier
+Id: 428
+Legacy Id: 435
+
+Question:
+How can I connect a 545D Shure microphone with a guitar amplifier ?
+The microphone is configured for high impedance operation.
+
+Answer:
+
+	This requires a shielded cable (less than 25 feet long) with an XLR female on one end and a 1/4" male phone plug on the other.
+	
+	The cable should be wired:
+	Cable shield: XLR pin 1 and XLR pin 3 to phone plug sleeve
+	Cable inner conductor: XLR pin 2 to phone plug tip

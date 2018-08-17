@@ -1,0 +1,11 @@
+Title: EAC30P-MICROB8 cable
+Id: 5016
+Legacy Id: 6308
+
+Question:
+On the SHA900 product website page you also show the availability of the EAC30P-MICROB8 accessory connection cable for use with the SHA900. This cable is a micro-B to Apple 30 pin connector cable according to the product description. The question I need to get definitively answered is whether or not this connecting cable will allow me to connect my Apple iPod Classic digitally to the SHA900 Personal Listening Amplifier. Does this cable derive a digital signal output from the 30 pin output port on the Apple iPod Classic which is then in turn fed through the micro-B connector into the micro-B digital input on the SHA900?
+
+Answer:
+
+	The 30-pin to MicroB cable is intended for a digital connection with an iPod Touch and older iPad models. This cable will not work with an iPod Classic as it does not provide a digital output.
+

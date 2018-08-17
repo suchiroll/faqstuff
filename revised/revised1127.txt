@@ -1,0 +1,22 @@
+Title: UP4 Battery Life
+Id: 1127
+Legacy Id: 1165
+
+Question:
+I'm interested in a camera mounted UHF Diversity wireless mike for videotaping search and rescue conferences.
+
+
+1) I have a question about your UP4 system, specifically the battery life of the UC1 and U1 bodypacks. The U1 is listed for 12 hours but draws 100 ma from two AA in series. The UC1 is listed for 8 hours but draws 65 ma from one 9 volt battery. Is the U1's circuitry that much more efficient or do 2 AA's have much more milliamp hour capacity than a 9 volt or is the battery life number wrong?
+
+
+2) Will the U1 operate from a pair of NiMH rechargeable batteries or just new matched alkaline?
+
+
+Answer:
+
+	1)A 9 volt alkaline typically has a mA/hour rating of 500. An AA alkaline typically has a mA/hour rating of 1,200. The battery life numbers are correct.
+	
+	2) The U1 will turn itself off when the combined battery voltage of the two AA batteries equals 2 volts. As long as the series voltage is above 2 volts, the U1 will operate fine.
+	
+	More Information: Batteries and wireless microphones
+

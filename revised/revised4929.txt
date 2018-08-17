@@ -1,0 +1,12 @@
+Title: HTC10 Mobile Phone and Shure Earphones
+Id: 4929
+Legacy Id: 6187
+
+Question:
+Might there be an audio issue with the HTC10 phone?
+
+
+Answer:
+
+	Yes. The HTC10 claims to be designed for high end audio.However, the audio circuit for headphone amplifier appears to be problematic. When used with a low impedance earphone (like the Shure SE846) and set at high volume levels, the headphone amp can shut down onthe Left, the Right, or both. This is not an issue with the Shure earphones (or headphones.) It is an issue with the HTC design.
+

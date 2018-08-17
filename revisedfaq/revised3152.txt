@@ -1,0 +1,24 @@
+Title: Lack of bass from my earphones
+Id: 3152
+Legacy Id: 3290
+
+Question:
+I'm not getting enough bass from my Shure earphones. Why?
+
+Answer:
+
+	The reason for poor bass response (over 99% of the time)is a poor fit between the earphone sleeve and the ear canal. If the flexible sleeve does not completely seal the ear canal, there is little bass. This is usually caused by using a sleeve that is too small for the ear canal.
+	
+	In most cases, use the foam sleeves for the best bass. After you compress the foam, they expand and mold to the ear canal shape. This creates the best acoustical seal, and therefore the best bass.
+	
+	Ensure that the correct earphone is in the correct ear. It is recommended that the cable point up and wrap around the earlobe for a correct fit. With no music playing, you should have difficulty hearing conversation even when the talker is next to you. If you can hear clearly what is being said, then the acoustic seal in the ear canal is not adequate.
+	
+	Please try ALL the included sleeves to find the best one for each ear canal. It is feasible that the left canal will need a different sleeve than the right canal. For a few people, the ear canal has an very irregular shape and custom-molded sleeves are the only way to obtain the proper acoustic seal. Also note that sleeves do wear out with extended use and should be replaced regularly.
+	
+	Warning. Do not push the earphone sleeve inward beyond the ear canal opening.
+	
+	There are only three scenarios for a lack of bass:
+	1) The ear canals are not properly sealed.
+	2) The ear canals are properly sealed but the bass response is not to your liking. In this case, contact the Shure dealer that sold the earphones to discuss an exchange to a different model.
+	3) The ear canals are properly sealed but the earphonesare defective. In this case, contact Shure Service/Repair to have the earphones tested and replaced if defective.
+

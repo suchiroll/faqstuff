@@ -1,0 +1,14 @@
+Title: X2u Monitor Function and Signal Latency
+Id: 4116
+Legacy Id: 4898
+
+Question:
+Does the X2u have latency in its MONITOR circuit? In other words, does it delay the audio signal heard at the X2u headphone jack?
+
+
+Answer:
+
+	The answer is No. Theheadphone jackon the X2u has a direct analog connection to the X2u mic input jack. Notice that when speaking into the mic, and monitoring the mic signal from the X2u headphone jack, there is no delay, or echo, on the direct mic signal.
+
+	The X2u MONITOR control blends the X2u mic signal with pre-recorded playback signal from the computer. Many recording software programs also have a monitor feature. When user-enabled, this monitor feature routes the live signal from the microphone back through the user-selected output device, which will likely be the X2u monitor/headphone jack. In this case, the user will experience audible delay caused by the computer, not by the X2u. The monitor feature of the software program must be disabled when using the X2u for live monitoring during a recording session.
+

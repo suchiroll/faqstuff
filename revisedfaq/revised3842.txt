@@ -1,0 +1,18 @@
+Title: Shure Lapel Mic into an AKG Pocket Transmitter
+Id: 3842
+Legacy Id: 4082
+
+Question:
+What is the method recommended by AKG to connect a Shure condenser lapel mic into one of their pocket transmitters?
+
+
+
+Answer:
+
+	According to a technical bulletin from AKG, dated January 2007:
+	Shurered wire to AKG pin 3
+	Shure black wire to AKG pin 2
+	Shure shield wire to AKG pin 1
+	
+	Note: Shure has not tested the method above.
+

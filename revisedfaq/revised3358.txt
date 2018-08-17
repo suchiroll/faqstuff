@@ -1,0 +1,21 @@
+Title: SE earbuds and iPhone Adapter
+Id: 3358
+Legacy Id: 3542
+
+Question:
+Are the SE earphones compatible with iPhone? Will the plug fit?
+
+Also, regarding you upcoming iPhone adapter - will the on-wire button support a double-clicking action to advance to the next song in your play list? The included Apple headphones do this, and this a big feature, since you don't have to take the iPhone out every time you want to skip ahead.
+
+
+
+Answer:
+
+	Shure has released the Music Phone Adapter. It provides the ability to use Shure SE model earphones with the iPhone and to send/receive phone calls. The part number is MPA-3C. It is most commonly found at Apple stores and at www.apple.com.
+	
+	Yes, the Shure adapter does support the double-click feature to advance, pause and play music tracks.
+	
+	Currently all SE model earphones shipping now have the recessed plug that will fit the iPhone if you prefer to not use the MPA-3C.
+	
+	The MPA-3C was discontinued in Aug 2010.
+

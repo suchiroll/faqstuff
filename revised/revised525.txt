@@ -1,0 +1,12 @@
+Title: What tip can I use for a M92E Cartridge?
+Id: 525
+Legacy Id: 536
+
+Question:
+What diamond tip can I use for an M92E Cartridge?
+
+Answer:
+
+	The N92E and N111E are replacement diamond stylus for the M92E cartridge. For other cartridges, see our online cartridge/stylus cross reference at:
+	
+	Discontinued Stylus Cross Reference

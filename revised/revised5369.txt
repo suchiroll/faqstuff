@@ -1,0 +1,44 @@
+Title: SCM820 Text Description
+Id: 5369
+Legacy Id: 5385
+
+Question:
+SCM820 Text Description
+
+Answer:
+
+	The Shure SCM820 is an 8-channel digital automatic mixer designed for use in speech applications, including sound reinforcement, broadcasting and audio recording. It dramatically improves audio quality in any application where multiple microphones are required. The mixer uses IntelliMix technology to select channels to open to the mix bus, while attenuating other channels. The mixing mode is selectable to allow a range of automatic mixing styles.
+	
+	IntelliMix Operating Principles
+	Expanding upon Shures classic SCM810 IntelliMix technology, the digital SCM820 delivers seamless automatic mixing by combining the following functions:
+	 Noise Adaptive Threshold (NAT) manages the audio system by distinguishing between dynamic audio (such as speech) and the noise floor (such as air conditioning). It continuously adjusts the activation threshold, so that only speech levels louder than the background noise open a channel.
+	 MaxBus ensures that only one channel is opened per sound source, reducing comb filtering for clear, intelligible speech.
+	 Number of Open Microphones Attenuation (NOMA) attenuates system gain as additional channels are opened, providing consistent output levels and better gain before feedback.
+	 Maintains the perceived ambient sound to achieve a natural sounding audio program even during long pauses in conversation.
+	
+	Mixer Modes
+	The mixer operates in one of five Mix Modes: Classic, Smooth, Extreme, Custom or Manual. The first three are factory settings that offer a range of reliable automixing styles. IntelliMix is configurable in Custom mode and turned off in Manual mode.
+	Classic: Classic mode emulates the default settings of the classic Shure SCM810 automixer. It is renowned for fast-acting, seamless channel gating and consistent perceived ambient sound levels.
+	Smooth: Smooth mode dynamically balances system gain between open and closed channels. The system gain remains consistent by distributing gain across channels to equal one open channel. This mode incorporates IntelliMix operating principles into a gain sharing mixing style.
+	Extreme: Extreme is an aggressive variation of Classic mode, configured to achieve maximum gain before feedback by completely attenuating closed channels.
+	Custom: Custom mode allows individual IntelliMix parameters to be fine-tuned and tailored from the GUI.
+	Manual: Manual mode deactivates IntelliMix to operate as a standard mixer. Channel and mix equalization, output limiter and mix bus routing are still active in this setting.
+	
+	Dual Mixer Operation
+	The SCM820 can operate as a single or dual mixer:
+	Single Mixer: Channels are routed to a single mix bus that sends the same audio to both Mix A and B outputs. This allows the same program to be sent to different rooms or recording applications. Output gain, parametric equalizer and limiter can be set separately for each mix.
+	Dual Mixer: Two separate buses provide independent automixes for each mix output. This allows two entirely different mixes to result from the same set of inputs. This is useful when the mixer is being used for two applications. For example, set Mix A to Classic mode for sound reinforcement, and set Mix B to Smooth for a broadcast feed. As a dual mixer, channels can be routed to Mix A, Mix B, Mix A and B, or neither mix bus.
+	
+	Audio Processing
+	The mixer provides adjustable input equalization, limiting and a parametric output EQ (from the GUI) to optimize the sound for a given application.
+	
+	Networking
+	DanteTM Digital Audio
+	Digital audio is carried over standard Ethernet using shielded Cat5e (or higher) cables. Dante provides low latency, tight clock synchronization, and high Quality-of-Service (QoS) to provide reliable audio transport to a variety of Dante devices. Dante audio can coexist safely on the same network as IT and control data, or can be configured to use a dedicated network. Audio can be played or recorded to a PC or Mac using Dante Virtual Soundcard (DVS), using the computers standard Ethernet connection. A license of DVS is included with every SCM820-DAN.
+	
+	Remote Control
+	The SCM820 can connect to a computer or 3rd party control system (AMX, Crestron) for remote control and monitoring. The web browser-based graphical user interface (GUI) enables custom IntelliMix configuration and access to additional features.
+	
+	Linking Mixers
+	SCM820-DAN mixers can be linked to form large automixes of up to 12 units (96 channels of audio). Mixers in the same link group operate under shared IntelliMix settings. A back-panel auto link button enables mixers to automatically link when they join the network. To link specific mixers, custom groups can be created and managed from the GUI.
+

@@ -1,0 +1,25 @@
+Title: MX395-LED with Polycom SoundStructure C12
+Id: 4033
+Legacy Id: 4465
+
+Question:
+Any advice on connecting the MX395-LED to a Polycom Sound Structure C12? I need the MX395 LED to be red when the mics are muted in the Polycom, and green when unmuted.
+
+
+Answer:
+
+	On August 6, 2015, Polycom has kindly provided this link:
+	http://supportdocs.polycom.com/PolycomService/support/global/documents/support/technical/products/voice/EA1021_SoundStructure_MX395.pdf
+	
+	
+	The information below was provided in 2012 by engineer Matt Keene of Audio Visual Source.  Please note that Polycom disputes the information below, but it will be kept for archival purposes:
+
+	"I had to install an external relay to properly trigger the MX395 LED from green to red and back to green. The Logic Ground in the Polycom Soundstructure C12 remains completely open when in the 'unmuted' state. Therefore the Polycom did not short MX395 pin 3 to pin 5; this is required to to turn the LED from red to green.
+	
+	"I connected Polycom Pin 1 (5Vdc)  to MX395 Pin 5, and to the positive side of the relay coil.  I connected Polycom Logic Output to the negative side of the relay coil. I connected Polycom pin 25 (logic ground) to MX395 pin 3. When the relay coil was energized, the relay switch shorted MX395 Pin 3 to MX395 Pin 5 - this action changed the LED from red to green."
+	
+	Polycom comments about the above:
+	“The SoundStructure uses an open collector style output (as documented on Page 254 of the SoundStructure Design Guide) such that a external pull-up resistor to +5V is required to properly control the signaling voltage to the LED In of the microphone.
+	
+	The use of a relay is not required to connect the MX395 or MX405/MX410/MX415 series of microphones to the SoundStructure. The comment that "The Logic Ground in the Polycom SoundStructure C12 remains completely open when in the 'unmuted' state" depends on the configuration of the Logic Port in the SoundStructure. When the Logic Port is configured correctly, the logic port does short to ground and the LED in the microphone will change from Red to Green. In order for this to happen, the event tied to the Logic port must be inverted under the assumption that green indicates "unmuted" or "on" and red indicates "muted" or "off".”
+

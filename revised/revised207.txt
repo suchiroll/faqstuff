@@ -1,0 +1,20 @@
+Title: Settings on the SM81
+Id: 207
+Legacy Id: 208
+
+Question:
+I have two SM81 mics and I was wondering exactly what each setting of the switch on the microphone means as well as the best application of each of these settings.
+
+
+Answer:
+
+	The attenuator ring is located just below the mic element. It inserts a 10dB pad when rotated. Use this only if you are recording extremely loud sounds, like a guitar amp at maximum volume with the mic 2 inches away. 99% of the time do not use the attenuator switch.
+	
+	The three position roll-off switch should be set for flat when recording very low frequencies.
+	
+	The middle position (slight roll-off) should be used for most recording situations. This helps reduce rumble from unwanted low frequencies.
+	
+	The steep roll-off position will indeed affect the low frequency response. This might be a good position to use when recording cymbals as there are no desired low frequencies that radiate from cymbals.
+	
+	As a test of the roll-off switch, have a male friend talk into the SM81 while you listen to it via headphones. Note how the voice changes with each switch position.
+

@@ -1,0 +1,42 @@
+Title: Transmitter Polarization LHCP or RHCP on UR2, ULXD, and Axient analog handhelds
+Id: 4439
+Legacy Id: 5539
+
+Question:
+I was giving a seminar on RF Tech a few weeks ago and discussing polarization loss. One of the attendees asked about the polarization of the UR2, ULXD, Axient handheld TX units and I was stumped. So, is the TX Polarization LHCP, RHCP, or both, on UR2, ULXD, Axient handheld units?
+
+
+
+Answer:
+
+	Unfortunately, there is probably not a clear answer to your question.
+	
+	Wireless microphone transmitters use all sorts of schemes for antennas.In addition, the transmitters, and hence the antennas, are generally not stationary -- they are constantly moving with a presenter or artist.Because of aesthetics, antennas are often compromised and shaped to be smaller than ideal, while still radiating a decent and usable signal.
+	
+	For bodypack transmitters, it is fairly common to use a 1/4 wave whip antenna.The radiated signal can be generally characterized as linearly polarized in the plane of the antenna, which is often times, but not always vertical - depending on how the transmitter is worn or attached.
+	
+	Handheld microphones usually employ some sort of reduced size antenna.Because of this, the polarization is probably linear, but the plane is essentially random and constantly changing with movement.The antennas can be considered radiating approximately an omnidirectional signal to accommodate motion.
+	
+	As a note, several common schemes for wireless handheld microphone antennas are:
+
+	
+		1/4 wave spike, often shortened by loading - not as common as in the past.
+	
+		1/4 wave element circularly wrapped - essentially a shortened or compact 1/4 wave antenna - used in several Shure products like the UR2 and ULXD2.Polarization is probably best described as random due to motion.
+	
+		RF coupled to batteries in handle to act as the antenna.Polarization probably completely unpredictable and random.
+
+
+	
+	On top of these issues, body absorption is a major factor, especially effecting the signal from a belt work bodypack type transmitter.Handheld microphones tend to fare better in the body absorption realm, but can be compromised if a user/artist holds the microphone by portion of the handle where the antenna is located.
+	
+	To overcome polarization issues, diversity linear polarization type antennas, such as dipoles and log-periodic-directional antennas, are often mounted to be 90 degrees opposite each other (45 degrees off vertical in opposite directions).Sometimes circularly polarized helical antennas are used to help compensate for randomly polarized inbound signals.However, helical antennas tend to be very directional, and are often not a good choice for shorter transmission distances due to excessive gain.
+	
+	For link budget calculations, it is probably not too far off to assume the typical wireless microphone antennas gain is somewhere between 0 to -3 dBd.Then be sure to add some margin into the link calculations - say 10 dB - to cover any path anomalies.
+	
+	
+	
+	Dr. Mark Kenkel of Shure, who was deeply involved with the design and development of the UR2 helical transmit antenna, supplied the following:
+	
+	The helical in the UR-2 is considered a normal mode helical antenna so the maximum radiation is normal (90 degrees) to the axis of the helix. Small antennas like this are generally linearly polarized. Ours is also primarily linearly polarized. Circular polarization is possible with small antennas like this but only over a very small frequency range with the proper internal construction. The HA8089 helical is an Axial mode helical antenna so radiation is maximum along the axis of the helix. This type of antenna can easily be made to have circular polarization over a wide frequency range. Left or Right hand is determined by the direction of helical windings much like the threads of a screw. I believe the antenna is available in both left and right configurations. When using two HA8098s in a point to point application it is important to use two of the same type LL of RR pointed at each other. The HA8089 has about 7 dBi of directional gain. When used with a UR2, 3dB will be lost due to polarization mismatch. That is not necessarily a bad thing. The HA8098 will provide about 4 dBi of gain independent of the orientation (horizontal or vertical) of the UR2. When using two linearly polarized antennas a significant loss in signal can be obtained if the transmitter and receiver antennas are not oriented in the same direction (both vertical for example). To mitigate this we recommend that diversity antennas each be tilted 45 degrees away from each other. This also imparts about 3dB of polarization mismatch loss but will reduce the chances of signal loss from cross polarization.
+

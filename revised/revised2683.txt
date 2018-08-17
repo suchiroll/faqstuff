@@ -1,0 +1,11 @@
+Title: Will phantom power damage the UT4?
+Id: 2683
+Legacy Id: 2787
+
+Question:
+Can a UT series receiver mic output be connected to mixer board with phantom power applied without damage to the receiver?
+
+
+Answer:
+
+	Phantom power will not damage the UT4 XLR output.

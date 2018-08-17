@@ -1,0 +1,11 @@
+Title: KSM313 serial number location
+Id: 3622
+Legacy Id: 3828
+
+Question:
+Where is the serial number on the KSM313?
+
+
+Answer:
+
+	It's on the blue ring around the XLR collar.

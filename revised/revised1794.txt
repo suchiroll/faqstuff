@@ -1,0 +1,12 @@
+Title: Thermistor for PM300 series amp
+Id: 1794
+Legacy Id: 1854
+
+Question:
+I have a PM300 which was working great until a week ago. Evidently, a resistor (part number 45A38) burned up. I need to know is the value of the resistor and what alternatives there are for it's replacement. No one i've spoken to can fix it without the value and all info on the resistor is gone because it fell apart. The number item is R1 in your schematic, replace kit no: RKC47.
+
+Answer:
+
+	It is the same thermistor as used in the Vocal Master mixer/amplifiers: Where can I get a thermistor for my Vocal Master?
+	
+

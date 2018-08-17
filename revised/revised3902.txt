@@ -1,0 +1,18 @@
+Title: Two SM57 mics on one mic stand for live sound
+Id: 3902
+Legacy Id: 4148
+
+Question:
+I came across this picture of Lemmy from Motörhead with what looks like (the majority) of two SM 57's strapped together.
+
+http://www.gearslutz.com/board/attachments/low-end-theory/79403d1216801905-modified-sm57-img_0339.jpg
+
+
+I tried researching online, but all results were other audio guys wild hypothesis.I'm thinking it's some sort of phase thing for gain before feedback.
+
+
+
+Answer:
+
+	It is likely that the two mic elements are wired in parallel, but with one element 180 degrees out of polarity (phase).This concept was used for years by the Grateful Dead.It does cancel much of the background noise, but the singer must be very careful to sing only into the top SM57 - with his lips on the grille. In the photo, notice that the bottom SM57 is only the capsule.Without the handle, the bass response will be less than satisfactory.
+

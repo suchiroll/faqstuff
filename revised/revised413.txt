@@ -1,0 +1,11 @@
+Title: Pro 9 cartridge replacement stylus
+Id: 413
+Legacy Id: 420
+
+Question:
+I decided to replace the stylus on my present cartridge however, there is no cross reference to my model. On the cartridge just under the headshell of the tonearm is written, "Pro 9". This cartridge has a stylus with a dynamic stabilizer function on the stylus. Which replacement would you recommend, and can I order the replacement stylus from Shure directly. In addition, is the "Pro 9" similar to the M95ED in frequency response and tracking force?
+
+Answer:
+
+	Sorry, we no longer have styli for the Pro 9.
+

@@ -1,0 +1,32 @@
+Title: MXA910 and automixers
+Id: 4970
+Legacy Id: 6235
+
+Question:
+Which type of automatic microphone mixer should I use with an MXA910?
+
+
+Answer:
+
+	Based on our experience, using gated-style automixers work best.
+	
+	Gain-sharing mixers, used quite often for live sound and conferencing, work extremely well when talkers are being picked up from a microphone in close range, i.e. lavalier, boundary, gooseneck, and handheld.  By definition, gain sharing automixers keep the total gain of the microphones constant.  When no one is speaking, all microphones have an equal amount of gain.  When a microphone is activated by a talker, more gain is given to the activated channel while gain is reduced in the inactive channels.  Thus gain is "shared."
+	
+	Gating automixers have also been used in live sound and conferencing environments.  As you might guess from the name, gating automixers actually gate (or attenuate) channels on and off.  The best auto-gating mixers automatically adjust their gating threshold based on noise levels in the room (Shure refers to this as Noise Adaptive Threshold, and it is a key feature of Intellmix, found in Shure automatic mixers as well as the MXA910 itself). In the absence of adaptive threshold gating, look for a gating mixer that allows a user to set the threshold level at which the microphone would gate on, and also adjust how aggressive the gated (or "off" attenuation) is.  Additionally, the NOM or number of open microphones should be selectable.  This feature allows a predefined number of channels to be on concurrently.  There are other specific advantages to advanced auto mixers from Shure that you can read about here.  The following recommendations, however, are based on using a basic standard gated mixer.
+	
+	So why use a gating style mixer with the MXA910?
+	Simply, acoustics.  The MXA910 is a ceiling array microphone that is placed in ceilings, usually somewhere between 8 feet and 12 feet above the finished floor.  Up to eight lobes can be deployed to maximize coverage. Using a gated mixer helps to increase intelligibility and clean up reflections that would otherwise be picked up (from the other lobes) and transmitted in a gain-sharing mixer. Remember, in a gain-sharing mixer, a fixed amount of gain is equally distributed to all inputs. With the MXA910, this means that lobes that aren't needed, are active anyway. More room sound ends up being transmitted than would generally be considered acceptable.
+	
+	Considerations for initial set up.
+	
+		First, it is helpful during initial setting up of an MXA910 to be able to hear the lobes pre-DSP, in order to verify proper coverage.  It's also helpful to hear pre- and post-DSP for troubleshooting purposes.  An MXA910 used with an improperly set up automixer sounds a lot like an MXA910 "issue." A headphone amp with Dante can be a useful tool to verify proper coverage from the MXA910.
+	
+		Set the threshold per channel based on ambient room acoustics.  The channel should remain off until a talker speaks.
+	
+		Set the off attenuation at -15dB as a starting point.
+	
+		Set NOM to 2 or 3.
+	
+		Finally, listen!  When talkers are speaking back and forth in the room, does it sound natural?  In harsh acoustic environments, consider increasing the off attenuation to -20dB, or even more.  If there is a concern that more than two talkers would ever speak at the same time, increase NOM to 3 or 4.  Just be aware that the more channels that are allowed to activate, the more of the room's acoustic environment will be picked up and transmitted. Keep NOM as low as possible.  If the acoustic environment is good, try decreasing off attenuation to -9dB or even -6dB.  The less the mixer "gates" the audio off, the more natural the system will sound.
+
+	Keep in mind that the room acoustics do matter and the MXA910 does not alter the physical acoustics of the room. Reflections, echoes, HVAC noise, and lighting fixture hum will all have a detrimental effect on the audio captured by the MXA910.

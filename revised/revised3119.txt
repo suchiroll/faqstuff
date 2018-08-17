@@ -1,0 +1,19 @@
+Title: Rochelle Salt Crystal Warnings
+Id: 3119
+Legacy Id: 3253
+
+Question:
+I have heard that vintage crystal microphones and phono cartridges that contain Rochelle Salt Crystals are subject to damage from high heat. Is this true?
+
+
+Answer:
+
+	Yes! Here is a warning provided with a Shure crystal phono cartridge made in 1940:
+	
+	DO NOT EXPOSE TO HIGH TEMPERATURES
+	Rochelle Salt Crystal Devices should not be exposed to the rays of the sun in hot weather for any considerable length of time - or left in closed automobiles parked in the sun during hot weather, as the temperature inside the automobile may easily build up to over 125 degrees F and permanently damage the crystal. When the crystal device is placed in a cabinet or enclosure, be sure that the temperature will not build up to more than 125 degrees F.
+	
+	DO NOT APPLY HIGH VOLTAGE
+
+	This Rochelle Salt Crystal device may be seriously damaged if accidentally connected to a loudspeaker or power supply outlets carrying high voltage. Check connections carefully. Read data sheet carefully before installation.
+

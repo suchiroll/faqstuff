@@ -1,0 +1,16 @@
+Title: Types of condenser elements
+Id: 2833
+Legacy Id: 2945
+
+Question:
+Why it is called true condenser element? What is the difference between the three..electret, back-electret and true condenser?
+
+
+Answer:
+
+	True condenser: the polarizing voltage is derived from an external voltage source.
+	
+	Electret design: the polarizing voltage is permanently applied to either the back plate or the front diaphragm
+	
+	Back electret design: the polarizing voltage is permanently applied to the back plate
+

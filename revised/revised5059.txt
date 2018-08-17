@@ -1,0 +1,16 @@
+Title: Times Microwave Loss Loss RF Cable for Plenum
+Id: 5059
+Legacy Id: 6372
+
+Question:
+Please provide a source for low loss RF antenna cable that is plenum rated.
+
+
+Answer:
+
+	Manufacturer: Times Microwave www.timesmicrowave.com
+	Cable Model: LMR-240-LLPL
+	Plenum Rated - Indoor Use only
+	Outer Diameter: 0.24 inch; 6.1 mm
+	Signal loss per 100 feet of cable: 3.7 dB @ 220 MHz; 5.4 dB @ 450 MHz; 12.9 dB @ 2.5 GHz
+

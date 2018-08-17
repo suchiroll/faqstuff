@@ -1,0 +1,11 @@
+Title: Transformer for PE588
+Id: 1388
+Legacy Id: 1440
+
+Question:
+I am trying to rebuild an old PE588 handheld mic. Unfortunately, someone tried to remove the on/off switch and the took the small transformer with it. Do you know what the specs are for that transformer?
+
+
+Answer:
+
+	The PE588 has been discontinued for over 30 years. Our best guess is a mic level transformer with a primary of 100 ohms and a secondary of 15,000 ohms.

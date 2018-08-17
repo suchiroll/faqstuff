@@ -1,0 +1,12 @@
+Title: Radio Frequency Allocation in the United States
+Id: 3017
+Legacy Id: 3146
+
+Question:
+How is the radio frequency spectrum allocated in the United States?
+
+
+Answer:
+
+	See the attached PDF file, dated October 2003.
+

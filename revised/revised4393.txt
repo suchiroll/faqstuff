@@ -1,0 +1,23 @@
+Title: GLX-D Set Up, Operation, & Hints for Guitar
+Id: 4393
+Legacy Id: 5486
+
+Question:
+I just purchased two GLX-D wireless microphone systems for my band. How should I set these up to get the best results?
+
+Answer:
+
+	For best results, place the two receivers stage left, stage right, or behind you on stage. It isOK for the GLX-D receivers to be next to each other, but be certain that the antennas do not cross or touch each other.
+	
+	The GLX-D system is best described as an onstage wireless system - where the transmitter and the receiver are on or near the stage.Maintain line-of-sight at all times, in other words, make sure the receivers are not behind walls, doors, drum kits, or behind racks or amplifiers.If you need a wireless system that will transmit from the stage to a distant mix position in the audience area, it is better to consider a system that operates in the UHF-TV frequency band - 470 to 698 MHz in the United States.
+	
+	When using more than one GLX-D system, make sure the Group number is the same on all of the receivers. Use the channel scan function to select the best channel within the group.Each system must be on a different channel.
+	
+	Since the GLX-D system operates in the 2.4 GHz range, it is imperative to keep receivers at least 10 feet away from any computers, WIFI access points, Bluetooth devices, and other 2.4 GHz devices. Please note the 2.4 GHz range is not reserved ONLY for wireless mic systems, so interference from other devicesis feasible.
+	
+	Video Guide for GLX-D: http://blog.shure.com/shure-notes/getting-started-with-glx-d-digital-wireless-part-1-basic-setup/
+	
+	GLX-D for Guitar Note #1: If your guitar has active electronics (i.e., it needs a battery for operation), the output signal level might overload/clip/distort the GLX-D1 transmitter input. Keep the guitar signal level at a low setting so the output signal is similar to a guitar with passive electronics.
+	
+	GLX-D for Guitar Note #2: As a rule, it is not recommended to use the GLX-D on the output of an effects pedal board. The output signal from an effects pedal board might overload/clip/distort the GLXD-1 transmitter input. Also, the audio signal can be modified greatly by the effects pedals and the modified signal can be difficult to transmit cleanly through a wireless system. It is best for the pedal board to connect into the amplifier with a cable. But there is no harm in trying the GLX-D system for this application, and if the audio quality meets your expectations, use it in place of a cable.
+

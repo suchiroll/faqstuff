@@ -1,0 +1,12 @@
+Title: VR300 microphone
+Id: 800
+Legacy Id: 822
+
+Question:
+I just recently acquired a Shure brand microphone with the number VR300 on the element/housing printed on the side. The unit uses a screw on type mounting method and a permently attached wire without a plug (missing). My guess is that it may be a podium or lectern style microphone.
+
+
+Answer:
+
+	The VR300 is the same microphone as the 503BG. The VR300 was the OEM version.
+

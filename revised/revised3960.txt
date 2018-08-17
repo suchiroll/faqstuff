@@ -1,0 +1,12 @@
+Title: Rubber washer that inserts into XLR male on mic
+Id: 3960
+Legacy Id: 4209
+
+Question:
+I have a Shure SM-58, and when I plug it into an XLR cable the connection isn't very tight and the cord seems to wiggle a lot.The cord is brand new, so I know it's not missing anything.I was wondering if there is any type of rubber O-ring that can slip between the end of the mic and the female XLR plug to make that connection more secure. Do you sell anything like this?
+
+
+Answer:
+
+	To tighten the female XLR to male XLR connection, Shure offers a rubber washer that is corrugated.The washer diameter is 18 mm and it fits over the male XLR pins. The part number is 80A439 and is available from Shure Parts.
+

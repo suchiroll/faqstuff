@@ -1,0 +1,13 @@
+Title: Two LX transmitters and one LX receiver
+Id: 1431
+Legacy Id: 1484
+
+Question:
+I would like to know if I have an LX with 1 mic and receiver, our clients would like to know if they can have mic that is wearable instead of the handheld. They already have the hand held and would like to know if they can purchase a wearable mic also? Of course we would specify the freq. Is this possible?
+
+Answer:
+
+	Yes, an LX body pack transmitter can be purchased, along with a lapel mic, and it will operate properly if it is on the same frequency as the LX transmitter.
+	
+	However, only one of the LX transmitters can be used at a time. If both are powered up, they will interfere with each other.
+

@@ -1,0 +1,23 @@
+Title: QLX-D Crestron/AMX Control Strings
+Id: 4508
+Legacy Id: 5624
+
+Question:
+I want to control the QLX-D receiver with a Crestron touchscreen. What are the control strings?
+
+
+Answer:
+
+	The QLXD4 receiver can be monitored and controlled via a control system, such as AMX, Crestron, or Extron.
+	
+	The AMX/Crestron can control and/or monitor the following items:
+	
+	Volume
+	Channel Name
+	Frequency
+	Group/Channel 
+	Battery Usage Information
+	Audio & RF Meters
+	Encryption
+	
+	The control string document can be found at the link below.

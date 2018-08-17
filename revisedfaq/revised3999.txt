@@ -1,0 +1,23 @@
+Title: VP68 and RPW124 Specifications
+Id: 3999
+Legacy Id: 4387
+
+Question:
+Please provide specifications for the Shure RPW124 / VP68 omnidirectional wireless mic capsule.
+
+
+Answer:
+
+	RPW124 / VP68General Specifications
+	
+	Transducer type: Electret - charged back plate
+	Polar Pattern: Omnidirectional
+	Shock mounted mic element: Yes
+	Pop filter: Two-stage
+	Grille: Steel Wire mesh with black Teflon coating
+	Weight: 148 gram
+	Length: 76 mm
+	Maximum SPL: 136 dB
+	Frequency Response: Flat from 100 Hz to 4kHz;3 dB down at 80 Hz; 6 dB up at 7kHz; 3dB up at 10kHz
+	Frequency Response Tolerance: +/- 2.5 dB from 50 Hz to 150 Hz; +/- 2 dB from 150 Hz to 5 kHz; +/- 3.5 dB from 5 kHz to 10 kHz
+

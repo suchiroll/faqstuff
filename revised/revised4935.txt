@@ -1,0 +1,28 @@
+Title: BRH440M with iPhone 6
+Id: 4935
+Legacy Id: 6194
+
+Question:
+CanI usea Shure BRH440M with an iPhone 6?
+
+
+Answer:
+
+	Yes. Use a TRRS (Tip - Ring 1 - Ring 2 - Sleeve)3.5mm male phone plug (used with standard iPhone earphones) to connectthe BRH440M microphone and headphones.
+	
+	The BRH440M wiring designation is as follows:
+	MicSend: Red wire
+	MicReturn: Black wire
+	Mic Ground : Shield; it surrounds the red wire and black wire
+	Headphone Audio Left : Green wire
+	Headphone Audio Right : Orange wire
+	Headphone Audio Ground/Return : White wire
+	
+	Solder the BRH440M wires to the TRRS phone plug as follows:
+	Tip to Green
+	Ring 1 to Orange
+	Ring 2 to Black, White, and Shield
+	Sleeve toRed
+	
+	You can listen to music with the headphones when not on a phone call.When a call comes in, youll be able to hear the caller and use the microphone to talk to the caller.You will not have sidetone (return monitoring) i.e., you will not hear your voice in the headphones.
+

@@ -1,0 +1,12 @@
+Title: Ribbon mics & phantom power
+Id: 366
+Legacy Id: 373
+
+Question:
+Can Shure ribbon mics, including discontinued ones such as the 315, take phantom power? Are there any special precautions, other than ensuring all wiring is correct and insulated?
+
+Answer:
+
+	A ribbon microphone typically has a low impedance, transformer balanced output. Therefore, it can handle phantom power without a problem. No other precautions, besides proper wiring, are necessary.
+	
+	However, if you encounter a ribbon microphone where the output is unbalanced or does not employ a transformer, beware! In this case, contact the microphone's manufacturer for advice.

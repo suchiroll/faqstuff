@@ -1,0 +1,11 @@
+Title: Maximum distance to use UT Series wireless?
+Id: 489
+Legacy Id: 499
+
+Question:
+What´s the maximum distance to use the Shure EUT 24/58D UT-series
+
+
+Answer:
+
+	Typical operational distance is 100 to 300 feet. It all depends on the local RF environment. In general, you will get greater range in a rural setting than an urban setting.

@@ -1,0 +1,17 @@
+Title: High impedance vs low impedance; Prologue microphones
+Id: 460
+Legacy Id: 469
+
+Question:
+1) When do you use a low impedance mic vs a high impedance mic.
+
+2) Is Prologue 14H suitable for vocal performance?
+
+
+
+Answer:
+
+	1) The choice of impedance is determined by the input specifications of the device into which you connect the microphone. The device might be: a mic mixer, a tape recorder, a guitar amplifier, a computer sound card, etc.
+	
+	2) Yes. It is an entry level product. It is perfectly adequate for a beginner or for use in the home.
+

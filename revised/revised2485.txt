@@ -1,0 +1,18 @@
+Title: UP4 Antenna Connectors
+Id: 2485
+Legacy Id: 2580
+
+Question:
+What is the antenna connector used on the UP4? Where can I purchase this connector and adapters?
+
+
+Answer:
+
+	The UP4 antenna connector is known as an SMA connector. It is a female.
+	
+	A supplier for SMA connections and adapters is: http://pasternack.com
+	
+	A right angle female/male SMA adapter is available: Pasternack part: PE9642
+	
+	A right angle SMA to BNC adapter is available: Pasternack part: PE9074
+

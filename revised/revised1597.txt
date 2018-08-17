@@ -1,0 +1,14 @@
+Title: Wireless System for a football referee
+Id: 1597
+Legacy Id: 1653
+
+Question:
+Am installing a 70 volt system in our local High School and would like your suggestions on which system would be the best for use by officials on the football field. The receiving unit will be in the press box at the top of the stadium so range is a concern. The body unit should be simple to operate with an on/off or mute switch easily accessible by the official.
+
+
+Answer:
+
+	Provide the official a headworn mic instead of a lapel mic. Alsoprovide the WA360 in-line on/off switch.
+	
+	Keep the wireless transmitter on for the entire game; mute and unmute the mic with the WA360. The WA360 can be used with any Shure bodypack transmitter.
+

@@ -1,0 +1,14 @@
+Title: Wiring for GE Mic EM33F and EM25M
+Id: 54
+Legacy Id: 54
+
+Question:
+What is the wire color coding for the GE mics EM33F and EM25M? I believe these mics were made by Shure for GE.
+
+
+Answer:
+
+	For the EM33F, the white and shield are the audio; the red and black are switch leads for Push-To-Talk.
+	
+	For the EM25M, the red and shield are the audio; the white and black are switch leads for Push-To-Talk.
+

@@ -1,0 +1,13 @@
+Title: SM57 and SM58 Wiring Specifications
+Id: 60
+Legacy Id: 60
+
+Question:
+I have two Shure microphines ( SM57 and SM58 ). I would like the connection specifications for each. How is an XLR wired to a 1/4" phone plug?
+
+
+Answer:
+
+	As with all of our current microphones, on the XLR connector pin 2 is in-phase audio (hot), pin 3 is out-of-phase audio (cold), and pin 1 is shield. When an XLR to 1/4" cable is used pin 2 of the XLR is tied to the tip of the 1/4" and pins 3 & 1 of the XLR are connected to the sleeve of the 1/4". Using such a cable does nothing to the impedance. We have information about impedanceand transformers on our web site.
+	
+	A schematic for the microphone's inner connections can be found in their user guides.

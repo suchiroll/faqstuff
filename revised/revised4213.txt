@@ -1,0 +1,32 @@
+Title: Shure OEM Products: 1940s to 1990s
+Id: 4213
+Legacy Id: 5180
+
+Question:
+I have found vintage Shure microphones that do not have a typical Shure model number. Some have a nameplate that has the logo of another company. What are these unusual Shure models?
+
+
+Answer:
+
+	OEM = Original Equipment Manufacturer
+	
+	From the 1940s to the 1990s, Shure had an OEM Sales Department. This department sought out opportunities to sell Shure products to other manufacturers that needed a microphone or phono cartridge as part of its own product.
+	
+	Examples of Shure OEM products over six decades:
+	
+	1940s - Western Electric public address systems supplied with Shure OEM microphones.
+	
+	1950s - Wollensak tape recorders supplied with Shure OEM microphones and OEM recording heads.
+	
+	1960s - General Electric two-way radios and Ampex tape recorders supplied with Shure OEM microphones.
+	
+	1970s - Dual phonograph turntables supplied with Shure OEM phono cartridges.
+	
+	1980s - HME, Swintek, and Edcor wireless microphones supplied with Shure OEM mic elements.
+	
+	1990s - Radio Shack purchased OEM phono cartridges and microphones from Shure.
+	
+	OEM products were based on standard Shure models but with minor variations. These variations included, but were not limited to, unusual connectors, different cable lengths, uncommon product colors; obscure mounting methods, bulk packaging to save shipping costs, distinctive name plates with logos, and unique model numbers. OEM products were not repaired or serviced by Shure; this was the responsibilty of the OEM company.
+	
+	Shure historical records about OEM products are incompletebecause OEM archival documents were not kept by Shure. Eventually, every OEM product becomes obsolete as companies go out of business, exit certain markets, or update their products lines. When a Shure OEM customer stopped buying a Shure OEM product, the documents for the OEM product were sent to the customer because that specific OEM model, though manufactured by Shure, was owned by the OEM customer. For example, General Electric two-way radio mics were branded as GE products - manufactured by Shure. When GE stopped buying Shure OEM microphones, the microphone documents were sent to GE for their product archives. The same applies to Radio Shack OEM products, Dual OEM products, and all the others.
+

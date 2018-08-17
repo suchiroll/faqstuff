@@ -1,0 +1,11 @@
+Title: Amphenol mic cable for model 315
+Id: 1483
+Legacy Id: 1536
+
+Question:
+I found an old Shure 315 microphone and i would love to be able to get the cable for it or the connector that goes on the end so that i can put it back into use. Can you help me find one? Thanks in advance for your help.
+
+
+Answer:
+
+	The model 315 requires an Amphenol MC3M on the cable. We do not carry these connectors.You can get pre-wired cables from Tom Ellis (214-328-3225).

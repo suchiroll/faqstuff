@@ -1,0 +1,12 @@
+Title: Which mic for sound effects and ambience recording?
+Id: 1650
+Legacy Id: 1707
+
+Question:
+I'm a production guy at a local radio station and have recently purchased an MD Recorder to use to record sfx and atmosphere/ambience for my creative work. I read MIX magazine on a fairly regular basis, and some of the field recording articles I've read mention using a stereo pair for such ventures. My question is: A pair of what type of mic?
+
+
+Answer:
+
+	What we recommend is a condenser microphone that has a flat frequency response, like the Shure SM81 or KSM141.
+

@@ -1,0 +1,14 @@
+Title: Mics for home automation
+Id: 1605
+Legacy Id: 1661
+
+Question:
+I am going to install some home automation which will be controlled via voice recogination hopefully via some good microphones mounted in key rooms, I have heard that some users are using the SM11 mic. Can you recommend the correct microphone for this type of application. The smaller the better.
+
+
+Answer:
+
+	We suggest the MX180 series or MX300 series. These mics require phantom power from the mic mixer or the mic preamplifier.
+	
+	What is Phantom Power?
+

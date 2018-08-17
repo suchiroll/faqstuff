@@ -1,0 +1,11 @@
+Title: Tech info on AXS58D wireless system
+Id: 1965
+Legacy Id: 2028
+
+Question:
+I cannot find your Access AXS58D-CL on your web site?
+
+
+Answer:
+
+	The User Guide can be found at:http://pubs.shure.com/guide/UHF/en-US

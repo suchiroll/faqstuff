@@ -1,0 +1,11 @@
+Title: SE115M+ Volume Control
+Id: 3636
+Legacy Id: 3844
+
+Question:
+Will the SE115M+ volume control work with an Apple iphone 3G? I know it works with the 3GS.
+
+
+Answer:
+
+	NOTE: The SE115M+ was discontinued in February 2013. The recommended replacement is the SE215 with the CBL-M+-K accessory cable.No, it will not work. The iphone 3GS contains an electronic circuit (hardware) that communicates with a complementary electronic circuit in the SE115M+ volume control.  The 3G model does not have this hardware and thus the volume control does not operate.

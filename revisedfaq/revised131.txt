@@ -1,0 +1,19 @@
+Title: Does parametric equalizer eliminate feedback?
+Id: 131
+Legacy Id: 131
+
+Question:
+If I equalize the performance area with a spectrum analyzer and set my graphic and parametric equalizers adequately would I be able to get away without any feedback, or should I use an automatic feedback eliminator as a pre-caution.
+
+Is a wireless mic more vulnerable to feedback than a wired mic?
+
+Answer:
+
+	When equalizing a system for feedback control, the object is to remove any peaks that are introduced from sound system components, room modes, etc. By using equalization, the gain of the system can usually be increased 3-6 dB. An automatic feedback reducer is an equalizer. The automatic feedback reducer is easier to operate because it will provide automatic notch filters to compensate for these peaks, but it does the same job as an equalizer in dealing with feedback. So, if you have the equalizers set up correctly to minimize feedback, then an automatic feedback eliminator probably would be redundant.
+	
+	It is impossible to completely eliminate feedback whenever there is a live microphone and loudspeaker in the same room. You can always turn up louder, at which some point the system will feedback. The object is to get the sound loud enough to hear without feedback occurring.
+	
+	There is no difference in the feedback characteristics of a wireless versus a wired microphone assuming the microphone element is the same.
+	
+	Check out our online document on Basics of Equalization and Feedback.
+

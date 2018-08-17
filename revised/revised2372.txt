@@ -1,0 +1,35 @@
+Title: Bias supply for the UA830 or other amplified Shure antenna devices
+Id: 2372
+Legacy Id: 2463
+
+Question:
+How do I use the UA830, UA870, UA874, et al, with a Shure receiver that does not supply 12V bias on the RF antenna port? Examples are: UC4, SLX4, QLX 4, BLX4; these receivers do not supply the 12Vdc bias needed to power up the UA830 and other such devices. Can I build an external power supply?
+
+
+Answer:
+
+	The UA830 (and other Shure antenna accessories that require bias) were designed for use with the Shure U, UR, ULX-D, and ULX series receivers. Each receiver in these product lines  provides 12 volts DC bias, which can power the UA830 and other devices. (Current draw for the UA830 is 75 to 85 mA.)If a Shure antenna or antenna accessory that required bias must be used directly into a Shure receiver that does NOT provide 12 Vdc bias, a bias power supply has to be purchased/constructed.  Shure makes an inline adapter to provide bias: model UABIAST-US. To construct your own bias supply, the necessary parts are available from Mouser Electronics, phone 800-346-6873. Mouser part numbers are listed below.
+	Parts List
+	Enclosure: 2-3/4” x 2-1/8” x 1-5/8” aluminum metal project box –
+	     LMB/Heeger #537-TF-770 (unpainted)
+	     Hammond #546-1411B (painted)
+	     Hammond #546-1411BU (unpainted)
+	     Bud #563-CU3000A (unpainted)
+	     Bud #563-CU2100B (painted)
+	T1: AC to DC supply, 12Vdc, 200mA minimum, 2.5mm female dc coaxial power connector supplied on end of DC cable – #412-112023
+	J1, J2: Panel mount 50 ohm female BNC connector – #523-31-221
+	J3: Panel mount 2.5mm male dc coaxial power connector – #502-712A
+	C1, C2: Ceramic disc capacitor – 1000 pF – #140-50P2-102K-RC
+	L1: Miniature RF choke/inductor – 0.22 µH; Bourns/JW Miller #542-9230-04
+	
+		Keep all connections as short as possible within the enclosure for best RF performance.
+	
+		The output of the UA830 or the UA870 connects to J1. J2 connects to the receiver antenna input.
+	
+		Be careful not to short the dc power at J1 or in the cable that connects to the UA830 or the UA870.
+	
+		There is an internal fuse link in T1 that may open and cannot be replaced.
+	
+		The circuit below will power two UA830 connected in series or a UA870 and a UA830 connected in series. Do not attempt to connect in series more than two of the UA accessories.
+
+	

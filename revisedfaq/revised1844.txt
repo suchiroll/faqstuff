@@ -1,0 +1,14 @@
+Title: Wireless for speech and instruments
+Id: 1844
+Legacy Id: 1904
+
+Question:
+Does Shure make a wireless system that would have as its primary application to amplify the spoken word, but would also be shiftable to clip on to an acoustic instrument such as violin or guitar?
+
+
+Answer:
+
+	Any Shure wireless with the WL93 microphone should work fine.
+	
+	When miking the instrument, keep the WL93 microphone on the player, not the instrument. Place the microphone as close as possible to the instrument without actually touching the instrument. Remember that a microphone picks up air movement and so it does not have to be attached to the instrument, only close to it.
+

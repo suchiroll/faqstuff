@@ -1,0 +1,17 @@
+Title: Shure PG27 Self Noise and Signal-to-Noise
+Id: 4095
+Legacy Id: 4681
+
+Question:
+I wish to know this microphone specifications (PG27): Signal-to-Noise Ratio and Noise.
+
+
+Answer:
+
+	Self-noise:equivalent to 22 dB SPLA-weighted
+
+	
+
+	Signal to noise ratio at 134 dB Maximum SPL (20 dB pad off):112 dB
+	
+

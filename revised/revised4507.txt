@@ -1,0 +1,13 @@
+Title: QLX-D Antenna Distribution
+Id: 4507
+Legacy Id: 5623
+
+Question:
+How is antenna distribution handled for QLX-D?
+
+Answer:
+
+	It is the same as with ULX-D single receivers. Use the UA844+SWB RF distribution amplifier, UA221 RF splitter/combiner, etc. See our online Wireless Accessory Wizard.
+	
+	Note: Unlike the ULXD4, the QLXD4 does NOT provide 12Vdc bias on its antenna ports. Bias can be added by using the UABIAST accessory.
+

@@ -1,0 +1,16 @@
+Title: Motiv microphone with Smule Sing karaoke app
+Id: 4783
+Legacy Id: 5968
+
+Question:
+Can I use my Motiv mic with the Smule Sing karaoke app?
+
+
+Answer:
+
+	The Motiv MV5, MV51, or MV88 microphone should work with the Smule Sing app on an iPhone 5 or iPhone 6.  Connect earphones / headphones into the phone earphone jack, not the Motiv mic earphone jack.
+	
+	The Motiv mics do not work with Smule on an iPhone 7.
+	
+	Earphones / headphones that have an built-in mic may not work properly, as this mic takes priority when plugged into the phone earphone jack.  Use of the Shure EAC9BK cable should resolve the issue; a similar cable is included with the MV88. These cables have a 3.5 mm male Tip-Ring-Sleeve (TRS) connector on one end, and a 3.5 mm female Tip-Ring-Sleeve (TRS) connector on the other end.
+	 

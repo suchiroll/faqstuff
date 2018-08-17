@@ -1,0 +1,11 @@
+Title: V15 type III HE stylus
+Id: 553
+Legacy Id: 564
+
+Question:
+I would like to replace a needle, which is a Shure V15 type III HE.
+
+Answer:
+
+	The V15 III-HE was discontinued in 1981. We no longer have replacement styli available for this cartridge.
+

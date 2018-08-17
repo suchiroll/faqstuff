@@ -1,0 +1,16 @@
+Title: Microphone Volume - High and Low Impedance
+Id: 392
+Legacy Id: 399
+
+Question:
+Why does my old PE515 microphone have so much more volume than the SM58 and Please explain the use for high or low impedance in microphones.
+
+
+Answer:
+
+	The PE515 is likely wired as high impedance. The SM58 is low impedance. If you connect the SM58 to a Shure A85F low-to-high impedance transformer, it will be as loud, if not louder than the PE515. In general, a high impedance microphone will have an output level around 20 dB greater than a low impedance microphone.
+	
+	To learn more about impedance, please go to: www.shure.com/faq
+	Enter the search keyword impedance.
+	Have fun reading.
+

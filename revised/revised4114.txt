@@ -1,0 +1,20 @@
+Title: Shure Microphone to a TOA amplifier
+Id: 4114
+Legacy Id: 4837
+
+Question:
+I need to connect a Shure SM58 into a TOA amplifer. The TOAmic input has three screw terminals marked: H - C - E.Please help.
+
+
+Answer:
+
+	E = Earth = ground = SM58 XLR pin 1 = cable shield
+
+	
+
+	H = Hot = audio positive = SM58 XLR pin 2 = cable inner conductor A
+
+	
+
+	C = Common = audio negative = SM58 XLR pin 3 = cable inner conductor B
+

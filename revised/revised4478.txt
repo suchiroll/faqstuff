@@ -1,0 +1,53 @@
+Title: X2u compatibility with ProTools 10
+Id: 4478
+Legacy Id: 5590
+
+Question:
+I am having problems getting the X2u to work with ProTools 10. Do these work together?
+
+
+
+Answer:
+
+	We wereable to get this working on 2 different MacBook Pros (both running OS X 10.8.5) in Pro Tools 10 and 11 (10.3.8.387 and 11.1.2.214). Steps to resolution and Screenshots below:
+	
+	The Issue:
+	Pro Tools doesnt allow you to select independent input and output audio devices and expects to see 1 device (such as a traditional hardware box that has integrated inputs and outputs). The X2u (and PG27 USB) show up as 2 separate devices - one for input and one for output and Pro Tools will default to selecting the first one, in this case, the output. This is likely whatyouexperienced when opening Pro Tools, as it will only allow you to select the input OR output as the main device- both of which are named Shure Digital in the Hardware Devices screen in Pro Tools.
+	
+	
+	
+	The Fix:
+	In order to tell Pro Tools that you want to use the input AND outputs together, you need to create an aggregate audio device to combine the inputs and outputs into a single selectable audio device in Pro Tools.
+	
+	This is accomplished in the Audio MIDI Setup application.
+	
+	(You can see below how the X2u shows up in the Audio MIDI Setup application as 2 separate devices -Shure Digital - one for inputs and one for outputs)
+	
+	
+	
+	Select the + symbol at the bottom left hand corner of the window and select Create Aggregate Device
+	
+	
+	
+	Then check the 2 Shure Digital boxes in the right hand pane - this is what combines the separate devices together to allow Pro Tools access to the input and output simultaneously.
+	
+	
+	
+	Rename the new Aggregate Device if necessary and be sure to set the sample rate in the right hand pane to the intended session sample rate youll use in Pro Tools.
+	
+	
+	
+	Open Pro Tools and go to the Playback Engine window under the Setup menu.
+	
+	
+	
+	Select the new aggregate device that was just created, in this case named X2u, and hit ok (Pro Tools will close and re-open with the new device selected)
+	
+	
+	
+	The last step is ensuring that the inputs and outputs are routed properly in the I/O page (under the Setup Menu)- this is quickly configured by selecting the input and output tabs and selecting Default at the bottom of the page.
+	
+	
+	
+	
+

@@ -1,0 +1,13 @@
+Title: PGX4 mounted to URT
+Id: 3843
+Legacy Id: 4083
+
+Question:
+I have a PGX4 receiver and a Shure URT (universal rack tray), but I have misplaced the four screws that fasten the receiver to the rack tray. Please provide the screw specifications.
+
+
+Answer:
+
+	Machine screw, hex head, plated steel.  
+	Size: M4 x .7   (metric with a thread length of 0.7 cm or 7 mm)
+	Shure part number 30B8190B - as of January 2011

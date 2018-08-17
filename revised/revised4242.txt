@@ -1,0 +1,25 @@
+Title: X2u - ambient sound, slapback, and echoes
+Id: 4242
+Legacy Id: 5275
+
+Question:
+Why am I hearing an ambient sound, doubling, or "slapback" when using my X2u?
+
+
+Answer:
+
+	
+	If you are hearing this during recording, but not during playback the answer lies in your software and hardware monitoring settings. The X2u gives you the ability to monitor the audio that is entering the X2u with zero latency. This is usually called direct monitoring in the world of audio interfaces. There is a control on the X2u called Monitor which adjusts the level of the directly monitored signal.
+
+	
+
+	You can also monitor the signal that enters the X2u via your recording software, however, the signal you are monitoring through your recording software is delayed in relation to the signal entering the X2u. To understand why you need to understand just a little bit about analog-to-digital and digital-to-analog conversion. The signal that enters the X2u is converted from an analog signal to a digital signal so it is understood by your recording software. This conversion takes a finite amount of time. When the audio is then transmitted back to the X2u it is then converted from digital to analog within the X2u. This conversion from digital to analog also takes a finite amount of time. The amount of time it takes for the original signal to go from the X2u, into your recording software, and back to the X2u is usually termed round trip latency. This latency is usually in the neighborhood of a few milliseconds up to tens of milliseconds depending on the settings you choose within your recording software.
+
+	
+
+	If you happen to be monitoring through your X2u AND monitoring through your software youll be hearing a combination of both the direct and delayed signals. This can create an effect that can be described as an echo, ambience, hollow, delay, slapback, etc depending on the amount of roundtrip latency. To solve this, either disable monitoring in your recording software or turn down the Monitor control on the X2u.
+
+	
+
+	Finally, in the computer, be certain to choose Shure Device as the audio input source. If this is not done, the audio source will be the built-in mic on the computer and the audio quality will be very strange indeed.
+

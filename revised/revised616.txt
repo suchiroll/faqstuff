@@ -1,0 +1,16 @@
+Title: Theater Audio - WL93 Positioning
+Id: 616
+Legacy Id: 630
+
+Question:
+When using a microphone such as the Shure WL93 on an actor's head (over the ear, mounted on eyeglasses, etc.), exactly how should the microphone be oriented? More specifically, how should the element's opening be oriented?
+
+
+Answer:
+
+	How do I correctly use lavalier microphones in theater applications?
+	
+	The WL93 is omnidirectional. Though it cannot be aimed, the tiny circular opening on the side should be positioned facing away from the actors body. Location is determined by costuming restrictions. Keep in mind that the mic will sound different at each location due to acoustic shadows caused by body parts. Experimentation is the key and perhaps small amount of equalization on the mixing board.
+	
+	Available from www.aes.org, is an excellent technical paper on this subject. The paper is entitled Spectral Degradation of Speech Captured by Miniature Microphones Mounted on Persons Head and Chest. The author is Eddy Bogh Brixen. The paper was presented May 11, 1996. 
+

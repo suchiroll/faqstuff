@@ -1,0 +1,12 @@
+Title: X2u with Sonar
+Id: 3631
+Legacy Id: 3838
+
+Question:
+I'm trying to run the X2u with Sonar 8 on a Dell laptop running Vista, but although I hear input coming into the computer, and I was able to get input in Sonar, I can't get any output through the X2u's headphone jack from Sonar's main out. I keep getting a dialog box that says my hardware isn't supported. Can you help me figure this out?
+
+
+Answer:
+
+	Cakewalk/Sonar software requires interfaces with ASIO drivers. The X2u is not a device that comes with ASIO drivers, so this may not be the appropriate interface for that software. If you want to still consider using the X2u with Sonar, you can download shareware drivers here: http://www.asio4all.com/
+	We do NOT officially endorse those drivers. This may fix your problem.

@@ -1,0 +1,12 @@
+Title: Specs on RXT-4
+Id: 266
+Legacy Id: 272
+
+Question:
+Please give me the specifications for the RXT-4 cartridge.
+
+
+Answer:
+
+	The RXT-4 moving magnet cartridge is the same as the Shure M97HE model. Optimum tracking force is 1.25 grams. Net weight is 6.6 grams. Frequency response is flat: 20Hz - 20,000Hz. Typical output voltage is 4.0mV. Channel separation is 25 dB at 1 kHz. Channel balance is within 2 dB. The stylus is hyperelliptical. It is the model just below the V15V.
+

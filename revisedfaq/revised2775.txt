@@ -1,0 +1,14 @@
+Title: Mic Element 99A86 for Green Bullet Mic
+Id: 2775
+Legacy Id: 2883
+
+Question:
+I have a Shure mic element Model # 99A86. Before I put it into my Green Bullet, I need to know if it is a high or low impedance unit.
+
+
+Answer:
+
+	The 99A86 is a controlled magnetic, high impedance element.
+
+	At 1,000 Hz, the impedance is 14,000 ohms.
+

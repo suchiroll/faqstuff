@@ -1,0 +1,11 @@
+Title: P4800 - Control each output gain with a potentiometer.
+Id: 3208
+Legacy Id: 3356
+
+Question:
+How can I connect more than one potentiometer at the logic input of the P4800 so each potentiomenter can control a desired gain in a desired output?
+
+
+Answer:
+
+	Yes, you can connect 8 potentiometers. There are 8 control inputs on the P4800. Connect a 100k audio taper potentiometer to each of the Control Inputs.

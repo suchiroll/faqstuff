@@ -1,0 +1,12 @@
+Title: M99E body and N78S stylus
+Id: 2269
+Legacy Id: 2350
+
+Question:
+I have a M99E P mount cartridge. Will a N78S stylus fit it?
+
+
+Answer:
+
+	Yes, the N78S stylus fits the M99E body.
+

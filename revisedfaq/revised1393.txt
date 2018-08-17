@@ -1,0 +1,38 @@
+Title: Weddings and Wireless
+Id: 1393
+Legacy Id: 1445
+
+Question:
+I'm a disc jockey who has seen an increasing number of wedding ceremonies over the past couple of years. I started with just a small system to provide the music only and now my ceremony business has evolved into music and sound with a much larger system including the use of four wireless microphones for some of them.
+
+
+All four are Shure with two being UHF and two being VHF. There are two lavaliers, one for the groom and one for the minister. I also have two handhelds that are used by vocalists. I have absolutely no problem with the sound quality of the microphones for the most part. I just wish I could get the grooms to speak a little louder and get the brides to stand a little closer to the groom.
+
+
+I have to set up each of the four microphone systems for each ceremony and the time it takes to take each out of the case, set up, and then return to the case afterwards is just too excessive. I only have a limited amount of time to take down the ceremony system. (Note: I have to take it down. Most of the ceremonies are outside in an oceanfront setting.) I want to mount all four in a single enclosure that allows faster set up and take down. I don't want to use the standard rack mount boxes as they are far too large for just microphone use and weigh a ton. I want to build a box with a full door on the front that opens and swings back out of the way. My initial thought was to just build a small box with four shelves and mount each of the receivers on the shelves. I was planning to use foam rubber lightly packed around each receiver if I couldn't directly mount them to the shelves with screws from the bottom. I'm not too keen on using the screws because I see a need to slide the receivers slightly forward to allow better use of the antennas.
+
+1) If I mount them on top of each other, will I run into an interference problem from the potential overlap of the longer VHF antennas vice the shorter ones on the UHF models.
+
+2) I have looked on your web site and you've offered some advice on how to mount giving the maximum receiver ability. One diagram shows two receivers side by side, with the inner antenna on each of these being vertical and the outside antennas being at 45 degrees. I wish to use the same philosophy only with two on the top and two on the bottom. Would I use the same setup for the for the two on top?
+
+3) Will this type set up give me more problems with dropout? This box is going to require some custom carpentry work and I don't want to spend extra money building a box based on a concept that won't work.
+
+4) Can you offer some advice or perhaps there's another Shure product that will allow this type of setup.
+
+
+5) OR, I have heard about a new wireless choir mic. I have nixed other suggestions to go with the choir mic because of the cord not having an easy path back to the mixer.
+
+6) Would this choir mic do a good job of picking up the vows?
+
+7) Could it be stand mounted and placed between the minister and the couple?
+
+8) Wind noise can be a frequent problem along the coast. Is there a wind screen?
+
+
+Any and all help and advice greatly appreciated.
+
+
+
+Answer:
+
+	1) Make certain the antenna do not physically touch and are separated as much as possible. 2) Yes, but you may have to experiment with different antenna positions. There are no hard and fast rules. 3) Probably not. Line of sight from transmitter to receiver antenna is the single most important factor. 4) We can't answer that. You did not provide the model numbers and operating frequencies of your Shure wireless system. 5) We have no idea about what product this is. 6) Mic pickup is completely related to the proximity to the talker. Closer is better...PERIOD.7) There is nothin magic about a mic designed to hang above a choir. Closer is better...PERIOD. 8) Hanging choir mics are designed for inside use. You will have lots of wind noise problems, windscreen or not.Please take the time to read the following links. They will help you understand the facts of microphone operation, not the myths you have been hearing.The Myth of Microphone ReachPredicting Speech to Background Noise Ratio at the MicrophoneAudio Systems Guide for Video ProductionSelection and Operation: Wireless Microphone Systems

@@ -1,0 +1,14 @@
+Title: Stage Apron microphone?
+Id: 1146
+Legacy Id: 1185
+
+Question:
+I am looking for a microphone product known as an apron microphone.
+
+
+Answer:
+
+	We assume you are asking for a microphone to be placed at the front or apron of a stage. This is likely a boundary mic like the Shure MX390 series. Please see the following link to our online Selection Guides: Which microphone should I use on ... ? (Selection Guides)
+	
+	Also, click on the following link: Theater Audio - Microphones for theater
+

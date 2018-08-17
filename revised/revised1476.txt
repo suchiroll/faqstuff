@@ -1,0 +1,18 @@
+Title: Technics SL-1200M3D turntable and Shure V15VxMR Cartridge
+Id: 1476
+Legacy Id: 1529
+
+Question:
+I need to know the height of the cartridge to set tone arm height. Also, this turntable says to use the cartridge weight if the cartridge weight is under 6.5 grams. The V15VxMR weighs 6.6 grams according to the spec sheet. Should I use the weight or not. Also it says to set the counter balance to 1.5 grams to track at 1 gram because of the brush accounting for a half gram. Where should I set the anti-skating 1 gram or 1.5?
+
+
+Answer:
+
+	1. Set the tone arm height to that the top of the head shell is parallel to the record surface when playing a record. This is the best method.
+	
+	2. Should I use the weight? No.
+	
+	3. Set the counter balance to 1.5 grams to track at 1 gram because of the brush? Yes.
+	
+	4. Where should I set the anti-skating? 1 gram to match the actual stylus pressure on the record.
+

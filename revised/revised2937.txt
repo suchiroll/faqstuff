@@ -1,0 +1,18 @@
+Title: Radio Frequency Interference Detector - Audible
+Id: 2937
+Legacy Id: 3063
+
+Question:
+What do you recommend for a device that can detect sources of RFI (Radio Frequency Interference) and provide an audible output?
+
+
+Answer:
+
+	1) Use an inexpensive portable AM radio tuned off-station. It will make all types of unpleasant noises when brought near a source of RFI.
+	
+	2) A more sophisticated detector is available from WiNRADiO:
+	
+	The WiNRADiO ERD-1500 Electromagnetic Radiation Detector is a RF Sniffer developed to locate sources of electromagnetic interference. The detector contains a miniature wide-band antenna with an amplifier and Schottky barrier detection diodes for maximum sensitivity. The detector features optical (LED) and acoustic (piezo speaker) indication. The brightness of the indicator LED and the pitch of the audible tone will increase proportionally with the strength of the detected signal to help locate the interference source.
+	
+	http://www.winradio.com/home/erd.htm
+

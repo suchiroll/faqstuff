@@ -1,0 +1,16 @@
+Title: Beta 87 microphone in a model 55 "Elvis mic" housing
+Id: 3047
+Legacy Id: 3178
+
+Question:
+Does Shure offer the classic model 55 mic with a modern mic element like the Beta 87?
+
+
+Answer:
+
+	Shure does not offer a model 55 with a Beta 87 inside. However, this hybrid microphone is available from:Carl Schreiber
+	16A Kingery Quarter
+	Unit 202
+	Willowbrook IL 60527 USA
+	Phone: 630.654.0053
+	email: bopkat59@yahoo.comMany of Beta 87A features have been maintained: the 3-point shock mount, the transformer shield, the RF filter, and the 2-stage pop filter.Note that Shure does not endorse this product, nor will Shure service this product. We provide this information solely as a service to customers seeking such a hybrid microphone.

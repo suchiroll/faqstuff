@@ -1,0 +1,41 @@
+Title: Using PS9 battery eliminator with MX692
+Id: 3095
+Legacy Id: 3227
+
+Question:
+I want to use the PS9 battery eliminator with the MX692 wireless boundary microphone, but I can't figure out what to do with the connector. Any suggestions?
+
+
+Answer:
+
+	Powering MX692 using PS9 and PS40 Power Supply
+
+	The PS9US contains the PS9US, battery door with opening for regular transmitters, and the PS40.
+
+
+	To AC power the MX692 using the PS9US you will need to extend the PS9s threaded connector so it will be outside the MX692 case. This is the easiest and least risky way of connecting it to the PS40 Power supply.
+
+
+	Note that current PS9 adapters have the DC coax connector glued to the case. The epoxy makes this modification difficult.
+
+	
+		You will need two lengths of hookup wire, solder and a low power soldering iron. Peel the label off the PS9. It will reveal a small screw that holds the two case halves together. Remove the screw. Open the case halves.
+		
+			
+	
+	
+		You will see a circuit board with threaded connector on one side and the snap connectors on the other side.
+	
+		Unsolder the threaded connector from the circuit board.
+	
+		Remove the wires going to the connector.
+	
+		Solder longer wires to the connector and resolder the new wires back to the circuit board.
+	
+		Close up the case halves and put the screw back in place.
+	
+		Using a Dremel tool or file, notch the door of the MX692 to allow the wires to exit to the connector. It will look similar to Figure 2 below.
+
+
+	
+

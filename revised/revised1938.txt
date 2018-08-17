@@ -1,0 +1,17 @@
+Title: Theater stage mic
+Id: 1938
+Legacy Id: 2001
+
+Question:
+I need to find a microphone suited for use on a theater stage. What are my options?
+
+
+Answer:
+
+	Overhead microphones like the MX202.
+	
+	Boundary microphones like the MX391.
+	
+	We would suggest you also read the following about what kind of realistic expectations you should have about using wired microphones on a theater stage.
+	Theater Audio: The Science Behind the Illusion
+

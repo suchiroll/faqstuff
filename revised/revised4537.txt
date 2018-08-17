@@ -1,0 +1,15 @@
+Title: Can I rack a QLXD4 receiver next to my ULXD4 receiver, or other half-rack Shure device?
+Id: 4537
+Legacy Id: 5656
+
+Question:
+Can I rack a QLXD4 receiver next to my ULXD4 receiver, or any other half-rack Shure device?
+
+Answer:
+
+	As of August 2014, the QLXD4 receiver uses a rack design unique unto the QLX-D series. It employs a stiffening panel that affixes to the bottom of the QLXD4 receiver(s). No other rack mount receiver (or transmitter or mixer) currently in the Shure line uses this new hardwaresystem. Other receiver models will need to occupy a different space in the rack.
+	
+	A QLXD4 will rack next to another QLXD4.
+	
+	The improved rack hardware design for the QLX-D has proven more rugged than previous rack hardware designs. This is particularly truewhen rack-mounted receivers are shipped by truck or air.
+

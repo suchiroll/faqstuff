@@ -1,0 +1,17 @@
+Title: Changing Frequencies of T series wireless
+Id: 873
+Legacy Id: 900
+
+Question:
+My church has purchased T Series wireless products and has the following question: Is it possible to change the operating frequency of the wireless microphones or base stations? What is the procedure to do this? The reason for this is another church has a similar system and it interferes with ours.
+
+
+Can an authorized dealer do the same thing?
+
+
+Answer:
+
+	Our Service Department can change the frequencies for a nominal charge.
+	
+	In general, dealers do not have the test equipment, the training, nor the governmental license. It must be done at Shure.
+

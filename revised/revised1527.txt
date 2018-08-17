@@ -1,0 +1,14 @@
+Title: Will the N78S stylus fit the V15V or V15V-MR cartridge?
+Id: 1527
+Legacy Id: 1581
+
+Question:
+Can I use a N78S replacement in my V15 type V-MR cartridge?
+
+
+Answer:
+
+	Unfortunately, the N78S will not fit. The N78S stylus shank cover is too fat and will not fit into the stylus opening on the V15V-MR or the V15V stylus opening. The stylus also does not fit earlier V15 models: type IV, type III, type II, or type I.
+	
+	The N78S DOES fit the V15VxMR.
+

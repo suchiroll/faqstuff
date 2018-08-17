@@ -1,0 +1,19 @@
+Title: ULX-D on Corporate Network - Troubleshooting
+Id: 4398
+Legacy Id: 5494
+
+Question:
+We have a wireless ULX-D system with eight receivers on 1.4.8 firmware and the Wireless Workbench software version 6.0. We have been having some issues with the program not seeing the data from the belt packs such as RF and audio level. The program always sees the receivers and knows their info but will not reliably see the belt packs data. When it doesn't work a restart of the receiver will usually solve the issue for a bit before it acts up again. The receivers are on one of our main secure equipment networks here at the news station and the computer running the program is Win 7 64 bit. There is no virus or firewall software on this computer to interfere with the data. We are a heavily automated news organization and it's pretty critical we obtain some reliability in this system as it's the only way for the operators to know if on-air talent have turned their mics on. Any thoughts would be great appreciated. Thanks in advance.
+
+Answer:
+
+	Based on the problem description in your inquiry, we suspect that the supporting corporate network has certain communications blocked, which is causing the anomaly. It will likely be necessary to engage the assistance of the IT department. Here is some information on the communications protocol that the ULXD4 receiver uses:
+	
+	ULXD requires multicasting be enabled for communications. The ACN (Architecture for Control Networks) protocol is used for communications. Here is the information that is needed to open up the Ethernet switch.
+	
+	The ACN (Architecture for Control Networks) protocol uses the following multicast addresses:
+	
+	239.255.255.253 - SLP multicast address
+	239.255.254.253 - supplemental SLP discovery
+	239.192.x.x  239.195.x.x (Netmask 255.252.0.0) - SDT session, dynamically generated based on host IP and MAC address.
+

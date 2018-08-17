@@ -1,0 +1,11 @@
+Title: KSM27 - fits on a mic stand?
+Id: 2092
+Legacy Id: 2158
+
+Question:
+Will the KSM27 fit onto a standard mic stand?
+
+
+Answer:
+
+	Yes. The KSM27 is supplied with a mount that fits on a standard mic stand.

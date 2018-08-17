@@ -1,0 +1,21 @@
+Title: Antenna Distribution - 3 rooms, 6 antennas
+Id: 3170
+Legacy Id: 3308
+
+Question:
+I have three adjacent, independent rooms. How do I distribute antennas to cover three rooms? I need to have multiple wireless mics be able to roam anywhere in three different rooms.
+
+
+Answer:
+
+	For multiple room coverage, use passive combiners. Since they do not require power and are typically compact, they can be located wherever necessary. A passive combiner will typically result in at least 3 dB of loss, so be sure to include this figure when calculating cable loss. Multiple combiners can be used in series, if more than two locations need to be covered, so long as enough amplification is provided to make up for whatever additional losses are incurred.
+	
+	It is important to keep multiple antennas feeding a common receiver input as isolated from each other as possible in order to minimize potential phase cancellation that could result in signal dropout. Certain receiver designs will be better equipped to deal with this situation than others, but it is a worthwhile precaution nonetheless.
+	
+	The cables and amplifiers should be set up as described in the following link about remote antennas: Remote Antennas
+	
+	The following diagram is how 6 antennas can be used to cover 3 rooms.
+	
+
+	
+

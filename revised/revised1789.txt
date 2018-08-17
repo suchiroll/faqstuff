@@ -1,0 +1,16 @@
+Title: Conference room recording
+Id: 1789
+Legacy Id: 1849
+
+Question:
+We are looking for board room recording system. We would like to use 12 microphone for each member and in to a one unit mixer if possible then to record at the same time a minimum time of our meeting are 2 hours. Do you have any suggestions?
+
+
+Answer:
+
+	For the microphones, consider the Microflex line.
+	
+	For the mixer, consider the Shure SCM810.
+	
+	For a recording device, consider products from Teac or Marantz Professional.
+

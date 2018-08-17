@@ -1,0 +1,11 @@
+Title: Equalization and Speech Intelligibility
+Id: 9
+Legacy Id: 9
+
+Question:
+Will boosting high frequencies increase speech intelligibility?
+
+Answer:
+
+	Not necessarily. The majority of speech intelligibility for the human voice is centered in the 1-2 kHz range. Boosting frequencies above this range will increase sibilance, but will not necessarily improve intelligibility. -more information-
+

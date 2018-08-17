@@ -1,0 +1,30 @@
+Title: Twin Pro Wireless/ Non-diversity versus diversity
+Id: 576
+Legacy Id: 587
+
+Question:
+I am a professional DJ and am inquiring as to what equipment I need to make my idea a reality. I want to buy a Shure Twin Pro Dual Channel, my question is I only require one handheld mic and want a WH20 headset instead of the other hendheld mic. Is this a possible combination, if so what frequencies are available for the KC metro area without interference with the local TV stations?
+
+
+Answer:
+
+	At 01/18/2001 07:38 AM we wrote - In your situation, consider the model T1288/93. This model includes one handheld transmitter and one bodypack transmitter with a lavalier mic, the WL93. Also you will need the model WH20TQG which will connect to the bodypack transmitter in place of the WL93.
+	
+	In the Kansas City area, we suggest the B frequency set for the T88. The C frequency set would be our second choice.
+	
+	Please understand that the Twin Pro is a non-diversity system. Before you purchase, read the following information so you clearly understand the performance difference between a non-diversity wireless and a diversity wireless.
+	
+	Wireless microphone systems are offered in two basic external configurations: diversity and non-diversity. Non-diversity receivers are equipped with a single antenna while diversity receivers generally have two antennas. The choice of a diversity vs. a non-diversity receiver is usually dictated by performance and reliability considerations. Diversity receivers can significantly improve both qualities by minimizing the effect of variations in radio signal strength in a given reception area.
+	
+	A necessary element in the concept of diversity radio reception is the occurrence of multi-path effects in radio transmission. In the simplest case radio waves proceed directly from the transmitting antenna to the receiving antenna in a straight line. The received signal strength is only a function of the transmitter power and the distance between the transmitting and receiving antennas.
+	
+	In most situations, there are objects that attenuate radio waves and objects that reflect them. Since both the transmitting and receiving antennas are essentially omnidirectional, the receiver is picking up a varying combination of direct and reflected radio waves most of the time. The reflected waves and direct waves travel different distances (paths) to arrive at the receiving antenna, hence the term multipath. These multiple paths result in differing levels, arrival times and phase relationships between the radio waves.
+	
+	The net received signal strength at any location is the sum of the direct and reflected waves. These waves can reinforce or interfere with each other depending on their relative amplitude and phase. The result is substantial variation in average signal strength throughout an area. This creates the possibility of degradation or loss of the radio signal at certain points in space, even when the transmitter is at a relatively short distance from the receiver. Cancellation of the signal can occur when the direct and indirect waves are similar in amplitude and opposite in phase.
+	
+	The audible effects of such signal strength variation range from a slight swishing sound (noise-up), to severe noises (hits), to complete loss of audio (dropout). Similar effects are sometimes noted in automobile radio reception in areas with many tall buildings. However, the effect is usually short-lived because movement of only a quarter wavelength is often enough to escape the problem area. Nevertheless, the results are unpredictable, uncomfortable, and ultimately unavoidable with single-antenna (non-diversity) receivers.
+	
+	Diversity refers to the general principle of using multiple (usually two) antennas to take advantage of the very low probability of simultaneous dropouts at two different antenna locations. Different means that the signals are substantially independent at each location. This is also sometimes called space diversity, referring to the space between the antennas. In most cases, at least 1/4 wavelength separation between antennas is necessary for significant diversity effect, though increased benefit may be had by greater separation, up to one wavelength.
+	
+	In summary, diversity receivers will have fewer drop-outs than non-diversity receivers.
+

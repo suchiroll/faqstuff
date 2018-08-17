@@ -1,0 +1,11 @@
+Title: SBC-DC Battery Eliminator
+Id: 4182
+Legacy Id: 5133
+
+Question:
+If there a battery eliminator that can be used in place of the SB900 battery? That is, I no longer want to use a battery, but instead want to power my bodypack from a wall outlet.
+
+Answer:
+
+	We do offer the SBC-DC battery eliminator. It can be used with the P9RA, P10R, QLXD1,ULXD1, AD1, and UR5.
+

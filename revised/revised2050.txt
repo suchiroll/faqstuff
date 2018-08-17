@@ -1,0 +1,12 @@
+Title: FP24 to FP33 Bus in phase issue
+Id: 2050
+Legacy Id: 2115
+
+Question:
+If I planned to use an FP24 with my FP33 all the time, wouldn't it make sense to rewire the inputs of the FP24 to be out pf phase w/ the FP 33 (2/3 swap), thus putting the FP24 output in phase as it goes into the FP33 bus input?
+
+
+Answer:
+
+	Yes, that makes perfect sense. But it is easier said than done. Inside of the FP24, the XLR input connector and output connectors are wired directly to the printed circuit board. There are no wires to reverse. It will require circuit board traces to be cut and jumpered.
+

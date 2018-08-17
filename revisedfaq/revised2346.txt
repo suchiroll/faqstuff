@@ -1,0 +1,11 @@
+Title: Are UC and U series cross-compatible?
+Id: 2346
+Legacy Id: 2433
+
+Question:
+I like to know if a UC receiver with UA frequency band works with a U transmitter with UA frequency band? or vise versa?
+
+
+Answer:
+
+	Yes, they are compatible.

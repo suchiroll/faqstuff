@@ -1,0 +1,11 @@
+Title: X2u with Apple iPad?
+Id: 3738
+Legacy Id: 3974
+
+Question:
+I called and spoke to a support engineer to ask about the power draw of the X2U through USB. I was told that there wasn't any information Shure had available to determine whether the unit would work with the Apple iPad (through the Camera Connection Kit adapter). I told him I would go ahead and purchase one and test it and let you guys know the result. Unfortunately, the iPad claims that the X2u accessory requires too much power and will not activate it. I tried putting a powered USB hub between the X2U and the iPad and the interface worked fine, but my objective is to do this without external power. It's too bad there isn't a battery power option for the X2U, or I'd be fine.
+
+
+Answer:
+
+	This Shure customer, tested the X2u with the iPad and provided the additional results:Just wanted to also alert you to the fact that when I put a powered USB hub between the X2U and the iPad, the unit works fine, until the 48v button is activated, at which point the iPad displays erratic behavior and hangs in programs.  Apparently this has some effect on the USB bus that the iPad doesn't like.

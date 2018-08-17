@@ -1,0 +1,31 @@
+Title: PS-6 Popper Stopper - positioning, use, product details
+Id: 777
+Legacy Id: 799
+
+Question:
+1) How effective is the PS-6 Popper Stopper?  
+
+2) Will it affect the mic's frequency response?
+
+3) What are it's dimensions?
+
+Answer:
+
+	1) When properly positioned, the PS-6 will provide between 20 and 30 dB of pop reduction.
+	
+	2) From PS-6 fabric screen to performers lips: 1 inch (3 cm) maximum. From microphone to PS-6 fabric screen: 3 inches (8 cm) minimum. Also the PS-6 should be positioned 1 inch (3 cm) off-center from the center of the microphones grille.
+	
+	How will the PS-6 affect the frequency response of the microphone?
+	From 20 Hz to 4 kHz, the PS-6 has no effect.
+	From 4 kHz to 6 kHz, the PS-6 has less than 1 dB of effect.
+	From 6 kHz to 8 kHz, the response is down by 1.5 dB.
+	From 8 kHz to 9 kHz, the response is down by 3 dB.
+	From 9 kHz to 13 kHz, the response is down 1 dB.
+	From 13 kHz to 20 kHz, the PS-6 has less than 1 dB of effect.
+	
+	3) The disc that holds the black fabric screen is made of black plastic and has a diameter of 16.5 cm (6.5 inches). The fabric screen has two layers, separated by 10mm (3/8 inch).
+	
+	The flexible section of the black metal gooseneck has a length of 33.5 cm (13.25 inch). The entire length of the disc-supporting arm is 38 cm (15 inches).
+	
+	The black clamp/bracket is metal and has a length of 17.5 cm (7 inches). The maximum opening of the clamp is 32 cm (1.25 inches).
+

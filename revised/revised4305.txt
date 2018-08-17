@@ -1,0 +1,10 @@
+Title: BLX4R Antenna Distribution and DC Power Distribution
+Id: 4305
+Legacy Id: 5376
+
+Question:
+Can I use the UA844+SWB with the BLX4R receivers for the distribution of RF signals and DC power?
+
+Answer:
+
+	Yes.  See our online Wireless Accessory Wizard.

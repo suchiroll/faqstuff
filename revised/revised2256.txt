@@ -1,0 +1,11 @@
+Title: Beta 53 in-line preamp?
+Id: 2256
+Legacy Id: 2337
+
+Question:
+What in-line preamp is required to make the Beta 53 headset a wired mic?
+
+
+Answer:
+
+	Use the RPM626 in-line preamp. It requires 11-52 volts of phantom power for operation.

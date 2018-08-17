@@ -1,0 +1,11 @@
+Title: Which direction should the SM7 point?
+Id: 458
+Legacy Id: 467
+
+Question:
+We have an SM7 at my workplace, and my supervisor thinks that you should talk 'across' the mic, i.e the foam end is pointed up and you talk across it. I think it's designed to be talked INTO the foam end, i.e the foam end is pointed at your mouth. Who's right?
+
+
+Answer:
+
+	You are correct. Talk into the end of the microphone, just like an SM58. The SM7 is NOT a side address microphone.

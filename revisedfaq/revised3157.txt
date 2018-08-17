@@ -1,0 +1,12 @@
+Title: What is a crossover and why is there one in my earphones?
+Id: 3157
+Legacy Id: 3295
+
+Question:
+What does a "crossover" do?
+
+
+Answer:
+
+	A crossover is an electronic circuit that splits the audio signal into two parts so they can each be sent to a dedicated speaker. Usually, the lower frequencies (bass) are sent to a speaker that is optimized to handle that part of the frequency spectrum, and the higher frequencies (midrange and treble) are sent to a speaker that is optimized for them. This so-called two-way design delivers superior sound quality, since each part of the frequency range is reproduced better than a single full-range speaker could do the job. The SE425 earphones, for example, utilize two speakers in each ear, fed by an inline crossover located in the cable.
+

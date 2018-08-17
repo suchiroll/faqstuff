@@ -1,0 +1,19 @@
+Title: MX391 Mics to LX and SC Wireless Transmitters
+Id: 2093
+Legacy Id: 2159
+
+Question:
+We are working with a system that requires Shure MX391C mics to be integrated into a wireless system. The client has currently 1 LX4 receiver and 1 SC4 receiver. They wish us to make these work with a mixer (no issue so far) and hard wire the MX391's to Body Pack Transmitters (again, no problem we can wire into the body pack)
+
+Question.. will the use of 2 different type or models of receivers (LX4 and SC4) cause any issue?
+
+Q#2.. We will obviously require a LX1 body pack transmitter for the LX4 and a SC1 BPT for the SC4?
+
+
+Answer:
+
+	The LX transmitter and the SC transmitter are wired the same. Either will power the MX391. NOTE: The MX391 in-line preamp is not required when using the MX391 with a wireless transmitter.
+	
+	The audio outputs of the LX4 receiver and the SC4 receiver are nearly identical.
+	
+	Yes, make certain to use an LX1 for the LX4 and a SC1 for the SC4.

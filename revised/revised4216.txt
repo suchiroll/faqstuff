@@ -1,0 +1,36 @@
+Title: DC 5980P Function and Configuration
+Id: 4216
+Legacy Id: 5191
+
+Question:
+The DC 5980P Portable Conference Unit can be configured as 1) Chairman unit; 2) Interpreter / Translator unit; 3) Delegate unit with Mic Mute; 4) Delegate unit without Mic Mute. How is this accomplished?
+
+
+
+Answer:
+
+	
+		On the front of the DC 5980P unit, press/hold the + and the - symbols at the same time.
+	
+		Hold for three seconds until a green LED starts to flash on the DC 5980P unit. Note: If the green LED does not flash, this indicates the configuration process has been locked. It can only be unlocked using the main control unit and the web browser software.
+	
+		Continue to press/hold the + and the - symbols.
+	
+		Look at the two red LEDs at the far right of the front panel.
+		
+		Both LEDson = Interpreter / Translator
+		Both LEDs off = Delegate with Mic Mute
+		Top LED on and bottom LED off = Delegate without Mic Mute
+		Top LED off and bottom LED on = Chairman
+	
+		To cycle between configurations, press the symbol to the left of the two LEDs. This will change the LEDs that are lit.
+	
+		When the desired configuration is reached, release the + and the - symbols.
+	
+		The LEDs will flash on the front panel, as will the red light ring on the microphone. Once the flashing stops, the configuration is successful and the main control unit has acknowledged that the DC 5980P has a new function. The new configuration is stored within the DC 5980P.
+	
+		Remove the DC 5980P switch overlay. Replace it with a new overlay that matches the new function.
+
+
+	
+

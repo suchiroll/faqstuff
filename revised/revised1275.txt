@@ -1,0 +1,18 @@
+Title: SCM810 removable block connectors
+Id: 1275
+Legacy Id: 1323
+
+Question:
+What is the model no. for your removable block connectors for the SCM810 mixer, what is the price, and do you have them in stock to purchase?
+
+
+Answer:
+
+	The Shure part number for a single block connector is 95A8580. Pricing and availability can be obtained by calling Shure Parts at 800-516-2525.
+	
+	The commercial equivalent for the connector is Augat 796634-03.
+
+	
+
+	The pin spacing on the connector is 5.08 mm.
+

@@ -1,0 +1,13 @@
+Title: Resonant frequency of Beta 58A element
+Id: 2837
+Legacy Id: 2949
+
+Question:
+What is the resonant frequency of the Beta 58A element?
+
+
+Answer:
+
+	Resonant frequency in a vacuum: 150 Hz
+	
+	Resonant frequency in air: 185 Hz

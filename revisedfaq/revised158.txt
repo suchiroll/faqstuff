@@ -1,0 +1,12 @@
+Title: Converting wireless to wired microphones
+Id: 158
+Legacy Id: 158
+
+Question:
+Is it possible to easily convert my wireless SM58 microphone to a wired microphone?
+
+
+Answer:
+
+	For technical reasons, it is not feasible to make a wireless SM58 into a wired SM58 microphone. The SM58 wireless mic head has a circuit board required to interface to the wireless transmitter handle.The board cannot be separated from the mic element due to the manufacturing process. The wired SM58 does not have this board, nor does it require this board, nor can it be reconfigured to accept and power this board.
+

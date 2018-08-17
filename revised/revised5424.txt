@@ -1,0 +1,18 @@
+Title: Which Shure devices support Dante Encryption?
+Id: 5424
+Legacy Id: 6397
+
+Question:
+Which Shure devices support Dante Encryption?
+
+Answer:
+
+	Dante encryption is supported on the following:
+	
+	MXA310
+	MXA910
+	ANI4IN
+	ANI4OUT
+	ANIUSB
+	P300
+

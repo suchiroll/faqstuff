@@ -1,0 +1,15 @@
+Title: Connecting Sennheiser ME104 to Shure bodypack
+Id: 630
+Legacy Id: 647
+
+Question:
+What is the wiring configuration for a Sennheiser KA100S-5 ANT Cable with a ME104 capsule to a Shure transmitter using TA4F connector?
+
+
+Answer:
+
+	We have no records of a Sennheiser KA100S-5 ANT Cable with a ME104. Pinout for the Shure bodypack.
+	
+
+	Provide it to Sennhesier and they will figure out how to connect their mic to the Shure bodypack.
+

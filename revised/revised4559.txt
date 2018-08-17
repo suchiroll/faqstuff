@@ -1,0 +1,13 @@
+Title: BLX Transmitter and 1.5V Lithium Cell
+Id: 4559
+Legacy Id: 5683
+
+Question:
+I have a BLX2 transmitter. When I use an Energizer non-rechargeable lithium 1.5V battery / cell, the red LED flashes. Guidance, please.
+
+Answer:
+
+	This issue occurred with the early BLX transmitters. It has been resolved with a firmware revision.
+	
+	Shure Service will do a firmware update that will fix this issue.Please contact Shure Service at 800-516-2525 for instructions on returning the BLX transmitter for the firmware change.
+

@@ -1,0 +1,20 @@
+Title: MX395 used with a 3 pin XLR
+Id: 3998
+Legacy Id: 4386
+
+Question:
+We purchased several MX395 mics and our current installation only has 3 wire xlr connectors installed. We would like to use the MX395 mics now with the current wiring until we get new wire pulled. Is there an adapter that converts 3-pin xlr to 5-pin xlr? If not, how would we go about making a short adapter cable? Which pins to connect on the 3-pin side to the 5-pin side?
+
+
+Answer:
+
+	1) Sorry, there is not a 5 pin to 3 pin adapter.
+	
+	2) Adapter cable wired as follows:
+	
+	XLR5 pin 1 to cable shield to XLR3 pin 1
+	
+	XLR5 pin 2 to cable inner conductor A to XLR3 pin 3
+	
+	XLR5 pin 4 to cable inner conductor B to XLR3 pin 2
+	 

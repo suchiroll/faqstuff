@@ -1,0 +1,11 @@
+Title: Shure SE535 Plug Diameter
+Id: 3833
+Legacy Id: 4071
+
+Question:
+I am looking to purchase a pair of SE535 but I have some questions regarding the audio plug.Does the 3.5mm (1/8") plug on the SE535 have the recessed "stepped" design?
+
+
+Answer:
+
+	Sorry, it does not have the stepped-shoulder design. The diameter of the plastic part that holds the male plug is 0.375 inch. - 3/8".   Measure the recess opening on the phone or the bumper case; it must 3/8" or larger.

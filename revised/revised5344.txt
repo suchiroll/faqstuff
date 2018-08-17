@@ -1,0 +1,33 @@
+Title: PA215 Cable Information
+Id: 5344
+Legacy Id: 3940
+
+Question:
+PA215 Cable Information
+
+Answer:
+
+	PA215 : This cable is designed for the vocalist who is completely wireless and uses a P2R for their monitor and a body pack transmitter that takes a TA4F jack as input. This allows a vocalist to control their own level in their monitor mix and still have a wireless transmitter split. The cable assembly is designed to allow a vocalist to split their mic output into two separate signals that would feed the P2R Aux Input and a body pack transmitter as well. The cable assembly consists of 1 TA4M connector, 1 TA4F connector, 1 male 1/4 TRS connector, a preamp and a splitter board. The split that feeds the P2R Aux input passes through the inline preamp. This provides the user with a 12dB max gain adjustable through a thumbwheel potentiometer. This allows the performer to control how much of their vocal signal is fed into the P2R Aux input. The preamp also provides a 3dB down point at 130Hz for low end roll off in the monitor mix. The splitter board routes the bias voltage from the bodypack wireless transmitter to the bias pin of the mic. This requires the bodypack transmitter to be on inorder for the mic to be heard in the P2R monitor. The input impedance is approximately 20Kohms.
+
+	
+
+	
+
+	
+		Provides split for vocal signal to feed P2R Aux input and TA4F input body pack transmitter.
+	
+		Provides 12dB gain, output level adjusted through thumbwheel control, to split fed into P2R Aux input.
+	
+		Zero Position on Preamp will not pass any audio to P2R.
+	
+		Provides 130Hz 3dB down point for low end roll off to reduce effects of stage rumble in monitor mix.
+	
+		Preamp input impedance is approximately 20Kohms.
+	
+		Cable lengths provide convenient cable management for performers.
+	
+		Over molding of Splitter PCB provide rugged Y Junction.
+	
+		Bias supply is passed from body pack transmitter to lavalier or headset mic for PA215.
+
+

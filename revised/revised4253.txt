@@ -1,0 +1,24 @@
+Title: I need a replacement VHF transmitter or replacement VHF receiver
+Id: 4253
+Legacy Id: 5306
+
+Question:
+1) I have an old Shure VHF transmitter. I need a replacement Shure receiver that will work with it. What should I buy?
+2) I have an old Shure VHF receiver. I need a replacement Shure transmitter that will work with it. What should I buy?
+
+
+
+Answer:
+
+	IMPORTANT
+	Shure digital VHF wireless products announced in 2016 are not backwards compatible with the VHF systems mentioned below.
+	
+	Shure offered analog VHF wireless systems from 1989 to 2003. Here are the Shure series of VHF microphones, all are discontinued: EC Series, L Series, LX Series, T Series, SC Series, VP Series, W Series. A transmitter from a series was paired to a receiver from the same series and the operating frequencies exactly matched.
+
+	In the United States, the VHF frequency range for wireless microphones is 168.000 MHz to 216.000 MHz.Shure VHF wireless microphone fall in this range.The operating frequency of the transmitter or the receiver will be marked on the unit.
+
+	Shure no longer offers a transmitter in the VHF range or a receiver in the VHF range.So a new Shure product cannot be purchased that will work with an old Shure VHF product.
+
+	Refurbished VHF products, and repair of VHF products,may be obtained from Delta Audio in Chicago: Delta Audio Contact Information
+	
+

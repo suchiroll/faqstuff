@@ -1,0 +1,11 @@
+Title: PTH (Push to Hear) Accessory - Battery Life
+Id: 3314
+Legacy Id: 3483
+
+Question:
+How long will the PTH (Push to Hear) battery last?
+
+
+Answer:
+
+	A brand name alkaline battery should last 15-20 hours of continuous use.  As most users will use it for brief conversations, it is feasible for the battery to last several months.  Note the PTH has a bi-color LED that turns from green to red when the battery voltage becomes low.

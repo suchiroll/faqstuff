@@ -1,0 +1,17 @@
+Title: P10R current draw
+Id: 4621
+Legacy Id: 5780
+
+Question:
+What is the typical current draw of the P10R?
+
+Answer:
+
+	Make certainthe P10R isin Standard Gain mode. The High Gain mode increases the current draw. Driving the headphone amp harder will increase the current draw. Make certain you are feeding the transmitter a good strong audio signal, so the headphone amp on the receiver does not have to be driven hard.
+
+	In Standard Gain mode, we measured a current draw of 230-240 mA. In High Gain mode, we measured a current draw of 270-400 mA. As the battery voltage decreases, the current draw will increase.
+
+	Standard Alkaline batteries have a capacity of about 1200 mAh. Divide 1200 by the current draw to get a rough operating time.
+
+	Consider the optional Shure SB900A rechargeable battery. It has a longer operating time than alkaline batteries, and can be recharged several hundred times.
+

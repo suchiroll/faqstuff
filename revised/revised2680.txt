@@ -1,0 +1,12 @@
+Title: Will the VN35MR stylus fit the M97 body?
+Id: 2680
+Legacy Id: 2784
+
+Question:
+I have an old M97 body, currently using a N97HE stylus. My question is if I could use a VN35MR stylus in the M97 body? Or a VN5MR stylus, perhaps?
+
+
+Answer:
+
+	Sorry, but neither the VN35MR nor the VN5MR stylus work properly with the M97 body.
+

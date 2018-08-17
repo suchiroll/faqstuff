@@ -1,0 +1,19 @@
+Title: UP4 and Anton Bauer products
+Id: 2139
+Legacy Id: 2210
+
+Question:
+Does the UP4 Reciever fit between the camera and the Anton Bauer battery and reciever will be powered by the A/B battery?
+
+
+Answer:
+
+	Per Paul Sullivan of Anton Bauer:
+	
+	To mount the UP4 receiver to an Anton Bauer Gold Mount battery requires two products from Anton Bauer:
+	
+	A) One Backplate; there are two models - one for a Sony camera, the other for a JVC or Panasonic camera.
+	
+	B) One ABWMK-KIT universal wireless receiver mounting kit. The UP4 mounting box attaches to this piece.
+	
+	The UP4 does have an DC power jack for powering from an external battery.

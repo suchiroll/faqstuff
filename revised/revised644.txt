@@ -1,0 +1,11 @@
+Title: How do I build  a T Power or AB Mic power Supply
+Id: 644
+Legacy Id: 661
+
+Question:
+Hi I was wondering If you might have of a simple T or AB microphone powering circuit which you could email me?
+
+Answer:
+
+	T power circuits are quite tricky. We cannot provide a universal simple schematic for you. We suggest you purchase a T power supply from Location Sound.
+

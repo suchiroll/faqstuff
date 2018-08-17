@@ -1,0 +1,14 @@
+Title: Headset mic/headphone - wireless
+Id: 1600
+Legacy Id: 1656
+
+Question:
+Can you build me a combination headset microphone/ headphone in UHF, frequency agile, battery level indicator, w/ a temple pad style headset (like Madonna uses, only I wouldn't need the range of a singer as a DJ)? What will it cost me?
+
+
+Answer:
+
+	Shure does not build custom wireless systems.
+	
+	We suggest you review our entire line of wireless headworn mics on our web site.
+

@@ -1,0 +1,12 @@
+Title: DIS-CCU vs CU 5905
+Id: 4822
+Legacy Id: 6008
+
+Question:
+What's the difference between the DIS-CCU central control unit and the CU 5905 central unit?
+
+
+Answer:
+
+	Compared to the CU 5905, the DIS-CCU offers 4 additional analog audio inputs, and 2 additional DCS-LAN chain connections.In addition, the DIS-CCU allows Audio Input 2 to be used either as an auxiliary audio input (e.g. for a wireless microphone receiver for example) or as a dedicated Emergency Evacuation Message input.
+

@@ -1,0 +1,12 @@
+Title: Battery installation on PG81
+Id: 3045
+Legacy Id: 3176
+
+Question:
+I can't seem to find how to get to the battery compartment of this microphone. Before I started to unscrew the one screw, I thought I'd better ask.
+
+
+Answer:
+
+	Do not remove the screw. The bottom portion of the mic is 4 3/4 in length. It unscrews from the top portion. The dividing point is just below the switch.
+

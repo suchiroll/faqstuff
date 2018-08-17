@@ -1,0 +1,20 @@
+Title: Comparison of the UA844US to the UA845US.
+Id: 3255
+Legacy Id: 3409
+
+Question:
+Please provide a comparison of the UA844US to the UA845US.
+
+
+Answer:
+
+	Comparison of the UA844US to the UA845US
+	
+	UA844US has an external power supply that automatically adjusts for 100 to 240 Vac. UA845US has internal power supply that automatically adjusts for 100 to 240 Vac, a power switch, and AC power daisy-chain connector.
+	
+	UA844US has four antenna output pairs. UA845US has five antenna output pairs.
+	
+	UA844US can provide DC power (15Vdc)to ULXP or ULXSreceivers. UA845US cannot provide DC power to ULXP orULXSreceivers.
+	
+	UA844US may prove inappropriate for locations with high RF traffic and signal strength. UA845US has a more robust RF design to reduce undesirable RF overload artifacts in difficult RF environments, like New York City, Los Angeles, or Washington DC.
+

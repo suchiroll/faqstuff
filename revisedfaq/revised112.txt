@@ -1,0 +1,21 @@
+Title: How do I pad down the LX2 transmitter?
+Id: 112
+Legacy Id: 112
+
+Question:
+The lead singer of our band is overloading the LX2 transmitter.  Is there anyway to pad the microphone down so it does not overload?
+
+Answer:
+
+	LX2 transmitter - adding a 10db pad before the first audio stage
+
+	
+		Disassemble the LX2 transmitter.
+	
+		On the audio board, locate R110 (499 ohm) and replace it with a 60.4 kohm resistor.
+	
+		On the audio board, locate R106 (150 kohm) and replace it with a 30.1 kohm resistor.
+	
+		Reassemble the LX2 transmitter.
+
+

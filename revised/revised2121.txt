@@ -1,0 +1,12 @@
+Title: Ham Radio Studio Mic
+Id: 2121
+Legacy Id: 2190
+
+Question:
+What would be the best choice for a commercial quality mic for Amateur Radio use?
+
+
+Answer:
+
+	The SM7B is often used for this purpose.
+

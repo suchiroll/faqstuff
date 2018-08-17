@@ -1,0 +1,19 @@
+Title: Hiss and noise when using Shure earphones
+Id: 3624
+Legacy Id: 3830
+
+Question:
+When I use my Shure earphones with my laptop computer, I hear hiss and noisealong with the music.How can I remedy this situation?
+
+
+Answer:
+
+	What you are hearing is the electronic background noise of the inexpensive sound card in your laptop computer. This same problem can occur when using Shure earphones on an airplane.
+	Shure earphones are very sensitive.  When using inexpensive generic earphones that are far less sensitive, the volume level of the computer would be turned up to a reasonable level and the electronic background noise would be low enough in level to be inaudible.
+	
+	Because of their sensitivity, Shure earphones increase the volume level of the music and noise together. This can make the music painfully loud when using the same volume setting that was employed for the generic earphones.
+	
+	It's natural to turn down the volume on the computer so that the music is at a comfortable listening level. Unfortunately, when you do this, the sound card electronic noise does not decrease in level. Thus, the noise is now at nearly the same volume as the music. Remember, the sensitive Shure earphones increase the level of the noise and audio equally.
+	
+	In order to compensate for the noisy electronics in the inexpensive computer sound card, it is necessary to use the Radio Shack 42-2559 volume control or equivalent from other audio electronic dealers. The volume level on the computer then can be left at a reasonably loud level, thus keeping the music far above the electronic noise. The external volume control will reduce the overall level of the music and noise at the same rate, still keeping the music far above the noise. The sensitive Shure earphones will produce a volume level that is pleasing while also keeping the electronic noise at a level low enough to be nearly inaudible.
+	

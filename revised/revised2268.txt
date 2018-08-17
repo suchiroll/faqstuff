@@ -1,0 +1,18 @@
+Title: XLR connector wiring and mic cable gauge
+Id: 2268
+Legacy Id: 2349
+
+Question:
+What general gauge and wire type do you need to make a short XLR microphone cable extension? If the XLR connector has an additional lug for the connector case, do you jumper that to pin 1 (shield)?
+
+
+Answer:
+
+	What general gauge and wire type do you need to make a short XLR microphone cable extension?
+
+	* 22 or 24 gauge.
+	
+	If the XLR connector has an additional lug for the connector case, do you jumper that to pin 1 (shield)?
+
+	* For use with a microphone, yes. For use from electronic gear to electronic gear, no.
+

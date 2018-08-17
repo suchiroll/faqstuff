@@ -1,0 +1,50 @@
+Title: UA874US improvements over UA870USTV
+Id: 4119
+Legacy Id: 4901
+
+Question:
+What improvements does the UA874US antenna offer over the UA870USTV antenna?
+
+
+Answer:
+
+	Introduced in May 2012, the UA874US directional antenna has the following improvements:
+
+	Switchable RF Signal Gain: +12 dB, +6 dB, 0 dB, -6 dB
+
+	RF Overload LED: -5dBm illumination threshold
+
+	
+	
+
+	NOTE: The UA874US is a receiving antenna only. It cannot be used as a PSM transmitting antenna.
+
+	
+
+	
+
+	Other characteristics of the UA874US:
+
+	Connector Type: BNC Female
+	
+	Impedance: 50 Ohms
+	
+	Power Requirement: 10 to 15 V DC bias from coaxial connection, 75 mA
+
+	NOTE: Bias is always required, even with the 0 dB or- 6dB gain setting.
+	
+
+	Reception Pattern: 70 degrees
+	
+	Third-order Intercept Point: 30 dBm
+	
+	Antenna Gain (On Axis) : 7.5 dBi
+	
+	Dimensions: 316 mm x 359 mm x 36 mm (H x W x D)
+	
+	Weight: 317 g (11.2 oz)
+
+	
+
+	Update: As of July 2012, inventory of of the UA870 antenna has been depleted. If an existing UA870 needs replacement, set the gain on the new UA874US to within 3 dB of the replaced UA870. UA870 gain settings were +3 dB and +10 dB.
+

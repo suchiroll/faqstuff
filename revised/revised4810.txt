@@ -1,0 +1,15 @@
+Title: Compare Conference Room mic placement
+Id: 4810
+Legacy Id: 5996
+
+Question:
+How can I compare the sound of a gooseneck vs boundary vs hanging vs ceiling mic for a conference or board room? Does one sound better than the other?
+
+
+Answer:
+
+	Here is a videocreated by Shures representative in Northern California, PCM Marketing. This demonstration compares single element microphones placed at different distances from the talker. Listen to the aural differences based on the placement. All mics in this demo use the same mic cartridge, thus sound differences are related only to the placement of the mic.
+	
+
+	
+

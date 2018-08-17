@@ -1,0 +1,14 @@
+Title: Mic for interviews and music
+Id: 1825
+Legacy Id: 1885
+
+Question:
+I am a non-professional that has gotten into the practice of going to certain types of music festivals and interviewing musicians and also recording their concerts. Once I have recorded I use the product both on a radio show that I have, and to deposit in a music archive at the Chicago PublicLibrary. I have done the same thing in cafes. I have been using the Shure SM57. I have had very good results but the SM57 is a unidirectional mike and I have been told that I would get better results with an omnidirectional stereo mike. For my purposes, can you make any suggestions in terms of a mike and/or other equipment?
+
+
+Answer:
+
+	A stereo mic would be a good choice for the music, but a stereo mic is not omnidirectional. Look at the Shure VP88.
+	
+	An omnidirectional mic would be a good choice for the interview. Look at the Shure SM63.
+

@@ -1,0 +1,30 @@
+Title: Problems running DFR11EQ version 5 software on Windows XP
+Id: 3090
+Legacy Id: 3222
+
+Question:
+I'm having problems running the DFR11EQ version 5 software on a Windows XP computer. Do you have any suggestions?
+
+
+Answer:
+
+	If having problems running the DFR11EQv5 software under Windows XP, here are some suggestions:
+	
+	Suggestion 1
+	1. Logged in as a Power User or Administrator on the computer.
+	2. Rightclick the executable or the program shortcut to the executable, and then click Properties.
+	3. Select the Compatibility tab
+	4. Select the Run this program in compatibility mode check box.
+	5. From the list, select the Windows 95 operating system.
+	
+	Suggestion 2
+	If having problems installing the DFR11EQ software, try disabling the virus and anti-spyware software. Also, you should be logged in as a Power User or Administrator for the computer.
+	
+	Suggestion 3
+	If having problems installing, try installing the program on a different computer and simply copying the DFR11EQ directory to the problem computer. You should be logged in as a Power User or Administrator for the computer.
+	
+	Suggestion 4
+	1) Through the Start menu, select Help and Support.
+	2) Search for Compatibility.
+	3) You will then find a description of ways to get legacy software to run, as well as a link to a wizard that will help you through the process.
+

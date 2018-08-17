@@ -1,0 +1,22 @@
+Title: M92E Stylus Tip
+Id: 4702
+Legacy Id: 5872
+
+Question:
+Is the M92E stylus a nude tip or a bonded tip?
+
+
+
+Answer:
+
+
+	
+		1) The stylus tip used with the M92E is bonded. It is a diamond tip bonded to a non-diamond upper piece.
+	
+		2) The bonded combination is mounted into a hole in the stylus shank using adhesive. Because there is no bushing on the shank, only a hole, this is called a nude mount.
+	
+		3) An accurate description of the M92E stylus is bonded stylus with elliptical diamond tip; nude mount to stylus shank.
+
+
+
+

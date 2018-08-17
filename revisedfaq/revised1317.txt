@@ -1,0 +1,14 @@
+Title: Using another brand handheld with my Shure receiver
+Id: 1317
+Legacy Id: 1368
+
+Question:
+I have 2 Samson handhelds wireless mics #VH2and and #SH2. I would like to know if you can change the frequency on these handhelds to match the frequency on my Shure receiver which is 182.200. At the present time l'am using a head set with my receiver.
+
+
+Answer:
+
+	Shure does not offer service on products made by other manufacturers.
+	
+	Even if the Samson transmitter matched the Shure receiver, the result would like be funny sounding audio. As a rule, a transmitter and a receiver must be made by the same company to be compatible.
+

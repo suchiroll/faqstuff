@@ -1,0 +1,12 @@
+Title: DFR11EQ and Macintosh Computer
+Id: 417
+Legacy Id: 424
+
+Question:
+I have a Mac G3 powerbook. Using your software with a windows emulator, can I control the DFR11EQ?
+
+
+Answer:
+
+	Macintosh is not a supported format for the Shure DFR11EQ, but we were able to get it to work using Soft Windows 95 and a Power Mac G3. Please let us know if you are successful. If so, we will publish (with your permission) what you did to make the Mac/DFR11EQ operate.
+

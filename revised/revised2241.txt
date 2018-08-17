@@ -1,0 +1,12 @@
+Title: Using 10 PSM 600's simultaneously?
+Id: 2241
+Legacy Id: 2322
+
+Question:
+I noticed on the PSM 600 page it says that 10 systems can be used at the same time, but it also says that each unit can be switched between two frequencies. How can you use more than two systems.
+
+
+Answer:
+
+	Each specific system can be switched between 2 frequencies. There are 5 pairs of frequencies available. So, one system might be able to be switched between 626.475 & 632.550. The second system might be able to be switched between 629.975 & 634.775.
+	When you purchase a system, you must decide which of the 5 pairs of frequencies you want. If you were to purchase 2 systems on each frequency pair, that would be 10 total frequencies, all of them compatible with each other.

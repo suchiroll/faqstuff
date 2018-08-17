@@ -1,0 +1,13 @@
+Title: Meaning of  'ERROR 1' on U4D Display
+Id: 25
+Legacy Id: 25
+
+Question:
+Please tell me the meaning "ERROR 1" on my U4D LCD display.
+
+
+Answer:
+
+	When ERROR 1 is displayed in the LCD panel of a U series wireless, it means that during power up a problem was detected in the software that controls the receiver. Usually, you can press the + or the - buttons to make the ERROR 1 message go away and continue using the system without any performance degradations. If the problem found affects the operation system of the receiver, the ERROR 1 message will not go away when you press the buttons. In either case, the receiver should be sent to a Shure service department to be repaired. There is no field solution for this problem.
+	
+

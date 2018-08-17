@@ -1,0 +1,16 @@
+Title: Motiv MVi audio output routing with iPhone
+Id: 4814
+Legacy Id: 6000
+
+Question:
+I've been using my MVi as a guitar input to use with various guitar amp apps. Is there a way to set output to be the iPhone speakers as opposed to the headphone out on the MVi for easier plug and play monitoring?
+
+
+
+Answer:
+
+	On a PC or Mac computer, it is possible to specify the input and output devices independently.  Unfortunately, on the iPhone iOS this signal routing is determined solely by the app being used.
+	
+	An app such as Smule Sing for karaoke, retain use of the iPhone's earphone output.  Most likely, the guitar amp app uses the MVi both as the input and output device.  Unless the app itself lets you change the signal routing, you will unable able to use the phone's internal speaker.
+	
+	Note the "Mode" button on the MVi will enable / disable monitoring of the direct signal when using the 1/4" phone jack input.

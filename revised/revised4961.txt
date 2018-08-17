@@ -1,0 +1,25 @@
+Title: Model SM53, SM54, and Accessories
+Id: 4961
+Legacy Id: 6226
+
+Question:
+In the early 1970's, Shure introduced a unidirectional microphone with reduced proximity effect. I think it was the model SM53. But it also had a collection of special accessories. Please provide details on the accessories.
+
+
+Answer:
+
+	It indeed was the model SM53 and its sibling, the model SM54. See the catalog pages attached below as a PDF file.
+	
+	The SM54 was identical to the SM53 except it had a larger windscreen/pop filter. In 1973, the SM53 had a U.S. retail price of $171.00; the SM54 was $181.20.
+	
+	There were seven accessories created for the SM53:
+	A53B: 8.75 inch boom arm assembly; used on movie production and television production booms
+	A53C: 18 inch vibration isolating cable, XLR female to XLR male; an extremely flexible cloth covered cable
+	A53E: 20 inch boom extension pipe; used with A53B
+	A53G: replacement metal grill for SM54; converts the SM53 into the SM54
+	A53M: air-filled, rubber doughnut, vibration isolation mount
+	A53WS: two-piece foam windscreen set; smaller foam ring fits over the rear-entry ports near the XLR connector
+	S53P: low-profile mic stand to utilize the SM53 as a boundary microphone located on a stage apron
+	
+	By 1985, the SM53 and SM54 were discontinued. The final U.S. retail price for the SM53 was $325; the SM54 was $346.
+

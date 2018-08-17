@@ -1,0 +1,11 @@
+Title: BG 5.0 or BG 5.1 Replacement Grill
+Id: 2966
+Legacy Id: 3094
+
+Question:
+What is the part number for a replacement grill?
+
+
+Answer:
+
+	The Shure part RPM324G will fit the BG 5.0 or BG 5.1. This replacement grill does not have a green stripe like the original grill for the BG 5 series.

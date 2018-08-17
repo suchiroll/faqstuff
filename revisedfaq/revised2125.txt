@@ -1,0 +1,12 @@
+Title: Step-up Transformer or Mic-Preamp
+Id: 2125
+Legacy Id: 2194
+
+Question:
+I'm a leadman on a budget (imagine that !) for at home recording/jamming/creating I would plug my soon to be purchased SM58 into my Marshall head. Is a "Cheap" mic-Preamp a better "go-thru" to the amp (sound quality wise) , or can I get away with the Mic-transformer-amp combo.
+
+
+Answer:
+
+	We suggest a good quality step-up transformer, like the Shure A95UF. It is a better choice than a preamp and will be quieter. There are less expensive transformers, but audio quality typically suffers.
+

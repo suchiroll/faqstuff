@@ -1,0 +1,27 @@
+Title: Plosive issues in Baptist Church Lectern
+Id: 3363
+Legacy Id: 3547
+
+Question:
+Baptist Church:
+
+Complaint: They have 2 MX418SC mics on lectern. P's  T's are distorting. I am going there to look at the problem.
+
+Mics go into CH1  2 of a Soundcraft Series 2 (24 channel) live mix board.
+
+I will look at things like mic position and board gain settings. They do not have any other processing on the inputs of these mics. There are DBX DR260 processors on the output side, but I don't see solving this problem there - they don't complain about any other inputs.
+
+Could you provide some thoughts on what else may help - input processing?, Mic Pre?
+
+
+Answer:
+
+	1) If the gain-before-feedback margin is sufficient, change the mic element to the R183B omnidirectional element. An omni element is nearly plosive-proof.
+	
+	2) If a directional element is necessary because of gain-before-feedback, install the A99WS foam ball windscreen.
+	
+	3) The R183B and the A99WS will be nearly 100% plosive-proof.
+	
+	4) Mic preamps or processing will change little. The plosive must be reduced at the source: please read this:
+	Why should I use an omnidirectional microphone?
+

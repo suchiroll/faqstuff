@@ -1,0 +1,26 @@
+Title: Shorten the MX202 or MX391 cable?
+Id: 3286
+Legacy Id: 3449
+
+Question:
+The MX202 microphone comes from the factory with a 30-foot cable and an attached connector. Can I shorten the cable for my application?
+
+
+Answer:
+
+	In late 2006, the MX202 and MX391 microphone preamplifier (model RK100PK) electronics have been redesigned to eliminate interference from GSM devices, including cell phones and personal digital assistants. The new design is designated as RF Immune on the package label.
+	
+	As part of the radio frequency shielding design, the TA4F connector at the end of the microphone cable is a special design that provides significant shielding against GSM signals. The new TA4F connector prevents undesired RF signals from entering the in-line preamplifier, where they can be detected and result in audible interference. The connector is a single use item. Because it is a crimp-on type connector, it cannot be removed and reused.
+	
+	Here are some suggestions for shortening the MX202/MX391 microphone cable:
+	
+	1. The first recommendation is to not remove the special TA4F connector or cut the cable to length. Instead, neatly coil up the excess microphone cable, secure it with 2 or 3 nylon cable ties - flattening out the coil, and hide it in an inconspicuous location.Bundling the extra cable length will not degrade theperformance of the microphone.
+	
+	2. If it is necessary to shorten the cable, a replacement RF immune TA4F connector will be available from the Shure parts department, with estimated availability in early 2007. The connector will require a standard crimping tool. Instructions will be available for proper installation.
+	
+	3. If reduced GSM immunity is acceptable, a standard TA4F connector can be used to re-terminate the microphone cable. These can be obtained from Shure (model WA330) or an electronics parts supplier. If this avenue is chosen, the microphone cable to connector wiring is:
+
+	Shield  terminate to cable strain relief piece (do not use pin 1  the shield must terminate to the connector body, not pin 1);
+	Red wire  connect to pin 2;
+	Black wire  connect to both pins 3 and 4.
+

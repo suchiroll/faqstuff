@@ -1,0 +1,11 @@
+Title: Beta 58 black grille for wired or just wireless?
+Id: 2041
+Legacy Id: 2106
+
+Question:
+I was wondering if the black grille made for the Beta 58 wireless handheld would be able to be fitted upon a Beta 58 wired microphone? I would think so, but just want to double check before I order one.
+
+
+Answer:
+
+	Yes, it will fit.

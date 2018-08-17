@@ -1,0 +1,16 @@
+Title: SB900 Life Cycles
+Id: 4030
+Legacy Id: 4440
+
+Question:
+What is Shure's estimate on how many times a SB900 battery pack can be recharged?
+
+
+Answer:
+
+	An accurate estimate is elusive as it depends upon multiple variables, such as storage temperature, storage capacity, actual usage, etc. Shure estimates that a single SB900 may have a maximum of up to 500 pro-rated cycles.
+	
+	One full cycle is the complete dischargeof the SB900, followed by complete charge to full. As an example: the SB900 has a expected battery life cycle of about 12 hours. If the SB900 is used for 4 hours, then charged charged to full after each 4 hour use, it would take 3 usages to equal a 1 full cycle. 4 hours times 3 uses = 12.
+	
+	A Shure customer reports using the SB900 for 170 hours of operation and the battery indicates a health rating of 97%.
+

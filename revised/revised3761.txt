@@ -1,0 +1,11 @@
+Title: A1K Anti-Roll Accessory
+Id: 3761
+Legacy Id: 3997
+
+Question:
+Does Shure offer an accessory that will stop a handheld transmitter from rolling when placed on a table top?
+
+
+Answer:
+
+	Yes, the accessory is an A1K and it is made from a flexible plastic material.  It fits over the wireless transmitter handle and provides flat surfaces that inhibit the transmitter from rolling.  The A1K can placed anywhere on the transmitter handle, including near the end to prevent the user's hand from covering the antenna

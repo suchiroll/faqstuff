@@ -1,0 +1,23 @@
+Title: Export or delete multiple files from Motiv
+Id: 4863
+Legacy Id: 6051
+
+Question:
+Can I export or delete multiple files in the Motiv app?
+
+
+Answer:
+
+	As you view My Recordings, there is a Select option at the top left of the screen.
+	
+	
+	
+	Once you select multiple files, you will be able to export or delete them as a group using the icons at the bottom of the screen.
+	
+	
+	
+	
+	
+	
+	Be cautious while using this screen!Even though the app will ask for confirmation ofthe operation, it is still possible to delete files inadvertently.There is no method to recover deleted files in the Motiv app.
+

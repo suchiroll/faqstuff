@@ -1,0 +1,27 @@
+Title: Using both outputs on the UT4 simultaneously
+Id: 1976
+Legacy Id: 2039
+
+Question:
+I would like to use a UT4 Diversity Receiver with a lavalier mic to simultaneously provide output to an amplifier and provide output to an Olympus DS2000 handheld digital recorder. The intent is to provide signal to the house sound system while simultaneously making a digital recording of the presentations I make.
+
+
+1. Are both the XLR audio output and 1/4" phone jack audion output connectors "hot" at the same time?
+
+
+2. The Olympus recorder has a mini-plug input for an external mic. Considering the output signal strength of the UT4 receiver can I just find a supplier for a cable betweeen the receiver and the recorder or should there be a transformer or other unit between the receiver and the recorder? The Olympus spec. sheet says the 3.5 mm mini-jack impedance is 2 k.The built in mic on the recorder has an input level of -70dBv.
+
+
+Would the answers to the above questions be different for the UC4 receiver?
+
+
+Thank you very much.
+
+
+Answer:
+
+	1. Yes, both outputs are live all the time.
+	
+	2. Either output of the UT4 (XLR or 1/4" jack) will properly drive the input of the Olympus. You may have to adjust the output level of the UT4 receiver (using its volume control) to make certain the Olympus input is not overloaded. Use the MIC level output setting on the UT4. Switch to LINE level only if the MIC level signal is not strong enough. 
+	
+	The answers are the same for the UC4.

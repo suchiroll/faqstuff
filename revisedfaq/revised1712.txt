@@ -1,0 +1,25 @@
+Title: Shure 450 and Yaesu FT-100D mic wiring.
+Id: 1712
+Legacy Id: 1771
+
+Question:
+Can you help me please with the following pinouts for my Yaesu FT-100D radio, I will give you as much info as I can find in the radios manual. Microphone impedance is 200 ohms to 10k ohms. The radio takes a telephone type connector 'RJ' 6 pin were as pin#1:SW-1, pin#2:MIC IN, pin#3:GROUND, pin#4:+9v, pin#5:NC, pin#6:SW-2.
+
+
+I do not trust myself as this is a expensive radio and I have the DATA sheet for the 450 which shows for the switch in 'high' impedance, the 'WHITE' is 'HOT', the 'GREEN cable and SHIELD' are for the 'AMPLIFIER or CHASSIS' ground, (I do not use a amp), and finally the 'RED' and 'BLACK' are for the 'ext RELAY' or 'SWITCHING'.
+
+
+I do not think it is too hard but I have not wired a desk mic before. Any information would be appreciated.
+
+
+Answer:
+
+	We suggest you try the following wiring:
+	
+	1. Set the mic impedance switch to "Low".
+	2. Connect the white wire to pin 2.
+	3. Connect the green wire and shield to pin 3.
+	4. Connect the red wire to pin 1.
+	5. Connect the black wire to pin 6.
+	
+	If this doesn't work properly, the mic will not be damaged nor will the radio.

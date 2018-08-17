@@ -1,0 +1,13 @@
+Title: Beta 87A cartridge on T2 transmitter
+Id: 1620
+Legacy Id: 1677
+
+Question:
+I have a T2 wireless transmitter with SM58 mic head. I'm quite unhappy with the proximity effect, and I'm planning on purchasing another mic head. I read that the Beta 87A virtually has no proximity effect, is this true? Can I buy a Beta 87A cartridge, and screw it on to my T2? I read that it is a condenser mic, in need of phantom power. Can the my T2 handle this cartridge?
+
+Answer:
+
+	The Beta 87A also has proximity effect. Any unidirectional microphone has proximity effect. Omnidirectional microphones do not have proximity effect.
+	
+	If you still wish to try it, the Beta 87A wireless cartridge (model RPW120) will work on the T2 transmitter.
+

@@ -1,0 +1,11 @@
+Title: UC Series Receiver IF Bandwidth
+Id: 853
+Legacy Id: 879
+
+Question:
+I am setting up a computer controlled scanner for diagnosing interference problems with an 8 channel UC series system.  I would like to match the scanner parameters as close as possible to the UC receiver.  What is the IF bandwidth on the UC receivers?
+
+Answer:
+
+	The UC IF bandwidth is 280 kHz.
+

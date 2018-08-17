@@ -1,0 +1,11 @@
+Title: A56D Drum Mount Lock Nuts
+Id: 3559
+Legacy Id: 3765
+
+Question:
+The User Guide for Microphone Drum Mount A56D doesn't show where to install Lock Nuts 31A1857 and 31B1770. Where do they go?
+
+
+Answer:
+
+	The lock nuts are used on the threaded portion - printed on the side of this portion is "Shure A56D".   The lock nut is used to position/lock the plastic mic holder that is threaded onto the A56D.For example, the Shure SM57 is supplied with a plastic mic holder that screws onto a mic stand or onto the A56D.

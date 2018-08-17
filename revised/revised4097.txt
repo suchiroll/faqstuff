@@ -1,0 +1,25 @@
+Title: ULX-D and QLX-D Automatic Gain Ranging
+Id: 4097
+Legacy Id: 4683
+
+Question:
+Please describe Automatic Gain Ranging on the ULX-D and QLX-D.
+
+Answer:
+
+	ULX-D and QLX-D utilize digital radio transmission that provides superb audio quality and robust RF performance.Among the unique features is Automatic Gain Ranging - a most useful function for the user. In the world of wireless microphones, the audio input source can present a wide range of signal levels that must be handled by the transmitter.This includes soft spoken talkers to strong vocalists to high output instruments, like guitars with active electronics.When setting up a wireless microphone transmitter, it is necessary to adjust the incoming electronic signal level of audio source to match the radio system electronics.Proper level adjustment provides the best transmission quality.
+	
+	The available dynamic range of a wireless microphone depends on multiple factors, including: 1) the type of modulation, e.g. FM, 2) permitted usable signal bandwidth, and, 3) any special processing that may be employed, e.g. audio companding.In 2012, high-quality wireless microphone systems provide around 100 dB of dynamic range.For good fidelity, typical audio program material requires about 60-70 dB of dynamic range, plus some margin of error.If the gain structure is not set correctly, one risks the chance for overdriving the radio section of the wireless microphone system, resulting in distortion; or in under-driving the radio section, resulting in a poor signal-to-noise ratio.
+	
+	Proper setting of the transmitter gain is essential for optimal audio quality.With analog FM systems, this task requires manually adjusting the gain of the transmitter to match the audio source.This generally works well, however adjustments are made before the show/event and it can take some time.But what happens if the level of the sound source changes unexpectedly during the show?The wireless transmitter is on stage and generally cannot be adjusted during a show/event.
+	
+	Enter Automatic Gain Ranging.This new feature simplifies the audio gain structure set-up.The microcontroller brain in the ULX-Dand QLX-D automatically adjusts the gain structure to match the audio source; this providesthe best signal-to-noise performance.It also eliminates the need for the user to make adjustments on the transmitter.
+	
+	The ULX-D transmitter and the QLX-D transmitter, bodypack or handheld, utilize a matched dual audio chain, one path with higher gain and the other path with lower gain.The high gain path and the low gain path overlap to provide a total dynamic range exceeding 120 dB.The micro controller in the transmittertransparently chooses the high gain path or the low gain path depending on the input signal level, resulting in optimized signal-to-noise ratio.
+	
+	As the radio transmission is digital, the audio program is delivered to the ULXD / QLXD receiver with utmost accuracy.At the receiver, the digital transmission is decoded back to analog for delivery to the sound system.The receivers analog audio electronics provide a smaller usable dynamic range, so a gain control is provided at the receiver to optimize the audio program in the audio output stage.
+	
+	This unique gainarchitecture may be viewed as providing a radio channel equivalent to a wired cable connection.Thus, it is possible to move the manual gain adjustment from the transmitter to the receiver.The sound system operator can now adjust the system gain on the receiver during a show/event, without having to touch the transmitter.
+	
+	There are some musical instruments that have extremely high output levels; an example is a guitar with active electronics.In most situations, the Automatic Gain Ranging will handle such an instrument without needing to attenuate the signal at the transmitter.
+

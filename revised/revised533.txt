@@ -1,0 +1,11 @@
+Title: FP11 line preamp self noise
+Id: 533
+Legacy Id: 544
+
+Question:
+I've recently purchased a pair of the Shure FP11 mic line preamps. I've noticed self noise (hiss, static) added to the mix. Currently, I am running a pair of condenser mics through the FP11's into a Sony DAT deck. I have troubleshot the cables, equipment, etc. and have found that this interference is coming from the FP11. Any ideas of ways to remedy this problem?
+
+
+Answer:
+
+	Being an older design, the FP11 would need to be completely redesigned to lower its self noise.   Sound Devices is a company that sells a low noise preamp, like the FP11.  The model is MP-1.

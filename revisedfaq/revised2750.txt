@@ -1,0 +1,20 @@
+Title: Five pin XLR for a stereo microphone
+Id: 2750
+Legacy Id: 2856
+
+Question:
+What are the pin connections from a stereo mic to a 5 pin XLR?
+
+
+Answer:
+
+	There is no audio industry standard.
+	
+	On the Shure VP88, it is:
+	
+	pin 1 - shield
+	pin 2 - left audio +
+	pin 3 - left audio -
+	pin 4 - right audio +
+	pin 5 - right audio -
+

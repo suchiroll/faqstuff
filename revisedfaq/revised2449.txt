@@ -1,0 +1,11 @@
+Title: N44G stylus into a M44-7 cartridge body
+Id: 2449
+Legacy Id: 2544
+
+Question:
+I just wanted to know if I can put an N44-G replacement stylus on my M44-7 cartridge? Basically, I have the M44-7 and I want to try the sound output of the N44G. Can I try this with just replacing the stylus and not the whole cartridge?
+
+
+Answer:
+
+	The N44G replacement stylus will fit the M44-7 body.

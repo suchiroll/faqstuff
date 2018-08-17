@@ -1,0 +1,18 @@
+Title: DFR22 Software and Windows 7 & Windows 8
+Id: 4664
+Legacy Id: 5831
+
+Question:
+Is the DFR22 compatible with Windows 7 and Windows 8 operating systems?
+
+
+
+Answer:
+
+	As of June 1, 2015:
+	
+	Shure Software Quality Assurance tested DFR22 software using Windows 7, Windows 8, and Windows 8.1. The tests were successful. DFR22 software is compatible with Windows 7, 8, and 8.1 operating systems.
+	
+	Windows Server 2012 is a variation of Windows 8, thus it should be DFR22 friendly, though it has not been tested.
+	
+

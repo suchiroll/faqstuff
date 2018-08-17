@@ -1,0 +1,13 @@
+Title: Headset computer mic has buzz
+Id: 340
+Legacy Id: 347
+
+Question:
+Hi!, I use a headset on my computer, listening is mostly fine (quite hum unnoticeable really)...but mic has a moderate buzz, High pitched and about a fourth of speech volume when recording or on chatlines...if I put my hand on the boom wires or mic head buzz gets deeper and louder...same applies to jack plug end. The specs are the same as typical multimedia requirements...how is the buzz caused and can I "earth" the noise away?
+
+Answer:
+
+	Please inform us which Shure product is causing this problem. To be precise, our answer must be product and model specific.
+	
+	If the problem is not being caused by a Shure product, I suggest you investigate the website: www.us-epanorama.net There will likely be information there for you to use.
+

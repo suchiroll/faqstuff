@@ -1,0 +1,268 @@
+Title: Batteries and wireless microphones
+Id: 244
+Legacy Id: 250
+
+Question:
+What type of battery should I use with my wireless microphone? Can I use a rechargeable battery with my wireless mic?
+
+Answer:
+
+	Batteries and Wireless Microphones
+
+	Benjamin Franklin first coined the term battery during his famous electrical experiments. Then around 1800, Alessandro Volta, a professor of natural philosophy at the University of Pavia, developed the first apparatus known to produce continuous electricity. Voltas name was later used to describe the potential of these cells: the volt.
+	
+	Since batteries are an expendable item, users are always trying to find cheaper, better alternatives. In the audio industry, wireless microphones are one of the top users of batteries. This article answers many of the common questions and explains how and why things operate the way they do.
+
+
+	Battery Chemistry
+
+	
+	
+	Batteries are devices that convert chemical energy into electrical energy. They are composed of cells. Cells are composed of a cathode and an anode immersed in an electrolyte. The different types of cells, such as alkaline, Nickel Cadmium (Ni-Cd), Nickel Metal Hydride (Ni-MH), all use these 3 components, but use different materials for the components. Batteries can be made up of a single cell or multiple cells.
+	
+	The different battery types produce different voltages per cell, depending on their chemical reactions. For instance, an alkaline battery produces 1.5 volts per cell, and Ni-Cd batteries produce 1.2 volts per cell. For a AA or AAA battery, just a single cell is used per battery. For a 9 volt battery, 6 alkaline cells are used, wired in series.
+	
+	Cells can be separated into two groups. Primary cells are one time use only, such as most alkalines and the old Zinc/Carbon type. Secondary cells are types that can be recharged, such as Ni-Cd, Ni-MH, and Lithium Ion (Li+). There are many more battery types, but this paper will only discuss the common ones applicable to wireless microphones.
+
+
+	Battery Capacities
+
+	The most important specification for a battery is the capacity. The capacity is measured in mAh, i.e. current (specified in milli-amps) multiplied by time (specified in hours). If you know how much current a device takes to operate, it is possible to determine how long a battery will last.
+
+	
+
+
+	The table below gives typical capacities of popular AA batteries.
+
+	
+		
+			
+				
+					
+						
+							
+								Non-Rechargeable Type
+							
+								mAh
+						
+						
+							
+								Alkaline
+							
+								1200
+						
+						
+							
+								Lithium
+							
+								3000
+						
+					
+				
+			
+			
+				
+			
+				
+					
+						
+							
+								Rechargeable Type
+							
+								mAh
+						
+						
+							
+								Ni-Cd
+							
+								600-1000
+						
+						
+							
+								Ni-MH
+							
+								1700-2500
+						
+					
+				
+			
+		
+	
+
+
+	The table below gives typical capacities of popular 9V batteries.
+
+	
+		
+			
+				
+					
+						
+							
+								Non-Rechargeable Type
+							
+								mAh
+						
+						
+							
+								Alkaline
+							
+								500
+						
+						
+							
+								Lithium
+							
+								1200
+						
+						
+							
+								Carbon Zinc
+							
+								300
+						
+					
+				
+			
+			
+				
+			
+				
+					
+						
+							
+								Rechargeable Type
+							
+								mAh
+						
+						
+							
+								Li+
+							
+								500
+						
+						
+							
+								Ni-Cd
+							
+								120
+						
+						
+							
+								Ni-MH
+							
+								150
+						
+					
+				
+			
+		
+	
+
+
+	
+		Note: The capacity of alkaline batteries changes with current draw, thus you might see other sources with a different capacity for alkaline batteries. The capacitylisted above is for the typical current draw of a wireless microphone transmitter.
+
+
+
+	Rechargeable Batteries
+
+	Many people want to use rechargeable batteries with wireless systems. Rechargeable AA batteries tend to work quite well in wireless microphones.
+	However, there are downsides to using certain types of rechargeable 9 volt batteries.
+	
+	The first problem is the low capacity of Ni-Cd and Ni-MH 9 volt batteries. Ni-Cd and Ni-MH 9 volt batteries will last 1/4 of the time that an alkaline battery would. So, if your wireless bodypack lasts 8 hours with an alkaline battery, it would only last 2 hours with a Ni-Cd or Ni-MH 9 volt rechargeable battery.
+	
+	The second problem is the voltage or rechargeable 9 volt batteries. Unfortunately, although batteries are packaged in the 9 V size, they may not have a potential of 9 volts. Obviously, batteries that are the 9 V size contain multiple cells. Since alkaline cells are 1.5 V, it takes 6 cells to make one 9 V battery. Six Ni-Cd cells (1.2 V per cell), though, are only 7.2 V. It is possible to get a 9 V sized Ni-Cd with 7 or 8 cells to make 8.4 or 9.6 V respectively. This shows that when looking at batteries, attention must be paid to their actual voltage, not just their physical appearance. Wireless transmitters like to see 9 V, so the 7.2 V rechargeables are generally not acceptable. Also, the 9.6 volts of an 8 cell battery can be too much for a wireless transmitters.
+	
+	The latest secondary cell is the rechargeable alkaline. The rechargeable alkaline is a good choice for a rechargeable battery. Unfortunately, no 9 volt version is available yet. While its initial capacity is within 10 percent of a standard alkaline, the discharge capacity fades with each cycle, with the majority of the fade occurring in early cycles.
+	
+	The best choice for a rechargeable 9 volt battery is the Lithium Ion. This type or rechargeable battery has a similar capacity and discharge when compared to the alkaline.
+	
+	AA rechargeable batteries can often have a larger capacity than their alkaline equivalent, making them an excellent choice. The Lithium non-rechargeable AA battery will last about twice as long as an alkaline for those events that need extended battery time.
+
+
+	Charging Rechargeable Batteries
+
+	If treated properly, secondary cells can be discharged and recharged hundreds of times and last many years. By far, the largest reason that rechargeable batteries fail to hold their charge is abuse. The largest cause of abuse is improper charging techniques. Books can and have been written about the charging techniques of secondary cells, so the information provided here will be an overview.
+
+
+	Memory Effect
+
+	First, the term memory effect needs to be addressed. Most people incorrectly use the term memory effect. Memory effect is also synonymous with voltage depression. Memory effect is a temporary decrease in capacity. Note that it is temporary. The best explanation for voltage depression is from an article about Ni-Cd batteries by Ken Nishimura, University of California, Berkley.
+	
+	Let us define memory as the phenomenon where the discharge voltage for a given load is lower than it should be. This can give the appearance of a lowered capacity, while in reality, it is more accurate to term it voltage depression.
+	
+	Originally, memory effect was seen in spacecraft batteries subjected to a repeated discharge/charge cycle that was a fixed percentage of total capacity (due to the earths shadow). After many cycles, when called upon to provide the full capacity, the battery failed to do so.
+	
+	Memory can be attributed to changes in the negative or cadmium plate. Recall that charging involves converting Cd(OH) to Cd metal. Ordinarily, and under moderate charging currents, the cadmium that is deposited is microcrystalline (i.e. very small crystals). Now, metallurgical thermodynamics states that grain boundaries (boundaries between the crystals) are high energy regions, and given time, the tendency of metals is for the grains to coalesce and form larger crystals. This is bad for the battery since it makes the cadmium harder to dissolve during high current discharge, and leads to high internal resistance and voltage depression.
+	
+	The trick to avoiding memory is avoiding forming large crystal cadmium. Very slow charging is bad, as slow growth aids large crystal growth. High temperatures are bad, since the nucleation and growth of crystals is exponentially driven by temperature. The problem is that given time, cadmium crystals will grow, and thus, the material needs to be reformed. Partial cycling of the cells means that the material deep within the plate never gets reformed. This leads to a growth of the crystals. By a proper execution of a discharge/charge cycle, the large crystal cadmium is destroyed and replaced with a microcrystalline form best for discharge.
+	
+	This does not mean that the battery needs to be cycled each time it is used. This does more harm than good, and unless it is done on a per cell basis, the cells risk being reversed and that really kills them. Perhaps once in a while, use the pack until it is 90% discharged, or to a cell voltage of 1.0 V under light load. Here, about 95% of the cells capacity is used, and for all intents and purposes, is discharged. At this point, recharge it properly, and thats it.
+	
+	The accompanying graph shows an experiment that Duracell performed on a Ni-MH cell. In cycle #1, the cell was discharged to 1.0 V then recharged. In cycles #2-#18, the cell was discharged to 1.15 V and then recharged. In the graph, it is apparent that cycle #18 had less capacity than cycles #1-#2. In cycles #19-#21, the cell was discharged completely to 1.0 V before recharging. The graph shows that after a couple full discharge/charge cycles, the cell returned to its normal capacity. This clearly shows that voltage depression is a temporary characteristic.
+
+
+
+	Charging Techniques
+
+	Basically, there are two charging techniques: constant voltage and constant current. Lead acid batteries use constant voltage sources. Ni-Cd and Ni-MH use constant current sources. Li Ion use constant current for most of the charge and then switch to constant voltage for the last period. Li Ion is by far the pickiest about its charging. This means that manufacturers must take more care when developing the batteries and chargers. Ironically, this makes the Li Ion batteries harder to abuse because the batteries and chargers are more intelligent. The main criteria for effective charging are choosing the appropriate rate, limiting the temperature, and selecting the appropriate termination technique. If a secondary cell does not last for hundreds of discharge-charge cycles and many years, it was most likely abused in charging. Overcharging is where the most damage is done to the battery.
+	
+	There are many ways to determine when to stop charging a cell. Depending on the charge rate and type of battery, different termination techniques are used. Many times, multiple techniques are employed to guarantee proper charge termination. Common methods include (1) Timed Charge: charge the cell using low current over a set amount of time. (2) Voltage Drop: When a Ni-Cd cell is near full charge it rises sharply in voltage and then drops in voltage. The charging circuit detects this drop and stops the charge. (3) Voltage Plateau: Ni-MH does not have a very pronounced voltage drop, so instead the circuit detects the leveling off of the voltage upon full charge. (4) Temperature Cutoff: as the cell reaches full charge its temperature increases dramatically. The charging circuit terminates when the temperature of the cell reaches about 140F. (5) Delta Temperature Cutoff: measures the difference in temperature from start to end. The circuit would stop charging when the temperature is about 27F higher than the start temperature. This minimizes ambient temperature problems that the standard temperature cutoff exhibits. (6) Rate of Temperature Increase: measures how fast the temperature increases. If fast charging, the charger will stop when the rate of increase is about 1.8F per minute. This also helps minimize ambient temperature effects. Note that some of these termination methods are better for Ni-Cd cells and some are better for Ni-MH cells. For more information, see Duracells paper on Ni-MH batteries available on their web site.
+	
+	The life of a secondary cell can easily be up to 500 cycles. If a battery does not hold a charge after 50 or so cycles, it is not because of memory effect. It is because of a breakdown of some component of the battery, usually caused by abuse. Operation or storage at extreme temperatures, overcharging, cell venting and abusive use will reduce battery life. When a cell is overcharged excessively, exposed to extreme high temperatures, or otherwise abused, gas builds up in the cell. This excess pressure is released through a safety vent that is designed into the cell. Heat and overcharging are a rechargeable batterys worst enemies.
+
+
+	Battery Physical Size
+
+	Besides different voltages in batteries, batteries can also have different physical dimensions. This is true of both AA and 9 volt batteries. The dimensions of batteries can easily vary by over 1/16. While that may not sound like much, 1/16 can be a 13% change in the dimension of the battery. To the mechanical engineer that is designing the battery compartment, it makes a world of difference. Typically, the rechargeables are larger. There have been instances where battery compartments were too small to fit the larger batteries.
+
+
+	Battery Discharge
+
+	Of course every wireless transmitter will have a different battery life depending on the current draw of the circuit. There is one difference in circuit design, though, that can largely effect battery life: crystal controlled vs. frequency synthesized. Crystal controlled and frequency synthesized are the two circuit types that are used to create an RF frequency
+
+
+	Crystal controlled
+
+	The circuit design for a crystal controlled system is fairly simple and uses a minimum amount of components. This design is fairly efficient in operation so battery life can be quite long. The disadvantage to this method is that the system is limited to a single frequency.
+
+
+	Frequency Synthesized
+
+	Frequency synthesis circuits can produce many frequencies from a single reference crystal, allowing for multiple operating frequencies. Since the frequency synthesis circuit is more complex, the components used draw more current and therefore shorten the battery life of the transmitter.
+	
+	As electrical component manufacturers develop more efficient components, the battery life of these two circuit designs will grow closer together. The graph shows a crystal controlled UT transmitter versus a frequency synthesized UC system, both 9 volt powered transmitters.
+
+
+	Which Battery to Use
+
+	Many times the Applications Engineering Department at Shure is asked for battery recommendations. The accompanying graph of a UT transmitter helps summarize the performance of different 9 volt batteries with wireless microphones.
+	
+	The first battery on the graph is an alkaline type. The 9 volt alkaline battery is the best battery for the job. It provides very good performance time along with decent voltage levels for a minimal amount of money. Alkaline batteries are the recommended choice for nearly all wireless systems and applications. There are other batteries, such as Lithium, that will last longer, but cost much more.
+	
+	The second battery on the graph is an 8.4 volt version of a Ni-MH battery. During its usable life, the voltage of the 8.4 battery tracks the alkaline quite well. An 8.4 volt version of a Ni-Cd would die out about 10-30 minutes before the Ni-MH did.
+	
+	The third battery shown is a 7.2 volt version of the Ni-Cd. Whether Ni-Cd or Ni-MH, 7.2 volt batteries do not have adequate performance to provide the proper voltage for the wireless transmitter. Batteries that are only 7.2 volt are not recommended for wireless systems.
+
+
+	Conclusion
+
+	By knowing the current draw of the wireless transmitter along with the capacity of the battery, it is possible to know the life of the battery. Wireless transmitters that use AA batteries, rechargeables and alkalines both perform well. For older transmitters that use 9 volt batteries, it is easy to show that rechargeable 9 volt Ni-Cd and Ni-MH batteries have a much shorter life than standard alkaline types. For this reason, 9 volt Ni-Cd and Ni-MH rechargeables are typically not well suited for wireless transmitter applications. Therefore, 9 volt alkaline batteries are the best choice because of their performance for the cost. If an application does require rechargeable batteries, use the 9 volt version of the rechargeable Li+ batteries.
+	
+	Until someone finishes Nikola Teslas experiments on wireless electricity, batteries will be a major part of our lives. Learning how to properly choose and use these batteries will make the experience as pleasant as possible.
+
+
+	
+
+	Common alkaline batteries are Duracell, Energizer, etc.
+	
+	Most drug store brand batteries are zinc-carbon. Zinc-carbon batteries are also labeled under Ever-Ready, Ray-O-Vac or most batteries that claim to be Heavy-Duty.
+	
+	Sources for rechargeable batteries:
+	iPowerUS (Li+ model DC-9V-STL-C2-TC50)
+	Plainview Batteries (516-249-2873)
+	Ansmann Energy GMBH distributed by Horizon Sound (856-582-8210)
+	
+	
+

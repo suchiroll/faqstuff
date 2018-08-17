@@ -1,0 +1,12 @@
+Title: Thread Diameter on A89M-CC, A89M-PG, A89LM-BA
+Id: 4335
+Legacy Id: 5418
+
+Question:
+What is the female thread diameter on the A89M-CC, A89M-PG, and A89LM-BA?
+
+
+Answer:
+
+	The female thread diameter is 3/8 - a standard used on boom poles. Included with each of these mounts is an adapter: 5/8-27 female thread to 3/8 male thread.
+

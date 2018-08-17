@@ -1,0 +1,14 @@
+Title: Does humidity affect the timbre of sound?
+Id: 3451
+Legacy Id: 3645
+
+Question:
+Is it possible for humidity to affect the 'sound' of your performance of the guitar or vocals? Say the recording comes back muddy, is it possible for this to happen when you are surrounded by warm-temperature? If so, what temperature should I be recording at?
+
+
+Answer:
+
+	Humidity will affect a wooden acoustic instrument or a human voice, but will have virtually no effect on a professional microphone.
+	
+	For instruments or the voice, a humidity level of 40% to 60% is considered optimal.
+

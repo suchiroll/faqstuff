@@ -1,0 +1,14 @@
+Title: RF attenuation by the human body
+Id: 3500
+Legacy Id: 3699
+
+Question:
+In talking with friends who are Broadway Engineers, they have a term for people whose body chemistry interferes with beltpacks and wireless lavs and the rf reception.Do you have any data on this or writings I could have that explain this phenomenon?
+
+
+Answer:
+
+	The human body is made up primarily of salt water.Salt water is an effective absorber of RF energy.(Submarines have to surface to send FM radio signals.)The more body fat a person has, the more RF is absorbed.Our tests show that a body pack transmitter can be 50 to 70% less effective than a handheld transmitter simply because of the antenna location being against the human body.
+	
+	Thus the reason most RF antennas in theatres are above the stage...closer to the actors wearing the body packs.
+

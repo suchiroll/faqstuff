@@ -1,0 +1,35 @@
+Title: Wireless Lapel Mic for camcorder
+Id: 2158
+Legacy Id: 2231
+
+Question:
+I live in Toronto, Ontario, Canada and I am in the market for a wireless mic for my Sony D8 camcorder for home use. My daughter sings and I would like to pick up her voice from the audience. Is the VPL/93 a good product for this or would you recommend something else?
+Also, is there a dealer in my area that carries these products?
+
+
+Answer:
+
+	Yes, the VPL/93 is a good choice. The Shure agent in Canada is: ht-tp://w-ww.shure.com/scripts/intl_reps/intlrep.asp?country=Canada
+	Now, before you buy anything, keep reading:
+	
+	ht-tp://w-ww.shure.com/booklets/intro/intro_to_wireless.html
+	
+	What specifications determine if a Shure wireless microphone will properly operate with your camcorder or your tape recorder or your radio or your computer sound card or your anything!
+	
+	Shure is often asked Will wireless microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a wireless microphone, it is an impossible task. So for us to help you select the proper wireless microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the wireless microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the wireless microphone model. If you select a wireless microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a wireless microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the wireless microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen wireless microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a wireless microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the wireless microphone model. If you select a wireless microphone whose impedance is lower than or equal to your devices input impedance, the wireless microphone will work if it provides the proper signal level (see #1 above). If you select a wireless microphone whose impedance is greater than your devices input impedance, the wireless microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper wireless microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the wireless microphone model. If the wireless microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the wireless microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular wireless microphone will work with your device. Shure will be happy to assist in your wireless microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+

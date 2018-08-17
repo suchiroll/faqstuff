@@ -1,0 +1,12 @@
+Title: Vocal distortion required
+Id: 1017
+Legacy Id: 1046
+
+Question:
+I have an SM58 which is perfect for normal vocal recording, but I would like to do some broken/distorted vocals. I find that using normal guitar distortion through my Marshall amp doesn't really produce the sound I want. Is there a particular Shure mic that is suited to this?
+
+
+Answer:
+
+	There are no microphones designed to sound distorted. But if you want to experiment with creating distortion, try a ShurePG81 mic. Do not use any pop filter. Sing into the mic as close as possible and as loud as possible. Set the input gain on your mixer to maximum. You will be able to create distortion, but only you will know if it is the distorted sound you are seeking.
+

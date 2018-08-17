@@ -1,0 +1,15 @@
+Title: How to power the MXW8 or MXW6 from an AC wall outlet
+Id: 4487
+Legacy Id: 5601
+
+Question:
+How can I continuously power the MXW6 or MXW8? I have an application where I need to power the mic full time using an AC wall outlet.
+
+
+
+Answer:
+
+	The MXW6 and MXW8 can be powered using the USB port. The Shure SBC-USB-A power supply will work; it is powered from an AC wall outlet.Connect theSBC power supply to the MXW mic. The MXW mic usesthe Type A USB connector.
+	
+	TheMXW mic will now be powered from the wall outlet and will not be draining the internal battery.
+

@@ -1,0 +1,12 @@
+Title: Which microphone has a push to cough switch?
+Id: 1416
+Legacy Id: 1469
+
+Question:
+I am looking for a mic that is normally on and has a press and hold switch to turn it off. This is the opposite of the Press to Talk button. The regular On/Off switch is not acceptable. The application is for an attorney table where they would hold the mic switch in order to have a private conversation.
+
+
+Answer:
+
+	Look at the Microflex series of products for models with this feature.
+

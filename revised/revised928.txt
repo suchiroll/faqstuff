@@ -1,0 +1,13 @@
+Title: KSM32 with Korg device
+Id: 928
+Legacy Id: 956
+
+Question:
+Please forgive my ignorance, but I am unable to get any signs of life from my microphone.
+
+My "mixer" for the phantom power is a Korg digital 8 track machine. Could you see any reasons that I cannot get any response or tone from the microphone?
+
+Answer:
+
+	For the KSM32 to operate, the Korg must: 1) supply 48 volts of phantom; 2) have a female XLR connector as the mic input; 3) have a mic input that is balanced and low impedance. Check with Korg to make certain all these technical requirements are met.
+

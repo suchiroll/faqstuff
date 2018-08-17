@@ -1,0 +1,15 @@
+Title: Connecting a microphone to a home hi-fi receiver
+Id: 66
+Legacy Id: 66
+
+Question:
+How can I connect a microphone to an audio receiver to record piano on a tape player/recorder?
+
+Answer:
+
+	Microphones provide a much lower audio level than other audio components. Your home audio receiver expects to see AUX level from any device that is plugged into it. Microphones only supply MIC level. There is about a 50-60 dB difference between these two levels. To plug a microphone into a home stereo receiver you need to connect the microphone to either a microphone preamplifier or a mixer. A mixer has multiple microphone preamps in it and is usually easier to find than just a preamp.
+
+	
+
+	We recommend using an SCM262 for this application. It can accept 2 microphones and has a stereo pair of RCA outputs to plug into your receiver or tape deck.
+

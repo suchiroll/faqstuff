@@ -1,0 +1,11 @@
+Title: Shure Reactance Slide Rule
+Id: 1515
+Legacy Id: 1569
+
+Question:
+I have an old Shure Brothers "product" that I still find useful. It is the RSR-1 Reactance Slide Rule. Do you still have these or know where I can get them? For those who don't know, it is a nomograph that determines resistor, capacitor, and inductor values based upon frequency requirements. I have had mine since the 1970's and it is getting a little worn out.
+
+
+Answer:
+
+	Shure has not offered the RSR-1 Reactance Slide Rule since the early 1960's. We have only one copy and it is in the Shure archives. Sorry to disappoint but no more are available.As an alternative, here is a website that can serve the same function:http://my.integritynet.com.au/purdic/electronic-basics.htmFor other online resources, search for "LC Circuits" using a favorite search engine.

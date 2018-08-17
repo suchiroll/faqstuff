@@ -1,0 +1,12 @@
+Title: Can I use three Twin Pro systems together?
+Id: 91
+Legacy Id: 91
+
+Question:
+I have a customer who wants to purchase three T188/93 Twin Pro Systems and use each in a different room. Is this feasible?
+
+
+
+Answer:
+
+	It is possible to simultaneously use any 3 of the 4 frequency sets on the Twin Pro systems. Make certain the frequencies selected are not on any active VHF TV channels in the area. In the future if more systems are required, the new systems will have to be UHF.

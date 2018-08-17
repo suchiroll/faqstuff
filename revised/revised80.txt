@@ -1,0 +1,32 @@
+Title: How do I prevent my phono cartridge from skipping?
+Id: 80
+Legacy Id: 80
+
+Question:
+I own M44-7 and M44G cartridges and very frequently when I am playing any record they skip. Is there any reasons why this is happening?
+
+
+Answer:
+
+	Finding your optimum set-up solves most skipping problems. Every DJ has a different touch, and some experimentation is required to obtain maximum results. Unfortunately, it is very difficult to diagnose specific problems remotely. Fortunately, we have collected several tips from our numerous conversations with turntablists. We hope you find these helpful.
+
+	Hi-Fi:
+
+	Install the cartridge on the headshell w/o the headshell weight. Align the cartridge so that the tip of the stylus is flush with the front of the headshell weight. Anti Skate to zero Tone arm height set level Balance the tone arm, then add 3 grams
+
+	Standard DJ:
+
+	Install the cartridge on the headshell w/o the headshell weight. Align the cartridge to the rear of the headshell slots. Anti Skate to zero Tone arm height set level Balance the tone arm, then add 3 grams
+
+	Unorthodox DJ:
+
+	Install the cartridge on the headshell with the headshell weight. Align the cartridge so that the tip of the stylus is flush with the front of the headshell weight Anti Skate to zero Tone arm height set level or slightly down 4.5-5.5 Reverse the tone arm weight Eye the weight somewhere between flush with the rear of the tone arm and halfway toward tone arm pivot joint.
+
+	M44 cartridges are stiff when you first install them. Please allow 2 weeks for break in.
+
+	Other tips
+
+	Are the records warped? Are your slip mats slippery? Are the record holes loose on the spindle? The cartridge can be angled outward (away from the spindle) 23 degrees to increase skip resistance.
+
+	Finally, does your turntable need to be calibrated? There are two screws on the tone arm pivot. The screw at the top pulls the tone arm outward as it is tightened. The screw on the side makes the vertical movement stiffer. Do not attempt to calibrate your turntable if you are uncomfortable making these adjustments.
+

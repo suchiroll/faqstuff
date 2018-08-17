@@ -1,0 +1,12 @@
+Title: P9R Battery Life and Earphones
+Id: 3818
+Legacy Id: 4056
+
+Question:
+Will the battery life for a P9R be affected by the type of earphones used?
+
+
+Answer:
+
+	Yes, as the impedance of earphones gets lower, the battery life gets shorter.Earphones with an impedance of 8 ohms will drain the battery faster that earphones with an impedance of 64 ohms. As the load impedanceapproaches0 ohms (dead short), the P9R output section draws more battery current to drive the lower impedance, thus shortening the battery life, often as much as 2 hours or more.
+

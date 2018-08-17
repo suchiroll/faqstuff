@@ -1,0 +1,21 @@
+Title: VP88 modifications?
+Id: 2424
+Legacy Id: 2518
+
+Question:
+I was told by a fellow recording engineer that there is a modification that can be done to my VP88 that will improve its performance and make it a bit more quiet. Do you guys know anything about this? I need to do some field recordings and want them better than they have been, I had thought about retiring the ol' 88 and trying out the new Rodes stereo mic or making a rig to hold my AKG C391  an AKG C3.
+
+
+Answer:
+
+	This urban myth of VP88 "modifications" can be summarized as follows:
+	 
+	In 1997, Shure Engineering built a prototype VP88. It was given to Shure endorser Tom Jung for his evaluation. This VP88 was a one-of-a-kind prototype.
+	
+	Engineering improved the output level of both VP88 elements by 3dB. This improved the mic signal/noise ratio as the mic electronics were not changed.
+	
+	New elements were constructed using 2 mil spacers (1 mil is standard) and using a polarizing voltage of 180 volts (about 120 volts is standard).
+	
+	The downside is that the bidirectional element had less low end, but the trade-off of more output and less low end was found acceptable by Tom Jung.
+	
+	This new VP88 design was never implemented in the product as the modified elements could not be manufactured consistently and the low-end trade off was not desired by the market.

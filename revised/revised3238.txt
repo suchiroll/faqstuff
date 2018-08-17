@@ -1,0 +1,13 @@
+Title: Cable shortening or replacement on E series earphones
+Id: 3238
+Legacy Id: 3388
+
+Question:
+Can I shorten or replace the cable on the E series earphones?
+
+
+Answer:
+
+	Not recommended. The cable is soldered and kevlar reinforced from the connector to the driver inside the earphone housing. Replacing the entire cable is really not an option and will void the warranty. Shortening the cable will also void the warranty but is a little more feasible if youre handy with a soldering iron. On the E500PTH the cable is just 18 inches and comes shipped with a 9 inch and 3 foot extension cable to tailor the length for a specific application. The entire cable is covered under the 2 year warranty so if you feel it is defective please click here for warranty info and to send your product in for replacement.
+	
+

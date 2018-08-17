@@ -1,0 +1,15 @@
+Title: 545 and 550S adapters?
+Id: 187
+Legacy Id: 188
+
+Question:
+I have some mics that were discontinued in the 70's.  The Shure 545 and the Shure 550S. I was wondering if I can find an adapter that would connect the three pin 550S and the four pin 545 to a regular XLR mic cable? 
+
+Answer:
+
+	There is a supplier for such cables. Contact Tom Ellis: phone - 214-328-3225; email - tomsmics@flexcomp.com
+	
+	Tom sells cables that have Amphenol connectors on the mic end and XLR connectors on the mixer end.
+	
+	Shure no longer has stock on any type of Amphenol connector, so Tom is your best source.
+

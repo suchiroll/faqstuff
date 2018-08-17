@@ -1,0 +1,111 @@
+Title: The ABC’s of Configuring a Personal Monitor System
+Id: 1658
+Legacy Id: 1715
+
+Question:
+I'm just starting to look at in the ear monitors for my band. What do I need to know in order to buy the system that is right for me?
+
+
+Answer:
+
+	En Espanol
+
+	
+
+	The ABCs of Configuring a Personal Monitor System
+
+	Recent advances in the field of personal monitoring have made it a technology that is within the reach of more performers than ever before. Though the benefits of going in-ear are numerous (see the Shure Guide to Personal Monitors), knowing what to get to make it work for you is not always readily apparent. At the very least, you should know:
+
+	
+		How many mixes your situation requires,
+	
+		Whether you want to monitor in stereo or mono,
+	
+		How many monitor mixes can be created by the mixing consoles you will be using.
+
+
+	This information directly relates to the equipment that you will need to satisfy the in-ear monitoring requirements of your band.
+
+
+	1. How many mixes do I need?
+
+	
+
+	The answer to this question depends on how many people are in your band, and their ability to agree upon what they want to hear in the monitors. A typical rock band instrumentation is drums, bass, guitar, keys, lead vocal, and two back up vocals provided by the guitar player and keyboardist. In a perfect world, everyone would want to listen to the same mix, so the answer to this question would be one mix. Of course this would defeat one of the main benefits of personal monitors, so lets assume this isnt the case (which isnt too much of a stretch). An inexpensive configuration uses two mixes, one consisting of vocals, the other of instruments. Using the dual-mono MixMode capability of Shure PSM systems, the performers individually choose how much of each mix they wish to hear (see Fig 1). This scenario is a cost effective way to get into personal monitors, yet still requires a good degree of cooperation among band members.
+
+	
+	Fig. 1 - MixMode
+
+	
+
+	Another scenario gives the drummer a separate mix (see Fig. 2). This option works well for two reasons: 1), drummers, in general, will want to hear considerably more drums in the monitors than other band members, and 2), for bands who perform on small stages the drums are so loud that they are easily heard acoustically (with no additional sound reinforcement). Therefore, drums may not even be necessary in the other mixes. So now we are up to three  the vocal mix, the instruments (minus drums), and the drummers mix.
+
+	
+
+	Up to this point, we have assumed that the vocalists are able to agree on a mix of the vocal microphones. While forcing singers to share the same mix encourages a good vocal blend, this theory commonly falls apart in practice (due to a phenomenon well call the more me syndrome). Often, separating out the lead vocalist to an individual mix will address this issue, and this can be handled in one of two ways. First, place some of the backup vocal mics in the instruments mix, and adjust the vocal mix to satisfy the lead singer, even if that means adding some instruments to the vocal mix. We now have:
+
+	
+		an individual mix for the lead singer,
+	
+		a mix for the guitarist and keyboardist that includes their vocals, and
+	
+		a drum mix (at this point the bass player can drop in wherever he/she wants, often on the drummers mix), yet we are still only using three mixes.
+
+
+	
+	Fig. 2  Three Mixes
+
+	
+
+	The second option is to create a fourth mix for the lead singer, without affecting the other three. This configuration allows the guitarist and keyboardist to retain MixMode control between their vocals and instruments, while giving the lead singer a completely customized mix. Does the bass player need a separate mix? Now you are up to five mixes. Adding a horn section? That could easily be a sixth mix. So where does it end? Well, several other factors (including your budget!) will help decide at which point you limit the number of mixes.
+
+
+	2. Do I want to monitor in stereo or mono?
+
+	
+
+	Most personal monitor systems allow for monitoring in either stereo or mono. At first glance, stereo may seem the obvious choice, since we hear in stereo, and everything else these days features stereo sound - CDs, TV, VCRs, even your computer. Stereo, by its very nature, requires two channels of audio. What this means for personal monitor users is two sends from the mixer to create a stereo monitor mix  twice as many as it takes to do a mono mix (see Fig. 3). Stereo monitoring can rapidly devour auxiliary sends; if your mixer only has four sends, you can only create two stereo mixes, versus four mono.
+
+	
+
+	While not quite as realistic as stereo monitoring, mono allows more mixes from a smaller mixing console, as well as fewer transmitters.Every Shure stereo PSM transmitter can be operated in stereo or MixMode, which provides two mono mixes instead of one stereo. This capability can be a great way to save money.
+
+	
+	Fig. 3 - One Stereo Mix
+
+
+	3. How many auxiliary sends are available?
+
+	
+
+	Monitor mixes are typically created using auxiliary sends from a mixer, either the front-of-house (audience) console, or a dedicated monitor console if its available. A typical small-format console will have at least four auxiliary sends. Whether or not all these are all available for monitors is another matter. Aux sends are also used for effects (reverb, delay, etc.). At any rate, available auxiliary sends are the final determinate for the number of possible monitor mixes. If your answer to question 1 is greater than the answer to question number 3, you have two options: reconfigure your monitor mixes to accommodate the mixer, or get a new mixer. Keep in mind that if you dont have a mixer and rely on the equipment supplied by the venues where you play, be prepared to deal with the number of monitor mixes they are equipped to provide.
+
+	
+
+	
+
+	
+		
+			
+				
+					The PSM Equation:
+				
+				
+					Stereo: Number of transmitters = number of desired mixes
+					(ex. 4 stereo mixes requires 4 transmitters)
+				
+				
+					Mono: Number of transmitters = number of desired mixes
+					 2
+					(ex. 4 mono mixes requires 2 transmitters)
+				
+				
+					Number of receivers = number of performers
+			
+		
+	
+
+
+
+	The possible configurations for personal monitoring are limited only by your imagination. The examples presented here should give you a good starting point. Once you are up and running, you will quickly discover what works well for your particular situation  and the system can be modified accordingly.
+

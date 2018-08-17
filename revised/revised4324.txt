@@ -1,0 +1,16 @@
+Title: MXW Demonstration Procedure
+Id: 4324
+Legacy Id: 5404
+
+Question:
+Recently, I was on site with a 20 channel MXW system for a demo. The MXWAPT8 could not find one of the MXW chargers that was connected . The charger showed up in the MXWAPT Utility page as "Other" - meaning it had been associated with a different MXWAPT at some point. I did a factory reset on the charger (Power Up while holding Link for 10-12 seconds, then letting go). But the charger still wasn't showing up in the Configuration drop down to be assigned to the APT.
+
+There used to be a DHCP device on the network, so I then looked back in the discovery app and saw that when the DHCP device was removed, the MXWANI retained a 192.x.x.x address from it. So, the next step was power-cycling the ANI so that it joined the same local network.
+
+Last, when the MXWANI was still not showing up as a selectable device in the drop-down, I also noticed in the Utility page that the MXWANI was there, but was in group "Other" - meaning it also used to be associated with another MXWAPT, perhaps from another demo. The final step was to factory reset the MXWANI so that it was considered an "Open" device to the intended new configuration. Once we did that, the MXWAPT could select it. Comments?
+
+
+Answer:
+
+	The recommended practice for every new MXW demo is to factory reset every MXW device. This assures starting from a known state. Also, the auto-association only works with open devices that are not associated to other MXW devices. Doing a factory reset will allow a demostration of the auto-association feature.
+

@@ -1,0 +1,34 @@
+Title: Which television stations should I avoid when using a wireless microphone?
+Id: 365
+Legacy Id: 372
+
+Question:
+Why do I hear about TV channels when discussing frequencies for wireless mics?
+
+Answer:
+
+	Many professional wireless microphones use the same frequencies as broadcast television stations.
+	
+	Direct conflict with a TV signalcauses short range or dropouts. Though it is not possible for anwireless micreceiver to hear anything from a digital TV transmission, the DTV signal acts as a very strong broadband radio noise source. In some systems this may result in increased noise or distortion in the audio output.
+	
+	The most effective solution for broadcast television interference is to avoid using frequencies of local active TV channels. Television transmitters may operate at power levels up to several million watts while wireless microphone systems typically operate at less than 50 mW (fifty one- thousandths of one watt!) of output power. For this reason it is unwise to choose wireless microphone system frequencies that fall in an active local TV channel block.
+	
+	Local is generally considered to be up to 50 or 60 miles, depending on the coverage area of the particular TV transmitter and on the location of the wireless microphone system. Indoor setups are at less risk than outdoor setups because building structures will usually strongly attenuate TV signals. Nevertheless, since the locations and assignments of television stations are well known it is relatively easy to choose wireless microphone system frequencies to avoid them in a particular area.
+	
+	For example, a city may have television channels 23 and 25 on air. So, wireless microphones cannot be used on those frequencies. However, wireless microphones could be used on television channels 22 and 24, as this would avoid the active TV channels.
+	
+	The link below allows you to search for any city in the U.S. and recommends frequencies for that city. Every city will have a different set of occupied TV stations.
+
+	
+		Shure Frequency Finder - SEARCH FOR YOUR CITY NAME OR ZIP CODE
+
+
+
+	Other Television Database Websites
+	keybridgeglobal.com
+	iconectiv.com
+	spectrumbridge.com
+	fccinfo.com
+	tvfool.com
+	antennaweb.org
+

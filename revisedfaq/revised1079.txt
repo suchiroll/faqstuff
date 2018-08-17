@@ -1,0 +1,16 @@
+Title: DY30 Microphone
+Id: 1079
+Legacy Id: 1114
+
+Question:
+I have a pair of old Shure DY30's. They still sound great. Good work. I could not find any guides in your discontinued product section. I did however find the model 51 Sonodyne which is almost exactly similiar. Mine are multi imps model DY30 dynamic microphones. That's all the badge says besides the Shure Bros info. What's the story/history on these guys? Are they an earlier version of the 51's? Do have the guide spec/info for these? Thanks.
+
+P.S. I have a lot of your older mics. Your discontinued spec page is great. Now I know all about them.
+
+
+
+
+Answer:
+
+	The DY30 was the OEM version of the 51 and 51S microphone. Variations on this model were made for other vendors of paging and communications systems. The 51/51S data sheet will provide technical specifications of the microphone.
+

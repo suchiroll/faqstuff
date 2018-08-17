@@ -1,0 +1,19 @@
+Title: Dante Headphone Amplifier
+Id: 4969
+Legacy Id: 6234
+
+Question:
+Is there a headphone amplifier that can monitor a Dante signal?
+
+
+Answer:
+
+	Yes. Studio Technologies offers a device like this: http://www.studio-tech.com/product_m5202.html
+	
+	The Studio Technolgies Model 5202 Interface is a general-purpose audio device that supports applications utilizing the Dante Audio-over-Ethernet media networking technology. Two Dante-associated audio channels can be assigned to the Model 5202 which provides headphone and balanced line-level outputs. The audio quality is such that virtually any audio application can be supported, from simple headphone or loudspeaker monitoring to interfacing with high-performance on-air broadcast, stadium AV, or corporate audio systems. Multi-step LED meters provide confirmation of the level of the two input audio channels. The compact design allows the Model 5202 to be used in portable or desktop situations or deployed as a permanent solution in fixed applications. Standard connectors ensure fast deployment. The unit requires only an Ethernet connection to supply both the data interface as well as Power-over-Ethernet (PoE) power.
+	
+	
+	Focusrite offers a unit: https://us.focusrite.com/ethernet-audio-interfaces/rednet-am2
+	
+	RedNet AM2 is a Dante-compatible stereo monitoring unit combining headphone and line outputs for monitoring of signals from the Dante network wherever required. RedNet AM2 features a  front-panel TRS headphone socket plus a pair of rear-mounted balanced line outputs with male XLR connectors for loudspeaker monitoring and other applications.
+

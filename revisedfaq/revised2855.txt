@@ -1,0 +1,21 @@
+Title: WH30 to Lectronsonics transmitter with TA5F connector
+Id: 2855
+Legacy Id: 2967
+
+Question:
+What is the wiring info for connection of the WH30 to a Lectrosonics beltpack transmitter?
+
+
+Answer:
+
+	LECTROSONICS
+	Pin 1 = ground
+	Pin 2 = +5V bias
+	Pin 3 = mic level audio in
+	Pin 4 = 1kohm resistor - jumper to pin 2 to change mic level input loading
+	Pin 5 = line level in
+	
+	Therefore:
+	WH30 shield to pin 1
+	WH30 red wire to pin 2
+	WH30 black wire to pin 3

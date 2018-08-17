@@ -1,0 +1,12 @@
+Title: Model AR101 microphone
+Id: 2622
+Legacy Id: 2724
+
+Question:
+Mars Music has a Shure AR101 dynamic microphone. Do you have any specs on this mic?
+
+
+Answer:
+
+	The AR101 as a variation of the Shure model PG48. The AR101 specs are equivalent to the PG48.
+

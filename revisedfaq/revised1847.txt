@@ -1,0 +1,14 @@
+Title: Anti-skate for V15 VxMR cartridge
+Id: 1847
+Legacy Id: 1907
+
+Question:
+I have recently bought a Shure V15VxMR cartridge from your authorized dealer. Now I have a technical question that I wish to clarify:-
+
+If I set the total tone arm force with the dynamic stabilizer operating to 1.5 gm, then the force at the stylus tip would be 1 gm. In this case, when I am going to adjust the corresponding anti-skating scale, I want to clarify whether I need to adjust the ant-skating scale according to the 1 gm stylus force or the total force 1.5 gm.
+
+
+Answer:
+
+	Set the anti-skate to 1 gram: the actual pressure applied at the stylus tip.
+

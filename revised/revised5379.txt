@@ -1,0 +1,13 @@
+Title: VP83 and VP83F Audio Output Configuration
+Id: 5379
+Legacy Id: 5419
+
+Question:
+VP83 and VP83F Audio Output Configuration
+
+Answer:
+
+	VP83 and VP83F Audio Output to Camera: Tip and Ring are the same monaural signal (dual mono); Sleeve is ground.
+	
+	VP83F Headphone Output: Tip = left; Ring = right; Sleeve =ground. The Left and Right share the same signal, but are driven from separate output stages. This provides a louder signal in the headphones.
+

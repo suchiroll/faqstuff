@@ -1,0 +1,15 @@
+Title: SE Earphone Cable Removal
+Id: 4432
+Legacy Id: 5531
+
+Question:
+I am trying to replace the cable on my SE215 earphones. I can't for the life of me figure out how to release the old cable and get it off the drivers! Any tips?
+
+
+
+Answer:
+
+	The cable/earphone connector is difficult to remove, and designed like this on purpose.
+	
+	Grasp the earphone using a piece of cloth, like the T-shirt, between your fingers and the earphones.Do the same with your other hand, using a piece of cloth, on the connector.Then pull apart: do not twist or rock back and forth.It takes 20 to 30 pounds of force to separate the two parts of the connector.
+

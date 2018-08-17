@@ -1,0 +1,24 @@
+Title: Is the FCC taking the 500 MHz spectrum?
+Id: 3724
+Legacy Id: 3957
+
+Question:
+I heard that the FCC is going to take the 500 MHz spectrum. Is this true?
+
+
+Answer:
+
+	There is certainly confusion here.  The federal government has stated that they want to find 500 MHz OF spectrum to reallocate. They did not say they were going to reallocate THE 500 MHz spectrum. That is, the federal government will look at a broad range of frequencies, possibly between at least 100 MHz and 10 GHz. They might use several slices of this to make up the total of 500 MHz.  As an example, they might want a slice from the 2 GHZ area, a slice from the 900 MHz area, a slice from 1.4 GHZ area, etc.  At this point, no one knows. One of the FCC's first tasks is to perform a spectrum inventory to determine which slices they would like to reallocate.
+	There has been indications that some frequencies reserved for government are not used efficiently and might be reallocated. Another possibility is to allow television stations to have data piggyback on their signals. Thus far, no decisions have been made, and many options are being proposed.
+	The FCC has proposed that 280 megahertz of spectrum come from broadcasters and other sources, 120 of which would come from broadcasters. The other 220 megahertz would come from the federal government’s holdings managed by the National Telecommunications and Information Administration.
+	There will certainly be a lengthy discussion and lobbying period. Since the television broadcasters just lost 108 MHz of spectrum, they are likely to fight extremely hard to prevent any further loss. This loss of spectrum costs broadcasters millions of dollars in the purchase of new equipment. They will not want to go through that cost again in 10 years.
+	In addition, the federal government has indicated they are wanting to auction off this newly reallocated spectrum. This might be a problem, as they still have not been able to find a buyer for some of the 700 MHz spectrum that they previously tried to auction off.
+	Here is additional information written by Chris Lyons at Shure:
+	The FCC's National Broadband Plan (released on March 16, 2010) contains its recommendations for ensuring that every American has access to broadband service.  One of these recommendations is to make available 500 MHz of additional spectrum for wireless broadband use by 2020, with the first 300 MHz available by 2015.  The 500 MHz would be made up of numerous slices in different sections of the spectrum, not a single block or a so-called "500 MHz band."  Most of the potential spectrum identified in the Plan is currently used by wireless data networks or satellite telephone services in the 1.5-2.5 GHz range. 
+	
+	President Barack Obama recently issued a memorandum endorsing the Plan and directing government agencies to "participate and cooperate fully" with the FCC.   Because some of the spectrum that is most suitable for wireless broadband is allocated to government/military users, the cooperation of these agencies will be essential to the task of identifying underutilized spectrum.
+	The timing of the President's memo (almost four months after the National Broadband Plan's release) seems to have caused some confusion.  The memo refers to the same 500 MHz of spectrum recommended by the FCC in the National Broadband Plan - not an additional 500 MHz.  The memo does not alter the technical aspects of the Plan in any way.
+	
+	Some media stories have implied that the President's memo makes this spectrum available immediately, which is not true.  Like the DTV transition, the repurposing of spectrum as outlined in the Plan will require significant changes to existing FCC rules, which must pass through the Commission's normal rulemaking process.  Some parts of the Plan (such as the proposed incentive auction program) cannot be carried out until authorized by Congressional legislation.
+	
+	Neither the National Broadband Plan nor the President's memorandum changes the frequency ranges in which wireless microphones and similar products can operate.  Depending on the degree to which any parts of the Plan are eventually implemented, the operating environment for wireless microphones may become more crowded in the future.  Shure continues to work closely with the Commission to ensure that the needs of wireless microphone users are fully appreciated.

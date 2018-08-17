@@ -1,0 +1,15 @@
+Title: Difference between Cardioid and Supercardioid
+Id: 876
+Legacy Id: 903
+
+Question:
+What is the difference between SuperCardioid and Cardioid and what do they mean.
+
+
+Answer:
+
+	The answer to your question can be found in our online booklet Microphone Techniques for Music - Live Sound Reinforcement
+
+	
+	See page 9.
+

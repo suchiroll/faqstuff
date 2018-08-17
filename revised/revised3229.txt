@@ -1,0 +1,12 @@
+Title: Polar pattern for a miniature lapel mic like the Shure WL50
+Id: 3229
+Legacy Id: 3379
+
+Question:
+Why is polar pattern diagram not included on the data sheet for a miniature lapel microphone, like the Shure WL50?
+
+
+Answer:
+
+	The Shure WL50 is a miniature omnidirectional microphone. Its largest dimension is smaller then the 20 kHz acoustic wavelength. Therefore, in the free field, the polar pattern is a textbook perfect circle. This applies to all professional quality omnidirectional microphones having such small dimensions.
+

@@ -1,0 +1,18 @@
+Title: SCM810 and SCM800 Input Gain - Design Changes
+Id: 3311
+Legacy Id: 3480
+
+Question:
+I have an SCM810 from about 1997 and another one I bought in 2006. There seems to be a difference between the two mixers. Does the older one have more gain?
+
+
+Answer:
+
+	Yes, there is a gain difference when an input is set to provide phantom power. This setting is labeled PHM and is controlled by the slide switch hidden behind the Euro Block connector.
+	
+	For an SCM810 mixer manufactured in 2000 or later, the PHM (phantom)setting provides 13 dB less gain than an SCM810 made before 2000. This change was made to accommodate the higher output level of a typical meeting room condenser mic, like the Shure MX412. Without this reduction in gain, an SCM810 input level control would have to be set quite low (less than 3) to avoid clipping the input circuit. This gain reduction in gain allows the SCM810 input control to be set around 5 or 6 for a typical talker.
+	
+	When setting input gains, use the input LED as a guide. If the LED flashes red regularly, turn the input control lower. If the LED never flashes red, turn the input control higher so that is flashes red briefly for loud input peaks.
+	
+	NOTE: The above also applies to the SCM800 manual mixer.
+

@@ -1,0 +1,12 @@
+Title: Using the FP22 for silent rehearsal
+Id: 2172
+Legacy Id: 2245
+
+Question:
+Hello, I'm wondering if you or any other company makes a device which can be plugged into a headphone jack on something, like a mixer, and then allow multiple headphones to be plugged into it. The point is to allow for eight or six headphones to be plugged into one headphone jack so we can all hear our stuff when its plugged in to the mixer, to SILENTLY play with each other.
+
+
+Answer:
+
+	Each person can have a Shure FP22 headphone amplifier. Link all of them together after connecting one of them to the mixer's headphone output. With this setup, each person has their own headphone amplifier near them to adjust volume and balance as required.
+	Or Rane makes a headphone distribution amplifier: www.rane.com

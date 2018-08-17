@@ -1,0 +1,28 @@
+Title: WH30 - Wired and Wireless Use
+Id: 2988
+Legacy Id: 3116
+
+Question:
+I want to use my WH30-XLR as a wired mic and as a wireless. How do I modify it?
+
+
+Answer:
+
+	1) Remove the WH30 cable where it enters the in-line preamp. Make detailed notes on how this cable is connected inside of the preamp. You will need this information in step 3.
+	
+	2) Solder a Switchcraft TA4F connector to the bare ended cable, as follows:
+	
+	shield to pin 1
+	red wire to pin 2
+	black wire to pin 3 and 4
+	
+	3) Fabricate a short cable which will connect to the in-line preamp. The cable must be the same type as the cable attached to the WH30 headset. To this short cable, wire a Switchcraft TA4M connector (the mate to the TA4F). Wire the TA4M in step 2 and connect the bare end of the cable to the in-line preamp using the detailed notes from step 1 above.
+	
+	4) The rewired WH30 headset can now be used with the in-line preamp or with any Shure wireless transmitter with a TA4M (four pin) input connector.
+	
+	The Switchcraft connectors are available from: www.mouser.com
+
+	
+
+	If the WH30-TQG is to be used as a wired mic, it must be paired with the RPM626 in-line preamp. The RPM626 requires phantom power.
+

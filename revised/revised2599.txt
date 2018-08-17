@@ -1,0 +1,14 @@
+Title: Wireless microphone for computer sound card use?
+Id: 2599
+Legacy Id: 2700
+
+Question:
+Could you please recommend a wireless lavalier microphone and receiver system that can be used with a computer sound card. I have read the article "Interfacing Professional Microphones" and at the end it refers to you as a source for recommendations. I have to take cost in to consideration and am aiming for a less expensive mic.
+
+
+Answer:
+
+	The budget-priced Shure PGX series will likely work.
+	
+	HOWEVER, note that many computers generate local Radio Frequency Interference (RFI) that can impede the proper operation of a wireless mic. Unfortunately, this can only be determined with the use of expensive test equipment OR by getting a wireless system and trying it with your computer. So make certain to purchase the wireless from a Shure dealer that is willing to take it back if it does not work with your computer set up.
+

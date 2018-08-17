@@ -1,0 +1,32 @@
+Title: CBL-M-K Accessory Cable - What is its purpose?
+Id: 3690
+Legacy Id: 3907
+
+Question:
+What is the purpose of the Shure earphone accessory cable model CBL-M-K?
+
+
+Answer:
+
+	In 2010, Shure introduced new SE series earphones.A key feature on each model is a replaceable cable that has sub-miniature MMCX connectors: a female connector on each earphone and two male connectors on cable.
+	
+	The model CBL-M-K is a 56 inch (142 cm) replacement cable that includes one-button remote switch and microphone.The earphones then serve a dual purpose: to listen to music or to listen to the person on the other end of the call.The microphone is used to speak to the other person during a call.
+	
+	NOTE 1: The CBL-M-K cable is not intended for Apple products.
+	
+	The switch is actuated to SEND a new phone call or to END an existing phone call.When actuated, the switch shorts the mic signal line to ground.Typically, this action is interpreted by the phone as a SEND call or an END call function.
+	
+	NOTE 2: It is the design of the phone/mobile devicethat determines what happens with this switch is actuated.The type of function is not determined by the CBL-M-K switch.Check with the phone/mobile devicemanufacturer to determine if the CBL cable will provide the functions desired.
+	
+	The 3.5mm male plug is configured as follows:
+	Tip - audio feed to left earphone;
+	Ring 1 - audio feed to right earphone;
+	Ring 2 - ground return for earphones and for microphone;
+	Sleeve - audio feed from microphone.
+	
+	The operating voltage range for the microphone is 1.5Vdc to 3.6Vdc.The current draw is 0.25 mA maximum.The impedance is 300 ohms.The output level is -52dBV at 1kHz, 94 dB SPL.
+	
+	The diameter of the CBL-M-K cable, measured at 5 inches below the earphone, is 0.060 inch.At the 3.5mm plug, the cable diameter is 0.090 inch.The cable on the CBL-M-K is slightly more flexible than the SE earphone cable.
+	
+	At the 3.5 mm phone plug, the round, plastic shoulder (that secures the metal portion of the plug) has a diameter of 0.29 - 19/64.
+

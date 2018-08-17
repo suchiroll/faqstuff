@@ -1,0 +1,17 @@
+Title: AMS24 Gooseneck Extension
+Id: 2690
+Legacy Id: 2794
+
+Question:
+WE HAVE A COURTROOM UTILIZING THE AMS24 SYSTEM. HOWEVER THE GOOSENECK IS NOT LONG ENOUGH. CAN A STANDARD GOOSENECK WITH MALE THREADS ON ONE END AND FEMALE ON THE OTHER BE THREADED ONTO THE AMS GOOSENECK AND BASE TO EXTEND THE MIC? ARE THE THREADS COMPATABLE?
+
+
+Answer:
+
+	Here is the best method:
+	
+	1) Add the Shure A24QG to the end of the AMS24 gooseneck. This accessory makes the end of the AMS24 gooseneck into a male XLR connector.
+	
+	2) Neutrik offers thicker goosenecks, in black, with female XLR connectors on the end. Choose the Neutrik gooseneck with the desired length; install it and wire it; plug the AMS24 into the Neutrik gooseneck.
+	
+	3) You will need a thicker gooseneck at the base to support the weight of the AMS24.

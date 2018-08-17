@@ -1,0 +1,16 @@
+Title: Connecting camcorder to mixing board with XLR outputs
+Id: 1833
+Legacy Id: 1893
+
+Question:
+Can I connect to a soundboard at a concert hall via XLR jacks or 1/4 inch phone plugs (which ever they may have),using 2 A15AS switchable line attenuators connecting one Y cable with 2 female XLR connectors leading to one stereo mini-plug which would plug into my Panasonic AG-456UP camcorder's mic input jack. Will they attenuate the signal down by 50db if I switch both attenuators to 25db.
+
+
+Answer:
+
+	To attenuate a line level output to match a mic level input, use the A15LA; it is a 50 dB pad. Assuming you are recording a stereo signal, you will require two A15LA pads, one for the left output and one for the right output.
+	
+	Placing two A15AS in series will provide nearly 50 dB of attenuation, but the actual attenuation amount depends upon the output impedance of the mixing board, and the input impedance of your camera.
+	
+	Also, check out products by Beachtek or JuicedLink. They may have a pre-made solution.
+

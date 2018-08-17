@@ -1,0 +1,11 @@
+Title: SCM410 jumper X9000 location
+Id: 3792
+Legacy Id: 4030
+
+Question:
+I want to change the SCM410 Hold Time to 1.0 second as explained in the User Guide. But I cannot locate x9000 on the circuit board. Please assist.
+
+
+Answer:
+
+	Position the circuit board with the input #1 gain control to the left and the master gain control to the right. X9000 is located about one inch to the left of the power transformer's upper left hand corner. Place a solder jumper between the two adjacent gold solder pads located under the printed "9" and "0".

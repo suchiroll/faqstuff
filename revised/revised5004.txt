@@ -1,0 +1,71 @@
+Title: MXA910 best practices - setup hints
+Id: 5004
+Legacy Id: 6294
+
+Question:
+Are there any recommend settings or best practices when using the MXA910?
+
+
+Answer:
+Also see: MXA910/MXA310 Training and Certification
+	The following settings and recommendations are based on extensive experience helping customers tune and commission MXA910 in AV Conference and Voice Lift Systems. Though some of these settings may seem aggressive at first, they are a good starting point. If the system does not perform well after implementing the settings below, dialing them back to something more moderate may better address the specific issue. Listen and adjust as needed to achieve optimal sound quality.
+	 
+	
+		Please read the MXA910 User Guide first.
+	
+		Important: it is critical that you have some method of listening to the MXA910 pre-DSP and/or codec. This is the best way to position lobes, and to verify the microphone array is setup correctly. Please bring a set of headphones to the job site, along with a Dante-enabled headphone amplifier. The MXWANI devices, which are often used for Dante-to-analog conversion with the MXA910, already have a headphone jack.
+	
+		Aim lobes at the areas where the talkers are located:
+		
+			
+				Do not use the pre-loaded templates without further adjusting the aim of each lobe to match the talker's position. These templates merely provide a starting point.
+			
+				Each lobe can pick up one talker or many talkers. There is no specific requirement that you should only have one talker per lobe.
+			
+				Use the fewest possible number of lobes to cover the desired area. Don't be afraid to use Medium and Wide lobes, if necessary.
+			
+				Delete any un-used lobes.
+			
+				Auto Position helps aim the lobe to the center of the desired area. (Note: do not use test tones with Auto Position. The algorithm is optimized for speech detection, test tones will not result in correct positioning.)
+			
+				Use headphones to verify aiming by listening to talkers inside and outside of lobes. Adjust as needed.
+		
+	
+	
+		EQ: Starting with firmware version 1.3.4, the MXA910 comes equipped with a Low Frequency Shelf EQ designed to provide optimal low end response from the array. This EQ is enabled by default, but may be disabled if you would prefer to tailor the response to suit a particular application. We recommend running a test conference with the EQ enabled before deciding whether or not to disable it.
+		
+		For voice lift applications, additional EQ may be required on the output of the DSP that drives the room loudspeakers. This additional EQ would be in the form of Parametric EQ and it should be deployed at frequencies that are naturally amplified in the room. A measurement tool may be needed to determine those frequencies. A feedback reducer can also be used in place of the PEQ.  
+	
+		Use an external DSP to apply AEC (Acoustic Echo Cancellation) and NC (Noise Cancellation) processing on each MXA910 output channel to help control echo and room noise.
+		
+			
+				Less is more: As a starting point, the NLP (Non Linear Processing) in the AEC processor should be set to OFF, or the lowest setting.
+			
+				The NC should also be set to a "Low" setting, or approximately 6dB.
+		
+		An alternative to using individual processing for each MXA910 output channel is to use the MXA910's Automix Output channel (which shows up as a 9th Dante output) to feed a single channel input on a DSP with AEC, though this alternative causes that external AEC to perform less effectively. In this case, we strongly recommend the use of the IER (Echo Reduction) feature built into the MXA910 in conjunction with the AEC on the DSP.
+	
+		Use an Automatic Mixer processor post EQ/AEC/NC, with the following recommended settings:
+		
+			
+				Use a GATING Automixer with the Off-Attenuation set to at least -12 dB when only 1 to 4 channels are in use, and -18 dB for 5 to 8 channels. If more than 8 channels are in use you can increase Off-Attenuation by -6 dB per doubling of channels, i.e. -24 dB attenuation for 16 channels.
+			
+				When using a third-party automixer, if the GATING Automixer does not properly activate for talkers, a Gain-Sharing Automixer can be employed, but only if EQ has been set pre-automixer, exactly as described above in #4.
+		
+	
+	
+		Adjust the transmit level to the lowest possible level while listening from the far end. Audio codecs "hard limit" the audio level to a specific standard prior to encoding and transmitting. When too much level is sent to the transmission codec, the far end does not necessarily hear the near-end talkers louder, instead only ambient noise and low frequencies are boosted, making the system sound noisier and less intelligible. Adjust as follows:
+		
+			
+				Write down your starting automixer output level for later comparison.
+			
+				While listening from the Far-End, turn the output of the automixer described in #6 down by 20 dB, or more.
+			
+				While someone is talking in the Near-End (where the MXA910 is located), listen carefully to the Far-End receive audio while turning up the automixer output in the Near-End slowly until the level of the speech of the talker stops getting louder. This may require two people, or remote control of the DSP.
+			
+				Back down the output of the automixer to the setting where an increase in speech level was last perceived. This may be 2 to 4 dB down from the current setting.
+			
+				Write down the new output level setting for comparison. Go back and forth between your starting level from step 7a, and your new level from 7d. Overall, you may find that the resulting new automixer output level is 10 to 15 dB below your starting point and that ambient noise and other undesirable sounds have been attenuated significantly, while speech level remains the same.
+		
+	
+

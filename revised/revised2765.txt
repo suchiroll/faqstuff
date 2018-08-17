@@ -1,0 +1,12 @@
+Title: SC39EJ Load Specifications
+Id: 2765
+Legacy Id: 2873
+
+Question:
+I would like to know the recommended load for the cartridge SC39EJ.
+
+
+Answer:
+
+	Per channel - 47,000 ohms; 250 to 350 pF.
+

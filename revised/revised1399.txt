@@ -1,0 +1,15 @@
+Title: Mixing Board requirements for In Ear Monitors
+Id: 1399
+Legacy Id: 1451
+
+Question:
+I have a few questions.  I'm ready to purchase my in ear monitors, but there are a few things I need to make sure of before I do.  My mixer is the Mackie 808M.  Is this compatible with the ear monitor systems?  If you aren't sure, then just tell me what the minimum requirements are for a sound board.  Also - I have some custom-molded musicians ear plugs (with different filters for different db. levels).  Will these molds work with the ear monitor systems?
+
+Answer:
+
+	1) Any mixing board that provides Aux level or Line level outputs will properly drive Shure PSM transmitters.
+	
+	2) The custom ear molds are made to fit your ears and a specific in-ear driver, like the Shure model E1 or model E5. Contact Sensaphonics at 877-848-1714 about custom ear molds.
+	
+	3) Also, read:http://www.shure.com/publications/us_pro_guidepersonalmonitor_ea.pdf
+

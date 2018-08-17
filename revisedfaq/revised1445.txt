@@ -1,0 +1,15 @@
+Title: Pinout for WA310
+Id: 1445
+Legacy Id: 1498
+
+Question:
+Would you please forward the pinout for a WA310?
+
+
+Answer:
+
+	XLR pin 1 = TA4F pin 1 (cable shield)
+	XLR pin 2 = TA4F pin 3 (audio +)
+	XLR pin 3 = TA4F pin 1 (audio -)
+	No connection to TA4F pin 2 or pin 4
+

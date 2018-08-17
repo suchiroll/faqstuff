@@ -1,0 +1,20 @@
+Title: Phono cartridge sounds "thin" after storage
+Id: 3041
+Legacy Id: 3172
+
+Question:
+I have a Shure V15 type IV phono cartridge which I purchased new many years ago. The cartridge has always performed flawlessly and has very low hours of use. It has been in storage for several years. I tried to use it recently and found that the sound was "thin", lacking bass and tracking extremely poorly. It sounded like it was overloaded and skipped all over the record. The cartridge is mounted in a removable headshell. I swapped the cartridge/headshell with another cartridge/headshell combination that I have. The second unit worked, so it seems that the turntable (rega planar 2) and tonearm are still set up correctly (tracking force, anti-skate, VTA, alignment, etc.). Is there some component in the cartridge that degrades with time? Is there anything I can do to correct the situation? Any help/information would be greatly appreciated.
+
+
+Answer:
+
+	Is there some component in the cartridge that degrades with time?
+	* Yes. The elastic bearing that supports the stylus shank. Atmospheric ozone hardens it; like tire rot on bike tires.
+	
+	Is there anything I can do to correct the situation?
+	* Sorry, there is not.
+	
+	Beware of any replacement stylus that you may find for sale. Shure has not made the V15  type IV replacement stylus since the late 1980's, therefore even a new stylus may have a hardened bearing.
+The stylus support bushing material used by Shure is butyl rubber.  Butyl rubber is often employed for shock absorption and flexible gaskets.  It has exceptionally low gas and moisture permeability and outstanding resistance to heat, aging, weather, ozone, chemical attack, flexing, abrasion, and tearing. The exact butyl rubber formulation used by Shure is intellectual property and is not revealed.
+A stylus support bushing can be supple after 25 years of storage or can be stiff and brittle.  It depends on the storage conditions and temperature changes. Optimum storage temperature is 75 degrees F.
+Testing a new “vintage” stylus can be done using a test record that will stress the stylus bushing with “track-ability” cuts.  These are cuts with extreme levels of low frequency sounds, such as cannons, tympani, or organ bass notes.  Decades ago, Shure offered such test records as part of the TTR series.  Sorry, these Shure records are no longer sold.  

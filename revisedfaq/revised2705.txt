@@ -1,0 +1,14 @@
+Title: T1 and T1G Input Impedance
+Id: 2705
+Legacy Id: 2809
+
+Question:
+I am planning to use either a T1 or T1 G bodypack with my violin pickup which is basically a piezo element (without any preamplification). What is the input impedance of the T1 and T1 G?
+
+
+Answer:
+
+	What is the input impedance of the T1 and T1G?
+	* For either, 1 megohm (1,000,000 ohms).
+	
+	Piezo elements can have very "hot" output levels. You will likely have to adjust the input gain on the transmitter to the minimum setting.

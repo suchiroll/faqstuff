@@ -1,0 +1,22 @@
+Title: Recording a British Brass Band
+Id: 3907
+Legacy Id: 4153
+
+Question:
+I want to record a live concert of our British style brass band. 10 cornets, flugehorn, Eb Alto Horns, Trombones. Baritones, Euphoniums, Tuba and Percussion. In all 26 brass players. From the recording I want to create CDs initially for the bands use, but in the future to create a CD for sale to the public. I've spent hours on searching webpages and I'm not finding much help. I have an iMac with Garage Band. It has been suggested to purchase a Zoom H2. I'm considering a Zoom H4n because from what I read, the mics should be placed up high in order to capture the whole band and not just the front row instruments. The Zoom H4n has 2 inputs for mics. Most data on mics I've finding is all directed to rock bands.
+
+
+Answer:
+
+	There is no simple answer as miking techniques for recording are more art than science, plus the acoustics of the recording space have a large effect on the recording.
+
+	As a starting point,  refer to this booklet: http://www.shure.com/publications/microphone_techniques_for_recording_english.pdf
+
+	I recommend a basic, two mic stereo technique, using the Shure A27M adapter.   Mic models to consider (from $ to $$)
+
+	PGA81
+	SM137
+	KSM137
+	KSM141
+	KSM44A
+

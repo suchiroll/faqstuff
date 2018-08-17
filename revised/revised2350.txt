@@ -1,0 +1,15 @@
+Title: Using the E1 with a Rolls Personal Amplifier
+Id: 2350
+Legacy Id: 2438
+
+Question:
+I have an existing in ear system using a Rolls PM50 Personal Monitor and Rolls CL151 Compressor Limiter with a cheap set of buds.
+
+The problem is in the earphones.  I am using a cheap set, and wish to upgrade.  If I was starting from scratch I would buy the Shure system hands-down, but I do not wish to rebuild the entire system because of a limited budget. I have heard great things from my music store about the E1's.  Can I plug the E1's into the Rolls PM50 using a 1/8 to 1/4 adapter and would it be a recommended setup ? 
+
+Thanks in advance - keep up the great work !
+
+Answer:
+
+	The impedance of the E1 earphones is 16 ohms. Ask Rolls if the Rolls device can drive a 16 ohm load, If yes, you may use the E1 earphones.
+

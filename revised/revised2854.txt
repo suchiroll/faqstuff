@@ -1,0 +1,16 @@
+Title: PS20E Power Supply Specifications
+Id: 2854
+Legacy Id: 2966
+
+Question:
+Please provide the PS20E specifications.
+
+
+Answer:
+
+	Input rating: 230 Vac (+6% / - 15%), 50 Hz
+	
+	Output rating (50 ohm load): 12 Vdc, 250 milliamps
+	
+	Center of output connector is postive DC voltage.
+

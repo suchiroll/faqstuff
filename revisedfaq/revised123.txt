@@ -1,0 +1,10 @@
+Title: Can I use a Shure wireless microphone with any manufacturer's receiver?
+Id: 123
+Legacy Id: 123
+
+Question:
+Can I use a Shure wireless microphone with any manufacturer's receiver provided they are the same frequency?
+
+Answer:
+
+	No, you cannot. It might sort of work, but sound funny. In analog wireless different manufacturers use different companding and noise reduction schemes, along with possibly different RF deviations. So make certain the transmitter and receiver are from the same manufacturer. Usually, the transmitter and receiver have to be of the same series.

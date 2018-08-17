@@ -1,0 +1,51 @@
+Title: CD player into an SCM810
+Id: 1770
+Legacy Id: 1830
+
+Question:
+I have a client who has a SCM810 and is complaining that when they try to sing to a CD (which is connected through a direct box to one of the inputs), the CD level drops.
+
+
+Other than connecting through the AUX IN jack on the front right of the unit, is there anything I can do to prevent this?
+
+
+
+---- 09/25/2001 07:46 PM ----------------------------------------------
+
+I apologize! I forgot to mention that the CD player runs into an EDCOR S2M to convert to mono, then into a direct box to drop to a mic level signal.
+
+
+---- 09/25/2001 08:44 PM ----------------------------------------------
+
+OK, thanks! I'll make the switch tomorrow morning.
+
+
+
+---- 09/27/2001 06:44 AM ----------------------------------------------
+
+I made the switch Wednesday and it is working OK, but I'm puzzled about why the Aux level control would control this instead of the Channel 8 level control?
+
+
+I moved the selector switch to "LINE", and plugged the CD into the 1/4" jack on the back beside Channel 8's green connector, but the level is controlled by the Aux Control on the front.
+
+
+
+---- 09/27/2001 08:18 AM ----------------------------------------------
+
+Now I _am_ puzzled! Since I switched the Channel 8 switch to Aux In, I'm assuming that it has no ability to act as an input for condenser mics, since you can't select phantom power for that channel?
+
+
+Thanks for your patience here!
+
+
+Answer:
+
+	At 09/25/2001 07:13 PM we wrote - The normal channels of the SCM810 are not designed to have music sources such as a CD player plugged in them. The CD player should be plugged into the Aux input on the back, or the Aux input on the front. The 1/4" connector on the back that is associated with channel 8 can also be used as an Aux input.
+	
+	At 09/25/2001 08:28 PM we wrote - It's still better for the CD Player to go directly into the Aux input on the back of the SCM810.
+	
+	At 09/27/2001 07:32 AM we wrote - "why the Aux level control would control this instead of the Channel 8 level control?" If channel 8 became the control, you would lose an input channel, namely channel 8! If we had enough rear panel real estate, we would have provided another 1/4" jack for a rear panel aux input. But we did not and so the #8 Direct Output jack does double-duty.
+	
+	At 09/27/2001 08:23 AM we wrote - Channel 8 is un effected. The switch for channel 8 is just above the Phoenix input connector for channel 8. The switch for the Aux In is just above the Phoenix connector for the OUTPUT of the mixer. Thus, you can still choose "Mic/Phm/Line" for Channel 8.
+	
+	The switch labeled "Mic/Phm/Line" on channel 8 does NOT effect the Aux input on the back of the SCM810. The switch that is just above the output, DOES determine what function that 1/4" jack serves. When the switch is in the "AUX" position, that 1/4" jack becomes an input that is controlled by the AUX volume control on the front of the mixer. Channel 8 is still available as a complete channel (minus the direct output).

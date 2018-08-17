@@ -1,0 +1,49 @@
+Title: How do I connect an AKG C410 or C407 to a Shure bodypack?
+Id: 297
+Legacy Id: 304
+
+Question:
+How do I connect an AKG C410 or C407 to the TA4 connector on a Shure bodypack?
+
+Answer:
+
+	WARNING: THE AKG C407 AND C410 OPERATE FROM A NEGATIVE BIAS, WHICH IS VERY DIFFERENT FROM THE MORE COMMON POSITIVE BIAS. MAKE CERTAIN THIS CIRCUIT WIRING IS USED ONLY FOR THESE MODELS...AND NOT THE AKG CK407, CK410, AKG C410B OR ANY OTHER AKG MICROPHONE.
+
+	
+
+	The AKG C410 preamp, which is housed in the XLR connector, is not used when connecting to a Shure transmitter. Solder the wires from the headset directly to the four pin TA4F connector which mates with the Shure transmitter connector.
+
+	
+
+	DISCLAIMER: This bulletin was written with information provided by AKG. Shure is not responsible for any damage caused to an AKG C410 headset if this circuit proves to be incorrect.
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+
+	
+
+	The TA4F connector, capacitor and resistor can be purchased from Mouser Electronics (no minimum order) at 1-800-346-6873. If you have a Newark account, the capacitor part # is 65F2327 and the resistor part # 91F4531.
+
+	
+
+	The connector can also be purchased from Mouser Electronics as part number 502TA4F.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

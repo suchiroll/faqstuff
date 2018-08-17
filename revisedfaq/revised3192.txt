@@ -1,0 +1,21 @@
+Title: Best way to record a Jazz Band in a average sounding room
+Id: 3192
+Legacy Id: 3335
+
+Question:
+I've been requested to record a Jazz Band. 5 sax's, 4 Bones, 4 Trumpets, bass, drums, keyboard and girl singer. I know the simplist way is to set up an XY or L/R 2 mic set up, but I've noticed that the band tends to be Trumpet heavy. So... I was considering using multiple mics to be able to get a better mix. What setup would you recommend?
+
+
+Answer:
+
+	From my personal experiece:
+	2 -KSM137 mics
+	ORTF stereo positioning
+	
+	Experiment with the positioning of the mic pair. If the trumpets are too loud, lower the mics, bringing them closer to saxes.
+	
+	I much prefer a single stereo pair of mics over any type of multi-tracking. Listen to the great Basie recordings of the mid and late 1950s. They were done using a stereo pair.
+	
+	One another alternative:
+	Use a KSM137 and a KSM44 in an M/S setup, decoding the signal into stereo during post-production. See this link: http://peterengh.com/sonicorbit.php
+

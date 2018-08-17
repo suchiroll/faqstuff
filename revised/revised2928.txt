@@ -1,0 +1,22 @@
+Title: Using the SM81 as a handheld vocal microphone
+Id: 2928
+Legacy Id: 3054
+
+Question:
+One of your answers to someone elses question stated that the SM81 should be stand mounted, not held in your hand for vocals. Some quartet members that I know use this mic....and JD Sumner..the lowest recorded bass singer in the world, and Elvis Presley's back up singer for 6 years, used this mic exclusively on stage with Elvis....and later touring with the Stamps Quartet. He always had this mic in his hand....I want one of these mics for myself....just because JD used one. But...I am a mobile DJ and this mic would be in my hand all night for intro's, general DJ'ing, etc......is this not a purchase I should make..?? I want JD's mic..........
+
+
+Answer:
+
+	If the SM81 is used as a handheld mic, one must employ perfect mic technique:
+	
+	1) Do not move the mic around in your hand or slide your hand up and down the mic hand. Keep the mic still. Why? The SM81 has no internal shock mount.
+	
+	2) Do not sing or talk directly into the mic. Hold it off to the side and point it at the corner of your mouth, ala Frank Sinatra style. Why? The SM81 has no pop filter.
+	
+	3) If you still get breath noise, add the A81G supplied with the SM81.
+	
+	4) Try different settings of the SM81 lo-cut filter to see which works best for your style. For handheld use, we recommend against the Flat setting; too much handling noise.
+	
+	If you follow all these suggestions, you can indeed use JDs microphone.
+

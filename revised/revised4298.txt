@@ -1,0 +1,38 @@
+Title: PGX Analog Wireless Discontinuation
+Id: 4298
+Legacy Id: 5367
+
+Question:
+When was the PGX analog wireless series discontinued?
+
+
+Answer:
+
+	May 2013. Recommend replacement is the BLX wireless series.
+	
+	PGX analog wireless was introduced in 2005.
+	
+	The final U.S. retail prices were:
+	PGX1 body pack transmitter: $248
+	PGX2/PG58 handheld transmitter: $223
+	PGX2/SM58 handheld transmitter: $248
+	PGX2/SM86 handheld transmitter: $335
+	PGX2/BETA58 handheld transmitter: $335
+	PGX4 receiver: $251 (external power supply was PS21 or PS20)
+	
+	The U.S. frequency bands were:
+	H6: 524 to 542 MHz
+	J6: 572 to 590 MHz
+	L5: 644 to 662 MHz
+	A PGX system had 90 available channels.
+	Theoretical maximum number of compatible channels within one frequency band: 9
+	Theoretical maximum number of compatible channels using all three frequency bands: 12
+	
+	If you own a PGX analog system, and need a replacement transmitter or receiver, the replacement unit must be a PGX analog product and it must have the same frequency band as the component being replaced.
+	
+	A PGX-D (digital) unitcannot be used as a replacementfor a PGX analog unit.
+	
+	Note 1:Some BLX transmitters are backwards compatible with a few PGX receivers.  Will a BLX1 or BLX2 work with a PGX4 analog receiver?
+	
+	Note 2: Shure Service can typically repair a product for 5 to 7 years after the product is discontinued. The exact time period depends upon the remaining inventory of repair parts.
+

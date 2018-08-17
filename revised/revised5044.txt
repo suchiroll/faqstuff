@@ -1,0 +1,12 @@
+Title: Model CX50 OEM Microphone
+Id: 5044
+Legacy Id: 6337
+
+Question:
+Which Shure model was the basis of the CX50 OEM microphone?
+
+
+Answer:
+
+	The CX50 was an OEM variation of the standard Shure crystral microphone Model 708A Stratoliner. The 708A may be viewed in the Shure 1940 catalog: Vintage Shure Catalogs
+

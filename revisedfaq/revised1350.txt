@@ -1,0 +1,14 @@
+Title: RF Interference from Lightning?
+Id: 1350
+Legacy Id: 1402
+
+Question:
+How much does lightning and other weather phenomenon effect RF reception?
+
+
+Answer:
+
+	Lightning typically affects AM transmission more than FM transmission. Wireless mics use FM transmission. However, as lightning is a very powerful event, it is possible that it could create problems for wireless mics.
+	
+	To our knowledge, your question has never been researched for wireless mics. You may find more information on weather related interference from The American Radio Relay League: http://www.arrl.org
+

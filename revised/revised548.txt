@@ -1,0 +1,15 @@
+Title: Replacement cartridge for Yamaha turntable
+Id: 548
+Legacy Id: 559
+
+Question:
+I own a Yamaha P-30 turntable (built in the middle 80's) that has a CG-8300 cartridge with a N-8300 stylus.  I am having a very hard time finding a replacement stylus.  Could you tell me if you have a replacement for the N-8300 stylus, and if not, what replacement cartridge do you recommend.
+
+Answer:
+
+	We do not believe the CG-8300 is a Shure cartridge, so we do would not have a replacement stylus for it.
+	
+	We cant recommend cartridges for specific turntables, as we dont have specifications for most of them. See the following link for information on a new cartridge:
+	
+	What phono cartridge will fit my turntable?
+

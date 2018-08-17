@@ -1,0 +1,165 @@
+Title: How can I bring RS232 signal from UA888 to more than 100 feet?
+Id: 157
+Legacy Id: 157
+
+Question:
+I have a 20 pieces of Shure U4 connected to 2 Shure UA888 and I need to send the RS232 signal from stage position to F.O.H., so I need to run more than 100 feet of RS232. How can I send this signal up to 100 feet?
+
+
+Answer:
+
+	Connecting the Shure UA888 to a Computer with more than 50 feet of cable.
+
+	In certain applications, the distance between the Shure UA888 and its corresponding computer may need to be much longer than the recommended 50 foot maximum for an RS-232 connection. The solution is to employ two RS-232 to RS-422 converters in the cable line from the UA888 to the computer. Other cable extension methods are not recommended due to the hardware handshaking of the UA888. For cable runs of less than 50 feet between UA888 and computer, a standard RS-232 cable connection can be used.
+
+	RS -232 to RS-422 Conversion
+
+	This section will give detailed setup instructions for using RS-232 to RS-422 converters as well as a list of other necessary equipment. R. E. Smith, a supplier of computer interface equipment, is a source for such product. Their address and phone number are listed at the end of this bulletin.
+
+	
+		Connect the UA888s female 9 pin RS-232 port to an RS-232 to RS-422 converter, such as the RSCOM2-B9MLPS from R. E. Smith. Simply use the DB-9 male to RJ-11 male cable which is included with the RSCOM2-B9MLPS. Note that AC power must be supplied to the RSCOM2 converter externally. For powering, it comes with an external wall mount type power supply.
+	
+		Connect the computers male RS-232 port to a RSCOM2-B9FPS convertor. Use the DB-9 female to RJ-11 male cable included with the converter. This convertor comes with an external AC power supply. The only difference between the two RSCOM2 convertors is that they have different jumper configurations, as well as different genders/pinouts of their included connecting cables (B9F and B9ML).
+		When ordering the RSCOM2 units from R. E. Smith, indicate what the application is so that the convertors come with the proper internal jumper settings. The application is an RS-232 extension system. Also, specify the exact part numbers for the RSCOM2 units. The LP in the RSCOM2-B9MLPS part number refers to the pinout of the included RS-232 cable and this special pinout is essential for the UA888. On the other end of the signal path, the RSCOM2-B9FPS RS-232 cable has the correct pinout for standard PC RS-232 ports.
+	
+		Now connect the two convertors. Each has two connection methods; only use one: 1) an externally accessible RJ-11 jack and 2) a Wago terminal strip which can only be accessed by removing the top of the box which requires removing four screws. At this point, we recommend using a short RJ-11 test cable (available from R. E. Smith) between the converters to confirm that the computer and UA888 are communicating successfully. If you encounter problems, consult your equipment manuals and see the additional notes at the end of this document.
+		There is no specified maximum cable length for RS-422, however under average conditions research has shown data rates of 100 kilobaud to work reliably to 4000 ft. Since slower data rates will travel even longer lengths, it is safe to say that the UA888, which uses 19.2 kilobaud, can be located even further than 1000 feet from the computer if necessary.
+	
+		Once the computer and UA888 are communicating, replace the RJ-11 test cable with the cable you intend to employ. The RS-422 standard calls for a 100 ohm, double twisted pair, shielded cable for reliable data transfer. Belden model 8102 is a suggested cable. As an alternative, you may install suitable connectors on the cable and construct adapters from RJ-11 or the Wago terminal strip to mate with your connectors of choice. Note that ordinary microphone cable may not work for this application depending on length, capacitance, and characteristic impedance.
+		Using microphone cable: Shure tried using 200 feet of shielded, twisted pair, mid-capacitance, microphone cable between converters and the system did work. However, given the varying, and usually unknown, characteristic impedance of microphone cable, we do not recommend using it for this application.
+		* When the wavelength of an electrical signal becomes small relative to its cable length, i.e. high frequencies travelling long distances, the cable starts to behave like a transmission line. This means that the terminating impedance and characteristic impedance of the line must match in order to preserve the signal. For audio signals, the wavelengths are so long that even the longest cable lengths will not behave like transmission lines. Therefore, characteristic impedances are typically not specified for microphone cables and compatibility must be determined experimentally.
+
+
+	IMPORTANT: For this system to work, the power-up sequence is critical. In order for the UA888 to acknowledge the presence of its convertor, the UA888 must be powered up first. The convertor must be powered up second while keeping the UA888 powered on the entire time.
+
+	* As stated above, for the UA888 to acknowledge that there is in fact something connected to its RS-232 port, it must initially see a low to high voltage transition of 0 to at least 5 Volts on both pins 4 and 7 of its RS-232 port. This is why it is essential to power on the RSCOM2-B9MLPS convertor after the UA888 is already powered up. Simply connect AC power to the RSCOM2-B9MLPS with the UA888s power already on.
+
+	Parts List
+
+	Connection to UA888
+	RS-232 to RS-422 converter; model RSCOM2-B9MLPS; from R. E. Smith ($90.00) This part number includes: printed circuit board @ $65.00; chassis @ $10.00; wall mount power supply @ $7.50; 7 ft. DB-9 male to RJ-11 male cable model B9ML @ $7.50
+
+	Connection to Computer
+	RS-232 to RS-422 converter; model RSCOM2-B9FPS; from R. E. Smith ($90.00)
+	This part number includes: printed circuit board @ $65.00; chassis @ $10.00; wall mount power supply @ $7.50; 7 ft. DB-9 female to RJ-11 male cable model B9F @ $7.50
+
+	Connection between converters
+	Two foot RJ-11 test cable; from R. E. Smith @ $1.00
+	Double twisted pair 100 ohm cable (20 to 28 gauge); Belden model 8102; 24 gauge is recommended; available from Newark Electronics @ $336.82 / 1000 ft.
+
+	Sources for Product
+
+	
+		R. E. Smith; 4311 Tylersville Road; Hamilton, Ohio 45011; phone 513-874-4796
+	
+		Belden Cable: 1-800-BELDEN-1
+	
+		Newark Electronics: 1-800-4-NEWARK
+
+
+	Pinout of the UA888s RS-232 port
+
+	
+		
+			
+				Pin #
+			
+				Signal
+			
+				Description
+			
+				Direction
+		
+		
+			
+				1
+			
+				---
+			
+				---
+			
+				---
+		
+		
+			
+				2
+			
+				RD
+			
+				Data received by PC
+			
+				Out
+		
+		
+			
+				3
+			
+				TD
+			
+				Data transmitted by PC
+			
+				In
+		
+		
+			
+				4
+			
+				DTR
+			
+				Data terminal (PC)read
+			
+				In
+		
+		
+			
+				5
+			
+				GND
+			
+				Ground
+			
+				---
+		
+		
+			
+				6
+			
+				DSR
+			
+				Data Set (UA888) Ready
+			
+				Out
+		
+		
+			
+				7
+			
+				RTS
+			
+				(PC) Ready to send
+			
+				In
+		
+		
+			
+				8
+			
+				CTS
+			
+				(PC is) Clear to send
+			
+				Out
+		
+		
+			
+				9
+			
+				---
+			
+				---
+			
+				---
+		
+	
+
+

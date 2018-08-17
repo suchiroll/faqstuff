@@ -1,0 +1,13 @@
+Title: Will applying phantom power damage a microphone?
+Id: 336
+Legacy Id: 343
+
+Question:
+Is there a proper convention for applying and removing phantom power to a microphone, so as not to damage the mic? Can the phantom supply be on when plugging or unplugging a mic? Should the phantom power be turned on after the mic is plugged in? Does it matter?
+
+Answer:
+
+	First, we assume the microphone is low impedance and balanced like all professional mics. That being the case, you will not damage a microphone regardless of how you do it. You do not need to worry about turning off the phantom power before plugging in a mic.
+	
+	But, you could damage your loudspeakers if your mixer is turned up when you plug in a microphone. This often results in a loud pop. Turn the mixers Master control down before connecting or disconnecting any microphone. This will prevent damage to your loudspeakers.
+

@@ -1,0 +1,11 @@
+Title: Direct computer recording from a turntable
+Id: 53
+Legacy Id: 53
+
+Question:
+I operate a Shure V15 type V-MR through a high end turntable.  The receiver I use is a Carver 2000. I want to archive my LP's to CD, and am considering doing it through a computer, instead of a CD recorder operated through the receiver.  My question is:  Can I go straight from the turntable's RCA plugs into a Y cord to a stereo input on the sound card, OR do I have to go through the MM phono input on the receiver and from the receiver's tape out to the sound card?  I don't own the sound card yet, but will evaluate which to purchase, (or just buy a CD recorder and use the receiver) based on what you say.
+
+Answer:
+
+	You must go through the receivers phono preamp. The phono preamp provides equalization (called an RIAA curve) to recreate the recording properly. If you record off the turntable directly, the sound will be excessively bright and lacking in low end.
+

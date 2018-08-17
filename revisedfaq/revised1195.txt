@@ -1,0 +1,15 @@
+Title: LX antennas mounting kit
+Id: 1195
+Legacy Id: 1239
+
+Question:
+I have the rack ears with the holes for the antennas for my wireless but don't have the extension cables. How do I get them?
+
+
+PS. It's has two antennas
+
+
+Answer:
+
+	The cables and appropriate connectors can be purchased as a kit. The model number is WA503.
+

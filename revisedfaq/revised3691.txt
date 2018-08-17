@@ -1,0 +1,48 @@
+Title: CBL-M+-K Accessory Cable - What is its purpose?
+Id: 3691
+Legacy Id: 3908
+
+Question:
+What is the purpose of the Shure earphone accessory cable model CBL-M+-K?
+
+Answer:
+
+	In 2010, Shure introduced new SE series earphones. A key feature on each model is a replaceable cable that has sub-miniature MMCX connectors: a female connector on each earphone and two male connectors on cable.
+	
+	The model CBL-M+-K is a 56 inch (142 cm) replacement cable that includes a three-button remote switch and a microphone.The earphones then serve a dual purpose: to listen to music or to listen to the person on the other end of the call. The microphone is used to speak to the other person during a call. The CBL cable is manufactured solely based on specifications provided by Apple.
+	
+	NOTE: the CBL-M+-K is specifically for Apple productsdesigned to workwith the Apple Remote + Mic. Per Apple, as ofSeptember 2014, this includes:
+
+	
+		iPad 1G; 2G; 3G
+		iPhone 3GS; 4; 4S; 5; 5C; 5S; 6
+		iPod 120 GB Classic
+		iPod Nano 4G video; 5G video; 5G; 6G
+		iPod Shuffle 3G; 4G
+		iPod Touch 2G; 3G; 4G
+		Macbook Air 2009, and some later Macbook Pro units.
+
+
+	
+
+	TheCBL-M+-Kmic/switch module contains a proprietary integrated circuit chip that communicates with a complementary integrated circuit chipinside ofthe Apple product. The communication signals between the chips travel on the same wire as the microphone audio.The interaction of these two chips can provide these functions:send call; end call; volume up; volume down; pause music track; fast forward; and rewind.The exact functions provided are determined by the Apple firmware, not by the CBL cable.
+	
+	NOTE: If theCBL-M+-K is connected to a device that does not have the complementary integrated circuit chip, the switch functions will not operate.
+	
+	The3.5mm male plug is configured as follows:
+	Tip - audio feed to left earphone;
+	Ring 1 - audio feed to right earphone;
+	Ring 2 - ground return for earphones and for microphone;
+	Sleeve - audio feed from microphone.
+	
+	The operating voltage range for the microphone is 1.5Vdc to 3.6Vdc. The current draw is 0.25 mA maximum. The impedance is 300 ohms. The output level is -52dBV at 1kHz, 94 dB SPL.
+	
+	The diameter of the CBL-M+-K cable, measured at 5 inches below the earphone, is 0.060 inch.At the 3.5mm plug, the cable diameter is 0.090 inch. The cable on the CBL-M+-K is slightly more flexible than theSE earphonecable.
+	
+	At the 3.5 mm phone plug, the round, plastic shoulder (that secures the metal portion of the plug) has a diameter of 0.29 - 19/64.
+	
+	In September 2011, Shure introduced the model CBL-M+-K-EFS. The only difference is the external packaging. The cable and its function did not change.
+	[CBL = Cable; M+ = for use with specific Apple products; K = black cable; EFS = English - Spanish - French instructions]
+	
+	January 2012 - Apple confirms that the microphone in the CBL-M+-K accessory will work with the SIRI voice recognition feature.
+

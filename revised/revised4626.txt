@@ -1,0 +1,14 @@
+Title: DDS-5900 Power Up and Power Down
+Id: 4626
+Legacy Id: 5785
+
+Question:
+I need to make sure that our programmer gets things set up properly in the CU5905. We understand that the head unit must be off prior to connecting or disconnecting any of the DC5900 stations. I also understand that we have some amount of system control via the LAN port on the head unit.
+Is there an on/off command available, and if so, is this an acceptable “off” state for connecting/disconnecting, or do we actually need to have 120VAC to the unit disconnected? I ask because our install is such that the Owner will be able to reconfigure their table (to a smaller set up) as needed. We have the ability to actually shut off the 120VAC to the unit, a “hard” shut off, but I don’t know if that is necessary or recommended.
+
+Answer:
+
+	There is no remote on/off command available. The way only to turn off the CU is via the front panel power switch, or physically disconnecting power to the CU.
+	
+	There is no problem with that approach, however, and the good thing is that if the CU is turned on when power is disconnected, once the power is re-applied, the CU will come back in the on state.
+

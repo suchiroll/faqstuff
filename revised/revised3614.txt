@@ -1,0 +1,12 @@
+Title: A400SM Shock Mount drawing
+Id: 3614
+Legacy Id: 3820
+
+Question:
+Please provide a drawing of the A400SM shock mount used for the MX412 and MX418 gooseneck microphone.
+
+
+Answer:
+
+	See the two drawings attached to this answer. One is a PDF file. The other is a .dxf drawing for AutoCAD use.
+

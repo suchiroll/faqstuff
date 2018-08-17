@@ -1,0 +1,22 @@
+Title: M97AH phono cartridge
+Id: 2646
+Legacy Id: 2748
+
+Question:
+I'm trying to find information about this cartridge which came on a Fisher 6250. The bottom reads M97-AH the front reads N97-HE the stylus damper reads era IV. It isnt a screw mount. Is this a moving mag, is it bi-radial, what are the specs and are replacements available. You make a great product.
+
+
+Answer:
+
+	Is this a moving magnet?
+	* Yes.
+	
+	Is it bi-radial?
+	* No, it is a hyper-elliptical tip.
+	
+	What are the specs?
+	* Provide a mailing address and we will photocopy a catalog page on this product.
+	
+	What is the replacement stylus?
+	* The replacement stylus is the NE97HE
+

@@ -1,0 +1,29 @@
+Title: ULX-D monitoring
+Id: 4568
+Legacy Id: 5693
+
+Question:
+The organization I work for is considering purchasing 28 channels of the ULXD4Q units. I have two questions.
+
+1. The ULXD4Q does not have a headphone monitoring port. What is the most economical way to provide a listening station for my A2 to monitor any of the channels in case of an issue? The wireless will be located on the stage. My thought is to get a simple headphone amp and connect it to the cue bus of the foh console. Are there other options i should consider short of getting another mixing console?
+
+2. Should i split up the bands of wireless or get them all the same? They will be used in zip 45202. It looks to me that the G50 band is the best choice for our area.
+
+
+
+Answer:
+
+	1) Your method of a simple headphone amp connected to the Cue bus could work rather nicely.Another method that may work involves DANTE digital audio.This is built into the ULXD4Q Quad Receivers.There are two methods to use depending on the setup and what is most convenient.
+
+	
+		DANTE Audio monitoring Method #1: If you network all ULXD4Qs, you could run a single Cat 5e cable from that network of receivers to a PC/Mac that resides with the A2.This PC/Mac would have to have two pieces of software installed.The first is the Dante Controller software from Audinate (free) and the Dante Virtual Soundcard software from Audinate (there is a license fee).The Virtual sound card allows that PC/Mac to be a DANTE input/output device so that you could route the Dante audio channels from the receivers to that computer and then likely monitor them from the PC/Mac in some kind of recording software (Reaper, Garageband, etc.) many of which are also free.
+	
+		If you want to avoid the Virtual Sound card, another way of maybe doing this is to install the Dante controller on a PC/Mac that resides with the A2.Then get a hold of a DANTE capable device that has at least one Dante input and a headphone jack.We have something called an MXWANI4 4 channel Audio Network interface (4 Dante inputs and a single headphone jack).Other manufacturers may make something smaller and less expensive than the MXWANI4 though. The A2 can then use the Dante controller software to virtually re-patch the audio channels he/she wants to monitor to the appropriate Dante inputs on the gear and then listen through the hardware headphone jack.This method is most likely ONLY a good idea if the system is NOT using DANTE already for its main audio feeds.The reason for this is that then the A2 would have too much access to all the audio channels and could accidentally cause issues with the main feeds.But if Dante isnt being used already, this method could work well.
+
+
+	
+	
+	2) The decision to spread the systems out across bands or leave in a single band might have more to do with what other wireless is in use at the event.Based on the zip code, either G50 or H50 look capable of handling 28 mics in the same band but G50 seems the most open with only TV20 (506-512 MHz), TV22(518-524 MHz), and TV24 (530-536 MHz) potentially being an issue.If you are using wireless in-ear monitors or other higher power transmit devices, where are those located in the spectrum.If they are in a higher range (higher than 534 MHz), it is usually good practice to keep your wireless mics in a different range than those which would make a case for all G50.If you already have a bunch of wireless in the G50 range (470-534 MHz), splitting up the bands can sometimes relieve the spectral congestion and allow for more easy coordination.
+	
+	G50, H50, and J50 all have a good amount of spectrum to work with since ULXD is very spectrally efficient.You can always check and do a mock coordination ahead of time with our Wireless Workbench software to see whether keeping all 28 ULXD4s in the same band or split between two works best for you.Just make sure to consider what other wireless you or others are planning on using.
+

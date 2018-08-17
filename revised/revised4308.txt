@@ -1,0 +1,28 @@
+Title: Extra Battery Terminals ULXD1, P9RA, P10R, UR5
+Id: 4308
+Legacy Id: 5379
+
+Question:
+What is the function of the extra contacts in the battery compartment?
+
+
+Answer:
+
+	The extra contacts only support functionality of the optional SB900A Li-ion rechargeable battery pack.
+	
+	The battery microcontroller communications terminal (on the left) provides the time remaining information that is displayed on the transmitter and receiver display windows. If the contact fails for any reason, ERR will be displayed instead of the time remaining.
+	
+	The battery temperature data terminal (on the right) provides the charger with temperature information required for proper charging. If this contact fails for any reason, the battery charger will not charge the battery.
+	
+	Things to check while troubleshooting:
+
+	
+		Contacts are clean.
+	
+		Contacts are in proper position, and not bent.
+	
+		Contacts are not broken off.
+	
+		SB900 battery is properly installed.
+
+

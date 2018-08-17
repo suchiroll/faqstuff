@@ -1,0 +1,13 @@
+Title: Wireless SM57
+Id: 3348
+Legacy Id: 3530
+
+Question:
+Our vocalist prefers the SM57, I am wondering if there is a way to set up the '57 on one of your wireless systems? Is there a wireless SM57 cartridge available?
+
+
+Answer:
+
+	Sorry, there is no SM57 wireless mic cartridge.
+	
+	Here is an idea: use the SM58 wireless mic cartridge and replace the SM58 ball grill with the Beta 57 grill (RK278G).

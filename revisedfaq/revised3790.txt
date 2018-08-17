@@ -1,0 +1,12 @@
+Title: Countryman Mic Cable Diameter
+Id: 3790
+Legacy Id: 4028
+
+Question:
+What is the cable diameter for the Countryman mics sold by Shure?
+
+
+Answer:
+
+	1.0 mm diameter is supplied. 
+	2.0 mm diameter cables may be purchased as a replacement part.

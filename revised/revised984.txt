@@ -1,0 +1,12 @@
+Title: FP33 with NP1 battery
+Id: 984
+Legacy Id: 1013
+
+Question:
+I'm wondering if the FP33 can be powered by an adapted 12-14volt NP1 battery. I've heard yes but the 9v's must be in place and someone else said no it doesn't work. I need the Pro's answer.
+
+
+Answer:
+
+	The FP33 will accept any external DC source from 12-30 volts. The 9-volt batteries do not need to be in place if you are externally powering the FP33.
+

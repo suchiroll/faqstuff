@@ -1,0 +1,22 @@
+Title: Are PSM700 components compatible with PSM900 and PSM1000 components?
+Id: 4404
+Legacy Id: 5500
+
+Question:
+Are PSM700 components compatible with PSM900 and PSM1000 components?
+
+
+Answer:
+
+	The combination of PSM700 components with PSM900 or PSM1000 components can work reasonably well from an audio and RF standpoint because these systems use the same stereo pilot tone and a similar enough companding scheme. The complication is that this combination of components will only work where the frequency ranges of PSM900 and PSM1000 overlap with the PSM700 frequency bands. Here are the combinations that can work:
+	
+	PSM700 H3 Band (524-554 MHz)
+	-PSM900 G7 band overlaps from 524-542MHz (TV23-25)
+	-PSM1000 G10 band overlaps from 524-542 MHz (TV23-25)
+	
+	PSM700 L2 Band (632-662 MHz)
+	-PSM900 L6 band overlaps from 656-662MHz (TV45 ONLY)
+	-PSM1000 L8 band overlaps from 632-662MHz (TV41-45)
+	
+	Furthermore, PSM700 only tunes to a specific set of 32 frequencies so only a small subset of those will be usable which may make finding a clean, usable frequency more challenging in certain locations. To determine which PSM700 frequencies can work with either PSM900 or PSM1000 you will have to refer to the PSM700 Frequency Chart Supplements for either the H3 or L2 freuency bands.
+

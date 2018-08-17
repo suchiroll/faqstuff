@@ -1,0 +1,13 @@
+Title: Phantom power with Super 55
+Id: 3935
+Legacy Id: 4184
+
+Question:
+Is it ok to use phantom power on the super 55?
+
+
+Answer:
+
+	Phantom power is not required by the Super 55.If phantom is present, the Super 55 will ignore it.
+	
+

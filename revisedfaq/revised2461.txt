@@ -1,0 +1,16 @@
+Title: What is Predictive Diversity?
+Id: 2461
+Legacy Id: 2556
+
+Question:
+What is predictive diversity? Is it different from true diversity or Marcad diversity?
+
+
+Answer:
+
+	Predictive Diversity is two antennas connected to a single receiver section. A microprocessor monitors the slope of the RF level to predict when a dropout will occur at an individual antenna. The microprocessor switches antennas before the dropout occurs.
+	
+	MARCAD is explained at: Selection and Operation of Wireless Microphone Systems
+	
+	Both MARCAD and Predictive Diversity are types of True Diversity systems. True Diversity is defined at the above link.
+

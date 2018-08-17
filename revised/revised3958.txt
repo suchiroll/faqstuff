@@ -1,0 +1,13 @@
+Title: Accuracy of Axient battery gauge
+Id: 3958
+Legacy Id: 4207
+
+Question:
+How accurate is the battery gauge on the AXT100 or AXT200?
+
+
+
+Answer:
+
+	The battery gauge is accurate to within 15 minutes.
+

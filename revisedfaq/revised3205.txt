@@ -1,0 +1,12 @@
+Title: Conical stylus for Shure M55E cartridge
+Id: 3205
+Legacy Id: 3350
+
+Question:
+I usually use the N55E elliptical stylus in my M55E cartridge, of course. However, for slightly scuffed/scratched vinyl, I have a conical cartridge, (marked "75C", found it in an old turntable, most likely) that I use with very good results on noisy LPs - it's quieter, though less detailed. I don't know how much wear there is on it, and want to replace it. Can someone recommend a decent diamond conical stylus that I can use in my M55E for vinyl that's a little beat up?
+
+
+Answer:
+
+	The N44-7 stylus is conical (0.0007 radius) and tracks at 1.5 to 3 grams. It will fit the M55E body.
+

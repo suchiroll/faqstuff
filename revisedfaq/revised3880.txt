@@ -1,0 +1,36 @@
+Title: PGXD: Reasons for Interference, Drop Outs, Intermittent Performance
+Id: 3880
+Legacy Id: 4126
+
+Question:
+I am using a PGXD. Occasionally, I hear clicking and popping from that system, but it does not happen all the time.
+
+
+Answer:
+
+	In the United States, the PGXD operates in the 902 to 928 MHz band.  Though this band is not used for broadcast TV, the 902 to 928 MHz band is used for other non-licensed wireless devices; the band is not reserved only for wireless microphones.  These other devices can be industrial, scientific, security, educational, or medical, and they have the same rights to operate in this frequency band as the wireless microphones. No device has priority over another device.
+	
+	Here are examples of devices that are known to interfere with the PGXD:
+	
+	1)     Wireless network that reports power outages and other operational data to the local electric company.  This device was located on a utility pole outside of a church.  The device used "frequency-hopping" and would occasionally "hop" directly onto the PGXD operating frequency.  This created an audible "pop" that lasted about 10 milliseconds.
+	
+	2)     A security system in a television studio.  This device emitted bursts of RF energy in the 900 MHz band.   This created re-occurring audible pops and clicks in the PGXD system.
+	
+	3)     A commercial phone system, made in the early 1990s, in a church. Every 15 minutes, this phone control center would emit a very strong (almost one watt!), 900 MHz band signal that queried the wireless phones: "Are you on?"  "What frequency are you using?" This RF burst from the phone system produced one second of audible interference in the PGXD every 15 minutes.
+	
+	4) A "timing mat" used at high school and college wrestling matches. This caused a repetitive loss of the PGXD audio signal.
+	
+	5) A Radio Frequency Identification Device (RFID) system used for running races.  Each runner has a unique RFID tag.  As the runner crosses over an antenna placed on the ground, the exact time of the crossing is logged.
+	
+	6) A medical device that transmits patient data such as blood pressure, pulse, etc.
+	
+	Sources of PGXD interference are typically nearby.  When seeking the source of interference, look for devices with antennas which are within 200 feet of the PGXD receiver.
+	
+	In the examples given, there were three possible solutions:
+	
+	1) Replace the PGXD with a system that operates in the UHF TV band, such as the analog BLX series; or
+	
+	2) Power off (or replace) the device causing the interference; or
+	
+	3) Contact Shure Service in the United States at 800-516-2525. The PGXD4 receiver can be updated by Shure Service with new firmware that momentarily mutes the audio output when bursts of interference are detected. If you already hear multiple quick mutes/silences, the correct firmware is installed.
+	A simple test to determine if the problem is local interference is to operate the PGXD in a different environment, at least one mile away from the venue.  If the root cause is local interference, the PGXD will work fine in a different environment. If the PGXD needs repair, it will work poorly no matter where it is used.  A more accurate test is for a local wireless microphone expert to employ an RF spectrum analyzer.  The analyzer can display the frequency and strength of the signal causing the interference.

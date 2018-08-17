@@ -1,0 +1,19 @@
+Title: Mic Input for a zoned Media Matrix System
+Id: 4327
+Legacy Id: 5407
+
+Question:
+I want to connect a Shure 527B mic to the five pin XLR input of a Media Matrix system. What is the pin out?
+
+
+
+Answer:
+
+	XLR Pin 1 = 527B Shield (Ground)
+	XLR Pin 2 = 527B White Wire (Mic +)
+	XLR Pin 3 = 527B Green Wire (Mic -)
+	XLR Pin 4 = 527B Red Wire (PTT Switch Positive)
+	XLR Pin 5 = 527B Black Wire (PTT Switch Ground)
+
+	* PTT = Push-To-Talk
+

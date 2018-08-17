@@ -1,0 +1,15 @@
+Title: Can a Beta 58A be made wireless?
+Id: 2030
+Legacy Id: 2095
+
+Question:
+I would like to know if Beta 58A microphone can be wireless.
+
+
+Answer:
+
+	A wired Beta 58A can only be made wireless by connecting it to one of our bodypacks using the WA310 cable.
+	
+	There is no way to modify a wired Beta 58A to make it a wireless handheld microphone.
+	
+	Most of our wireless systems are available with the wireless version of the Beta 58A cartridge.

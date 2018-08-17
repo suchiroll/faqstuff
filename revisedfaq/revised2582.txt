@@ -1,0 +1,24 @@
+Title: Mic Model LP300L
+Id: 2582
+Legacy Id: 2681
+
+Question:
+I know the LP300L mic can be configured as HIz or LOWz.
+
+
+However it would appear that in the HIz and LOWz modes, that the LP300L is only capable of being wired as an unbalanced device.
+
+
+Although the LP300L is shipped with a 3 pin XLR male connector, a check ot the factory wiring, on the mic body's, male XLR connector will reveal that pins 1  2 are tied together (ground or low depending upon the device receiving the connections) --- Pin 3 has the ability to receive a wire (HIz or LOWz) via internal plug connection.
+
+
+Thus it looks like you have not actually provided this mic with the ability to deliver a balanced LOz output for driving long cable runs.
+
+
+Before I tear the top side of this mic apart to attempt a wiring possibility of making the LP300L a truly balanced LOz device, I thought I would write and see if you could shed any light on this device and the possibility of wiring it as a truly balanced LOz device.
+
+
+Answer:
+
+	Yes. It can be internally rewired as a balanced mic. We have a data sheet (dated 1981) showing the internal wiring and will mail you a copy. Please provide a mailing address.
+

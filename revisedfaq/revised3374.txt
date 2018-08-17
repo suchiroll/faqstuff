@@ -1,0 +1,13 @@
+Title: Repair of I2c-M
+Id: 3374
+Legacy Id: 3561
+
+Question:
+I have an I2c-M that I need repaired. Where do I send it?
+
+
+Answer:
+
+	Take your broken I2c-M to the AT store and they will be able to replace it for you.
+	
+	Do not return the I2c-M to Shure, as we do not have the capability to replace it. The I2c-M needs to be replaced through AT

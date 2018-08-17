@@ -1,0 +1,14 @@
+Title: Right angle transmitter to guitar cord
+Id: 2004
+Legacy Id: 2067
+
+Question:
+I bought a Shure Wireless Guitar system, and it works great, but my guitar 's 1/4 " plug-in is on the face of the instrument and my 1/4" plug from the transmitter sticks out from it. Do you have a guitar cord with a 1/4" plug that has a 90º angle (L shaped). Is there any such animal?
+
+
+Answer:
+
+	Yes, its a WA304. You can order one from our Parts Department at 800-516-2525.
+	
+	The WA304 will work with the following bodypacks: PG1, PGX1, BLX1, GLXD1, SLX1, ULX1, QLXD1, ULXD1, UR1, U1, AXT100
+

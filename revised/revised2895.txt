@@ -1,0 +1,12 @@
+Title: Camera Control via Logic Ports?
+Id: 2895
+Legacy Id: 3019
+
+Question:
+Is camera control through logic ports available?
+
+
+Answer:
+
+	No.
+

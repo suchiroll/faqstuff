@@ -1,0 +1,14 @@
+Title: Powering of Condenser Mics
+Id: 429
+Legacy Id: 436
+
+Question:
+Does the SM94-LC take a battery or require phantom power? If so, do you make a separate phantom power supply? I contacted you guys yesterday, asking about a mic to cover a jury booth. You e-mailed me back and said that a condenser mic would probably be the best mic for that application. My question is, do all condenser mics take a battery or require phantom power? The court I'm dealing with, their equipment does not have phantom power. They don't want to have to worry about a battery, in fear of it going dead because someone forgot to turn off the switch!!! THANKS FOR YOUR SUPPORT!!!!
+
+
+Answer:
+
+	Every condenser mic requires either phantom power or an internal battery. Some condenser mics can use only one or the other, while other condenser mics can use either. The SM94 can use either one.
+	
+	If using an internal battery on the SM94, the battery will last for about 5,000 hours.
+

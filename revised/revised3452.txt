@@ -1,0 +1,25 @@
+Title: ULX and Taylor Guitar
+Id: 3452
+Legacy Id: 3646
+
+Question:
+I recently encountered problems when attaching my guitar to a Shure ULX beltpack transmitter. It seems the guitar generates too much signal for the belt pack to operate correctly. After several attempts to correct the problem using inline resistors, the following scenario seems to work best.
+
+Place a 240 K ohm ½ watt resistor between the guitar plug positive tip and the plug for the remote transmitter. Make sure, if the shield on the wire is woven, that all strands from the shield are protected from contact with the leads to the resistor. Taping with electrical tape will probably be necessary. The insulation was cut back on the wire the length needed for the resistor rather than cutting the wire in two.
+
+
+For convenience it may be easier to put the resistor near the plug for the guitar. The stiffness of the cord caused by the resistor and shrink-wrap can be hidden in the straight portion of the guitar shoulder strap.
+
+
+For aesthetic purposes and strain relief the resistor and associated wires should be covered with shrink wrap and heated to a tight fit. The next 2 steps are probably over-kill, but to smooth out the lumps, I taped the same area with electrical tape. Next the heat shrink tubing was placed over the tape and lightly heated it to create a smooth surface.
+
+I inserted the resistor in series with the positive lead only. This was done after other configurations had failed. Pi and Tee, balanced and unbalanced, attenuators were tried with different resistor values. The main problem with these attenuators were they changed the tonal quality of the guitar. This resolution left the guitar with very close to the original tonal quality and balance.
+
+
+
+Answer:
+
+	Adding the 240k ohm in series increased the guitars output impedance by that amount, as viewed by the transmitter. This will reduce the signal level as well but only by a few dB.
+	
+	Thanks for the information as it will help other owners of Taylor guitars.
+

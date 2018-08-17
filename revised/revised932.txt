@@ -1,0 +1,22 @@
+Title: Replacements for stolen T Series wireless
+Id: 932
+Legacy Id: 960
+
+Question:
+I have a Shure T4V  diversity receiver-vocal.  Freq:208.2
+
+The mike and power supply were stolen. Questions:
+
+1. Can I use a T1G Body-Pack Transmitter for guitar with this unit?
+
+2. Can I get a replacement PS20 power supply?
+
+If the answer is yes to these questions, how would I go about getting these parts and what would be the cost?
+
+
+Answer:
+
+	1. Yes. Just order a T1G bodypack transmitter on the same frequency as the receiver. You can purchase this only through a Shure dealer. The T series has been discontinued, so it might be difficult finding a transmitter.
+	
+	2. Yes. You can buy this directly from Shure or order it through a dealer at the same time you order the bodypack.
+

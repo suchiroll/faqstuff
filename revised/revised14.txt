@@ -1,0 +1,10 @@
+Title: Is there a difference between a VU and a PPM audio meter?
+Id: 14
+Legacy Id: 14
+
+Question:
+Is there a difference between a VU and a PPM audio meter?
+
+Answer:
+
+	Yes. A VU meter displays the average volume level of an audio signal, while a PPM meter shows peak volume level. These differences must be taken into account when aligning a VU meter with a PPM meter. - more information -

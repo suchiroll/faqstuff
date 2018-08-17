@@ -1,0 +1,43 @@
+Title: Theater Audio - Using Wireless Microphones with Bodypack Transmitters
+Id: 2713
+Legacy Id: 2817
+
+Question:
+How do theater professionals use and hide wireless bodypack transmitters?
+
+Answer:
+
+	1. Most bodypacks come with an attached belt clip. The obvious way to wear a bodypack transmitter is to clip the bodypack onto an actors clothing at the beltline or on the hip area. The transmitter can also fit into pockets of shirts, jackets, or pants with little hassle. Even so, it is important to allow the antenna to be unobstructed and fully extended.
+	
+	2. Extra pockets of fabric can be sewn into costuming when the bodypack needs to be as unobtrusive as possible without using the clip.
+	
+	3. The small of the back can be used for placement if a fanny pack or similar harness is used instead of the clip. Make sure the antenna is able to extend.
+	
+	4. A bodypack can be held between the shoulder blades and under costuming using a shoulder harness or back pack made up of a pouch for the pack and a couple of loops to go around the shoulders.
+	
+	5. Maintaining stability in some odd locations can require the use of cloth, elastic, or Velcro straps or bands. They should be stable enough to hold bodypacks on to arms and thighs.
+	
+	6. Affixing a large safety pin to a bodypack with gaffers tape can allow smaller, lighter bodypacks to be affixed to hats or wigs, although this may not be the best choice for physically active performances or dancing.
+	
+	7. RF signal can be blocked and reflected by metallic surfaces. This can include any costuming that has metal threading or metal plating, the extreme cases being your knight in shining armor. Wearing a bodypack under this material will severely degrade RF performance.
+	
+	8. Antennas of bodypacks should always be kept as clear as possible from obstructive surfaces or materials. As stated earlier, antennas should never be curled up, stuffed into pockets, or wrapped around the transmitter.
+	
+	9. Allow for strain relief on the microphone connector and antenna, so that movement of the actor will not crimp the cable or antenna with their movements. Repetitive strain on the cable will cause failure sooner rather than later. Remember to check cables and antennas thoroughly before each performance.
+	
+	10. You can utilize the lock out features of some bodypacks to make sure the actor cannot accidentally power off the transmitter during a performance, or in the case of frequency agile systems, accidentally change the operating frequency.
+	
+	11. Make sure to leave the battery as accessible as possible, as you may need to do a quick change unexpectedly.
+	
+	12. The human body, because of its composition, can cause some RF transmission issues with bodypack transmitters. In certain cases, the body of the actor can potentially inhibit RF transmission. Repositioning the bodypack or the receiving antennas (or both) can overcome this occurrence.
+	
+	13. Sweat can be potentially harmful to the electronics of a bodypack transmitter. There are many methods sound designers have created to protect bodypacks from sweat. A simple solution is to wear a Neoprene transmitter pouch when feasible. While not completely waterproof, it will protect the bodypack from sweat and low level moisture. Another more protective method is to use a dry condom to cover the bodypack. As unusual as it sounds, it is fairly effective when used properly. An un-powdered, dry surgical glove can also be used. Remember that there are people allergic to latex or other materials, so check with the talent ahead of time before using any method of covering a bodypack next to skin.
+	
+	14. It is a good idea to clearly label your bodypacks in some manner to identify the intended user. Any mix-ups can destroy the continuity of the show and cause the sound engineer to search for the right mixer channel to operate during the show.
+	
+	15. Do not leave transmitters bunched together on a table or in a bin while they are turned on. The proximity of the transmitters to each other can increase the likelihood of intermodulation distortion (IMD) manifesting itself on one or more receivers. The same effects can occur when poorly chosen frequencies are used on bodypacks that are very close to each other on stage. Proper selection of frequencies is a must.
+	
+	16. Bodypacks can come equipped with a variety of input connectors, depending on the manufacturer. Most will supply bias voltage for condenser elements. Using one manufacturers wireless lavalier microphone with another manufacturers transmitter and receiver is not out of the question. It is a matter of contacting the manufacturer of either and getting the proper pin outs of the connector types. It may require purchasing a mic with no connector, or rewiring the proper connector on to the lavalier in the right manner. Do not assume the mic will work because that if the connector is the same between manufacturers. There are several ways of wiring any given connector.
+	
+	17. When using bodypack transmitters simultaneously with wireless in-ear monitor receivers, make sure the packs are separated as much as possible to avoid any RF interaction between the two. The methods used for concealing bodypack transmitters can also be used for wireless in-ear monitor receivers, as they are the same general shape and size.
+

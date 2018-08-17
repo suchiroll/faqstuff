@@ -1,0 +1,14 @@
+Title: Diversity vs Non-Diversity
+Id: 697
+Legacy Id: 714
+
+Question:
+What are Diversity and Non-Diversity wireless systems or receivers?
+
+
+Answer:
+
+	Please see the following booklet:
+	
+	Intro to wireless systems
+

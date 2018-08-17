@@ -1,0 +1,12 @@
+Title: MXW - maximum Ethernet cable length
+Id: 4397
+Legacy Id: 5492
+
+Question:
+What is the maximum Ethernet CAT5 cable length from the MXW Audio Network Interface to MXW audio wireless access point?
+
+
+Answer:
+
+	The Ethernet cable maximum length from the MXW Access Point Transceiver to the MXW Audio Network Interface is the same as any Ethernet run - 100 meters or just over 300 feet. For longer runs over 150 feet, we recommend using CAT6 cable, preferably shielded.
+

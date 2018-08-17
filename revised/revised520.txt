@@ -1,0 +1,24 @@
+Title: Linking AMS4000 w/ AMS8000 - cable length
+Id: 520
+Legacy Id: 531
+
+Question:
+What are the limitations of cable lengths on linking AMS4000/8000 mixers? I wish to use one at a remote location from the other, apprx. 30' away. Are the sleeves of the link jacks tied together? (I want to use a balanced mic line as the cable path). I know I need two mono (guitar) cables, and wonder if I can use two-conductors plus shield instead.
+
+
+Answer:
+
+	The AMS link connections are unbalanced and a medium impedance. For a 30 foot link to operate without hum/buzz, the Link A signal and Link B signal must transformed to a low impedance, balanced signal. This requires the use of four Shure A15BT transformers.
+	
+	Here is how to connect the Link A; do the same for Link B.
+	
+	1) From AMS 8000 LINK A OUT to A15BT (33,000 ohm side - XLR female): tip to pin 2; sleeve to pins 3 and 1.
+	
+	2) From A15BT (600 ohm side - XLR male) to balanced XLR mic cable: pin 1 to pin 1; pin 2 to pin 2; pin 3 to pin 3.
+	
+	3) From far end of balanced XLR mic cable to the other A15BT (600 ohm side - XLR male): pin 1 is NOT CONNECTED; pin 2 to pin 2; pin 3 to pin 3.
+	
+	4) From A15BT (33,000 ohm side - XLR female) to AMS 4000 LINK A IN: pin 2 to tip; pins 3 and 1 to sleeve.
+	
+	Do not use a transformer designed for mic level signals, like the Shure A95 or A85 series. The AMS link signal level is too great for these transformers and the result will be signal distortion.
+

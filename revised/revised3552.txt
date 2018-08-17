@@ -1,0 +1,37 @@
+Title: WA615M colored rings fit what transmitters?
+Id: 3552
+Legacy Id: 3758
+
+Question:
+Does the WA615M colored ID rings fit all Shure wireless microphone transmitters?
+
+Answer:
+
+	The WA615M will fit the BLX, GLX-D, PG, PGX, QLX-D, SLX, ULX, ULX-D and UHF-R handheld transmitters. The ring needs to be installed upside down for the PG2, PGX2,or SLX2 transmitter. See example photos below.
+	
+	For GLX-D, QLX-D and ULX-D, the battery compartment must be closed before installing the ring; slide the ring over the closed battery compartment cover.
+
+	
+
+	PG2 transmitter
+
+	
+
+	
+
+	SLX2 Transmitter
+
+	
+
+	
+
+	ULX2 Transmitter
+
+	
+
+	
+
+	UR2 Transmitter
+
+	
+

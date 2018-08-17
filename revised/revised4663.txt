@@ -1,0 +1,19 @@
+Title: M97xE Height and Vertical Tracking Angle
+Id: 4663
+Legacy Id: 5830
+
+Question:
+I own a Rega P5 turntable and am considering installing an M97xE cartridge. Rega states that their cartridges are 14 mm tall. what is the height of the M97xE? How do I set the Vertical Tracking Angle (VTA)?
+
+
+
+Answer:
+
+	
+		The VTA will be correct when the top of the headshell is parallel to the record.
+	
+		
+		M97xE is 15 mm from top of the mounting flange to the bottom of cartridge body.
+
+
+

@@ -1,0 +1,19 @@
+Title: Voice Pop in MX412 on "P"s
+Id: 268
+Legacy Id: 274
+
+Question:
+Our church has a MX412 mounted on the pulpit.  I have been fighting loud pops every time the pastor uses a "P" word. I have tried various foam wind screens.  I use the low cut filter and turn down the low eq on our Mackie 32-8 mixer to reduce it as best I can.  The problem is that I don't like the sound quality with that much of the lows cut out.  Do you have any other suggestions?  Our old mike had a low cut switch on it.  I notice you all make an accessory A15HP, would that be worth trying?  I have asked numerous people at professional audio stores and have not gotten much help.  It is not practical to put a "popper stopper" in front of the pastors face so that is not an option for me.
+
+Answer:
+
+	Hopefully you have tried the A99WS windscreen. It is a fairly large windscreen but does an excellent job of reducing popping noise. When using windscreens, there are two things that make it effective: (1) Different densities of foam. That is, if the pop has to go through different densities it slows it down before it hits the mic diaphragm. (2) Diameter. The more foam that wind has to go through, the better the pop protection.
+	
+	When using any windscreen, keep a small air gap between the windscreen foam and the mic grill by pulling the windscreen slightly away from the mic.
+	
+	Another suggestion is to place the mic off axis from the pastors mouth. Almost all of the wind plosives from the mouth blow directly forward. If you place the microphone so that it is 20 degrees off to one side, that will also help minimize any p popping.
+	
+	The A15HP will also help, but may reduce the low frequencies too much for your taste. Try it and hear the results.
+	
+	Finally, an omnidirectional capsule on the MX412 will nearly eliminate popping, but may cause feedback problems. Again, try it and hear the results.
+

@@ -1,0 +1,15 @@
+Title: Shure X2u or USB Mic with Apple Mavericks Operating System
+Id: 4437
+Legacy Id: 5536
+
+Question:
+I tried the Shure PG42-USB on my wife's 2013 iMac which is running Mountain Lion. The mic works fine on that 2013 machine with QuickTime 10.2.
+Yet, the same mic does not work with the Mavericks OS. Any ideas?
+
+
+Answer:
+
+	As of February 2014: Thereappears to be discussion on the web that indicate there could be a problem on Apples side. Recent Apple computers (late 2013 onward) that use the Mavericks O.S. apparently have issues with certain USB devices.
+
+	As the Shure X2u and the PG42-USB mic are hardware only,and do not require special firmware or software on the computer, this issue has to be resolved by Apple and their O.S. software designers.
+

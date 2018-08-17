@@ -1,0 +1,70 @@
+Title: Troubleshoot Wireless Workbench 5 USB Connection
+Id: 3508
+Legacy Id: 3707
+
+Question:
+I bought a new UR4 receiver and installed Wireless Workbench on my computer. I connected a USB cable from the computer to the receiver but the receiver does not show up in Wireless Workbench. What should I do to troubleshoot?
+
+
+Answer:
+
+	The UHF-R receivers can connect to the USB port of computers running 32 bit versions of the operating system. If you have a 64 bit operating system, the USB connection will not work, but you can still use the ethernet connection.
+	
+	The USB bandwidth can only handle about 4 channels of UHF-R. If the system has more than 4 channels of wireless, an ethernet connection must be used.
+	
+	When connecting the UHF-R receiver to the computer, the drivers do not automatically install. If you did not tell the computer where to find the USB drivers, then the drivers would not have installed. The drivers are on your hard drive but will need to be installed. Follow these instructions.
+
+	
+
+	1) Click on Start and open the Control Panel.
+
+	
+
+	
+
+	2) Double click on System.
+
+	
+
+	
+
+	3) Click on the Hardware tab and then click on Device Manager.
+
+	
+
+	
+
+	4) Look for a USB device that has the explanation point warning sign.
+
+	
+
+	
+
+	5) Right click on the USB device and select Update Driver.
+
+	
+
+	
+
+	6) Select No when asked to search for software. Then click Next.
+
+	
+
+	
+
+	7) Select Install from a list or specific location and click Next.
+
+	
+
+	
+
+	8) Make certain there is a checkmark in Include this location in the search. Click on Browse and browse on your hard drive to the following location: C:\Program Files\Shure\Shure Wireless Workbench Software-5.0\UR4 USB Driver. Then click Next. Follow the rest of the instructions in the wizard.
+
+	
+
+	
+
+	9) After the wizard is finished, the Device Manager will show the UR4 Wireless Receiver in the list. You will now be able to see the receiver in Wireless Workbench.
+
+	
+

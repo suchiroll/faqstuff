@@ -1,0 +1,12 @@
+Title: Frequency analysis of a loudspeaker
+Id: 841
+Legacy Id: 865
+
+Question:
+I am trying to see what it would take to build an automatic sound checker for our speaker plant. At the present time, every speaker that comes off the assembly line is hooked up to an audio amplifier and signal generator and a range of frequencies are swept. The sound booth operator listens to the audio output and from that can tell if there are defects inside the speaker's magnet and voicecoil assembly. What microphone would you suggest for this application? An enclosure could be built to test the speakers and the microphone could be within inches of the speaker or a couple of feet away depending on what is needed.
+
+
+Answer:
+
+	We suggest you consider the SM63 or KSM141 set to omnidirectional (phantom power required).
+

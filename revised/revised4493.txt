@@ -1,0 +1,77 @@
+Title: Recommendations on how to select earphones
+Id: 4493
+Legacy Id: 5607
+
+Question:
+Please provide ideas on how to select earphones.
+
+
+Answer:
+
+	When Apple began packaging earbuds with their iPods in 2001, music lovers abandoned their Walkman and Discman portable music players along with whatever headphones they were using at the time and a new consumer market was born.Soon people wanted better sound from their portable players and that meant something other than ubiquitous white earbuds. Now over a decade later, the explosion of models, styles, features and costs can be a little overwhelming.So many brands, colors, pop stars and prices.
+	
+	Whats the real difference? Here is information that may help you to decide.
+	
+	Think about how you will use them
+	Everyone uses earphones a little differently  listening to music while working out, tuning out background noise on the bus, train or plane, hearing a mix onstage in a personal monitoring system or being able to make and receive calls while listening to music, a podcast or an audio book. The more features you add (onboard volume control, multiple drivers, detachable cable), the more earphones will cost you.
+	
+	Are you going to use them every day of the week on the way to work, school or on the train? Another consideration is how careful you are.Will you place them back in a carrying case or toss them in the bottom of your gym bag?Which family members are likely to borrow them from time to time? (And how careful are they likely to be?)
+	
+	Sound isolation considerations
+	Sound Isolating earphones, like the ones that Shure makes, work passively the same way that earplugs do.Soft, pliable sleeves fit snugly into the ear and physically block outside noise from entering the ear. Sound isolation works across the entire audible spectrum and in all kinds of environments without the need for batteries.
+	
+	Lets say, though, that youre a runner and like to listen to a playlist on your morning jog or training for your next 10K.Then, safety becomes a factor.You may want to choose non-Sound Isolating earphones that will allow you to hear ambient sound  a persons voice, traffic noises, car horns or train whistles.
+	
+	Comfort as a critical factor
+	For many users, comfort is just as important as audio quality.Youre not going to insert something into your ear that doesnt feel good.Getting it right can take a little experimentation and patience. For Sound Isolating earphones especially, the fit is critically important to seal the ear canal. Thats why manufacturers package multiple sizes and styles of sleeves with their earphones. These sets of sleeves  generally foam or silicone  can effectively block most ambient sound.Aftermarket manufacturers (Sensaphonics is one) also offer custom-fit sleeves for a variety of earphones, including Shures.
+	
+	Also a matter of personal taste is where the cable is located.Do the earphones tend to fall out during exercise?Does the cable interfere with your sunglasses?
+	
+	Straight down: The most common type (think of the earbuds that came with your first iPod), these are worn with cable hanging straight down.The cable can be positioned in back or front.
+	
+	Over the ear: Provides stability for active use.The secure fit is one reason why this type of cable architecture is found on most professional-grade earphones. The cable can be worn in back or front. (With the exception of the model SE112, Shure earphones are this type.)
+	
+	Sound quality
+	To produce sound earphones employ a variety of types and quantities of miniature speakers, more commonly known in the audio industry as drivers. Here are a few considerations that apply to sound quality and determining whats good for you:
+	
+	- Are you listening or working/performing?
+	- They type of music you listen to.
+	- Other audio equipment you own.
+
+	The quantity of drivers
+	An earphone with only one driver per side (a single driver earphone) can produce sound throughout the entire audible range (normally between 20Hzand 20kHz). So why would anyone ever use more than one driver? Because there are limitations to what a single driver can do. Here are a few:
+	
+	- It might not get very loud before distorting.
+	- The curve of the sound (the relative levels of frequencies from low to high) can be limited.
+	- Any changes must be applied through EQ or other processing.
+
+	To counter the limitations of single driver earphones it is common to include multiple drivers in each side. Special filtering is applied to further segregate the range of frequencies, allowing one driver to focus only on a specific range. This can increase efficiency and the overall level that can be reached. It is not unlike the technology used in normal stereo speakers. The incoming audio signal is split into two or more audio paths (depending on the number of drivers) and each path is optimized for a specific frequency range.
+	
+	It is not guaranteed that a multi-driver earphone will outperform a single driver earphone. In fact, poorly designed multiple driver earphones can cause anomalies or artifacts in the frequency response that may lead to dissatisfaction for a music listener or worse, inaccurate performances or mixes for musicians and sound engineers.
+	
+	In addition to the quantity of drivers it is important to note the crossover circuitry in a multiple driver earphone.
+	
+	Two-way and three-way crossovers
+	A two-way crossover typically splits the audio signal into two separate channels, high and low. The high signal would be routed to a high frequency driver (often called a tweeter) and the low signal would be routed to a low frequency driver (often called a woofer). The frequency at which the signals split is called the crossover point, which is where one range ends and another begins. When designed properly, the resulting sound might be more expansive with a stronger bass response.
+	
+	A three-way crossover is similar to a two-way but would include another crossover point, making three distinct frequency ranges: Low, mid and high. A three-way design can offer even more sound level at an even higher quality if it is implemented properly.
+	
+	Frequency range
+	Like many listening products, earphones usually specify a frequency range that is measured in Hertz (abbreviated as Hz). Frequency response is the range of bass, mids and trebles. 20 to 20,000 Hz (or 20 kHz) is generally accepted as the audible frequency range for humans  so its the standard for most earphones.But it can be a nearly meaningless metric, since few audio companies measure frequency response in exactly the same way  and  whats in the center of the response range (human hearing) is what really matters the most.
+	
+	Durability
+	Earphones may be relatively small but they face plenty of abuse. Cables get wrapped around our smartphones or MP3 players.They are subjected to all kinds of weather conditions. They end up in the bottom of our gym bags and briefcases. Many of the problems associated with earphones are the result of damaged cables. That makes features like detachable, multi-length and reinforced cables important to the longevity of your earphones.
+	
+	Now what?
+	Can you hear the difference between the tangled pair you have laying around the house and your friends $200 earphones?That listening experience may tell you how much you should spend. Remember, too, that the shape of your ear canal means that everyone processes sound differently.
+	
+	Since its nearly impossible to live-test earphones in a store you can try other ways to determine whats best for you. A few examples:
+	- Professional audio review websites offer insight and commentary.
+	- Bulletin boards and other public forums provide comments from actual customers of the products.
+	- Look up retailers who carry the items you are interested in and determine if you will be able to try them out.
+	- Test models owned by friends or colleagues.
+	
+	
+	This is personal listening at its most personal, so above all else, trust your ears!
+	
+

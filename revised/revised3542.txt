@@ -1,0 +1,16 @@
+Title: SLX2 and PGX2 Excessive Noise
+Id: 3542
+Legacy Id: 3748
+
+Question:
+I own four SLX systems with the SLX2 handheld transmitter. Recently, I purchased a fifth system and noticed that the SLX2 transmitter was much noiser than the four older SLX2 units. Any ideas?
+
+
+Answer:
+
+	It is feasible that a test point on the SLX2 main circuit board is touching a ground foil on a smaller circuit board, known as the head board. This same problem can also affect the PGX2 transmitter. The symptom is exactly as you described - excessive noise. Please return the noisy SLX2 to Shure Service for examination and repair.
+
+	
+
+	As of April 2009, Shure Engineering has implemented a fix to prevent this fault in the SLX2 and the PGX2.
+

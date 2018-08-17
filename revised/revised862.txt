@@ -1,0 +1,32 @@
+Title: 545S microphone set at Hi-Z has low volume
+Id: 862
+Legacy Id: 889
+
+Question:
+I have an 1968 vintage 545S mic. Wired for Hi Z.  I am sure the wiring is correct and the contacts good based on previous correspondence.  When I plug it into a guitar amp the volume is very low.  I have to crank the amp way up to get any volume at all.  Even then - it's just not right.  This is very different that another similar hi Z mic I also use in the same amp.  That one is way louder - more like I recall it should be.
+
+Sounds like I have a problem with my antique mic.  What can I do to check it out myself?  I fear that sending it to a repair shop would cost too much - I should just get a new one.  I assume an old mic - one that does not seem to work right - has little value.
+
+Do you think I would have this problem if it was wired Low Z (and put to a different use - I wouldn't try to use it in a guitar amp since I know it is looking for a high Z input.)  That is - is it likely that whatever is causing the problem would still be there.
+
+03/30/2001 08:21 PM - 
+
+  What do you mean - "wire it the other way"?  You mean low Z?  Will this hurt my guitar amp?
+
+  
+
+Answer:
+
+	At 03/30/2001 07:45 AM we wrote -
+	
+	Try wiring it the other way, and try it again. If there is no change in the output, then the cartridge may be damaged. (Those symptoms are low output and loss of low frequencies.)
+	
+	You can contact our service department about what it would cost to repair the microphone, before you run out and buy a new one.
+	
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+
+	
+	At 04/02/2001 09:27 AM we wrote - Yes. Rewire it for low Z. It will not damage the mic or the amplifier. If it works fine, then leave it. If not, the mic may require repair.
+

@@ -1,0 +1,26 @@
+Title: Condenser Microphone Self-Noise or Noise Floor
+Id: 4782
+Legacy Id: 5967
+
+Question:
+Please explain the noise floor of a condenser microphone.
+
+
+Answer:
+
+	Background noise in a room consists of trafficsounds from outside, air movement from the heating/ventilation/air conditioning system, hum/buzz from lighting fixtures, et al.These noise sources combine to create the noise floor of a room, i.e., the inherent background acoustic interference (noise) that must be overcome to perform a concert, have a conversation, to hold a meeting, or to place a phone call.
+	
+	A noisy ventilation system would be a major distraction during a classical music concert. But the same noisy ventilation system would not be noticed during a rock concert. The background noise (noise floor) in a room becomes less noticeable as the program audio in the room gets louder.
+	
+	A low noise floor is not required for a steel factory, or a bus terminal, or a rock club, but is necessary for a recording studio, or a hospital, or a library.Providing a low noise floor is expensive as any recording studio owner will confirm.
+	
+	A condenser microphone also has a noise floor, often called self-noise.The source of this inherent noise, or hiss, is the electronic circuitry within a condenser microphone.Lets compare the self-noise of two Shure condenser microphones: the KSM44A and the Beta 98A.
+	
+	The KSM44A has an exceptionally low noise floor.In the Cardioid setting, the noise floor is 4 dB SPL-A. This translates as: the self-noise (hiss level) of the KSM44A is the equivalent of a sound source that measures 4 dB in Sound Pressure Level, A-weighted. In other words, if the KSM44A were placed in a room where there was no sound, the hiss level from the mic would equal the level of a really, really quiet sound source emitting 4 dB of sound pressure level.
+	
+	In contrast, the Beta 98A has a higher noise floor of 30 dB SPL-A.The hiss level of the Beta 98A would quite noticeable if compared to the hiss level of the KSM44A.Butcan the higher noise level of the Beta 98A be a problem?It would be if it were used to record quiet classical music or to record nature sounds in a forest.But the Beta 98A was not developed for these uses; it was developed to mike drums and horns on a loud rock and roll stage.In such a loud sound environment, the noise floor of the Beta 98A is not an issue - just like the noisy ventilation system was not a distraction during a rock concert. The performance advantage of the higher noise floor is a higher distortion point for the Beta 98A.Give up noise floor on one end and the mic can handle higher sound pressure levels without distorting.This is a good trade-off for a live sound microphone.
+	
+	So where is a microphone with low noise floor an absolute requirement?One example is Foley Recording.Employed in the motion picture industry, Foley is the reproduction of everyday sound effects that are added to film in post-production to enhance the audio. These reproduced sounds can be anything from the swishing of clothing and footsteps to squeaky doors and breaking glass. Foley sound stages are exceptionally quiet and any microphone used must have a very low noise floor.The KSM44A would qualify; the Beta 98A would not.
+	
+	Check the noise floor specifications on inexpensive condenser microphones.Did you find one that is under 10 dB SPL-A?No? Why? Because it is expensive to develop, design, and manufacture a condenser microphone with a very low noise floor.Less costs more.
+

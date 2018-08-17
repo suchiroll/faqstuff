@@ -1,0 +1,14 @@
+Title: Locking the cable XLR connector to the SM48 and SM58 to deter from theft?
+Id: 2862
+Legacy Id: 2974
+
+Question:
+Is there a way to lock SM48 and SM58 to the xlr cable to deter from theft?
+
+
+Answer:
+
+	For years, the SM58 handle had a small threaded hole near the XLR connector. This hole would accept a #4-40 set screw that required an Allen wrench to tighten it. The set screw would be tightened againt the XLR cable connector and thus mechanically couple the cable to the mic.
+	
+	If there is no such hole on your SM48 or SM58 (the hole has been slowly phased out of the mic handles), you can drill and tap your own hole. The handle is zinc and drills easily. The drill bit, the tap, and the set screw can be purchased at a local hardware or hobby store.
+

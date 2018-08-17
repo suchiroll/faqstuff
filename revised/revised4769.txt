@@ -1,0 +1,20 @@
+Title: QLX-D in the 900 MHz Band
+Id: 4769
+Legacy Id: 5951
+
+Question:
+When did Shure introduce the QLX-D in the 900 MHz band?
+
+
+Answer:
+
+	In October 2015, Shure announced that its QLX-D Digital Wireless Systems will be available in the 900 MHz ISM frequency band. Adding to its line of wireless products capable of operating in the 900 MHz band, QLX-D 900 MHz is targeted for use where UHF TV band spectrum is limited or congested. QLX-D 900 MHz features components and accessories optimized for use in regional variations of the 902-928 MHz spectrum, generally known as the Industrial, Scientific, and Medical (ISM) band.
+	
+	QLX-D in the 900 MHz bandprovides the opportunity for digital wireless audio in an alternative band, free of the regulatory issues wireless microphone users may face, or may eventually face, in the saturated UHF TV band. The QLX-D 900 MHz band can support up to 12 compatible channels under optimal conditions.
+	
+	As part of its ongoing commitment to support wireless microphone users with wireless solutions for an ever-evolving spectrum landscape, Shure has conducted extensive scanning, site surveys, and product testing in the 900MHz ISM spectrum. The new QLX-D band option performs to high standards when the application and the RF environment are a good fit. The 900 MHz ISM band is also used by devices such as wireless internet access points, security systems, smart meters, Bluetooth devices, two-way radios, and intercoms. Because many of these services transmit in short bursts across multiple frequencies, this RF environment can be less predictable than the TV band has typically been. For this reason, Wireless Workbench 6 (version 6.11.3 and higher) features a Site Survey tool that enables customers to assess the availability of 900MHz ISM spectrum in a particular venue. The Site Survey Tool uses the receiver to capture a long-term scan and processes the data to provide a Usability Report, indicating an approximate number of usable channels in the ISM band.
+	
+	QLX-D 900 MHz systems are best suited for indoor use, where the environment can be assessed before the systems are installed. Usage outside of these applications is an option, but Shure recommends consulting with an authorized reseller if there is a question about which band is the best fit.
+	
+	In addition to QLX-D 900 MHz, Shure introduced two new accessories that operate in the 900 MHz band: the UA874XA Active Directional Antenna and the UA834XA In-Line Antenna Amplifier.
+

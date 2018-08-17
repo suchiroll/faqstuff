@@ -1,0 +1,15 @@
+Title: SM53 locking clips
+Id: 1886
+Legacy Id: 1946
+
+Question:
+I'm looking for replacements for the original clips which shipped with some SM53's I bought in the 70's. They have a threaded brass stand fitting and a molded plastic barrel holding the mic, with a sliding "ring" securing the mic.
+
+Are these still available?
+
+
+Answer:
+
+	The clip described, the A57SL, was discontinued 20 years ago. SL = Sliding Lock.  Sorry, Shure no longer has these in stock.
+	
+	In the current line, the choices are: A57F or A53M

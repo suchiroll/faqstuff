@@ -1,0 +1,12 @@
+Title: Preventing oxidation and corrosion on connectors
+Id: 3866
+Legacy Id: 4109
+
+Question:
+I have a service contract for a sound system in a restaurant. The location is seaside and I am constantly finding audio connectors and RF connectors with corrosion due to the salty air. Any ideas on how to prevent this or at least slow it down?
+
+
+Answer:
+
+	There are conductive greases/lubricants.  One brand name is "NO-OX-ID A-Special Electrical Grade" lubricant, made by Sanchem Incorporated; 1600 South Canal Street; Chicago Illinois, USA  60616   www.sanchem.comPer Sanchem, it can be used on signal connectors or power connectors.  Per the Sanchem website: "NO-OX-ID electrical grease prevents the formation of oxides, sulfides, and other corrosion deposits on copper, aluminum, steel, and other conductors."http://www.sanchem.com/aSpecialE.htmlNOTE: Shure does not endorse this product nor has Shure tested this product.  This information is provided to assist customers in finding a possible solution to severe corrosion issues.  It is feasible that this type of grease/lubricant is not appropriate for low voltage applications such as microphones.  Please consult with Sanchem regarding this subject.
+

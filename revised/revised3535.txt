@@ -1,0 +1,53 @@
+Title: Disable tone-key on ULX receiver
+Id: 3535
+Legacy Id: 3739
+
+Question:
+How do I disable the tone-key squelch on the ULX receiver?
+
+
+Answer:
+
+	The ULX wireless microphone system utilizes a dual squelch method to dramatically reduce the chance for random RF interference from producing objectionable sounds and noises into a sound system. The first squelch circuit is a standard noise squelch found in most FM radio systems. The second squelch circuit, known as Tone-Key, provides further verification that a wireless microphone signal is being received before enabling the audio squelch gate circuit. ULX wireless microphones transmit a 32 kHz tone (inaudible, above the hearing range) for which the receiver searches. If the 32 kHz tone is detected by the receiver, the audio gate is enabled and the audio signal passes to the receivers audio output connectors.
+
+
+	There may be certain situations where it is desirable to disable the Tone-Key squelch, especially when doing RF channel testing or product diagnostics. Disabling Tone-Key is not recommended for general wireless microphone operations. Disabling Tone-Key is only a temporary setting, and is restored to its normally on state upon power cycling the receiver.
+
+
+	The procedure applies to both ULXS4 and ULXP4 Receivers.
+
+
+	Applications:
+
+	
+		Testing radio channel for interference via audio output.
+	
+		Testing for tone-key failure in a transmitter.
+
+
+	Disable Tone-Key Squelch:
+
+	
+		Power OFF the receiver.
+	
+		Press and hold the MODE and SET buttons for about 3 second while powering ON the receiver.
+	
+		When the antenna A indicator on the receiver starts flashing, press the SET button. The antenna indicator is:
+		
+			
+				A green LED in the upper left corner of the front panel on the ULXP4 receiver.
+			
+				An antenna icon in the upper left corner of the LCD display on the ULXS4 receiver.
+		
+	
+	
+		Disabling tone-key is a temporary maintenance operation. When the ULX receiver power is cycled, the Tone-Key detection is restored to normal operation.
+	
+		The tone key signal also carries information about the transmitters battery condition. The receivers battery icon will be inactive when tone key is disabled or interrupted.
+
+
+	Additional Note:
+
+
+	If the SET button is not pressed (step 3 above) within 5 seconds of the start of the antenna indicator flashing, the receiver will enter a special maintenance mode. In this mode, a constantly changing four digit hex number is displayed that represents the received signal strength. To exit the maintenance mode, turn the receiver power off and then back on.
+

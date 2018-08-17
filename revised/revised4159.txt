@@ -1,0 +1,17 @@
+Title: MMCX Connector Definition
+Id: 4159
+Legacy Id: 5069
+
+Question:
+I have heard the connectors used on Shure earphones called "MMCX." Do these letters meaning anything, besides 2,110 in Roman numerals?
+
+
+
+Answer:
+
+	MMCX = Micro Miniature CoaXial connector. The connector on the earphone cable is a male plug with a custom plastic overmold.
+
+	
+
+	This connector was developed by Amphenol. It is available from Digi-Key as part ACX1276-ND.
+

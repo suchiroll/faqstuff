@@ -1,0 +1,29 @@
+Title: Theater Audio - Mics at the front of the stage
+Id: 2759
+Legacy Id: 2866
+
+Question:
+I need to amplify a group of singers who are moving around a stage setup that I estimate is 40' wide. They never come directly to the mikes. In the past, we have used rented Shure BG 4.1 units with pretty good success (and discovered that Shure BG 5.1 units didn't work so well for this). Now we're ready to buy some new mikes. The BG 4.1 units have apparently been discontinued.
+
+1) Would you comment on the BG 4.1 mikes for this purpose?
+
+2) What model most closely resembles that mike?
+
+3) What other currently available mikes do you recommend that we consider?
+
+4) What kind of spacing across the stage do you recommend for this application?
+
+
+Answer:
+
+	1) To see what microphones we recommend for stage use, see our online Selection Guide at:
+	Selection Guides
+	
+	2) PGA81
+	
+	3) See #1 above.
+	
+	4) Each of these mics is a cardioid. A cardioid has a 130 degree pick-up angle (horizontal AND vertical...like a cone) Place a mic in the center of the stage and use masking tape to mark a 130 degree angle. Place the next mic to the left (or right) and use masking tape to mark its 130 degree angle. Make certain the mic pickup angles overlap a little bit. How much? Experiment and listen.
+	
+	Also, read: Theater Audio - Where do I place microphones for a school play?
+

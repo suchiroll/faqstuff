@@ -1,0 +1,17 @@
+Title: Using a PSM300 device with a PSM900 device and vice versa
+Id: 4642
+Legacy Id: 5801
+
+Question:
+Can I use a P3T transmitter with a P9R receiver? What about a P9T transmitter with a P3R receiver?
+
+Answer:
+
+	While PSM300 and PSM900 use similar companding and RF transmission schemes, we do not recommend using them in a mixed configuration where you are using a PSM300 transmitter with a PSM900 receiver or vice versa. This is not recommended for the following reasons:
+	
+	1)The bands(i.e., tunable ranges) for PSM300 and PSM900 do not completely overlap giving the user very limited tuning range in many cases.
+	
+	2)PSM300 works only on a group and channel map format and cannot be tuned manually by frequency. Also, the group and channel maps between PSM300 and PSM900 are different so finding a frequency in PSM300s group and channel map and matching that frequency with a valid PSM900 frequency may be difficult.
+	
+	3)PSM300 and PSM900 both have scan-and-sync capabilities, but the sync protocols between each system is different so you cannot sync an intermix of these two systems making that key feature unavailable. This will complicate the process of scanning for open frequencies usingthe relevant receivers group and channel scan features.
+

@@ -1,0 +1,19 @@
+Title: Can I use V15VxMR to play 78 rpm?
+Id: 905
+Legacy Id: 933
+
+Question:
+I need to get the most out of old (1896-1930) 78 rpm records.
+
+1.  What is the ideal cartridge/stylus combination?
+
+2.  I have a Shure V15VxMR cartridge.  How does it compare with the ideal?  Is there a better stylus for the V15VxMR for 78 rpm records (mono)?
+
+Answer:
+
+	1. Your V15VmMR with the N78S stylus will be superb.
+	
+	2. The stylus radius of the V15VxMR is too small for 78 rpm records and will ride too low in the groove. Get the Shure N78S stylus for playing 78 rpm records. It has a spherical diamond tip with a radius of 2.5 mils, and will fit the V15V body.
+	
+	3. The smallest recommended stylus radius for 78 rpm use in 2.0 mils.
+

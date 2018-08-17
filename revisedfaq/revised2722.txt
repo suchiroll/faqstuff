@@ -1,0 +1,37 @@
+Title: 1/4" TRS Stereo vs. 1/4" TRS Balanced
+Id: 2722
+Legacy Id: 2827
+
+Question:
+I read an answer about wiring XLR to 1/4" and it got me thinking.
+
+
+1.If you have a stereo TRS 1/4" cable.. is that the same as the balanced TRS 1/4" cable, but left is on one and right is on another?
+
+
+2. I know there are mixers with stereo 1/4" inputs.. if you took a balanced TRS and plugged it in, would the mixer take both and pan the positive as one side and the negative as another? Thus defeating the point of balancing?
+
+
+3. Also, are there mixers with balanced 1/4" inputs? If so, and you plugged a stereo TRS into it.. would it just act as a balanced TRS and thus the stereo would turn to mono in the board?
+
+
+Answer:
+
+	1.If you have a stereo TRS 1/4 cable.. is that the same as the balanced TRS 1/4 cable
+	* Yes.
+	
+	but left is on one and right is on another?
+	* Typically tip is left and ring is right, HOWEVER, this is an unbalanced stereo connection.
+	
+	2. I know there are mixers with stereo 1/4 inputs.. if you took a balanced TRS and plugged it in, would the mixer take both and pan the positive as one side and the negative as another? Thus defeating the point of balancing?
+	* The answer depends upon the input circuit of the mixer. But a single 1/4 jack that handles a stereo signal is an UNBALANCED input.
+	
+	3. Also, are there mixers with balanced 1/4 inputs? If so, and you plugged a stereo TRS into it.. would it just act as a balanced TRS and thus the stereo would turn to mono in the board?
+	* The answer depends upon the input circuit of the mixer. We suggest you ask the mixer manufacturers.
+	
+	A final note: a monaural, balanced signal requires a TRS plug - tip is audio plus, ring is audio minus, sleeve is shield ground and carries no audio!
+	
+	A stereo, unbalanced signal requires a TRS plug - tip is left, ring is right, sleeve is audio ground for the left and the right signals.
+	
+	A stereo, balanced signal requires a plug with FIVE connection points, not three like a TRS plug. A five pin XLR plug can handle a stereo, balanced signal.
+

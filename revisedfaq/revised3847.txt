@@ -1,0 +1,11 @@
+Title: "*" after version number on Axient device
+Id: 3847
+Legacy Id: 4087
+
+Question:
+There is an "*" after the version number of my AXT400 receiver. What does that mean?
+
+
+Answer:
+
+	An "*" after the version number indicates that there is a problem with the firmware in the device.  Use Shure Update Utility to update the firmware version and that should resolve the problem.

@@ -1,0 +1,12 @@
+Title: Three Way RF Splitter and Combiner
+Id: 3762
+Legacy Id: 3998
+
+Question:
+At times, I have need for a passive three way antenna splitter or combiner, depending upon the installation. Shure only has a two way device,the UA221. Is there a source for a three way?
+
+
+Answer:
+
+	Mini-Circuits sells a three way splitter/combiner with a band pass of 500 MHz to 1,000 MHz.   The model number is ZA3PD-1.  This combiner uses SMA connectors and not BNC connectors that are used for most pro audio wireless.  Therefore you will also need four connector adapters (female BNC to male SMA) and the Mini-Circuits part number is SM-BF50.
+	www.minicircuits.com   Phone: 718-934-4500

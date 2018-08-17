@@ -1,0 +1,12 @@
+Title: Microphones for Alto Sax
+Id: 2380
+Legacy Id: 2471
+
+Question:
+Which microphone would you recommend for use with Alto Sax. It has to be one that clips to the instrument.
+
+
+Answer:
+
+	The Beta 98H/C or PGA98H. Also see our Application Guides.
+

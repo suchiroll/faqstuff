@@ -1,0 +1,17 @@
+Title: Is A96F stereo?
+Id: 783
+Legacy Id: 805
+
+Question:
+I have two questions regarding the A96F Impedance Transformer. 
+
+1) Is the 3.5 mm plug ring-tipped (stereo)? 
+2) A picture shows two cables from transformer to plug. Is one cable the hot (or +) lead and the other ground and cold ( or -) tied ? 
+
+Thanks.
+
+Answer:
+
+	1) The 3.5 mm plug is stereo: tip, ring, sleeve. Tip and ring are connected together.
+	2) There is a single conductor, shielded cable between the transformer and the plug. The inner conductor carries the audio, while the shield acts as both shield and ground.
+

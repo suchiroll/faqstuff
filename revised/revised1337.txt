@@ -1,0 +1,33 @@
+Title: Mic Mixer  for teleconferencing
+Id: 1337
+Legacy Id: 1389
+
+Question:
+I am looking for a mixer to add two to four microphones to our Polycom Premier EX conference phones. Polycom's technical support person recommended Shure, but couldn't recommend a model. We will need at least a dozen units.
+
+
+Answer:
+
+	We recommend two models: SCM410 or SCM268
+	
+	Also, read the following to understand the details about connecting a Shure mixer to any other device:
+	
+	What specifications determine if a Shure mixer will properly operate with your camcorder or your tape recorder or your teleconferencing system or your computer sound card or your anything!
+	
+	Shure is often asked Will mixer model X work with my .? While we would love to have the audio input specifications of each and every device in the world that needs a mixer, it is an impossible task. So for us to help you select the proper mixer, we need you to provide the following three vital specifications for the audio input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MIXER INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the mixer must supply to satisfy the audio input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the mixer model. If you select a mixer whose signal level is too low for your device, the audio will be noisy and low in level. If you select a mixer whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the mixers signal level to your devices required input level is imperative.
+	
+	VITAL MIXER INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen mixer. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a mixer does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the mixer model. If you select a mixer whose impedance is lower than or equal to your devices input impedance, the mixer will work if it provides the proper signal level (see #1 above). If you select a mixer whose impedance is greater than your devices input impedance, the mixer will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MIXER INPUT SPECIFICATION #3
+	This final specification is the type of audio input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper mixer wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the mixer model. If the mixer connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the mixer might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular mixer will work with your device. Shure will be happy to assist in your mixer selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+

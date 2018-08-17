@@ -1,0 +1,29 @@
+Title: MXA Advance Microphone Arrays
+Id: 4851
+Legacy Id: 6037
+
+Question:
+Please provide a description of the MXA Advance ceiling microphone array and table microphone array.
+
+
+Answer:
+
+	Feb. 9, 2016
+	
+	At Integrated Systems Europe (ISE) 2016, Shure Incorporated introduced Microflex® Advance™ - networked ceiling and table microphone arrays, audio interfaces, and control software for A/V conferencing.
+	
+	With the ability to flush-mount the Microflex Advance Ceiling Array (MXA910) alongside standard ceiling tiles, and an innovative "toroid" polar pattern in the Microflex Advance Table Array, Microflex Advance microphones provide unique technology.  Microflex Advance is an evolution of Shure's IntelliMix® Digital Signal Processing, including Steerable Coverage™ technology. Microflex Advance Array Microphones use the Dante™ Audio Networking protocol with control, audio, and power signals carried through a single standard Ethernet cable connection.  
+	
+	The Microflex Advance Ceiling Array is a networked microphone array that captures audio from above the meeting area with Shure proprietary Steerable Coverage technology that provides up to eight lobes configurable in three dimensions. Designed for A/V conferencing environments-from boardrooms to huddle rooms to multi-purpose spaces, the Microflex Advance Ceiling Array microphone can be flush-mounted in a standard ceiling tile grid. In addition, the Ceiling Array can also be installed below the ceiling with VESA-D and wire hanging mounts.
+	
+	Note: The primary purpose of the Ceiling Array is capturing talker audio from within the room and sending the talker audio to a remote site.  The Ceiling Array is not optimized for amplification of the talker audio within the room, often called "voice lift."
+	
+	The Microflex Advance Table Microphone Array (MXA310) captures speech and provides pattern flexibility in A/V conferencing environments. Within the onboard IntelliMix DSP Suite, the proprietary Steerable Coverage technology provides up to four discrete audio channels. An innovative "toroid" ring-shaped pattern attenuates unwanted artifacts from above the table such as HVAC or projector fans. Programmable capacitive-touch mute switches ensure simple operation with the ability to customize LED color and LED shape to indicate microphone status.
+	
+	Offering analog-to-digital/digital-to-analog conversion, the four Audio Network Interfaces provide signal routing of the Dante-networked audio. The Interfaces are available in standard XLR (mic/line) and Euroblock (mic/line) connector versions. LED and Mute terminals for logic-enabled analog microphones are included. Each Audio Network Interface includes a single Ethernet port for Dante Audio routing and a browser-based software for control of connectivity and monitoring.
+	
+	Microflex Advance hardware features built-in control software, providing an interface to adjust microphone attributes-such as configuration of presets, templates, and polar patterns. Microflex Advance products integrate with third party controllers such as Crestron and AMX.
+	
+	Note: As with all microphones, the room acoustics and the room background noise have a direct impact on the audio quality captured.  If speech originating in the room is unintelligible to listeners in the room, the MXA products cannot overcome this acoustical handicap.  
+	
+	

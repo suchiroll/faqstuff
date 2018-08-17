@@ -1,0 +1,13 @@
+Title: UHF-R transmitter with AXT400 receiver?
+Id: 3903
+Legacy Id: 4149
+
+Question:
+Can the UHF-R transmitters, such as the UR1 or UR2 work with the Axient AXT400 receiver?
+
+
+
+Answer:
+
+	Yes, the UHF-R transmitters will work with the AXT400 receiver. However, certain features of Axient, such as Showlink, will not work with the UHF-R transmitters.
+

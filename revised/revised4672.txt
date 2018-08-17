@@ -1,0 +1,16 @@
+Title: BLX Transmitter Current Draw
+Id: 4672
+Legacy Id: 5839
+
+Question:
+What is the current draw (drain) for a BLX transmitter?
+
+
+Answer:
+
+	BLX1 and BLX2
+	
+	Current draw=110mA +/- 15mA @ 3V; with alpha-numeric LEDdisplay (in battery compartment) being dark.
+	
+	Up to 14 hours of operation from two AA alkaline cells
+

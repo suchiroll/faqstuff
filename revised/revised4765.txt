@@ -1,0 +1,21 @@
+Title: Motiv MV88 recording levels are low
+Id: 4765
+Legacy Id: 5947
+
+Question:
+When I record using the Motiv app, the levels are very low, even when talking directly into the mic. They reach around -30 but get nowhere near the grey band starting at -12db. My gain is set to voice recording so very high. Suggestions?
+
+
+Answer:
+
+	There are several reasons why the audio level may not be in the -12db area:
+	
+	a) For speech, set your gain higher than 22. Since the mic is designed to be able to capture very loud sources like concerts and band practices (which it does very well when the gain is set low), you really have to be hitting the mic with extremely loud content to get it to be in the -12db range the entire time.
+	
+	b) Try using the ‘speech’ DSP mode, which is the speech bubble icon on the left when you go to the ‘Motiv Settings’ screen on the app. This will set your gain to 33db, and apply some EQ/compression that are favorable to speech and voiceover.
+	
+	c) The meters themselves are quite fast and are scaled in such a way that it takes a lot to get it up to the -12db range. The ‘peak’ can typically be quite a bit higher than the ‘average’ is, the solid bar displays the average. If your peaks are hitting around the -12 mark you’re probably getting a good solid level for voice.
+	
+	d) The scale of the meters can also be a bit deceiving. The first segment goes from -48 to -18, and 30db is a huge difference. To increase by 30db means you have to make something 8 times as loud. The next segment (from -18 to -12) is only 6db, which is about 1.5 times as loud. We needed to do this so users could make finite adjustments when nearing 0db (clipping) and make sure they weren’t clipping, but for things like speech that aren’t super loud, the meters aren’t as granular, they just get you in the ballpark. So if you’re talking in a normal voice close to the mic, you’re probably getting to -30 or so, which as you accurately put it, will only make the meters move ever so slightly.
+	
+	e) If you’re using one of the DSP modes, the meters show the levels after the DSP. So even if your input level is good, the level you are seeing is the ‘finished product’ level after the EQ and compression, which means you have to be even louder to get the meters to move up significantly.

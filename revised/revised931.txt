@@ -1,0 +1,18 @@
+Title: Wireless MIDI
+Id: 931
+Legacy Id: 959
+
+Question:
+Does Shure make a wireless system that transmits MIDI?
+
+
+Answer:
+
+	Shure does not.
+	
+	Try Aquila Systems in Hatboro, Pennsylvania, USA.
+
+	Phone number: 215-957-5450.
+	
+	Or http://www.kentonuk.com
+

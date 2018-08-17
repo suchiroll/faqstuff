@@ -1,0 +1,17 @@
+Title: How do I connect a Shure MX418D to a Shure bodypack?
+Id: 641
+Legacy Id: 658
+
+Question:
+How do I connect a Shure MX418D to a Shure bodypack?
+
+Answer:
+
+	The MX418D requires phantom power to operate. Phantom is defined as 11 to 52 volts DC and delivered on a balanced line. Shure bodypacks provide 5 volts DC of bias delivered on an unbalanced line. Therefore, a direct connection will not work. (Beware - some wireless mic manufacturers claim their transmitters provide phantom power, when they mean bias.)
+	
+	Here are two options:
+	
+	1. Install a battery operated phantom supply between the MX418D and the wireless bodypack.
+	
+	2. Use the ULXD8 with the MX415 instead.
+

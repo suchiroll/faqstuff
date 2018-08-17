@@ -1,0 +1,25 @@
+Title: Earphones damaged by loud sound?
+Id: 4602
+Legacy Id: 5758
+
+Question:
+My headphone amp ran out of battery while I was listening with my SE846 and it let out several loud popping sounds. These popping sounds sounded louder than the volume I had set on the device. Could this damage the SE846? If so, is there a good way to check for damage, or check that all four drivers are still working fine? Could the damage result in a reduction in quality, or would it just show up as sound distortion which can easily be noticed?
+
+Answer:
+
+	
+		An earphone has three states of operation:
+	
+		
+		Works
+	
+		Does not work
+	
+		Works but sounds strange.
+	
+		
+		If your earphones (or headphones) work, but do NOT sound strange, there is no damage. Continue to use the earphones and do not worry.
+
+
+
+

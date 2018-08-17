@@ -1,0 +1,17 @@
+Title: SM81-LC for overhead dialogue pickup?
+Id: 1932
+Legacy Id: 1994
+
+Question:
+I own a Shure SM81-LC and want to know if you think this is a good mic for the following video shoot that I need to do. I will be shooting a discussion among 5 teenagers sitting around and on a sofa. This is shot in a studio generally with 3 kids on the sofa.. sitting on the arm of the sofa and 2 on pillows on the floor. We want to have the mic over head and pick them all up. Do you think the SM81-LC will work?
+
+
+Answer:
+
+	The SM81 should work fine. Keep in the mind the following:
+	
+	1) Set the SM81 low frequency switch to the steepest roll-off.
+	
+	2) The pick-up angle of the SM81 is a 130 degree cone. Envision this cone and make certain all 5 talkers are within it.
+	
+	3) Make certain that all 5 talkers are equally distant from the SM81 to insure equal loudness.

@@ -1,0 +1,24 @@
+Title: ShurePlus Motiv App recording file type
+Id: 4786
+Legacy Id: 5971
+
+Question:
+What type of audio recording file is created by the ShurePlus Motiv app?
+
+
+Answer:
+
+	The Shure Plus Motiv app records only WAV files: 44.1kHz/16 bit or 48kHz/24 bit.
+	
+	After the recording is finished, the WAV file can then be converted usingSave As and it will become one of these compressed formats:
+	ALAC - Apple Lossless Audio Codec
+	AAC 96kbs - Advanced Audio Coding
+	AAC 128kbs - Advanced Audio Coding
+	AAC 256kbs - Advanced Audio Coding
+	
+	With the MV88, a stereo file is recorded even when the mic is set to the Mono Cardioid mode.With the MV5, MV51, MVi, or the iPhones internal mic, a mono file is recorded.
+	
+	The ShurePlus Motiv app can be used to configure/set/adjust the MV88, MV51, MV5, or MVi. Once configured, the MV88 may be used with other recording apps that use an external microphone, such as Garagebandby Apple.
+	
+	Garageband and other suchappscan createMP3 files and other compressed files. Most of these apps will work with an external microphone, like the MV88.Check with the maker of the app to ascertain if external microphones can be used.
+

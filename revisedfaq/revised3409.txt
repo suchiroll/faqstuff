@@ -1,0 +1,14 @@
+Title: Discontinuation of PSM 400 in the HF frequency band
+Id: 3409
+Legacy Id: 3599
+
+Question:
+Why did Shure stop making the PSM400 in the HF frequency range? (HF is 722 - 746 MHz; U.S. TV stations 56 - 59)
+
+
+Answer:
+
+	Posted February 14, 2008
+	Due to the FCC reallocation and auction of frequencies in the 700 MHz band, Shure has chosen to move the PSM® 400 products from the HF band (722 to 746 MHz) to the new X1 band (944 to 952 MHz).  By July 2010, the HF band will be illegal to use in the USA.
+	The X1 band extends from 944 to 952 MHz (8 MHz total). This portion of the RF spectrum is called the “STL band” because it is used for Studio-Transmitter Links between a radio station studio and a transmitter in a different location. It is outside of the TV band, new wireless services, and public safety bands.
+	NOTE: PSM 400 systems operating in the X1 band are not compatible with the PA770 antenna combiner.

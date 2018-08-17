@@ -1,0 +1,25 @@
+Title: M367 Output levels
+Id: 840
+Legacy Id: 864
+
+Question:
+I have a couple of questions:
+
+
+1. I am going to purchase the M367 Mixer for use with my audio/video applications.
+
+
+I was reading the Shure "Guide to Audio Systems for Video Production". In the book it says, "the output of a mixer can be connected to a camcorder's mic input if the mixer has a mic level output. If the mixer only has a line level output, its level must be attenuated by approx. 50 dB to prevent overloading of the camcorders mircrophone input circuitry. A device called an attenuator is used for this purpose." Can you please tell me if the M367 mixer has a mic level output? I imagine it does, since this is the model you are promoting in the book to demonstrate a good mixer! I am thinking of this Shure mixer specifically for video audio mixing.
+
+
+2. I am considering purchasing the LX14 system or the SC series. Do both systems come with diversity receivers? Is there any difference in the reliable range of transmission with these systems? I have been told that 50-100' is the reliable range. Do any of your systems go beyond this range of transmission?
+
+
+Answer:
+
+	1. Can you please tell me if the M367 mixer has a mic level output? Yes.
+	
+	2. Do both systems come with diversity receivers? Yes.
+	
+	3. Do any of your systems go beyond this range of transmission? Wireless transmission can be as short as 50 feet (downtown New York City) or as far as 1,000 feet (a wheat field in Kansas). It all depends on the other RF activity in the vicinity.
+

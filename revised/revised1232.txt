@@ -1,0 +1,12 @@
+Title: DFR11EQ Performance Test.
+Id: 1232
+Legacy Id: 1278
+
+Question:
+We are putting together a manual for a communications assembly which employs DFR11EQ version 5. We are looking for performance data to include in the maintenance checkout procedures. Could you provide an idea of the type of maintenance checks we could perform on this unit.
+
+
+Answer:
+
+	A Service Manual for the DFR11EQ can be purchased from Shure. It will list whatever checkout procedures are valid. Please call Shure Service at 800-516-2525, or send an email to: service@shure.com
+

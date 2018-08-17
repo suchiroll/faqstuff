@@ -1,0 +1,168 @@
+Title: Miking a talker in a noisy room - AUDIO DEMO
+Id: 1904
+Legacy Id: 1965
+
+Question:
+If I place a microphone such as a shotgun 40 feet away from someone talking in a noisy room, will I be able to understand what they say?
+
+Answer:
+
+	Using a shotgun mic is like taking a photo with the lens aimed down a cardboard tube. The image being photographed is not brought any closer, but the unwanted images to the sides are reduced or eliminated. A shotgun mic seems to bring the desired sound source closer because the unwanted sounds from the side and rear are attenuated.
+
+	
+	The following Flash animation demonstrates the ambient rejection capabilities of different polar patterns and different microphones. It is recommended to use headphones to listen to this demonstration. The demonstration is a 10MB file, so it may take a bit to download and work properly.
+
+	
+	Click on any microphone to begin the demonstration.
+
+
+	
+
+
+	
+		Other microphones with the same polar patterns would exhibit the same amount of ambient rejection. While an SM58 may have been used for this demonstration, a small cardioid lavalier or cardioid hanging microphone would have the same effect.
+	
+		The gain on the recorder was increased as the distance was increased to compensate for the inverse square law.
+	
+		Since the microphones were simply being recorded, there was no chance of feedback. If these microphones were connected to speakers in the same room, this demonstration would not be possible, because feedback would occur.
+	
+		The green shape that appears is the polar pattern of the microphone.
+	
+		The person talking (the direct sound) was at a level of 88 dB SPL at 5 feet.
+	
+		When examining your own application, relative level of the direct sound versus the ambient sound is the most important part. This ratio determines if a recording will have a good audio quality.
+
+
+
+	
+		
+			
+				
+					
+						
+							Typical Noise Levels
+					
+				
+				
+					
+						Sound Source
+					
+						Level (dB SPL)
+				
+				
+					
+						Heavy Street Traffic (5 feet)
+					
+						90
+				
+				
+					
+						Cabin of Jet Aircraft at Cruise
+					
+						80
+				
+				
+					
+						Vacuum Cleaner (6 feet)
+					
+						70
+				
+				
+					
+						Car (60 mph, 90 feet)
+					
+						65
+				
+				
+					
+						Average Suburban Home (night)
+					
+						50
+				
+				
+					
+						Quiet Auditorium
+					
+						40
+				
+				
+					
+						Quiet Whisper (6 feet)
+					
+						35
+				
+			
+		
+	
+
+
+	
+
+	
+		
+			
+				
+					
+						
+							Typical Male Speech Levels (3 feet)
+					
+				
+				
+					
+						Vocal Effort
+					
+						
+							Level (dB SPL)
+					
+				
+				
+					
+						Maximum
+					
+						88
+				
+				
+					
+						Shout
+					
+						82
+				
+				
+					
+						Very Loud
+					
+						74
+				
+				
+					
+						Raised
+					
+						65
+				
+				
+					
+						Normal
+					
+						57
+				
+				
+					
+						Relaxed
+					
+						50
+				
+				
+					
+						Whisper
+					
+						40
+				
+			
+		
+	
+
+
+
+	If you want to save this demo on your computer to use later, right click on the following link and choose Save Target As or Save As.
+	Right Click Here.
+

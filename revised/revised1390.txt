@@ -1,0 +1,12 @@
+Title: What is the subsonic filter on the KSM44?
+Id: 1390
+Legacy Id: 1442
+
+Question:
+What kind of filter is the KSM44 subsonic filter that eliminates rumble from mechanical vibration below 17 Hz?
+
+
+Answer:
+
+	The KSM44 sub-sonic filter is an active electronic three pole filter, with a slope of 18 dB per octave, and with 17 Hz being the 3dB down point.
+

@@ -1,0 +1,44 @@
+Title: Outdoor antenna for UHF wireless systems
+Id: 3334
+Legacy Id: 3511
+
+Question:
+Is there a directional antenna made for UHF TV reception than can also be used as an weather-resistant antenna for UHF wireless?
+
+
+Answer:
+
+	Yes, there are outdoor weather resistant antenna that may be used for UHF wireless microphone systems:
+	
+	Winegard and others makes outdoor antennas suitable for the 470-698 MHz range. One example that Shure has tested with good results is the FlatWave Air. The FlatWave Air is aesthetically pleasing, is designed for outdoor use, and has a plastic housing. The housing is 14  x 14 x 2.5. As of August 2017, the U.S. retail price was around $100 (per antenna.) The antennas can be purchased from Winegard.
+
+	
+
+	
+
+	
+		Use two antennas for diversity reception. Position the two antennas with a minimum spacing of 2 feet (60 cm). Greater spacing is OK.
+	
+		Use the supplied +5Vdc power inserter. The power inserter can be placed inside the press box or building, near the receiver. The bias voltage on Shure receivers is not correct for this antenna, so the supplied power inserter must be used. The supplied power inserter will block the voltage that is already coming from the Shure receiver. Thus, there is no need to worry about the bias voltage on the Shure receiver.
+	
+		Use 75 ohm RG-6 cable with F-connectors between the antenna and the power inserter. This will be the long length of cable.
+	
+		Use a short length of RG-6 cable with an F-connector at the power inserter end and BNC at the receiver end.
+	
+		This antenna claims a beamwidth of about 84 degrees.
+
+
+	Horizontal polar pattern of Winegard FlatWave Air antenna at 550 MHz.
+
+	
+
+
+	Vertical polar pattern of Winegard FlatWave Air antenna at 550 MHz.
+
+	
+
+
+	Larger UHF-only antennas are also available from antenna manufacturers.
+	
+	NOTE: On other TV antennas (typically the non-amplified antennas), be certain to employ DC blocking devices if the antennas will be connected to a Shure device that provides 12 Vdc bias on the antenna inputs.
+

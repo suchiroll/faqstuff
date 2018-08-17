@@ -1,0 +1,25 @@
+Title: Microphone to be mounted on a Train
+Id: 1675
+Legacy Id: 1732
+
+Question:
+I have a need in a train-borne project for a suitable Shure microphone with the following requirements:-
+
+1. Suitable to be mounted on a train driver's desktop console with plenty of vibration and noise.
+
+2. Have a flexible gooseneck.
+
+3. Rugged and heavy duty for daily use.
+
+
+I have looked at Shure's web site and think 561/562 seems suitable. Any comments ?
+
+
+Answer:
+
+	We agree with your choices. The 561 is omnidirectional and will be less sensitive to vibration and wind noise, but will not reduce background noice.
+	
+	The 562 will reduce background noise, but must be close-talked (less than 2cm mouth to mic distance). It will also be more sensitive to wind noise and vibration.
+	
+	Either mic will be very reliable in this environment.
+

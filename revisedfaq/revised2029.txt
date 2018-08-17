@@ -1,0 +1,21 @@
+Title: PSM Monitor Mixer
+Id: 2029
+Legacy Id: 2094
+
+Question:
+We have up to six monitors on stage and we are wanting to control them all from the sound room. All need to have different volumes but we didn't want our instrument players to have to worry about turning them up or down since they all are floor monitors. I was wondering if there is some kind of mixer just to control monitors. Maybe if Shure doesn't sell such a thing, where could I go?
+
+
+Answer:
+
+	The Shure Auxpander (now discontinued) could be used as an 8 x 4 stereo monitor mixer in conjunction with a conventional front-of-house mixer.
+	
+	Some stand-alone monitor mixers that can provide multiple stereo monitor mixes are:
+	
+	ProRack-Monitor (M1016) from APB-DynaSonics, 16 mono in x 8 stereo out + 2 mono out
+	XRM from Crest, 16 mono in (or 12 mono + 4 stereo in) x 6 stereo (or 12 mono) out
+	Mix Wizard (WZ3 12M) from Allen  Heath,16 mono in x 6 stereo (or 12 mono) out
+
+	
+	These are examples of compact, rack-mount capable mixers with 16-20 input channels and 6-8 stereo output mixes.
+

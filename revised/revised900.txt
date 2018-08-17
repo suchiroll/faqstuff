@@ -1,0 +1,12 @@
+Title: Microphones for live show, general performance pick-up
+Id: 900
+Legacy Id: 928
+
+Question:
+We're looking for a good microphone (probably two for a stereo recording) to pick up general sound from a small stage performance (25x15)? A few requirements though - non-Phantom power, not more than about $100-$200 per mic. We have SM58's for solo work, but we need to pick up the rest of the chorus. Suggestions?
+
+
+Answer:
+
+	We suggest the PG81, a condenser microphone with a wide frequency response and higher output than the dynamic microphones. It will run on a AA battery or phantom power, and is quiet.
+

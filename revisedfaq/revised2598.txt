@@ -1,0 +1,22 @@
+Title: How to tell active or passive guitar pickups?
+Id: 2598
+Legacy Id: 2699
+
+Question:
+I just purchased The Guitarist and am reading about the body back audio gain and attenuation settings. I have a 1972 less paul (original) how do I determine active of passive.? And what is the -20 db settings purpose. I realize when I change over the volume drops dramatically. Right now everything sounds good using 0db w/audio gain at ~2PM creating periodic peak light and volume at about 80%. Also noticed while hitting hard chords to determine peak the A diversity light flickerd?
+
+
+Answer:
+
+	How do i determine active of passive.?
+	* An active guitar requires that a battery be inserted into the guitar to power internal electronics. A passive guitar requires no battery.
+	
+	And what is the -20bd settings purpose.
+	* To handle really loud input levels...like active guitars
+	
+	Right now everthing sounds good using 0db w/autio gain at ~2PM creating periodic peak light and volume at about 80%.
+	* Your ear needs to be the final judge. If this setting satisfies your ear, keep it.
+	
+	Also noticed while hitting hard cords to determine peak the A diversity light flickerd?
+	* This is OK.
+

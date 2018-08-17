@@ -1,0 +1,45 @@
+Title: Amplifying an acoustic guitar
+Id: 2452
+Legacy Id: 2547
+
+Question:
+What is the best way to amplify an archtop acoustic guitar in a jazz big band?
+
+
+Answer:
+
+	In todays big bands, the bassist often uses an amplifier, the piano might be miked or might be electronic keyboard, and the drum kit is often miked. To be heard and blend effectively, the acoustic rhythm guitar often has to be amplified as well. Use of a high quality microphone, and not a pickup, is imperative. The exact type of audio equipment and its correct usage is critical to achieve a natural rhythm guitar sound.
+	
+	Type of Microphone: Use a professional condenser microphone with a cardioid (unidirectional) pickup pattern and a flat frequency response. This type of microphone is designed for instrumental use, not vocal use. One example:Shure KSM137.
+	
+	A professional condenser microphone will have a male XLR connector at its output. This round connector has a diameter of 5/8 (16 mm) with three pins arranged in a triangle. The microphones output will be low impedance and balanced. This means it cannot be plugged directly into most guitar amplifiers ... more on this later.
+	
+	A condenser microphone requires a power source to operate. This power source can be inside of the microphone, typically a single AA cell inserted into the handle, or external. External power is called phantom power. Phantom power is 11 to 52 volts of DC power supplied to the microphone from the mixing console. As a general rule, phantom power is available only from mixing consoles that have XLR female connectors at the inputs. The microphone cable does double duty: it carries the audio signal from microphone to the mixing console and carries the phantom power from the mixing console to the microphone. Some condenser microphones operate only from an internal AA cell; some only from phantom power; and some from an internal AA cell or from phantom power.
+	
+	Microphone Mount: Use a short boom stand. This type of stand is often used by drummers to hold a kick drum microphone. Consisting of a weighted base, an extendable vertical section, and an extendable horizontal boom arm, this type of stand permits the microphone to be positioned near the lower F hole of the guitar (assuming the guitarist is seated while playing.)
+	
+	Microphone Shock Mount: Use a professional shock mount to hold the microphone to the boom stand. An example is the Shure A53M shock mount; a rubber doughnut filled with air and designed to hold any microphone with a handle diameter of 3/4 (19 mm). A shock mount isolates the microphone from floor vibrations that can travel up the boom stand.
+	
+	Microphone Cable: Use a professional quality microphone cable with an XLR female connector at one end and an XLR male connector at the other end. A professional quality cable can last a lifetime if properly handled and stored. Inexpensive microphone cables have poor shielding that can result in audible hum or buzz. Also the XLR connectors on inexpensive cables are typically of poor quality.
+	
+	Low Impedance to High Impedance In-Line Microphone Transformer: This device is necessary only if the microphone will be connected to a guitar (or PA) amplifier that does not have an XLR input. Most guitar amplifiers have inputs that are high impedance, unbalanced, and employ a 1/4 (7 mm) female phone jack. A microphone transformer is necessary for three reasons: 1) To convert the microphone signal from a three wire balanced connection to a two wire unbalanced connection; 2) To convert the microphone cables XLR male connector into a 1/4 (7 mm) male phone plug connector; 3) To increase the microphone signal level in order to satisfy the guitar amplifer input. The impedance step-up from low impedance to high impedance provides the necessary increase in signal level.
+	
+	A example of this type of transformer is the Shure A95UF. Note that guitar amplifier inputs do not normally supply phantom power and the transformer will block phantom power if it is present. Using a transformer implies that the microphone will be powered by an internal AA cell.
+	
+	Positioning the Microphone: Place the microphone 6 to 12 (15 to 30 cm) away from the lower F hole of the guitar. Moving the microphone closer to the guitar will increase the signal level in the sound system, but it also boosts the bass faster than the other frequencies. This is known as proximity effect and is a characteristic of unidirectional microphones. If the guitar is miked too closely, it will sound boomy and unnatural. Experimentation is the key to finding a natural sounding microphone position.
+	
+	Connecting to a PA System: This is the recommended approach to amplifying a big band rhythm guitar. The PA systems mixing console will likely have XLR inputs and may also have phantom power. The PA loudspeakers will likely be on both sides of the stage and therefore the guitar will be more audible to the audience and the other band members. The PA system will have a flatter frequency response (a more neutral sound) than a guitar amplifier and therefore will produce a more accurate rhythm guitar sound.
+	
+	Do not to have the guitar too loud in the PA system! The idea is to lift the guitar sound slightly above its acoustic level; in technical terms, the guitar should be 6 to 8 dB louder with the microphone active. The tone controls for the guitar input should be set flat (no boost or cut) in the treble range and the mid range. The bass range should be cut slightly so that the guitar does not sound boomy. A small amount of bass cut will offset the proximity effect of the unidirectional microphone.
+	
+	Connecting to a Guitar Amplifer: This will likely require the use of an in-line microphone transformer. Place the guitar amplifier 4 to 5 feet (1 to 2 meters) away from the microphone in order to control feedback. Experiment with the tone controls of the amplifier for a natural sound. This may be difficult as a guitar amplifier typically does not have a frequency response that will provide a natural sound.
+	
+	Summary:
+	 Use a professional condenser microphone with a flat frequency response, a unidirectional pickup pattern, and a low impedance balanced output via an XLR connector.
+	
+	 Use a short boom stand with a microphone shock mount to position the microphone 6 to 12 from the lower F hole.
+	
+	 Use a high quality cable to reduce audible hum and buzz.
+	
+	 Connect the microphone to a PA system if possible. Use only enough amplification to lift the sound of the guitar slightly above its acoustic level. Cut the bass frequencies with the tone controls to offset any boominess of the guitar sound.
+

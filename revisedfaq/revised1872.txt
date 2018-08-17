@@ -1,0 +1,11 @@
+Title: SC35C stylus in a M44-7 body?
+Id: 1872
+Legacy Id: 1932
+
+Question:
+Is it possible to use a SC35C-needle in a M44-7 cartridge?
+
+
+Answer:
+
+	The SS35C will not fit into the M44-7 cartridge. The stylus shank is too large.

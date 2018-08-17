@@ -1,0 +1,23 @@
+Title: Maximum compatible PG wireless systems in the U.S.
+Id: 3243
+Legacy Id: 3393
+
+Question:
+What is the maximum number of compatible PG wireless systems in the U.S.?
+
+
+Answer:
+
+	The maximum number is 9, using 3 each of the H7, K7, and M7 systems.
+	Set as follows:
+	
+	H7 systems: 2,4,0
+	K7 systems: 2,5,7
+	M7 systems: 4,5,6
+	
+	This combination may not work if TV channels 25, 26, 34, 35, 46, or 47 are on the air. This recommendation is the most robust set of frequencies derived by Shures frequency synthesis program and was verified via compatibility testing at Shure.
+	
+	Note that two PG88 dual receivers in each frequency band should not be used, because there will be four channels in each frequency band. It may be impossible to set a fourth compatible channel in a band when all units are on.
+	
+	Each frequency band for PG Wireless spans two U.S. TV channels. The maximum number of compatible units within one frequency band is 4. To achieve this compatibility, set the PG systems to channels 1, 3, 5, and 7 if the lower of the two TV channels is open; or to 2, 4, 6, and 8 if the higher of the two TV channels is free.
+

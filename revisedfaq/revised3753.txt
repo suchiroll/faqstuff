@@ -1,0 +1,40 @@
+Title: Conference Room Acoustics and Signal-To-Noise Ratio
+Id: 3753
+Legacy Id: 3989
+
+Question:
+We are building a new conference room in our facility. Are there guidelines on the acoustic qualities of the room that we should be taken into account?
+
+
+Answer:
+
+	To maximize the success of any conferencing facility, a number of factors must be considered during planning and implementation.  The list includes:
+	
+	1) Acoustic qualities - room noise floor, external noise sources, technical noise (projectors, fans), building noise (e.g. HVAC), and reverberation qualities
+	2) Lighting - configurations for different types of meeting scenarios including video projection or video conferencing
+	3) Comfort Level - space per occupant (square feet), furniture, HVAC
+	4) Visual - Projection systems and video conferencing monitor sight lines, general aesthetics
+	
+	Following is a brief discussion of the acoustic qualities issue:  
+	
+	Signal to noise is a metric that takes into account the ambient noise of a room, which includes any undesired sounds that can be heard or measured.  This includes noise from heating/ventilating/air conditioning, building mechanical systems (e.g. elevators), technical (e.g. projectors, lighting control systems, etc.), and sounds from outside the room (such as airplanes, cars/trucks, weather, adjacent noisy spaces, e.g. cafeterias and mechanical rooms).  The general industry guideline for the absolute minimum signal to noise metric in a conference room is 20 dB.  For best results, the conference room facility should be designed for a signal to noise metric of at least 25 dB.  More is definitely better!
+	
+	Example 1 - the noise floor in a room measures 55 dB SPL A weighted (slow).  If normal speech is assumed to be 70 dB SPL A weighted (slow), then the signal to noise metric of the room is 70-55 or 15 dB.  This room will be challenging for conference use.
+	
+	Example 2 - the noise floor in a room measures 42 dB SPL A weighted (slow).  If normal speech is assumed to be 70 dB SPL A weighted (slow), then the signal to noise metric of the room is 70-42 or 28 dB.  This room is an excellent candidate for conferencing.
+	
+	Technical noise in a conference room is often overlooked.  Technical noise can come from video projectors, computers, and other audio/video support equipment.  Often times, the offending noise is from cooling fans in the A/V equipment.  Fans generally produce a broad-spectrum noise that is similar to the sound produced by sound masking systems.  Fan noise can be very annoying as well as detrimental to intelligibility and clarity in hearing.  Every effort should be made to silence technical equipment or to specify/install quiet equipment in the conference room.  
+	
+	Similarly, HVAC systems can produce high levels of broad-spectrum noise.  Air movement systems should be carefully engineered to minimize air velocity in ducts and through diffusers.  Isolating mechanical noise from air handlers is also important - this type of noise can come through the ductwork as well as mechanically through the building structure.   
+	
+	Some building materials and room shapes that will often cause acoustical problems include:
+	   Large glass surfaces - walls or windows
+	   Large drywall surfaces
+	   Large marker board surfaces
+	   Non-sound-absorptive ceiling material
+	   Concave wall or ceiling shapes
+	The reverberation characteristics of a conference room are very important.  These construction materials  and characteristics can contribute to excessive sound reflections that will detract from a quality meeting experience.  Proper design will yield a room that minimizes reverberation, but is also not too "dead-sounding."  
+	
+	Utilizing an acoustical consultant to work with the architect in specifying the room design will be money well spent.  
+	
+	For additional information on Conference and Meeting Rooms, refer to Shure's Educational Brochure "Audio Systems Guide for Meeting Facilities."   

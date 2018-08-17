@@ -1,0 +1,20 @@
+Title: ULXD Dual and Quad Receiver - Latency
+Id: 4140
+Legacy Id: 5041
+
+Question:
+Please elaborate about the inherent latency of the ULXD Dual and Quad receiver, and how it relates to Dante and to the AVB standard.
+
+
+Answer:
+
+	The design goal of the AVB working groups was a maximum latency 2ms; this assumed less than 7 switch hops.The working groupswere able to achieve that goal, mostly, but found some unusual caseswere the 2 ms goal was not met. Note: The 2ms latency goal is only network latency, not product latency. A genuine AVnu-branded AVB product will have configurable latency to accommodate the networks capability.
+	
+	Dante has configurable latency and should be adjusted to the speed and complexity of the network.Dante latency is not in Shures latency specs because it is configurable in Dante Controller software. Dante latency is associated with Dante receivers, and does not apply to the ULX Dual/Quad since they are Dante transmitters.
+	
+	The 2.9ms specified for ULXD is product latency and does not contribute to the network latency. The ULXD Dual/Quad Dante outputs technically have lower latency than the ULXD analog out because there is no D/A conversion.The delay was deemed insignificant (0.17ms).
+	
+	To summarize:
+	ULXD latency, mic capsule to analog out:2.9ms
+	ULXD latency, mic capsule to Dante out:2.73ms(2.9 - 0.17 = 2.73ms)
+

@@ -1,0 +1,14 @@
+Title: In-line audio switch for SM10A
+Id: 302
+Legacy Id: 309
+
+Question:
+Is there an in-line switch available for the SM10A headset mic? I'd like to be able to insert it between the mic's plug and the XLR cable it attaches to. I'm sure I've seen something like this years ago, but I haven't been able to find one recently. Thanks for your help.
+
+
+Answer:
+
+	Yes. The Shure A120S switch will work. It is wired in-line to the SM10 cable. It does require soldering. When configuring the A120S, short pin 2 to pin 3 to shut off the mic. Unshort pin 2 to pin 3 to turn on the mic.
+	
+	Also, turn off the phantom power on the mixer input to which the SM10 is connected. Otherwise, you will hear a pop when you use the switch.
+

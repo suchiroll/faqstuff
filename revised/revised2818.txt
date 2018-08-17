@@ -1,0 +1,17 @@
+Title: Bass singer - Mic recommendation
+Id: 2818
+Legacy Id: 2928
+
+Question:
+I'm just starting to sing bass for a group i was wondering if they made a special mic for bass singers.
+
+
+Answer:
+
+	Bass singers often choose one of the these mics:
+	
+	Handheld use - KSM9 or Beta 87A or Beta 87C
+	Mic stand only use - SM81 with A81G pop filter
+	
+	* All the mics above are condenser mics that require phantom power from the mixing console.
+

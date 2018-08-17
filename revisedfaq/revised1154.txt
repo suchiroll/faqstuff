@@ -1,0 +1,18 @@
+Title: Hearing mic placement tonal differences
+Id: 1154
+Legacy Id: 1193
+
+Question:
+In reference to drum kit/guitar mic placement:
+
+
+Knowing that mic placement/aim on drum kits and guitar cabinets produces different tonal qualities, what is the best way to "hear" (locally) the differences when the mic is moved?
+
+
+Mic output to headphone amp, gained flat?
+
+
+Answer:
+
+	Trya portableheadphone amp. This device can be inserted into the mic signal path at any point. Wear the amp on your belt and monitor how the mic sounds as you change its location.
+

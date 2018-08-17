@@ -1,0 +1,14 @@
+Title: Remote antenna kit for PSM400?
+Id: 773
+Legacy Id: 795
+
+Question:
+We just installed 4 PSM400 in-ear wireless transmitters in a new worship center application. We've located the transmitters less than 100 feet from the stage in the FOH mix position. Because of this we are pretty much forced to orient the front panels with the antennae facing away from the stage. Do you offer a remote antenna kit or passive re-radiator?
+
+
+Answer:
+
+	At 03/21/2001 07:07 PM we wrote - The PSM transmitters have permanently attached antennas, so a remote antenna kit is not offered. If remote antennas are required, consider the purchase of PSM600 or PSM700 systems.
+	
+	To increase the performance of your PSM400 system, try placing the transmitters up closer to the performers.
+

@@ -1,0 +1,25 @@
+Title: DDS 5900 Switch Overlays for DeskTop Units
+Id: 4266
+Legacy Id: 5328
+
+Question:
+Please show photos of the four plastic overlays that are used on the DDS 5900 desk top (delegate) units.
+
+
+Answer:
+
+	Top : Delegate Unit - Speak with Mic Mute
+	
+	Second: Delegate Unit - Speak without Mic Mute
+	
+	Third: Chairman Unit. NOTE: there is a variation of this overlay. Del. Off is replaced by three symbols, indicating three delegates, with a diagonal line on top of the symbols.
+	
+	Bottom: Interpreter / Translator Unit
+	
+	* NOTE: Each overlay is supplied with an adhesive backing. Once an overlay has been removed from a desk top unit, it cannot be reused.
+	
+	As of March 2013, the second overlay below may be purchased as a package often from Shure Parts. The model number is DC 5980 P ACC-DM
+
+	
+	
+

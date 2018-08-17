@@ -1,0 +1,21 @@
+Title: Audio Comparison of the Unidyne Microphones
+Id: 4580
+Legacy Id: 5706
+
+Question:
+What are sonic differences between the different Unidyne models?
+
+
+
+Answer:
+
+	Beloware two audio WAV files that compare the sonic quality of five Unidyne microphones:
+	
+	Model 5575LE - introduced 2014
+	Model Super 55 - introduced 2009
+	Model 55SH Series II - introduced 1989
+	Model 55S - introduced 1951
+	Model 55 - introduced 1939
+	
+	One WAV file starts starts with the 55 and progresses forward to the 5575LE. The other WAV files with the 5575LE and progresses back to the 55.
+

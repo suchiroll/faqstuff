@@ -1,0 +1,12 @@
+Title: Different Microphone Heads (Betas) on the UT Wireless System Handhelds?
+Id: 991
+Legacy Id: 1020
+
+Question:
+Hello, I would like to know if there is anyway to get different heads on the UT wireless handheld system instead of the UT2/58? And also if I change the microphone heads, will it cause any damage to the system whatsoever?
+
+
+Answer:
+
+	Any of our wireless heads can be used with the UT handheld without damage.
+

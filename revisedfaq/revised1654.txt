@@ -1,0 +1,101 @@
+Title: Point to point wireless with Shure wireless microphone systems
+Id: 1654
+Legacy Id: 1711
+
+Question:
+I have an application where I need to send audio from one place to another. Both ends will be stationary, so I do not need battery powered or portable devices. Can you help?
+
+
+Answer:
+
+	Point to Point Wireless Audio Systems
+
+
+	Introduction
+
+
+	Often it is desirable (or even mandatory) to send an audio signal from one fixed location to another fixed location without wires. This is termed point-to-point wireless. In some cases this may involve a single transmit location and multiple receive locations, referred to as point-to-multi-point wireless. Possible applications include remote speaker/amplifier locations, remote recording/broadcast operations, and one-way communication links. Potentially this could be accomplished either by optical transmission or by radio frequency transmission.
+	
+	Optical methods are inherently limited to line-of-sight conditions. The use of conventional (non-directional) infrared transmission is limited by ambient light levels vs. practical infrared power levels. Modulated laser transmission (highly directional) is another optical possibility but available systems are primarily geared to high-speed data/video transmission and are not widely (or affordably) distributed.
+	
+	Low-power radio transmission systems, on the other hand, are both widely available and relatively affordable. For radio signals, line-of-sight conditions are desirable but they are not strictly required. In addition, point-to-multi-point is more easily accomplished with a single radio transmitter.
+	
+	General requirements for point-to-point wireless include:
+
+	
+		High fidelity audio
+	
+		Line level in and line level out
+	
+		AC-power capability for both transmitter and receiver
+	
+		Sufficient transmission distance
+
+
+	Most radio communication products such as wireless intercoms, two-way radios, and mobile phones are unsuitable due to lack of audio fidelity. However, two common high-fidelity radio products that can be used in a point-to-point application are the wireless microphone system and the wireless in-ear monitor system. Each of these has slightly different concerns/advantages in performance and in setup.
+
+
+	Using Shure wireless microphones for point-to-point
+
+
+	A bodypack wireless system can fulfill the requirements above with two modifications. First, though many receivers have line level outputs, few transmitters are capable of accepting a line level input signal. This can be accomplished by using an external pad or attenuator at the transmitter input. Second, though most receivers run on AC power, transmitters are battery-only devices. Using a suitable external DC power supply can provide the necessary AC capability for the transmitter.
+	
+	Depending on the input signal, two off-the-shelf attenuator solutions exist for Shure bodypack transmitters equipped with TA4 input connectors. A balanced, +4dBu source can be accommodated by using a Shure A15LA (-50dB, XLR-to-XLR, in-line attenuator) in combination with a Shure WA310 (XLR-to-TA4F adapter cable).
+
+
+	
+
+
+	An unbalanced, -10dBV source can be accommodated by using a Radio Shack 274-300 (-40dB, RCA-to-1/8 mini-phone, in-line pad) in combination with a Shure WA302 (1/4 phone-to-TA4F adapter cable). In this setup additional Radio Shack adapters 274-325 (1/8 mini-phone male-to-1/4 phone male) and 274-1556 (double female 1/4 phone) are required to connect from the Radio Shack 274-300 (male 1/8 mini-phone output) to the Shure WA302 (male 1/4 phone input).
+
+
+	
+
+
+	This results in a somewhat cumbersome set of adapters which could be simplified by replacing the male 1/4 plug on the WA302 with a female 1/8 mini-phone jack (Radio Shack 274-333).
+
+
+	
+
+
+	Most Shure bodypacks operate on a pair of AA batteries (3vdc total). A possible DC supply would be the Radio Shack 273-1662. This is a multi-voltage supply with a 3v position. It would be necessary to somehow connect the power supply leads directly to the battery contacts in the case.
+	
+	Once the input signal is sufficiently attenuated and power is provided, the bodypack transmitter should be located to provide the best line-of-sight to the receiver. This usually involves securing the pack to a pole or some other elevated structure. If wet weather is a factor, the transmitter can be protected by a ziplock bag or other covering.
+	
+	At the receiver, no modification is usually required since it is AC powered and has a line level output.
+
+
+	Antennas
+
+
+	The antennas supplied with all Shure wireless products are omnidirectional. These are suitable for both point-to-point and point-to-multi-point applications. If additional transmission range is required it may be possible to use directional receiving and/or transmitting antenna(s). Note that although diversity receivers are always preferred it may not be necessary (or practical) to use directional antennas on both antenna inputs for point-to-point. Since the transmitter and receiver locations are assumed to be fixed in this application, multipath variations should be minimal once the equipment is set up.
+	
+	The UA874 powered directional antenna can be used with the UR4 receiver directly.
+
+
+	Maximum range of point-to-point wireless
+
+
+	The practical range for most of these systems in point-to-point applications is comparable to their published range in normal usage. For standard wireless systems this ranges from about 150 ft. to 800 ft. depending on various conditions. Directional antennas may boost these ranges by 50%. Good line of sight and the normal precautions for frequency selection are assumed.
+	
+	If greater distances are required, it can be accomplished by using an additional system as repeater. That is, at the location of the first receiver a second transmitter is set up to rebroadcast the signal to a more distant second receiver. Of course, each of these additional systems has to be on a different compatible frequency. The practical limit for a repeater system using standard wireless equipment is about 3 hops due to increased noise and distortion.
+
+
+	Summary
+
+
+	It is possible to employ Shure wireless systems for point-to-point applications in several ways. Both wireless microphone systems and PSM systems can be used, each with different adaptations. The modifications are primarily for AC powering of battery powered devices and for matching audio signal levels. Special connectors and/or adapters may also be necessary in some cases.
+	
+	For moderate distance, single channel applications use wireless microphone systems for good results. Multi-channel, especially stereo, transmission may benefit from the PSM approach. Longer distance uses will require directional antennas for wireless microphone receivers or for PSM transmitters. Maximum range applications can be handled by the dual directional antenna PSM setup or by using multiple systems in a repeater configuration.
+
+
+	Sources
+
+
+	Winegard
+	(319) 754-0600
+	http://www.winegard.com
+	
+	Radio Shack
+	http://www.radioshack.com
+

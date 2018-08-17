@@ -1,0 +1,20 @@
+Title: Terminal Euro block plug for SCM820 and MXWANI
+Id: 4429
+Legacy Id: 5528
+
+Question:
+For the SCM820 or MXWANI: please provide technical details on the Euro style block plug. I want to purchase a generic version.
+
+
+Answer:
+
+	3.50 mm
+
+	Generic part: Weidmuller BL 3.50/03/180 SN OR BX (orange color)
+
+	Generic part: Weidmuller BL 3.50/03/180 SNBK BX (black color)
+
+	Available from: www.digikey.com
+
+	As of February 2014, the price is around $2.00 each.
+

@@ -1,0 +1,12 @@
+Title: QLX-D networked to ULX-D and sharing the same frequency band
+Id: 4524
+Legacy Id: 5642
+
+Question:
+I had a question regarding QLXD. If a QLX-D unit is networked with a ULXD unit of same frequency band, can one unit scan and deploy to both?
+
+
+Answer:
+
+	No. The network scan only works on QLX-D receivers within the same band. It does not work with networked QLX-D and ULX-D even if they are in the same band.
+

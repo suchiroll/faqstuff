@@ -1,0 +1,25 @@
+Title: VST III Specifications
+Id: 2559
+Legacy Id: 2657
+
+Question:
+I have a VST III cartridge on my turntable, which has seen very little use since the early 80s. However, I'm thinking it's time to at least check the stylus for wear, since I'm starting to play my records again.
+
+
+Unfortunately, the VST III is long since discontinued, and I really can't find any information about it. I think it was a contemporary of the V15-III, but I'm not sure. When was it manufactured? How does it differ from the V15 models?
+
+
+I'm guessing the M97xE is probably an appropriate replacement for it; the V15VxMR is out of my price range. How does the VST III compare to the M97xE?
+
+
+Answer:
+
+	When was it manufactured?
+	* Mid-1980s
+	
+	How does it differ from the V15 models?
+	*It was very similar to the V15III performance.
+	
+	Im guessing the M97xE is probably an appropriate replacement for it; the V15VxMR is out of my price range. How does the VST III compare to the M97xE?
+	* The M97xE is an upgrade. We highly recommend it as a replacement for the VSTIII.
+

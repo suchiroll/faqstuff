@@ -1,0 +1,12 @@
+Title: Measurement microphone
+Id: 1738
+Legacy Id: 1797
+
+Question:
+Can you suggest a microphone for measuring room response in the 20-200 Hz region? I am interested in calibrating my subwoofer.
+
+
+Answer:
+
+	 Measurement Microphones for below 20Hz
+

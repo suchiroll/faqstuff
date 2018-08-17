@@ -1,0 +1,26 @@
+Title: Changing the DIP Switch Settings/Replacing LED
+Id: 1220
+Legacy Id: 1264
+
+Question:
+We have 10 MX400D/S mics installed in our City Council Chambers. The mics are currently set for "Push to Talk", but Councilmembers have trouble remembering to do so and get annoyed when reminded about it. I would like to change the setting back to "Push to Mute". I removed the base with no problem, but I'm afraid I am unable to locate the DIP switches and I don't want to push or probe in the wrong spot lest I damage the mics. I am not an electrician, but I have a fair amount of experience with A/V equipment. I think I can handle it if you can help me locate the switches. Also, on 2 of our mics, the LED no longer works. Is that something that I can replace (inexpensively and without too much trouble)?
+
+
+---- 06/11/2001 03:14 PM ----------------------------------------------
+
+Thanks for your quick response. Yes, it was covered by film. I thought that had to be the switches, but I was thrown by the film. What about replacing the LED?
+
+
+
+
+Answer:
+
+	Please see the picture below for information about position of the DIP switches. The DIP switches might be covered by a yellow plastic film. Using your finger nail, scrap off this film, exposing the DIP switches.
+	
+
+	
+
+
+
+	Contact our Parts Department (800-516-2525) for information concerning replacement LEDs.
+

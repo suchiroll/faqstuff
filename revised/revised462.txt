@@ -1,0 +1,14 @@
+Title: Impedance Match Low to High
+Id: 462
+Legacy Id: 471
+
+Question:
+Is it possible to impedance match a 6 ohm microphone to a 10kohm input amp?
+If so do you have the required product or technical information?
+
+Answer:
+
+	In general, audio devices no longer require matched impedances. For more information, see the following link:
+	
+	Should I match impedances of my microphone to my mixer?
+

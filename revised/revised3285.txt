@@ -1,0 +1,13 @@
+Title: Oxyride batteries with SLX wireless
+Id: 3285
+Legacy Id: 3448
+
+Question:
+Are oxyride batteries a good choice for my Shure SLX wireless microphone?
+
+
+Answer:
+
+	Introduced in 2004 by Matsushita Electric of Japan, the Oxy-Nickel-Hydroxide (oxyride) battery is claimed to be 1.5 "more powerful" than a standard alkaline battery. The cost of the oxyride batteries varies greatly, but tends to be about 10% more than a standard alkaline battery.
+	We tested the Panasonic "Oxyride" AA batteries in a Shure SLX1 transmitter. We got a solid 12 hours of operation with two AA oxyride batteries. This is roughly a 50% increase over the expected life of standard alkaline batteries in the SLX1.
+	 

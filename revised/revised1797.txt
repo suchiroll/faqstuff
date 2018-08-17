@@ -1,0 +1,26 @@
+Title: Restoring a PE588B-CN microphone
+Id: 1797
+Legacy Id: 1857
+
+Question:
+I have an old PE588B-CN microphone passed on to me from my uncle bought in 1978. It seems that I am unable to purchase replacement parts for that model. I am in need of a new cable, grill and switch. Is there any newer models that perhaps may fit my model? And one more question, if I were to get it sent in, would the company rebuild the microphone? Money is no object. I need to get this done. It means a lot to me especially now my uncle is passed away.
+
+Answer:
+
+	Is there any newer models that perhaps may fit my model?
+	* No. Parts for newer models will not fit your PE588.
+	
+	Would the company rebuild the microphone?
+	* No. We do not have the parts. There are individuals that restore old microphones. Try Jerry Silva at: silclass@aol.com
+	
+	Here are other ideas:
+	
+	New Cable: A local music store will have a cable that will fit. Make certain to bring the microphone to the store.
+	
+	New Grill: Try reshaping the grill yourself. A wooden file handle can be used to press out dents.
+	
+	New Switch: It is likely to just be dirty. Try electronic contact cleaner from a local electronics parts shop.
+	
+	For other questions concerning repair or replacement parts, please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair

@@ -1,0 +1,20 @@
+Title: UA505 Metal Bracket Dimensions
+Id: 3608
+Legacy Id: 3814
+
+Question:
+What are dimensions of the metal mounting bracket in the UA505?
+
+
+Answer:
+
+	The steel mounting bracket (part #53B8493) has a uniform thickness of 0.62 (16 mm).
+	
+	The width of the entire bracket is 1.66 (42 mm).
+	
+	The length of the entire bracket is 4.66 (118 mm).
+	
+	The length of the longer bracket section, that has five holes, is 3.0 (76 mm). This longer section has three holes for mounting screws. Each screw hole has a diameter of 0.18 (4.6 mm). There are alsotwo holes for mounting on a mic stand: one hole has a diameter of 0.64 (5/8 - 16 mm) and one hole has a diameter of 0.38 (3/8 - 9.5 mm).
+	
+	There are two shorter bracket sections, each having one hole; these sections form a 90 degree angle. The length of each section is 1.66 (42 mm). Each shorter section has a holeto mount a BNC bulkhead connector. The diameter of each hole is 0.51 (13 mm).
+

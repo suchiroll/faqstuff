@@ -1,0 +1,14 @@
+Title: Why does the P10T have two antenna outputs and not a summed output?
+Id: 4386
+Legacy Id: 5478
+
+Question:
+Can you explain why the PSM 1000 was designed with 2 antenna ports instead of summing them to one output?
+
+
+Answer:
+
+	The P10T is actually two individual transmitters contained within a single housing. So all the RF components are discreet and independent of one another. Providing a single mixed output, without adding any loss, would require the addition of a very linear, active combiner. While theoretically possible, it would certainly increase the cost and complexity of the unit, while at the same time reducing flexibility to the user. Its fairly common to direct the antenna from one channel towards one zone, and the other channel towards another. If we sold the P10T with only one output, that would not be an option.
+	
+	There are several good options for outboard antenna combining, including the Shure PA421B and PA821B.
+

@@ -1,0 +1,17 @@
+Title: Shure BG 4.1 and SM94
+Id: 535
+Legacy Id: 546
+
+Question:
+What is the difference between the BG 4.1 and the SM94? Is the 4.1 any different than the Access AXS4? I have only seen the Shure Access line sold through Musician's Friend. Why are they not advertised on your website? Will the Access mics replace the BG series? How long will the internal battery last in the BG 4.1 or any other phantom power Shure mic? I have seen external phantom power systems advertised. I assume this type of setup would be used if one does not have a phantom power supply built into a mixer, right? How does an external phantom power system work? In other words, what do I need if I buy a BG 4.1 and I don't have a mixer with phantom power, and I decide not to use a battery? Oh, and one last thing: Does the BG 4.1 come with a padded carrying case, clip, battery, user guide, and mic cable? I'm just curious because I've been shopping around and different places tell me different things. I have a pamphlet for the BG series mics and I thought it said that the 4.1 comes with a cable.
+
+
+Answer:
+
+	The AXS4 and the BG4.1 are the same exact microphone. The AXS4 is a private label product sold by select Shure dealers. The Axcess mics do not replace any current Shure microphones.
+	
+	An external phantom power supply does exactly what you said. It will supply phantom power to a microphone when your mixer does not have that capability. The external supply goes between the microphone and the mixer. If your mixer does not have phantom power and you do not want to use the internal battery, then you will need an external phantom power supply.
+	
+	The BG4.1 comes with a protective vinyl bag, a microphone clip, a User Guide, and a AA battery. The BG4.1 does not come with a cable.
+	
+	Every condenser microphone has a different battery life. The battery life will be specified in the User Guide of the individual microphone.

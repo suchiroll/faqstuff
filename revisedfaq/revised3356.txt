@@ -1,0 +1,114 @@
+Title: What are the color bands for the UA820/UA8 antenna?
+Id: 3356
+Legacy Id: 3540
+
+Question:
+What are the frequency ranges for the various color bands on the UA820 and UA8 antenna?
+
+
+Answer:
+
+	
+		
+			
+				Model Number
+			
+				Range in MHz
+			
+				Band Color
+			
+				Length
+		
+		
+			
+				UA820A
+			
+				774–865
+			
+				White
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820B
+			
+				690-746
+			
+				Blue
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820D/UA8-554-590
+			
+				554-590
+			
+				Red
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820F/UA8-572-596
+			
+				572-596
+			
+				Purple
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820G/UA8-470-530
+			
+				470-530
+			
+				Brown
+			
+				349mm – 13.7”
+		
+		
+			
+				UA820H4/UA8-518-578
+			
+				518-578
+			
+				Orange
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820J/UA8-578-638
+			
+				578-638
+			
+				Red
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820L3/UA8-638-698
+			
+				638-698
+			
+				Blue
+			
+				310mm – 12.2”
+		
+		
+			
+				UA820Q
+			
+				740-814
+			
+				Gray
+			
+				310mm – 12.2”
+		
+	
+
+	Note that the length changed in May 2007. If you have antennas built before May 2007, ignore the lengths in the above table.

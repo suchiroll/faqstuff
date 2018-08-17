@@ -1,0 +1,11 @@
+Title: After market windscreen for Beta 58?
+Id: 2689
+Legacy Id: 2793
+
+Question:
+Instead of opening the grille of my beta 58s to clean the windscreen, i put on after-market windscreens with different colors to keep the mics cleaner and for better identification (by their colors) when i am at the sound board. How does a wind screen sleeve affect the performance of the mics? Pros and Cons?
+
+
+Answer:
+
+	Assuming the foam windscreens are made of the proper open-cell foam (like all Shure brand windscreens), the effect on the audio is very slight: typically a slight roll-off of the frequencies above 10,000 Hz.  Other than that, a foam windscreen has no detrimental effect.

@@ -1,0 +1,16 @@
+Title: Custom Audio Cable Fabrication and Assembly
+Id: 3015
+Legacy Id: 3144
+
+Question:
+Please give me a lead on some diagrams making different audio cables such as XLR, RCA and Mini cables.
+
+
+Answer:
+
+	Audio cable assembly is illustrated in the Cabling chapter of:
+	
+	Sound Reinforcement Handbook
+	by Gary Davis and Ralph Jones
+	published by Hal Leonard
+

@@ -1,0 +1,44 @@
+Title: SCM810 and its use with a large mixing console
+Id: 3579
+Legacy Id: 3785
+
+Question:
+I will be mixing a panel discussion soon. There will be 8 participants, plus a moderator. I want to use the SCM810 mixer for the participants but I don't want to modify the SCM810 as this is a one time event. Any ideas?
+
+
+Answer:
+
+	The following concept is from Mr. Michael David Miller.We thank him for his insight.
+	
+	This procedure can be done without modifying any SCM810 and still provides the full function of the SCM810 including the NOM Attenuation function.The procedure is geared more towards analog boards, but I believe it can work with some digital boards. I will refer to my Allen  Heath MixWizard WZ3 14:4:2 console.
+	
+	The SCM810 can be used in the normal automixer configuration.I will outline two options.The first is for use with a console that has direct channel outputs.
+
+	
+		Connect all eight participant mics into AH console channels 1-8.
+	
+		Connect the moderator mic into console channel 9.
+	
+		Make certain that none of the mics in channels 1-8 are assigned to a group or house master bus.
+	
+		Assign the moderator to the house master bus.
+	
+		Switch each of the Shure SCM810 inputs 1-8 to the line input setting.
+	
+		Connect the direct outs of console channels 1-8 to the Shure SCM810 channels 1-8
+	
+		Connect the line output of the SCM810 to console channel 10, line input.
+	
+		Assign channel 10 to the master house bus.
+
+
+	This procedure allows the use of all console channel function including the use of the insert jack, and uses the intelligent gating processor and NOM Attenuation of the SCM810.
+	
+	On my console, I might choose the pre fade-post EQ direct output option to eliminate a redundant gain control in each channel and just use the channel gain controls on the automixer. If I couldnt place the automixer in easy reach, I would go post fader on the console channels and deal with the redundancy.
+	
+	The second option is for use with a console that either has no direct outs, or cannot be modified and the direct outs are pre EQ.In this case, use aux sends and/or group outputs in place of direct outs. Remember is to assign each input channel to only one aux or group, and do not assign any other input to the same aux or group. This way the SCM810 sees only one microphone per channel.
+	
+	When using a group master, make sure it is not assigned to the master house buss(es). This can cause you some mysterious level and/or feedback problems.
+	
+	A bonus to this procedure is that a stage monitor feed can be provided with only an aux control from the moderators channel and from the SCM810 return channel (Ch 10 in my AH example). A recording send can be provided in the same way on another aux. When the gig is over, the Shure SCM810 is still an unmodified automixer.
+

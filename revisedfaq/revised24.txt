@@ -1,0 +1,12 @@
+Title: LX Wireless - Audible Distortion
+Id: 24
+Legacy Id: 24
+
+Question:
+I am using the LX wireless system with a Beta 58,an SM58, and a condenser headset at a Black Baptist Church.  My problem is with distortion.  The input signal goes into the red for the pastor and soloist. I also use a compressor on each mic. What can I do with the gain structure and compressors to correct this problem?   
+
+Answer:
+
+	When the red peak LED on the receiver illuminates too often or distortion can be heard in a Shure wireless system, it is because the talker or singer is overdriving the transmitter input. To prevent this from happening, turn down the transmitter input gain by adjusting the transmitter gain control. This is a screw driver adjustable control located in the battery compartment of the handheld; or located on one of the case sides of the body pack transmitter.
+	
+	The gain control is properly set when the red peak LED on the receiver comes on only occasionally during peaks in the audio program. The proper setting is totally dependent on the strength of the talker's or singer's voice.

@@ -1,0 +1,36 @@
+Title: Shure VP88 RFI ( radio station interference)
+Id: 1760
+Legacy Id: 1820
+
+Question:
+When using the VP88 on special occasions, and it's becoming more often, (love the mike), I am getting some radio station interference on 1290kc.
+
+
+1.All inputs are balanced.
+
+
+2. No other mike does this and there are many types and brands
+
+
+3.Only does it when the mike is processing the signal, such as, when using the MS position on the output selection switch, The mike operates without any interference. "H" "M" "L" positions have interference.
+
+
+4.Used for Sound Reinforcement/Recording.
+
+
+5.Cathedral is about 1.5 miles from the offending station tower. Power is 5000 watts.
+
+
+Would an isolation transformer 1:1 on each output help? If that is the answer can you recommend one?
+
+
+Answer:
+
+	The AM RF signal is probably being picked up by the mic cable, carried into the mic on the cable shield, demodulated inside of the mic to audio, and sent back out on the mic cable inner conductors as audio.
+	
+	Instead of isolation transformers, we suggest the use of two in-line RF filters - one for each output channel of the mic. Look at the Shure A15RF
+
+	There is also an RF filter made by Attwood Electronics. It is called an RF-22; here is the link to Elite Sound website.
+	
+	We cannot guarantee success, but these RF filters have proven very effective in the past with other RFI problems.
+

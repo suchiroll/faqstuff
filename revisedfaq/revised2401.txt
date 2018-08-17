@@ -1,0 +1,17 @@
+Title: PE54D -- Unidyne III
+Id: 2401
+Legacy Id: 2493
+
+Question:
+1. Does a new SM57 differ from this model specifically and the older Unidyne III models in general, or are they essentially the same microphone?
+
+2. How does my old Unidyne III differ from my new 55SH Series II?
+
+
+Answer:
+
+	1. Does a new SM57 differ from this model specifically and the older Unidyne III models in general, or are they essentially the same microphone?
+	* Essentially, the same.
+	
+	2. How does my old Unidyne III differ from my new 55SH Series II?
+	* The Unidyne III is a better mic than the 55SH Series II: better frequency response, better shock isolation, better polar pattern.

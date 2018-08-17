@@ -1,0 +1,12 @@
+Title: Shure N78S stylus with different Shure cartridges
+Id: 4239
+Legacy Id: 5272
+
+Question:
+Will the N78S 78 RPM stylus work with any of the following older Shure cartridges: M95ED, M91ED, M91EDM, M95G, M75E and the Premier cartridge?
+
+
+Answer:
+
+	Yes, the stylus fits and will work in these models. Note that you may find with certain cartridge bodies that the N78S stylus grip (the plastic piece) may bump into the plastic housing of the cartridge.In that case, the only option is to carefully grind away the plastic using a Dremel drill.
+

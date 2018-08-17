@@ -1,0 +1,12 @@
+Title: Pop or click at the beginning of Motiv MV88 recordings
+Id: 4721
+Legacy Id: 5891
+
+Question:
+There is a "pop" or "click" at the beginning of the recordings I made with the MV88. Suggestions?
+
+
+Answer:
+
+	The iPhones Voice Memo app does not initiate the MV88 microphone until the recording begins, so there is a brief noise as the mic powers up.Sorry, there is no workaround/solution for this, but it should not be an issue in other apps such as Shures Motiv app or GarageBand.
+

@@ -1,0 +1,12 @@
+Title: Stylus for V15HR-P
+Id: 2379
+Legacy Id: 2470
+
+Question:
+What stylus fits the V15HR-P?
+
+
+Answer:
+
+	The N94E stylus fits the V15HR-P.
+

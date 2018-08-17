@@ -1,0 +1,16 @@
+Title: Earphone Maximum Sound Pressure Level Output
+Id: 2902
+Legacy Id: 3026
+
+Question:
+What is the maximum sound pressure output of the E series earphones?
+
+Answer:
+
+	E1 and E1C - Max output = 117 dB SPL at 3% Total Harmonic Distortion
+	
+	E2 and E2C - Max output = 121 dB SPL at 3% Total Harmonic Distortion
+	
+	E3 and E3C - Max output = 117 dB SPL at 3% Total Harmonic Distortion
+	
+	E5 and E5C - Max output = 123 dB SPL at 3% Total Harmonic Distortion

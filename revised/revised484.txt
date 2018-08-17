@@ -1,0 +1,13 @@
+Title: Upgrading a Stylus on V15 Series III
+Id: 484
+Legacy Id: 494
+
+Question:
+I recently got hold of a V15 Series III cartridge, along with a VN35HE stylus. Looking at your stylus and cartridge cross reference, you recommend that the VN35MR stylus is used on this specific Cartridge.
+
+Seeing that I already have this stylus, would I be able to install this stylus without adversely affecting sound quality or causing damage of any kind?
+
+Answer:
+
+	Shure no longer offers the VN35HE stylus; the VN35MR is a direct replacement. The VN35HE stylus will work fine assuming the tip is not worn and the stylus support bearing is not worn, i.e., the stylus is new or nearly new. If you do not know the condition of the VN35HE stylus, then we suggest you purchase a new VN35MR. Installing a new stylus will return the cartridge to like new condition.
+

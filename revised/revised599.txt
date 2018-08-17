@@ -1,0 +1,14 @@
+Title: Learning about Pro Audio
+Id: 599
+Legacy Id: 611
+
+Question:
+I am new to the world of sound engineering. I would like to know about how I can balance the sound between amplifiers and the speakers. If you could please send me the basic lessons of sound engineering.
+
+
+Answer:
+
+	Shure does not manufacture power amplifiers or loudspeakers. However, please read the following as it will help your self-education process.
+	
+	Recommended Pro Audio Books
+

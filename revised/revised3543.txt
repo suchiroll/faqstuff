@@ -1,0 +1,30 @@
+Title: Descent Time of Stabilizer Brush
+Id: 3543
+Legacy Id: 3749
+
+Question:
+I have an old stylus for the M97xE. How can I determine if the brush bushings are still operating properly?
+
+
+Answer:
+
+	This answer applies to all Shure cartridges that have the stabilizer brush, e.g., V15 IV, V15 V, M97xE, and others.
+	
+	Take great care when performing this test so that you do not damage the stylus assembly.
+
+	
+		Gently push/pull the brush up and down using your fingertip placed on the plastic tab near the brush. Do this 5 times.
+	
+		Gently push the brush up to the top, but not into the locked position.
+	
+		Let the brush fall naturally.
+	
+		It should take from 1 to 3 seconds for the brush to stop falling.
+	
+		If it falls too quickly, the bearings have lost the internal damping fluid. The stylus assembly must be replaced if you want the stabilizer function. The cleaning function and the de-static function remain functional
+	
+		If it falls too slowly, the bearings internal damping fluid has become contaminated with dirt, or has become too viscous, or the brush supporting arms are bent or misaligned. The stylus assembly can be used only with the brush locked into the up position, because a malfunctioning stabilizer brush will cause mistracking
+
+
+	
+

@@ -1,0 +1,31 @@
+Title: WA340 threaded TA4F adapter use and installation
+Id: 4078
+Legacy Id: 4650
+
+Question:
+I am trying to find out how the WA340 Threaded TA4F Adapter kit works in relation to standard TA4F connectors. Does it simply fit over the existing connector or is some kind of modification needed? The application is to use our existing wireless microphone stock wired for Shure ULX systems with our new (future) UHF-R system with the UR1-m transmitter.
+
+
+Answer:
+
+	The WA340 consists of two parts:
+
+	
+		1) a threaded ring
+		2) a housing for the TA4F connector part.
+		
+
+
+	a) The TA4F black plastic rear housing is unscrewed from the TA4F chrome section that has the release button.
+	
+	b) The TA4F black connector part with four holes is removed from the TA4F chrome section.
+	
+	c) The WA340 threaded ring is slipped over the TA4F black connector part.
+	
+	d) The TA4F black connector part is inserted into the WA340 housing.
+	
+	e) The TA4F black plastic read housing screws into the WA340 housing, trapping the WA340 thread ring.
+	
+	
+	NOTE: The TA4F release button is removed when the WA340 is installed.
+

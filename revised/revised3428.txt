@@ -1,0 +1,20 @@
+Title: Wireless Workbench version 5 loses connection with Multiple UR4 Receivers
+Id: 3428
+Legacy Id: 3619
+
+Question:
+An additional UR4 receiver (firmware version 1.150) was added to an installation with several existing UR4 receivers. The receiver’s Ethernet port was integrated with the existing receivers and network. When Wireless Workbench version 5 was started, it was intermittent and sometimes lost connection with the receivers. Any suggestions?
+
+
+Answer:
+
+	Wireless Workbench version 5 may exhibit difficulty communicating with multiple networked UR4 receivers when the receivers are operating on different firmware versions.This may happen when at least one of the receivers has firmware version 1.150 installed.
+	
+	The first step is to inventory the firmware version of each receiver.This can be determined by power cycling each receiver and observing the display window - the firmware version will be shown for several seconds just after power-up.
+	
+	The solution to this problem is to update the firmware of all receivers in the network to the latest version (1.150 at the time of this writing).To perform the update, it is recommended to connect to each receiver individually, one at a time.Consider using a USB connection from your PC to each receiver for the update process.The USB connection method is the simplest interface to use, requiring no special configuration steps.Alternatively, one can connect a PC to each receiver via Ethernet, one at a time.The Ethernet connection solution may require configuring both the PC and the receiver for compatible network addressing.
+	
+	Once all receivers are on the latest firmware version, Wireless Workbench version 5 should be able to reliably communicate with all UR4 receivers on the network.
+	
+	Steps to update the UR4 Receiver Firmware
+

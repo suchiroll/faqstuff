@@ -1,0 +1,11 @@
+Title: Modifying SM57 to work at a 90 degree angle
+Id: 1503
+Legacy Id: 1556
+
+Question:
+I am wondering if there is a part that exists that would allow me to change the shape of my SM57 from a straight, traditional, handheld design to an L shape by using a threaded insert (both sides) that has a right angle to it, and then desoldering the mic, screwing in the top (grille) and the bottom (handheld portion) to the threaded 90 degree piece, and then resoldering. This would allow in many situations much tighter micing, particularly for drums and guitar. I have wanted to search for such a part myself, but I am hoping that someone has already figured this one out:) If there is no part, can I get the thread specifications of the SM57? Thank you.
+
+
+Answer:
+
+	This is not recommended. The reason is that the inside of the SM57 handle is an engineered acoustic chamber. This chamber directly affects the frequency response of the SM57. Eliminate or change this chamber in any way, and the SM57 will now longer work as designed. Instead, consider the Beta 56 model.

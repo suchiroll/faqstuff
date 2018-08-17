@@ -1,0 +1,15 @@
+Title: PGXD2 Attenuation Settings
+Id: 3839
+Legacy Id: 4078
+
+Question:
+Is there a method to attenuate the PGXD2 mic element signal when it is used with a really loud singer?
+
+
+Answer:
+
+	The PGXD2 has four possible attenuation settings:  0 dB; - 6dB; - 10 dB; - 16dB. 
+	
+	An internal slide switch (see the User Guide) may be set for 0 dB or - 10 dB of attenuation.  Also, there is an optional - 6 dB attenuator on the PGXD2 circuit board. To enable the - 6 dB attenuation, a qualified electronics technician must remove the zero-ohm resistor at R210, and then re-soldered it at the R213 location.
+	
+	NOTE: Adding the -6dB of attenuation increases the noise floor of the PGXD2.  With the -10 dB switch setting (-16 dB total), there is 1 dB increase in noise floor. With the 0 dB switch setting (-6 dB total), there is a 2 dB increase.

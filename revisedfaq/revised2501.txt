@@ -1,0 +1,31 @@
+Title: V15VMR Cantilever Protection
+Id: 2501
+Legacy Id: 2597
+
+Question:
+I have been using a Shure V15 type V-MR cartridge for many years. It is the old version, not the new V15/VxMR.
+
+According to the user manual, the cantilever will withdraw inside the cartridge housing when there is accidental side thrust. According to the diagram, it will withdraw to the right hand side (viewed from the cartridge front). I have never seen that happen.
+
+On the other hand, I find that the cantilever is bent (i.e. damaged) easily. I have bent four so far! It always bent to the left hand side (i.e. not the right hand side as in the case of the automatic withdrawal.) The cantilever lever itself is apparently not damaged. Apparently the cantilever is bent at the point where it is attached to the stylus assembly (i.e. at the opposite side of the needle).
+
+I use 1.1g tracking force, and set up the tone arm meticulously. I do not use the damping/cleaning brush.
+
+In future, how can I prevent the cantilever from bending?
+
+Does the bending have anything to do with the automatic withdrawal?
+
+Assuming the cantilever does withdraw, how should I get it out again to the normal position?
+
+
+Answer:
+
+	How can I prevent the cantilever from bending?
+	* We cannot answer this as we do not know what was done to damage the cantilever. We would require avisual recordingshowing the action that caused the damage.
+	
+	Does the bending have anything to do with the automatic withdrawal?
+	* No.
+	
+	Assuming the cantilever does withdraw, how should I get it out again to the normal position?
+	* It does not withdraw backwards; it moves upward when the cantilever accidentally touches the edge of the record. This is a momentary upward movement. No action is required to bring the cantilever down.
+

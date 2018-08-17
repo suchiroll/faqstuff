@@ -1,0 +1,11 @@
+Title: M95ED Output Level
+Id: 2630
+Legacy Id: 2732
+
+Question:
+Am dusting off my old Pioneer deck which has am M95ED on it. Do you know, or know where I can find, the output values for it?
+
+
+Answer:
+
+	4.7mV per channel at 1,000 Hz, 5 cm/sec peak recorded velocity

@@ -1,0 +1,61 @@
+Title: Theater Audio: The Science Behind the Illusion
+Id: 541
+Legacy Id: 552
+
+Question:
+I want to mic my school play but I'm having problems with feedback. I've seen other theaters get good sound. How do I do it?
+
+Answer:
+
+	Theater Sound: The Science Behind the Illusion
+
+	Have you ever noticed how great Broadway shows sound? Does the rock band in Rent get your blood pumping? Do the lyrics to Memories get you choked up every time? Are you ready to run to the local music store and spend a few hundred dollars on some overhead microphones so your local theater (or grade school, high school, church production, etc.) can get that incredible clarity and power? Well, hang on just a minute. Before you run out to spend those hard-earned tax dollars, lets take a quick look at the realities of theater sound, and what you can realistically expect from your venue.
+
+	
+
+	Microphones for everybody!
+
+	Most theaters that operate on a limited budget try to use as few microphones as possible. Common techniques include hanging a few microphones overhead, and maybe a few boundary (or surface mount) microphones at the front of the stage. There are many inherent problems with these techniques, including, but not limited to:
+
+	
+		Reduced gain before feedback due to too many open microphones too far away from the actors.
+	
+		Comb filtering (that thin, hollow sound) resulting from multiple microphones picking up the same actor.
+	
+		Increased pickup of stage vibration noise, reverberation, and other unwanted sounds.
+	
+		Varying sound levels as actors move in and out of the pick-up areas of different microphones.
+
+
+	How do professional theaters deal with these issues? Easy - they dont. Every performer on stage gets a wireless microphone. Most Broadway productions use over a hundred thousand dollars worth of wireless microphones for a single show. A basic rule of microphone technique for any application is get the microphone as close as possible to the desired sound source. Therefore, even though you cant always see it, each actor has a small lavalier microphone clipped, taped, glued, or sewn to some part of the face, hair, or costume. Having every actor close-miked eliminates all of the above problems encountered with distant miking. The distance between the microphone and the actors mouth remains constant, thus providing a constant output level. High sound level shows such as Rent go a step further, using headset microphones to get the microphone even closer to the sound source.
+
+	
+
+	The Overhead Dilemma
+
+	Okay, so your budget doesnt quite get up to Broadway standards. Using a few overhead microphones for smaller speaking parts can be an acceptable alternative, but be realistic about what to expect. Consider the following example: Two actors on stage, one is wearing a lavalier microphone six inches from his mouth, the other is standing six feet from the nearest overhead microphone. The actor wearing the lavalier will be 21 dB louder than the other actor will. Realistically, a 21dB difference will sound four times as loud!
+	
+	Turning the microphones up louder is not always an option, either. For any given sound system, the farther the microphones are from the sound source, and the closer they are to the loudspeakers, the less you can turn them up before feedback occurs. Multiple open microphones will further increase the chances for feedback. In addition, distant microphones will pick up more ambient sound, making the actors sound farther away, when compared to close-miked actors. If you choose to use overhead microphones, pay close attention to where the actors are standing when they speak. If the actors are always as close to the microphones as possible, sound quality will improve. Turning down unused microphones will also help.
+	
+	For downstage areas, or runways where it is not practical to hang an overhead microphone, boundary microphones are often used. These small, flat microphones are usually placed at the edge of stage, where they will be out of the actors way. Boundary microphones are not magic; they are subject to the same limitations as overhead microphones, with the additional issue of stage vibration pick-up.
+	
+	Overhead and boundary microphones that you may see in a Broadway production are not necessarily used for sound reinforcement, either. Many times they are used for hearing assist, backstage cues, or recording.
+	
+	One final note on microphones: shotgun microphones are never used for sound reinforcement! The shotgun microphone was designed for film and video production work, where the microphone signals are going straight to tape. It does not focus on the sound coming from the stage, nor does it filter out unwanted sounds. A shotgun placed at the back of the hall will pick up everything that happens between the microphone and the stage.
+
+	
+
+	Acoustics
+
+	Another issue that can plague amateur theater is poor acoustics. The typical cafe-gymna-torium that is used for many school and church theatrical productions is, acoustically speaking, the worst possible place for sound reinforcement. These rooms tend to be extremely echo-y, which limits intelligibility (the ability to understand what is being said) and decreases gain before feedback (how loud you can turn up the sound system).
+	
+	Professional productions are done in quiet, non-reflective, controlled environments that are optimized for theater sound. Many theaters also employ a distributed sound system, which uses many speakers placed throughout the venue that are divided into zones. Each zone is fed a varying amount of signal, depending on how far they are from the stage. Loudspeakers nearest the stage get very little, if any, signal, while those at the back get proportionally more. This also allows the overall volume level to be lower, which improves intelligibility in a poor acoustic environment.
+
+	
+
+	Know your performers!
+
+	Lastly, remember to keep in mind the skill level of the performers involved. Professional actors and singers know how to project their voice, which creates more signal level at the microphone. Children, especially shy ones, do not make much sound, which further necessitates close-miking techniques. As mentioned above, turning distant microphones up louder will most likely result in feedback. Remember, if you cant hear what the actors are saying from six feet away, the microphone certainly cant either!
+	
+	If the above examples seem to paint a grim picture, dont despair. Placing the microphones as close as possible to the actors mouths will always result in improved sound quality. Just be aware that overhead microphones, used carefully, can increase intelligibility for smaller speaking roles. What they cannot do, however, is create a Broadway-like experience. Wireless microphones and carefully controlled, expensive sound systems operated by top-flight sound technicians are the science behind the illusion in professional theater.
+

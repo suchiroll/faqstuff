@@ -1,0 +1,12 @@
+Title: VHF wireless frequencies
+Id: 1181
+Legacy Id: 1224
+
+Question:
+Good morning, Although frequencies are listed on the equipment along with the letter codes, I am unable to match some of the wireless mics I now have with some new products because I can't find the frequencies listed in numeric form. Is there somewhere on your web page that will cross reference your VHF frequencies with your letter codes? If not, do you have a listing I could get. The letter system is actually quite confusing to me.
+
+
+Answer:
+
+	At 05/22/2001 08:58 AM we wrote - Which VHF frequencies does Shure use in the U.S.?
+

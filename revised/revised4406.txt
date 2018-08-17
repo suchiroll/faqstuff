@@ -1,0 +1,80 @@
+Title: Resolving Firmware Mismatch Issues for the DCS 6000 System
+Id: 4406
+Legacy Id: 5503
+
+Question:
+I received a replacement CU from Shure for my DIS system and it does not appear to be working properly with my existing delegate units. Why is this?
+
+
+Answer:
+
+	It is most likely that the issue is due to a firmware mismatch between the new CU and your existing delegate units.
+	
+	In order to resolve this mismatch it is necessary to choose one of the following:
+
+	
+		Change the CU firmware to match the delegate unit(s) firmware
+	
+		Change the delegate unit(s) firmware to match the CU firmware
+	
+		Change both the CU firmware and the delegate unit(s) firmware to some different (matching) firmware version
+
+
+	The third option is chosen if it is desired to update the entire system to the latest firmware release (7.4.5 presently). (CAUTION: If the installation also includes SW 6000 software, note that upgrading firmware may render the hardware incompatible with the software! Unless you plan to upgrade SW 6000 as well, you should roll back the CU firmware release version to match the firmware release version of the rest of the equipment instead of upgrading the entire system.)
+	
+	In order to verify or change firmware on central units and/or delegate units it is necessary to use the Firmware Upgrade Utility.This utility can run on any PC that is using any version of the Windows 7, Vista, or XP operating system.
+	
+	This utility can be downloaded from the DIS Partner website:
+	
+	www.dis.cc/login
+	
+	Please contact Shure Systems Support for login credentials.
+	
+	Once you have arrived at the Partner Site, click the tab on the left side of the page labeled Technical Info, DCS 6000
+	
+	Click on the Downloads tab
+	
+	Click on the DCS 6000 heading
+	
+	The resulting page offers several download options.For maximum flexibility in the firmware upgrade/downgrade process, it is suggested to download the second item:Firmware 7.4.4-Full.This a large file (435MB presently) that contains all previous releases of DIS firmware.This will allow the CU firmware to be changed to match the existing delegate unit firmware or vice versa.
+	
+	Alternatively, you may just download the first item:Firmware 7.x.x-Upgrade.This can be used to upgrade the CU and all of the delegate stations to the latest firmware version only.
+	
+	Finally, you should download the fourth item:Manual ENG.This is the Firmware Update Utility manual that gives detailed instructions for performing the firmware upgrade/downgrade process for all DCS 6000 units.The first 10 pages describe the steps for this process in detail.
+	
+	Connection to theCU 6010 or CU 6011 needs to be made via RS-232, therefore, you will most likely need a USB-to-serial adapter cable of some sort.Not all of these adapters will work.We suggest using an adapter based on the operating system that your computer is running:
+	
+	Windows 7 - 64 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	
+	
+	Windows 7 - 32 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949 (Download drivers from Radio Shack website)
+	
+	
+	Windows Vista - 32 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949
+	Radio Shack #26-183 - If this Radio Shack adapter does not have Vista drivers available, you can use the XP drivers on the Vista Operating System. Click Here for instructions on installing the driver.
+	
+	
+	Windows XP
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949
+	IOGear GUC232A
+	Tripp-Lite U209-000-R
+	IBM 22P5298
+	Generic UE-RA15SC-A
+	Radio Shack #26-183
+	
+	January 2014
+

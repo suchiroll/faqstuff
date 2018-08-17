@@ -1,0 +1,14 @@
+Title: DDS 5900 - Control System Output From Chairman 5980
+Id: 4413
+Legacy Id: 5510
+
+Question:
+Is there a way to configure the 5900 chairman units to control the system output volume (for local reinforcement level)? What would you need to accomplish this for the 6000 series, without voting or any other extras?
+
+
+Answer:
+
+	No, on the 5900 Chairman unit, the only extra control you get is All Delegates Off. However, with the GUI and an iPad, you could control the CU output.
+
+	Same thing on the 6000. System volume is not a feature built into the hardware. The GUI is needed for that feature.
+

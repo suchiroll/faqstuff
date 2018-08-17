@@ -1,0 +1,13 @@
+Title: MT500HE stylus
+Id: 2420
+Legacy Id: 2513
+
+Question:
+I have an older MT500HE cartridge, is there a current stylus that I can use as a replacement ?
+
+
+
+Answer:
+
+	The N97HE is the proper replacement stylus. The NE97HE stylus is nearly identical to the N97HE and will likely fit the MT500HE body.
+

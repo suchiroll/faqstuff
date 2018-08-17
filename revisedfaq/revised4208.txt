@@ -1,0 +1,34 @@
+Title: P10T transmitter with P9RA receiver; P9T transmitter with P10R receiver
+Id: 4208
+Legacy Id: 5175
+
+Question:
+Can you use a PSM1000 transmitter with a P9RA beltpack receiver? What about a PSM900 transmitter with a P10R receiver?
+
+
+Answer:
+
+	It is possible to mix and match the PSM900 and PSM1000 personal monitor system components.A P9RA beltpack receiver can be used with a P9T transmitter or a P10T transmitter.Similarly, a P10R beltpack receiver can be used with either a P10T or a P9T transmitter.
+	
+
+	When planning to use a mixture of personal monitor components, be sure to match up the frequency ranges.The PSM900 U.S. frequency ranges are:
+	G6--TV channels 14-19, 470-506 MHz
+	G7--TV channels 20-25, 506-542 MHz
+	K1--TV channels 35-40, 596-632 MHz (discontinued)
+	L6--TV channels 45-50, 656-692 MHz(discontinued)
+	
+
+	The PSM1000 U.S. frequency ranges are:
+	G10 --TV channels 14-25, 470-542 MHz
+	J8 --TV channels 28-39, 554-626 MHz (discontinued)
+	L8 --TV channels 40-51, 626-698 MHz (discontinued)
+	
+
+	So here are the compatible combinations of U.S. frequency bands:
+	PSM900-G6PSM1000-G10
+	PSM900-G7PSM1000-G10
+	PSM900-K1PSM1000-J8 plus 6 MHz overlap to PSM1000-L8
+	PSM900-L6PSM1000-L8
+	
+	
+

@@ -1,0 +1,13 @@
+Title: Stylus or replacement for M44MR
+Id: 611
+Legacy Id: 624
+
+Question:
+I have a Rock-ola jukebox with a Shure cartridge M44MR. I don't see that one on your replacement list. What stylus will fit this? Also, what replacement cartridge should be used?
+
+Answer:
+
+	The M44MR has been discontinued for many years as has the direct replacement stylus. We believe the current N44C stylus will fit your cartridge.
+	
+	Regarding a new cartridge, "Which phono cartridge will fit my turntable?".
+

@@ -1,0 +1,11 @@
+Title: MX153 as a wired mic
+Id: 4066
+Legacy Id: 4632
+
+Question:
+What preamp is required to convert the MX153 into a wired mic?
+
+Answer:
+
+	RK100PK is the correct preamp model. NOTE: Phantom power is required by the RK100PK; make certain the mic mixer input provides phantom power.
+

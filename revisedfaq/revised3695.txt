@@ -1,0 +1,110 @@
+Title: P9T Transmitter Audio Level LED Meter
+Id: 3695
+Legacy Id: 3912
+
+Question:
+The P9T transmitter has two strings of LEDs that act as an audio level meter for the Left Input and for the Right Input. How do I interpret these LEDs?
+
+
+Answer:
+
+	With the P9T set to: Line Input +4dBu; Input Level-16dB, the chart provides the corresponding signal levels.
+
+	
+		
+			
+				
+					
+						LED #
+				
+				
+					
+						Input Level
+				
+			
+			
+				
+					
+						8 (Red)/INPUT CLIP
+				
+				
+					
+						+20.4 dBV  1 dBV
+				
+			
+			
+				
+					
+						7 (Yellow)
+				
+				
+					
+						+18.4 dBV  1 dBV
+				
+			
+			
+				
+					
+						6 (Yellow)
+				
+				
+					
+						+14.4 dBV  1 dBV
+				
+			
+			
+				
+					
+						5 (Green)
+				
+				
+					
+						+9.4 dBV  1 dBV
+				
+			
+			
+				
+					
+						4 (Green)
+				
+				
+					
+						+2.9 dBV  1 dBV
+				
+			
+			
+				
+					
+						3 (Green)
+				
+				
+					
+						-2.6 dBV  1 dBV
+				
+			
+			
+				
+					
+						2 (Green)
+				
+				
+					
+						-7.6 dBV  1 dBV
+				
+			
+			
+				
+					
+						1 (Green)
+				
+				
+					
+						-12.6 dBV  1 dBV
+				
+			
+		
+	
+
+
+	
+

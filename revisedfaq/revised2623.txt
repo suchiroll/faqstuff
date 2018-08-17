@@ -1,0 +1,24 @@
+Title: PS44 DC Coaxial Connector for UA844
+Id: 2623
+Legacy Id: 2725
+
+Question:
+What are the dimensions of the PS44 DC coaxial connector?
+
+
+Answer:
+
+	Historically, all Shure products fitted with co-axial DC connectors have used plugs with 5.5mm OD and 2.1mm ID. This has been the case with both locking and non-locking connectors.
+	
+	The PS44 power supply, used exclusively with the UA844US active antenna distribution amplifier, uses a connector with slightly different dimensions. Specifically, it is 5.5mm OD and 2.5mm ID.
+	
+	Two items result from this:
+	
+	1) The co-axial connector of the PS44 will physically mate with all of our existing (and historical) locking-connector-equipped products. However, it will not make electrical contact with the (2.1mm) center pin. Thus, no power will be applied to those products.
+	
+	2) The co-axial connectors of all of our other existing (and historical) power supplies will not physically mate with the input DC co-axial connector on the UA844US.
+	
+	This was done to prevent attempts to power up the UA844US by any supply other than the PS44, since none of them has anywhere close to the required current capability (3.3 amps).
+	
+	The only downside is that the PS44 cant be used to directly power any other device even though its voltage and current capability may be suitable. A connector change (to a 5.5mm x 2.1mm) would allow this in an emergency.
+

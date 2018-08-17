@@ -1,0 +1,27 @@
+Title: FP3 is difficult to latch into my SM58
+Id: 4243
+Legacy Id: 5276
+
+Question:
+I have a new FP3 and cannot seem to make it latch to a Shure SM58. Is there a trick?
+
+
+Answer:
+
+	The FP3 has an internal spring that is designed to keep the FP3 firmly latch to the microphone. When new, the FP3 spring can be quite firm - this is by design so that the FP3-to-microphone connection is secure. Try this method:
+
+	
+	1)Mate the SM58 and the FP3.
+	
+	2)Put the SM58 grill into your left palm.
+	
+	3)Put the butt end of the FP3 into your right palm.
+	
+	4)Push from both ends - trying to bring your palms closer together.
+	
+	5)Firm pressure should make the internal spring compress and allow the XLR connectors to latch.
+
+	
+
+	Over time, the FP3 latching mechanism will become easier to use.
+

@@ -1,0 +1,25 @@
+Title: MX395 Installation Dimensions
+Id: 3391
+Legacy Id: 3579
+
+Question:
+What is the diameter of the hole required to install the MX395 microphone? And other dimensions that might impact the installation?
+
+
+Answer:
+
+	One inch diameter (25 mm) to accommodate the rubber bushing mounted below the mic element.  
+	
+	If the rubber bushing is not used because of a special application, the hole diameter can be 7/8 inch (22 mm).
+	
+	Entire length of the MX395: 4 inches (102 mm)
+	Height above table surface without rubber grommet:  9/16 inch (14 mm)
+	Height above table surface with rubber grommet:  5/8 inch (16 mm)
+	Diameter of trim ring directly below perforated grill: 1 1/4 inches (32 mm)
+	Thickness of trim ring: 3/16 inches (5 mm)
+	Length below trim ring: 3 3/8 inches (88 mm)
+	Length of thread portion: 2 7/8 inches (74 mm)
+	Length of unthreaded portion below the trim ring: 1/2 inch (14 mm)
+	Diameter of plastic securing nut including the extended ears: 2 1/4 inches (58 mm)
+	Thread size of the plastic nut: 7/8"-14 UNF-2B
+	Minimum Length between trim ring and securing nut:  3/8 inch  (9 mm)

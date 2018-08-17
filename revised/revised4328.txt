@@ -1,0 +1,16 @@
+Title: Alternative to Shure Earphone Cleaning Tool
+Id: 4328
+Legacy Id: 5408
+
+Question:
+I have misplaced the earphone cleaning tool provided with my Shure earphones. Is there some other tool I can use?
+
+
+Answer:
+
+	Some Shure customers use a miniature brush that is designed for cleaning between teeth. The product is called a Pikster: www.piksters.com
+	
+	The Pikster is available in different sizes. Size 0 (zero) is the smallest and the most useful for cleaning earphone nozzles and earphone sleeves.
+	
+	IMPORTANT: The length of the Pikster cleaning section is 10 mm. The length of the Shure tool cleaning section is 4 mm. It is strongly recommended to shorten the Pikster brush to 4 mm so it will not be inserted too far into the earphone nozzle as this could damage the earphone driver mechanism.
+

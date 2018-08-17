@@ -1,0 +1,16 @@
+Title: Can I use the SM11 and LX1 together?
+Id: 2567
+Legacy Id: 2665
+
+Question:
+The product spec sheet says I can use a dynamic lavalier with the LX1 bodypack. None of the mics listed (WL83, WL183, WL184, WL185) are dynamic. Can I use the SM11 with the LX1?
+
+
+Answer:
+
+	Yes, the SM11 will work with the LX1. Wire it as follows:
+	
+	SM11 pin 1 to LX1 pin1
+	SM11 pin 2 to LX1 pin 3
+	SM11 pin 3 to LX1 pin 1
+

@@ -1,0 +1,17 @@
+Title: Update Utility Stuck in "Discovering"
+Id: 5426
+Legacy Id: 6395
+
+Question:
+I'm trying to update the firmware on MXW. The products show up fine in the Discovery App, but in the Update Utility, they just say ""Discovering"".
+
+Answer:
+
+	This symptom can be caused by a couple different things.
+
+	
+		Check the firewall on the computer. Make certain that the Shure Update Utility is allowed through for all domains and network types in the firewall settings. Often times, turning off the firewall is NOT enough. Even with the firewall off, the computer still blocks some traffic.
+	
+		Check the subnet mask of your computer and the MXW products. They should be the same. For example, if the subnet mask of your computer is 255.255.0.0 and the subnet mask of the MXW products is 255.255.255.0, this symptom will appear.
+
+

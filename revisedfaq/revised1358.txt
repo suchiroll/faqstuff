@@ -1,0 +1,15 @@
+Title: Loss of earphone signal due to moisture
+Id: 1358
+Legacy Id: 1410
+
+Question:
+I have had your E5 in-ear-monitors for some time now and really love the way they sound.  I had an audiologist take ear impressions and send them in to Westone to have ear molds custom made that fit the E5's.  I play drums with two bands and when we are playing outside, or a venue that is warm I do sweat quite a bit.  It seems that when I sweat very much the left side of my E5's stop working.  If I leave them set for a couple of days they then work fine again.  I have checked all connections and they are fine - the problem is definitely within the E5's themselves.  Luckily, I have a set of E1's also that I can use as back-up, but I don't have the molds with them.  Do you know if moisture build up can cause temporary loss of one side as I have described?  It seems strange that it is always the left side.  Or, is this something I need to talk to service and repair about?  Thanks for your help.
+
+Answer:
+
+	Superb troubleshooting on your part. Sweat and moisture can easily block the sub-miniature tube that carries sound from the E5 drivers into the ear canal. The custom molds make the problem worse as no evaporation can take place. It is likely that you have more sweat glands in the left ear and therefore the left only problem.
+	
+	We are aware of this problem but have no solution to date. The same problem exists in the hearing aid industry. For now, we can only suggest having a back-up pair of monitors.
+	
+	Consider storing the E5s in a container that has a desiccant (moisture absorber) packet in it. Typically such a packet has blue crystals of silica gel. These packets can be used indefinitely if they are dried out in an oven at low heat. Uncooked rice can also be used as a dessicant.
+

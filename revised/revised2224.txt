@@ -1,0 +1,54 @@
+Title: Used SM57 - How to test it?
+Id: 2224
+Legacy Id: 2301
+
+Question:
+I just purchased a used SM57 and this is the first mic I have ever owned. I am new to pro audio and need all the help I can get.
+
+
+The mic looks like it is in decent shape. The top of the grill is concave and has a dark spot on one side of it. I am not sure if it is corrosion or if it could be a burn from an electrical short. How can I tell what might have happened to cause this?
+
+
+The screen and grille assembly rotates which from what I have read is normal but it also rattles just a bit.
+
+
+Can you give me some tips on how to test the mic? How do you know if the cartridge needs to be replaced? How can you tell if the diaphragm is damaged? Any advice would be greatly appreciated.
+
+
+From what I have read these mics are built to take a lot of abuse but I just want to be sure this one is at peak working condition.
+
+
+Answer:
+
+	There is only one certain way to test a used SM57; compare it to a new SM57. That is how it is done at Shure. We have lab standard models which are used as comparisons to any used mic returned for repair.
+	
+	Here are comments on your observations:
+	
+	The top of the grill is concave.
+	* This is normal.
+	
+	and has a dark spot on one side of it.
+	* Could be corrosion or dark lipstick.
+	
+	How can I tell what might have happened to cause this?
+	* There is no way.
+	
+	The screen and grille assembly rotate.
+	* This is normal.
+	
+	but it also rattles just a bit
+	* This is also normal, but it will not interfer with normal operation.
+	
+	Can you give me some tips on how to test the mic?
+	* Compare it to a new SM57.
+	
+	How do you know if the cartridge needs to be replaced?
+	* It will sound very bad.
+	
+	How can you tell if the diaphragm is damaged?
+	* It will sound very bad.
+	
+	From what I have read these mics are built to take a lot of abuse but I just want to be sure this one is at peak working condition.
+	* There is no way for you to determine if it is a peak working condition, unless you have an anechoic chamber and $50,000 worth of test equipment.
+	
+	Our advise is stop fretting. Mics like the SM57 typically work fine, or don't work, or work but sound funny. If your SM57 sounds good, it is good.

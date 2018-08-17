@@ -1,0 +1,16 @@
+Title: Mic for outdoor marching band concerts
+Id: 1805
+Legacy Id: 1865
+
+Question:
+I have been asked to record several marching band contests. Which mic would be best? How many? Best placement? And, how do I cope with wind noise (which has been a problem in the past? Do you have a recommendation for the best mic to use in an open-air/outdoor setting?
+
+
+Answer:
+
+	Please see the following link to our online FAQ: Mic placement for marching band
+	
+	The only solution to wind noise is a LARGE windscreen. If typical windscreens are not effective enough, consider larger windscreens from Rycote.
+	
+	The A81WS windscreen used on a Shure SM57 microphone is very effective. 
+

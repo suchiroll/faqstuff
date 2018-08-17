@@ -1,0 +1,33 @@
+Title: ULX-D battery meter for NiMH batteries
+Id: 4572
+Legacy Id: 5698
+
+Question:
+I was looking at the user guide for the ULX-D for information about battery meters for different types of batteries however it doesn't list the meter for using NiMH batteries. Can you direct me to a chart for using them? There's only alkaline and the Shure rechargeable battery pack listed in the user guide.
+
+Answer:
+
+	Notethat posting a specific chart and having it be accurate is difficult with NiMH batteries since the battery life per charge can change over the life of a given battery.Unlike Alkaline batteries which is a one-shot use and are loser in tolerance when using name brands, there are hundreds of types of NiMH batteries and they tend to not be consistent.
+	
+	Different NiMH cells were tested and an average was compiled to use for the metering.Heres what was found in testing:
+	
+	1 or 10 mW settings:
+	FULL Bars = 11.2 to 14 hours (battery at approx.100%)
+	4 bars = 7 to 11.2 hours
+	3 bars = 2.8 to 7 hours
+	2 bars = 1.4 to 2.8 hours
+	1 bar = 20 min to 1.4 hours
+	Warning bar comes between 20 minutes and 0 minutes remaining (approx. 5% of battery life)
+	
+	20 mW setting:
+	FULL bars = 7.6 to 9 hours
+	4 bars = 5.25 to 7.6 hours
+	3 bars =- 2.1 to 5.25 hours
+	2 bars = 1 to 2.1 hours
+	1 bar = 15 min to 1 hour
+	Warning bar comes on between 15 minutes and 0 minutes remaining (approx. 5%of battery life)
+	
+	There is a wide range time-wise right in the middle of the battery life range likely due to the wide variation of the different batteries tested.Because an average was used, it is also not possible to really correlate a specific voltage.
+	
+	If NiMH cells are already owned must be employed, these test values may be useful.However, we recommend using the Shure SB-900 Lithium ION batteries.These are more consistent, do not suffer from memory-effect, have a very long life cycle (at least 500 cycles to 80% health), offer about the same or higher life per charge, and offer more accurate battery life metering that is displayed in Hours and Minutes instead of bars.The initial investment in these batteries and chargers is substantial, but the performance and life of the batteries should make up for the cost over the life of the system.
+

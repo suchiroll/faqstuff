@@ -1,0 +1,17 @@
+Title: Audible delay when using a wireless mic outdoors
+Id: 3592
+Legacy Id: 3798
+
+Question:
+I am using a SLX2B87A-J3, when using indoors for introducing wedding parties and guests this mic works great with no delay or dropouts even when I am a long ways away from base unit (100 to 150 feet). Last weekend while doing an outdoor pool party while I was standing on the other side of the pool less than 150' from the base unit but with the pool between me and the base unit, I was was getting a very noticable delay, when I would move to a place where the pool was not between me and the base unit everything was back to normal no delays. I guess my question is can a swimming pool cause a delay when it is between my handheld and the base unit.
+Thank you for any help, answers, ideas, or suggestions.
+
+
+Answer:
+
+	The delay is acoustical, not electrical.And the pool could cause other acoustical reflections as water is an excellent reflector of sound.
+	
+	Sound travels at about 1 foot per millisecond. If you are 200 feet from a loudspeaker, you would hear your amplified voice delayed by 0.2 seconds - two-tenths of second and that is a noticeable acoustical delay.
+	
+	Indoors, the same amount of delay is often not a noticeable because of the numerous reflections off the walls and ceilings.
+

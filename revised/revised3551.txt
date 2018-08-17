@@ -1,0 +1,72 @@
+Title: MX400DP Desktop Microphone Base - Technical Aspects
+Id: 3551
+Legacy Id: 3757
+
+Question:
+Please provide wiring, control, and DIP switch setting information about the MX400DP.
+
+
+Answer:
+
+	April 29, 2015: A manufacturing error has been found in a small number of the MX400DP bases: the orange wire and green wire have been reversed. If the LED does not work properly when controlled remotely, try reversing the orange wire and green wire. Shure Quality Assurance is working to correct this error and MX400DP units in stock are being checked.
+	
+	Technical aspects of the MX400DP Desktop Microphone Base
+	
+	Phantom power (12 to 52 Vdc) must be applied to the MX400DP in order to power the microphone element and the circuitry within the MX400DP. The MX400DP requires lt;8 mA of phantom current at 48 Vdc; it requires 5 mA at 12 Vdc. Note the LED brightness will diminish with a phantom voltage lower than 48 Vdc.
+	
+	DIP Switch Access: Remove a single Phillips head screw on the MX400DP bottom panel. The screw is located near the cable entrance. With the screw removed, the hinged bottom panel can be opened
+	
+	DIP Switch Orientation: With the cable entrance at 9 oclock, the DIP switch housing is at3 oclock. DIP switch 1 is on the left.
+	
+	To activate the low-cut (bass) audio filter, set internal DIP switch #4 to the UP position. This action inserts a bass roll-off that is 6dB per octave below 150 Hz.
+	
+	The external switch on the MX400DP, labeled PUSH, is factory set for momentary operation, that is, Push-To-Mute. In the factory setting, the audio signal from the mic element is muted (via the MX400DP internal circuitry) when the switch is pushed and held. For the MX405/MX410, the LED ring illuminates Green when the mic element is active; Red when the mic element is muted. For the MX405R/MX410R/MX415R, the LED ring illuminates RED when the mic element is active; DARK (off) when the mic element is inactive. DIP switch settings for this mode are:
+	DIP switch #1 - DOWN
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	The MX400DP may be configured as Push-To-Talk. In this setting, the audio signal from the mic element is activated (via the mics internal circuitry) when the switch is pushed and held. The MX405/MX410/MX415 LED ring illuminates Green when the mic element is active; Red when the mic element is muted. The MX405R/MX410R/MX415R LED ring illuminates RED when the mic element is active; DARK (off) when the mic element is inactive. DIP switch settings for this mode are:
+	DIP switch #1 - DOWN
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	The MX400DP may be configured as Push-On/Push-Off. In this setting, the audio signal from the mic element alternates between activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic element is activated. The MX405/MX410/MX415 LED ring illuminates Green when the mic element is active; Red when the mic element is muted. The MX405R/MX410R/MX415R LED ring illuminates RED when the mic element is active; DARK (off) when the mic element is inactive. DIP switch settings for this mode are:
+	DIP switch #1 - UP
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	The MX400DP may be configured as Push-On/Push-Off, but with the initial start-up state being audio muted. In this setting, the audio signal from the mic element alternates between activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic element is muted. The MX405/MX410/MX415 LED ring illuminates Green when the mic element is active; Red when the mic element is muted. The MX405R/MX410R/MX415R LED ring illuminates RED when the mic element is active; DARK (off) when the mic element is inactive. DIP switch settings for this mode are:
+	DIP switch #1 - UP
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	The MX400DP may be configured with the mic element always activated, bypassing the internal muting function. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX400DP is connected. The MX400DP white wire is the TTL Switch Out connection and the MX400DP green wire is the TTL ground. When the MX400DP external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the MX400DP external switch is released, the white wire rises to +5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	DIP switch #1 - DOWN
+	DIP switch #2 - NO EFFECT
+	DIP switch #3 - UP
+	
+	The MX400DP may be configured with the mic element always activated, bypassing the internal muting function, but with alternate switch action in place of momentary. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX400DP is connected. The MX400DP white wire is the TTL switch out connection and the green wire is the TTL ground. When the MX400DP external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the external switch is pushed again, the white wire rises to +5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	DIP switch #1 - UP
+	DIP switch #2 - NO EFFECT
+	DIP switch #3 - UP
+	
+	To control the LED ring from an external source, set DIP switch #3 to UP. The MX405/MX410/MX415 LED ring will illuminate Green when the MX400DP orange wire is connected to the green wire; the LED ring will illuminate Red when the orange wire is NOT connected to the green wire. The MX405R/MX410R/MX415R LED ring will illuminate Red when the MX400DP orange wire is connected to thegreen wire; the LED ring will be dark when the orange wire is NOT connected to the green wire. This connect/disconnect function may be handled via an external switch, relay, or a TTL gate on an automatic mixer.
+	
+	Setting DIP Switch #3 to UP bypasses the internal audio mute function of the MX400DP. It also bypasses the internal control of the LED status.
+	
+	For the MX405R/MX410R/MX415R, the red LED ring is dark when the mic element is muted. The red LED ring can flash on/off when the mic element is muted by setting DIP switch #5 to UP.
+	
+	
+	In the MX400DP, the color code for the wires is:
+	Red- Audio + [ XLR pin 2 ]
+	Black- Audio - [ XLR pin 3 ]
+	White- Switch Out TTL Logic (+5 Vdc or 0 Vdc)
+	Orange- LED In (external control via switch, relay, or TTL gate)
+	Green- Logic Ground (used with White wire and with Orange wire)
+	Shield - Common Ground for Mic Element [ XLR pin 1 ]
+	
+	*Control wires (orange, green, white)may be connected in parallel if desired.
+	
+	
+	The MX400DP is supplied with a 6.1 meter (20 foot) attached cable that is terminated with a 3 pin male XLR connector. The white, orange, and green wires are unterminated and cannot be seen unless the XLR connector is removed.
+

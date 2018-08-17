@@ -1,0 +1,16 @@
+Title: Convert SM58 to SM58S (on/off switch)
+Id: 3677
+Legacy Id: 3886
+
+Question:
+Can my SM58 (no switch) be converted to a SM58 WITH an on/off switch?
+
+
+Answer:
+
+	Sorry, it cannot be modified.
+	Recommend that you add the switch via a special XLR female connector on the cable: Switchcraft part T3F
+	
+	a) Wire the T3F switch to short pin 2 to pin 3 when the mic is off.
+	
+	b) Defeat phantom power on the mixer.

@@ -1,0 +1,15 @@
+Title: Correct stylus for V15V-MR cartridge
+Id: 1254
+Legacy Id: 1301
+
+Question:
+I have the V15 Type VMR cartridge and wants to know if I can use the VN5XMR stylus?
+
+
+
+Answer:
+
+	The VN5xMR replacement stylus should only be used with the V15xMR body. The reason it does not work properly with older V15V bodies is that the stylus magnet and the body pole pieces do not align exactly.
+	
+	Use the VN5MR for any V15V body that is not a xMR version.
+

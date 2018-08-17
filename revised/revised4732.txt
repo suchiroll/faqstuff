@@ -1,0 +1,13 @@
+Title: Motiv MV88 with other recording Apps
+Id: 4732
+Legacy Id: 5904
+
+Question:
+Can the MV88 be used with other recording apps?
+
+
+Answer:
+
+	Yes. The MV88 does work with other recording apps.
+	
+	However, it does not work with most "conferencing" apps, such as FaceTime.

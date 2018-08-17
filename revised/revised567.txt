@@ -1,0 +1,13 @@
+Title: Replacement stylus for 1000E - lack of high end
+Id: 567
+Legacy Id: 578
+
+Question:
+I have a Technics turntable, and the stylus that came with it is a SHURE 1000E.  I have used it for less than 100 hours since purchase in 1990.  I have begun to "record" my record collection for transfer to CDs.  Recently, the audio quality has degraded; it sounds like the output is coming through a cotton wad (loss of higher frequency tones?).  Do I need to replace the cartridge?  If so, what do I replace it with?
+
+Answer:
+
+	The replacement stylus is the N104E. It is unlikely the cartridge body is faulty, but the stylus may need replacement due to deterioration of the rubber bushing that supports the stylus. This happens with age and is a function of atmospheric ozone; it attacks the rubber. Call Shure Parts at 800-516-2525 to purchase a new stylus.
+	
+	We also suggest that you clean all contact points in your system. This means removing every connector, including the ones on the cartridge body, and cleaning every electrical connection point. Use a premium contact cleaner, like DeOxIt made by CAIG Labs - www.caig.com
+

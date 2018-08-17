@@ -1,0 +1,15 @@
+Title: A86A line matching transformer terminal numbers
+Id: 513
+Legacy Id: 524
+
+Question:
+HI. I have an old line matching transformer Shure Mod# A86A. Can't find it in your old product listing. I am trying to put a system back into operation in our Church. I need to know what the terminal numbers mean so that I can hook it up correctly. Any other info you can find would be helpful.
+
+Answer:
+
+	The A86A transformer was introduced in 1951. The four pin connector is the low impedance side. Pins 1 and 2 are one of the two primary windings; the impedance is 35 to 50 ohms. Pins 3 and 4 are the other primary winding; the impedance is 150 to 250 ohms.
+	
+	The two pin connector is the high impedance side. Pins 5 and 6 are the high impedance winding (20,000 to 25,000 ohms). Go from the low side to the high side will provide about 20 dB of gain.
+	
+	Use the A86A to connect the balanced, low impedance output of a typical modern microphone into the high impedance input of a typical antique audio mixer/amplifier.
+

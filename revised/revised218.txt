@@ -1,0 +1,19 @@
+Title: Live performance mic for acoustic guitar
+Id: 218
+Legacy Id: 219
+
+Question:
+I'm looking for a mic for live perfomance use mostly, but also for studio recording. I play fingerstyle guitar, many styles and volumes, small clubs to small concert halls. Dynamics (as in loud and soft volumes) are important to me, as is a faithful reproduction of my guitars tones Martins, Gibsons, Tayors, and 12 strings). I'm quite fond of the sound of Neil Young and Ian Andersons' acoustic tones if thats of any help to you. Thanks for any help.
+
+
+Answer:
+
+	We suggest you consider these models:
+	
+	Premimum: KSM141
+	Best: SM81
+	Better: SM94
+	Good:PGA81
+	
+	We also suggest you read a booklet on mics for recording before you make your purchase: Microphone Techniques for Music - Studio Recording
+

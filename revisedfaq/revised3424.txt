@@ -1,0 +1,14 @@
+Title: MX1BP Discontinuation
+Id: 3424
+Legacy Id: 3615
+
+Question:
+When was the MX1BP discontinued?
+
+
+Answer:
+
+	Discontinuation date: May 31, 2008
+	Introduced: 1999
+	Final U.S. retail price: $184.54
+	Description: Preamplifier for the MX series of lavalier microphones; operates from phantom power or a 9Vdc battery; 4 pin TA4M input connector; power-on LED; audio mute switch; 12 foot (4 meter) attached cable with male XLR at equipment end

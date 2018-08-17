@@ -1,0 +1,20 @@
+Title: Digital Amps and Peak Light?
+Id: 403
+Legacy Id: 410
+
+Question:
+I recently bought a Shure Wireless System, single antenna system. The moment I plugged it in, the drop-outs came every 10 seconds. There is nothing in the room that would cause inteference except my amplifier which is digital, is this the problem? Also, the peak transmitter audio light is on way too much even when I turned the gain all the way down, maybe this could be causing the much too frequent drop-outs?
+
+Thanks
+
+
+Answer:
+
+	At 10/23/2000 07:25 AM we wrote -
+	
+	Any device with a digital clock inside might radiate RF interference. Other possible sources are CD players, computers, lighting control boards, etc. The peak light is puzzling. What is your input source to the wireless?
+	
+	Wireless problems are quite difficult to troubleshoot via email. I suggest you call Shure Applications Engineering at 800-516-2525, then press 4. Please have the Shure wireless with you when you call. We will need to ask lots of questions and each answer will lead us in a different direction.
+	
+	You can also download wireless help at: www.shure.com/pdf/booklets/wireless01.PDF
+

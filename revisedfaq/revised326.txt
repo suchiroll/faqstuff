@@ -1,0 +1,12 @@
+Title: Can I control the DFR11EQ via MIDI?
+Id: 326
+Legacy Id: 333
+
+Question:
+Can I control the DFR11EQ via MIDI?
+
+
+Answer:
+
+	No. The only control for the DFR11EQ is via the RS232 port on the rear panel.
+

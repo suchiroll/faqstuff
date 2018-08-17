@@ -1,0 +1,13 @@
+Title: VP83F suggestions when using the gain control
+Id: 4479
+Legacy Id: 5592
+
+Question:
+I have a VP83F and I love the idea and the sound quality. But the recording gain control clicks acoustically when I adjust the input volume. Is there a mod you can do to make the toggle silent?
+
+
+
+Answer:
+
+	Sorry, there is no solution with the current VP83F design. Handling noise from making adjustments on the fly is a fact of life in videography, whether it be the VP83F or a competing microphone with a 3-position gain switch.This handling noise likewise applies to camera or lens settings as well. Newer cameras have attempted to solve this by offering touch-screen interfaces on the back panel monitor screen. This definitely helps, but the microphone is still subject to IS (Image Stabilization) noise, and lens motor/autofocus noise that may result from touch panel adjustments. We suggest to set the audio level conservatively, because one can always boost levels in post-production, with little noise due to the VP83F preamp design.Even if the VP83F reaches clipping, the analog gain is not terribly distorted.Note: Clipping is reached at 2dB below actual Full Scale.
+

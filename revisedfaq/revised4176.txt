@@ -1,0 +1,16 @@
+Title: MX150 tie clip cable routing
+Id: 4176
+Legacy Id: 5123
+
+Question:
+What is the best way to route the cable through the tie clip on the MX150 microphone?
+
+
+Answer:
+
+	Proper routing is important in order to keep the mic secure and to prevent cable noise from occuring. The following picture shows the recommended cable routing.
+
+	
+
+	
+

@@ -1,0 +1,12 @@
+Title: Mixer output through wireless system to camera
+Id: 2035
+Legacy Id: 2100
+
+Question:
+We have a wireless LX system that includes a lapel and a room mic going to a mixer. The output is wired mini-plug out that goes to the camera. Do you have a transmitter/receiver combo that could take that output and go wireless to the camera? It would be nice to move away from the receiver/mixer setup.
+
+
+Answer:
+
+	If the mixer has a mic level output, it can feed a Shure bodypack transmitter that will transmit to a Shure receiver positioned near thecamera.
+

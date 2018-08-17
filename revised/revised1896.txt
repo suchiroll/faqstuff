@@ -1,0 +1,14 @@
+Title: Battery Phantom Power for the BETA 87A
+Id: 1896
+Legacy Id: 1957
+
+Question:
+I have just recently purchased a Beta 87A and it's a great microphone! I have a problem though, our band is using a Soundcraft Spirit Folio SX console, and yes it does have a +48V Phantom Power button. The problem is, that when we use the phantom power, the other mics in the band are (Shure SM58's) or should I say , where creating a lot of hum, I suspected that this was caused by the fact that the jacks and wire where mono or unbalanced, and in fact , that was the case, so we where very happy to see that the hum disappeared, but then the final problem came up. Our drummer is using a DT-8 V-Drum from Roland. It's a very powerful electronic drum set, and the output is ether mono (left channel) or right and left output channel which are both mono output channels, therefore unbalanced! and there we go again with the hum problem!!
+
+Is there some sort of a "convenient" external power supply for my Shure BETA 87A, I would be disappointed to have to bring this great microphone back, I really like it!
+
+
+Answer:
+
+	There are battery powered phantom supplies that can be used to power just the Beta 87A. Try the MicPower from Whirlwind.
+

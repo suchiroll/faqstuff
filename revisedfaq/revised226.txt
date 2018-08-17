@@ -1,0 +1,13 @@
+Title: Why is the VP88 called a "Stereo microphone"?
+Id: 226
+Legacy Id: 231
+
+Question:
+Why is the VP88 called a "Stereo microphone"?
+
+
+Answer:
+
+	The output of VP88 microphone is two separate, distinct signals: a left channel and a right channel. This signal is provided via a five pin XLR connector located at the end of the VP88.
+	
+	You may use one VP88 microphone and record directly to a stereo tape machine. The VP88 will deliver a left channel signal to the left input of the recorder, and a right channel signal to the right input of the recorder.

@@ -1,0 +1,14 @@
+Title: M44E - replacement styli for LPs and 78 RPMs
+Id: 2557
+Legacy Id: 2655
+
+Question:
+I have a Shure M44E cartridge. I need a very good needle for playing Lp's and a needle for playing 78's.
+
+
+Answer:
+
+	1. LP stylus - N44G
+	
+	2. 78 rpm stylus - The N78S will fit IF you carefully file away 1/16 from the top of the plastic stylus grip. It will not fit without this modification AND it is the only 78 rpm stylus offered.
+

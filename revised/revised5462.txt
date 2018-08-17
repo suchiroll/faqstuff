@@ -1,0 +1,10 @@
+Title: Updating firmware on DDS 5900 and DCS 6000
+Id: 5462
+Legacy Id: 
+
+Question:
+How do I update the firmware on the DIS DDS5900 or DCS6000?
+
+Answer:
+The firmware for these products can be updated using the Firmware Upgrade Utility.  When you download the latest version of firmware from this link, the Firmware Updating Utility (FUU) is included in the ZIP file.
+To lookup which firmware release you are on, find the firmware version of your product and use the lookup tables. 

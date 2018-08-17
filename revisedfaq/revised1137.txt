@@ -1,0 +1,23 @@
+Title: UHF wireless systems in Central and South America and Europe
+Id: 1137
+Legacy Id: 1175
+
+Question:
+I need some information about using UHF wireless mike systems in Central and South America, specifically, for now, Costa Rica, Argentina, and Chile.
+
+
+We are beginning to present workshops internationally, and are considering travelling with mike systems if this is feasible. Do you have frequency compatibility information for any of these countries?
+
+
+We are also doing workshops in Europe, mostly Germany at this point, so information about Europe would also be greatly appreciated.
+
+
+Currently, we are using 12 UC systems at our centers in San Diego and San Francisco, and have been very pleased with their performance.
+
+
+Answer:
+
+	In general, the countries in Central and South America have approved the same wireless frequency bands as the U.S. and Canada. However, it is still wise to check with the FCC equivalent in each country to which you travel as wireless frequency laws can change and Shure may not be informed.
+	
+	Europe is a different story. U.S. wireless frequencies are illegal in most of Europe. Contact Shure Europe for wireless guidance in Europe: support@shure.de
+

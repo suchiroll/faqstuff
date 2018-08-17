@@ -1,0 +1,16 @@
+Title: SM35-XLR preamp and connectors
+Id: 4512
+Legacy Id: 5628
+
+Question:
+What preamp is provided with the SM35XLR? I want to use my SM35-TQG as a wired mic.
+
+
+Answer:
+
+	The preamp is the RPM626; it requires phantom power to operate.
+	
+	The RPM626 input connector is a TA4M - the same connector used on most Shure bodypack transmitters. Thus, the cable from the mic terminates in a TA4F connector.
+	
+	The output connector of the RPM626 is a standard three-pin male XLR.
+

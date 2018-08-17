@@ -1,0 +1,18 @@
+Title: Inline switch for SM94 microphone?
+Id: 897
+Legacy Id: 925
+
+Question:
+We have a SM94 mic at our church and it has no on/off switch. This causes us many problems, and is there any in-line switch you sell? Do you have any suggestions how we can solve this problem?
+
+
+Answer:
+
+	Professional microphones rarely have on/off switches as the microphones are controlled by the sound engineer at the mixing console. The engineer does not want a performer accidentally switching off a mic during a performance. Therefore, no on/off switches on professional mics.
+	
+	The ShurePG81 will provide nearly the same performance of the SM94 and has an on/off switch.
+	
+	If you intend to keep the SM94 and it is powered by an internal battery, Switchcraft offers a female XLR connector with an on/off switch.
+	
+	If the SM94 is powered via phantom power, installing an on/off switch in the cable run is not recommended as there will be a loud pop each time the mic is turned on or off.
+

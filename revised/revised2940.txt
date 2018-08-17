@@ -1,0 +1,14 @@
+Title: Home repair of cable jacket for earphones
+Id: 2940
+Legacy Id: 3067
+
+Question:
+I have a pair of earphones, which I love.  Apparently, so does my stupid cat, especially the bright orange foamies.  I now have some nice nicks in the cable jacket, even though the headphones still work just fine.  I would seriously doubt that it makes any financial sense to get the cable properly repaired.  Is there any way I can patch these up?  Maybe something like clear nail polish, or superglue, or maybe a dab of clear silicon caulk?  I think any of these might work ok, but I have no idea if any of them are a solvent for the cable insulation material.  Even better would be a Shure-sanctioned solution.  If you don't have any suggestions, then a detailed description of the insulation material would be great, and I will research the situation myself.  Thanks.
+
+Answer:
+
+	Two suggestions:
+	
+	1) "Liquid Electrical Tape" - I purchased a can at a local hardware store. It is brushed on and quickly "hardens" into a flexible covering.
+	
+	2) Heat shrink tubing might also work if you can find some that is large enough for the 3.5mm plug to slip through, yet shrinks down small enough to cover the cable.

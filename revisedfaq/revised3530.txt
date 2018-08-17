@@ -1,0 +1,24 @@
+Title: XLR to Phoenix Euro Block Connector Wiring and Jumper Cable
+Id: 3530
+Legacy Id: 3734
+
+Question:
+Some Shure products use a Phoenix Euro block connector for audio inputs and outputs. I'd like a supply of short jumper cables for testing purposes: one end being an XLR and the other being a female Euro block connector. Is there a source for such cables?
+
+
+Answer:
+
+	Wiring:
+	XLR pin 1 to Euro Block Ground and Cable Shield
+	XLR pin 2 to Euro Block Positive
+	XLR pin 3 to Euro Block Negative
+
+	As of February 2009, such cables were available in theUnited Statesfrom:
+	www.hosatech.com
+	Phone: 714-522-8878
+	Email: info@hosatech.com
+
+	Part PHX-206F Bulk is 6 inches in length, has an XLR female connector on one end, and a PHX3F female Euro block connector on the other end.
+
+	Part PHX-206M Bulk is 6 inches in length, has an XLR male connector on one end, and a PHX3F female Euro block connector on the other end.
+

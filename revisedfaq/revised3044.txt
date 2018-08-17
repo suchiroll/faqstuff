@@ -1,0 +1,12 @@
+Title: CM30 microphone
+Id: 3044
+Legacy Id: 3175
+
+Question:
+I have 6 “CM30” mics I received from a old installation. Is this the same as STM30?
+
+
+Answer:
+
+	Yes, the CM30 was a variation of the Shure STM30. The CM30 included an in-line preamp so that it could operate from standard phantom power. The CM30 was introduced in 1994 and discontinued in 1996. Very few were sold.
+

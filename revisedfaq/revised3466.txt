@@ -1,0 +1,167 @@
+Title: Which connector do I use for the MX405, MX410, MX415, MX395, MX396?
+Id: 3466
+Legacy Id: 3662
+
+Question:
+The MX405, MX410, MX415, MX396, and the LED version of the MX395 use more conductors than a standard three pin XLR. Which connector should I use for these mics?
+
+
+Answer:
+
+	Multiple suggestions are provided for connecting attached microphone cords to extension wiring and eventual connection with a mixer/processor.
+	
+	1. Pluggable Terminal Blocks
+	Pluggable terminal strips, as they are sometimes called, are common in the audio industry. They provide excellent performance, rapid installation, and are ideal for a permanent install. These connectors are often referred to as "Eurostyle" or "Phoenix" connectors, and frequently are used on audio equipment for interconnection. Matching male and female connectors provide the interconnection. Note that the male connectors are apparently available only from Phoenix Contact, while the female connectors are available from multiple vendors. The Pluggable Terminal Block connector sets are actually available with up to 12 contacts - the tables below identify connector part numbers with up to 6 contacts.
+	
+	Male connectors:
+	
+		
+			
+				Number of Contacts
+			
+				Phoenix Contact Part #
+		
+		
+			
+				3
+			
+				IC2.5/3-ST-5.08
+		
+		
+			
+				4
+			
+				IC2.5/4-ST-5.08
+		
+		
+			
+				5
+			
+				IC2.5/5-ST-5.08
+		
+		
+			
+				6
+			
+				IC2.5/6-ST-5.08
+		
+	
+
+	Female connectors:
+	
+		
+			
+				Number of Contacts
+			
+				Phoenix Contact Part #
+			
+				Kobiconn Part #
+			
+				Molex Part #
+			
+				Tyco Electronics Part #
+		
+		
+			
+				3
+			
+				MSTB2.5/3-ST-5.08
+			
+				P032ESDVP
+			
+				39860-0102
+			
+				796634-3
+		
+		
+			
+				4
+			
+				MSTB2.5/4-ST-5.08
+			
+				P042ESDVP
+			
+				39860-0103
+			
+				796634-4
+		
+		
+			
+				5
+			
+				MSTB2.5/5-ST-5.08
+			
+				P052ESDVP
+			
+				39860-0104
+			
+				796634-5
+		
+		
+			
+				6
+			
+				MSTB2.5/6-ST-5.08
+			
+				P062ESDVP
+			
+				39860-0105
+			
+				796634-6
+		
+	
+
+	2. Terminal Strips
+	Terminal strips are readily available for connecting wiring at a junction point.  Terminal strips are made by several companies including Cinch and Molex. Contact your favorite electronics supplier for availability and pricing.
+	
+	3. XLR Connectors
+	Industry standard XLR style connectors are available in 3, 4, 5, and 6 pin configurations.  They feature extremely robust performance, but do require additional time for installation.
+	
+		
+			
+				Number of Contacts
+			
+				Neutrik Part # (male, female)
+			
+				Switchcraft Part # (male, female)
+		
+		
+			
+				3
+			
+				NC3MX, NC3FX
+			
+				A3M, A3F
+		
+		
+			
+				4
+			
+				NC4MX, NC4FX
+			
+				A4M, A4F
+		
+		
+			
+				5
+			
+				NC5MX, NC5FX
+			
+				A5M, A5F
+		
+		
+			
+				6
+			
+				NC6MX, NC6FX
+			
+				A6M, A6F
+		
+	
+
+	4. DB-9 Connectors
+	DB-9 computer connectors may be an option where it is necessary to occasionally disconnect an MX396 microphone for storage.  When properly installed, the DB-9 provides a reliable connection method.  The number of pins needed can be summarized as follows:
+	     1 - Shield ground (stranded shields)
+	     6 - Three microphone audio pairs (white & green, orange and blue, yellow and gray)
+	     2 - Logic in and out leads (red, black)
+	The DB-9 connector provides exactly the number of conductors needed to support the MX396 microphone.

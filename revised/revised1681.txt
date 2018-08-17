@@ -1,0 +1,14 @@
+Title: SM48 - Grille removal
+Id: 1681
+Legacy Id: 1738
+
+Question:
+I would like to clean SM48 microphone but i cannot remove the grille. I've read from your site that SM58's grille can be removed with a few rocks, but does this means also for SM48, the grille is so filthy and "reshaped".
+
+
+Answer:
+
+	The grill should unscrew from the top of the handle. It could be corroded and/or stuck due to being dropped. You may need two strap wrenches to undo the grill: one to hold the handle; one to grip the grill. Once it is off, you can wash it and reshape it just like the SM58 grill.
+	
+	The replacement grill is the RK248G.
+

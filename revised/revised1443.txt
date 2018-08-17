@@ -1,0 +1,18 @@
+Title: Using N35X Stylus with M44GX cartridges
+Id: 1443
+Legacy Id: 1496
+
+Question:
+I own a pair of M-44GX cartridges which I purchased a little over a year ago. I have replaced the styli in the past with N-44GX styli. Recently, I was told by a sales clerk that I could also use the N-35X styli interchangably, since the cartridges are the same shape. My question is, 1.)Is this true? and, if so, 2.)How will the output characteristics of each differ? Basically, I love the clarity on the high end I get with the M-44GX, but want something with a little more low end response. I use equipment for mobile DJ applications.
+
+
+Answer:
+
+	The M44-7X and M44GX are/were actually members of the Shure 35 Series family. When the real M44-7 and M44G cartridges in 1998, the x versions were discontinued.
+	
+	We conducted research in 1999, and felt that the M44-7X was a valid cartridge. We made some minor tweaks, then re-introduced it in the proper family, as the M35X.
+	
+	The M44GX featured a lighter tracking force of .75-1.5g. The N35X features a 1.5-3.0 gram tracking force.
+	
+	If you have a subwoofer in your system, the M35X has a deep drop bass that should thump nicely. The mids are flat, and the hi-end peaks nicely between 10kHz and 19kHz. Its also great for mix tapes, where you normally lose high frequencies due to tape degradation.
+

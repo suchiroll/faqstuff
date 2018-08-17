@@ -1,0 +1,13 @@
+Title: At what distance is sensitivity measured?
+Id: 211
+Legacy Id: 212
+
+Question:
+I understand SPL and the conversion to other units, but I haven't been able to find the distance used when measuring microphone sensitivity. Your example (Tech Bulletins; Mic Sensitivity) of -75 dBV/microbar for example, says "microbar" indicates the mic was tested with 74 dB SPL, but at what distance? If the answer is 12 inches, can I assume that any mic rated in dBV/microbars was measured at 12 inches? I have to calculate preamplifier gain, and would appreciate your help.
+
+Answer:
+
+	Our standard distance is 24, unless otherwise noted in the data sheet. The 74 dB SPL is measured at the mic diaphragm, not the source loudspeaker.
+	
+	No, you cannot assume that any mic rated in dBV/microbar was measured at 24, but you can assume that one microbar was measured at the mic diaphragm.
+

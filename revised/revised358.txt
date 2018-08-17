@@ -1,0 +1,14 @@
+Title: How to access battery of wireless SM58?
+Id: 358
+Legacy Id: 365
+
+Question:
+I want to know how to access the battery of a wireless SM58 so that I can change it without damaging the microphone.
+
+
+Answer:
+
+	It depends on which wireless system you have. If you look in the User Guide that came with you wireless system, it will diagram how to replace the battery. If you dont have the User Guide anymore, then you can download a new version from the Shure web site at:
+	
+	http://www.shure.com/datasheets/default.htm
+

@@ -1,0 +1,11 @@
+Title: Temperature of stylus
+Id: 385
+Legacy Id: 392
+
+Question:
+I was wondering what temperature the tip of the stylus reaches as it is in service (I'm using a Shure Ultra 500 cartridge with an VN5MR stylus as the original Ultra 500s is no longer available).
+
+Answer:
+
+	We could find no temperature measurements in our engineering records. However, we did find this information: At 1 gram of tracking weight, the average pressure on the groove wall in contact with the stylus is estimated at 30,000 to 60,000 pounds per square inch.
+

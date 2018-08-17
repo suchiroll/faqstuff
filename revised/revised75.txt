@@ -1,0 +1,28 @@
+Title: Can a dynamic microphone handle really loud sounds? (Maximum SPL)
+Id: 75
+Legacy Id: 75
+
+Question:
+What is the maximum sound pressure level that a dynamic microphone can handle without distortion?
+
+
+Answer:
+
+	Realistic Maximum Sound Pressure Levels for Dynamic Microphones
+
+	Microphone users often ask What is the maximum sound pressure level that a dynamic microphone can handle without distortion? Using the Shure SM58 as an example of a typical dynamic microphone, Shure Engineering performed experiments to answer this question. Like most technical matters, the answer is not simple.
+	
+	As a point of reference, 140 dB SPL is the accepted threshold of pain for the human ear. The maximum sound pressure level (max SPL) from a human voice as measured by Shure is 135 dB SPL at 1 inch from the mouth. A kick drum played very loudly may exceed 140 dB SPL, but has never been measured by Shure above 150 dB SPL. The loudest orchestral instrument, a trumpet, can theoretically produce a MAX SPL of 155 dB SPL at 1 inch, but only in its upper register. Note that the distribution of energy (sound pressure) in speech, music, and noise is dependent on the frequency. For example, the human voice does not produce much energy below 100 Hz and its frequency of MAX SPL would be higher than 100 Hz. Exactly how much higher depends on the individual voice.
+	
+	Unlike a condenser microphone which has internal electronics that may overload, a dynamic microphone distorts when its diaphragm hits a physical barrier, like the magnetic pole piece, and can move no further. The excursion of the diaphragm is frequency dependent and the excursion is greatest at the resonant frequency of the diaphragm. Therefore, the MAX SPL of a dynamic microphone like the SM58 is frequency dependent. This means that low frequencies will produce distortion at a lower SPL than higher frequencies.
+	
+	For the SM58, the frequency range to first exhibit distortion is centered around 100 Hz, close to the resonant frequency of the microphones diaphragm. At 100 Hz, the measured MAX SPL is 150 dB SPL and the electrical output of the microphone is 0 dB V or 1.0 volts. Note this is a line level signal, not a mic level signal.
+	
+	In the 1 kHz range, the SM58 measured MAX SPL is about 160 dB SPL due to the change in microphone sensitivity at the higher frequencies. The electrical output of the microphone at 160 dB SPL is +10 dBV or 3.2 volts.
+	
+	In the 10 kHz range, 180 dB SPL is the MAX SPL of the SM58. However, this is a calculated measurement as Shure Engineering had no means to create such enormous and dangerous SPL. For comparison, NASA reports that a space shuttle launch measures 180 dB SPL and higher at 10 meters.
+	
+	In the 20 kHz range, the MAX SPL is calculated to be around 190, due to the response falloff of the SM58. But now the point of absurdity has been reached because at 194 dB SPL the sound pressure varies from twice normal atmospheric pressure (at the wave peak) to a total vacuum (at the wave trough). Plus the sound source must be moving at the speed of sound just to generate a wave of this intensity.
+	
+	In summary, a well-designed dynamic microphone of professional quality will never reach its distortion point in normal conditions. If one does encounter distortion when using a professional dynamic microphone for an extremely loud source, it is most likely that the electrical output of the microphone is clipping the input of the microphone preamplifier. [Remember that at 150 dB SPL, the SM58 will provide a line level output!] To solve this problem, an in-line attenuator (pad) must be placed before the preamplifier input, or the microphone must be moved farther from the sound source. In general, the sound pressure level will decrease 6 dB for each doubling of the distance.
+

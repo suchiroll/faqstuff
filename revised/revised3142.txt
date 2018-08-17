@@ -1,0 +1,16 @@
+Title: 78 rpm records - reducing surface noise
+Id: 3142
+Legacy Id: 3277
+
+Question:
+Has anyone uncovered a unique way to reduce surface noise on a 78 rpm record? I want to transfer my 78rpm collection to Compact Disc.
+
+
+Answer:
+
+	This idea was sent by a Shure customer.
+	
+	Using a Shure M78S cartridge, wired for stereo operation, I send the stereo signal (from the monaural 78 rpm record) through a Pro Logic surround-sound decoder. The decoder distributes the noise mostly to the front left and front right channels, and sends a surprisingly clean mono music signal to the center channel. I use the center channel signal as the source of my recording. I dont know if anybody else is using this method, but its an inexpensive analog scheme to clean up old 45 rpms and early mono LPs.
+	
+	Note: Shure has not tested this unique method of noise reduction.
+

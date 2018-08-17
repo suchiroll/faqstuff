@@ -1,0 +1,11 @@
+Title: Stylus replacement for M75ECS cartridge
+Id: 606
+Legacy Id: 618
+
+Question:
+Hello, could you direct me to the proper replacement styli for an old M75ECS cartridge. Your cross reference table did not show this exact cartridge and I don't want to guess which one it takes.
+
+Answer:
+
+	The N75EC stylus (discontinued) track at 2 to 4 grams. Sorry, Shure no longer has an inventory of this stylus.
+

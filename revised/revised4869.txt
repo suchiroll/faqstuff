@@ -1,0 +1,34 @@
+Title: Maximum SPL Listening Levels and Time Limits
+Id: 4869
+Legacy Id: 6057
+
+Question:
+Please provide the OHSA recommended limits on Sound Pressure Level and Maximum Time Limits.
+
+
+Answer:
+
+	March 2016
+	
+	Recommended safe listening levels and maximum time limits according to the U.S. Federal Goverment - Occupational Health and Safety Administration (OHSA)
+	
+	90 dB SPL - 8 hours
+	92 dB SPL - 6 hours
+	95 dB SPL - 4 hours
+	97 dB SPL -3 hours
+	
+	100dB SPL -2 hours
+	102dB SPL -1.5 hours
+	105dB SPL -1 hour
+	
+	110dB SPL -30 minutes
+	115 dB SPL -15 minutes
+	
+	116dB SPL and above-0 minutes
+	
+	After years of data gathering based on the OSHA standard, 20% of people still suffered some hearing loss. There is a movement to adopt the NIOSH (National Institute of Occupational Safety and Health) standard, which puts the maximum exposure level for an 8 hour day at 85 dB SPL (A-weighted), and cuts the exposure time in half for every 3 dB increase; 88 dB = 4 hours, 91 dB = 2 hours, etc. Following the NIOSH standard reduced the percentage of people suffering hearing loss to 3% or 4%. Individual physiology also plays a part.
+	
+	Always a regular hearing exam. Ifone followsthe OSHA standard some hearing loss is noticed, then consider the NIOSH standard.
+	
+	Federal Government Noise Topics
+

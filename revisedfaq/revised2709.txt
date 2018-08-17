@@ -1,0 +1,18 @@
+Title: Miking Audience Question and Answer Session
+Id: 2709
+Legacy Id: 2813
+
+Question:
+How can we reinforce the voice of someone in the audience for a question and answer session? Can we use a shotgun microphone to pick up the audience members question?
+
+
+Answer:
+
+	Sorry, a shotgun microphone will not work for this application. The solution that will work is to have a handheld wireless microphone that will get passed to the person who is asking the question.
+	
+	Consider a late night talk show. Such a show essentially has an unlimited budget and can buy the most expensive microphones in the world. However, they are still governed by the laws of physics and realize that in order to amplify a talker in the audience, the microphone MUST be close. Notice that the host takes a wireless microphone into the audience so that it is within 1 foot of the talkers mouth.
+	
+	More information:
+	Shotgun Microphone for a PA System?
+	Miking a talker in a noisy room - AUDIO DEMO
+

@@ -1,0 +1,27 @@
+Title: Connecting a Microflex gooseneck mic to the top of a mic stand?
+Id: 2184
+Legacy Id: 2257
+
+Question:
+How can I connect a Microflex gooseneck microphone to the top of a mic floor stand?
+
+
+Answer:
+
+	Here is an attractive way to mount a Microflex gooseneck microphone to a microphone floor stand. The parts required are:
+	
+	1 - Shure Microflex gooseneck microphone with the preamp attached (not the SE version)
+	1 - Shure MS10C Floor Stand
+	1 - Shure C25F microphone cable
+	1 - Switchcraft P3F (www.switchcraft.com) The P3F is a female XLR connector with a 5/8-27 internal thread.
+	1 - Set of soldering tools
+	
+	a) Remove the female XLR connector from the C25F. This connector will not be used.
+	b) Working at the base of the MS10C, insert the bare end of the C25F into the vertical tube of the MS10C. Make certain the cable emerges at the top of the vertical tube.
+	c) Strip the bare end of the C25F.
+	d) Solder the C25F to the back end of the P3F. Cable shield to pin 1. Pins 2 and 3 to match the male XLR connector on the other end of the C25F.
+	e) Screw the P3F to the top of the MS10C. Use Lok-Tite on the threads.
+	f) Plug Shure Microflex microphone into the P3F.
+	g) Plug male XLR of the C25F into sound system.
+	h) Make certain phantom power is activated.Without phantom, the microphone will not operate.
+

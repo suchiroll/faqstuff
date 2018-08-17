@@ -1,0 +1,14 @@
+Title: SM81 and R104A omni capsule
+Id: 1087
+Legacy Id: 1122
+
+Question:
+I have 4 SM81's purchased in the early '80s which I am very happy with. I contacted the parts dept. and was disappointed to find that the R104A omni capsule is no longer availible. It is my understanding that what makes the SM81 behave as a cardioid is the slots or vents along the sides of the capsule which allow sound to reach the back side of the diaphragm out of phase. I have seen pictures of the SM80 and the capsule looks identical except the absence of the slots. What my question is, could I cover up the slots with tape or a metal sleeve and turn it into an omni? Would it sound good?
+
+
+Answer:
+
+	Covering the SM81 slots will certainly make the SM81 capsule less directional, but what will be created is a strange sounding hybrid capsule with a pattern that is not cardioid, yet not quite omnidirectional.
+	
+	The R104A capsule was discontinued due to very slow sales, less than 20 per year.
+

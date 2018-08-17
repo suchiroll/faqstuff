@@ -1,0 +1,12 @@
+Title: Single vocal mic for bluegrass band
+Id: 2604
+Legacy Id: 2705
+
+Question:
+I am a member of an acoustic/bluegrass group. Recently we have adopted the "one mic" stage pattern used so successfully by Doyle Lawson  Del McCoury. Recently, Bluegrass Unlimited gave a description of the equipment used to create this unique stage presence. I lost that issue and thought someone in your organization could help. Seems like there were also some considerations given to the feedback problem. Any suggestions in this area would be appreciated.
+
+
+Answer:
+
+	The typical Shure mic used for this application is the KSM44 or KSM32. The current Down From The Mountain tour uses these models. Feedback is typically not an issue because floor stage monitors have been replaced by in-ear monitors.
+

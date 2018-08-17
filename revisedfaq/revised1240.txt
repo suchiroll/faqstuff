@@ -1,0 +1,24 @@
+Title: Mic/Pre-Amp for Video Editing
+Id: 1240
+Legacy Id: 1286
+
+Question:
+I have a Sony VAIO PCV-R539DS desktop, into which I bring Sony Digital8 footage to be edited in Premiere. I'd like to add some voice-over narration, which I can record in Sound Forge XP. Right now, I only have one of those cheap $10 omnidirectional "computer microphones" that one can buy at office supply stores.
+
+
+Some time ago, when I asked for recommendations regarding a decent microphone for recording voice-overs (which will be the sole purpose of this piece of equipment) someone at the computer store told me a "$50 microphone from Radio Shack" should be sufficient.
+
+
+But after I pointed to a shelf displaying several Radio Shack unidirectional microphones, the sales person told me that he had tried using each of those mics for voice-over on his own computer, but he just couldn't get any of them to record loud enough for his purposes.
+
+
+I spoke with a rather knowledgeable person briefly at work today, and he said that the problem is that I'd need some sort of pre-amp between such a mic and my computer.
+
+
+Could you suggest a simple and wide-available mic/pre-amp combination for such voice-over recording? I don't want to spend too much money on such equipment at this early stage in my video editing, but I need a decent mic for practicing diction and the rewriting of my narration, and I believe I would just be wasting my time continuing to use the cheap mic I have now.
+
+
+Answer:
+
+	Yes, you require a preamp. See the following link:
+

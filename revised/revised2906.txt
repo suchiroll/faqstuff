@@ -1,0 +1,12 @@
+Title: Submixing two U4D receivers into one amplifier
+Id: 2906
+Legacy Id: 3030
+
+Question:
+I have a U4S system at the moment but I'd like to buy a U4D because I have few bass guitars (with different tunings)and I'd like to have a separate system (with separate belt-pack)for each of them. My problem is I have ONE amplifier and a special routing (see picture  diagram)with ONE input. How could I have 2 U4D in my rack and be able to switch from one system to the other (without unpluging anything!) since I would have 4 outputs (from the receivers) and only one input (in my amplifier)?
+
+
+Answer:
+
+	Here is a simple solution: Purchase the Rolls MX41 passive 4 channel mixer. This device has four inputs and passively mixes all into one output signal. This mixer can be hidden in the rear of your rack.
+

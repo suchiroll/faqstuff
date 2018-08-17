@@ -1,0 +1,22 @@
+Title: Rechargeable batteries for wireless systems
+Id: 1539
+Legacy Id: 1593
+
+Question:
+I've been wondering, I know that you don't recommend NiCd batteries for your wireless systems, but how about NiMH batteries? I've been using them in my digital camera, and they last much longer than regular alkaline batteries. We have an assortment of wireless systems at our church (8 LX VHF, 5 older SC VHF, and 2 of the high dollar dual UHF systems - I forget the model #'s, but they use AA batteries and we can monitor battery level at the receiver). We would like to switch to rechargables because we go through hundreds of batteries each year, but would like to know what you recommend.
+
+
+Answer:
+
+	At 08/14/2001 10:57 AM we wrote - Find out the milliamp/hour rating of the NiMH batteries you intend to use. Lets say the rating is 200 milliamp/hours.
+	
+	Next divide 200 by the current draw of the transmitter: use 60 for the LX and use 80 for the SC. The answer will be the absolute maximum number of operating hours you can expect from the NiMH batteries.
+	
+	A 9-volt alkaline battery typically has a milliamp/hour rating of 500.
+	
+	9 volt NiMH batteries will have about the same performance as 9 volt NiCd batteries. The AA NiMH batteries tend to perform better.
+	
+	See the following link for more information:
+	
+	Batteries and Wireless Microphones
+

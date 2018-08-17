@@ -1,0 +1,15 @@
+Title: DFR22 High Frequency Noise Floor
+Id: 3481
+Legacy Id: 3678
+
+Question:
+The high frequency noise floor of the DFR22 seems to be higher when some or all of the front panel Digital Feedback Reducer (DFR) lights are lit. Any suggestions?
+
+
+Answer:
+
+	The high frequency noise floor of the DFR22 is affected by the number of DFR indicator lights that are illuminated. To minimize the high frequency noise, the DFR LED lamps can be extinguished after the system set-up is complete.
+	
+	Using the DFR22 software on a PC connected to the operational DFR22, double-click on the assigned DFR processor blocks (DFR5, DFR10, DFR16, ST DFR5, ST DFR10, or ST DFR16) and select "UNASSIGNED" in the FRONT PANEL option drop down menu. The FRONT PANEL drop down menu is located in the upper right corner of the processor set-up window. This will extinguish the lamps during normal operation.
+	
+	When recalibrating the DFR22, reverse the above procedure to illuminate the DFR lamps.

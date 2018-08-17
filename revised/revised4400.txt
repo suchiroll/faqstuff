@@ -1,0 +1,22 @@
+Title: MXWNCS8 Configuration Problem
+Id: 4400
+Legacy Id: 5496
+
+Question:
+I have an MXW system for a conference room and am having issues with one of the MXWNCS8. I have the MXWNCS8 connected to my network. It has an IP from my DHCP server, but I cannot configure it, pull a webpage, or see it in the Web Device Discovery. I tried a firmware update, factory reboot, but can’t get the unit to respond. It seems like the unit is obtaining an IP address but the discovery software is not finding it.
+
+There are two MXWNCS8 in the install, and the other one, on the same firmware version, is showing up no problem. Do you have any idea of what could cause something like this?
+
+
+Answer:
+
+	Its not clear what the MXW system configuration is, but here are some suggestions to consider:
+
+	
+		Try doing a factory reset on the MXWNCS8 charging station. Then re-associate it via the appropriate Access Point Transceiver GUI.
+	
+		Verify that the Ethernet cable connecting the MXWNCS8 to the Audio Network Interface (or ??) is good and supporting communications. It might be worthwhile to try substituting a different Ethernet cable for troubleshooting purposes.
+	
+		The MXWNCS units can only be configured via the APT GUI interface. They willshow up in theShure Web Device Discovery (v1.0.15 and higher) application. The MXWNCS needs to be on firmware v2.0.5 or higher to show up in the Shure Web Device Discovery application. However,it is not possibleto directly communicate with them via a web-GUI or other direct mechanism.
+
+

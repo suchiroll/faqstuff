@@ -1,0 +1,19 @@
+Title: Green bullet wireless.
+Id: 367
+Legacy Id: 374
+
+Question:
+I have a "Green Bullet" type mic [Astatic jt30vc] and I would like to use it wireless. I would like to know what products you suggest me to buy from Shure. What's the least expensive equipment I need and if you have export restrictions to send these to Brazil?
+
+Thanks in advance.
+
+Answer:
+
+	It is possible to run a standard dynamic or controlled magnetic microphone into any Shure bodyback.
+	
+	You will need to purchase any Shure bodypack system and custom make a wire for the microphone.
+	
+	Wireless systems purchased in the U.S. may be illegal in Brazil. We suggest purchasing any wireless system from within your own country to make certain it is legal. To purchase Shure wireless systems in Brazil, contact our Brazilian Distribution Center. You can find their contact information at:
+	
+	http://www.shure.com.br/padrao/padrao.php?link=home
+

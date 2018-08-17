@@ -1,0 +1,12 @@
+Title: MX405 MX410 MX415 connector
+Id: 4883
+Legacy Id: 6141
+
+Question:
+Please provide a photo of the MX405, MX410, MX415 connector that attaches to the microphone preamp.
+
+
+Answer:
+
+	See below.
+

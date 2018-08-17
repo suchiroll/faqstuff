@@ -1,0 +1,14 @@
+Title: AXT620 number of ports
+Id: 3944
+Legacy Id: 4193
+
+Question:
+How many networked devices can be directly connected to the AXT620 ethernet switch?
+
+
+Answer:
+
+	The AXT630 has 8 ports on the rear and one port on the front, for a total of nine devices.
+	
+	For more than nine devices, multiple AXT630 ethernet switches can be connected together.
+

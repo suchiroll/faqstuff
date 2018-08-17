@@ -1,0 +1,18 @@
+Title: MX405 / 410 / 415 LED Options
+Id: 3892
+Legacy Id: 4138
+
+Question:
+What LED options are available on these models?
+
+
+Answer:
+
+	MX405 or MX410 or MX415
+	Bi-color LED ring located at the base of the gooseneck, where it connects to the preamp.
+	ON indication is Green. OFF indication is Red.
+	
+	MX405R or MX410R or MX415R
+	Red LED ring located near the mic element.
+	ON indication is Red. OFF indication is Flashing Red or Dark (user selectable).
+

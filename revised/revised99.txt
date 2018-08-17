@@ -1,0 +1,25 @@
+Title: What battery / cell fits the A15TG?
+Id: 99
+Legacy Id: 99
+
+Question:
+What battery fits the A15TG?
+
+Answer:
+
+	Use any 1.5 volt button cell that will fit the battery space. Radio Shack, Battery Plus, andwatch repair storescarry a variety of 1.5 cells.
+
+	
+
+	Examples:
+
+	a) A76 alkaline - 1.5 volts
+
+	b) 357 or 303Silver oxide - 1.5 volts
+
+	c) 675 zinc air hearing aid battery - 1.4 volts
+
+	
+
+	Note: The positive terminal of the cell touches the A15TG battery spring, and faces the A15TG end cap. The negative terminal of the cell touches the solder dot on the A15TG circuit board.
+

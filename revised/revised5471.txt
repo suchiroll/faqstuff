@@ -1,0 +1,12 @@
+Title: ULX-D, QLX-D, AXT400 control with Yamaha QL and CL consoles
+Id: 5471
+Legacy Id: 
+
+Question:
+How do I setup receivers and Yamaha console for control?
+
+Answer:
+Yamaha CL and QL consoles can control and show the parameters for the ULXD4D, ULXD4Q, ULXD4, QLXD4, and AXT400.
+Yamaha has written up documentation on setting this up. Please refer to their documentation at:
+http://www.yamahaproaudio.com/global/en/products/mixers/ql/selftraining.jsp
+

@@ -1,0 +1,14 @@
+Title: Mic for vocals and harmonica
+Id: 2149
+Legacy Id: 2220
+
+Question:
+I NEED A MIC. FOR USE WITH VOCALS, AS WELL AS HARMONICA. I WAS TOLD THE SM87A WOULD BE A FINE CHOICE.
+
+
+Answer:
+
+	The SM87 condenser mic is great for vocals, but will likely not sound good with harmonica due to the excessive amount of breath that passes through the harmonica. Condenser mics are quite sensitive and pop easily with excessive air movement, like with blowing and drawing a harmonica.
+	
+	The vast majority of players that want one mic for vocals and harmonica use the SM58 or the Beta 58. Audition both at a Shure dealer and see which one sounds better to you.
+

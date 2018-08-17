@@ -1,0 +1,15 @@
+Title: UR4S+ and UR4D+ receiver - USB port removed
+Id: 4099
+Legacy Id: 4685
+
+Question:
+When was the USB port removed from the UR4S+ and UR4D+receiver models?
+
+
+Answer:
+
+	This design change occurred in April 2012. One of key USB components used inthe UR4+was discontinued by the manufacturer. Shure decided not to re-design the UR4+ receiver because the USB connectivity via Wireless Work Bench 5did not operate properlyfor 64-bit versions of the Windows operating system.In addition, USB connectivity is not supported by Wirelesss Work Bench 6.
+	
+	
+	Non-USB versions of the UR4+ receiver will have a label on the outer box stating that a USB port is not included. As an example, the label might read: UR4S+ Diversity Receiver, Single Channel, No USB.
+

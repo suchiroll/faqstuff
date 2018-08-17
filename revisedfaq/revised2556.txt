@@ -1,0 +1,14 @@
+Title: UC Vs. ULX
+Id: 2556
+Legacy Id: 2654
+
+Question:
+Which is superior? UC or ULX?
+
+
+Answer:
+
+	The ULX systems are frequency agile wireless systems, tuneable over a 36 MHz range in 25 kHz steps, for a total of 1440 different frequencies. They feature Automatic Frequency Selection, which uses the receiver to determine which are the best frequencies to use. You can use up to 20 systems in each of two different frequency bands.
+	
+	The UC systems are also frequency agile, tunable over 24 MHz to any of 100 specific frequencies. Up to 16 compatible frequencies are possible in either of two bands. Some features unique to UC include built in logic capabilities and front panel EQ control.
+	As far as which system is "superior", it depends on your application. Please contact us directly if you wish to discuss the specifics of your application.

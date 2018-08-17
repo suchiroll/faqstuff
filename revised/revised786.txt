@@ -1,0 +1,11 @@
+Title: Will the E1 or E5 work with a headphone amp?
+Id: 786
+Legacy Id: 808
+
+Question:
+I am interested in using the E1 and/or E5 in a wired in ear monitor application.  Are these units compatible with standard headphone amplifiers?
+
+Answer:
+
+	Yes, you can certainly use the E1 or E5 with a standard headphone amplifier. The E1 and E5 are much more sensitive than most headphones, so you will not need to turn up the headphone amplifier as much.
+

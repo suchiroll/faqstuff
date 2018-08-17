@@ -1,0 +1,16 @@
+Title: Does the Beta 98D/S eliminate cymbal bleed?
+Id: 57
+Legacy Id: 57
+
+Question:
+I am thinking about purchasing a few of these mics for recording my drumkit. It says on Shure's website that the capsule for the mic is supercardioid, so does it eliminate a lot of cymbal bleed into the mic because of this pattern? Also it comes with an Inline Preamp. Does this mean I can't use other pre amps with this mic? Is there a way to by-pass the pre amp that comes with this mic. Or does it sound so good that I'll never have to drag out the ole' Neve preamps?
+
+
+Answer:
+
+	The Beta 98D/S will reduce the amount of cymbal bleed due to the supercardioid pattern.
+	
+	The inline preamp actually is a misnomer. Condenser microphones have circuitry either internal like our Beta 87A or PGA81 and sometimes its external to allow the microphone to be small. While in some instances there is a little amplification in the preamp section of the microphone, its main purpose is to adapt the high impedance unbalanced signal from the microphone element to a low impedance balanced signal output that can handle phantom power from the mixing board.
+	
+	You will still need mic preamps, so keep the Neves.
+

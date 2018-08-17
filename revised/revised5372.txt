@@ -1,0 +1,64 @@
+Title: Technical differences between ULXD, QLXD, PGXD, and GLXD
+Id: 5372
+Legacy Id: 5393
+
+Question:
+Technical differences between ULXD, QLXD, PGXD, and GLXD
+
+Answer:
+
+	Frequency Band
+	PGX-D: 902-928 MHz*
+	GLX-D: 2.4 GHz
+	QLX-D: 176-216, 470-928 MHz*
+	ULX-D: 176-216, 470-928 MHz*
+	*Country Dependent
+	
+	Maximum Simultaneous Systems Under Optimal Conditions
+	PGX-D: 5
+	GLX-D: 4
+	GLX-D Advanced: 11
+	QLX-D: 60
+	ULX-D: 100 using high density mode
+	*Local RF interference will reduce these numbers.
+	
+	Maximum Operating Range Under Optimal Conditions
+	PGX-D: Up to 200 feet
+	GLX-D: Up to 100 feet indoors; Up to 65 feet outdoors
+	QLX-D: Up to 300 feet
+	ULX-D: Up to 300 feet using standard density mode
+	*Local RF interference will reduce these distances.
+	
+	Transmitter DC Power
+	PGX-D: Two AA cells
+	GLX-D: Shure SB902 Rechargeable
+	QLX-D: Two AA cells or Shure SB900A Rechargeable
+	ULX-D: Two AA cells or Shure SB900A Rechargeable
+	
+	Receiver Antennas
+	PGX-D: Permanently attached -wave
+	GLX-D: Permanently attached -wave
+	GLX-D Advanced: Removable -wave
+	QLX-D: Removable -wave (no DC voltage for antenna amps)
+	ULX-D: Removable -wave (has DC voltage for antenna amps)
+	
+	Rack Mount
+	PGX-D: URT2 accessory (not included)
+	GLX-D: URT2 accessory (not included)
+	GLX-D Advanced: Hardware included
+	QLX-D: Hardware included
+	ULX-D: Hardware included
+	
+	Latency
+	PGX-D: 3.5 ms
+	GLX-D: 4 ms minimum; 7.3 ms maximum
+	QLX-D: 2.9 ms
+	ULX-D: 2.9 ms
+	
+	Sampling Rate
+	PGX-D: 48k
+	GLX-D: 44.1k
+	QLX-D: 48k
+	ULX-D: 48k
+	All use 24 bit sampling resolution.
+

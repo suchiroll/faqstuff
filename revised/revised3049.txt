@@ -1,0 +1,20 @@
+Title: Controlled-magnetic vs Dynamic
+Id: 3049
+Legacy Id: 3180
+
+Question:
+My harp mic-the lovely 540D, is a controlled-magnetic mic. How is it different than a dynamic mic?
+
+
+Answer:
+
+	A controlled magnetic element is a variation of a dynamic element.
+	
+	In the controlled magnetic (also called controlled reluctance) element:
+	1) the magnet is stationary,
+	2) the wire coil is stationary,
+	3) the metal diaphragm moves a ferrous rod that disturbs the magnetic field,
+	4) thus causing an output signal in the wire coil.
+	
+	The controlled magnetic element was developed during World War II. It was a very rugged design that could stand up to military use. Shure discontinued the last controlled magnetic microphone in the early 1980s.
+

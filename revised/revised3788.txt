@@ -1,0 +1,15 @@
+Title: PSM900 Mix Mode Channel Separation
+Id: 3788
+Legacy Id: 4026
+
+Question:
+The PSM900 is specified at 60 dB of channel separation (at 1 kHz) when used in Stereo Mode. Will I get the same 60 dB of separation in Mix Mode?
+
+
+Answer:
+
+	No.  In Mix Mode, the nominal separation (at 1 kHz) is 20 to 22 dB. 
+	
+	Mix Mode is not "dual - monaural" operation; it truly is a mixing mode.  The typical use of Mix Mode is instruments in one channel and vocals in the other. Both channels are heard in both ears.  Mix Mode allows one channel or the other channel to be up to 20 dB louder.  When Mix Mode is set to have one channel at maximum level and the other at minimal level, the P9R display shows "20L" or "20R"   When Mix Mode is set to have both channels at equal levels, the P9R display shows "L=R"
+	
+	January 2012 Update: With the introduction of the P9RA receiver, Mix Mode separation was improved. The P9RA nominal separation is in the range of 60 dB.

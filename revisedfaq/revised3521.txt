@@ -1,0 +1,16 @@
+Title: USB Mics for Podcasting Use
+Id: 3521
+Legacy Id: 3725
+
+Question:
+What USB mics can I use for podcasting?
+
+
+
+Answer:
+
+	Look at the MV5 or MV51.
+	
+	The professional choice would the Shure SM7B combined with a high quality USB mic preamplifier.
+	
+

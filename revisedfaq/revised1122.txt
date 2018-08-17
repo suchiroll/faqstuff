@@ -1,0 +1,65 @@
+Title: microphone for minidisc
+Id: 1122
+Legacy Id: 1160
+
+Question:
+---- 05/09/2001 06:04 AM ---------------------------------------------
+
+I want to record live accoustic music in pubs  at festivals on minidisc via microphone. I have a sharp ME mt80H which recommends plug-in-power type microphones. Do you supply any suitable? Would I be able to use something like a Shure 849 despite the fact that it is battery powered?
+
+
+---- 05/09/2001 08:25 AM ----------------------------------------------
+
+
+Input sensitivity  impeance is given as:
+
+Recording level = High : ref input level 0.25mV input impedance 10kohms
+
+
+Recording level= Low : ref input level 2.5 mV input impedance 10 kohms
+
+Line = ref input level 100mV input impedance 20 kohms
+
+
+Mic Socket is standard stereo mini jack socket  the main unit will supply power for the microphone (plug in power).
+
+
+Sharp's web site advise :
+
+"In general, as long as microphones are not self powered (or can be used without the internal battery if they are) and use a mini jack plug (stereo or mono) there should not be a problem.
+
+
+The requirement is to record live accoustic music in pub or festivals. Needs to be fairly cheap. The big issue is whether or not it is acceptable to use a battery-powered mic. Sharp recommend not but cannot give much specific advice. Local retailers advise that battery powered mics are OK  are used a lot in minidiscs.
+
+
+Answer:
+
+	At 05/09/2001 07:33 AM we wrote - The 849 would be a great choice. Consider using two as a stereo pair using the Shure A27M stereo mic adapter. Sorry, this product is not listed on the Shure web site.
+	
+	Also, make certain the Sharp has the proper inputs to accept a professional mic output. See the following for guidance:
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your tape recorder or your radio or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+	
+	At 05/09/2001 12:42 PM we wrote - Use the Sharp with the Recording Level set to High when using the 849.
+	
+	The 849 should be great, but in order to know how the 849 to Sharp cable must be wired, you need to find out from Sharp how the stereo mini-jack is wired. Ask them: What is the function of the Tip connection? What is the function of the Ring connection? What is the function of the Sleeve connection? Is there DC bias on any of the connection points?
+	
+	Write us again once you have these answers.
+

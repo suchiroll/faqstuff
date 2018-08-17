@@ -1,0 +1,17 @@
+Title: V15 Pro S - tracking force and stylus care
+Id: 2520
+Legacy Id: 2616
+
+Question:
+1. I recently purchased a replacement stylus for my older Shure cartridge (V 15/Pro S). The instructions that came with the stylus list specs for "Tip Tracking Force" and "Total Tone Arm Force." Which one do I use for setting the tracking force on my turntable?
+
+
+2. Is it safe to use a Discwasher brand stylus brush and cleaning fluid on my stylus?
+
+
+Answer:
+
+	1. The brush requires an extra 1/2 gram of tracking weight to be set on the tone arm. So a tone arm setting of 1.5 grams equals a tip tracking force of 1 gram when the brush is used.
+	
+	2. Yes, it is safe.
+

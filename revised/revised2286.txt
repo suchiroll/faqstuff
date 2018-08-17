@@ -1,0 +1,16 @@
+Title: ULXS4 or ULXP4 Receiver - powering from external DC
+Id: 2286
+Legacy Id: 2368
+
+Question:
+Can the ULXS4 or ULXP4 receiver be powered by an external DC source?
+
+
+Answer:
+
+	The ULX receiver works properly only when supplied 14 to 18 volts of DC. The current draw is 550 milliamps.
+	
+	If 12 volts of DC is used, audio headroom will be reduced, the Tx Audio LED indication on the front panel will not illuminate, and there may be other functions that will not work as designed.
+	
+	Keep this 14 to 18 volts DC requirement in mind if you power the ULX receiver from a source different than the supplied PS40 in-line transformer.
+

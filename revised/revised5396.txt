@@ -1,0 +1,66 @@
+Title: Multipath and Receiver Diversity
+Id: 5396
+Legacy Id: 5660
+
+Question:
+Multipath and Receiver Diversity
+
+Answer:
+
+	This is a excerpt from Selection and Operation of Wireless Microphones.
+	
+	Multipath
+	A necessary element in the concept of diversity radio reception is the occurrence of multi-path effects in radio transmission. In the simplest case, radio waves proceed directly from the transmitting antenna to the receiving antenna in a straight line. The received signal strength is only a function of the transmitter power and the distance between the transmitting and receiving antennas. In practice, this situation could only occur outdoors on level, unobstructed terrain.
+	
+	In most situations, however, there are objects that attenuate radio waves and objects that reflect them. Since both the transmitting and receiving antennas are essentially omnidirectional, the receiving antenna picks up a varying combination of direct and reflected radio waves. The reflected waves and direct waves travel different distances (paths) to arrive at the receiving antenna, hence the term multi-path. (See Figure 2-18.)
+
+	
+
+	
+
+	These multiple paths result in differing levels, arrival times and phase relationships between the radio waves. The net received signal strength at any location is the sum of the direct and reflected waves. These waves can reinforce or interfere with each other depending on their relative amplitude and phase. The result is substantial variation in average signal strength throughout an area. This creates the possibility of degradation or loss of the radio signal at certain points in space, even when the transmitter is at a relatively short distance from the receiver. Cancellation of the signal can occur when the direct and indirect waves are similar in amplitude and opposite in phase. (See Figure 2-19.)
+
+	
+
+	The audible effects of such signal strength variation range from a slight swishing sound (noise-up), to severe noises (hits), to complete loss of audio (dropout). Similar effects are sometimes noted in automobile radio reception in areas with many tall buildings. The size of a dropout region is related to wavelength: in the VHF range (long wavelength) dropout areas are larger but farther apart, while in the UHF range (short wavelength) they are smaller but closer together. For this reason, multi-path effects tend to be more severe in the UHF range. These effects are unpredictable, uncomfortable, and ultimately unavoidable with single-antenna (non-diversity) receivers.
+	
+	Receiver: Diversity Techniques
+	Diversity refers to the general principle of using multiple (usually two) antennas to take advantage of the very low probability of simultaneous dropouts at two different antenna locations. Different means that the signals are statistically independent at each location. This is also sometimes called space diversity, referring to the space between the antennas.
+	
+	For radio waves, this de-correlation is a function of wavelength: a separation of one wavelength results in nearly complete de-correlation. In most cases, at least one-quarter wavelength separation between antennas is necessary for significant diversity effect: about 40 cm for VHF systems and about 10 cm for UHF systems. Some increased benefit may be had by greater separation, up to one wavelength. Spacing beyond one wavelength does not significantly improve diversity performance, but large or unusually shaped areas may be covered with greater antenna separation.
+	
+	There are a number of diversity techniques that have had some degree of success. The term true diversity has come to imply those systems which have two receiver sections, but technically, any system which samples the radio field at two (or more) different locations, and can intelligently select or combine the resulting signals is a true diversity system.
+	
+	The simplest technique, called passive antenna combining utilizes a single receiver with a passive combination of two or three antennas. Antennas combined in this manner create an array, which is essentially a single antenna with fixed directional characteristic. In its most effective form (three antennas, each at right angles to the other two) it can avoid complete dropouts, but with a reduction of maximum range. This is because the array output will almost always be less than the output of a single antenna at the optimum location. If only two antennas are used, dropouts can still occur in the event of an out-of-phase condition between them. Cost is relatively low but setup of multiple antennas can be somewhat cumbersome. This is not a true diversity design. (See Figure 2-20.)
+
+	
+
+	
+	A true diversity variation of this technique is antenna phase diversity. It also employs two antennas and a single receiver but provides an active combining circuit for the two antennas. This circuit can switch the phase of one antenna relative to the other, eliminating the possibility of phase cancellation between them. However, switching noise is possible as well as other audible effects if switching is incorrect. Range is sometimes greater with favorable antenna combinations. Cost is relatively low. Setup requires somewhat greater antenna spacing for best results. (See Figure 2-21.)
+
+	
+
+	The next variation, antenna switching diversity, again consists of a single receiver with two antennas. The receiver includes circuitry that selects the antenna with the better signal according to an evaluation of the radio signal. Switching noise is possible but this system avoids the possibility of phase cancellation between antennas because the antennas are never combined. Range is the same as for a single antenna system. Cost is relatively low and setup is convenient. (See Figure 2-22.)
+
+	
+
+	In both of these active antenna diversity approaches, the switching decision is based on the received signal quality of a single receiver section. When the signal quality falls below some preset threshold, switching occurs immediately. If the new antenna (or antenna combination) doesnt improve the reception, the receiver must switch back to the original state. The lack of predictive ability often causes unnecessary switching, increasing the chance of noise. The switching speed is also critical: too fast and audible noise occurs, too slow and a dropout may occur.
+	
+	A recent antenna switching method offers predictive diversity capability using a microcontroller to optimize switching characteristics. A running average signal level and a maximum signal level are calculated by analyzing the change in signal level over time. Comparing the current average signal level to the most recent maximum signal level determines the switch action, based on typical dropout characteristics. Small declines at high signal levels indicate impending dropout, causing a switch to occur. At moderate signal levels, larger decreases are allowed before switching. At very low signal levels switching is curtailed to avoid unnecessary noise. Of course, if the signal level is increasing, no switching occurs. The onset of dropout can be more accurately recognized and countered, while eliminating switching when there is little likelihood for improvement.
+	
+	Receiver switching diversity is a widely used diversity system. It consists of two complete receiver sections, each with its own associated antenna, and circuitry that selects the audio from the receiver that has the better signal. Switching noise is possible but when properly designed these systems can have very good dropout protection with little chance of other audible effects due to incorrect selection. This is because the system compares the signal condition at each receiver output before audio switching occurs. Range is the same as with single antenna systems. Cost is higher, but setup is convenient. (See Figure 2-23.)
+
+	
+
+	Ratio combining diversity also uses two complete receiver sections with associated antennas. This design takes advantage of the fact that, most of the time, the signal at both antennas is useable. The diversity circuitry combines the outputs of the two receiver sections by proportionally mixing them rather than switching between them. At any given moment, the combination is proportional to the signal quality of each receiver. The output will usually consist of a mix of the two audio sections. In the case of loss of reception at one antenna, the output is chosen from the other section. Excellent dropout protection is obtained with no possibility of switching noise since the diversity circuit is essentially an intelligent panpot, not a switch. (See Figure 2-24.) Signal-to-noise is improved by up to 3 dB. Range can be greater than with single antenna systems. Cost is somewhat higher, setup is convenient.
+
+	
+
+	A properly implemented diversity system can yield measurable improvements in reliability, range, and signal-to-noise ratio. Although a comparable non-diversity system will perform adequately most of the time in typical setups, the extra insurance of a diversity system is worthwhile. This is particularly true if the RF environment is severe (multipath), troubleshooting time is minimal (no rehearsal), or dropout-free performance is required (ideally always). The price difference is small enough that diversity receivers are typically chosen in all but the most budget-conscious applications.
+	
+	An additional method for improving signal reliability in the presence of interference is called Frequency Diversity. This technique relies on the low likelihood of simultaneous interference on two different radio frequencies. To set up a frequency diversity system requires two transmitters, each set to a different frequency, and two matching receiver channels. The two received signals are connected to an audio mixer on two separate channels. If the signal from either transmitter is interrupted, the audio engineer can continue with the remaining signal.
+	
+	Presently, this is practical only by using two bodypack transmitters on a single individual, typically with lavaliere or headworn microphones. They may be connected to a single microphone or possibly two closely-spaced microphones. Frequency diversity is generally reserved for the primary user in critical situations where the cost of double-packing is justified.
+	
+	However, handheld transmitters are now available that can transmit simultaneously on two different frequencies. In addition, the matching receivers can automatically transition between the two signals when interference occurs so that only a single mixer channel is required and no manual intervention is necessary to maintain signal continuity.
+

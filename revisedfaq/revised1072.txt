@@ -1,0 +1,12 @@
+Title: Difference between MX185 and WL185
+Id: 1072
+Legacy Id: 1107
+
+Question:
+I want to know the difference between MX185 and WL185. The model # is different but it seems these are same product.
+
+
+Answer:
+
+	The MX185 is the wired version. The WL185 is the wireless version. That is, the MX185 includes the preamp/impedance converter necessary to plug the microphone into a standard mixer. The WL185 does not include this preamp and will plug into any Shure bodypack.
+

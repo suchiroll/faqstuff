@@ -1,0 +1,15 @@
+Title: VP83F Timestamp on Files
+Id: 4892
+Legacy Id: 6150
+
+Question:
+I need to know whether the timestamps on the WAV files from the Shure VP83F include accuracy to the second.
+
+
+
+Answer:
+
+	The date and time can be set manually on the VP83F in an HH:MM:SS format. On a typical Windows PC, one may view the timestamp by right-clicking on the file and selecting Properties.
+
+	
+

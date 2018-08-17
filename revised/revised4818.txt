@@ -1,0 +1,12 @@
+Title: WWB6 displays dashes on receiver screen
+Id: 4818
+Legacy Id: 6004
+
+Question:
+I have calculated a set of frequencies using Wireless Workbench 6, yet when I deploy them to my devices, instead of Group and Channel numbers, I just get dashes on the receiver front panel screen. Did I do something wrong?
+
+
+Answer:
+
+	No. Part of the utility of Wireless Workbench is that it calculates frequencies without regard for the pre-programmed Groups and Channels that are stored on the receivers. Groups and Channels are really just a small subset of the total number of frequencies available on most Shure receivers. For example, if you total up all the Group/Channel frequencies in a QLXD wireless receiver, there is somewhere around 677 (give or take a few, depending on frequency band) possible frequencies to choose from. If this was all Workbench had to work with, it would greatly reduce the total number of frequencies that might be possible to use in a given area. If, however, you consider that the total number of frequencies that its possible to select on QLXD is 2,560, that will give WWB much more flexibility to calculate a larger set of compatible frequencies. Since these frequencies may not exist in the Group/Channel tables, the receiver simply displays dashes (-) instead. This is perfectly normal.
+

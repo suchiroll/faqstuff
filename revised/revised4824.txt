@@ -1,0 +1,12 @@
+Title: DIS-CCU vs CU 6110
+Id: 4824
+Legacy Id: 6010
+
+Question:
+What's the difference between the DIS-CCU central control unit and the CU 6110 central unit?
+
+
+Answer:
+
+	Compared to the CU 6110, the DIS-CCU with FL6000 Feature License offers the ability to control conference units for up to 250 participants without additional feature licenses, included VOX voice activation capability, and included Basic Voting capability.
+

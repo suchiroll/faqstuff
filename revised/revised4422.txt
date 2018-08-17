@@ -1,0 +1,23 @@
+Title: Two or more GLXD1 bodypacks linked to one GLXD receiver
+Id: 4422
+Legacy Id: 5520
+
+Question:
+I have two guitars that I switch between during performance. Can I sync two different GLX-D1 bodypacks with a single GLX-D receiver?
+
+Answer:
+
+	Multiple transmitters can be linked to a receiver to allow for instument changes during a performance. Only one transmitter can be powered up/active at a time to prevent cross interference. Gain settings for each transmitter can be independently set and stored when the transmitter is active. There is no limit to the number of transmitters that can be linked to one receiver.
+	
+	Important! Do not turn on and operate two (or more) linked transmitters at the same time.
+	
+	As an example for two transmitters, turn off both transmitters before beginning.
+
+	
+		Press the group button to select a group. The receiver automatically scans the selected group to find the best available channel.
+	
+		Turn on transmitter 1 and link it to the receiver. Adjust the gain, and then turn off the transmitter.
+	
+		Turn on transmitter 2 and link it to the receiver. Adjust the gain, and then turn off the transmitter.
+
+

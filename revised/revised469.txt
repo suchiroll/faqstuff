@@ -1,0 +1,14 @@
+Title: Mic for stage performance of bluegrass fiddle
+Id: 469
+Legacy Id: 479
+
+Question:
+I am currently trying out an SM81-LC for stage performance with a bluegrass fiddle. I have been using a Barcus-Berry Bridge pick up, but want to change to a mike. I do not like to stand or play too close to the mike (because of insensitive mike, I accidentally hit the mike with the back of my bow hand during a performance) . I think I need a highly unidirectional condenser type mike that is hot enough for me to stand 2.5 to 3 ft away and still pick me up enough not to be drowned out by the banjo mandolin, etc. etc (7 piece group).....but will also not be quick to feedback into the amps. So can you make a better suggestion since I am clueless, guessing in the dark about the type of mike I need?
+
+
+Answer:
+
+	Distant miking of a single instrument is very difficult in an ensemble setting, especially for a relatively quiet instrument such as a fiddle. Even if you used a highly directional microphone, the pick up area of the microphone widens as you move further away. Coupled with the fact that the microphone needs to be very sensitive, and it becomes nearly impossible to prevent the microphone from picking up adjacent sound sources, unless you stand in the corner away from the other musicians. The primary reason that most live rock bands use close miking is not because the microphones arent sensitive enough, but because it is the only way to effectively minimize leakage from other sound sources. Close miking also minimizes feedback.
+	
+	The best solution for you may be to use a microphone actually clipped to the fiddle. This way the sensitivity can be kept fairly low, and leakage will be greatly reduced. Two possibilities are the Beta98 condenser or, if you need a dynamic microphone to plug straight into an amplifier, the SM11.
+

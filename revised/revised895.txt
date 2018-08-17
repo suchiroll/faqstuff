@@ -1,0 +1,12 @@
+Title: Is Beta 58A balanced?
+Id: 895
+Legacy Id: 923
+
+Question:
+Does the Beta 58A have balanced output?
+
+
+Answer:
+
+	Professional quality microphones with XLR outputs, like the Beta 58A, are always balanced. It is not mentioned in the specifications as balanced operation is assumed for all professional mics.
+

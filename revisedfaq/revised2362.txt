@@ -1,0 +1,13 @@
+Title: Audio Pinout of VP3-W Wireless Receiver
+Id: 2362
+Legacy Id: 2452
+
+Question:
+Can you please send along the pinout for the audio output connector (miniture 3-pin) on the VP3 wireless receiver?
+
+
+Answer:
+
+	Pin 1 - Ground
+	Pin 2 - Audio +
+	Pin 3 - Audio -

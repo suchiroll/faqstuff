@@ -1,0 +1,36 @@
+Title: Troubleshoot MXW Networking
+Id: 4338
+Legacy Id: 5423
+
+Question:
+I can see my MXWAPT in the Device Discovery Tool, but when I click on it, the GUI does not open.
+
+
+Answer:
+
+	Many times, problems with setting up MXW Wireless systems can be traced back to networking problems. Here are some useful tips.
+	
+	
+
+	
+		From the factory, the MXW is set to Auto (DHCP). Make certain your computer is also set to DHCP.
+	
+		If you change the MXW system to Manual (Static), all MXW devices and the computerwill need to be changed to Manual (Static).
+	
+		Make certain that all MXW devices are either Auto (DHCP) or Manual (Static). Use the GUI to check all of the devices.
+	
+		Check the IP address of all devices.
+		
+		Note that the APT has two separate, independent IP addresses; one for Control, the other for Network Audio (Red arrows). In the above screen shot, there is a problem, as the Network Audio IP (yellow highlight)is not in the same subnet as the Control IP. All of the IP addresses start with 192.168.209. The Network Audio IP also would need to start with 192.168.209. This system did not work correctly. The two IPs are set in the Configuration tab.
+	
+		If the MXW devices are set to Manual (Static), your computer will also need to be set to Static IP.
+	
+		If changing MXW devices to Manual (Static), change the IP of the NCS charger and the MXWANI before changing the IP of the MXWAPT.
+	
+		Make certain the MXW devices are in the same subnet as the computer. You can view the IP addresses of the MXW devices in the Device Discovery tool:
+		
+		In the Networking control panel of your computer, you can find the IP address of your computer.
+		
+		Make certain the computeris in the same subnet as the MXW devices. Typically the first three octets of the IP addresshave to be the same on all devices and computers. In this example, all device IP addresseswould need to start with 192.168.209. Be careful as most laptops have two network adapters, the wired adapter and the wireless adapter. Make certain you are looking at the IP address of the network adapter you are using.
+
+

@@ -1,0 +1,22 @@
+Title: DFR11EQ - What version is it?
+Id: 2699
+Legacy Id: 2803
+
+Question:
+How are I determine the version of the DFR11EQ I own?
+
+
+Answer:
+
+	Hardware:
+	In the U.S., version 3 has a silver faceplate.
+	Outside the U.S., version 3 has a black faceplate.
+	Version 4 has a black faceplate with no scene select buttons.
+	Version 5 has a black faceplace with scene select buttons
+	
+	Software:
+	Under the HELP header, select ABOUT.
+	Also, the start-up screen lists the version number.
+	
+	The easiest method to determine the version of the hardware and software you have is to connect a computer to it and follow the Software instructions above.
+

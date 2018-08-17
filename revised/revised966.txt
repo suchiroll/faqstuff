@@ -1,0 +1,12 @@
+Title: Lavalier mic with 1/4" connector?
+Id: 966
+Legacy Id: 995
+
+Question:
+Is there a lavalier mic. that I can be used to replace a WH20QTR Headset microphone which has a 1/4" inch phone plug?
+
+
+Answer:
+
+	The Shure SM11 could be rewired by a technician to have a 1/4 plug in place of the XLR plug. However, the output level when using the SM11 would be much less than when using the WH20 because of the greater distance from the mouth to the mic.
+

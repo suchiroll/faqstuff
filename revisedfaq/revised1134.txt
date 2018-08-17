@@ -1,0 +1,14 @@
+Title: Is UHF better than VHF?
+Id: 1134
+Legacy Id: 1172
+
+Question:
+Is UHF system better than VHF? Why?
+
+
+Answer:
+
+	What is the difference between UHF and VHF frequencies?
+	
+	A VHF system costs slightly less than a comparible UHF system because the VHF component electronics are less expensive.
+

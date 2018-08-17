@@ -1,0 +1,21 @@
+Title: N44G stylus on an M44-7 cartridge the same as M44G?
+Id: 2364
+Legacy Id: 2455
+
+Question:
+I've got a couple of M44-7's that need new styli (a friend of a DJ is not necessarily a DJ himself). I've seen some entries regarding the use of N44G stylus in an M44-7 cartridge (seems OK). The answers seem to be, "Yes, it fits," but does that mean "Yes it's the same." I like the benefits of the M44G, so I'm wondering if it would be best to get all new cartridges, or if replacing the styli would do the trick?
+
+
+Thanks.
+
+
+p.s. You guys run a great website, and I'm thoroughly impressed with the customer support section. The support software you use is great for searching. The responses are all very thorough and informative... I think your boss should take you out to lunch.
+
+
+Answer:
+
+	The N44-7 stylus tracks at 1.5 to 3 grams. The N44G stylus tracks at 0.75 to 1.5 grams.
+	
+	The cartridge body of the M44-7 and the M44G are basically the same. Change the stylus model and you change the cartridge model. So just change the stylus.
+	
+	Thank you for the compliments about the support section. We take great pride in it and answer incoming questions several times during each work day.

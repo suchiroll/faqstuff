@@ -1,0 +1,98 @@
+Title: How long to charge MXW mics?
+Id: 4650
+Legacy Id: 5810
+
+Question:
+How long does it take to charge the mics on the MXW Microflex Wireless?
+
+
+Answer:
+
+	
+		
+			
+				
+			
+				
+					MXW1, MXW6, MXW8
+			
+			
+				
+					MXW2
+			
+		
+		
+			
+				Charging Method
+			
+				Time to Full
+			
+				Time top 75%
+			
+				Time to Full
+			
+				Time to 75%
+		
+		
+			
+				MXWNCS
+			
+				
+					2 hours
+			
+			
+				
+					1.5 hours
+			
+			
+				
+					3.5 hours
+			
+			
+				
+					2.6 hours
+			
+		
+		
+			
+				USB (with mic turned on)
+			
+				
+					3.5 hours
+			
+			
+				
+					2.6 hours
+			
+			
+				
+					5 hours
+			
+			
+				
+					4.25 hours
+			
+		
+		
+			
+				USB (with mic turned off)
+			
+				
+					2.6 hours
+			
+			
+				
+					2.0 hours
+			
+			
+				
+					2.6 hours
+			
+			
+				
+					2.0 hours
+			
+		
+	
+
+

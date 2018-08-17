@@ -1,0 +1,12 @@
+Title: MXW2 with MXWNCS Dimensions
+Id: 4803
+Legacy Id: 5989
+
+Question:
+What is the total height of the MXW2 when in the MXWNCS4 charger?
+
+
+Answer:
+
+	TheMXW2/SM58 inserted in the chargeris 10.25 tall.
+

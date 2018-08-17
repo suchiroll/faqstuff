@@ -1,0 +1,12 @@
+Title: Racking a P7T with a P4M
+Id: 1631
+Legacy Id: 1688
+
+Question:
+Is there a way for me to mount a PSM700 next to a P4M? The included mounting hardware does not seem to allow for it and I hate to give up the rack space.
+
+
+
+Answer:
+
+	Use the WA504 accessory.

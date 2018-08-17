@@ -1,0 +1,18 @@
+Title: Retrofiting VM model 1225 GE turntable
+Id: 1822
+Legacy Id: 1882
+
+Question:
+I have a VM model 1225ge turntable that I think was manufactured around 1957. It currently has a mono GE clip-in cartridge, I would like to upgrade it to one of your catridges, particularly the M92E. What steps are nessesary to adjust the tracking weight, and what steps are nessesary to retrofit the wiring to accept stereo?
+
+
+Answer:
+
+	It is likely that the GE cartridge was a crystal design or a ceramic design. All current Shure cartridges are a magnetic design that have a much lower output signal and require a much lighter tracking force. It is unlikely that a current model will work properly in your setup.
+	
+	What steps are nessesary to adjust the tracking weight, and what steps are nessesary to retrofit the wiring to accept stereo? As Shure did not make your turntable, we have no idea if you can adjust the tracking force and rewire it for stereo. GE might be able to help as they designed and sold your turntable.
+	
+	Our suggestions: 1) Try to find an equivalent cartridge to the original one. Radio Shack still offers vintage styli and cartridges in their catalog. You can also call Record King at 201-488-4232, a specialist in long discontinued phono cartridges.
+	
+	2) Or consider the purchase of a brand new turntable, cartridge, and phono preamp.
+

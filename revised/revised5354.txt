@@ -1,0 +1,15 @@
+Title: Share Axient Spectrum Manager Scans
+Id: 5354
+Legacy Id: 4507
+
+Question:
+Share Axient Spectrum Manager Scans
+
+Answer:
+
+	Sharing the scans from the Axient Spectrum manager can be useful. If you are traveling to an area where we already have a scan, you can load that scan into WWB6 to calculate frequencies in advance.
+	
+	Here are scans that we have to share. This list is most useful as more people share scans. We invite you to send us your scans so that we can add them. Email the scans to support@shure.com. Please make certain no wireless microphones or PSM systems are on when you perform the scan. The scan should only be the background RF sources.
+	
+	To download the files below, right click and choose Save Link As or Save Target As. If Internet Explorer changes the extension of the file to .xml,you will need to change the extension back to .sdb or .sdb2.
+

@@ -1,0 +1,15 @@
+Title: FP24 and Sony PD150 DV Camera
+Id: 2581
+Legacy Id: 2680
+
+Question:
+The FP24 and the Sony PD150 DV Camera don't like each other. There is a strange distortion when I use the two together. Any ideas?
+
+
+Answer:
+
+	Yes. The Sony audio input circuit design is less than optimal. It does not operate well when fed by an output circuit that is impedance-balanced like the FP24.
+	
+	One solution is to insert a 600 ohm/600 ohm in-line isolation transformer between the FP24 output and the Sony input. Such a transformer available is the model ProCo ITX; available from: http://www.markertek.com
+	
+	More information can be found at: http://www.sounddevices.com/tech/pd150.htm

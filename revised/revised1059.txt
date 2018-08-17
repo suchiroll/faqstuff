@@ -1,0 +1,18 @@
+Title: Bad signal to noise ratio with distance learning system.
+Id: 1059
+Legacy Id: 1093
+
+Question:
+We built a distant learning system in our school, using the MX202 microphone and the SCM268 mixer. The classroom is about 5 meters width, 10 meters long, and 2.80 meters hight. There is carpet on the ground. In front of the classroom, there are two ceiling microphone, and there is one ceiling microphone at the rear of the classroom. And there is central air conditioning, some lamps in the classroom, and there are two computer under the desk in front of the classroom. The problem is the background noise is so big, I adjust the mixer input and output gain to a proper value, and I use the osciloscope to detect the volt of the mixer output. I find the background noise Pk-Pk volt is about 200mV, and if I make a big sound the Pk-Pk volt will reach to 2000mV, the S/N ratio is just about 20dB. I think it is very bad. I think the most important reason is the distance between the teacher and the ceiling microphone is too long. It is about 5 feet. And you know, the teacher can't always sit down and talk directly to the unidirectional microphone, so I want you to give me some suggestions. BTW, when I remove the rear microphone, the sound quality have a little improvement. But it still has bad sound quality, I think.
+
+Our distant learning system using the mixer output the signal to the soundcard of the computer, and using the computer to digitize and compress the sound wave. And maybe we can add a filter between the mixer and the soundcard, because I think the noise is in a range of frequence, maybe we can add a bandpass filter, the frequence lower than 100 HZ and higer than 6000HZ will be cut off. Do you think it will improve the sound quality? And if I using the automatic mixer, can you tell me how much improvement can I get by your experience?
+
+
+Answer:
+
+	If the signal to noise ratio (SNR) is bad, the only solutions are to either get the microphone closer to the person talking or to lower the background noise. Using an automatic mixer will also help some, because it will automatically turn off any unused microphones. These unused microphones are only picking up background noise. When someone near the microphone talks, the automatic mixer will turn the microphone back on. For more information, see our online publication Audio for Distance Learning at Shure Educational Articles
+	
+	A filter will not dramatically effect the SNR. In order to effect the SNR ratio, you must either increase the signal to the microphone (that is, get the microphone closer to the person talking) or decrease the background noise in the room. Those are the only solutions.
+	
+	The difference between 4 microphones on and 1 microphone on is 6 dB. The amount of ambient noise will change by 3 dB for every doubling of the number of microphones turned on. Read Why Use Shure Automatic Mixers? at the above link.
+

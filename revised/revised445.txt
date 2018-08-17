@@ -1,0 +1,11 @@
+Title: The Guitarist VHF, or The Guitarist UHF.  Which is better?
+Id: 445
+Legacy Id: 454
+
+Question:
+What is the difference between the UHF and VHF versions of The Guitarist Wireless systems? Which costs more?
+
+Answer:
+
+	The T series operates on VHF frequencies (U.S. TV channels 7-13), and the UT series operates on UHF frequencies (U.S. TV channels 35-36, 38-39, 59-60, 64-65). The UT series is more expensive than the T series.
+

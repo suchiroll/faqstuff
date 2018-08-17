@@ -1,0 +1,15 @@
+Title: Safe listening levels for E5c when using Ipod video
+Id: 3366
+Legacy Id: 3553
+
+Question:
+Could you please recommend safe (e.g. 10+ hours per day) listening levels for the E5c's (SCL5)when used with an Ipod Video (5G)? I cannot find any hard numbers to correlate volume with dBA level - I keep my volume limited at 50% of the max, and then usually only use about half of that (so 25% of max). I'm also happy to get external sources to read, but some real numbers would be amazing before I leave on another plane.
+
+
+Answer:
+
+	The safety standards in the U.S. for 10+ hours of listening is 90 dB SPL or less.
+	
+	The E5c/SCL5 can produce 122 dB SPL with an input level of 1 mW (milliwatt). 0.5 mW will lower the output to 119 dB SPL. Every time the input level in mW is halved, the SPL level drops by 3 dB. To reach 89 dB SPL, the input level must be 0.0005 mW.
+	
+	Now you must contact Apple and ask this question: My E5c earbuds have an impedance of 110 ohms. What setting on the Ipod 5G will provide 0.0005 mW so that the E5c SPL level is below 90 dB SPL?

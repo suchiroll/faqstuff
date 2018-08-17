@@ -1,0 +1,18 @@
+Title: Rewiring 520D for low impedance use
+Id: 402
+Legacy Id: 409
+
+Question:
+I found your FAQ about rewiring the 520DX for balanced low impedance use, but the wiring is not the same as the 520D I want to rewire due to the addition of the volume pot on the 520DX. The 520D has three wires--red, black and blue--and the blue wire is of thinner gauge and connected to a different spot on the cartridge than the red and black wires. What I need to know is:
+1) How do I rewire it for balanced low impedance use?
+2) After rewiring, which wires go to which pins on an XLR connector?
+
+At the other end of the cable there is a shield and a red wire and a black wire. The red wire and the shield are now wired to the 1/4" plug and the black wire is insulated at the plug end. After rewiring, which wire goes to the 1 pin, which to the 2 pin and which to the 3 pin on the XLR connector?
+
+Answer:
+
+	Here are the instructions directly from the 520D User Guide:
+	
+	1. Disassemble the 520D. Cut the BLUE and BLACK leads in half. Solder the BLUE lead from the cartridge to the BLACK lead from the cable. Insulate this new connection and the remaining free ends of the BLUE and BLACK leads. Reassemble the 520D.
+	
+	2. At the end of the cable, connect SHIELD to XLR pin 1; red to XLR pin 2; black to XLR pin 3.

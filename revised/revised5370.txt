@@ -1,0 +1,32 @@
+Title: SCM810 Text Description
+Id: 5370
+Legacy Id: 5386
+
+Question:
+SCM810 Text Description
+
+Answer:
+
+	The Shure Model SCM810/E is an eight-channel automatic microphone mixer designed for use in sound reinforcement, audio recording, and broadcast applications. The SCM810 dramatically improves audio quality in any application where multiple microphones are required. Any low-impedance dynamic or condenser microphone (including wireless) can be used with the SCM810/E. Multiple SCM810 mixers can be linked to other SCM810/E mixers, as well as to Shure Models FP410, SCM410 and SCM800 mixers.
+	
+	Each input channel has a two-band equalizer and three logic terminals. The equalizer reduces unwanted low-frequency audio pickup and makes different microphone types-lavaliers, boundary and handheld-sound similar. The logic terminals can be used to control external devices.
+	The SCM810 operates on 100-120 Vac power; the SCM810E operates on 220-240 Vac power. Each mixer is supplied with a power cord, rack-mounting hardware, and a link cable.
+	
+	SYSTEM FEATURES
+	 Fast-acting, noise-free microphone selection that automatically adjusts to changes in background room noise
+	 Automatic gain adjustment as additional microphones are activated
+	 Last Mic Lock-On circuit that maintains ambient sound
+	 Adjustable low-frequency rolloff and high-frequency shelving for each channel
+	 Channel activation and clipping indicators
+	 Peak-responding output limiter with selectable thresholds and LED indicator
+	 Active balanced microphone-level XLR inputs and an active balanced Mic/Line level XLR output
+	 Aux-level input with manual level control
+	 Front-panel headphones output with level control
+	 Linking capability for up to 400 microphones
+	
+	OPERATING PRINCIPLES
+	The operating concept behind the SCM810/E Automatic Mixer is Shures patented* IntelliMix circuitry. IntelliMix delivers seamless automatic mixing by combining three separate functions:
+	 Noise Adaptive Threshold. Distinguishes between constant background noise (such as air conditioning) and changing sound (such as speech) for each input channel. It continuously adjusts the activation threshold so that only speech levels louder than the background noise activate a channel.
+	 MaxBus. Controls the number of channels that may be activated for a single sound source. One talker activates only one channel, even if multiple microphones hear that talker.
+	 Last Mic Lock-On. Keeps the most recently activated microphone open until another microphone is activated. Without Last Mic Lock-On, a long pause in conversation would cause all microphones to turn off, which would sound as if the audio signal had been lost. Last Mic Lock On ensures that background ambience is always present.
+

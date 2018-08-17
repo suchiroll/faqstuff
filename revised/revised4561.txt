@@ -1,0 +1,11 @@
+Title: QLX-D transmitter - NiMH AA battery recommendation
+Id: 4561
+Legacy Id: 5686
+
+Question:
+Will the QLXD2 work with standard NiMH AA batteries?
+
+Answer:
+
+	The battery fuel gauge on the QLX-D transmitters is optimized for the SB900A rechargeable battery packor AA alkaline cells.It is OK to use NiMH cells but the battery fuel gauge may not be accurate.
+

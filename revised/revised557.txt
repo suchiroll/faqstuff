@@ -1,0 +1,11 @@
+Title: T4N or T4V difference?
+Id: 557
+Legacy Id: 568
+
+Question:
+Is there any difference in the T Series receivers T4N and T4V apart from the size, (T4V is bigger) and outputs (T4N has both on the back of the unit).
+
+Answer:
+
+	There is a technical difference in the RF receiver section. The older T4V uses an RF diversity circuit known as MARCAD. The newer T4N uses an RF diversity circuit known as predictive diversity. The difference in performance between these two designs should be minimal.
+

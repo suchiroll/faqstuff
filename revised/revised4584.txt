@@ -1,0 +1,65 @@
+Title: Coordinate existing wireless using Wireless Workbench 6 tutorial
+Id: 4584
+Legacy Id: 5711
+
+Question:
+I have several wireless system. How do I coordinate the frequencies so that they do not interfere with each other?
+
+
+Answer:
+
+	The Wireless Workbench 6 (WWB) software can be used to coordinate frequencies for your systems. Wireless Workbench 6 can be downloaded for free and works on both Windows and Mac.
+	
+	This tutorial will explain how to perform frequency coordination for wireless systems that are offline (not networked to the computer) and that you already own.
+	
+	As an example, let's say we have the following systems in the 61550 zip code:
+	
+	6 SLX systems in the H5 band
+	6 QLXD systems in the G50 band
+	5 PSM 900 systems in the G6 band
+	
+	Step 1: First, we need to add all of our wireless systems. After opening WWB, select the Frequency Coordination tab.
+	
+	
+	
+	Step 2a: Select the Manufacturer, Model, and Band. For our example, select "Shure", "SLX" and "H5".
+	
+	
+	
+	Step 2b: We have 6 SLX systems in the H5 band, so enter "6" as the "Quantity" (purple arrow). Click on the "Add" button (blue arrow). This will add the SLX systems to our Inventory. Repeat Steps 2a and 2b for the QLXD and PSM 900 systems.
+	
+	
+	
+	Step 2c: Once we have added all of our systems, our list will have all of the wireless systems listed (red box).
+	
+	
+	
+	Step 3: Now that we have all of the systems added, we need to determine which television stations are active in our zip code so the wireless systems avoid them. Click on the "Spectrum" tab and then click on the setup icon next to "TV Channels" label (red arrows). Enter our zipcode (61550, for this example) and click "Search" (green arrows). Leave the Radius at 50 miles for most applications. The active television stations will populate in the list (green box). Click "SAVE".
+	
+	
+	
+	Step 4: Click on "Calculate"
+	
+	
+	
+	Step 5: The results will come up and if all of the rows are green (red box) then enough available frequencies have been calculated. Once you are done calculating, you can choose the "Save" icon or "Create Coordination Report" icon (red arrows) (see step 6 for explanation).
+	
+	
+	
+	Step 5a: If any of the rows are red, WWB was not able to find the number of frequencies that we requested.
+	
+	
+	
+	We can try to change the "Compatibility Level" to "More Frequencies" to see if that helps. Click on the system header (green arrow). Click on the Compatibility Tab and select "More Frequencies" (red arrows). Click on "Calculate". If we still are not able to get the number of frequencies that we need, we then need to reduce the number of systems in that band in the list. We have simply maxed out the capability of that system and band in this zip code.
+	
+	
+	
+	Step 6a: Clicking the "Create Coordination Report" icon allows us to either print the frequency list or export the frequency list as a PDF report.
+	
+	
+	
+	Step 6b: Clicking the "Save" icon, saves this equipment list and coordination for later.
+	
+	
+	
+	Step 7: Use the PDF print out from step 6a to manually set the frequency or Group/Channel of the wireless systems. Keep a printout of the calculated frequencies next to the equipment, just in case you need to refer to it.

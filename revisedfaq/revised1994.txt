@@ -1,0 +1,42 @@
+Title: WA302 Wiring diagram
+Id: 1994
+Legacy Id: 2057
+
+Question:
+Please could you send me the wiring diagram of the WA302 Tiny QG to 1/4" connector.
+
+
+Answer:
+
+	
+
+	
+		
+			
+				1/4 Phone Plug
+			
+				Tiny QG Connector (TA4F)
+		
+		
+			
+				Tip (Red and Black)
+			
+				Pin 3
+		
+		
+			
+				Sleeve (Shield)
+			
+				Pin 1
+		
+		
+			
+				
+			
+				Pins 2 and 4: not connected
+		
+	
+
+
+	
+

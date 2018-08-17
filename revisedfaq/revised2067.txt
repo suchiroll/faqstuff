@@ -1,0 +1,17 @@
+Title: Vocal Mic for use with Trace Elliott Acoustic 50R Digital Amp and Taylor 814C
+Id: 2067
+Legacy Id: 2133
+
+Question:
+I own A Taylor 814C Acoustic Guitar with a Fishman on board blender through a Trace Elliott 50R Acoustic Digital Amplifier. I use the setup at home and for small club use (up to 50 people). I know precious little about amplification and microphones and woud like some advice on what microphone to consider. I want to run the Mic through the Trace Elliott as well as the guitar. The type of guitar/vocal sound I want is James Taylor / Paul Simon etc.
+
+
+Answer:
+
+	Consider the following vocal mics:
+
+	KSM9
+	Beta 87A
+	Beta 58A
+	SM58
+

@@ -1,0 +1,32 @@
+Title: Converting the WH20TQG into a wired WH20
+Id: 3026
+Legacy Id: 3156
+
+Question:
+I have a Shure WH20 TQG headset mic with a 4 pin TA4F connector on it. I'm looking to make an adaptor up so I can use this mic as a wired mic.
+
+
+Answer:
+
+	This can be done. Fabricate the adapter as follows:
+	
+	1) TA4M connector will mate with TA4F connector on WH20 cable.
+	
+	2) Male XLR will mate with the female XLR on a mic cable.
+	
+	3) Wire as follows:
+	
+	TA4M pin 1 to cable shield to male XLR pin 1
+	
+	TA4M pin 2 - unused
+	
+	TA4M pin 3 to cable inner conductor to male XLR pin 2
+	
+	TA4M pin 4 - unused
+	
+	Wire a jumper from male XLR pin 3 to male XLR pin 1
+	
+	NOTE WELL: When using this adapter, make certain the mixer input does NOT provide phantom power. If it does, the WH20 may be damaged.
+	
+	Using this adapter the WH20 will provide a low impedance, unbalanced mic level signal. If you encounter noise interference problems because the signal is unbalanced, insert a 150 ohm / 150 ohm (XLR in / XLR out) isolation transformer at the end of the adapter. This transformer will also protect the WH20 from phantom power.
+

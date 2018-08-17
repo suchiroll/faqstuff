@@ -1,0 +1,12 @@
+Title: Shure headphone/earphone MMCX connectors
+Id: 4162
+Legacy Id: 5074
+
+Question:
+I have read that the MMCX connectors used to attach the cable to the earpieces on the new SRH-1840 headphones, are the exact same part as used for the SE215 and SE535 earphones, and so cables made for the earphones should work with the headphones, as well as vice versa. So, is this true that they are the same connectors?
+
+
+Answer:
+
+	While both SRH series headphones (1440, 1840) and SE earphones do use a MMCX connector, we do not recommend interchanging the cables. The plastic over molds were designed for the specific products and in some cases , the over mold may not fit into the receptacle. In other cases, it may fit but since the earphone cables use a formable wire for the ear, it may not be practical to use these cables for the headphones.
+

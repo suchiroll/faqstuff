@@ -1,0 +1,38 @@
+Title: MX692 Batteries /Chargers /Life
+Id: 3100
+Legacy Id: 3233
+
+Question:
+I have 7 MX692/C Boundary Mics. I use three different brands of off the shelf NiMH batteries. I cannot get more than 1 hour of use out of them. I have found some High-Output 9v NiMh batteries at 9.2 - 9.6v 220 - 270 mAH. 1- Can you give me some guidance regarding batteries in these units? 2- Should I be considering these Hi-Output batteries? 3-Do chargers matter?
+
+
+BRANDS:
+
+-------
+
+POWEREX 9.6v 170mAH
+
+ANSMANN 9v 250mAH
+
+CTA 9v 275mAH
+
+TYSONIC 9.2v 250mAH
+
+iPower 9.6v 220mAH Instant Burst
+
+
+Answer:
+
+	The MX692 draws about 0.060 amps (60 milliamps) with a fresh 9 volt battery. This equals 0.54 watts of power consumed (voltage times current equals power).
+	
+	Typically, the battery with the highest current rating should last the longest in the MX692. For example, the CTA battery at 275maH should power the MX692 for 4 hours (275 divided by 60 equals 4.6 hours). However, this assumes that the battery maintains 9 volts the entire time...which it does not. Once the battery falls below about 7.2 volts, the MX692 circuit will not operate properly.
+	
+	So the battery must be able to provide greater than 60 milliamps AND greater than 7.2 volts in order for the MX692 to operate.
+	
+	The key battery spec is called a power discharge curve, i.e., how long can the battery supply 0.54 watts of power to keep the MX692 happy. Many rechargeable battery makers do not publish this curve, because the curve does not look good...the battery works OK with the voltage is high, but begins to weaken quickly as the voltage falls.
+	
+	If you cannot get the power discharge curve, then you only option is to audition the different types of batteries to see which give the best performance.
+	
+	Here is a white paper on this subject:
+	Batteries and wireless microphones
+

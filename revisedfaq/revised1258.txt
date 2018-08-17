@@ -1,0 +1,16 @@
+Title: Volume control for Beta 58 mic
+Id: 1258
+Legacy Id: 1305
+
+Question:
+Looking for a volume control attachment or schematic for volume control for a Beta 58 Mic.
+
+
+Answer:
+
+	As a general rule, it is not a good idea to add a volume control to a mic level signal. As the signal is very small (about 1 millivolt), any microscopic contamination in the volume potentiometer will cause the mic signal to sound scratchy when the volume control is activated.
+	
+	If you want to attempt this project anyway, place a 5k ohm audio taper pot across pins 2 and 3 of the mic output. The output is taken from the pot wiper terminal and from the pot terminal connected to pin 3. Make certain that the pot is placed in a properly shielded/grounded metal enclosure to avoid unwanted hum.
+	
+	This is not an easy project due to the minuscule output signal from the microphone. Good luck. Dont say we didnt warn you.....
+

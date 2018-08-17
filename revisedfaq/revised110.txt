@@ -1,0 +1,20 @@
+Title: Disabling SCM810 Automatic Mixing Function By Channel
+Id: 110
+Legacy Id: 110
+
+Question:
+How do I disable the automatic mixing features of one channel of the SCM810? I want to plug a CD player into a channel, but I don't want it to be part of the automatic mixing.
+
+
+Answer:
+
+	This modification removes a given channel from the IntelliMix automatic mixing circuitry, so that a source such as music can be played through a channel of the SCM810 without affecting the automatic mixing of the unmodified channels.
+	
+	Procedure:
+	1. Set the input slide switch to either Mic, Phantom, or Line to match the input device.
+	2. Modify the channels Override Input to On.
+	3. Short jumper X116 to remove the channel from the MaxBus.
+	4. Remove R1083 and R1084 to remove the channel from the Last Mic Lock-On Bus. (see PCB legend for component placements)
+	
+	You can also disable just the Last Mic Lock-On Bus by following instruction 4.
+

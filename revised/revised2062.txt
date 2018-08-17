@@ -1,0 +1,23 @@
+Title: Replacement for M75EC5
+Id: 2062
+Legacy Id: 2128
+
+Question:
+I've got a Vintage Gerrard 42M turntable with a Shure 75 EC cartridge that i believe needs servicing or replacing. The cartridge that I have says "SHURE M75EC5" on the bottom of it.
+
+
+Can you advise me on what to do?
+
+
+Attached is a photo of the cartridge, if it helps at all.
+
+
+Thanks much.
+
+
+Answer:
+
+	We suggest that you replace the cartridge as it is over 20 years old.
+	
+	We suggest the M92E.
+

@@ -1,0 +1,11 @@
+Title: Daisy chaining P4M Mixers
+Id: 899
+Legacy Id: 927
+
+Question:
+Can you Daisy chain 4 P4M Mixers using the 4 individual mic in/out connections, then run the mic lines from the last P4M in the chain out to the House mixer thus allowing for 4 separate uninterrupted mixes going to 4 separate transmitters without any mic line loss at all???
+
+Answer:
+
+	There will some loss of the mic signal, typically less than 2 dB. This slight gain loss can easily be made up by the mixing console.
+

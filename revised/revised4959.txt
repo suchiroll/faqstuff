@@ -1,0 +1,28 @@
+Title: Shure Sound Installer's Guide from 1975
+Id: 4959
+Legacy Id: 6224
+
+Question:
+Did Shure publish a sound installation guide in the 1970s?
+
+
+Answer:
+
+	Yes. The Sound Installers Guide was published in 1975, catalog number AL507. It is attached below as a PDF file.
+	
+	The contents:
+	Relative Loudness Levels of Common Sounds
+	dB to Voltage Ratio, dBM to dBV Conversion Factor
+	dB to Power Ratio
+	Microphone Power Rating, Voltage, and Impedance
+	Microphone Output Voltage, dB SPL, and Voltage Rating
+	Amplifier Output Power, Voltage, and Load Impedance, Power Formula
+	Constant Voltage 70.7 and 25 Volt Speaker Load, Power to Impedance
+	Measuring Input and Output Impedances, Formulas and Test Circuits
+	Speaker Line Resistance, Length, and Gauge
+	Power Available at Speaker after Line Loss
+	Balanced Low Impedance Attenuator
+	Audio Connector Wiring (3 Pin XLR and Phone Plug)
+	
+	The Sound Installers Guide supported the Shure SR (Sound Reinforcement)product line of mixers, power amps, crossovers, equalizers, and loudspeakers.
+

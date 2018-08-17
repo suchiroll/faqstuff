@@ -1,0 +1,14 @@
+Title: Tone Generator with remote switch operation
+Id: 4283
+Legacy Id: 5351
+
+Question:
+I am seeking a tone generator with a line level output that can be operated with a remote switch. The audio signal from the generator will connect into the paging system via a Shure mixer. The audible tone will be used as an alert signal.
+
+
+Answer:
+
+	Sorry, Shure does not make such a device, but Vikings Electronics does. The model is MTG-10; multi-tone generator.
+
+	www.vikingelectronics.com
+

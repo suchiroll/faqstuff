@@ -1,0 +1,12 @@
+Title: Antenna distribution for 2 SLX wireless receivers
+Id: 2954
+Legacy Id: 3081
+
+Question:
+I want to rack 2 SLX receivers and bring the antennas to the front of the rack. What do I need to be able to do that?
+
+
+Answer:
+
+	Rack the two SLX receivers side by side and passively combine the antennas, using the UA221. When racking two receivers side-by-side, there is enough room to bring the antennas to the front in that same rack space. Use the antenna cables supplied with the SLX receiver.
+

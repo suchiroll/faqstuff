@@ -1,0 +1,19 @@
+Title: Old SM58 internal connections ...no red dot.
+Id: 2031
+Legacy Id: 2096
+
+Question:
+The yellow and green wires on an old SM58 have broken from their soldier points and there is no indicative red dot. One lead is labeled with an "A" and the other is labeled with an "RF". What is the correct way to wire these?
+
+
+---- 11/19/2001 02:19 PM ----------------------------------------------
+
+No, They are broken at what I think may be called the coded terminal, inside the microphone body.
+
+
+Answer:
+
+	Please clarify. Are the wires in question broken from the XLR output connector?
+	
+	At 11/19/2001 02:45 PM we wrote - Green wire to A terminal. Yellow wire to RF terminal.
+

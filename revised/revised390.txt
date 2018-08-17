@@ -1,0 +1,22 @@
+Title: What is a direct box?
+Id: 390
+Legacy Id: 397
+
+Question:
+What is a direct box and what is it used for?
+
+
+Answer:
+
+	A direct box is used to convert an unbalanced, high impedance signal (such as an electric guitar signal) to a balanced, low impedance signal, similar to a typical microphone level signal. This low impedance signal is then sent to the PA mixer and/or recording mixer.
+	
+	The unbalanced, high impedance device typically uses 1/4 phone plug connectors. The output to the mixer is typically XLR connector. A direct box will also have a loop through for the unbalanced, high impedance signal. A direct box can be passive (does not require any power source) or active (requires a power source). Also, a direct box will provide some isolation between the instrument and the mixer.
+	
+	A direct box is most often used for guitars or keyboards. By placing a direct box between the guitar output and the guitar amplifier, the guitar signal can be sent to both the guitar amp and the mixer, while also providing isolation between the guitar amp and the mixer.
+	
+	To summarize, a direct box will balance, isolate, and convert an unbalanced, high impedance signal to a balanced, low impedance signal.
+
+	
+
+	View the Type 85 Direct Box
+

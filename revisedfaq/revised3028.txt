@@ -1,0 +1,12 @@
+Title: SLX Scanning Feature Operation
+Id: 3028
+Legacy Id: 3158
+
+Question:
+When using the autoscan feature of the SLX receiver, the method of scanning (e.g. which channels are searched/chosen first) was not apparent. The unit appeared to grab higher channels first - is this normal?
+
+
+Answer:
+
+	Yes.
+

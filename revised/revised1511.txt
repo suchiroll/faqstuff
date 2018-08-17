@@ -1,0 +1,14 @@
+Title: How do I connect a headset to a bodypack?
+Id: 1511
+Legacy Id: 1565
+
+Question:
+Where can I find a wiring diagram for conecting a headset mic to the LX series body pack?
+
+
+Answer:
+
+	For the pinout of Shure bodypacks:
+	
+	Pin-out for Shure bodypack transmitters and preamps - TA4M / TA4F
+

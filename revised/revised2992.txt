@@ -1,0 +1,40 @@
+Title: PSM700 Dropouts at close range
+Id: 2992
+Legacy Id: 3120
+
+Question:
+In using a P7T in MixMode with two P7R (panned hard L  hard R, respectively) for two independent mono mixes, we are experiencing frequent dropouts / inability to sync to the RF at all, at times on only one of the the two receivers.
+
+
+This is a short range application (rehearsal space) where the problem receiver is on the drummer.
+
+
+Stage space is approximately 12' deep by 15' wide.
+
+
+P7R #1 with dropout problems (drummer) is upstage center.
+
+P7R #2 with NO dropout problems (lead vocalist) is downstage center.
+
+
+P7T is at the console which is between downstage center and downstage left (on the downstage edge).
+
+
+The distance between the transmitter and furthest receiver is only roughly 12'.
+
+
+Could you suggest any solutions to remedy these problems?
+
+
+Thank you for your reply in advance! You're always extemely helpful.
+
+
+Answer:
+
+	This may sound difficult to believe, but it is very likely that the drummer is TOO close to the transmitter and the signal is overloading his receiver. RF overload can cause dropouts.
+	
+	The solution is simple. Purchase a 50 ohm, BNC to BNC, RF attenuator. Connect the P7T RF output to the attenuator and the other side of the attenuator to the P7T antenna.
+	
+	The exact amount of attenuation cannot be predicted; typically 10 dB works well. Purchase from www.pasternack.com as part number PE7000-10. (There may be other sources than Pasternack.)
+	
+	Other attenuation values that may prove useful are 3 dB, 6 dB, and 20 dB.

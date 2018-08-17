@@ -1,0 +1,18 @@
+Title: Mics for a personal computer
+Id: 355
+Legacy Id: 362
+
+Question:
+Do you make a high quality, omni-directional microphone for PC applications? (perferable wih cable and 3.5mm plug)?
+
+
+Answer:
+
+	None of our computer microphones are omnidirectional, but here are some professional omni mics that would work:
+	
+	Handheld: SM63 or VP64
+	Lavalier: MX183
+	Boundary: MX391
+	
+	To connect a professional microphone to a computer requires the use of a professional interface, such as the Shure MVi.
+

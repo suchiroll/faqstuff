@@ -1,0 +1,135 @@
+Title: UA864US antenna mounting scheme and plenum rating
+Id: 4361
+Legacy Id: 5448
+
+Question:
+How do I mount the UA864US antenna? Is it plenum rated?
+
+
+Answer:
+
+	The UA864US in NOT plenum rated. It shall not be installed in a plenum air supply or plenum air return.
+	
+	The UA864US includes a removable mounting plate. The mounting plate can be attached with screws to an electricalbox, drywall, wood or a dropped ceiling (screws not included). Note that the UA864US is a polarized antenna. Refer to the User Guide for advice on how to orient the antenna when mounted.
+	
+	The UA864US shall not be installed within an enclosure made of metal or metal screening, as the metal material will block or severely attenuate the RF signals attempting to reach the UA864US antenna. It is feasible that non-metallic enclosures designed for Wi-Fi transponders may be satisfactory for the UA864US, but Shure has not tested such enclosures: Wi-Fi Transponder Enclosures
+	
+	At the bottom of this FAQ is a PDF template with the screw holes of the mounting plate. Print the PDF with No Scaling, and the printout will be the correct dimensions.
+
+
+	Electrical Box
+
+	Feed the coax cable through the electrical box.
+
+	   
+
+	Mount the bracket to the electrical box using #6-32 screws (not included).
+
+	   
+
+	Using a 9/16 wrench, remove the nut that holds the female BNC to the mounting flange.
+
+	   
+
+	Connect the coax pigtail to the coax cable.
+
+	   
+
+	Feed the BNC connectors back into the electrical box and mount the UA864US to the bracket.
+
+	  
+
+	
+	
+		Drywall
+
+
+	
+		Hold the bracket up to the wall and mark the location for the screws.
+	
+		  
+	
+		Drill holes and install drywall anchors into the drywall.
+	
+		  
+	
+		Mount the bracket to the drywall anchors using #8 screws (not included).
+	
+		  
+	
+		Connect the coax cable to the UA864US and mount the UA864US to the bracket.
+	
+		  
+
+
+	
+
+	
+	
+		Wood Paneling
+	
+		
+	
+		Hold the bracket up to the wall and mark the location for the screws.
+	
+		  
+	
+		Drill 3/32 pilot holes.
+	
+		  
+	
+		Mount the bracket to the wall using #8 screws (not included).
+	
+		  
+	
+		Connect the coax cable to the US864US and mount the US864US to the bracket.
+	
+		  
+	
+		
+		
+			Mic Stand
+	
+	
+		On-Stage offers adapters to bolt the mounting plate to a mic stand. TheCM01andUM01both utilize a 1/4-20 bolt on them. Purchase a 1/4-20 nut from a local hardware store.
+	
+		
+	
+		
+	
+		
+		
+			Ceiling Tile
+		
+			Use the mounting bracket to mark the location of two screw holes and the cable entrance on the ceiling tile. Drill two small holes for #6 screws into the ceiling tile to attach the mounting bracket. Drill or cut a larger opening for the cable. Attach the mounting bracket to the ceiling tile. Make certain to use large fender washers or a large metal plate on the back side of the ceiling tile to support the weight of the antenna. In the picture, we simply drilled a couple holes into an old rack mount bracket.
+		
+			
+		
+			Front side of ceiling tile.
+		
+			
+		
+			
+		
+			Back side of ceiling tile with fender washers or metal plate. The square hole is for the cable to run through.
+		
+			
+		
+			
+		
+			Use lock nuts or blue Locktite on standard nuts to make certain the nuts do not loosen with any vibration.
+		
+			
+		
+			Run the cable through the hole, attach it to the antenna and attach the antenna to the mounting bracket.
+		
+			
+		
+			
+	
+	
+		
+
+
+	
+

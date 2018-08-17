@@ -1,0 +1,11 @@
+Title: Mount MXA910 in drywall ceiling
+Id: 4960
+Legacy Id: 6225
+
+Question:
+How do I install the MXA910 in a drywall ceiling?
+
+
+Answer:
+
+	The A910-HCM Hard Ceiling mount can be used to mount the MXA910 into a drywall ceiling.

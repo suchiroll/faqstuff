@@ -1,0 +1,36 @@
+Title: Dual 721 turntable
+Id: 1413
+Legacy Id: 1466
+
+Question:
+Have old tuntable DUAL 721. I need a new cartridge and not sure what type of tonearm I have? Had a 200e but it seems to be dead. What do you recommend I replace the old cartrige with?
+
+
+
+Answer:
+
+	As it is an impossible task to keep specifications on every turntable manufactured in the world, we cannot offer specific cartridge recommendations based on the turntable model. So to find a compatible phono cartridge for your turntable, you will need to know the cartridge mounting method and the tonearm tracking force range.
+	
+	Unless the turntable is very inexpensive or very esoteric, the cartridge mount will be one of the following two types:
+	
+	1) Standard Mount - by far the most common
+	Two screws, half an inch apart, thread through the cartridge body to secure it to the headshell, which then plugs into the tone arm.
+	
+	2) P-mount - Primarily on Technics brand turntables
+	The four prongs at the back of the cartridge plug directly into the tone arm. A set screw goes through the side of the cartridge at the back, to hold it in place on the tone arm.
+	
+	The other important turntable specification is the tracking force range of the tonearm. This is typically given in grams, e.g., 1 to 4 grams tracking force.
+	
+	Using the mounting method and the tracking force as your guide, look at the Shure line of phono cartridges. In descending levels of sound quality, we have the following phono cartridges available:
+	
+	Cartridge - Application - Mounting type
+	M97XE - audiophile - standard
+	M92E - versatility - both
+	M78S - 78 RPM - standard
+	
+	Monophonic cartridge for playing wide-groove / 78 RPM records: M78S
+	
+	The N78S replacement stylus will work in any of the above cartridges, providing them with wide-groove / 78 RPM record playback capability.
+	
+	Shure also offers phono cartridges for professional DJ use. All DJ cartridges are standard mount, but these are not recommended for home audio use.
+

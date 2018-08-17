@@ -1,0 +1,13 @@
+Title: Voltage and current rating for PS21 power supply
+Id: 3766
+Legacy Id: 4002
+
+Question:
+I need to know the voltage and mA rating for a PS21 power supply.
+
+
+Answer:
+
+	DC output is 12V with a maximum current draw of 400 mA.
+	
+

@@ -1,0 +1,23 @@
+Title: SM10A microphone output level with USB Pre
+Id: 1807
+Legacy Id: 1867
+
+Question:
+Recently I purchased a Sound Devices USB Pre and a Shure SM10A microphone. The mike worked fine while I was going through my Mackie 1402-VLZ mixer into the line input of a Gateway 9100 laptop. The signal to noise ratio was quite acceptable as the sound floor stayed at about -50. Now with that mike plugged directly into the USB Pre the best sound floor I can get is about -30 and that isn't acceptable in my line of work.
+
+
+The USB Pre works great with a Electrovoice N/D 357B plugged into it for the sound floor stays at about -60. If either of you have recommendations please let me know as a head worn mike is extremely helpful in my recording environments!
+
+
+Answer:
+
+	The output level of the SM10 is 15 dB less than the EV 357B. This is due to the much smaller magnet used in the SM10.
+	
+	Your options are:
+	
+	1. Insert a mic preamp between the SM10 and the USB Pre.
+	
+	2. Ask Sound Devices if the USB Pre can be modified for more gain.
+	
+	3. Use a step-up transformer like the Shure A96F if the input impedance of the USB Pre is 10,000 ohms or greater.
+

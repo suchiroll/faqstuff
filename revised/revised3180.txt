@@ -1,0 +1,33 @@
+Title: Isolation of Shure earphones and NRR rating
+Id: 3180
+Legacy Id: 3320
+
+Question:
+How much sound isolation do Shure earphones provide?
+
+
+Answer:
+
+	Shure earphones do not carry a NRR rating and are not meant to be used as a hearing protection device. AN NRR rating is measured on a different scale than the figures given below.
+	
+	Shure earphones provide between 29 dB and 37 dB of isolation. Sound isolation is dependent on the shape of the ear canal, the sleeve used, the earphone model, and the fit. A secure acoustical seal in the ear canal is vital for the best sound isolation. As every ear canal is different, an accurate noise isolation rating can only be measured; it cannot be accurately predicted.
+	
+	Measurements from past models:
+	E2C, E2G, E2C-N, I2C Earphones
+	Yellow foam sleeves: 31dB (88% of ambient noise)
+	Clear sleeves: 29 dB (87% of ambient noise)
+	
+	E3C, E4C, E5C, I3C, I4C, E3G, E4G Earphones
+	Gray Soft Flex: 30 dB (90% of ambient noise)
+	Yellow foam Sleeves: 37 dB (93% of ambient noise)
+	
+	All measurements taken from tests done atan independentLabon isolation vs. noise canceling.
+	The following products were also tested:
+	Bose QC2: 20dB (77%)
+	Sennheiser PXC-250: 11dB (58%)
+	Sony MDR-NC20: 8 dB (40%)
+	
+	Our newer Black foam sleeve that ships with the SE model earphones will perform as well, if not better, then the yellow foam.
+	
+	Click Below on the attachment for the press release about the study that compared the attenuation of Shure earphones and competitors earphones.
+

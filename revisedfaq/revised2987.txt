@@ -1,0 +1,32 @@
+Title: SM7B Output Level and Preamp Gain Specifications
+Id: 2987
+Legacy Id: 3115
+
+Question:
+How much gain should the mic preamp have to work properly with the SM7B?
+
+
+Answer:
+
+	The SM7 (SM7A, SM7B) is a dynamic microphone. A typical dynamic mic has a lower output level than a typical condenser mic. For example, the dynamic SM7 has an output level that is 28 dB (!) less than the condenser KSM44 [cardioid setting].
+	
+	When selecting a preamp for the SM7 for voice-over work, make certain the preamp has a minimum 60 dB of gain. Heres why:
+	
+	a) With an acoustic input of 84dBSPL - typical speech level at 3 inches, the output level of the SM7 is -69dBV.
+	
+	b) The mic preamp must increase the mic signal level up to about 0dBV - line level.
+	
+	c) -69dBV of mic signal, increased by +60dB of preamp gain, equals an output level of -9 dBV. Not quite to the 0 dBV level, but close enough to work with most line level inputs.
+	
+
+	Many modern mic preamps assume the mic is a condenser mic with a hot output level. Thus, it is common to find mic preamps or mic mixers with gains of only 40 to 50 dB. This is not enough gain to bring the SM7 signal up to line level. One example of a mic preamp with sufficient gain: Grace M101; www.gracedesign.com. Or the Radio Design Labs model HR-MP2A; www.rdlnet.com
+	
+	Another useful device for the SM7 is the Cloudlifter phantom-powered preamp. There are several models.This preampprovides 20/25 dB of fixed gain and uses phantom power as its power source; www.cloudmicrophones.com
+	
+	There is a superb USB mic preamp with sufficient gain from Sound Devices: USB Pre 2; www.sounddevices.com
+	
+	In June 2012, an online site that reviews pro audio products recommended the following preamps/interfaces for the SM7:
+	M-Audio Fast Track C400
+	Focusrite Scarlett 8i6
+	http://recordinghacks.com/2012/06/18/sm7b-audio-interface-shootout/
+

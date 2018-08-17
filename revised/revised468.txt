@@ -1,0 +1,21 @@
+Title: Wireless Systems for a Piano
+Id: 468
+Legacy Id: 478
+
+Question:
+Which wireless systems would you recommend for a piano?
+
+At 11/29/2000 11:18 AM you wrote - This is a baby grand acoustic piano.  The client has no way to retrofit a mic jack for this piano, and likes the idea of being able to move the piano around, unconstrained by a microphone cord.
+
+Answer:
+
+	At 11/29/2000 10:49 AM we wrote -
+	
+	To fully answer your question, I need more details. Is this for an acoustic piano, or to send the signal from a player piano somewhere else? What is the application?
+	
+	At 11/29/2000 11:29 AM we wrote -
+	
+	The best solution for a wireless piano is to mount a surface mount microphone under the lid, connected to a bodypack transmitter. Any wireless system will work, but if you only need one wireless at the location, the Shure PG or PGX series systems should be fine (either the PG14 or PGX14 system).
+	
+	For a microphone, the Shure Beta91 can be easily mounted under a piano lid, using Velcro or double-sided tape. Instead of using the supplied preamp, connect the microphone directly to the input of the bodypack.
+

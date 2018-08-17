@@ -1,0 +1,20 @@
+Title: MX392 versus MX393; MX392 wiring scheme
+Id: 2137
+Legacy Id: 2208
+
+Question:
+What is the difference between the MX392 and MX393? Besides the cable not being terminated, your catalog says logic input/output capability. What does the logic offer me?
+
+
+Answer:
+
+	The LED on the MX392 can be controlled remotely via two conductors in the MX392 cable. Orange wire is LED In; Green wire is Logic Ground. When Orange is connected to Green, the LED will illuminate. NOTE: The operating voltage/current for the LED is supplied by phantom power...not by the Orange LED In wire.
+
+	
+
+	The switch on the MX392 can provided a TTL signal change at the end of the MX392 cable. White wire is Switch Out; Green wire is Logic Ground. When the MX392 switch is pressed, the White changes from +5 Vdc to 0 Vdc in relation to the Green. When the MX392 switch is released, the White changes from 0 Vdc to +5Vdc in relation to the Green.
+
+	
+
+	If neither feature aboveis of interest, use the MX393.
+

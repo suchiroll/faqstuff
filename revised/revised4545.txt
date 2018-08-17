@@ -1,0 +1,11 @@
+Title: Shure / Countryman mics with QLX-D or ULX-D
+Id: 4545
+Legacy Id: 5668
+
+Question:
+Will the Countryman mics, sold by Shure, work with ULXD or QLXD?
+
+Answer:
+
+	The answer is yes for ULX-D or QLX-D according to Shure wireless product management.
+

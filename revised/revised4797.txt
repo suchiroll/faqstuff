@@ -1,0 +1,12 @@
+Title: OEM Microphone CB9AJ
+Id: 4797
+Legacy Id: 5983
+
+Question:
+What is the microphone?
+
+
+Answer:
+
+	It was made by Shure for Federal Signal. It consisted of a carbon mic element in the outer housing of the Shure model 201. The housing was black plastic with a red push-to-talk switch button.
+

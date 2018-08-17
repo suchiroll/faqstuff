@@ -1,0 +1,21 @@
+Title: Difference between electret condenser and true condenser microphones
+Id: 713
+Legacy Id: 731
+
+Question:
+What is the difference between a condenser and electret microphones?
+
+My son and I have a difference in opinion. I said that they are very much the same. Except one needs a bias supply for the elements and the electret has a charge on one of the plates there for not needing the bias supply. I guess there maybe some other differences and that is why he thinks the condenser mike is better.
+
+
+
+Answer:
+
+	The electret is a type of condenser microphone. There are two types of condenser microphones: a permanently biased condenser, usually called an electret condenser, and an externally biased condenser, usually called a true condenser. These days, when people say condenser microphone, they usually mean, electret condenser microphone. Probably ninety-five percent of the condenser microphones on the market are the electret type.
+	
+	The electret has a charged backplate that is created when we manufacture the microphone. A true condenser, on the other hand, continuously requires an external charge. This external charge may come in the form of any external box attached to the microphone, or it may come from the electronics built into the housing of the microphone.
+	
+	Which is better? There are excellent microphones on the market that use both types of construction. They are simply different ways to achieve the same goal.
+	
+	One last note, do not get the bias for a true condenser element confused with the bias that is supplied by a wireless transmitter. The bias supplied by a wireless transmitter is needed to power up a small transistor located near an electret condenser element. These two types of bias voltages are completely different.
+

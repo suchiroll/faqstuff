@@ -1,0 +1,26 @@
+Title: UR4 Heat Dissipation
+Id: 3800
+Legacy Id: 4038
+
+Question:
+What is the heat dissipation of a UR4 wireless microphone receiver? We need to provide adequate cooling to accommodate several receivers in a closed cabinet.
+
+
+Answer:
+
+	The UR4 receivers utilize AC power for operation.   A high percentage of the power used is converted to heat.  So the heat dissipation of a UR4 receiver can essentially be calculated from the AC power consumed.
+	
+	There are several variables that can affect the exact power required by a receiver:
+	1 - Ambient temperature - power drawn will increase slightly with temperature.
+	2 - Active antenna system components, such as line RF amplifiers and amplified antennas can optionally be powered from the antenna   terminals on the receiver.
+	3 - Audio level - current required by LED level indicators, the headphone amplifier, and the line driver can cause small variations in the required power.
+	
+	Here is typical/maximum required AC power and estimated heat dissipation:
+	
+	UR4S Single Receiver Chassis
+	     Typical power required:  18 Watts (~62 BTU/hr)
+	     Maximum power required:  21 Watts (~72 BTU/hr)
+	
+	UR4D Dual Receiver Chassis
+	     Typical power required:  24 Watts (~82 BTU/hr)
+	     Maximum power required:  27 Watts (~93 BTU/hr)

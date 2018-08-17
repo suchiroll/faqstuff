@@ -1,0 +1,14 @@
+Title: Mixer and Mic for Karoke
+Id: 1270
+Legacy Id: 1318
+
+Question:
+I'm looking for a mixer to use in the karaoke system I am building. Can you recommend one for me to use? I'd like it to be a small mixer in size and light in weight. Also can you recommend a good Microphone to use.
+
+
+Answer:
+
+	Consider the SCM262 mixer.
+	
+	For the microphone, consider the SM58.
+

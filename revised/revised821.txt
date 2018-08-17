@@ -1,0 +1,53 @@
+Title: Lemo 4 pin connector for Shure UC1 or U1L wireless bodypacks
+Id: 821
+Legacy Id: 843
+
+Question:
+I am considering the purchase of a Shure UC or UHF wireless system for my church. It will be used with a Sennheiser MKE 104 microphone. From information on your website, I gather that the Shure bodypack transmitters areavailable with either a T4AF or a 4 pin LEMO connector. I am familiar withT4AF, but not with the LEMO. Details, please.
+
+
+Answer:
+
+	The Lemo connector that mates with a 4 pin Lemo-equipped Shure UHF transmitter is Lemo part: FFA.OS.304.CLAC42.
+
+	
+
+	The Lemo is offered because it is popular in theater applications. Though the Lemo is a superb connector, we favor the Tini QG connector as it is less expensive, widely available, and easier to wire than the Lemo.
+
+	
+
+	Here is a technical description of Lemo FFA.OS.304.CLAC42:
+
+	
+
+	Shell Style/Model: FFA - straight plug with a collet for the mic cable
+
+	
+
+	Size/Series: 0S - metal with a half-moon insert to assist proper alignment between the mating connectors; this plug has two male pins (numbered 1 and 2)and two female sockets (numbered 3 and 4)
+
+	
+
+	Number of Contacts: Four (the 4 in 304); wires are to be soldered to the contacts; recommended wire size is AWG 24 or smaller
+
+	
+
+	Housing Material: C - brass shell and collet nut, both chrome plated; nickel plated brass latch sleeve and mid-pieces
+
+	
+
+	Insulation Material: PEEK ( a semicrystalline polymerthermoplastic)
+
+	
+
+	Cable Strain Relief: C42 - will take cables with a diameter of 3.3 to 4.1 mm
+
+	
+
+	Dimensions: length - 34.5 mm; diameter - 9.0 mm
+
+	
+
+	For additional technical details, go to: www.lemo.com
+	
+

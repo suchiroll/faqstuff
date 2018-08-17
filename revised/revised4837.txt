@@ -1,0 +1,16 @@
+Title: Does DC 5980 P include button overlays?
+Id: 4837
+Legacy Id: 6023
+
+Question:
+Are button overlays included with the DC 5980 P portable discussion unit?
+
+
+Answer:
+
+	The DC 5980 P portable discussion unit is shipped with a Delegate button overlay with Speak, Mute, Language Selection, and Earphone Volume controls.
+	
+	Accessory DC5980PACC-DMOVRLY is a package of 10 Delegate overlays with Speak, Language Selection, and Earphone Volume controls only (no Mute).
+	
+	Chairman and Interpreter button overlays are sold separately.Accessory DC5980P-ACC-CM-IS includes 2 Chairman button overlays and 3 Interpreter button overlays.The Chairman overlays have Speak, All Delegates Off, Language Selection, and Earphone Volume controls. The Interpreter overlays have Speak, Mute, Language Channel Selection, and Earphone Volume controls.
+

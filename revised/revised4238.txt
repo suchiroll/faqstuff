@@ -1,0 +1,20 @@
+Title: BRH headphone use on PC
+Id: 4238
+Legacy Id: 5271
+
+Question:
+Is it possible to use the BRH31M connected to a computer? How would I wire up the connectors?
+
+Answer:
+
+	The output level of the BRH31M microphone is too low in level to connect directly to the computer. You will need to use the Shure X2u USB adapter.
+	
+	A male XLR and a stereo 1/8 connector will need to be soldered onto the cable. The BRH31M will need to be wired as follows:
+	
+	XLR Pin 1: Shield
+	XLR Pin 2: Red
+	XLR Pin 3: Black
+	1/8 Tip: Green
+	1/8 Ring: Green
+	1/8 Sleeve: White
+

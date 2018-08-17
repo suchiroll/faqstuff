@@ -1,0 +1,16 @@
+Title: 527C Microphone for a long cable run
+Id: 1999
+Legacy Id: 2062
+
+Question:
+We have a requirement for a microphone in a theme park application, the microphone could be located up to 100 metres from the equipment rack. Cable would be industrial type pulled through underground ducts. Because of the distance, the type of cable and the amount of electrical noise around the rides I would prefer to run the audio at line level to reduce risk of interference. Is the 527C suitable for this application (remote powered with dc voltage from the rack) or should I be looking at the 527B with a separate pre-amplifier.. or do you have any other suggestions? Thanks..
+
+
+Answer:
+
+	The 527C would be a good choice IF the output was balanced, but it is not. Plus the maximum recommended cable length is 30 meters, not 100 meters. (We assume the mic input at the rack will be balanced, preferably transformer balanced. If not, it should be.)
+	
+	We recommend the 527B and a separate preamp with a balanced output. Look at the preamps available from: http://www.rdlnet.com/
+	
+	Most of their products operate from 24 Vdc. That fact may prove useful to your design.
+

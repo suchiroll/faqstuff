@@ -1,0 +1,34 @@
+Title: 78 rpm styli
+Id: 162
+Legacy Id: 163
+
+Question:
+Is it possible to obtain a 78 rpm styli for an M7D cartridge? Are there any 78 rpm styli still available for any of your cartrdiges?
+
+
+Answer:
+
+	The M7D is a very old cartridge and Shure no longer offers a stylus for it. There may be third party suppliers that still have M7D styli. In the U.S., try The Needle Doctor at 800-229-0644.
+	
+	The record grooves of 78RPM records are significantly wider than 33RPM and 45RPM grooves. For this reason, 78RPM phono cartridges use a wider diamond stylus. Note the difference in these Shure styli: 2.5mm spherical tip for the N78S; 0.2mm x 0.7mm elliptical tip for the N97xE.
+	
+	Shure no longer offers a cartridge for 78 RPM playback. We used to offer the M78S, but it was discontinued in 2017. This M78S cartridge was designed for music lovers who wish to enjoy their irreplaceable 78 RPM collection.
+	
+	The N78S replacement stylus worked with these Shure cartridges:
+	
+	V15VxMR
+	M97xE
+	M94E
+	MP94E
+	M92E
+	M70BX
+	M78S
+	M111E
+	M91 Series
+	M92 Series (Pre 1975)
+	M35S
+	M35X
+	SC35C
+	M44-7X
+	M44GX
+

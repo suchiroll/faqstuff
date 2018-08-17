@@ -1,0 +1,20 @@
+Title: Miking a Djembe Drum
+Id: 2655
+Legacy Id: 2759
+
+Question:
+What is the best way to mike a djembe? Do you use one or two mikes? What kind do you recommend, and how would you attach the mike(s) to the Dejembe for a live performance (assuming you are standing up, without a Djembe stand).
+
+
+Answer:
+
+	A djembe is miked like other drums and percussion.
+	
+	1) For ideas on miking for live sound, and miking for recording, see the educational material at: Educational Articles - Online booklets and bulletins
+	
+	2) One mic is suggested. To see which microphones we recommend for various percussion instruments, see our online selection guide at: Selection Guides
+	
+	Auditioning the different mics with your instrument is the best way to decide what mic fills your musical need.
+	
+	3) Attaching the mic to the drum is not recommended because the mechanical vibration of the drum will be transferred directly into the mic. But if this is what you want to do, contact the company Latin Percussion; they offer unique devices for mounting mics to percussion instruments.
+

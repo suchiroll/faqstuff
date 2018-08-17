@@ -1,0 +1,14 @@
+Title: San Antonio Texas UHF Frequencies
+Id: 1142
+Legacy Id: 1180
+
+Question:
+Do you have a list recommending which frequencies are available in San Antonio, Texas. This City is not on the list and I've had trouble there before.
+
+
+Answer:
+
+	At 05/11/2001 04:54 PM we wrote - Please see the following link to our online FAQ:
+	
+	Which television stations should I avoid when using a wireless microphone?
+

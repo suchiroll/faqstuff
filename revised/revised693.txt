@@ -1,0 +1,14 @@
+Title: WH20 wiring to TA4F connector
+Id: 693
+Legacy Id: 710
+
+Question:
+I am removing the XLR connector from a WH20XLR headset in order to attach a TA4F connector (to use with a Shure wireless bodypack). What is the correct wiring?
+
+
+Answer:
+
+	The wiring diagram for the WH20 can be found in its User Guide.
+	
+	Pin out for Shure bodypacks
+

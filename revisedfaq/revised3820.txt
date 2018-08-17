@@ -1,0 +1,20 @@
+Title: HTS (Home Theater System) Manuals
+Id: 3820
+Legacy Id: 4058
+
+Question:
+I have an older HTS50 amplifier. Can I get a manual for it?
+
+
+Answer:
+
+	HTS50SPA Power Amplifier
+	HTS50CF Center Front Speaker System
+	HTS50SW Subwoofer System
+	HTS5000 Surround Audio Processor
+	HTS5000 Service Information
+	HTS5300 Theater Reference System
+	Sales Brochure
+	HTS5200 Sales Brochure
+	The Home as Theater
+	Guide to Stereosurround

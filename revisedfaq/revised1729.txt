@@ -1,0 +1,17 @@
+Title: Drum package customization
+Id: 1729
+Legacy Id: 1788
+
+Question:
+1.)Do you know if you would be able to throw together a drum mic package like the DMK57-52 Drum Microphone Kit but with 4 SM57's and 4 A56D drum mounting systems with a corresponding carrying case instead of 3 of each?
+
+
+2.)Also, how do the SM57's sound on floor toms (specifically, a 16x16 floor tom)?
+
+
+Answer:
+
+	1. Sorry, we do not offer custom packages.
+	
+	2. We cannot predict if you will like the sound of an SM57 on a floor tom. The choice of a mic is a subjective, personal choice. The SM57 is often used to mike floor toms, but that does not mean that you will like the sound. We suggest you audition an SM57 at a local Shure dealer.
+

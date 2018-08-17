@@ -1,0 +1,14 @@
+Title: WM98 cable with SM98 mic?
+Id: 929
+Legacy Id: 957
+
+Question:
+I have a Beta 98 which I use with a bell mount for playing sax. I just bought a WM98 to be used with a Shure SC4 wireless system. My question is, can I use the Beta 98 mic on the WM98 cable? Is the Beta 98 mic a better mic than the WM98?
+
+
+Answer:
+
+	The Beta 98 should work using the SC wireless system, just like the WM98 works. Simply substitute one mic for the other.
+	
+	No, the Beta 98 is not better than the WM98. They are of equivalent quality, but they do sound slightly different
+

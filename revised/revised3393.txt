@@ -1,0 +1,14 @@
+Title: Wireless Workbench 5.0 - "No SNet Devices Found"
+Id: 3393
+Legacy Id: 3582
+
+Question:
+I work at a college and was unable to connect to new UHF-R receivers using the USB port on my computer. I work in IT and am associated with a particular auditorium on campus. The hardware consists of 6 UR4D (twelve channels total). The receivers are networked via an ethernet switch (NOT a router). I manually set the IP addresses for all of the receivers. The receivers all showed the network icon. I installed a fresh copy of WWB5.0 on my PC (Windows XP Pro). I connected my PC to one of the receivers via a USB cable. When I opened the WWB5.0 software, the message "No SNet devices found" appeared. Now what do I do?
+
+
+Answer:
+
+	The solution is to uninstall WWB5.0 then reinstall WWB5.0. This supersedes old USB drivers with the new ones. It is still possible to use older versions of WWB (4.1, 4.2, and 4.3) when WWB5.0 is installed even though the new USB drivers are present. Dont install old USB drivers after installing WWB5.0.
+	
+	It turns out that afterthis customer installed WWB5.0, he had gone back to the Shure website and downloaded the legacy USB drivers (for WWB versions 4.1, 4.2, and 4.3). When he connected his computer to the UR4, the New Hardware Wizard went ahead and installed the old USB drivers. This appears to supersede the new WWB5.0 USB drivers resulting in no connectivity when using WWB5.0.
+

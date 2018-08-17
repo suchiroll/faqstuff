@@ -1,0 +1,20 @@
+Title: Using multiple MXA910 or MXA310 microphone arrays in a single room.
+Id: 4982
+Legacy Id: 6250
+
+Question:
+Can I use more than one MXA910 ceiling array or MXA310 table arrays in a room? How do they connect together?
+
+
+Answer:
+
+	Yes. Just like any other microphone, you may install multiples to cover a room.
+	
+	The audio output from multiple ceiling arrays (or table arrays) can be combined with a mixer or external DSP (i.e. SCM820, or QSC Qsys, or Biamp). Multiple arrays cannot directly share DSP resources with each other.
+	
+	The microphones cannot be daisy-chained together, but by installing a small network switch with PoE under the table or in a ceiling, multiple array microphones can be locally connected and then a single cable run from the switch back to a central location.
+	
+	Note that each microphone must be configured independently. At this time, the embedded software in the device does not allow for multiple devices to be configured from a single interface.
+	
+	Shure Designer software can be used allows multiple virtual MXA910 Ceiling Array Microphones to be configured in one tool. Arrange pickup lobes over a room diagram for precise coverage; import saved settings to each MXA910 on site.
+

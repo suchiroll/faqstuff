@@ -1,0 +1,183 @@
+Title: Transformers - When to use and how does it work?
+Id: 1222
+Legacy Id: 1266
+
+Question:
+When should I use a transformer in audio? What is a transformer? How does it work?
+
+
+Answer:
+
+	Audio Transformers
+
+	Audio transformers can: 1) Step up (increase) or step down (decrease) a signal voltage; 2) Increase or decrease the impedance of a circuit; 3) Convert a circuit from unbalanced to balanced and vice versa; 4) Block DC current in a circuit while allowing AC current to flow; 5) Electrically isolate one audio device from another. While transformers are useful in other applications, this paper deals only with audio usage.
+
+	
+
+	What is a transformer?
+	A transformer is an electrical device that allows an AC input signal (like audio) to produce a related AC output signal without the input and output being physically connected together. This is accomplished by having two (or more) coils of insulated wire wound around a magnetic metal core. These wire coils are called windings. When an AC signal passes through the input winding (the primary), a related AC signal appears on the output winding (the secondary) via a phenomenon called inductive coupling. By changing the number of wire turns in each winding, transformers can be manufactured to have various impedance ratios. The ratio between the input and output impedances provides a gain or loss of signal level as the signal passes through the transformer. Transformers are bidirectional so that an input winding can become the output winding and an output can become an input. Because of a transformers bidirectional nature, it can provide a gain in signal level when used in one direction or a loss when used in reverse.
+
+	Transformers can be manufactured with multiple primary or secondary windings. A winding can also have multiple connections or taps. Multiple taps offer different impedances along with different gains/losses.
+
+	
+		
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				Picture of a Transformer
+			
+				Electrical Diagram of a Transformer
+			
+				Multiple Windings
+			
+				Multiple Taps
+		
+	
+
+
+	
+
+	What types of audio transformers exist?
+	There are two basic types of audio transformers with each having multiple functions:
+
+	
+		
+			Step-up / Step-down transformers
+		
+			Signal level compatibility or matching
+		
+			Impedance compatibility or matching
+		
+			Unity 1:1 transformers
+		
+			DC blocking
+		
+			Radio Frequency Interference (RFI) blocking
+		
+			Ground lift and device isolation
+	
+
+
+	Step-up / Step-down transformer
+	In a step-up / step-down transformer, the primary and secondary have a different number of windings, thus they have different impedances. Different impedances cause the signal level to change as it goes through the transformer. If the secondary has a higher impedance (more windings) than the primary, the signal level at the secondary will be a higher voltage than at the primary. A transformer with multiple taps provides access to multiple impedances and to different signal gains or losses. Many microphones have step up transformers at their output. For example, inside of every SM57 and SM58 microphone is a transformer that steps up the signal level and impedance before it exits the microphone.
+
+	
+
+	Unity 1:1 transformer
+	Often called an isolation transformer, it has the same number of windings on each coil. As the impedance is identical for the primary and secondary, the signal level does not change. A unity transformer allows an audio signal to pass unmodified from the primary to the secondary while blocking DC voltage and radio frequency interference (RFI). Also, since the primary and secondary are insulated from each other, a unity transformer will electrically isolate different pieces of equipment. This can solve hum problems by isolating (lifting) the grounds of different devices. Other unity transformer applications include providing multiple outputs from a single mic input by using multiple secondary windings, and changing balanced signals to unbalanced signals or vice-versa.
+
+	
+		
+			
+				
+					
+			
+			
+				
+					
+				
+			
+			
+				
+					
+				
+					
+			
+		
+	
+
+
+	What are the limitations of audio transformers?
+	The first limitation is frequency response. By design, audio transformers only pass audio signals. Therefore, an audio transformer will reduce or block signals that are below or above the audio range of 20 - 20,000 Hz. This can be a limitation or a benefit depending on the situation. A second limitation is that audio transformers have a maximum input level that cannot be exceeded without causing a distorted signal. When the maximum level is exceeded, the transformer is said to be saturated, i.e. it cannot hold any more signal. A third limitation is that audio transformers cannot step up a signal by more than about 25 dB when used in typical audio circuits. Because of this limitation, an audio transformer normally cannot be substituted for a microphone preamp. If more than 25 dB of gain is required, an active preamplifier must be used instead of a transformer.
+
+	
+
+	What is the difference between an expensive transformer and an inexpensive transformer?
+	Most of the differences involve the limitations stated above. For example, an expensive transformer will have a flatter and broader frequency response. Often, a hotter input signal can be put through an expensive transformer without saturating it. Expensive transformers are also shielded better. Shielding reduces pickup of hum and interference from outside sources such as power supplies. Not only does the shielding keep unwanted signals out of the transformer, it also keeps the desired signal within the transformer. Many inexpensive transformers have no shielding while expensive transformers may have multiple shields.
+
+	
+
+	
+		
+			
+				
+					
+						
+							
+								
+									Dos and Donts of Audio Transformers
+							
+							
+								
+									
+								
+									Do use a transformer to match impedances.
+							
+							
+								
+									
+								
+									Do use a transformer to increase or decrease signal level by up to 25 dB.
+							
+							
+								
+									
+								
+									Do use a 1:1 transformer to isolate problem components in an audio chain.
+							
+							
+								
+									
+								
+									Do not use a transformer to increase signal level by more than 25 dB.
+							
+						
+					
+				
+			
+		
+	
+
+
+	
+
+	APPENDIX: Important Equations
+
+	The number of wire turns in each coil is related to the Turns Ratio. The specified impedance of a transformer is the open circuit impedance, i.e. with nothing connected to either the primary or secondary of the transformer. When a microphone is connected to the transformer, the secondary will reflect the microphones impedance, modified by the square of the turns ratio.
+
+	
+
+	The Turns Ratio is related to the voltage and current ratios:
+
+	
+
+	The following equation is used to determine the total gain or loss of a circuit when using a transformer.
+
+	
+		
+			
+				
+					
+						
+							
+								
+									
+							
+						
+					
+				
+			
+		
+	
+
+
+	
+

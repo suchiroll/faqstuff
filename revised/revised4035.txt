@@ -1,0 +1,16 @@
+Title: SM2 Discontinuation
+Id: 4035
+Legacy Id: 4467
+
+Question:
+When was the model SM2 discontinued?
+
+
+Answer:
+
+	The modelSM2 was discontinued in the spring of 2012.
+	
+	TheSM2 was a headset microphone that used the SM10 dynamic mic element.TheSM2 hada headphone driver for each ear. The detachable cable was provided without connectors on the equipment end.Typical use was for live broadcast or intercom.
+	
+	The final U.S. retail price was $307. The modelSM2 was introduced in 1985.
+

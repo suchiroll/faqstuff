@@ -1,0 +1,21 @@
+Title: WA305 Cable versus WA302 Cable
+Id: 4372
+Legacy Id: 5463
+
+Question:
+How is the WA305 cable different than the WA302 cable?
+
+Answer:
+
+	The WA305 has a gold-plated Neutrik 1/4 phone plug connector. The WA305 cable has lower handling noise and is more durable. The WA305 TQG connector is better quality; it has a threaded collar that fastens to the bodypack transmitter TQG connector.
+	
+	WA305 threaded collar compatibility with bodypack transmitters:
+	ULX-D
+	GLX-D
+	AXIENT
+	UR1M
+	
+	* Note: The WA305 will work with some UR1 transmitters depending upon the thread length exposed on the UR1 TQG connector. The only reliable method to determine if the WA305 will fasten to a UR1 transmitter is to have the cable and the transmitter on hand, then try to thread the cable collar to the transmitter. As a general rule, the WA305 will NOT thread onto the UR1.
+	
+	The WA305 does not replace the WA302. Both cables are still offered as of October 2013.
+

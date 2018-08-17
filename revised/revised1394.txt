@@ -1,0 +1,33 @@
+Title: SM98A Preamp - replacement for ILP-1
+Id: 1394
+Legacy Id: 1446
+
+Question:
+I was told that the adaptor ILP-1 is no longer available and that a RK183PK would work in its place. Is this true?
+
+
+Also, I am looking for an adaptor that if my wireless system goes down I can still use my SM98A, WL184, WA302 and or WH20TQG by just plugging into a line adaptor and going on with the program.
+
+
+I am using a UC4 with a UC1 and the above mics. Will the ILP-1 work and is it in stock or is there a better way?
+
+
+---- 07/20/2001 10:25 AM ----------------------------------------------
+
+What is the wiring to make a cable for the WH20TQG to a XLR hookup? I need to make a pig tail type.
+
+
+
+
+Answer:
+
+	The ILP-1 is discontinued and no longer available.
+	
+	1. For the SM98A, the RPM626 preamp works best. It requires phantom power from the mixer to operate. The RK183PK will work, but not as well as the RPM626.
+	
+	2. For the WL184, the RK183PK preamp works best. It requires phantom power from the mixer to operate.
+	
+	3. For the WH20TQG, a preamp is not required. A custom cable must be fabricated with a four pin male Tini QG connector on one end, and a three pin male XLR connector on the other end. Shure does not sell a cable like this. Contact us for the wiring if you decide to fabricate this cable yourself.
+	
+	At 07/20/2001 10:41 AM we wrote - WH20 pin 1 (cable shield) to XLR pin 1 and XLR pin 3; WH20 pin 3 to XLR pin 2. WH20 pins 2 and 4 are not used.
+

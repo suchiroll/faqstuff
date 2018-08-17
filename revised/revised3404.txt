@@ -1,0 +1,24 @@
+Title: Search WWB5 help files on Macintosh?
+Id: 3404
+Legacy Id: 3594
+
+Question:
+In the Wireless Workbench 5 release notes you recommend searching the Help files by using Firefox. I'm using a Mac and don't have Firefox on my computer. Is there an alternative?
+
+
+Answer:
+
+	There is a roundabout way of using Safaris search utility. Here is how:
+
+	
+		Click HELP
+	
+		Select Shure Wireless Workbench Software Help
+	
+		If not on Welcome to Wireless Workbench page, select OPEN MAIN MENU
+	
+		Click on Index
+	
+		Press Apple + F to open the search window
+
+

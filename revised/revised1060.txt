@@ -1,0 +1,14 @@
+Title: Internal wiring of SM61
+Id: 1060
+Legacy Id: 1094
+
+Question:
+I have a SM61 mic whose wiring has come discounted from the XLR connecter. i need to know which wire is goes to which pin?
+
+
+Answer:
+
+	The internal wiring for the SM61 is in its data sheet.
+	
+	http://pubs.shure.com/guide/SM61/en-US.pdf
+

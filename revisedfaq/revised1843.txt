@@ -1,0 +1,18 @@
+Title: Parts of a sound system
+Id: 1843
+Legacy Id: 1903
+
+Question:
+I want to ask you if there is something that connects my microphone in to my speaker. I want a wireless system - something that could connect my mic in to the system in to the speaker.
+
+
+Answer:
+
+	A sound system is far more than a microphone and a loudspeaker. In brief, a basic sound system consists of these components:
+	
+	1) Microphone (wired and/or wireless)
+	2) Mixer
+	3) Power amplifier
+	4) Loudspeaker
+	5) All the necessary cabling
+

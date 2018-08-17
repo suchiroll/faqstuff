@@ -1,0 +1,36 @@
+Title: Motiv MV88 and VP88 Mid-Side Microphone Operation Primer
+Id: 4773
+Legacy Id: 5956
+
+Question:
+Please provide a primer on Mid Side microphone operation.
+
+
+Answer:
+
+	Let's begin with an aural demonstration of an orchestral recording using the Shure MV88:
+	
+	MV88 recording of a Symphony Orchestra
+	
+	The Motiv MV88 stereo microphone and the venerable VP88 stereo microphone are Mid-Side designs.  Mid-Side is abbreviated as "M-S" and requires two mic elements: one cardioid pattern and one bi-directional pattern (figure-8 pattern.) As a refresher, a cardioid mic picks up well from the North, not-so well from the East and West, and poorly from the South.  A bi-directional mic picks up from both sides of the mic (North and South) but hardly at all from East and West.  Thus the bi-directional polar pattern looks like the number "8." The M-S technique combines the signal from the bi-directional mic with the signal from the cardioid mic to create a stereo image.
+	
+	To aid the following rudimentary Mid-Side explanation, let's employ the face of an analog clock:
+	
+	The Mid mic (cardioid pattern) is at the center of clock face and aimed at 12 o'clock.
+	
+	The Side mic (bi-directional pattern) is also the center of clock, proximate to the Mid mic, but is aimed at 9 o'clock and 3 o'clock. It is the number "8" lying on its side.  
+	
+	When a talker (or any sound source) is at 12 o'clock, he is "heard" quite well by the Mid mic because the Mid mic is aimed at the 12 o'clock position.  But the talker is hardly heard at all by the Side mic because he is positioned in the "null" of the Side mic.  The "null" is where a mic barely hears a talker.
+	
+	When a talker is at 9 o'clock or 3 o'clock, he is "heard" very well by the Side mic because the Side mic is aimed at 9 o'clock and at 3 o'clock.  But the talker is "poorly heard" by the Mid mic because he is positioned "off-axis" of the Mid mic.  A cardioid mic, aimed at 12 o'clock, picks up poorly at 9 o'clock and 3 o'clock, and hardly at all at 6 o'clock.
+	
+	When heard through a stereo system, 100% Mid signal and 0% Side signal "positions" the talker MIDway between the Left loudspeaker and Right loudspeaker.
+	
+	100% Side signal and 0% Mid signal "positions" the talker to the SIDE- only in the Left Loudspeaker or only in the Right Loudspeaker.
+	
+	By electronically adding or subtracting the Side mic signal to the Mid mic signal, the talker can be positioned anywhere in the stereo image: far left, middle, far right or anything in between.  The addition/subtraction of the two mic signals is accomplished with an electronic mixing device called
+	an "M-S Matrix Decoder," or with an iPhone App that provides the function of the M-S Matrix Decoder.  The Shure VP88 has an additional feature: an internal M-S Matrix Decoder with three pre-sets; each creates a slightly different stereo image.
+	
+	A unique feature of M-S recording is that the Mid signal and the Side signal can be recorded as separate tracks and later decoded into stereo.  The final stereo image can be decided upon after the recording date.  This is useful for motion pictures; for example, a wide stereo aural image may be desired to match a wide-angle visual image.  Using an M-S microphone and M-S decoder allows this artistic decision to be made during post-production, i.e., the editing process.
+	
+	For additional educational articles, search the Internet using: mid side recording

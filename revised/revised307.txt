@@ -1,0 +1,13 @@
+Title: Retro parts for an Shure 55AV
+Id: 307
+Legacy Id: 314
+
+Question:
+I have recently inherited what looks like a Shure 55AV. To my surprise it is still working fine. The only problem I have is the connector is the type with three binding posts. which does me no good if I want to put it on a stand. Do you carry the XLR/mic stand adaptor so I can essentially make it into a 55A?
+
+
+Answer:
+
+	Unfortunately all such parts are long gone at Shure.
+	
+	You might have luck with collectors of old mics. We suggest you start with Tom Ellis: tomsmics@flexcomp.com

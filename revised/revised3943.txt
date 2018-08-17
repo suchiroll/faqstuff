@@ -1,0 +1,14 @@
+Title: AXT400=-A vs ATX400US=-A
+Id: 3943
+Legacy Id: 4192
+
+Question:
+What is the difference between the AXT400=-A and the AXT400US=-A?
+
+
+Answer:
+
+	AXT400US=-A includes BNC cables, rack screws, etc.
+	
+	AXT400=-A is just the receiver alone.
+

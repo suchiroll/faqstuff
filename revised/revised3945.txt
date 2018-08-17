@@ -1,0 +1,20 @@
+Title: Remote parameters for Axient transmitters?
+Id: 3945
+Legacy Id: 4194
+
+Question:
+Which parameters can be adjusted via Remote Transmitter Control on the AXT100 and AXT200?
+
+
+Answer:
+
+	
+		Frequency
+	
+		Gain
+	
+		RF Muting
+	
+		RF Output Power
+
+

@@ -1,0 +1,207 @@
+Title: Stylus break-in
+Id: 2563
+Legacy Id: 2661
+
+Question:
+So I know "breakin' in" (I hope you know what I'm talkin about) of a new phono-needle is nescessary for optimal future performance (especially for scratch-djs) of the needle.
+
+
+What exactly does breakin' in/orwearin' in mean ? and how do I do a proper breakin-in of a phono-needle (like the shure M44G) ?
+
+
+Answer:
+
+	The Book of Shure
+	Your Guide to the Proper Use of Shure DJ Products
+	by The Needlz Brotherz
+	
+	Every DJ touches the record in a slightly different way. With the Shure DJ Cartridge family, you are sure to find the needle to fit your spinning needs. However, optimum cartridge performance may require some experimentation to adapt to your personal touch. Heres a quick guide through the ins and outs of optimal cartridge care.
+	
+	Chapter 1
+	Accelerating Break-In (M44-7)
+
+	
+		Normal break-in time takes about two weeks. The bearing, a critical part of the stylus suspension system, is stiff from the factory. Skip resistance improves with use.
+	
+		You can speed up the break in period by leaving the cartridge in the record groove, with the turntable turned off, for two hours each night letting nature (gravity) do its thing.
+
+
+	Chapter 2
+	Standard Hi-Fi
+
+	
+		Attach cartridge to headshell using screws, washer, and nut.
+	
+		Align the cartridge so that the diamond is even with the edge of the headshell. (Technics owners may use the white Stylus Overhang Gauge). The stylus overhang should be approximately 52mm.
+	
+		Set the tone arm height so the arm is level, or only slightly downward.
+	
+		Set anti-skate to zero.
+	
+		Zero the tone arm.
+	
+		Add 3 -3.5grams of weight.
+
+
+	DJ Variation
+
+	
+		Follow guidelines for Standard Hi-Fi.
+	
+		Pull the cartridge back 1 - 2 mm in headshell.
+	
+		You may opt to include headshell weight. This adds more mass to the tone arm and provides increased stability for some DJs.
+	
+		Zero the tone arm and add three grams. When using the headshell weight, avoid the tendency to increase tracking force unnecessarily.
+
+
+	Unorthodox Variation
+
+	
+		This technique is chosen by some DJs. Try your preference of Standard or DJ variation.
+	
+		Remove the tone arm counter weight and install it backward.
+	
+		Slowly add weight until you get the desired skip resistance.
+	
+		This procedure adds 2 grams to the tracking force range. We do not recommend that you push the counterweight completely forward.
+
+
+	Chapter 3
+	23 Degree Trick
+
+	
+		Some DJs increase skip resistance by angling the cartridge away from the spindle 23 degrees.
+	
+		This technique emulates a straight tone arm.
+	
+		The outer groove wall will wear slightly faster than the inner groove wall.
+
+
+	Chapter 4
+	How to Zero The Tone Arm
+
+	
+		Stop the platter.
+	
+		Install the cartridge.
+	
+		Twist the counterweight as far back as possible. The tone arm should be pointing up.
+	
+		Slowly twist the counterweight forward until the tone arm/cartridge barely floats above the record. (Think of the balance scale from science class.)
+	
+		Hold the counterweight still and twist the dial to zero.
+	
+		The tone arm now has zero weight.
+	
+		Slowly twist the counterweight inward until the dial indicates your desired tracking force.
+
+
+	Chapter 5
+	Tone Arm Height
+
+	
+		Tone arm height should be level or only slightly down. This allows for proper stylus alignment in the record groove.
+	
+		If the tone arm is too high, the angle of contact where the diamond touches the groove changes shape. A spherical stylus may touch the groove at an angle resembling an elliptical stylus.
+	
+		If the tone arm is too high, the diamond tip can be pulled behind the curve of the record groove. This requires the cartridge to be positioned forward in the headshell.
+
+
+	Chapter 6
+	Stylus Overhang
+
+	
+		Stylus overhang is the distance between the diamond and the inner cuff on the headshell.
+	
+		Optimum overhang for accurate listening on an S shaped tone arm is 52mm (Technics 1200s). On Vestax PDX-2000 straight arms, optimum overhang is 50mm.
+	
+		Optimum overhang positions the diamond slightly forward of the curve in the record groove, and has in inward pull on the tone arm.
+	
+		The diamond is seated evenly between the left and right walls of the record groove.
+	
+		Positioning the stylus at the tangent point of the record groove can increase Skip resistance.
+	
+		Actual optimum overhang position will vary with tone arm height and scratch technique.
+
+
+	Chapter 7
+	Anti-Skate
+
+	
+		S Shaped tone arms have a natural pull towards the inside of the record.
+	
+		Anti-skate is a tone arm feature that exerts an outward push away from the spindle.
+	
+		Anti-skate has two calibration settings. The dial at the base of the tone arm is a relative setting that adds 1-3 grams of outward force. Absolute Anti-Skate force is adjusted using the two concentric screws on top of the pivot joint. Shure recommends that a qualified turntable technician perform adjustments for Absolute Anti-Skate.
+	
+		Test for Anti-Skate calibration.
+		 Zero the tone arm.
+		 Set Anti-skate to Zero.
+		 If the tone arm pulls outward, a positive anti-skate force exists. Seek a turntable technician for calibration.
+		 If the tone arm pulls inward, a negative anti-skate force exists. Add force using the dial until the tone arm floats freely, with no inward or outward pull.
+	
+		Positive anti-skating forces increase skipping when back cueing.
+
+
+	Chapter 8
+	Tone Arm Variation (S vs. Straight)
+
+	
+		S shaped tone arms (Technics 1200) position the diamond slightly in front of the curve in the record groove. S shaped tone arms have a natural inward pull, which can be off-set with anti-skate.
+	
+		Straight tone arms (Vestax PDX2000) are designed to place the needle perfectly tangent to the curve in the record groove. By design, the straight arm has no natural inward or outward force on the tone arm.
+
+
+	Chapter 9
+	Stylus Geometry
+
+	
+		Spherical - The diamond is shaped like an upside down traffic cone. The front view and side view are equal. Spherical diamonds have the largest surface contact with the record groove, resulting in lower pressure per square inch, lower record wear, and acceptance of heavier tracking forces.
+	
+		Elliptical - The diamond is shaped like an oval traffic cone. The front view is 3 times wider than the side view. Elliptical diamonds have smaller surface contact and higher pressure per square inch. Elliptical diamonds yield more accurate high frequency response, but are NOT suitable for scratching.
+
+
+	Chapter 10
+	Cleaning the Stylus
+
+	
+		The stylus should be cleaned with a miniature brush and warm water.
+	
+		Always pull the brush long ways from back to front.
+	
+		Never brush side to side, as this will damage the cantilever.
+	
+		Over time, dirt that has not been removed can harden on the stylus, changing its shape and reducing performance.
+
+
+	Chapter 11
+	Quick Fix Skip Checklist
+
+	
+		Tracking force? Too much?
+	
+		Stylus overhang?
+	
+		Tone arm height?
+	
+		Anti-skate?
+	
+		Break-in time?
+
+
+	Chapter 12
+	Non-Needle Skipping Factors
+
+	
+		Loose tone arm assembly.
+	
+		Loose spindle hole on the record.
+	
+		Slip mat.
+	
+		Unstable table.
+	
+		Violent, yet unrefined, scratch /juggle technique.
+
+

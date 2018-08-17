@@ -1,0 +1,11 @@
+Title: Are the SM7 and SM57 identical?
+Id: 1939
+Legacy Id: 2002
+
+Question:
+Is it true that both the SM7 (all versions) and the SM57/58 employ the same capsule, hence sound very similar?
+
+
+Answer:
+
+	The SM7, the SM57, and the SM58 are all based on the Unidyne III capsule design. The SM7 capsule is not identical to the SM57 or SM58, but it is similar.  The SM7 also has a larger acoustical chamber behind the mic element, and this extends the low frequency response.

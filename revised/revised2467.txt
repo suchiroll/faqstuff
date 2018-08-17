@@ -1,0 +1,23 @@
+Title: Shure M75E Type 2 Cartridge and 78 rpm records
+Id: 2467
+Legacy Id: 2562
+
+Question:
+I have just bought a goldring turntable fitted with the above cartridge. Please could you let me know if it is a Mono or Stereo one and what currently available syli fit it, as it needs a new one!
+
+I wish to play mainly 78s on it.
+
+
+
+Answer:
+
+	The M75 is a stereo cartridge.
+
+	Replacement styli:
+	N75ED Type 2 (biradial tip)
+	N75B Type 2 (spherical tip)
+	
+	The N78S stylus is made for playing 78 rpm records. It will fit the M75 body with some modification of the plastic stylus grip. The grip has to be filed down so that the stylus can insert totally into the M75 body. Do this at your own risk as the stylus can be easily bent.
+	
+	Or you can purchase a new cartridge designed only to play 78 rpm records: the model M78S.
+

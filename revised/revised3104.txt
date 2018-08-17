@@ -1,0 +1,14 @@
+Title: PGX Transmitter Won't Shut Off
+Id: 3104
+Legacy Id: 3237
+
+Question:
+The PGX body transmitter will not shut off sometimes. It occurs only after about an hour or two of operation (the manual says it should last 8 hours). Seems to be worse when using NiMH (1600 mAh) batteries. This is the second unit we have tried. IF the unit behaves like this (won't shut off) when the batteries become weak, why is there even a "red light indicator" for bad batteries? On top of that, there's no warning when the batteries are "bad" because the unit will just not shut off, in the middle of a service. When you press on the button for the 2 seconds to turn it off, it just flickers, then the mic comes back on. There has never been a red light on the unit.
+
+
+Answer:
+
+	As an experiment, try operating the PGX from two alkaline AA cells. If this problem still occurs, your PGX has a defective timing circuit. In that case, contact Shure Service at 800-516-2525 for repair or replacement.
+	
+	If the problem does NOT occur with two alkaline AA cells, then the NiMH cells employed have a discharge curve that is causing the PGX timing circuit to lock-up. Some NiMH cells lose voltage very quickly but maintain current capacity - this is the opposite discharge curve of an alkaline cell. A different brand of NiMH cell could solve the problem.
+

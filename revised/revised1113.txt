@@ -1,0 +1,14 @@
+Title: Replacement Stylus for an M92 LT
+Id: 1113
+Legacy Id: 1149
+
+Question:
+I am trying to find out what the correct model # would be for a older Shure M92 Lt cartridge installed on a belt drive Techins Sl-B100 turntable. It has been in storage for about 10 years. I would like to get a new stylus if I could. I have checked places like the 'needledoctor' on the web but they list N92E or N94E and N104E. Would any of these fit and work, Can I get one for the M92 LT that I have, It works, I would just like to get a new one to protect my records.
+
+
+Answer:
+
+	The LT versions of the Shure cartridges are designed a little differently than the regular cartridges. The styli that you mentioned will not work properly with that cartridge.
+	
+	Werecommend a new cartridge: M92E.
+

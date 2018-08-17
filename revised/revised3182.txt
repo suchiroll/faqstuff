@@ -1,0 +1,12 @@
+Title: Shure PA755 Triple Flange Sleeves and E2C, E2G
+Id: 3182
+Legacy Id: 3322
+
+Question:
+Is the triple flange sleeve compatible with the E2c headphones?
+
+
+Answer:
+
+	No they are not. The Nozzle is too big for the triple flange sleeve. A triple flange sleeve will not fit over the nozzle and still be comfortable for the user. PA755 will NOT fit the E2, E2C, E2g, I2C, or SCL2.
+

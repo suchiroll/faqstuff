@@ -1,0 +1,18 @@
+Title: Microphones for a Tap Dancing show
+Id: 1602
+Legacy Id: 1658
+
+Question:
+I am involved with a theatre group that is planning to do a production of 42nd Street. We were wondering if there are microphones or accessories that could be used to reinforce the sound of the tap dancing. Are there floor microphones that accomplish this?
+
+
+Answer:
+
+	Productions like Stomp attach a small mic near the feet of the dancer. Each dancer wears a wireless transmitter to send the mic signal to the sound booth. With this expensive setup, the mic moves with the performer and so the tap sound is always consistent.
+	
+	Example of Shure product for this approach: ULX  WL50
+	
+	They also prerecord the sound of the tap, to be played back in synch with the music during the performance. Essentially, this is the equivalent of lip synching.
+	
+	Placing stationary mics, like the Shure MX391, at the front of the stage is much less expensive. However, the amount of sound picked is a function of how close the dancer is to the mic.
+

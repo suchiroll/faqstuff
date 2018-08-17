@@ -1,0 +1,20 @@
+Title: Theater Audio - Comb Filter Distortion From Close Proximity Of Lavalier Mics
+Id: 1764
+Legacy Id: 1824
+
+Question:
+How do the theatre guys do it? I frequently have actors with lavs in their hair line or over their ears talk while hugging. I get a comb filter like sound when they do that. Often I do not have time to reduce the volume to one of the mics to reduce the comb filter distortion.
+
+I know some people route the lavs to different speakers, but when you have many scenes like that with many lavs, the routing can be quite a headache.
+
+
+Answer:
+
+	There are 3 methods:
+	
+	1) Reduce the volume of one of the microphones.
+	
+	2) Route the microphones to different loudspeakers.
+	
+	3) Use an automatic mixer inserted into your main console so that the automixer can turn the microphones on and off as they are being used. Essentially, this is the same as #1, but it is much easier.
+

@@ -1,0 +1,11 @@
+Title: Gain before feedback with multiple microphones
+Id: 10
+Legacy Id: 10
+
+Question:
+Do additional open microphone decrease the gain before feedback of a sound system?
+
+Answer:
+
+	Yes. Every time the number of open microphones doubles, the amount of gain available before the sound system will feedback decreases by 3 dB. Gain Changes Based on Mic Placement and Number of Open Mics
+

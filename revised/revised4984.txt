@@ -1,0 +1,11 @@
+Title: Pickup distance (range) for MXA310
+Id: 4984
+Legacy Id: 6252
+
+Question:
+How far away does the MXA310 Table Array pick-up?
+
+
+Answer:
+
+	The MXA310 provides the unique capability of being able to operate as a single microphone, or up to four individual microphones, with each microphone able to have a different polar pattern that is independently steerable in any direction, 360-degrees around the microphone itself. The available patterns are omnidirectional, bi-directional, cardioid, supercardioid, hypercardioid, and the unique toroid pattern. This pattern provides coverage all the way around the microphone, but with a deep null above the mic, rejecting unwanted noise from up above. The MXA310, however, does not offer a specific advantage is terms of "distance" or pick-up range. That is, an MXA310 in cardioid mode will not pick up sounds at a greater distance than another cardioid pattern condenser (such as the MX393/C). However, the low self-noise of the MXA310 (19 dB SPL, A-weighted, versus 23 dB SPL on the MX393/C), does offer the ability to increase the gain of the microphone to pick up more distant talkers, without adding as much hiss. So essentially, in terms of pick-up distance, you would treat the MXA310 as you would a normal microphone, based on the selected pickup pattern. Note that the deep overhead null provided by the toroid pattern allows for greater intelligibility in noisy environments, compared to traditional polar patterns.

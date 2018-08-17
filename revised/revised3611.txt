@@ -1,0 +1,11 @@
+Title: Wireless Workbench 5 with 64 bit Vista or 64 bit Windows 7
+Id: 3611
+Legacy Id: 3817
+
+Question:
+Does Wireless Workbench 5 operate under 64 bit Windows Vista? How about 64 bit Windows 7?
+
+
+Answer:
+
+	Wireless Workbench 5.0.2 will work with 64 bit Windows Vista and 64 bit Windows 7...except for the USB driver. Thus, you will need to connect your computer and the UR4 receivers to an Ethernet router.

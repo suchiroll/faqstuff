@@ -1,0 +1,27 @@
+Title: Compatibility/Identifying correct sleeves
+Id: 2961
+Legacy Id: 3089
+
+Question:
+Which sleeve works with my earphone?
+
+
+Answer:
+
+	The Nozzle of the E2C, E2g, I2c, SCL2 and I2c-T earphones are considerably larger in diameter than all our other earphone models. A sleeve meant for the E3/SCL3 or SE110 for instance will not fit on the E2 series and will rip if attempted to put on the E2C. The triple flange sleeve will only fit on the E3/SCL3 series and up and it will not fit on the E2C, E2, E2G, SCL2 and E2C-N (black) or I2c, I2c-T.
+	
+	E2c, E2, E2G, SCL2 version sleeves and I2c, I2c-T, Quietspot headsetare colored as follows:
+	Black rubber soft flex
+	Orange foam
+	Clear flex (with larger internal hole)
+	
+	All other models (SCL3, SCL4, SCL5 and any SE Model earphone sleeves are colored as follows:
+	Universal size Yellow foam sleeve
+	Black Foam sleeves (in 3 sizes)
+	Gray Soft Flex sleeves
+	Clear flex (with smaller internal hole)
+	White Triple flange sleeve
+	
+	Our Black Foam sleeve will fit all Shure earphones except E2c, E2g, E2c-N, I2c, I2c-T, SCL2 and Quietspots. It will ship in 3 sizes. Small, Medium, Large.
+	
+

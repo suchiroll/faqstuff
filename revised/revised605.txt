@@ -1,0 +1,16 @@
+Title: WL93 cable extensions
+Id: 605
+Legacy Id: 617
+
+Question:
+I am currently using a WL93 Mic. My problem is that if I put the mic on the actors head and the transmitter on his hip or chest the cord is not long enough. Is there an extension I can put on it?
+
+
+Answer:
+
+	The WL93 is available with a 4 foot cable (your version) and a 6 foot cable. The black WL93 with a 6 foot cable is the WL93-6; the tan version is the WL93T-6.
+	
+	We do not have a referral for a company that offers extension cables like you are seeking. We suggest fabricating your own custom cables to extend the cable on your current WL93 mics. On one end is a Switchcraft TA4F connector; the other end is a Switchcraft TA4M connector. These parts are available from Mouser Electronics: http://www.mouser.com
+	
+	The miniature mic cable will be difficult to find. We suggest that you purchase the Shure C128 15 foot extension cable. This has a TA4F connector on one end and a TA4M connector on the other end. Use this cable as the basis for your custom extension cables as it is has the proper small diameter and the proper electrical characteristics.
+

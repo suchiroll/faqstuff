@@ -1,0 +1,18 @@
+Title: FP33 Mix Bus Specifications
+Id: 4067
+Legacy Id: 4633
+
+Question:
+What are the technical specifications for the three pin mix bus jack on the FP33?
+
+
+Answer:
+
+	Pin 1 = left mix bus
+	
+	Pin 2 = right mix bus
+	
+	Pin 3 = ground
+	
+	Impedance is 930 ohms.Nominal level is +4 dBm.
+

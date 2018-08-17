@@ -1,0 +1,18 @@
+Title: Phono Preamp - why it is necessary?
+Id: 3802
+Legacy Id: 4040
+
+Question:
+I have a Shure M97xE cartridge and a Technics turntable. I connected the turntable to the AUX input on my stereo system, but I can barely hear the record, and there is no bass. What is the problem?
+
+
+Answer:
+
+	The output of your turntable must be connected to a phono preamplifier (preamp.) The preamp provides two critical functions:
+	
+	1) Amplification of the signal level: A nominal output level from a phono cartridge is 1 mV (0.0001 V). The Aux input on your stereo system requires a nominal signal level of 100 mV (0.1V). The difference between 1 mV and 100 mV is 40 dB. Therefore, a phone preamp will typically provide 40 to 50 dB of amplification.
+	
+	2) A long playing vinyl record (LP) is recorded with the bass frequencies reduced and the high frequencies boosted. This is done to keep the dimensions of the record groove small. (An LP record was once referred to as a microgroove record.) The phono preamp provides theinverse frequency response of the LP; the preamp boosts the bass frequencies and reduces the high frequencies, and thus restores the original frequency response of the master recording. This entire process is known as RIAA (Recording Industry Association of America) equalization curve and it is applied to all LP records.
+	
+	Use an Internet search engine and enter the term phono preamplifier. There are numerous models of phono preamps available.
+

@@ -1,0 +1,15 @@
+Title: Comparison of SM10A and 512
+Id: 404
+Legacy Id: 411
+
+Question:
+In the User guides, there seems to substantial differences between the SM10A and the 512 mics, especially in the 'Open circuit Voltage" (-65dB vs -47dB)These are supposed to be the same mic except for 'architectural differences'. Note too that they both require the same replacement cartridge the R93. 
+My local Shure dealer has quoted me a higher price for the SM10A than the 512 although the 512 includes a set of phones. Could you please explain the differences in these two mics? 
+
+Answer:
+
+	The SM10A and the 512 use the same mic element. Check the sound pressure levels used for the two Open Circuit Voltage readings. It is likely that one was 20 dB greater than the other, thus the nearly 20dB greater output level.
+	
+	The 512 does have an earpiece on one side. The other side is merely a foam pad. The headband of the 512 is not as rugged as the SM10A. And the mic positioning mechanicals on the 512 are not as good as the SM10A.
+	
+	But indeed the mic element is the same in both models.

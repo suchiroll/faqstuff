@@ -1,0 +1,30 @@
+Title: My wireless microphone eats batteries
+Id: 4062
+Legacy Id: 4597
+
+Question:
+My Shure wireless transmitter eats batteries. I only get one hour of operation before I have to replace the battery. What's wrong with my transmitter?
+
+Answer:
+
+	It is rare for a wireless transmitter to be defective in a manner that would consume a fresh battery in one hour. If that were the case, the battery would be quite warm to the touch when removed from the transmitter. Here are the actual common causes behind the complaint of short battery life:
+	
+
+	
+		The transmitter was not properly powered off when last used. It was put into MUTE, and because it was silent, it was assumed to be powered off.
+	
+		The battery had already been used for six hours and no one remembered.
+	
+		The battery was old and lost much of its capacity sitting on the shelf.
+	
+		The battery was not alkaline, or other recommended type, and therefore had a much shorter operating time.
+	
+		The battery was defective from the factory. This happens far more frequently than the public imagines.
+	
+		The battery was counterfeit and did not meet published specifications.
+
+
+	If you are convinced that the transmitter is defective, the next step is to measure the current consumption from the battery.
+	
+	As a final step, the transmitter can be sent toShure where the power consumption can be graphed over the life of a new battery. In 2011, six defective transmitters were returned to Shure for this measurement. None were defective - all met the published specifications for current consumption and battery life. Each transmitter was returned to the customer, along with the printed graph, and a sample of the recommended battery type.
+

@@ -1,0 +1,12 @@
+Title: UHF-R Frequency Band Discontinuation
+Id: 4674
+Legacy Id: 5841
+
+Question:
+In June 2015, Shure discontinued one UHF-R frequency band in the U.S.. What is this band?
+
+
+Answer:
+
+	L3 (638-698 MHz) frequency band.
+

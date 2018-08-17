@@ -1,0 +1,14 @@
+Title: Ampex Model 7012 and Model 3001 Microphone
+Id: 4950
+Legacy Id: 6215
+
+Question:
+Did Shure make an OEM microphone for Ampex?
+
+
+Answer:
+
+	Yes. The Ampex model 7012 microphone was manufactured by Shure. It was sold by Ampex, in the middle to late 1960s,as an accessory for its tape recorders. See the model 7012 product brochure below.
+	
+	There was also an Ampex model 3001. The specifications are the same as the model 7102. Themodel 3001 had a silver handle; the model 7012 had a black handle.
+

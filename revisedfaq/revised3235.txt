@@ -1,0 +1,61 @@
+Title: ULX transmitter and Ultralife Lithium Battery
+Id: 3235
+Legacy Id: 3385
+
+Question:
+What is the expected operating time of a ULX transmitter when using an Ultralife Lithium 9v battery?
+
+
+Answer:
+
+	We tested a ULX1 transmitter with two different Ultralife Lithium 9v batteries. Here are the results:
+
+	
+
+	
+		
+			
+				
+			
+				Battery #1
+			
+				Battery #2
+		
+		
+			
+				No Load:
+			
+				9.72 V
+			
+				9.70 V
+		
+		
+			
+				Under Load:
+			
+				8.80 V
+			
+				8.95 V
+		
+		
+			
+				Battery Fuel Gauge:
+			
+				3 bars
+			
+				3 bars
+		
+		
+			
+				Operate Time:
+			
+				13h :45m
+			
+				16h :00m
+		
+	
+
+
+
+	Similar results were obtained with the ULX2 transmitter.
+

@@ -1,0 +1,13 @@
+Title: Camera Control for the MXA910
+Id: 5053
+Legacy Id: 6351
+
+Question:
+I would like a way to have cameras automatically switch to the active talker when using an MXA910. Do you have any recommendations?
+
+
+Answer:
+
+	The Collaborate Automatic Video Switching System from 1 Beyond is an all-in-one package that includes cameras and a control system, and the API for the MXA910 has been integrated andtested by 1 Beyond. For more information:
+	http://1beyond.com/collaborate-avs
+

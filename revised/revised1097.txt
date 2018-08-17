@@ -1,0 +1,13 @@
+Title: Service and repair for Mics
+Id: 1097
+Legacy Id: 1132
+
+Question:
+Does Shure offer servicing on your microphone products? We have one Shure condensor mike that is intermittently giving us a poor signal - either no signal or a very bass-deficient signal - and though I'm an electronics tech by trade I was reluctant to completely disembowel the mike internals in pursuit of the problem.
+
+Answer:
+
+	For repair or parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

@@ -1,0 +1,14 @@
+Title: Does the air temperature affect RF transmission?
+Id: 1490
+Legacy Id: 1543
+
+Question:
+In chicago we had 4 of the Lx VHF Lav. runing outside. We tested them in the morning, all worked great. But when it got hot, the transmission range was cut by 40%. When the air gets muggy, is there an effect?
+
+
+Answer:
+
+	Neither the air temperature nor the humidity affects RF transmission. But humans do.
+	
+	The human body absorbs RF energy. We guess there were very few people in the area during your morning test, but many people in the area when the transmission range was reduced by 40%. Try getting the antennas up in the air - over the heads of everyone.
+

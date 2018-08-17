@@ -1,0 +1,25 @@
+Title: Ground Loop Buzz or Hum with Metal Headshells
+Id: 2960
+Legacy Id: 3088
+
+Question:
+I have a Shure cartridge that I have used for years. Recently, I purchase a new turntable with a built-in preamp and a metal headshell. There is a low level hum or buzz that was not there with my other turntable. Any ideas?
+
+
+Answer:
+
+	Assuming the turntable is operating normally, the problem is likely a ground loop caused by the cartridge body being grounded in two places:
+	
+	1) The metal mounting screws ground the cartridge outer shell via the metal tonearm headshell.
+	AND
+	2) The tonearm wiring grounds the cartridge outer shell via the ground tab located on the Right Ground (RG) terminal.
+	
+	
+	There are two common solutions to this problem.
+	
+	A) Substitute nylon screws for the metal screws that attaches the cartridge body to the tonearms metal headshell. The screw size is #3-48 UNC 2A. The length varies depending upon the exact mounting. Try a 1 inch long screw - being nylon, it can be cut to a shorter length.
+	
+	OR
+	
+	B) Carefully cut and remove the grounding tab that connects the cartridge body outer metal shell to the Right Ground (RG) terminal pin. Make certain to use metal mounting hardware so that the cartridge outer shell is grounded to the tonearm headshell.
+

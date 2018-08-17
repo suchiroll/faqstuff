@@ -1,0 +1,17 @@
+Title: What is a suitable mic for a violin?
+Id: 51
+Legacy Id: 51
+
+Question:
+Which mic is recommended for the violin? I usually play in live. Please give me a several models with a few details.
+
+Answer:
+
+	If you want to use a microphone mounted on the violin, consider the SM11. Its a small omnidirectional dynamic microphone that can be mounted using the optional RK279 Instrument Mounting Accessories.
+
+	If you want to use a microphone on a stand, consider the SM94 or SM81 or KSM137. The SM94 will accept a AA battery or phantom power. The SM81 and KSM137 require phantom power to operate and do not have a battery compartment.
+
+	Find out more information about these microphones on our web site. And there is also a wonderful booklet that you can download called Microphone Techniques for Music Sound Reinforcement.
+
+	Also, view the article Choosing the Right Mic on our blog for more information.
+

@@ -1,0 +1,11 @@
+Title: Mics for a beginning drummer
+Id: 1439
+Legacy Id: 1492
+
+Question:
+I'm a drummer (beginner!!!), so I want to amplify my drumset, but I can't buy something really expensive. I want like 2 omnidirectional mics for overheads and one mic for the bass drum. So what mics do you recommend to me?
+
+
+Answer:
+
+	1) First, read: Microphone Techniques for Drums2) Then, consider the model PGA81 for overhead; model PGA52 for kick drum.

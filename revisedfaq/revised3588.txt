@@ -1,0 +1,23 @@
+Title: WL51 P-popping and cable noise
+Id: 3588
+Legacy Id: 3794
+
+Question:
+I've installed our new Shure wireless systems in our Sanctuary. We're having problems with the WL51 lav mikes, though. Generally they sound good: nice clear and smooth highs, no midrange peaks or unnatural tones there; but we're getting bad plosives from P-pops and similar things. Also, there is a lot of cable noise from friction.
+
+Our ministers place the mikes on their robes, centered or to the right side, about 8" under the chin (middle of the breastbone).
+
+At first, we used them without the Shure windscreens, but when we used the windscreens, there was not much improvement. Do you have any suggestions?
+
+
+
+Answer:
+
+	In a sub-miniature directional mic, like the WL51, there is no room for an effectiveshock mount, nor room for an effective windscreen.Replacing the WL51 with the WL50 will be a big improvement...if gain-before-feedback is not an issue.
+
+	Why should I use an omnidirectional microphone?
+
+	The WL51 is not defective; it is operating as expected based on the description.But the WL51 may not appropriate for the needs. The P-popping can be controlled only by two methods:placing the mic so it is not in the direct path of plosives from the talkers mouth or adding a larger windscreen..which Shure does not offer because it would make the mic look MUCH larger.The effectiveness of a windscreen is a direct function of its diameter.
+	
+	The cable handling noise can be reduced by adding mass to the cable - the method used in theater applications to apply a split-shot sinker (a small ball of lead used in fishing) to the cable, below the mic element.This added mass attenuates the vibration that moves up the cable and shakes the mic element.
+

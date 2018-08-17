@@ -1,0 +1,35 @@
+Title: Battery life of UHF-R transmitters
+Id: 3337
+Legacy Id: 3519
+
+Question:
+I am getting low battery life on the UHF-R transmitter.  What can I do?
+
+Answer:
+
+	What is the expected battery life of the UR1 and UR2 transmitter?
+	With the use of two AA alkaline batteries, the battery life for the UHF-R UR1/UR2 transmitters in low power output mode is rated at 7.5 to 9.5 hours. The battery life will vary depending on how many times the backlight of the display is activated, how many times the transmitter is powered on/off, and how much audio is passing through the system. This is comparable to the battery life of the previously available UHF transmitters U1 and U2 which was 8 to 10 hours depending on conditions.
+	What else can affect battery life?
+	Setting the transmitter’s output power option to high power mode reduces battery life to 5 to 6 hours. It should be noted that this is an advance feature and should be used only by advanced users. The high output power mode significantly affects compatibility between systems and can cause the wireless mic system to perform poorly due to dropouts from system interaction.
+	To make sure the transmitters are set to normal power output, see instructions below.
+	What is the importance of battery selection?
+	A non-alkaline AA battery typically labeled “Heavy Duty” or “General Purpose” offers 500 milliamp/hours of total charge. This is only 1/5 the life offered by a Duracell alkaline battery. A UR transmitter may only last 3.5 hours with a non-alkaline battery. The UR transmitter stops transmitting when the batteries reach approximately 1.9 V (~0.95 V for each AA battery). The voltage curve of a non-alkaline battery will drop to under 0.95 V sooner than the Duracell alkaline, thus decreasing the potential transmitter operating time even further.
+	INSTRUCTIONS FOR SETTING THE TRANSMITTERS TO NORMAL (LOW) POWER OUTPUT FOR THE UR1 AND UR2
+	
+		On the transmitter controls, press and hold the EXIT button, then without releasing the exit button, press the down arrow for approximately 2 seconds.
+	
+		The transmitter display will read “Power Level / Pl:10mW” or “Power Level / Pl:100mW.”
+	
+		If the display shows that the transmitter is set to 100mW, press the down arrow to change to 10mW and then press the ENTER button.
+	
+		If the display shows 10mW, press the ENTER button to set the transmitter to 10mW
+
+	Note: When selecting power output level, do not press the EXIT button if the display already shows the desired 10mW option as the one currently selected. Always press the ENTER button to apply the selection and exit the menu, even if no changes have been made to the power output level.
+	ALSO PROGRAM THE RECEIVER TO MAKE SURE THE TRANSMITTERS ARE SET TO LOW POWER EVERY TIME IT IS SYNCHRONIZED WITH THE RECEIVER:
+	
+		In the UR4 receiver, press the SYNC menu key, then press the SETUP key
+	
+		Push the wheel to skip down to the POWER option and rotate the wheel two steps to the left to select NORMAL
+	
+		Press the ENTER button to save the changes. Programming the receiver ensures that the transmitters will always be set to normal power after each synchronization with the receiver
+

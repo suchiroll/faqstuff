@@ -1,0 +1,17 @@
+Title: SBC200-US Battery Charger power supply
+Id: 4762
+Legacy Id: 5944
+
+Question:
+What power supply is provided with the SBC200-US?
+
+
+Answer:
+
+	The model SBC200-US includes a PS45 power supply. Up to three additional SBC200 battery chargers can be daisy-chained to the SBC200-US.
+
+	Therecould be additional letters after PS45 depending upon the country.
+
+	The SBC200 requires a power supply with an output of15 Vdc and 3.3 amps. The SBC200 charging current flow is 0.75 amps (750 milliamps.)
+	
+

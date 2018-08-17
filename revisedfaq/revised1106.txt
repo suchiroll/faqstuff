@@ -1,0 +1,18 @@
+Title: VHF Quarter Wave Antenna Lengths and  Tip Colors
+Id: 1106
+Legacy Id: 1142
+
+Question:
+What does the antenna tip color mean? And how long is each?
+
+
+Answer:
+
+	Red tips (15 3/4 inches)designate frequencies between 169 MHz to 185 MHz.
+
+	
+	Green tips (14 5/8 inches) designate frequencies between 185 MHz to 200 MHz.
+
+	
+	Blue tips (13 1/4 inches)designate frequencies between 200 MHz to 215 MHz
+

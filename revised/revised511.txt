@@ -1,0 +1,13 @@
+Title: WL183 and UT: Feedback problems
+Id: 511
+Legacy Id: 521
+
+Question:
+We bought a UT4 wireless receiver and UT1 transmitter with a headset and a presenter WL183. We have a problem with the WL183, it feedsback at very low gains and we are unable to use it. The WL183 is not mentioned in the brochure. Is there a reason for that? What do you recommend as a solution for the problem?
+
+
+Answer:
+
+	The WL183 is omnidirectional; the headset microphone is directional. Typically, an omnidirectional microphone is more likely to feedback. Changing to a directional lapel mic, like the WL185, may help, but it is not a guaranteed solution.
+	
+	More information on feedback: How do I fix my feedback problem?

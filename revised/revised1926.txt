@@ -1,0 +1,11 @@
+Title: Video Camera  needs Stereo Mic.
+Id: 1926
+Legacy Id: 1988
+
+Question:
+I have a Industrial video camera with a 3-pin connector, 48v phantom. My question is what is a good mic. for this camera and do they make a stereo mic. because I do have 2-inputs on the back of this camera. I do a lot of weddings (High Audio) and I want it more around the camera, not so much shotgun like consumer cameras.
+
+
+Answer:
+
+	Check out the Shure VP88. It is a stereo microphone.

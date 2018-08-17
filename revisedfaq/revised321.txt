@@ -1,0 +1,111 @@
+Title: How do I connect a Sennheiser MKE2 to a Shure bodypack?
+Id: 321
+Legacy Id: 328
+
+Question:
+How do I connect a Sennheiser MKE2 to the TA4 connector on a Shure bodypack?
+
+Answer:
+
+	DISCLAIMER: This bulletin was written with information provided by Sennheiser. Shure is not responsible for damage caused to a Sennheiser microphone if this circuit proves incorrect.
+
+	
+
+	There are two methods to wire a Sennheiser MKE2 to a Shure bodypack. The first method is the standard method. The second method provides an output that is 10 to 14 dB greater than the first method. Most applications should use the first method.
+
+	
+
+	Method 1 - Typical Wiring
+
+	To make this modification it is necessary to remove the connector or preamp attached to the microphone cable. This will require disassembling the connector or preamp and unsoldering the attached cable or simply cutting off the cable at the strain relief. Once this is accomplished, the following color codes configuration can be applied to equip the exposed cable with a Switchcraft TA4F connector for mating with the Shure wireless transmitter.
+
+	
+
+	
+
+	
+		
+			
+				Mic
+			
+				---
+			
+				Transmitter
+		
+		
+			
+				Red Wire
+			
+				---
+			
+				Pin 2
+		
+		
+			
+				Blue Wire
+			
+				---
+			
+				Pin 3 and Pin 4
+		
+		
+			
+				Shield
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+
+	Method 2 - Amplified Wiring
+
+	Per Sennheisers Service Department (860-434-9190 ext. 151) any Sennheiser MKE2 microphone that is factory supplied without a connector (pigtailed cable) can be connected to a Shure transmitter using the following diagram. This wiring scheme provides an output level that is 10 to 14 dB greater than the typical wiring scheme.
+
+	
+
+	Note: This circuit may not work if the MKE2 is supplied with a connector by Sennheiser. MKE2 units with factory supplied connectors may be wired differently within the capsule.
+
+	
+
+	The following color codes configuration can be applied to equip the pigtailed cable with a Switchcraft TA4F connector for mating with the Shure wireless transmitter.
+
+	
+
+	R1 = 8.2k Ohms, 1/8 Watt
+
+	
+		The resistor should fit inside of the TA4F.
+	
+		The jumper is required between Pin 3 and Pin 4 to set the correct input impedance (20k ohms).
+
+
+	Connector
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+
+	
+
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

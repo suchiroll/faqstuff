@@ -1,0 +1,22 @@
+Title: Apple iPhone 5 and the 700 MHz frequency band
+Id: 4179
+Legacy Id: 5130
+
+Question:
+Does the Apple iPhone 5 use the 700 mHz band? Might it interfere with wireless mics that operate in the 700 mHz band?
+
+
+
+Answer:
+
+	Yes. Information on Apples website indiactes that iPhone 5 can use the 700 MHz band for LTE data. In the U.S., wireless mic systems have been banned from using 698 - 806 MHz starting July 1, 2010. If wireless mic systems in this frequency range are in use (as of September 2012), the iPhone5 will likely cause significant interference.
+
+	
+
+	The iPhone5 model A1428 (sold by ATT in the U.S., and Rogers, Bell, and Telus in Canada) uses 734-746 MHz (TV 58-59) and 704-716 MHz (TV 53-54).The latter range overlaps discontinued Shure wireless systems that employed theUB-band (698 - 716 MHz.)
+
+	
+
+	The iPhone5 model A1429 (sold by Verizon and Sprint in the U.S.) uses 746-756 MHz (TV 60-61) and 777-787 MHz (TV 65-66).The latter range overlaps discontinued Shure wireless systems that employed the UA-band (782 - 806 MHz.)
+	
+

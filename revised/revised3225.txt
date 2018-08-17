@@ -1,0 +1,16 @@
+Title: Playing music through QuietSpot QSHI3 vs. I2c
+Id: 3225
+Legacy Id: 3375
+
+Question:
+Can I listen to music through my Quietspot headset?
+
+
+
+
+Answer:
+
+	Technically yes. Thereare a couple issues here that you are experiencing. Yes, the driver is technically the same, but the Quietspot is not really meant for music playback. Music is not meant to be heard in just one ear, especially with sound isolating earphones. The music you hear is probably somewhat thin with not a lot of bass. This is due to the seal in your ear and the fact that youre only hearing it in one ear not two. The Quietspot has the capability of full range music but it wont accurately be perceived by you. Also the fact that youre plugging in a 3 conductor plug into a 4 conductor jack could effect the phase of your music making it sound washy and not very present.
+	
+	With two ears sealed and a proper seal and phase, you probably will perceive a better sound with the same driver. Keep in mind the actual quality of the music on your phone. Most likely its at 128kbs which will sound compressed especially in the high end detail where the I3C will give you that advantage....or disadvantage. The I3C will probably fit a little better because of the smaller size though.
+

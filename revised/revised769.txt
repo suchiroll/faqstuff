@@ -1,0 +1,34 @@
+Title: FP33 limiter adjustment
+Id: 769
+Legacy Id: 790
+
+Question:
+I recently purchases your FP33 (an upgrade from a FP32 that I've used on 100's of video and film shoots, without a problem!), and of course, loved it and love the FP33 even more. Good work on the FP33. You addressed all of our soundperson's needs.
+
+I would like to perform the USER ADJUSTMENT outlined in your user manual: LIMITER THRESHOLD ADJUSTMENT. I would like this mixer's threshold to be a bit lower than +15, say +10. I just can't seem to get the limiter to limit unless I have the master gain around 3:00, which is just too much gain for videodecks I go into.
+
+So, my first question is: do you recommend dropping the threshold to +10 to obtain what I'm looking for?
+
+My second set of questions refer to your manual, and the steps on performing this adjustment. I am not clear on the following:
+
+-- "Connect a 600 ohm load across the Left XLR output set for Line." Do you mean pins 2 & 3? 
+
+-- Step #5: "Adjust the left master gain control until the ac voltmeter reading is 2 db above the desired output level." Is that a misprint: "2 db"
+-- do you mean 2 VOLTS? If not, I need a lot more info here. Question: how do I know what the db's are on my DVM? What does it mean by "desired output level"?
+
+Answer:
+
+	Determine the clipping point of the videodeck you use most often. Then set the FP33 limiter to 3 dB below the videodecks clipping point. The range of the limiter is 0dBm to +15dBm.
+	
+	Connect the 600 ohm load across pins 2 and 3.
+	
+	2 dB is correct. You can use an AC voltmeter that reads out in dBm. Or calculate the voltage value of the desired output level, i.e., the maximum output level that is to be sent to the videodeck.
+	
+	As an example, the videodeck has an input clipping point of +12dBm. Set the FP33 limiter for a threshold of +9dBm. The voltage level of +9dBm is determined by the following steps:
+	
+	1. Divide +9 by 20. This equals 0.45
+	2. Take the anti-log of 0.45. This equals 2.82
+	3. Multiply 2.82 by .775. This equals 2.18.
+	
+	+9dBm = 2.18 volts across a 600 ohm load.
+

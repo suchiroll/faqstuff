@@ -1,0 +1,12 @@
+Title: FP23 external power
+Id: 2114
+Legacy Id: 2183
+
+Question:
+We would like to know if there is a possibility for us to acquire a power adaptor instead of the battery that is included so that the unit can be operated continuously without any disruption. If there is no power adapter for this unit, please provide us with a similar unit to the FP23 that comes with a power adapter for 117 volt operation.
+
+
+Answer:
+
+	The FP23 cannot be externally powered. The Shure SCM268 mixer can act as a mic to line amplifier with phantom power, as can the Shure SCM262 mixer. But if a one in/one out preamp is the only solution, then use a product by Rane: http://www.rane.com/ms1b.html
+

@@ -1,0 +1,113 @@
+Title: Advice on Choosing a Phono Cartridge
+Id: 4683
+Legacy Id: 5852
+
+Question:
+Please provide guidance on how to choose a phono cartridge.
+
+
+Answer:
+
+	From July 2015:
+	
+	Who would have guessed that in an era when Apples iTunes has sold over 35 billion songs to 800 million customers (and counting), the market for old-school analog playback LPs would revive? Whats particularly surprising is that the push is coming from millennials.
+	
+	The numbers change depending on the source, but record sales are clearly on the rise:
+	In a February 2015 article, the San Francisco Chronicle cited Nielsen SoundScan figures that showed a 51% rise in vinyl sales from 2013 to 2014 and 9.2 million records sold in 2014
+	Most major new releases have a vinyl version
+	Record companies are starting to reissue classics from The Beatles, The Rolling Stones and Bob Dylan as LPs
+	More than a dozen newcomers have joined the few surviving record-pressing plants according to The New York Times
+	
+	Audiophiles have long touted the warmth and depth of an LPs grooves, but a new audience has discovered the joy of reading liner notes, admiring an album cover, walking across a room to change a record, building a record collection, and cruising used record stores to find that pristine copy of The Velvet Underground  Nico.
+	
+	Phono Cartridges at Shure
+	
+	Shure began making quality phonograph cartridges in 1937 and pioneered advances in cartridge design with Ralph Glover and Ben Bauers needle-tilt principle for minimizing record wear while improving sound reproduction, and Jim Kogens trackability concept. Shure produced the first phonograph cartridge capable of playing both long-playing and 78 RPM records, the first cartridge with a tracking force of only one gram, and the first cartridge meeting the requirements of stereo recording.
+	
+	At the peak of Shures phonograph cartridge production in the 1960s and 1970s, the company was producing approximately 28,000 cartridges per day. There was a Shure cartridge in almost every home, diner, radio station, and nightclub across the United States.
+	
+	By 1988, CD players had created a fatal decline in the demand for phono cartridges. With the exception of audiophiles, radio stations, and baby boomers needing replacement cartridges for their vast record collections, the market disappeared. Then Fate stepped in. In the late 1990s, Shure discovered that discontinued and overstocked Shure needles were being snapped up by American scratch DJs traveling in Asia. Scratching had come to dominate the DJ Battle scene. The Shure M44-7 was, and still is, the go-to cartridge in that sphere.
+	
+	In 2015,Shure manufactures eight phono cartridge models for DJs, jazz-loving, 78 RPM collectors, and vinyl enthusiasts.
+	
+	How a Phono Cartridge Works
+	
+	A phono cartridge is a micro-manufactured electromechanical device that tells the hi-fi system whats happening along the half-mile groove thats cut into a typical analog disc.
+	
+	Phono cartridges, microphones, and earphones all contain transducers that convert one form of energy into another. Phono cartridges do it by translating variations in the groove walls into electrical signals. Thomas Edison pioneered this technology way back in 1877 using a stylus on a tinfoil or wax cylinder.
+	
+	The stylus (needle) moves horizontally and vertically as the groove of the record travels underneath it. A magnet at the other ends and two coils of wire in the cartridge body generates a small audio signal.
+	
+	These days there are two main types of phono cartridges: moving magnet (or MM) and moving coil (MC).Audiophiles may mention Moving Micro Cross and Moving Iron types, but those are far less common.
+	
+	All Shure cartridges are moving magnet (MM) types. A tiny magnet rests on the end of a stylus shank that is suspended between two coils. The vibrating magnet induces a small current in the coils. MM cartridges are compatible with any phono input on a stereo component. Another advantage is that the stylus can be replaced by the owner.
+	
+	Moving coil (MC) types invert the MC design by attaching the coils to the stylus shank or cantilever. The magnet resides near coils that are constructed of very fine wire. The low output of MC cartridges (a function of the coil size) requires the use of a special preamp to boost the signal. Some audiophiles feel that the lighter weight provides more stylus agility, better tracking, and more accurate sound. The stylus is not user-replaceable.
+	
+	Choosing a Phono Cartridge
+	
+	Deciding which phono cartridge will work best for you depends on a few factors.
+	
+	Standard or P-mount
+	
+	You will need to know how the cartridge attaches to the tone arm headshell.There are two common types:
+	Standard mount, by far the most common: Two screws, half an inch apart, thread through the cartridge body to secure it to the headshell, which then plugs into the tone arm.
+	P-mount, primarily on Technics brand turntables: The four prongs at the back of the cartridge plug directly into the tone arm. A single setscrew goes through the side of the cartridge at the back to hold it in place on the tone arm.
+	
+	
+	Elliptical (Bi-radial) or Spherical Stylus
+	
+	The stylus (or needle) is really the heart and soul of the cartridge and accounts for about 90% of the cost of it.Almost all styli have industrial diamond tips. There are two needle shapes: elliptical and spherical. Elliptical needles pick up more information from the record groove and are typically the choice of audiophiles. DJs choose spherical needles because they sit higher in the groove, result in slightly less record wear, and are easy to scratch.
+	
+	DJ, Audiophile, or LP Convert
+	
+	These days, every cartridge manufacturer, including Shure, has developed phono cartridges with features for specific market segments. The rugged construction and sonic characteristics of DJ cartridges arent meant for personal listening. Likewise, you wont want to listen to Daft Punks LP using a cartridge designed for 78s.
+	
+	Budget
+	
+	Believe it or not, there are cartridges priced at $15,000, but of course, those are partly constructed of gold. The questions are: how much can you afford, and how good is your turntable? You wont want to put a $600 cartridge on a $100 turntable.
+	
+	In 2015, Shure cartridges range in price from $60 the personal listening M92E to $180 for the club DJ Whitelabel. There are a number of highly rated turntables that start at around $250.
+	
+	Personal Listening and Audiophile Cartridges
+	
+	Shure M92E Phono Cartridge
+	Value Phono Cartridge (MSRP $60)
+	Excellent affordable cartridge that fits 85% of turntables. P-mount design or S-mount with included adapter.
+	
+	Shure M78S Phono Cartridge
+	78 RPM Phono Cartridge (MSRP $120)
+	Properly sized stylus tip for 78 RPM records, precise tracking ability. and flat frequency response.
+	
+	Shure M97xE Phono Cartridge
+	Audiophile Phono Cartridge (MSRP $165)
+	Smooth sounds and extremely accurate sound reproduction over entire frequency range.
+	
+	DJ and Turntablist
+	
+	Shure SC35C Phono Cartridge
+	DJ Record Needle (MSRP $75)
+	Standard DJ needle well suited for both scratching and mixing.
+	
+	Shure M35X Phono Cartridge
+	DJ Record Needle (MSRP $85)
+	Designed for use with House/Techno mixing. Low record wear helps preserves vinyl. High skip resistance for safeguard against back-cueing.
+	
+	Shure M44G Phono Cartridge
+	DJ Record Needle (MSRP $105)
+	Ideal for when versatile performance is needed. Appropriate for both intensive scratching and mixing.
+	
+	Shure M44-7 Phono Cartridge
+	Turntablist Record Needle (MSRP $125)
+	Engineered for scratch DJs. Designed not to skip under even the most demanding circumstances.
+	
+	Shure Whitelabel Phono Cartridge
+	DJ Record Needle (MSRP $180)
+	Tailored for the club environment. Features solid drop bass, flat mids and accented highs.
+	
+	A Few Words About Stylus Maintenance
+	
+	A stylus tip can provide between 800 and 1,000 hours of playing time. Extend the life of your needle and the quality of the audio by keeping your records and your stylus clean. There are dozens of ways to clean both, from around-the-house supplies to products marketed to vinyl-loving audiophiles. (You can find many of them on YouTube.) A good habit is to clean both stylus and record at the beginning of every listening session.
+	
+	Also true: Even with proper maintenance, repeated play of the same beloved LP causes record wear. Pay attention to manufacturer instructions on cartridge alignment, tracking pressure, and anti-skating.
+

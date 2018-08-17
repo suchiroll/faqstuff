@@ -1,0 +1,28 @@
+Title: PS23US Power Supply
+Id: 4277
+Legacy Id: 5343
+
+Question:
+Please provide technical details of the PS23US power supply.
+
+
+Answer:
+
+	Introduced Spring 2013.
+
+	Rated input: 100 - 240 VAC, 50-60 Hz, 150 mA maximum.
+
+	Rated output: 12 VDC, 400 mA
+
+	Leakage current: less than 30uA
+
+	Input cable: 72 inches (1.8 meter)long; two-prong plug North American A.C. plug
+
+	Output cable: 72 inches (1.8 meter)long; DC Coax plug
+
+	DC Coaxial Plug: right-angle female; non-locking; 2.1 mm inside diameter; 5.5 mm outside diameter; tip/center = positive; sleeve = negative
+
+	Dimensions of power supply plastic enclosure: 2.7long x 2.1 wide x 1.1 thick; 69 mm x 53 mm x 28 mm; two mountings tabs are provided.
+
+	
+

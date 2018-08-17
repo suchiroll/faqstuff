@@ -1,0 +1,51 @@
+Title: Shure U series UHF - antennas
+Id: 1155
+Legacy Id: 1194
+
+Question:
+I am responsible for the sound system here at my university. Just over 2 years ago we purchased 2 U4D UHF units and the antenna dist. system.
+
+
+First, I have heard that it is possible to retrofit the U2 transmitters with longer antennas, could you send me some information on that?
+
+
+Second, the U4D are two channel units in a single rackmount. On one of the receivers (1/2 of the U4D unit) the LCD screen is starting to act up. It is fine when the mic isn't turned on, but as soon as the mic is turned on and the LEDs on the front of the receiver come on, the screen dims, and continues to dim/get brighter as the LEDs go on and off. Any thoughts?
+
+
+Third, is it possible to remote mount one antenna using a UA830 active remote system and keep one without the UA830? For instance, keep one antenna at the rack and then move one closer to the transmitters, or is more advisable to keep both antennas the same?
+
+
+Answer:
+
+	I. Replacing the shorter transmitter antenna with the longer body pack antenna:
+
+
+
+	
+		Unscrew the microphone cartridge at the opening just above the LCD window.
+	
+		Look inside the top of the microphone at the round circuit board. There is circlip which holds the circuit boards in place. Take a pair of small needle nose pliers and place them in the holes of the ends of the circlip. Then squeeze the pliers together and lift the circlip out of the end of the mic and put aside.
+	
+		Unscrew the bottom of the mic at the battery compartment. Slide the battery cover down.
+	
+		Turn the mic around until you locate the GAIN control. Towards the antenna end, locate a small silver screw just below the GAIN control and above the threads for the battery cover. Remove the screw and put aside.
+	
+		Grasp the antenna near the microphone case and gently push the circuit board assembly out through the mic end of the case.
+	
+		Remove the small rubber washer from the antenna and put aside.
+	
+		Carefully unscrew the antenna from the circuit board assembly.
+	
+		Screw on the longer transmitter antenna (part number 95A8731). Replace the rubber washer on the antenna. Carefully slide the circuit board assembly back into the mic case. Make certain that the screw hole and on/off switch are lined up in the respective places. Replace the silver screw. Slide the battery cover back in place and tighten.
+	
+		With the needle nose pliers, try and get the circlip back in the large groove just below the threads for the microphone cartridge. It is tricky and you will need some patience to get it lined up in the groove.
+	
+		Replace the microphone cartridge assembly.
+
+
+	II. The LCD display dimming is likely a problem with the LCD board itself, the power supply, or the ribbon cable connecting to the LCD board. We suggest the unit be returned to Shure for service. Call 800-516-2525 for details.
+	
+	III.  Is it possible to remote mount one antenna using a UA830 active remote system and keep one without the UA830? Yes
+	
+	For instance, keep one antenna at the rack and then move one closer to the transmitters, or is more advisable to keep both antennas the same? Whatever provides the best line of sight from transmitters to receiving antennas is the best setup.
+

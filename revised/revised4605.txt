@@ -1,0 +1,11 @@
+Title: U10S Unidyne II Microphone
+Id: 4605
+Legacy Id: 5761
+
+Question:
+I have a Shure model U10S vintage microphone. Can't seem to find much about it. Please help.
+
+Answer:
+
+	Your microphone is an OEM version of the Shure model 55S Unidyne II. It was manufactured by Shure but sold only to (David) Bogen Sound. Bogen Sound then sold the U10S mic as an accessory to their PA system products.
+

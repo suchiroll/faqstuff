@@ -1,0 +1,17 @@
+Title: How do I wire a Beta 53 for a Telex transmitter?
+Id: 1665
+Legacy Id: 1722
+
+Question:
+Our church just purchased the Shure UHF wireless system with a Beta 53 headset. We are very happy with the performance. We currently have two Telex lavalier wireless systems that have the same connectors. The Beta 53 headset mic does not work with the unit. I assume the wiring is wrong. Do you know if the Beta 53 could be wired to work with the Telex WT-55 body pack. I would prefer complete systems, but budget dollars are a little too tight for that.
+
+
+Answer:
+
+	To make the Beta 53 work on the Telex transmitter, unsolder the red wire on pin 2 on the Beta 53 connector; unsolder the black wire on pin 3 as well.
+	
+	Next resolder the red wire to pin 3; resolder the black wire to pin 2.
+	The Beta 53 will now work with the Telex, but not with the Shure.
+	
+	Or you could make an adaptor cable that does the same thing.
+

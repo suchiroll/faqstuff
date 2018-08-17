@@ -1,0 +1,26 @@
+Title: Which wireless system for presenters?
+Id: 912
+Legacy Id: 940
+
+Question:
+---- 04/02/2001 11:05 PM ---------------------------------------------
+
+I am going to do slide presentations this summer in a small auditorium and I am looking for a system that will support two wireless transmitters (that the presenters use) as well as one mic to work with the audience. I would appreciate to hear any suggestions from you.
+
+Thanks in advance.
+
+
+---- 04/03/2001 12:13 PM ----------------------------------------------
+
+I probably didn't state my question very clearly, but I am not looking for a portable sound system. I am more looking at something like your dual channel VHF wireless system. Or could I simply use two 'Presenter Systems'? I am actually looking for system that will allow for two wireless transmitters.
+
+Thanks for your response.
+
+
+Answer:
+
+	At 04/03/2001 07:54 AM we wrote - Check out complete portable sound system that use Shure wireless mics from Anchor Audio:
+	
+	At 04/03/2001 01:39 PM we wrote - Two diversity Presenter Systems (each on a different frequency) would be a much better choice than either of the dual non-diversity VHF systems. See the links at:
+	
+

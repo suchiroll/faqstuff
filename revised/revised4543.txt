@@ -1,0 +1,26 @@
+Title: MXW with Biamp Tesira
+Id: 4543
+Legacy Id: 5666
+
+Question:
+Is it possible to route audio from an MXWAPT directly to the Biamp Tesira via Dante?
+
+
+Answer:
+
+	In any Dante digital audio network, one device needs to provide the master clock for the network. In most cases, the network, based on whichever device is selected as the preferred clock, elects this device automatically. In any system where an MXWAPT is present, it should be the master clock. This is done intentionally, because the MXW system requires a highly stable, accurate clock. By utilizing a clock of our own specification, we can ensure reliable system performance.
+	
+	The Biamp Tesira, which has a Dante option, also wants to be the master clock. Unfortunately, there is no way to deselect Tesira as the preferred clock in Dante Controller. Therefore, in order to use MXW and Tesira in the same network, you must make sure all MXWAPTs in the system are NOT configured as the preferred master, and the Tesira is the ONLY device configured as the preferred master.
+	
+	While its entirely possible that Tesira may provide an accurate clock, because we are now relying on a third-party clock to provide timing for the MXW system, if the clock accuracy drifts outside of our required tolerance, performance may be affected. The likely symptom would be mutes, or dropouts, of the microphone signals.
+	
+	To minimize the likelihood of this occurrence, consider utilizing the MXWANI devices, which will allow you to route analog audio from MXW to the Tesira.
+	
+	Note: this information only applies to Tesira Servers that have BOTH a Dante card and an AVB card. If only a Dante card is installed, then the Tesira will allow the MXWAPT to be the Preferred Master.
+	
+	OCTOBER 2015 UPDATE: Tesira firmware version 2.4 allows the user to select a Preferred Master. Shure recommends updating any Tesira (to be used with Microflex Wireless) to this version and using Dante Controller to make the Microflex Wireless APT become the master clock.
+	
+	https://support.biamp.com/Tesira/Miscellaneous/Tesira_release_notes
+	
+	https://support.biamp.com/Tesira/Control/Using_multiple_networked_audio_protocols
+

@@ -1,0 +1,13 @@
+Title: Can a V15VxMR stylus replace a V15IV-MR stylus?
+Id: 50
+Legacy Id: 50
+
+Question:
+Can a V15VxMR stylus (model VN5xMR) be used to replace a V15IV-MR stylus?
+
+
+Answer:
+
+	Unfortunately no. The V15VxMR has a different sized stylus shaft than the V15IV-MR and wont fit in the cartridge.
+	
+

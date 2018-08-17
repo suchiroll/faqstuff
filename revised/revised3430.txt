@@ -1,0 +1,18 @@
+Title: WCM16 wiring to TA4F
+Id: 3430
+Legacy Id: 3621
+
+Question:
+What is the wiring scheme for the Shure WCM16 headworn mic?
+
+
+Answer:
+
+	Cable shield to TA4F connector pin 1 [return for audio and bias]
+
+	Red wireto TA4F connector pin 2 [+5 Vdc bias]
+
+	Blackwireto TA4F connector pin3 [audio]
+
+	Jumper between TA4F connector pin 3 and pin 4
+

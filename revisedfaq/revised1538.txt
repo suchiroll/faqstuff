@@ -1,0 +1,12 @@
+Title: Replacement stylus for the M95NAD cartridge
+Id: 1538
+Legacy Id: 1592
+
+Question:
+I have an M95NAD which is a headshell and cartridge "all-in-one". The stylus has only the word Shure on the front.
+
+
+Answer:
+
+	You can use the N95ED or N95HE replacement stylus.
+

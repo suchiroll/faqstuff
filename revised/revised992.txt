@@ -1,0 +1,17 @@
+Title: Mic stand adapter for MX418
+Id: 992
+Legacy Id: 1021
+
+Question:
+1. Can you tell me what specific mic holder I can purchase to place my MX418 mics on a regular mic stand?
+
+
+2. Also would like to change one of the MX418 mics to a supercardioid... I know I can purchase the capsule but how difficult is it to change?
+
+
+Answer:
+
+	1. According to the User Guide for the MX418, the stand adapter is model #A57F.
+	
+	2. The cartridges are very easy to change. You will notice that the very tip of the microphone unscrews.
+

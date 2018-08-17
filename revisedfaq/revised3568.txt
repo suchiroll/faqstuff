@@ -1,0 +1,11 @@
+Title: Unlock UR4 Receiver
+Id: 3568
+Legacy Id: 3774
+
+Question:
+The front panel of my UR4 receiver is locked. How do I unlock it?
+
+
+Answer:
+
+	From the front panel of the receiver, choose the UTIL menu, then choose LOCK.  Rotate the dial so that the lock if OFF.  Press the ENTER button to save your settings.

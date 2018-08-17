@@ -1,0 +1,14 @@
+Title: Where can I find a cable for a model 540 microphone?
+Id: 2276
+Legacy Id: 2357
+
+Question:
+I came into possession of a 540 series II mic and would like a cable to use with it.
+
+
+Answer:
+
+	The model 540 Series II needs an Amphenol MC3M on the cable. We do not carry these connectors.
+	
+	You can also get pre-wired cables from Tom Ellis - U.S. phone: 214-328-3225.
+

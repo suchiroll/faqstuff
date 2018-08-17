@@ -1,0 +1,11 @@
+Title: RS130 Microphone
+Id: 3615
+Legacy Id: 3821
+
+Question:
+I recently acquired a RS130 mic. What is closest current model?
+
+
+Answer:
+
+	RS indicates the mic was made for Radio Shack.    The RS130 is a variation of the Shure PG48-XLR - a Shure model that retailed for $66 U.S. in 2009.

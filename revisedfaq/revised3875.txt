@@ -1,0 +1,24 @@
+Title: Microphone in a radioactive environment
+Id: 3875
+Legacy Id: 4118
+
+Question:
+I need a microphone for use in an environment with radioactive particles. I have tried a condenser mic, but it exhibits random audible popping. What do you recommend?
+
+
+Answer:
+
+	Shure does not have a test facility for radioactive emissions, so the following is educated speculation.
+	
+	There arethree types of radiation that could be involved: alpha, beta, and gamma.
+	
+	Alpha radiation consists of helium nuclei that are expelled from decaying nuclei. As there aretwo protons in each particle, these are electrically charged, and we would expect they might cause popping from a condenser mic. If only alpha particles are involved, a large foam windscreen might reduce the popping, as alpha particles can be stopped by a sheet of paper...or so we have read.
+	
+	Similarly, beta particles (electrons) are electrically charged, so popping from these are likely, and theyll go right through a foam windscreen.
+	
+	Gamma radiation is high energy light with no electrical charge, so it might be less likely to cause popping.
+	
+	However, all of these particles also emit an electromagnetic field, so we wont promise anything about what will really happen. Also, in an area where there is nuclear radiation, there is likely magnetic fields from enormous magnets and other equipment. There are likely many interference sources in such a facility.
+	
+	So, we recommend a low impedance, balanced, dynamic microphone with a humbucking coil.Examples are the Shure SM63 and Shure SM7B.
+

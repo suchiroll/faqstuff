@@ -1,0 +1,32 @@
+Title: Mic for tele-medicine operating room
+Id: 2455
+Legacy Id: 2550
+
+Question:
+1.- I have been told you have a ceiling mike that is retractable. If so what is the apperatus that does this and what are the vertical parameters of the ajustments.
+2.- Do you have a wireless lapel or headset mike that is available with disposeable sterile covers or that is able to be sterilized.
+3. Do you have a Microflex or wireless mike that will they work well with a gentner echo cancelation system and will they be suitable for use in an operating room which has a lot of E.M. noise and background noise.
+
+
+Answer:
+
+	1.- I have been told you have a ceiling mike that is retractable. If so what is the apperatus that does this and what are the vertical parameters of the adjustments.
+	
+	* The Shure MX202 mic can be purchased with a cable reel, but not from Shure.
+	Contact: Xedit Corporation Queens Village, NY (www.servoreelers.com) 1-800-431-8900 (718) 464-9400
+	
+	2.- Do you have a wireless lapel or headset mike that is available with disposeable sterile covers or that is able to be sterilized.
+	
+	* Disposable windscreens are available that are made of open-cell foam. They are not sterile.
+	
+	*We have no knowledgewhat procedures are used to sterlize devices, so we cannot comment if a mic can handle the sterilization process.
+	
+	
+	3. Do you have a Microflex or wireless mike that will they work well with a Gentner echo cancelation system and will they be suitable for use in an operating room which has a lot of E.M. noise and background noise?
+	
+	* Any of the Microflex mics will work with Gentner products. E.M. noise can be a problem for ALL audio products. Experimentation in the room will be the key.
+	
+	* A microphone cannot distinquish between background noise and speech. The best option is to place the mic as close as possible to the talking source desired.
+	
+	* Advanced microphone arrays, coupled with sophisticated audio processing, can also be considered, however, room acoustics still have an enormous impact on the intelligibility of speech.
+

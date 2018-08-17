@@ -1,0 +1,11 @@
+Title: SLX4 Audio Output Level Control Range
+Id: 3765
+Legacy Id: 4001
+
+Question:
+On the rear of the SLX4 receiver is a screwdriver adjustable level control. What is the adjustment range?
+
+
+Answer:
+
+	The range is 25 dB.  This adjustment is an attenuator ("pad") and reduces the signal level; it does not add gain. This control should be set to maximum unless the signal level from the SLX4 is clipping the input of the next device in the signal. 

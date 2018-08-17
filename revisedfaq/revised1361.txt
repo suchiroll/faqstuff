@@ -1,0 +1,12 @@
+Title: SM57 internal wiring of black wire
+Id: 1361
+Legacy Id: 1413
+
+Question:
+I found that the internal wiring in my SM57 came apart, probably from a drummer taking it apart too much! The user guide shows where the green and yellow leads go but doesn't show the black ground conection, and my mic looks like the center post (with nut) had a lead soldered there ... should the black lead go there?
+
+
+Answer:
+
+	Correct.
+

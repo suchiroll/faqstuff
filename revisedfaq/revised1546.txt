@@ -1,0 +1,16 @@
+Title: Online Intermod Calculator other than Shure's
+Id: 1546
+Legacy Id: 1600
+
+Question:
+I am looking for an online program that calculates RF intermodulation (IMD.) I know that Shure offers the Wireless Workbench. Is there anything else like that available online?
+
+
+Answer:
+
+	Here is a web site with an IMD program:
+	RF Intermodulation Calculator
+	
+	The Shure software is Wireless Work Bench:
+	Shure Wireless Work Bench
+

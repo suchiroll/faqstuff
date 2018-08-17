@@ -1,0 +1,26 @@
+Title: Collection of Feedback Troubleshooting Hints and Links
+Id: 4383
+Legacy Id: 5475
+
+Question:
+Acoustical feedback (squealing / howling) in a sound system is a complex phenomenon, with many causes and few solutions. Feedback can occur with wired microphones and with wireless microphones. The links below will assist in defining feedback and what can be done to control it.
+
+
+Answer:
+
+	When will feedback occur? A very simple answer.
+	
+	Controlling Feedback
+	
+	Basics of Equalization and Feedback
+	
+	How do I fix my feedback problem?
+	
+	Microphone for a podium with no feedback, please
+	
+	Does parametric equalizer eliminate feedback?
+	
+	Principles of Sound System Design
+	
+	Sound System Design
+

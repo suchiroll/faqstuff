@@ -1,0 +1,27 @@
+Title: DIS DCS-6000 and DDS-5900 Interconnect Cables
+Id: 5375
+Legacy Id: 5403
+
+Question:
+DIS DCS-6000 and DDS-5900 Interconnect Cables
+
+Answer:
+
+	Specifications for the DIS DCS-6000 and DDS-5900 discussion system interconnecting cables:
+
+	
+		Cable type: CAT-5E (or better, i.e. CAT-6)
+	
+		Wire gauge:24 AWG minimum (smaller cables such as 26 AWG will limit the number of chair/delegate stations that can be daisy chained)
+	
+		Stranded or solid:yes - but stranded is recommended for better flexibility and handling in all applications
+	
+		Cable Shielding:required - F/UTP (overall foil shield, formerly known as FTP) or U/FTP (individual foil shield on each pair, formerly known as STP) or better
+	
+		RJ-45 Connectors: shielded, to match cable and wire type; connectors with a latch tab protector are preferred
+	
+		Cable Shield Termination:shield drain wire must be terminated to RJ-45 connector shield tab at both ends
+
+
+	For permanently installed cables, consider terminating with an RJ-45 jack connector, instead of a plug connector.The RJ-45 jacks are easier to field install since they use a punch-down type termination.
+

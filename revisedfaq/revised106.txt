@@ -1,0 +1,12 @@
+Title: Removing the screw that holds in the XLR connector
+Id: 106
+Legacy Id: 106
+
+Question:
+Is there a trick to getting the screw that holds in the connector backed out so it holds the connector in place once again? I tightened the screw to the remove the connector on an SM58, because I wanted to see the wiring scheme to fix another SM58. After I removed the connector and saw the scheme, I tried to put it back in. Now the screw seems locked in its position (which is all the way in). I did not use any undo force to get the screw in, so why won't it come back out?
+
+
+Answer:
+
+	That screw is a reverse thread. To back the screw out to press against the microphone handle, you will need to turn the screw clockwise. Other than the reverse thread, there is nothing special about the screw.
+

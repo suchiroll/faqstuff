@@ -1,0 +1,36 @@
+Title: SCM820 Crestron/AMX Control Strings
+Id: 4227
+Legacy Id: 5211
+
+Question:
+I want to control the SCM820 with a Crestron touchscreen. What are the control strings?
+
+
+Answer:
+
+	The SCM820 can be controlled by AMX, Crestron, Extron, etc.
+	
+	The touch screen can control/monitor:
+
+	
+		Volume Controls
+	
+		Mute
+	
+		Metering
+	
+		Channel and Device Names
+	
+		Clip Indicators
+	
+		Gate Indicators
+	
+		Force Gating
+	
+		More ...
+
+
+	The control string document can be found at the link below.
+	
+	A Crestron Macro (written by Shure) can be downloaded at the link below.
+

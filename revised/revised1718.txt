@@ -1,0 +1,13 @@
+Title: PE5EQ repair
+Id: 1718
+Legacy Id: 1777
+
+Question:
+I have a SHURE PE5EQ that I bought as a young adult 25 years ago and hardly ever used...but I recently dug it out of storage and it does not work...was told locally that it would have to be totally rebuilt inside and it is not worth it. Can you please advise and if not fixable advise on a replacement for singing through an old heathkit amp.
+
+
+Answer:
+
+	Shure Service no longer repairs this mic. This means that parts will not be available even if a local repair shop tries to fix it. But the problem may be a simple as a wire that became disconnected, so you may want a local audio electronics technician to look inside.
+	
+	We suggest that you not spend over $40 repairing your PE5EQ. You can buy a Shure 588SDX for not much more and get a new mic that far outperforms the PE5EQ.

@@ -1,0 +1,43 @@
+Title: X2u, PG27USB, PG42USB clipping, distorting in Windows 7 and Vista
+Id: 3696
+Legacy Id: 3913
+
+Question:
+When I plug the X2u into my Windows 7 computer, the recording is clipped and distorted. What can I do?
+
+
+
+Answer:
+
+	In Windows Vista and Windows 7, Microsoft added an additional gain stage in the Control Panels.  When you first plug in the X2u, this gain control is set at "100". Instructions on how to get to this gain control follow. These same instructions apply Windows Vista and to the PG27USB and PG42USB microphones.
+	
+		Open the Start Menu and click on Control Panels.
+		
+		
+		 
+	
+		Click on the "Hardware and Sound" heading.
+		
+		
+		 
+	
+		Click on "Manage Audio Devices".
+		
+		
+		 
+	
+		Click on the "Recording" tab. When the X2u is connected to the computer, one of the items listed will say "Shure Digital". Click on the one that says "Shure Digital" and then click on "Properties".
+		
+		
+		 
+	
+		Click on the "Levels" tab. When the window first opens, the level control will be set at 100 (maximum).
+		
+		
+		 
+	
+		Adjust the slider downward. A setting of "2" is about the same gain that was offered in Windows XP.
+		
+		
+		 
+

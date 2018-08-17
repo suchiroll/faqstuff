@@ -1,0 +1,12 @@
+Title: Wind noise and vibration reduction
+Id: 3612
+Legacy Id: 3818
+
+Question:
+Please provide a link to an article about reducing wind noise and vibration in microphones.
+
+
+
+Answer:
+
+	Chris Woolf has written an excellent article on this subject:How to Reduce Wind and Vibration

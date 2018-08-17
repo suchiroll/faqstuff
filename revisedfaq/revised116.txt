@@ -1,0 +1,12 @@
+Title: Which low frequency filter should I use on the KSM32?
+Id: 116
+Legacy Id: 116
+
+Question:
+The KSM32 has a 3-position filter:  flat, rolloff, and cutoff.  How are they different and how do I choose the proper setting?
+
+
+Answer:
+
+	The KSM32 has a three-position, high-pass, filter switch that operates independent of the 15dB-attenuation switch: Flat, Cutoff, and Rolloff. In Cutoff mode the switch engages an 18dB/oct. filter at 80Hz (to reduce room noise). In Rolloff mode, the switch engages a 6dB/oct. filter at 115Hz (to limit proximity effect).
+

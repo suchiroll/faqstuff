@@ -1,0 +1,15 @@
+Title: KSM313 Self Noise
+Id: 4185
+Legacy Id: 5138
+
+Question:
+I love the sound of ribbon mics on acoustic guitar, but I have found that my current ribbon mic is too noisy for recording soft finger picked acoustic guitar. Will the KSM313 do better? I found the sensitivity specs in the 313 manual but nothing about the noise level. I have also heard the KSM 313 on voice at a NAMM show in the past and I was very impressed, but the environment was too loud to give me any information on its self noise. I do understand that the preamp and cable can impact noise.
+
+
+Answer:
+
+	As there are no electronics inside of the KSM313, the noise level is determined by the thermal noise caused by the electrons bouncing around inside of the wires. One way to lower this noise is to cool the microphone down to near absolute zero.
+	
+	So you will require the quietest mic preamp that you can afford.Grace and John Hardy are recommended brands.
+	
+

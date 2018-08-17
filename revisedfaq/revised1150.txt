@@ -1,0 +1,18 @@
+Title: V15 Type II Specs
+Id: 1150
+Legacy Id: 1189
+
+Question:
+I have a V15 type II, brand new. I want to use it with my McIntosh MC 275 power amp and C22 preamp. Mac specs call for certain cartridge info and I can't find it on your spec sheet. I need to know:
+
+1) input sensitivity, (in mV)
+
+1) input impedence, (in ohms)
+
+
+
+
+Answer:
+
+	Nominal output voltage of the V15 II is 3.5 mV. Recommended load impedance for the V15 Type II is 47,000 ohms per channel.
+

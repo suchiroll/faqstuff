@@ -1,0 +1,14 @@
+Title: LED Brightness on models MX393, MX392, MX412D, MX418D
+Id: 2756
+Legacy Id: 2863
+
+Question:
+We have installed a large number of MX boundary microphones. On a recent install a number of the microphones have LED's that are considerably less bright than others and the customer is complaining. Is this a problem previously experienced? What should we do?
+
+
+Answer:
+
+	The LED in the MX300 and MX400D series was changed to a brighter model in early 2002. It appears you have older and newer units.
+	
+	The LED can be changed in the field. Contact Shure Parts at 800-516-2525.
+

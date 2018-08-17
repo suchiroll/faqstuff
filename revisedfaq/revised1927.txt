@@ -1,0 +1,39 @@
+Title: Shure Microphone 559575A
+Id: 1927
+Legacy Id: 1989
+
+Question:
+I have recently obtained a microphone labeled Shure Brothers Inc. Model No. 559575A. I would like any information you have on this item, particularly the wiring diagram as I need to change from a 6 prong plug to a 4 prong plug. I was unable to find any information under discontinued models. Thanks.
+
+
+---- 11/06/2001 11:16 AM ----------------------------------------------
+
+Here are the pictures:
+
+
+---- 11/06/2001 01:03 PM ----------------------------------------------
+
+THANKS
+
+
+
+
+---- 11/07/2001 11:39 AM ----------------------------------------------
+
+Here is a new twist to this: I opened the back of the mic up last night and cut the existing plug off. This mic has 5 wires (Blue, Yellow, Green, Red, White) and an additional switch connected through the mounting stud on the back of the mic. So being somewhat of a novice at this...the wiring diagram of the 527B is accurate ......... Is there any other reference material for this mic? Thanks.
+
+
+Answer:
+
+	At 11/05/2001 07:46 AM we wrote - Shure never sold a model 559575A under the Shure brand. Your microphone is likely an OEM model - made by Shure for another company to be used as part of their product. Our records of OEM model numbers are admittedly incomplete, and we find no reference to a 559575A.
+	
+	If you send us a photo of your mic, we might be able to recognize it. For now, we cannot answer your inquiry.
+	
+	At 11/06/2001 11:49 AM we wrote - It appears to be an OEM variation on the Shure 527 model.
+	
+	The 527 is provided with a bare-ended cable. We do not know the source of your connector, nor do we know if there were any wiring variations requested by the OEM buyer.
+	
+	At 11/06/2001 01:53 PM we wrote - You are welcome.
+	
+	At 11/07/2001 12:35 PM we wrote - Sorry, there is not. Any variation from the 527B wiring was requested by the OEM purchaser of your mic.
+

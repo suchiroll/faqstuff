@@ -1,0 +1,18 @@
+Title: Small and Large Diaphragm Condenser Mics - Typical Uses
+Id: 2829
+Legacy Id: 2940
+
+Question:
+What is the difference between a small and large diaphragm in a condenser mic?
+
+
+Answer:
+
+	Here is an admittedly basic explanation:
+	
+	Small diaphragm condenser mics tend to be more accurate in reproducing the acoustic signal and are often used for measurement mics, instrument mics, and recording mics for ensembles.
+	
+	Large diaphragm condenser mics tend to be less accurate in reproducing the acoustic signal, but produce warm and unique signals that enhance solo vocals or small vocal ensembles.
+	
+	However, there is no rule that says a small diaphragm mic cannot be used for vocals or a large diaphragm mic for instruments. Use the mic that produces the sound quality you are seeking.
+

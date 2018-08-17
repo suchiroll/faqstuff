@@ -1,0 +1,23 @@
+Title: UR1M improved latch for battery door
+Id: 5350
+Legacy Id: 4210
+
+Question:
+UR1M improved latch for battery door
+
+Answer:
+
+	In October 2011, Shure introduced a new design for the UR1M transmitter with an improved latch for the battery door. The slide-action latch is easier to operate.
+	
+	The dimensions of the UR1M have changed slightly:
+	
+	New improved UR1M Dimensions
+	48 mm L x 63 mm W x 17mm D (1.9 x 2.5 x 0.66 inches)
+	Net Weight
+	64 g (2.3 oz.) without batteries
+	
+	OriginalUR1M Dimensions
+	49 mm L x 60 mm W x 17 mm D (1.9 x 2.4 x 0.66 inches)
+	Net Weight
+	62 g (2.2 oz.) without batteries
+

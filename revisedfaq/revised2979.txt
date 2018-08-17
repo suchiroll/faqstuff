@@ -1,0 +1,16 @@
+Title: Wireless mic for a wedding ceremony outdoors
+Id: 2979
+Legacy Id: 3107
+
+Question:
+I am a mobile disc jockey and I do several outdoor wedding receptions during the summer and was wanting to know what mic to use so that I can mic the bride and groom and the minister. This mic can be wired or wireless but fairly inconspicuous and be able to pick-up all 3 voices so that they can all be heard over the PA system.
+
+
+Answer:
+
+	Use a wireless system, like the Shure SLX, with a bodypack transmitter, and an omnidirectional lapel mic, like the model MX183 or WL93.
+	
+	Place the mic on the ministers chest, about 9 inches below the chin, as he does most of the talking. The bride and groom responses will be lower in level than the minister, but they will be heard.
+	
+	Place the loudspeakers as far away as possible from the ministers mic to control feedback.
+

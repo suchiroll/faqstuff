@@ -1,0 +1,14 @@
+Title: Model 737A
+Id: 1990
+Legacy Id: 2053
+
+Question:
+I recently obtained one of your old (Discontinued) "Monoplex" Crystal microphones and I'm trying to find a microphone cable that I can use to test and use the microphone with.
+
+
+Does the 737A use the 3-PIN amphenol type connector?
+
+
+Answer:
+
+	See the 737A data sheet at: http://pubs.shure.com/guide/Model-737A/en-US

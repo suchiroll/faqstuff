@@ -1,0 +1,15 @@
+Title: SCM810 Mixer - Direct Gated Outputs
+Id: 922
+Legacy Id: 950
+
+Question:
+We want to use an SCM810 mixer as an eight channel equalized, gated group of preamps. Our studio mics would be fed through each channel to the direct outputs and then to eight line inputs of an audio/video master control switcher. I understand that the 810 can be modified in the field so that the direct outputs are post eq., post level control, and gated. 
+
+I need to know if this is correct before purchasing an 810. Also the site manual states that the direct output when modified to gated out is without "NOMA". Would you explain this.
+
+Answer:
+
+	What you are suggesting is possible. The modification instructions are described in the User Guide of the SCM810. This would change the direct outs to be post eq, post level control, and gated.
+	
+	NOMA stands for Number of Open Microphone Attenuation. Every time the number of open microphones doubles, the mixer will decrease the master output by 3 dB. This keeps a consistent output level, regardless of how many people are talking. This attenuation is on the master output, thus does not affect the direct outputs.
+

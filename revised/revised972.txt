@@ -1,0 +1,37 @@
+Title: FP32A or FP33 Mix Bus cables
+Id: 972
+Legacy Id: 1001
+
+Question:
+What is the output level of the Mix Bus jack of the FP32, FP32A, + FP33 mixers? Is it Line, Mic, or some other level?
+
+Since it is only 3 wire I assume that it is Left, Right and Common. Am I correct? (And thus not shielded?)
+
+Can I get an extra pair of Left and Right outputs from the mixer by making a cable that is 3 pin (Switchcraft TA3?) to two male XLR's? Can you please provide the pin wiring.
+
+This is unrelated to the above question -
+I have looked at the Shure web site before, but never the question and answer section. I am very impressed with the layout and content of the FAQ (Q+A) section of your site. It is a great service to the users of your equipment to have this service available to us. Thanks a lot!
+
+Answer:
+
+	Thank you for the compliment.
+	
+	Here is the answer to your question.
+	
+	Mix Bus Level = +4dBm nominal
+	Mix Bus Z = 930 ohms
+	
+	Connector Outs:
+	Pin 1 = left
+	Pin 2 = right
+	Pin 3 = ground/shield
+	
+	Looking at mixer jack
+	Upper left = pin 1
+	Upper right = pin 3
+	Lower middle = pin 2
+	
+	The mix output is pre-Master gain control.
+	
+	If you want a manufactured device that meets your need, purchase the Bus-Mon from Peter Engh Audio; phone 612-827-7992. Peter is located in Minneapolis, Minnesota, USA.
+

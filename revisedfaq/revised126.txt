@@ -1,0 +1,15 @@
+Title: I have a cartridge or stylus I need to replace. The cartridge model is CV9E.
+Id: 126
+Legacy Id: 126
+
+Question:
+I have a cartridge or stylus I need to replace. The cartridge model is CV9E. The stylus model is RS8T.
+
+Answer:
+
+	Thank you for your inquiry concerning Shure phonograph products.
+	
+	Shure makes our best effort to provide a replacement stylus for 10 years after a specific cartridge has been discontinued. Unfortunately, our inventory of CV9E replacement styli is depleted.
+	
+	Click here to select a suitable Shure cartridge for your turntable.
+

@@ -1,0 +1,12 @@
+Title: 3dB RF attenutor/pad
+Id: 3660
+Legacy Id: 3868
+
+Question:
+I need to reduce the transmit power of my PSM transmitter from 100 mW to 50 mW (a loss of 3 dB) in order to comply with new FCC regulations issued in 2010. Is there an external pad that can be used? How about for the UR1 transmitter, too?
+
+
+Answer:
+
+	Mini-Circuits sells the model HAT 3+.    This is a 3 dB pad (attenuator), 50 ohms, 1 Watt power ratio, with BNC connections.   Connect the PSM transmitting antenna to the HAT 3+ pad, then connect to the PSM transmitter.For the Shure UR1 transmitter, use the model VAT 3+; it has SMA connectors to match the UR1 transmitter and UR1 antennawww.minicircuits.com   Phone: 718-934-4500
+

@@ -1,0 +1,15 @@
+Title: 444D wiring
+Id: 827
+Legacy Id: 850
+
+Question:
+I have a 444D microphone with a standard 4 pin connector on the end for amateur radio use.  I don't want to take apart the original plug if I don't have to and would like to make a jumper to my present radio, a TenTec Triton 2 which requires a 1/4 plug.
+
+The info I need most is what color wire corresponds to which connector on the original plug or if you have it the wiring for the whole jumper.
+
+Answer:
+
+	The 444Ds, like many of our communications microphones, was manufactured without a connector. Connectors were added by dealers or by radio manufacturers who bought the microphones for their radios.
+	
+	So, there was no standard connector for this microphone.
+

@@ -1,0 +1,11 @@
+Title: UA844 Heat Dissipation
+Id: 3804
+Legacy Id: 4042
+
+Question:
+What is the heat dissipation of a UA844 RF distribution amplifier?
+
+
+Answer:
+
+	UA844:  50W   171 BTU/hr

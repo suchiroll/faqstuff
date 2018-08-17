@@ -1,0 +1,11 @@
+Title: X2u with SM58 - level is too low
+Id: 3595
+Legacy Id: 3801
+
+Question:
+I just bought the X2u + SM58 bundle, and even with the mic gain on the X2u maxed out, I'm getting rather low levels (I have to speak/sing pretty loud to get into the yellow range). What can I do to boost the level?
+
+
+Answer:
+
+	The SM58 is designed for close-up use, typically within about 6 inches or so, so make certain you speak close to the microphone. Otherwise, there really isn't anything else you can do to boost the level without adding an additional microphone preamplifier.However, low recording levels can usually be compensated for by using a process called "normalization," a feature available in most recording software. Normalization boosts the level of the track so that the highest peak will hit "zero," yet retains the original dynamic range of the track. Often, this is preferable to simply adding more microphone gain up front, because an additional stage of active gain will also add more noise to the signal.

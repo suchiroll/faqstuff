@@ -1,0 +1,12 @@
+Title: AXT600 Headphone Monitor Control "Push"
+Id: 4109
+Legacy Id: 4757
+
+Question:
+The headphone monitor control on the AXT600 front panel has a label that reads "PUSH." Does it have a function? Nothing seems to happen.
+
+
+Answer:
+
+	The PUSH feature of the headphone monitor is a carry over from the design of AXT400 receiver. As of May 2012, the PUSH on the AXT600 has no function, but that may change in the future as new firmware is developed.
+

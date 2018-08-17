@@ -1,0 +1,12 @@
+Title: PA710 Receiver Antenna
+Id: 3675
+Legacy Id: 3884
+
+Question:
+The PA710 antenna, used for the P6R receiver and P7R receiver, has been discontinued as of April 2010. Is there a replacement part number?
+
+
+Answer:
+
+	Until inventory is depleted, the PA710 is available from Shure Parts and Service as the part number 95C2303.
+

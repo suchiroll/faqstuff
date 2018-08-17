@@ -1,0 +1,11 @@
+Title: Connecting MXA910 and MXA310 microphones to a PC
+Id: 4983
+Legacy Id: 6251
+
+Question:
+Since the MXA910 and MXA310 have Dante™ digital audio networking instead of USB or analog outputs, how would I connect them to a PC via USB?
+
+
+Answer:
+
+	You would need a Dante™-to-USB converter, such as the Shure ANIUSB-MATRIX. Where appropriate, Dante™ Virtual Soundcard or Dante™ Via software (www.audinate.com) can also be used to directly connect MXA microphones to a networked PC for conferencing, without needing to convert to USB.

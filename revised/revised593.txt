@@ -1,0 +1,11 @@
+Title: Multi-function Audio Analyzer
+Id: 593
+Legacy Id: 605
+
+Question:
+Does Shure make an Audio analyzer that includes: Real Time Analyzer; SPL Meter; and Signal Generator?
+
+Answer:
+
+	Shure does not, however Sencore does. It is the model SP295 and can be viewed at: http://www.sencore.com
+

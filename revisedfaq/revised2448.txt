@@ -1,0 +1,35 @@
+Title: Nextel phone interference and wireless mics
+Id: 2448
+Legacy Id: 2543
+
+Question:
+I have been using Sony wireless UHF wireless systems for the last couple of years and have recently been coming accross Nextel phone interferance. Is this particular to Sony? Have Shure UHF systems been experiencing the same thing? Can you explain why this happens? We are looking to move to a different wireless manufacture that can offer stability.
+
+
+I also need to know if we can use our existing assortment of Sennheiser Lav mics with your bodypacks. We have ME104's and MKEII golds that are currently wired for the Sony units.
+
+
+Answer:
+
+	I have been using Sony wireless UHF wireless systems for the last couple of years and have recently been coming accross Nextel phone interferance. Is this particular to Sony?
+	
+	* Please ask Sony. We do not comment on other companies products.
+	
+	Have Shure UHF systems been experiencing the same thing?
+	
+	* Yes. The design of the Nextel phone and system is less than optimal.. Keep the Nextel phones 10-20 feet away from the receivers and the receiver antennas.
+	
+	Can you explain why this happens?
+	
+	* A wireless receiver has a very sensitive front-end design to pick up the very, very, very weak signal radiated by a wireless mic transmitter. (Based on FCC design rules.) If a wireless device with a powerful output, like a Nextel phone, is operated near a wireless mic receiver, the front-end of the receiver is overloaded with RF power and this produces interference. Try a two-watt walkie-talkie sometime!
+	
+	We are looking to move to a different wireless manufacture that can offer stability.
+	
+	* No honest manufacturer of wireless mics would guarantee interference-free operation from powerful RF sources like a Nextel phone. Shure products are very reliable, well-designed, and have a fine reputation. Interference-free? No wireless mic system is free from interference.
+	
+	Another source? Read: http://www.audiosystemsgroup.com/wireless.pdf
+	
+	I also need to know if we can use our existing assortment of Sennheiser Lav mics with your bodypacks. We have ME104s and MKEII golds that are currently wired for the Sony units.
+	
+	* Sennheiser mics are routinely connected to Shure transmitters. Rewiring will be necessary. How do I connect a Sennheiser MKE2 to a Shure bodypack? ;Wiring configuration for U1  Sennheiser ME104
+

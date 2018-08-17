@@ -1,0 +1,297 @@
+Title: What U.S. television stations use which frequencies?
+Id: 377
+Legacy Id: 384
+
+Question:
+I have a Shure wireless microphone. How can I find out what television station matches up with the frequency that I am trying to use.
+
+
+Answer:
+
+	Wireless microphones use the same frequencies as television stations. It is therefore necessary to avoid any television stations that are active in your area. To find out which television stations are located in your area, click on the link at the bottom of this page. The chart below provides television channel versus frequency information.
+
+	U.S. TV Channels and Their Frequency Spectrum
+
+	
+		
+			
+				
+					TV Channel
+				
+					Spectrum (MHz)
+				
+					
+				
+					TV Channel
+				
+					Spectrum (MHz)
+			
+			
+				
+					VHF
+				
+					
+			
+			
+				
+					7
+				
+					174.0-180.0
+				
+					11
+				
+					198.0-204.0
+			
+			
+				
+					8
+				
+					180.0-186.0
+				
+					12
+				
+					204.0-210.0
+			
+			
+				
+					9
+				
+					186.0-192.0
+				
+					13
+				
+					210.0-216.0
+			
+			
+				
+					10
+				
+					192.0-198.0
+				
+					
+			
+			
+				
+					
+					UHF
+			
+			
+				
+					14
+				
+					470.0-476.0
+				
+					34
+				
+					590.0-596.0
+			
+			
+				
+					15
+				
+					476.0-482.0
+				
+					35
+				
+					596.0-602.0
+			
+			
+				
+					16
+				
+					482.0-488.0
+				
+					36
+				
+					602.0-608.0
+			
+			
+				
+					17
+				
+					488.0-494.0
+				
+					37
+				
+					608.0-614.0
+			
+			
+				
+					18
+				
+					494.0-500.0
+				
+					38
+				
+					614.0-620.0
+			
+			
+				
+					19
+				
+					500.0-506.0
+				
+					39
+				
+					620.0-626.0
+			
+			
+				
+					20
+				
+					506.0-512.0
+				
+					40
+				
+					626.0-632.0
+			
+			
+				
+					21
+				
+					512.0-518.0
+				
+					41
+				
+					632.0-638.0
+			
+			
+				
+					22
+				
+					518.0-524.0
+				
+					42
+				
+					638.0-644.0
+			
+			
+				
+					23
+				
+					524.0-530.0
+				
+					43
+				
+					644.0-650.0
+			
+			
+				
+					24
+				
+					530.0-536.0
+				
+					44
+				
+					650.0-656.0
+			
+			
+				
+					25
+				
+					536.0-542.0
+				
+					45
+				
+					656.0-662.0
+			
+			
+				
+					26
+				
+					542.0-548.0
+				
+					46
+				
+					662.0-668.0
+			
+			
+				
+					27
+				
+					548.0-554.0
+				
+					47
+				
+					668.0-674.0
+			
+			
+				
+					28
+				
+					554.0-560.0
+				
+					48
+				
+					674.0-680.0
+			
+			
+				
+					29
+				
+					560.0-566.0
+				
+					49
+				
+					680.0-686.0
+			
+			
+				
+					30
+				
+					566.0-572.0
+				
+					50
+				
+					686.0-692.0
+			
+			
+				
+					31
+				
+					572.0-578.0
+				
+					51
+				
+					692.0-698.0
+			
+			
+				
+					32
+				
+					578.0-584.0
+				
+					
+				
+					
+			
+			
+				
+					33
+				
+					584.0-590.0
+				
+					
+				
+					
+			
+		
+	
+
+
+	Notes:
+
+	TV channels 2-6 are not approved for use by wireless microphone systems, and are not shown here. Channel 37 is reserved for radio astronomy and is not used for television broadcasts or wireless microphones.
+
+	Further information:
+
+	To find out what television stations are in operation in your area, click on the following link.
+
+	Shure Frequency Finder
+
+	To find out which frequencies Shure uses on its wireless systems, click on the following link:
+
+	
+		Frequency Charts
+
+

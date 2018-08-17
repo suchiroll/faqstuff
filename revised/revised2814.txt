@@ -1,0 +1,14 @@
+Title: Gooseneck Creaking Noise
+Id: 2814
+Legacy Id: 2924
+
+Question:
+What can be done to reduce the noise made by the flexible parts of a gooseneck microphone as it is positioned? Is there some sort of lubricant (graphite?) that is recommended?
+
+
+Answer:
+
+	Try a silicone lubricant. Spray it on a rag and wipe the rag over the gooseneck.
+	
+	Note: too much lubricant will reduce the metal to metal friction that makes a gooseneck rigid, so use any lubricant sparingly.
+

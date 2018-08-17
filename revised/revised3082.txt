@@ -1,0 +1,39 @@
+Title: Tour Guide Wireless System Using SLX and PSM200
+Id: 3082
+Legacy Id: 3214
+
+Question:
+How do I configure a tour guide wireless system using SLX and PSM200?
+
+
+Answer:
+
+	Tour Guide Wireless System Using SLX and PSM200
+	
+	A basic tour guide wireless systems can be created with the following components:
+	
+	SLX14-H5 wireless system
+
+	WBH53 headworn microphone
+
+	P2R-H2 bodypack receiver
+
+	SRH240A headphonesor headphones
+	
+	A receiver and headphones are required for each member of the tour group. The H2 and H5 frequency designators are important to ensure that the two devices can be tuned to the same frequency.
+	
+	The following steps will make the system operational:
+	
+	1. Select a clear channel for the P2R receivers.
+	2. Set all P2Rs to the same channel. Note: the corresponding frequency for a given channel can be found on the back of the P2R.
+	3. Put the SLX4 receiver into Master List mode by holding down the menu button while turning on the receiver. A MASTER LIST icon will appear in the display along with the frequency number.
+	4. Press the menu button, and FREQUENCY SELECT will flash in the display.
+	5. Use the menu button to scroll up, or select to scroll down, to match the frequency setting of the P2Rs (see step 2 above).
+	6. Press the sync button to save the frequency.
+	7. Open the battery compartment of the SLX1 bodypack transmitter.
+	8. Hold it up to the SLX4 receiver and press the sync button. This will set the SLX1 to the proper frequency.
+	
+	The RF LED on the P2R should light to indicate it is receiving signal from the SLX1. The SLX4 is no longer needed at this point, but it will be required should it become necessary to change the frequency of the SLX1 transmitter.
+	
+	Due to differences in the companding circuits of SLX and PSM200, there may be audible artifacts that result in a somewhat gated sound. This effect will be more or less noticeable depending on the headphones used and the sophistication of the listener, but speech will be clear and intelligible. This setup is not recommended for hi-fidelity music reproduction.
+

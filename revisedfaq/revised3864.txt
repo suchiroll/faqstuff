@@ -1,0 +1,16 @@
+Title: Click Track with PSM900 or PSM1000
+Id: 3864
+Legacy Id: 4106
+
+Question:
+When using a click track, or drum machine, with my PSM900 (or PSM1000), my mix volume swells/pulses with the rhythm of the click. Any idea what causes this strange sonic anomaly?
+
+
+Answer:
+
+	Click tracks and drum machines have a dense amount of high-frequency audio content. This is partially why they make good click tracks!  If this high-frequency content is strong enough, it can interact with the PSM900 or PSM1000 circuitry to cause the effect described in the question.  To reduce this anomaly, insert a steep high-cut (low-pass) audio filter that starts at 10kHz to 12kHz.  The filter must be placed before the input of the PSM transmitter.  The filter reduces the offending frequency components of the click track, and the anomaly will no longer be present.  Most parametric equalizers have the ability to steeply roll-off frequencies above 10kHz.
+	Frequency notching for the 19kHz stereo pilot tone will not alleviate this issue. There is a significant amount of pilot tone filtering built-into in the PSM transmitter.  The PSM compressor is sensitive to intense levels of high-frequency audio content. This was a design decision, and provides excellent frequency response. Normal music signals and mixes are more wideband than a click track, and therefore, this pumping effect is not present. However, a click track can dominate the spectrum of the signal, and could set this behavior into motion. Shure have recreated this in the lab, and experimented with reducing this effect, but the audio performance tradeoff was deemed unacceptable.
+	 
+	
+	
+	 

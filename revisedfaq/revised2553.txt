@@ -1,0 +1,12 @@
+Title: In-line push-to-talk or on/off switch
+Id: 2553
+Legacy Id: 2651
+
+Question:
+Does Shure make an "in-line" push-to-talk or on/off switch that I can use with the SM7B microphone?
+
+
+Answer:
+
+	The Shure A120S could be configured to work in-line with the SM7B.
+

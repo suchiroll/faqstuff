@@ -1,0 +1,14 @@
+Title: 596SK Microphone
+Id: 4491
+Legacy Id: 5605
+
+Question:
+Did Shure make a model 596SK?
+
+
+Answer:
+
+	Yes. It was an OEM model and was sold for the Silent Knight Intelligent Fire Alarm Control Systems. The mic cable terminated in an RJ-45 plug.
+	
+	Like all OEM models, once discontinued, the microphone technical documentation was sent to the purchaser, Silent Knight.
+

@@ -1,0 +1,19 @@
+Title: iPhone 4  problem with earphone jack
+Id: 3718
+Legacy Id: 3951
+
+Question:
+I have an iPhone 4 and found that the reception degraded based upon how I held it. I found out that the metal band around the phone perimeter is part of the antenna. So I bought an accessory: a plastic bumper/case that covers the metal band antenna and this seems to help. But now my headphones do not make a secure attachment with the iPhone 4 headphone jack. Any suggestions?
+
+
+Answer:
+
+	The earphone plug opening through the protective bumper/case is very slightly undersized relative to the plastic mold that covers a typical earphone 3.5mm male plug.  We would estimate the difference is only thousandths of an inch.
+	
+	With the protective bumper/case installed, if you casually insert the 3.5 mm plug to the first level of jack contact, you get neither music nor any control function. This is because the connection points on the female jack and the male plug are not properly aligned.
+	
+	If you push somewhat harder on the 3.5 mm plug,  you can sometimes get music (stereo) but no control function.
+	
+	If you push yet a bit harder and twist the 3.5 mm plug while pushing, you can fully seat the plug into the jack, and get music and control. The connection feels relatively secure at that point, but if you pull the 3.5 mm plug out even slightly you'll be back to: music but no control.
+	
+	We urge every owner of the iPhone 4 to contact Apple and request that this bumper/case dimensional problem be rectified.

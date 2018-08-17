@@ -1,0 +1,51 @@
+Title: How can I monitor a line level signal with headphones?
+Id: 2881
+Legacy Id: 3001
+
+Question:
+I need to do some troubleshooting and I want to listen to a line level signal with headphones. How can I do this?
+
+
+Answer:
+
+	How to Use Stereo Headphones to Monitor a Low Impedance Line Level Signal
+
+
+	Why use stereo headphones to monitor a line level signal?
+
+
+	When troubleshooting the signal chain of a sound system, it is often useful to listen directly to the line output of a device to determine the signal quality at that point. If the device has a headphone output, it is simply a matter of connecting the stereo headphones to the headphone output. But what if the device does not have a headphone output? In that case, a simple test cable can be assembled using parts from Radio Shack. This test cable provides an easy way to connect a stereo headphone to a line level output.
+	
+	Note: This assumes the actual impedance of the line level output is under 1,000 ohms. This will be the case for the majority of professional audio products. If in doubt, check the products technical specifications.
+	
+
+	What is the schematic for the test cable?
+
+
+	
+
+
+	What parts are required?
+
+
+	J1 = 1/4 stereo female inline phone jack; Radio Shack part 274-142 or part 274-141
+	R1 = 390 ohm, 1/2 W resistor; Radio Shack part 271-1114
+	Alligator clip test leads; Radio Shack part 278-001
+	
+
+	How is this test cable used?
+
+
+	
+		Plug the stereo headphones into J1.
+	
+		Connect the red alligator clip to the hot audio lead of the line level output. If the output is an XLR connector, the red clip goes to pin 2.
+	
+		Connect the black alligator clip to the cold audio lead of the line level output. If the output is an XLR connector, the black clip goes to pin 3.
+
+
+	WARNING
+
+
+	A line level signal can drive most headphones to very loud levels. Be alert to excessive sound pressure levels when using this procedure to test the audio quality of a line level signal.
+

@@ -1,0 +1,13 @@
+Title: Point to point (PTP) mode on P10T
+Id: 5416
+Legacy Id: 
+
+Question:
+How do I enter the PTP mode on the PSM 1000?
+
+Answer:
+
+	In the AUDIO menu, choose MODE, then select PTP.
+
+	This mode allows the P10T to transmit to a UR4 receiver in the same frequency range.
+

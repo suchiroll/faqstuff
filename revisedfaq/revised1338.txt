@@ -1,0 +1,12 @@
+Title: Replacement for VSTIII cartridge
+Id: 1338
+Legacy Id: 1390
+
+Question:
+I contacted you before regarding my VSTIII cartridge. The sheet that came with it says the replacement stylus is VNSE3HE. Your answer was to go to your FAQ. I find nothing there regarding VSTIII (search found nothing). VNSE3HE says replacement for Radio Shack V15RS. I went to Radio Shack and they cross refrenced the number and gave me a stylus that is not like mine. Is the VSTIII (it says special edition ultra group) the same as V15RS and am I on an impossible search?
+
+
+Answer:
+
+	Sorry, the VNSE3HE stylus is no longer stocked by Shure. If Radio Shack also had no stock, stop searching.
+

@@ -1,0 +1,25 @@
+Title: Are traveling frequencies a good way to avoid interference?
+Id: 8
+Legacy Id: 8
+
+Question:
+Are VHF traveling frequencies a good way to avoid interference anywhere in the country?
+
+
+
+Answer:
+
+	Not necessarily. While traveling frequencies allow you to avoid broadcast television anywhere in the U.S., there are many other forms of RF interference present in this frequency band (169-172 MHz).
+	
+	The majority of todays wireless microphone systems operate in one of two frequency bands: VHF (Very High Frequency) and UHF (Ultra High Frequency). Since these same bands are also employed by television stations, wireless microphone frequencies must be chosen based on the city in which they will be used. Frequency selection is then a matter of choosing compatible frequencies that do not fall within the range of a locally active TV channel. The obvious problem arises when wireless systems need to be used in more than one city. If the cities in question have the same active TV channels, there is no problem. For example, Chicago and Los Angeles both have TV channels 7, 9, and 11. However, if one city has odd channels and another has even channels, the same wireless microphone systems may not work in both locations.
+	
+	Users who require wireless systems that will work in a variety of locations can purchase systems that operate within a small band of frequencies just below TV channel 7. This band, 169-172 MHz, includes eight specific frequencies (only three of which can be used simultaneously) designated by the FCC for wireless microphone use by the general public. These frequencies are often referred to as traveling frequencies, because they can theoretically be used throughout the U.S. without interference from local television stations.
+	
+	Unfortunately, wireless microphones are not the only users in this frequency band. Many business and government operations such as forestry, hydro-electric power stations, and the Coast Guard use traveling frequencies for communications and data transmission. More recently, the FCC has begun to allow this frequency band to be used for paging systems. Also, these frequencies are generally illegal outside of the U.S. and Canada. Finally, because of the widespread appeal of wireless microphones, traveling frequencies are historically the most popular and therefore tend to be more crowded than other VHF wireless frequencies.
+	
+	Due to these limitations, Shure strongly advises against the use of traveling frequencies. There is no longer any assurance that a wireless microphone on a traveling frequency that works fine in one city will be usable in another city, or that it will be usable anywhere. Keep in mind that the FCC designates wireless systems as secondary users, which means there are no frequencies solely reserved for wireless microphone use. Primary users, such as television stations, and other secondary users can interfere with wireless microphone systems and suffer no legal ramifications. For permanent installations, traveling frequencies should be avoided.
+	
+	What are the alternatives to traveling frequencies? All current Shure wireless microphone systems are frequency agile. That is, you can change the frequency on the wireless system to avoid local television stations..
+	
+	Though the concept of traveling VHF frequencies is appealing, the reality is that new wireless communication systems severely limit the geographic areas where these frequencies can be used without interference.
+

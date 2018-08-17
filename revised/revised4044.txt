@@ -1,0 +1,25 @@
+Title: Microphone windscreen created from a loofah
+Id: 4044
+Legacy Id: 4483
+
+Question:
+Might a loofah work as a windscreen for a microphone? The loofah cells are open and appear to be acoustically transparent.
+
+
+
+Answer:
+
+	Shure Applications Engineering investigated using a loofah as a windscreen. The tested loofah had a diameter of 3 inches and a length of 6 inches. It was used with the Shure SM81 microphone. The loofah worked well to control wind noise and P-popping.
+	
+	Items to note:
+	1) A loofah will absorb water, so do not use a loofah windscreen in the rain or snow.
+	2) A loofah can be cut or trimmed to suit different applications. However, the effectiveness of a windscreen is directly related to its diameter and size.
+	3) A loofah will shed microscopic plant material. It would be wise to protect the microphone diaphragm with a layer of nylon, such as used in panty hose.
+	4) The loofah surface can stained, dyed, or colored if desired. This could be useful for a school theatrical production where the budget is limited, but windscreens are needed that also match the coloring of costumes.
+
+	
+
+	
+
+	
+

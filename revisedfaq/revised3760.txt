@@ -1,0 +1,275 @@
+Title: Point to point wireless with P9T transmitter  and SLX4 receiver
+Id: 3760
+Legacy Id: 3996
+
+Question:
+I need a stationary wireless system. That is, I want the receiver and transmitter to both be rack mounted and AC powered. What can I use?
+
+
+Answer:
+
+	WIRELESS POINT-TO-POINT AUDIO USING AN SLX4 RECEIVER
+	
+	Certain sound system applications require sending audio from a central location to one or more remote locations without using cable. Various combinations of wireless microphone and personal monitor systems can be configured to send audio via a radio link to meet this need. This FAQ discusses implementation of a wireless audio link using the Shure P9T transmitter and an SLX4 receiver.
+	
+	Both the P9T transmitter and SLX4 receiver products can be rack mounted, and they both can be AC powered. This is especially useful for permanent or semi-permanent installations, where AC power is available. It also eliminates the need to replace batteries. The P9T and SLX4 are both tunable in 25 kHz steps throughout their operating frequency ranges, providing excellent flexibility in frequency selection.
+	
+	Here are the implementation steps:
+	
+	Step 1 - Frequency Selection
+	
+	Identify available frequency spectrum in the area where the system will be used. The P9T and SLX4 can operate in the following UHF TV Broadcast frequency ranges:
+
+	
+		470 - 542 MHz, TV channels 14 - 25
+	
+		656 - 662 MHz, TV channel 45
+
+
+	Procedure:
+
+	
+		Using various resources, such as the FCC TV broadcast database, RF spectrum scanning equipment (if available), and the Shure online Frequency Finder tool, identify vacant TV channels in the above listed ranges. Be sure to identify any nearby low-power TV stations and any proposed new TV stations which may cause interference both now and later.
+	
+		Identify any TV channels that are reserved for Public Safety communications in the area of operation. Wireless audio operation is prohibited in these reserved channels. When using frequencies in the G4, G5, G6 and G7 bands, it is imperative to avoid local public safety frequencies. See Public Safety FAQ.
+
+
+	Once vacant TV channels are identified, select a candidate equipment and frequency band combination:
+
+
+	
+		
+			
+				
+					TV Channels
+			
+			
+				
+					Frequency Range (MHz)
+			
+			
+				
+					Transmitter Band
+			
+			
+				
+					Receiver Band
+			
+		
+		
+			
+				
+					14 - 17
+			
+			
+				
+					470 - 494
+			
+			
+				
+					P9T-G6
+			
+			
+				
+					SLX4-G4
+			
+		
+		
+			
+				
+					18 - 19
+			
+			
+				
+					494 - 506
+			
+			
+				
+					P9T-G6
+			
+			
+				
+					SLX4-G5
+			
+		
+		
+			
+				
+					20 - 21
+			
+			
+				
+					506 - 518
+			
+			
+				
+					P9T-G7
+			
+			
+				
+					SLX4-G5
+			
+		
+		
+			
+				
+					22 - 25
+			
+			
+				
+					518 - 542
+			
+			
+				
+					P9T-G7
+			
+			
+				
+					SLX4-H5
+			
+		
+		
+			
+				
+					45 only
+			
+			
+				
+					656 - 662
+			
+			
+				
+					P9T-L6
+			
+			
+				
+					SLX-L4
+			
+		
+	
+
+
+	
+
+	The best combinations will include more vacant TV channels. In some areas, more than one equipment and frequency combination may be equally desirable.
+	
+	If no other UHF wireless audio equipment is to be used at the location, use the SLX system frequency table in the product User Guide to select a frequency in a vacant TV channel. Make a note of the selected frequency band (G4, G5, H5, or L4), the group/channel number, and the numerical frequency in MHz - this information will be used to program the equipment in a later step.
+	
+	If other wireless microphones, personal monitors, and intercom equipment will be used at the same venue, an inventory of all equipment and frequencies of the wireless equipment is required. It will be necessary to use a software program, such as the Shure Wireless Workbench, to synthesize and coordinate a set of compatible operating frequencies.
+	
+	Step 2 - Modify the SLX4 Receiver to Defeat the Tone Key Squelch Circuit.
+	
+	The tone key squelch function of the P9T transmitters and SLX4 receivers are different. A minor modification to the SLX4 receiver is required to defeat the tone-key squelch circuit for compatibility.
+	
+
+	
+		Remove the 4 screws on the sides of the SLX4 chassis as shown.
+		
+			
+	
+	
+		Press down on the front center of the top cover of the receiver so that the flange lock releases from the front panel. This allows the cover to slide backward as shown.
+		
+			
+	
+	
+		Locate jumper R280 on the printed circuit board. R280 is located on the left side of the board.
+		
+			
+	
+	
+		Place a solder jumper across the two points marked as R280 as shown.
+		
+			
+	
+	
+		Reassemble the SLX4 receiver by sliding the cover back over the chassis and fastening the screws on the sides of the receiver.
+
+
+	Step 3 - Program SLX4 Receiver
+
+
+	
+		The selected frequency group and channel from Step 1 will be used to program the SLX4 Receiver.
+	
+		Power up the receiver and attach a pair of antennas.
+	
+		Press the MENU button twice.Group Select should be displayed in the window.
+	
+		Press the SELECT button to advance the group digit to the desired value.
+	
+		Press MENU once.Manual Channel Select will be displayed in the window.
+	
+		Press the SELECT button to advance the channel digit to the desired value.
+	
+		After setting the group and channel digits, the programming mode will time-out after several seconds and the group and channel values will be saved.
+
+
+	Step 4 - Program the P9T Transmitter
+
+
+	
+		Attach an antenna to the P9T transmitter.
+	
+		Verify that the RF switch is in the OFF position, and power on the P9T.
+	
+		On the P9T, press ENTER.
+	
+		Use the P9T Menu knob to highlight and select RADIO.
+	
+		Push the Menu knob to highlight the first three digits of the frequency.
+	
+		Turn the Menu knob to scroll through the numbers to match the first three digits of the selected frequency.
+	
+		Press the Menu knob again to highlight the next three digits of the frequency.
+	
+		Turn the Menu knob to scroll through the numbers to match the second three digits from the selected frequency.
+	
+		Press the flashing ENTER button to set the frequency. At this step, the P9T frequency must match the selected frequency which is already programmed into the SLX4 frequency.
+	
+		To enter Point-to-Point mode (PTP) on the P9T, press ENTER.
+	
+		Use the Menu knob to highlight and select AUDIO.
+	
+		Within the AUDIO menu, highlight MODE (MONO or STEREO/MX). Then consecutively press the SYNC - EXIT - SYNC buttons within a 2.5 second window.
+	
+		The P9T display will say ENTER PTP MODE? IT WORKS WITH UHFR RX ONLY!!! (Note - the PTP mode setting is compatible with a modified SLX4 receiver.)
+	
+		Turn the Menu knob to select YES.
+	
+		Press the flashing ENTER button.
+	
+		The P9T is now in PTP mode.PTP will be highlighted in the lower right corner of the display.
+	
+		Push the P9T RF switch to the ON position. The blue antenna LED should illuminate.
+
+
+	Step 5 - Verify Point-to-Point Operation
+
+
+
+	
+		Any line level audio signal input to the P9T should now be present at the outputs of the SLX4 receiver.The green Ready LED on the front panel of the SLX receiver will indicate that the RF signal is being received.
+
+
+	With this arrangement, a monaural audio signal can be transmitted from point-to-point via two AC powered, rack mounted devices.
+	
+	Operational Notes
+	
+
+	
+		The audio output of the SLX4 receiver is mic level and not line level.If line level is required, the SLX4 receiver must feed a mic-to-line preamp.
+	
+		When the P9T is transmitting, the Ready light on the SLX4 Receiver front panel will illuminate.
+	
+		When sending a +4dBU line-level signal to the P9T, use the AUDIO menu to select LINE and use the UP/DOWN buttons to set level to -16 dB as shown on the display. While observing the audio meters on the P9T, adjust the UP/Down buttons for deflection in the green and occasionally into the yellow range.
+	
+		A stereo signal connected to the LEFT and RIGHT inputs of the P9T will be summed to mono and sent to the SLX4 Receiver. To transmit in stereo and receive in stereo, two P9T transmitters and two SLX4 receivers are required. Send the left channel through one P9T/SLX4, and the right channel through the other P9T/SLX4 - set to a different Channel within the same Group.
+	
+		Point-To-Point (PTP) mode will remain active even when the P9T is powered off and powered on. To exit PTP mode, push ENTER, use the Menu knob to select AUDIO, and then change PTP mode to either MONO or STEREO/MX.
+	
+		A directional antenna, like the PA805SWB, is recommended for the P9T transmitter and for the SLX4 receiver. Use of directional antennas may extend the operating distance to 500 feet (150 meters) and beyond, given optimum conditions and a clear line-of-sight between antennas.
+
+
+	This set-up pertains only to frequencies available on U.S. versions of PSM900 (P9T) and SLX4 wireless systems. For further information contact Shure Incorporateds Applications Engineering Group at 1-800-516-2525.
+

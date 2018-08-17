@@ -1,0 +1,15 @@
+Title: Beta 87 maximum SPL
+Id: 1919
+Legacy Id: 1980
+
+Question:
+I have been trying to use the Beta 87 as a vocal mic. The problem is that the singer has a high SPL when he sings and is overloading the mic. It's not the gain control, it seems to be the mic. I've been running sound for a long time and I told him to use a SM58 and we will be all good but he wants to use the Beta 87. He thinks that it has something to do with the EQ setting? If so please tell me? Whats the SPL Rating for the Beta 87 as opposed to the SM58?
+
+
+Answer:
+
+	1) He thinks that it has something to do with the EQ setting? * Very unlikely. We suggest you adjust the input attenuation (trim) control of your mixing board. Add more input attenuation. If the board does not have a trim control, insert a Shure A15AS attenuator in the connection from the mic to the mixing board.
+	
+	2) What's the SPL Rating for the Beta 87 as opposed to the SM58? * Beta 87 is 142 dB SPL. SM58 is greater than 185 dB SPL.
+	
+	By the way, no singer can sing as loud as 142 dB SPL.

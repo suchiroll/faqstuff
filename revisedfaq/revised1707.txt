@@ -1,0 +1,12 @@
+Title: Two transmitters in one enclosure
+Id: 1707
+Legacy Id: 1765
+
+Question:
+I know you make a dual channel receiver, my question is, do you make a dual channel transmitter? so that i might plug my guitar and headset into the same transmitter. I want to avoid having two transmitters on me at once.
+
+
+Answer:
+
+	It may be many years before you see such a product. Locating two transmitters, each on a unique frequency, in the same enclosure creates many problems because the transmitters electronically interact in a very negative manner. Solving this complex RF physics problem will require a major/expensive research and development effort.
+

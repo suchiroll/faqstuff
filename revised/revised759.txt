@@ -1,0 +1,11 @@
+Title: Shure V15 Type III P Mount
+Id: 759
+Legacy Id: 779
+
+Question:
+I have Technics SL-2000 direct drive turntable. Mounting of cartridge to turntable is "P-mount". Cartridge body to tone arm head is "standard attachment" with center screw through top of tone arm head. The cartridge body is black, with a silver logo imprint on stylus protector, reading:"Super Track Plus". Is there a replacement cartridge for this venerable, but reliable model that has served me well all these years?
+
+Answer:
+
+	The P mount concept has fell out of favor. Therefore, very few cartridges are still available. The best one now offered by Shure is the M92E.
+

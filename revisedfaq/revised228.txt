@@ -1,0 +1,42 @@
+Title: Battery Powered Phantom Power Supply with Balanced Output
+Id: 228
+Legacy Id: 233
+
+Question:
+How do I make a battery powered phantom power supply that was balanced XLR in and out?
+
+
+Answer:
+
+	The schematic below illustrates an 18 volt phantom supply. It will supply any Shure microphone that requires phantom power. Battery life is dependent on the current drain of the microphone. To estimate the battery life in hours, divide 400 by the microphones current drain in milliamps. For example, the Shure SM81, with a current drain of 1.2 milliamps, will operate for about 330 hours. The use of premium alkaline batteries is recommended.
+	
+
+	
+		
+			
+				Schematic for 18 Volt Phantom Supply
+				Output must feed a balanced input
+		
+	
+
+
+	
+	
+
+
+	
+		
+			
+				D1 = 1N4001 or equivalent
+				R1, R2 = 2.2kohms, 1/4W, 1%
+				S1 = SPST
+				This circuit must be in a metal enclosure.
+				Pin 1 must be grounded to the enclosure
+				Parts availabe from Mouser Electronics
+				(800) 346-6873 or www.mouser.com
+		
+	
+
+
+	
+

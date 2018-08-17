@@ -1,0 +1,20 @@
+Title: Microphone sensitivity conversion basics
+Id: 383
+Legacy Id: 390
+
+Question:
+For some reason the conversions are not making sense to me.  You state that a typical value for a dynamic mic is -75dBV/microbar.  How does this convert to 0.00018 Volts?  Can someone please give an actual equation?  Thanks.
+
+Answer:
+
+	To go from dbV to volts:
+	1. Divide -75 by 20. Answer is -3.75
+	2. Take the antilog of -3.75. Answer is 0.000177.
+	
+	To go from volts to dbV:
+	1. Take the log of 0.000177. Answer is -3.75.
+	2. Multiply -3.75 by 20. Answer is -75.
+	
+	Equation:
+	dBV = 20 * log (volts)
+

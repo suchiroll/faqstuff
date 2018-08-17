@@ -1,0 +1,12 @@
+Title: Calculating maximum input level of digital device
+Id: 1057
+Legacy Id: 1090
+
+Question:
+With a digital recording device with quoted analog input configurable as either +4 dBu/-10 dBV is it possible to calculate the maximium input voltage (pp or rms) before clipping will occour for these standards. Do these input levels refer to a recomended 'average' level or a peak level to utilize the full dynamic range of the digital recorder?
+
+
+Answer:
+
+	Digital devices should quote their maximum input in their specifications. If the maximum input is not in the specifications for the device, contact the manufacturer. The +4dBm and -10dBV references are average values. Typical signals will have peaks 20 dB above those levels. Some devices only have 16 dB of headroom above the average level. Other devices have up to 24 dB of headroom above the average level. Every device is different.
+

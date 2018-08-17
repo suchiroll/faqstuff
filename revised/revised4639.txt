@@ -1,0 +1,19 @@
+Title: PGA Condenser Mics Self-Noise Specifications
+Id: 4639
+Legacy Id: 5798
+
+Question:
+Please provide the SPL equivalent self-noise ratings for the PGA condenser mics.
+
+Answer:
+
+	PGA27: 15dB SPLtypical, A-weighted
+	
+	PGA81: 20dB SPLtypical, A-weighted
+	
+	PGA98D: 27dB SPLtypical, A-weighted
+	
+	PGA98H: 27dB SPLtypical, A-weighted
+	
+	PGA181: 22dB SPLtypical, A-weighted
+

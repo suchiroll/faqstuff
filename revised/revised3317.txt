@@ -1,0 +1,13 @@
+Title: Using the WB98H/C as a wired mic
+Id: 3317
+Legacy Id: 3488
+
+Question:
+I am interested in the purchase of the WB98H/C in the wireless configuration so I can use with my current body packs, but would also like the option to run wired on a XLR mic line if needed. What is required?
+
+
+Answer:
+
+	It is essential to use the RPM626 preamp with the WB98H/C for wired operation. The mic mixer must provide phantom power in order to operate the RPM626. The RPM626 converts the mic element signal (unbalanced and medium impedance) into a signal that is balanced and low impedance.
+	
+	The RPM626 has a TA4M (four pin male connector) that mates with the TA4F on the WB98H/C cable.  The RPM626 output is a three pin male XLR connector.

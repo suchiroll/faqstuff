@@ -1,0 +1,52 @@
+Title: Info on QLXD v2 firmware
+Id: 5413
+Legacy Id: 6352
+
+Question:
+Info on QLXD v2 firmware
+
+Answer:
+
+	Version 2 Firmware for QLXD was introduced in January 2017.
+	
+	Why was this firmware update implemented?
+	Digital wireless customers have encountered issues of compromised sound quality and signal deterioration. These issues have been rare, limited to extremely marginal RF environments. The issues are easily resolved with this firmware patch, which is now available on the Shure Update Utility.
+	
+	Is this compatible with old versions?
+	The QLX-D 2.X firmware versions are incompatible with 1.X firmware versions. To ensure all receivers and transmitters in a configuration function with each other, update all devices to the same firmware version.
+	
+	How will this update improve the performance of my QLX-D system?
+
+	
+		Improved audio stability in marginal RF environments.
+	
+		Firmware update 2.0.16 enables support for new VHF frequency bands V50 and V51. The low-battery alert flashes from the receiver LCD in the following instances:
+	
+		
+			
+				SB900: less than 30 minutes
+			
+				Alkaline: around 30 minutes
+			
+				NiMH and Lithium: around 20 minutes
+		
+	
+
+
+	Can battery alerts be disabled on the receiver?
+	Alerts can be disabled via the receivers advanced menu. To enter the advanced menu, press the enter and menu buttons together.
+	
+	How will I know that my transmitter/receiver needs the update?
+	Simply put, your transmitter and receiver will not sync correctly, even if the same channels, frequency and encryption settings are selected. QLXD4 receivers will display Err.007 on the menu display. A list of error codes with descriptions and solutions can be found in the QLXD user guide. Additionally, if the receiver is connected to Wireless Workbench the following hardware alert will appear: Audio Incompatibility Detected. Update firmware of all components to the same version.
+	
+	How do I know which Firmware Version a component is running?
+	From the QLXD4 receiver menu, navigate to DEVICE UTILITIES  VERSION to display firmware version. In QLXD1 and QLXD2 transmitters menu, UTILITY  VERSION will display firmware version.
+	
+	If I need to, is it possible to downgrade from 2.x firmware?
+	While it is recommended to operate with the latest available firmware it is understood that some situations may arise where somebody may want to downgrade a 2.x unit to a previous version of firmware. This is possible via the same Shure Update Utility process if you select an older version of FW from the version to install drop down window.
+	
+	How do I update the firmware?
+	Instructions are provided below, in the QLX-D user guides, and via the followng video about the Shure Update Utility.
+	
+	
+

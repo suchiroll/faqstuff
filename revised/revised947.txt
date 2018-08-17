@@ -1,0 +1,14 @@
+Title: How do I mic an audience in a large reverberant room?
+Id: 947
+Legacy Id: 975
+
+Question:
+I need to mic an audience of congregational singing in a church. The room is large and uncarpeted, so it is quite reverberant. The audience head count is about 200. Is there some mic or method that can pick up the general sound of the audience? I tried an SM63, but it was so weak the mixer didn't pick up hardly any sound, even when we turned it all the way up. The purpose of the mic is to record congregational singing, the whole 200 person congregation. They are not professional singers, so they don't usually sing real loud, but we want to record it (video and audio).
+
+
+Answer:
+
+	For educational material, please see: Educational Articles - Online booklets and bulletins
+	
+	Many microphones could be used, depending on the quality of recording that you are looking for. The SM63 would work fine, if you had a mixer that could amplify it enough. If you are wanting to hang a microphone, you may want to look at the MX202. For more of a stand mount or hand held microphone, we suggest the PGA81. You will have to experiment with the placement of the microphone(s). Placing the microphones far away from people may pick up too much reverberation. Placing the microphones too close to people will cause the microphone to only pick up only a few voices.
+

@@ -1,0 +1,21 @@
+Title: A412MWS Allen Wrench
+Id: 3117
+Legacy Id: 3250
+
+Question:
+What size is the Allen wrench (hex-head) used to adjust the screw on the A412MWS metal windscreen?
+
+
+Answer:
+
+	The Allen wrench is a #2 (0.035 inch).
+	
+	The 0.035 hex dimension is nearly identical to a metric 0.9 mm hex key or driver.Either should work. In some cases, a wrenchbe sold as a combo and labeled for both 0.035 and 0.9 mm.
+	
+	There are at least two manufacturers of the miniature hex drivers:
+	- Wiha
+	- Cooper Tools
+	
+	To locate a supplier of this size hex tool, use a web search engine with the following text:
+	0.035 hex driver.
+

@@ -1,0 +1,54 @@
+Title: FP24 driving the FP33 mix bus
+Id: 1691
+Legacy Id: 1748
+
+Question:
+I was looking at several websites and saw the new FP24. Looks pretty cool. I've been needing a second mixer for a while and it seems like a nice way to go. I'm curious though, it looks just like the Mix Pre from Sound Devices. It has identical specs. Why? Why is the phase flopped compared to my FP32? It seems to me it would make sense to have all your field production mixers to have the same phase orientation.
+
+
+
+I'm to give a seminar tomorrow night on field audio to a PVA group and was going to recommend the FP24 as a lower price option to the FP33 but I'd really like to know why the differences with your other established products.
+
+
+---- 09/12/2001 11:15 AM ----------------------------------------------
+
+
+Thank you for your quick reply. I've included an excerpt from the FP24 Owners manual .pdf that prompted the question. I'm not trying to be a jerk, I'm not a tech but a sound guy from way back. Can you please explain the excerpt and why "reverse polarity" is not phase flop.
+
+
+NOTE: If constructing your own FP24/FP33 interconnect cable
+
+·Keep cable length to a minimum, since the interconnection is unbalanced.
+
+·Be sure to drive the FP33 mix bus off of pin 2 of the FP24 since the FP24 inputs are reverse polarity with respect to FP33 inputs.
+
+
+Thanks again for your help. I really don't get this.
+
+
+Answer:
+
+	The FP24was made for us by Sound Devices. The FP24 and FP32 have the same phase. On both of those units, a positive voltage on pin 2 of the input will produce positive voltage on pin 2 of the output. That is, neither unit inverts the phase as the signal passes through the unit.
+	
+	On the FP32 data sheet, it says, 3-pin input and output connector in phase; pin 2 in phase with tip of phone and mini jacks. That means the 3 pin input and output connectors (the XLR connectors) are in phase with each other. Also, pin 2 is considered hot.
+	
+	On the FP24 data sheet, it says, All inputs to all outputs, non-inverting. Pin 2 of XLRs hot (to unbalanced inputs and outputs). The term non-inverting means the same as in phase.
+	
+	These two pieces both have the same phase and use the standard established by the AES.
+	
+	At 09/12/2001 11:28 AM we wrote - Lets try again.
+	
+	1. The FP24 and FP33 have the same polarity from XLR input to XLR output. On both units, pin 2 is audio hot on the input and on the output. So the FP24 can be considered a smaller, less expensive FP33-like mixer.
+	
+	2. The only problem is when the FP24 is connected to the FP33 VIA the FP33 mix bus. Below is a quote from the Shure A33LK data sheet. (The A33LK is a linking cable that connects the FP24 XLR outputs to the FP33 mix bus.)
+	
+	When interconnecting the FP24 to the FP33 with the A33LK, inputs from the FP24 appear at the FP33 mixbus with their polarity reversed. This is unavoidable due to the nature of the interconnection. To avoid cancellation or interference effects (e.g., comb filtering) between the FP24 signals and the FP33 signals, use Shure polarity invertors on the FP24 inputs...
+	
+	The above statement is misleading. The problem lies not with the FP24, but where the FP33 mix bus is located in the FP33 circuit design. The FP33 mix bus signal is 180 degrees out of polarity (phase) with the FP33 inputs and FP33 outputs. Therefore, the FP33 mix bus is also 180 degrees out of polarity with the FP24.
+	
+	When the FP33 was designed, the mix bus was only considered a place to interconnect another FP33 via its mix bus. Therefore, the polarity of the mix bus did not matter as long as every FP33 mix bus was the same.
+	
+	And the FP24 outputs are impedance balanced, meaning that pin 2 and pin 3 have the same impedance in relationship to ground, but only pin 2 carries a signal. So you cannot drive the FP33 mix bus from pin 3 of the FP24. If you could, this whole discussion would be moot. See: http://www.sounddevices.com/tech/balancing.htm
+	
+	In hindsight, we wish the FP33 mix bus shared the same polarity as the inputs and outputs. But it doesnt, and therefore the confusion you encountered.
+

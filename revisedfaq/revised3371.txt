@@ -1,0 +1,28 @@
+Title: Odd 2.5mm & 3.5mm Headset adapters for 20 pin cell phones like Samsung Sync A707
+Id: 3371
+Legacy Id: 3558
+
+Question:
+Will my Quietspot work with the Samsung Sync 20-pin cell phone.
+
+Answer:
+
+	Many phones require adapters due to proprietary connectors. The following phones with the adapter appear that they will work with the Quietspot boom and inline versions (QSHB3, QSHI3) Not the QSHB4.
+	
+	http://www.daydeal.com/product.php?productid=15238cat=2400
+	www.daydeal.com
+	SKU:SAM-35ADAPT-AAET254CBEBSTD
+	
+	Compatible with Samsung A717, A727, A437, BlackJack i607, D807, UpStage M620, M610, T509, SYNC A707, Trace T519, T629, T809, U740 / SCH-U740, Helio Drift / SPH-A503, Helio Heat / SPH-A303
+	_______________________________________________________
+	
+	The below adapter will work with any SE model earphone. This adapter incorporates a mic and send/end button (if supported by phone) and will plug into the modular short cable of SE model earphones.
+	
+	http://www.daydeal.com/product.php?productid=13180cat=2400
+	www.daydeal.com
+	SKU: SAMT809-35ADAPT-MIC
+	
+	Compatible with Samsung A717, A727, BlackJack i607, D807, UpStage M620, M610, T509, Trace T519, T629, T809, SYNC A707, U740 / SCH-U740
+	
+	PLEASE NOTE: We have not tested many phones and adapters and cannot guarantee top performance with these products. However they appear they should work when viewing specifications.
+

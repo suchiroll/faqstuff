@@ -1,0 +1,16 @@
+Title: Model 581SB?
+Id: 2363
+Legacy Id: 2453
+
+Question:
+I picked up an old 581SB Unidyne mic a while ago, and there are no specs on it anywhere. I attached a picture of the thing. It looks very much like a 515SDX., and it's rather large. [excuse the quality--I haven't mastered the art of scanning mics]. BTW: This is definitely from the 60's. It has a 3-pin Amphenol connector [broken, but nothing major]. Plus, the cartridge is dead. Would a similar cartridge [i.e. one from a 515] work at all?
+
+
+Answer:
+
+	The 581SB had a very short life, i.e., it never sold well. The element was a Unidyne A design. Shure has not built the Unidyne A element for over 25 years. The 515 used a Unidyne B element. The A and the B elements are similar but not identical. There are electrical differences and dimensional differences.
+	
+	Your question is like asking Ford "Can I fit the engine from a 1985 Mustang into my 1965 Mustang?" The question makes sense, but likely no one at Ford could answer the question as manufacturers do not spend engineering time "hot-rodding" their products. The same is true at Shure.
+	
+	The current 515 element is the R180; U.S. retail price of $41.00. Are you willing to risk $41 to repair (perhaps) a mic whose performance was mediocre at best? Our advice: save your money.
+

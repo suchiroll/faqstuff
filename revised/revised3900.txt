@@ -1,0 +1,21 @@
+Title: Shure CA20 Transducer Pick Up for Wind Instruments
+Id: 3900
+Legacy Id: 4146
+
+Question:
+I found a trumpet mouthpiece with a Shure CA20B pick up attached. What can you tell me about it?
+
+
+Answer:
+
+	The CA20B was manufactured by Shure from 1968 to 1970. The CA20B had a ceramic transducer element with an output level of -73 dB V at 94 dB SPL / One Pascal. It was sold only to the Innovex division of the Hammond Organ Company. The CA20B was not sold to Shure dealers.
+	
+	The CA20B attached to the mouthpiece of a wind instrument, like a trumpet, clarinet, or sax. A hole was drilled into the side of the mouthpiece. A brass adapter, with an internalrubber O-ring,was threaded into this hole. The CA20B then threaded into this adapter. The unbalanced, high impedance output signal from the CA20B was carried on a 60 cable terminated in a tip/sleeve 1/8 phone plug. The phone plug connected to the Condor RSM Wind Instrument Synthesizer, made by Innovex. The Condor was based on the electronics of the Hammond orgran and could produce a variety of sounds and effects using the wind instrument as the trigger source. Examples of settings on the Condor: Bass Sax, Fuzz, Cello, Oboe, Tremolo, Vibrato, Bassoon, etc. If the player wanted to use the instrument acoustically, the CA20B would be unthreaded from the adapter and replaced by a brass cap that sealed the side hole in the mouthpiece.
+	
+	The Condor was not a success and Shure made few of the CA20B. Some players continued to use the CA20B as a horn pick up, connecting it to the input of a guitar amp. Other model numbers associated with the CA20B were CA20, CA20A, RD7458, and 98A132B.
+	
+
+	
+	
+	
+

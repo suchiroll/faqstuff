@@ -1,0 +1,12 @@
+Title: Shure mic model #EM28B
+Id: 1969
+Legacy Id: 2032
+
+Question:
+Where can I get a wiring diagram for this mic?
+
+
+Answer:
+
+	Shure never sold a model EM28B under the Shure brand. Your model was made by Shure for General Electric and last sold in 1981. We have a one page sheet that shows the internal wiring of the mic, but no specifications.
+

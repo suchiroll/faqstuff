@@ -1,0 +1,18 @@
+Title: Changing frequency on UT system.
+Id: 2451
+Legacy Id: 2546
+
+Question:
+Is it possible to have the frequency changed on a UT-transmitter/reciever?
+
+We have one with frequency at 624.300 MHz that receives an interference
+
+frequency.
+
+
+
+Answer:
+
+	Yes, Shure Service can change the frequency of your system for a fee. Contact them at 800-516-2525 or 847-866-2699.
+	
+	Make certain to have the frequencies of any other wireless systems when you call.

@@ -1,0 +1,43 @@
+Title: 90A2263 Mic Element
+Id: 825
+Legacy Id: 847
+
+Question:
+Can you point me towards any of your literature of
+the different models either online or offline that used this element
+so that I can see how to properly wire the element.
+
+Thankyou
+
+ Gary Sidgreaves
+
+
+Subject
+---------------------------------------------------------------
+element ID
+
+Suggested Answer
+---------------------------------------------------------------
+At 03/26/2001 11:50 AM we wrote - The 90A2263 is a dynamic element used in handheld
+communications microphones.  It is not a controlled magnetic element like used in the
+original 520 models for the 1940's - 1980's.
+
+Question
+---------------------------------------------------------------
+
+Perhaps you can help me with one more
+element ID.
+
+This one does not identify what type it is.
+It says Shure Brothers on it.
+It only has two connections , one of
+which has a + next to it.
+and  90A2263 BH printed with ink
+on it.
+
+Answer:
+
+	At 03/27/2001 10:22 AM we wrote -
+	
+	This cartridge is currently used in the 527C microphone. We are attaching the 527C user guide.
+

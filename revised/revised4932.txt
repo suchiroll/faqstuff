@@ -1,0 +1,14 @@
+Title: WB98H/C Used with a Line6 bodypack
+Id: 4932
+Legacy Id: 6190
+
+Question:
+Can I connect WB98H/C (with TA4F) to a Line6 V55-BP transmitter?
+
+
+
+Answer:
+
+	Based on a Line 6 document supplied to Shure, theWB98H/C should work properly with the Line 6 transmitter. The connectors and the wiring schemes appear compatible.
+	
+

@@ -1,0 +1,13 @@
+Title: Latency specification in Axient Analog
+Id: 3849
+Legacy Id: 4089
+
+Question:
+I see that the Axient analog wireless system has a latency specification. Is Axient a digital wireless system?
+
+
+Answer:
+
+	The Axient analog wireless system, introduced in 2011, transmits the signal using analog FM, just like traditional wireless microphones.  Once the receiver has received the RF signal, the audio is converted into digital for processing.  After processing the audio is converted back to analog and sent out the XLR and 1/4" outputs.
+	
+	Axient Digital, introduced in 2017, is an all digital system.

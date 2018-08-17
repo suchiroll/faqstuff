@@ -1,0 +1,29 @@
+Title: MX392 Mic element active - LED controlled by switch
+Id: 3484
+Legacy Id: 3682
+
+Question:
+I need the MX392 mic element to always active, but the LED to follow the action of the switch. Can this be done?
+
+
+Answer:
+
+	MX392 Modification
+	
+	Mic element always active.LED lights up only when switch is pushed.
+	
+	1. Set internal DIP switch:
+	
+	S1 = OFF - if SWITCH OUT logic signal needs to be momentary (push and hold)
+	
+	OR
+	
+	S1 = ON - if SWITCH OUT logic signal needs to be latching (push on/push off)
+	
+	S3 = ON
+	
+	S4 = OFF
+	
+	
+	2. Inside of the mic, insert a jumper wire between the LED IN screw terminal and the SWITCH OUT screw terminal. The SWITCH OUT terminal will now activate the LED whenever the mic membrane switch is activated.
+

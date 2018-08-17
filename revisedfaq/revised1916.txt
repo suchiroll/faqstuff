@@ -1,0 +1,14 @@
+Title: Long run of cable - RCA to RCA plugs
+Id: 1916
+Legacy Id: 1977
+
+Question:
+I have a bar in NYC. WE have a DJ booth that is mobile. We just bring it up from the basement when we need it. Currently I use a 60 ft RCA cable run from the booth to the amp. The long run affects the sound quality. I was wondering if there is a wireless solution that might work better. Any suggestions???
+
+
+Answer:
+
+	We do not recommend wireless. Instead convert the RCA output (unbalanced, high impedance) to a balanced, low impedance signal at the DJ booth. Run a balanced, low impedance cable (XLR to XLR cable) over the 60 feet. Convert the balanced low impedance signal back to an RCA output at the amp.
+	
+	The conversions are done using transformers. Contact Jensen Transformers. Shure does not have the productsrequired in this situation.
+

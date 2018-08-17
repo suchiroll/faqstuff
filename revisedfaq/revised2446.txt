@@ -1,0 +1,18 @@
+Title: Playback of 45 rpm records
+Id: 2446
+Legacy Id: 2541
+
+Question:
+I have a lot of LPs and 45 rpm records which I haven't played in years. I want to transfer some of these to CD-R discs, and I need to get a new turntable and cartridge. If I got a high quality cartridge, like the V15, would it be optimal for the 45 rpm records also, or should I get a different cartridge? It seems to me that the 45 rpm grooves are wider than the LP grooves, and should have at least a different stylus than the LPs. Thanks for your help.
+
+
+
+Answer:
+
+	A 45 RPM record is considered a microgroove recording, just like a standard 33 1/3 RPM LP. The recommended stylus radius is 0.0007 inch (0.7 mils) or less.
+
+	
+	The V15VxMR should do well, provided that your 45 RPM records are in good shape. If not, try a Shure cartridge with a spherical stylus (0.7 mils radius).
+	
+	Sorry, there is not a spherical stylus made for the V15VxMR that is appropriate for 45 RPM records.
+

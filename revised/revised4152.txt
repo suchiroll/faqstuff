@@ -1,0 +1,12 @@
+Title: CU 5905 - How many can be used in a single system?
+Id: 4152
+Legacy Id: 5058
+
+Question:
+Can I use more than one CU 5905 unit in a DDS 5900 system?
+
+
+Answer:
+
+	No. There must be only one CU 5905 central control unit.
+

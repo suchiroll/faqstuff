@@ -1,0 +1,42 @@
+Title: Grand Piano Miking question - Damper Pad Noise
+Id: 2106
+Legacy Id: 2175
+
+Question:
+I recently purchased 2 Shure KSM-32 Microphones, and am attempting to record a new Boston 6'4" Grand.
+
+
+ I am using a Korg D-16 Digital Recorder, with the 2 Shure KSM32
+
+ Microphones. The problem I'm having, however, is with the damper pads
+
+ when they are lifted off of the strings when using the sustain pedal. The
+
+ pads make a very soft, but audible, sound which sounds like a sandblock.
+
+ I have spoken with several technicians, and they say that is normal in a
+
+ new piano; that the pads just need time and use to compress. Are you
+
+ familiar with this problem, and if so, how do you combat it in a recording
+
+ situation? The piano sounds good on the recording, but you can hear the
+
+ extraneous "sandblock" sound in the background.
+
+
+
+ Any suggestions or expertise which you can provide would be greatly
+
+ appreciated.
+
+
+Answer:
+
+	It is impossible to directly combat this sound. The sandblock sound is acoustical. It originates from the piano, the instrument you want to record. A microphone cannot sort out the desired acoustical sounds (the piano strings) from the undesired sounds (the damper pads).
+	
+	The KSM32 is a very sensitive device that hears every little nuance of the piano, including the sounds you may not want. Just like if you hummed when you played like Glenn Gould did. The mics will hear the humming as well as the piano.
+	
+	The best solution is to eliminate the sound at its source, i.e., the damper pads.
+	Or trying miking the piano at a greater distance as the damper sounds are likely quite soft and will not travel very far.
+

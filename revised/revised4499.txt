@@ -1,0 +1,11 @@
+Title: QLX-D and ULX-D Network Scan
+Id: 4499
+Legacy Id: 5613
+
+Question:
+Can I link ULX-D receivers and QLX-D receivers into a network and have a frequency scan that applies to all receivers?
+
+
+Answer:
+
+	No.  QLX-D receivers linked as network can do a network frequency scan; same for linked ULX-D receivers.   But a network frequency scan will not work for QLX-D receivers linked to ULX-D receivers

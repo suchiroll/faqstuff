@@ -1,0 +1,14 @@
+Title: Beta 52 internal XLR wiring
+Id: 2496
+Legacy Id: 2591
+
+Question:
+I HAVE A BETA 52 MICROPHONE, AND NEED TO KNOW WHERE THE THREE WIRES NEED TO GO.
+
+
+Answer:
+
+	Pin 1 - Black and spring clip
+	Pin 2 - Blue
+	Pin 3 - Red
+

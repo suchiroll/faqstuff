@@ -1,0 +1,19 @@
+Title: PSM700 frequencies too close in spacing?
+Id: 3279
+Legacy Id: 3440
+
+Question:
+I see that in for the PSM700 H3 band, that Group 2, Channel 2 and Channel E are only 0.05 MHz apart from each other. Are these channels compatible and are they supposed to be compatible?
+
+
+Answer:
+
+	For the H3 band, group 2 is NOT designed nor intended to be a compatible set of 16. This was intentional.
+	
+	Group 1 is a compatible set of 16.
+	
+	In Group 2, the first 10 frequencies (channels 0-9) are compatible. The remaining 6 frequencies were designed to maximize the number of frequencies when various TV stations are active.
+	
+	Thus, do not consider Group 2 to be a compatible set of 16, but instead use Wireless Workbench to find the maximum number of compatible channels in your particular city.
+	
+	All of these statements are also true for the L2 band.

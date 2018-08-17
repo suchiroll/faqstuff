@@ -1,0 +1,14 @@
+Title: Connector on MX392/0
+Id: 1848
+Legacy Id: 1908
+
+Question:
+Could you please tell me if the connector on the MX392/0 is a mini XLR 3 pin?
+
+
+Answer:
+
+	The MX392 is supplied without a connector. The cable is permanently connected to the mic; the other end of the cable is bare-ended.
+	
+	The MX393 is supplied with a mini XLR 3 pin.
+

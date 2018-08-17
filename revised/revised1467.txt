@@ -1,0 +1,11 @@
+Title: What is the smallest, least visable headworn microphone?
+Id: 1467
+Legacy Id: 1520
+
+Question:
+Hi, I am looking for a the smallest and least visable headset made. We currently have a LX system with lapel and our church pastor doesn't want to come off like a rock star. Our room is quite live so we tend to get feedback if we don't dial out mid range frequencies with the lapel. What is your ecommendation?
+
+Answer:
+
+	Check out the Shure Beta53, MX153,and the Countryman headworn mics, prewired for Shure transmitters and distributed by Shure, such as the WCE6.
+

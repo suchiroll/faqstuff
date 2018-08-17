@@ -1,0 +1,13 @@
+Title: RXP-3 stylus overhang measure and weight
+Id: 256
+Legacy Id: 262
+
+Question:
+I just bought a SHURE RXP-3 for a Pioneer pl-115d.  Pioneer said that they no longer have any stylus overhang gauges. The instructions with the turntable specify 15.5 mm. How should I do this? (The table has a standard rectangular cartridge shell with two parallel slots) Many thanks for your help. (also, could you please tell me if the RXP-3 weighs more than 4g?)
+
+Answer:
+
+	The RXP-3 is the same as the Shure M104E. It weighs 7.3 grams when using the mounting adapter, screws, and nuts.
+	
+	The stylus overhang is not a critical adjustment. Attached the cartridge to the headshell so that the screw heads are in the middle of the parallel slots and the stylus overhang adjustment is complete.
+

@@ -1,0 +1,27 @@
+Title: Microflex Wireless (MXW) Training and Operation Videos
+Id: 4898
+Legacy Id: 6156
+
+Question:
+Please provide a link to MXW training videos.
+
+
+Answer:
+We offer online training and certification at: Shure Audio InstituteContent includes:
+
+	System Overview
+	Access Point Installation
+	Web App Overview
+	Creating a Configuration
+	Setting Manual IP Addresses
+	Using MXW with SCM820
+	Prepare a Backup Microphone
+	Channel Density Selection
+	Troubleshooting Guide
+	Microflex Wireless Certification Test
+	What is DECT?
+	Using the Configuration Lock Feature
+	MXW Crestron/AMX Control Strings
+	What is Dante? | Shure Technical FAQ
+	Alternate network switch for MXW FAQ
+

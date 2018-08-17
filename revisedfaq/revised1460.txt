@@ -1,0 +1,15 @@
+Title: 'Bassy' sound from SM58 wireless
+Id: 1460
+Legacy Id: 1513
+
+Question:
+I just purchased the SM58 Vocal Artist Diversity system, and though I'm quite happy with it, I do find it irritating that everytime I breath into it just a little, it can be clearly heard through the output speakers, very loud and with a lot of bass. Also, I find the mic to have an extreme 'bassy' sound (It's only clear when I hold the mic very far away from my mouth). Am I doing something wrong, could it be the connections or is this just this type of mic?
+
+
+Answer:
+
+	You are describing proximity effect; a characteristic of unidirectional microphones like the SM58.
+
+	
+	Microphones cannot tell the difference between breath noise, speech, or singing. If you move air into the microphone for any reason, the microphone will reproduce it.
+

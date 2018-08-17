@@ -1,0 +1,61 @@
+Title: Miking a tube guitar amp to record with a DAT
+Id: 2000
+Legacy Id: 2063
+
+Question:
+In a nutshell, how can I mic my tube amp to my Boss/Roland BR-8. It has a mic input which i think is a 1/4" jack for guitar cables. If I've read clearly, I need a Shure 57 mic, a Neutrik XLR plug, and an impedance matching transformer? All of this phantom power etc. is getting pretty confusing, help me!
+
+
+---- 11/13/2001 07:47 PM ----------------------------------------------
+
+specification#1:Normal input level= -40dBm
+
+specification#2:Input impedance= 2.2k(HOT-COLD)
+
+1.1k(HOT-GND,COLD GND)
+
+specification#3:Mic input= TRS Balance, 1/4 inch phone type
+
+I'm not even sure what connection points even are? There wasn't any info about them in my owner's manual. All i can tell you is there are 2 1/4 inch input jacks, 1 is for guitar/bass or mic 2, and the 2nd is for mic 1(vocal)
+
+
+Answer:
+
+	We can assist, but we require details about the input of the Boss/Roland BR-8. Please read below and get back to us with the information required.
+	
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your tape recorder or your radio or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+	
+	At 11/14/2001 08:20 AM we wrote - Well done! We can take it from here.
+	
+	1) The SM57 is a good choice.
+	
+	2) The output level of the SM57 might be too weak IF you were miking a soft source, but it is likely the amp will be loud and the SM57 will be positioned very close to the amp. So the output level from the SM57 should be adequate.
+	
+	3) There is not need for a matching transformer.
+	
+	4) Use the DAT input with the 1.1k ohm impedance.
+	
+	5) Get a mic cable wired as follows:
+	
+	xlr pin 1 to sleeve of 1/4 plug
+	xlr pin 2 to tip of 1/4 plug
+	xlr pin 3 to ring of 1/4 plug
+

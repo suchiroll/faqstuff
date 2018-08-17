@@ -1,0 +1,19 @@
+Title: Cable Wiring for Beta 91
+Id: 3711
+Legacy Id: 3944
+
+Question:
+Do have a wire diagram for a Beta 91 Cable? My cable is defective on the 4 pin end. I have a new 4 pin connector, but don't know how it should be wired.
+
+
+Answer:
+
+	Pin 1 onboth connectors:cable shield (ground for bias and audio)
+	
+	Pin 2 onboth connectors:red wire(bias)
+	
+	Pin 3 onboth connectors:black wire (audio)
+	
+	Pin 4 - not used
+	
+

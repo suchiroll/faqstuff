@@ -1,0 +1,11 @@
+Title: Wiring a Shure 55SH Series II Microphone
+Id: 1382
+Legacy Id: 1434
+
+Question:
+I just purchased a new 55SHII Mic. How is the XLR connector plug wired?
+
+
+Answer:
+
+	Pin 1 is cable shield. Pin 2 is audio hot (positive). Pin 3 is audio cold (negative).

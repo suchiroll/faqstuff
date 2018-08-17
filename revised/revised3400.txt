@@ -1,0 +1,26 @@
+Title: Wireless Workbench Upgrade and Loss of User Series
+Id: 3400
+Legacy Id: 3590
+
+Question:
+I just upgraded to Wireless Workbenchversion 5. When I used Wireless Workbench version 4, I had created some user defined series in the frequency compatibility area. Now, when I open Wireless Workbench v5, those systems that I created are not there. What can I do?
+
+
+Answer:
+
+	Unfortunately, the installer for Wireless Workbench 5 does not copy the user defined series over to the new version. This can be accomplished as follows:
+
+	
+		Open up Windows Explorer.
+	
+		Browse to the following folder: C:\Program Files\Shure\Shure Wireless Workbench Software 4.3\Compatibility
+	
+		Right click on the FCUserDefined.txt file and select Copy.
+	
+		Browse to the following folder: C:\Program Files\Shure\Shure Wireless Workbench Software-5.0\Compatibility
+	
+		Right click within that folder and select Paste.
+
+
+	The user series previously defined will now show up in the frequency compatibility area. Even if the older version of Wireless Workbench was uninstalled, the FCUserDefined.txt file will still be in the folder.
+

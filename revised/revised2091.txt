@@ -1,0 +1,14 @@
+Title: Stylus for Realistic R3X cartridge
+Id: 2091
+Legacy Id: 2157
+
+Question:
+I am looking for the following product: Biradial (Elliptical) Diamond Tip, Frequency response 20 Hz to 20 kHz, Channel separation 20 dB at 1 kHz, Tracking force 2.5 to 3.5 g, Stylus assembly 0.0004 x 0.0007", Biradial (Elliptic), REALISTIC/SHURE R3X, Replacement Stylus.
+
+
+Answer:
+
+	You can use the N75B Type 2 stylus (spherical tip; tracks 1.5 to 3 grams); or the N75ED Type 2 (.2 x .7 mil elliptical; tracks .75 to 1.5 grams)
+	
+	If your turntable can track as low as one gram, the N75ED Type 2 is the better choice.
+

@@ -1,0 +1,20 @@
+Title: Frequency chart for UHF-R in the USA
+Id: 3139
+Legacy Id: 3274
+
+Question:
+I am looking for a chart the shows how the Group and Channel correspond to a particular frequency.
+
+
+Answer:
+
+	G1 = 470 to 530 MHz; U.S. TV channels 14 thrugh 23
+	H4 = 518 to 578 MHz; U.S. TV channels 22 through 31
+	
+	J5 = 578 to 638 MHz; U.S. TV channels 32 through 41
+	
+	L3 = 638 to 698 MHz; U.S. TV channels 42 through 51
+	X1 = 944 to 952 MHz; U.S. studio transmitter links. (Special order only. Sales manager approval needed).
+	
+	
+	Click on the link at the bottom of this page to download a spreadsheet with the frequency chart.

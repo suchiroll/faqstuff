@@ -1,0 +1,11 @@
+Title: Cable for 556 microphone
+Id: 1648
+Legacy Id: 1705
+
+Question:
+I have an old Shure 556 Unidyne microphone serial# H7463. And I was wondering if and where I could get a converter so I could use it in regular mic. jacks. It has one of those big three prong plugs, but it is far to big to plug into a modern adapter.
+
+
+Answer:
+
+	The 556 used a 3 pin Amphenol connector, part #MC3M. We do not carry these connectors.You can get pre-wired cables from Tom Ellis (214-328-3225.

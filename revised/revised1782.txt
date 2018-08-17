@@ -1,0 +1,46 @@
+Title: Mic for streaming video - one wireless and one wired to computer
+Id: 1782
+Legacy Id: 1842
+
+Question:
+---- 09/27/2001 05:14 AM ---------------------------------------------
+
+HELP! I'm sick off looking now. I need two mics and would appreciate your advice on which one.
+
+
+1) a desk mic to record voice straight into a PC - suitable for video and speech recognition software
+
+
+2) a tie pin mic for a lecturer at the front of a theatre to record into a Sony Digital camera at the back without cables.
+
+
+We don't have a very big budget, possibly only £300 for both.
+
+
+Answer:
+
+	1) You may thank the computer industry for your confusion. There are no standards for microphone inputs on any type of computer. The best approach is to have an interface box, like the Audio Buddy described below. The input side connects with any professional microphone in the world. Note the word professional. This means mics from companies like Shure, Sennheiser, Electro-Voice, AKG, etc.
+	
+	2) If you need a source for professional mic companies, see: ht-tp://ww-w.audiodirectory.nl/
+	
+	3) For help with finding the right Shure mic in the UK, contact: ht-tp://w-ww.shure.com/scripts/intl_reps/intlrep.asp?country=United%20Kingdom
+	Ask for Phil Spurling.
+	
+	4) Wireless mics (radio mics) are not inexpensive. Your target price of 300 pounds for both a wired mic and a wireless mic is unrealistic.
+	
+	5) Below are various educational resources to help you with your situation. We suggest you read these before you make any buying decision.
+	
+	*********************************************************************************
+	
+	If your question is about connecting a professional microphone into a computer sound card, please read the following.
+	
+	Low impedance microphones, like the SM58 have a very low output level. The sound card on your computer requires a hotter level. Using a transformer can help boost the level of your microphone to something that would likely be appropriate for the sound card. The Shure A96F is the correct transformer. It has a female XLR on one end and an 1/8 connector on the other end. Place the transformer at the computer and use a standard XLR cable between it and your microphone.
+	
+	If the sound card requires more level than the A96F transformer can supply, you will need to add a microphone preamplifer. We recommend the Audio Buddy from Midiman.
+	
+	If you would prefer to upgrade your soundcard to professional standards, we recommend the USBPre by Sound Devices. The USBPre is a broadcast quality microphone preamp with a USB computer interface.
+	
+	For more information:
+	Connecting Professional Microphones to Computer Sound Cards
+	Audio Transformers
+

@@ -1,0 +1,12 @@
+Title: Correctly using Auto Position with the MXA910
+Id: 4997
+Legacy Id: 6265
+
+Question:
+Does Auto Position need to hear just one voice at a time, or can it focus on a few?
+
+
+Answer:
+
+	When using Auto Position, only one person should be speaking, so the selected lobe will be accurately placed. Repeat for each additional lobe. Note that Auto Position does not choose width of the lobe, just X/Y coordinates, and talker height. Also, be sure to enter the correct Array Height value before using Auto Position.
+

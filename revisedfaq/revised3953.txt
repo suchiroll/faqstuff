@@ -1,0 +1,12 @@
+Title: Which output for Frequency Diversity?
+Id: 3953
+Legacy Id: 4202
+
+Question:
+When I put the Axient system in Frequency Diversity mode, which output on the receiver do I use?
+
+
+Answer:
+
+	Either output can be used. The same audio is present on both outputs.
+

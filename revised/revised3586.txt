@@ -1,0 +1,12 @@
+Title: Article about rechargeable cells and batteries
+Id: 3586
+Legacy Id: 3792
+
+Question:
+Please recommend an educational article about rechargeable cells and batteries.
+
+
+Answer:
+
+	http://www.ka7oei.com/nicds.html
+

@@ -1,0 +1,12 @@
+Title: Line level High Pass Filter.
+Id: 2116
+Legacy Id: 2185
+
+Question:
+Do you make a line level in line high pass filter?
+
+
+Answer:
+
+	Sorry, the Shure A15HP is designed for mic level only.
+

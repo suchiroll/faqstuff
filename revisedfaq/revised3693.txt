@@ -1,0 +1,11 @@
+Title: Shockmount for PG27
+Id: 3693
+Legacy Id: 3910
+
+Question:
+Is there a shockmount available for the PG27?
+
+
+Answer:
+
+	The A27SM shock mount will fit the PG27, PG42, KSM27, and SM27 microphones.

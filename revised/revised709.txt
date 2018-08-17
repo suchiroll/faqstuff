@@ -1,0 +1,15 @@
+Title: When to replace the stylus?
+Id: 709
+Legacy Id: 727
+
+Question:
+How can you tell if you need to replace the stylus on a cartridge?
+
+Answer:
+
+	One of four ways:
+	1. Replace the stylus if the stylus shaft is bent or crooked.
+	2. Replace the stylus if the total playing time of the stylus is over 500 hours.
+	3. Replace the stylus if the audio quality is poor not matter what the recording.
+	4. Replace the stylus if the stylus shows serious wear when examined under a stylus inspection microscope.
+

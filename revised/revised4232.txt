@@ -1,0 +1,38 @@
+Title: DIS CDS4000 Conference Discussion System
+Id: 4232
+Legacy Id: 5216
+
+Question:
+I have an older DIS system, the CDS4000. Please provide basic information about it.
+
+
+Answer:
+
+	As of January 1, 2013, Shure has taken over DIS distribution of two current product lines in the United States, the DDS5900 and DCS6000 series. The CDS4000 series, an older analog system, was discontinued before Shure became the distributor. Some basic information about the system is provided below.
+	
+	Central Units:
+	CU4005 - one chain for up to 50 microphones
+	CU4010 - two chains for up 100 microphones
+	For more than 100 microphones, additional CUs could be slaved together, up to a maximum of 1000 microphones.
+	
+	Chairman/Delegate Units:
+	CM4410P - chairman unit with fixed gooseneck microphone
+	CM4420P - chairman unit with XLR connector
+	DM4410P - delegate unit with fixed gooseneck microphone
+	DM4410P - delegate unit with XLR connector
+	Flush mount units were also available for permanent installations.
+	VOX mode required different units (4100 series) and the CB4100 control box.
+	
+	System Operation:
+	MC4000 - microphone control unit. This was a hardware controller for manual meeting management.
+	RS4232 - serial interface that installed in the CU for connection to a Windows PC
+	SW4210/4211/4220 - Commander software for PC control (requires RS4232)
+	
+	Cabling:
+	Proprietary DIS cable - no commercial alternative
+	Total cable length: 200 m
+	Maximum length between 2 units: 100m
+	Control link maximum between CUs: 300m
+	
+	NOTE: The CDS4000 User Guide is attached below as a PDF file.
+

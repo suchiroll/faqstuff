@@ -1,0 +1,32 @@
+Title: DDS 5900 Gooseneck Microphones
+Id: 4229
+Legacy Id: 5213
+
+Question:
+Please provide specifications for the gooseneckmics used with the DIS DDS 5900.
+
+
+Answer:
+
+	GM5923: 40 cm in length (15.75)
+
+	GM5924: 50 cm in length (19.75)
+
+	Matte black finish.
+
+	Red LED light ring.
+
+	Chrome ring at the end of the three pin XLR connector.
+
+	XLR pin1 = ground / shield / screen for cable inside the gooseneck
+
+	XLR pin 2 = mic audio / signal / +1.6 Vdc bias for the FET impedance convertor
+
+	XLR pin 3 = not used / no connection
+
+	XLR chassis/can = LED light ring voltage / +5.0 Vdc maximum
+
+	
+
+	NOTE: The GM5923 and GM5924 microphones cannot be used with standard XLR microphone inputs that supply phantom power. Conversely, Shure MX series microphones, and their equivalents, cannot be used as substitutes for the GM5923 or GM5924.
+

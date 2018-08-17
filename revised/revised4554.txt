@@ -1,0 +1,20 @@
+Title: MXW Set Up and Configuration Videos
+Id: 4554
+Legacy Id: 5677
+
+Question:
+Please provide links to MXW videos.
+
+
+Answer:
+
+	Set MXW manual IP: http://youtu.be/CHmw9B0MWQQ
+	
+	MXW Configuration: http://youtu.be/msKzzhBM6L4
+	
+	If using Automatic IP Addressing (DHCP), skip "MXW Configuration."
+
+
+	All the MXW training videos are on Youtube:
+	https://www.youtube.com/playlist?list=PL0FMaSqR1x2X0YvJTMDBT0TSqvzjoXgQE
+

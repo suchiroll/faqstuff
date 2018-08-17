@@ -1,0 +1,13 @@
+Title: USB Tutorial and Primer
+Id: 4753
+Legacy Id: 5935
+
+Question:
+Please provide a link to a USB primer that explains the different versions, the different connectors/cables, and other details.
+
+
+
+Answer:
+
+	Tutorial on USB - versions, connectors, et al
+

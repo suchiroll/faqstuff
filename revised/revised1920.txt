@@ -1,0 +1,13 @@
+Title: Metal windscreen vs Foam windscreen for MX418s
+Id: 1920
+Legacy Id: 1981
+
+Question:
+I'm a big fan of your Microflex goosenecks. Unfortunately some presenters insist on eating them. The A99WS works pretty well, but I was wondering if the locking metal windscreen A412MWS was any more effective in reducing plosives.
+
+
+Answer:
+
+	The A99MWS is more effective than the A412WS because it surrounds the mic element with more "dead air". The effectiveness of a windscreen is a direct function of its diameter: bigger is better.
+	
+	Have you tried an omnidirectional capsule (R183B) on the mic? An omni capsule is very resistant to plosives.

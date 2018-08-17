@@ -1,0 +1,13 @@
+Title: 2 mics in 1 input
+Id: 290
+Legacy Id: 297
+
+Question:
+A church has one mic input in the choir loft. We need two mics for a wedding - male & female vocalists. What do I need to get and bring with me to accomplish this? I don't know anything about this, although I've heard you can "split" or "combine" mics to achieve this.
+
+Answer:
+
+	Here is the best way to accomplish your goal. Consider the use of a simple, small mixer, such as the Shure SCM268. This is a five input mixer with phantom power. Position the mixer in the choir loft. Plug your two mics into the mixer. Adjust the level of each mic at the mixer. Set the XLR output of the mixer to mic level and plug it into the single mic input in the choir loft.
+	
+	You now have a sub-mixer, which is a small mixer used before your main mixer. This is a very common use of the SCM268.
+

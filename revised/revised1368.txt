@@ -1,0 +1,18 @@
+Title: UA870 placement
+Id: 1368
+Legacy Id: 1420
+
+Question:
+My co workers and I are debating the best placement of the UA870 cardioid antennea. How is the antennae correctly pointed, or which direction has RF rejection?
+
+
+The PDF on the web site is not specific but does have one vague picture that appears like the "thin edge" is pointing at the mic, as opposed to the flat edge.
+
+
+Thanks so much for the quick reply. Shure has the best e-mail support of any company I have ever worked with.
+
+
+Answer:
+
+	When properly positioned, the UA870 looks like a shark fin with the narrow end pointed at the stage. The other end of the UA870 (with the amplifier) points away from the stage.
+

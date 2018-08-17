@@ -1,0 +1,16 @@
+Title: Where do SCM262 mic inputs emerge?
+Id: 476
+Legacy Id: 486
+
+Question:
+I just bought the SCM262, and won't be able to test it for a while (waiting for microphones) but I had a question about the inputs "MIC 1" and "MIC 2":
+
+Does input "MIC 1" output on the Left or Right channel?
+
+I need the mixer to interface two mics to a "consumer" tape deck's left and right inputs separately.
+
+
+Answer:
+
+	The mic 1 input goes to both the left and right outputs. The mic 2 input also goes to both the left and right outputs. If you want mic 1 to just go to the left output and mic 2 to just go to the right output, you will have to modify the mixer internally. This modification is described in the User Guide supplied with the mixer.
+

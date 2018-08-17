@@ -1,0 +1,23 @@
+Title: MX391 and mixer/video prod. solution
+Id: 342
+Legacy Id: 349
+
+Question:
+I have an MX391/C that I am trying to use for studio sound for video recording.  I have tried running the mic signal through a Spirit Folio Notepad mixer, with no success at all.  The mixer supplies phantom power, but there is NO sound output.  I've tried stepping the XLR down to a mic plug that will go straight into a camera sound input(3.5mm jack), not figuring that would work because of the lack of power to the mic, and I was right.  I know there's got to be a way to do this, but I can't figure it out.  I'm realizing now that I may not have picked the right tool to do the job I want, but I'm committed to this thing, now.  Ultimately, I need to know some way to configure this mic to work in a small-scale video production setup.  Any ideas or input would be greatly appreciated.  Thanks.
+
+Answer:
+
+	Follow each of these steps precisely:
+	
+	1. The MX391 must have a preamp in line before the mixer. The preamp will be a four inch long tube with a male XLR output; or it will be a plastic box which can contain a 9 volt battery and has a male XLR output on the end of an attached cable. If you do not have one of these preamps, the MX391 will not operate. In order of connection, you must have: the MX391 mics - cable connecting MX391 to preamp - cable connecting preamp to mixer.
+	
+	2. If you do have a preamp, make certain the phantom power on the mixer is 11 to 52 volts. Make certain the phantom is turned on.
+	
+	3. Make certain the MX391 preamp is connected to an XLR input on the mixer.
+	
+	4. Connecting the MX391 directly to your camera will not work unless you have the preamp which can hold a 9 volt battery AND your camera has a mic input with electrical specifications that will match the MX391.
+	
+	Go to: Audio Systems Guide for Video Production
+	Read this book to educate yourself on using mics for video production.
+	
+	If you still have problems, call Shure Applications at 800-516-2525.

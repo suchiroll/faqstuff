@@ -1,0 +1,17 @@
+Title: Use microphone into line-level input
+Id: 581
+Legacy Id: 593
+
+Question:
+I need to connect a small microphone to a line input. Size is critical.
+
+
+Is there a small preamp (or set of specs for building one) that properly matches small microphones (e.g., 'tie clip' condenser)to line-level inputs, such as found on a VCR? I've tried a few, but had poor results (low volume, distortion, poor sensitivity, etc.).
+
+
+Answer:
+
+	At 01/20/2001 04:45 PM we wrote - We do offer one mic-to-line amplifier, model FP23.
+	
+	The FP23 is broadcast quality and has exceptional audio performance.
+

@@ -1,0 +1,14 @@
+Title: SCM820 User Interface
+Id: 4313
+Legacy Id: 5387
+
+Question:
+Will the SCM820 software interface run on a iPhone or iPad?
+
+
+Answer:
+
+	Sorry, it will not. Adobe Flash is required and it is not available for hand-held devices.
+	
+	FYI - The SCM820 software is embedded in the SCM820 itself and controlled via a web browser.
+

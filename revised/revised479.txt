@@ -1,0 +1,12 @@
+Title: V15 type III cartridge loading
+Id: 479
+Legacy Id: 489
+
+Question:
+What is the Cartridge loading capacitance, and loading resistance for the V15 type III?
+
+
+Answer:
+
+	Optimal load per channel is 47,000 ohms in parallel with 400 to 500 picofarads. Load resistance can be as high as 70,000 ohms with less than 1 dB of change in the frequency response.
+

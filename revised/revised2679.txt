@@ -1,0 +1,11 @@
+Title: Stylus for M44-MR cartridge
+Id: 2679
+Legacy Id: 2783
+
+Question:
+I have a Rock-ola jukebox that has a Shure M44MR cartridge in it. What replacement stylus can I use in this cartridge?
+
+Answer:
+
+	The stylus was model N44-MR. Sorry, it is no longer available from Shure.
+

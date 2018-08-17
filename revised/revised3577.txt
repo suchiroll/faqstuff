@@ -1,0 +1,31 @@
+Title: SM58 and X2u magnetic shielding
+Id: 3577
+Legacy Id: 3783
+
+Question:
+I just recently purchased the Shure SM58 along with the x2u and i'm wondering about the magnetic shielding. I hear dynamic microphones have magnets in them but i'm not sure how powerful they are and if there is any magnetic shielding in them. So does the Shure SM58 have any kind of magnetic shielding? Can I store the x2u and sm58 in the same case(leather pouch that came with it) without worrying about any damage to the x2u? Also, do I need to be careful when storing the microphone and placing it near magnetically sensitive devices(monitors, etc)? I'd appreciate any information you have to offer on this subject.
+
+
+Answer:
+
+	I just recently purchased the Shure SM58 along with the x2u and i'm wondering about the magnetic shielding. I hear dynamic microphones have magnets in them
+	
+	* Correct.
+	
+	but i'm not sure how powerful they are and if there is any magnetic shielding in them.
+	
+	* Relatively low power.   Yes, there is some level of shielding.   Try picking up a paper clip with an SM58;  it will not work.
+	
+	
+	So does the Shure SM58 have any kind of magnetic
+	shielding?
+	
+	* Yes.
+	
+	Can I store the x2u and sm58 in the same case(leather pouch that came with it) without worrying about any damage to the x2u?
+	
+	* Yes.
+	
+	Also, do I need to be careful when storing the microphone and placing it near magnetically sensitive devices(monitors, etc)?
+	
+	* The field is not strong enough to affect the monitor.

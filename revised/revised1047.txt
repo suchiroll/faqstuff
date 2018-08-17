@@ -1,0 +1,14 @@
+Title: Fixing XLR connector on a BG 4.1
+Id: 1047
+Legacy Id: 1080
+
+Question:
+Our church choir purchased a BG 4.1 in the last year or so for use and recently the end connector came out. I cannot get the bottom sleeve off to try and re-connect it . How do I get the sleeve off without further damage to the mic? Do I have to send it in? If it must be sent in, what might the cost of repair be?
+
+
+Answer:
+
+	Instructions can be seen at the following link:
+	
+	PG81, SM94, 849, BG 5.1, or BG 4.1 XLR connector is loose
+

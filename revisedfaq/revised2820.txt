@@ -1,0 +1,27 @@
+Title: UHF Wireless Frequency Bands - United States
+Id: 2820
+Legacy Id: 2930
+
+Question:
+Would you tell me the RF Carrier Frequency ranges in the US for the following
+
+receivers?
+
+
+UHF Series
+
+ULX
+
+UC
+
+
+Answer:
+
+	In April 2003:
+	
+	UHF Series: UA Band (782 - 806 MHz); UB Band (692-716); M4 Band (662 - 692); J4 Band (554-584)
+	
+	ULX: M1 Band (662-698); J1 Band (554-590)
+	
+	UC: UA Band and UB Band (see above)
+

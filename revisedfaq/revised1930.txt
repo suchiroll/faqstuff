@@ -1,0 +1,22 @@
+Title: UA820A bandwidth
+Id: 1930
+Legacy Id: 1992
+
+Question:
+We own 16 U series UHF wireless in our rental stock. Somewhere along the way we picked up 2 "odd ball" antennas that show the same model number, but have different frequency bandwidths.
+
+
+All of our antennas have this bandwidth: 774-862 MHz
+
+
+but the 2 odd ones are: 782-862 MHz
+
+
+I want to verify that it is ok to use our units with these (I'm assuming older) antennas...as they both are listed as "UA820A antennas." I have not had a chance to check what our frequencies are in our units yet as this will probably determine whether or not they are ok.
+
+
+Answer:
+
+	The "odd" ones will work fine.
+	
+	Inspect the center pin of the BNC connector of your 2 "odd" antennas. Make certain the pin is mechanically solid. A few of these older antennas had loose center pins.

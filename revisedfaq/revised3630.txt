@@ -1,0 +1,24 @@
+Title: Basic design goals for a sound reinforcement (public address) system
+Id: 3630
+Legacy Id: 3837
+
+Question:
+I am on a committee to investigate a new sound system for a high school. I have no idea about sound systems or what questions to ask the companies that want to install the new sound system. What are some basics?
+
+
+Answer:
+
+	Basic design goals for any sound reinforcement system
+	
+	Loudness: Will the sound system be loud enough for the room?
+	
+	Coverage : Will every audience member be able to hear the talker/singer/actor?
+	
+	Intelligibility: Will every audience member be able to understand the talker/singer/actor?
+	
+	Fidelity: Will the system sound good?
+	
+	Proper Design and Adjustment: Will the sound system howl and squeal (acoustic feedback)?
+	
+	Rule of thumb about acoustic feedback: If the sound pressure level from the loudspeaker (as measured at the microphone) is greater than the sound pressure level from the talkers mouth (as measured at the microphone), the sound system will howl and squeal.
+

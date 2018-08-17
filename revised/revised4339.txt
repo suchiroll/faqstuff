@@ -1,0 +1,13 @@
+Title: GLXD6 Tuner Accuracy
+Id: 4339
+Legacy Id: 5424
+
+Question:
+What is the accuracy of the guitar tuner?
+
+
+
+Answer:
+
+	Tuning accuracy is 1 cent. Tuning range is F#0 to C8. As a point of reference, middle C = C4 (261.6 Hz) and middle A = A4 (440 Hz).
+

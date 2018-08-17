@@ -1,0 +1,14 @@
+Title: Wireless Workbench - Serial to USB adapter for Macintosh
+Id: 3460
+Legacy Id: 3654
+
+Question:
+I am using Wireless Workbench software on my MacBook Pro to control several channels of UHF-R. How can I integrate older UHF systems (U4S or U4D) into this set-up?
+
+
+Answer:
+
+	The U4S and U4D receivers, which are now discontinued, require either the UA111 or UA888 Networking Interfaces. Under previous versions of Wireless Workbench, network control was only possible using Windows. Now that Wireless Workbench version 5 works with Mac OS 10.5, U4S and U4D receivers can be brought into a network set-up by using the UA111 or UA888 in conjunction with a Serial to USB adapter.
+	
+	The adapter that has proven to work well with Macs is the Keyspan USA-19HS. Be sure to download the latest driver for Mac OS 10.5 from the Keyspan website. Connect the RS232 cable from a UA888 or UA111 to the Keyspan Serial to USB adapter. Connect the USB adapter to either the left side or right side USB port on the MacBook Pro. Open Wireless Workbench, go to Devices  Configure Connections. Select Serial Port (/dev/cu.KeySerial1). You should now be able to view and program U4S and U4D receivers through Wireless Workbench, along with networked UHF-R systems.
+

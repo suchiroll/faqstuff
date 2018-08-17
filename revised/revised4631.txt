@@ -1,0 +1,11 @@
+Title: M97xE Effective Stylus Tip Mass
+Id: 4631
+Legacy Id: 5790
+
+Question:
+What is the effective the stylus tip mass of the M97xE stylus?
+
+Answer:
+
+	Effective tip mass for Shure N97xE stylus: 0.4 mg (milligram.)
+

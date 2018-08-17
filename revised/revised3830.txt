@@ -1,0 +1,26 @@
+Title: Shure TTR-117 test record
+Id: 3830
+Legacy Id: 4068
+
+Question:
+What can I find out about the TTR-117 test record? It was called "Shure Audio Obstacle Course."
+
+
+Answer:
+
+	The TTR-117 was introduced in 1982 as a companion to the Shure V15-V phono cartridge. It was a45 rpm record on a 12 disc. The contents were:
+	
+	Side A
+	Band One: Introduction / explanation of the TTR-117 and how to use it.
+	Band Two: Level and Balance tests.
+	Band Three: Polarity (Phasing) tests.
+	Band Four: Skating compensation test.
+	
+	Side B
+	Band One: Examples of audible mistracking.\
+	Band Two:Introduction to trackability test.
+	Band Three: Trackability test at six modulation levels using a complex test tone of 200 Hz, 2100 Hz, and 17,000 Hz.
+	Band Four: Tone arm resonance test using successive sub-audible tones of 5 Hz through14 Hz.
+	
+	Sorry, the TTR-117 is no longer available.
+

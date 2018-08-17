@@ -1,0 +1,12 @@
+Title: SCM262 and ULXP4 rack mount side by side?
+Id: 4016
+Legacy Id: 4423
+
+Question:
+Can a ULXP4 Receiver and the SCM 262 be rack mounted side by side?
+
+
+Answer:
+
+	Yes.The chassis size is exactly the same.
+

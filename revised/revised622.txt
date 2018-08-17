@@ -1,0 +1,14 @@
+Title: Can in the ear monitors feedback?
+Id: 622
+Legacy Id: 636
+
+Question:
+Is it possible for the personal "in the ear" monitors to feedback? If they do will they cause ear damage? I'd hate for all the members in the band to hit the floor at the same time screaming!!!!!!
+
+
+Answer:
+
+	While not impossible, it is extremely unlikely that a feedback loop would occur between a microphone and an in the ear monitor. We have never heard of it occurring.
+	
+	But, if feedback occurs between the microphone and the front of house PA, you will hear that through the in ear monitors. This is why you should always leave the built-in limiter engaged.
+

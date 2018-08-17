@@ -1,0 +1,28 @@
+Title: 55SH Series II with Beta 58 cartridge
+Id: 850
+Legacy Id: 876
+
+Question:
+I am a singer/songwriter that has become known for my 55SH Series II. The guy with the "cool looking Mic". I have come to love my 55 over the past couple of years. My question is this. Although the mic provides stellar sound I have found that the frequency range of the Beta 58 I have seems to be wider, offering me a "fuller, richer" sound. I removed the face plate on the 55 and the lid to the 58. The capsules look the same. I was wondering, is the capsule in the 55 a "straight" 58? And if so, could the capsule in the 55 be replaced with a Beta 58 capsule to attain the same punch? It's just a thought. Thanks for the years of GREAT sound support!!
+
+
+Answer:
+
+	The ShureSuper 55 is exactly what you described. The Super 55 uses a modified version of the Beta 58A cartridge.
+	
+	If you already own a model 55SH Series II, consider the R115S upgrade kit; a do-it-yourself project.The output level of Super 55 is about 5 dB greater than the 55SH Series II, and the mic on/off switch still operates after the R115S is installed. R115S Instruction Sheet.
+	
+	Note that the Super 55 is designed to be mounted on a mic stand and is not meant to be a hand-held microphone. If it is used as a hand-held mic and the singers hand is wrapped around the rear of the microphone, the frequency response between 500 Hz and 1,000 Hz will be adversely affected. If the mic must be held in the singers hand, we strongly recommend using the stem of the microphone as the grasping point.
+	
+	Also note that the Super 55, like the 55SH Series II, does not offer the same amount of P-popping protection as a mic with a ball grille, such as the SM58. Toreduce P-popping, locate the Super 55 at the corner of your mouth and not under your nose. Sing across the mic grilleand not directly into it.
+	
+	There isa gentleman in Illinois who will modify a 55SH Series II to put a Beta 87A cartridge in it. Here is his contact information:
+	
+	Carl Schreiber
+	Willowbrook, IL
+	Maintains the 3-point shock mount, the transformer shield, the RF filter, and the 2-stage pop filter.
+	Ph: (630) 654-0053
+	email: bopkat59@yahoo.com
+	
+	Note: Shure does not endorse Mr. Schribers product, nor will Shure serviceMr.Schreibersproduct. We provide this information solely as a service to customers seeking such a hybrid microphone
+

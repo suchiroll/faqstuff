@@ -1,0 +1,26 @@
+Title: Ambient noise/sound isolation of E-series earphones
+Id: 1042
+Legacy Id: 1074
+
+Question:
+How much noise isolation (in decibels) is provided by the E-series earphones?
+
+Answer:
+
+	Our earphones will provide between 29 dB and 37 dB of isolation. Sound isolation is Dependent on the shape of the ear canal, the sleeve used, earphone model, and the fit. A good seal in the ear with the correct sleeve is vital for the most sound isolation.
+	
+	E2C, E2G, E2C-N, I2C Earphones
+	Foam sleeves: 31dB (88% of ambient noise)
+	Clear sleeves: 29 dB (87% of ambient noise)
+	
+	E3C, E4C, E5C, I3C, I4C, E3G, E4G Earphones
+	Gray Soft Flex: 30 dB (90% of ambient noise)
+	Foam Sleeves: 37 dB (93% of ambient noise)
+	
+	All measurements taken from tests done at the Auditory Systems Lab at Virginia Tech University on isolation vs. noise canceling.
+	The following products were also tested:
+	Bose QC2: 20dB (77%)
+	Sennheiser PXC-250: 11dB (58%)
+	Sony MDR-NC20: 8 dB (40%)
+	
+

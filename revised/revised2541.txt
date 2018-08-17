@@ -1,0 +1,12 @@
+Title: Mic for a low "B" on a 5 string bass
+Id: 2541
+Legacy Id: 2638
+
+Question:
+I need to buy a good inexpensive mic for a 5 string bass. I checked a musical acoustics book and according to it the low "B" rings at a frequency of 30Hz. Does this mean I need a mic with a low freq. of 30 or below?? Or if I have a mic like the SM57 with a low end of 40Hz will that work good too?
+
+
+Answer:
+
+	Miking is an art, not a science. The SM57 will pick up the low B, but whether you like the sound or not is your decision. As an alternative, consider the model Beta 27.
+	Read more about miking at: Educational Articles - Online booklets and bulletins

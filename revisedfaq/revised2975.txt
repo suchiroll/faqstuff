@@ -1,0 +1,107 @@
+Title: Upgrading cartridge of old 55S or 55SH
+Id: 2975
+Legacy Id: 3103
+
+Question:
+I have an old 55S microphone that doesn't work anymore. Will the cartridge for the 55SH Series II work in my old 55S?
+
+
+Answer:
+
+	Replacement cartridge for the 55S and older 55SH
+	The replacement cartridge for the 55SH Series II does not fit directly into the 55S and older 55SH model (as well as, PE55’s); the shock mount and other internal hardware are different. Since there is no "upgrade kit" of the parts needed to convert a 55S/55SH into a 55SH Series II, parts must be ordered individually, as follows:
+	
+		
+			
+				Qty
+			
+				Item
+			
+				Description
+		
+		
+			
+				1
+			
+				99A830
+			
+				Cartridge (also available as R115)
+		
+		
+			
+				4
+			
+				30B1336
+			
+				Screws (connects 65B1617 cover to 65B1618 housing)
+		
+		
+			
+				4
+			
+				30F1331A
+			
+				Screws (connects cartridge housing assembly to case back)
+		
+		
+			
+				1
+			
+				66A143
+			
+				Flex Relief
+		
+		
+			
+				1
+			
+				31C1561
+			
+				Spacer
+		
+		
+			
+				1
+			
+				65B1618
+			
+				Housing
+		
+		
+			
+				1
+			
+				65B1617
+			
+				Cover
+		
+		
+			
+				1
+			
+				39AB167
+			
+				Nameplate "55SH Series II" (optional)
+		
+	
+
+	Installation
+	
+		Open the 55S/55SH and remove all internal electrical components (i.e., transformer, cartridge, and mounting apparatus), keeping switch leads intact.
+	
+		Pass the switch leads through the lead hole of 65B1618 Housing and 65A143 Flex relief, and push the flex relief into position.
+	
+		Pass leads through the 31C1561 Spacer.
+	
+		Solder according to the wiring diagram on the 55SH series II data sheet.
+	
+		Drop cartridge and spacer into 65B1618 Housing.
+	
+		Fasten 65B1617 Cover to housing with 30B1336 screws.
+	
+		Drop cartridge and housing assembly into the microphone case back and fasten with 30F1331A.
+	
+		Reassemble microphone case front to case back.
+
+	Contact Service/Parts Department for pricing and orders. The phone number is 1-800-516-2525.
+	** September 2012 - Also available is the R115S, the mic element used in the Super 55.  Again, some internal modification will be required.

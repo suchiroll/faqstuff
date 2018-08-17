@@ -1,0 +1,12 @@
+Title: Cartridge for Realistic turntable Lab 2200
+Id: 1002
+Legacy Id: 1031
+
+Question:
+I have a Realistic turn table, model Lab 2200 and need a replacement stylus for the cartridge. The cartridge has a Realistic label with p/n 623. The cartridge mounting is P-type, that is four pins out the back with a screw hole through the pin block to secure to the tone arm. The stylus clips on to the cartridge.
+
+
+Answer:
+
+	Shure has a P-mount cartridge available: model M92E.
+

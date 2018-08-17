@@ -1,0 +1,14 @@
+Title: Distributed Audio via CAT 5 cable
+Id: 3022
+Legacy Id: 3151
+
+Question:
+What is distributed audio?
+
+
+Answer:
+
+	Distributed audio refers to the class of devices that accept analog audio from a mixer or other source, convert this signal to digital audio, then send this signal to a destination via category 5 cable. At the end point it can be converted back to analog and used however necessary. Category 5 cable is high performance digital transmission cable that is most often used in Ethernet computer connections. These cables usually consist of 4 pairs of twisted cables terminated by an RJ45 connecter. The RJ45 connector looks like the connector on a phone line, but is slightly larger. The devices at the receiving end of the distributed audio network can be DSP devices, digital mixers, or an individual multi-channel personal mixer for monitoring. The advantage of using these distributed audio systems is that the distance between devices can be up to 500ft. Long distances for multi-channel analog audio require hefty amounts of cable, snakes, and the associated costs. Also, Category 5 lines are already installed in many facilities.
+	
+	Distributed audio therefore becomes very useful for monitoring systems in that getting multi-channel mixes to many people becomes much easier. In addition to these personal mixers, wireless in-ear monitors can be used to transmit the personal mix to anyone who needs the added mobility of wireless but needs the customized multi-channel mix they can control with the personal mixer. There is also the added benefit of the limiter function built into many in-ear systems that provides invaluable hearing protection. While headphones can be used, earphones provide better isolation, and are much less conspicuous and cumbersome. To summarize, combining the benefits of distributed audio and wireless in-ear systems can provide outstanding audio performance and flexibility for monitoring in houses of worship.
+

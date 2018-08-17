@@ -1,0 +1,13 @@
+Title: Can I get specs on AXS3?
+Id: 2217
+Legacy Id: 2293
+
+Question:
+Can I get specs on AXS3?
+
+
+Answer:
+
+	The User Guide can be downloaded from:
+	
+	http://www.shure.com/user-guides/us_pro_axs3_ug_27d3074_ac_.pdf

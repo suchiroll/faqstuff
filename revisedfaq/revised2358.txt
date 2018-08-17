@@ -1,0 +1,25 @@
+Title: V15VxMR Compatibility with Denon DP37F turntable
+Id: 2358
+Legacy Id: 2447
+
+Question:
+I have a V15VxMR to use on my Denon DP37F turntable. When I install the cartrige I will not be able to use the Dynamic Stabilizer because my tone arm is microprocessor controlled and therefore when you adjust the tracking force it automatically adjusts the anti-skating to the same value. I know if I had seperate controls the tracking force would be set at 1.5g and the anti-skating would be set at 1g when using the Stabilizer. Since I can't adjust the controls in that manner I will just leave the Stabilizer in the "up" position and set the tracking/anti-skating control at 1g-------Correct?
+
+I also would like to know is there any reason that I would need the use of the Stabilizer under normal playing conditions? My records are all in great shape and I do not have any warped records. Is the V15VxMR cartrige more prone to mistracking without the Stabilizer?
+
+
+
+Answer:
+
+	Since I cant adjust the controls in that manner I will just leave the Stabilizer in the up position and set the tracking/anti-skating control at 1g-------Correct?
+	
+	* Correct.
+	
+	I also would like to know is there any reason that I would need the use of the Stabilizer under normal playing conditions?
+	
+	* The stabilizer brush also cleans the record and removes any static charge.
+	
+	Is the V15VxMR cartrige more prone to mistracking without the Stabilizer?
+	
+	* No.
+

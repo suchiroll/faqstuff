@@ -1,0 +1,15 @@
+Title: SM81 suffix and Beta87 suffix
+Id: 2488
+Legacy Id: 2583
+
+Question:
+Every microphone has a suffix letters. What do the stand for? Example: SM81-LC and Beta 87A.
+
+
+Answer:
+
+	It depends upon the model. There is no "master key" to this question.
+	
+	SM81-LC: LC means Less Cable
+	
+	Beta 87A: the A version has a larger diameter handle than the non-A version.

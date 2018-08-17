@@ -1,0 +1,12 @@
+Title: Model 819 Replacement
+Id: 240
+Legacy Id: 246
+
+Question:
+I have an 819 which broke.  What model would be the best replacement for the 819 in a (video/audio) conference room application?
+
+
+Answer:
+
+	The MX393/C would be the best replacement microphone.
+

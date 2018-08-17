@@ -1,0 +1,24 @@
+Title: PSM400 Powering
+Id: 1997
+Legacy Id: 2060
+
+Question:
+A couple of questions re: the PSM 400 wireless monitor system.
+
+
+1)It runs off of 14-18V. Can it run off of 12V? I'll be using it in film production and all the gear on my sound cart is 12V. I do have access to 115V so I can use the wall wart, but a direct 12V in would be easier.
+
+
+2) I see the antenna is permanently mounted. Would it be a big deal for me to install a BNC so I could remote the antenna?
+
+
+3) Lastly, my existing radio mics are in (680-700 MHz). Do I have to order the PSM in a particular frequency block?
+
+
+Answer:
+
+	1) Yes.
+	
+	2) The chassis is plastic, so it would likely not be too big of a problem; but we have not done this modification.
+	
+	3) It is only available in several ranges depending upon your country.

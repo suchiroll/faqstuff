@@ -1,0 +1,12 @@
+Title: PGXD1 Power on/off issue when dropped
+Id: 4094
+Legacy Id: 4680
+
+Question:
+I have an unusual issue with my PGXD1 transmitter. If it falls to the floor from my belt, it turns off. I have to power it back on when this happens. Any ideas?
+
+
+Answer:
+
+	It is likely that the AA cells are momentarily disconnected from the battery terminals when the PGXD1 hits the floor. This issue has been duplicated and a fix has been implemented as of March 30, 2012. The manufacturing date code on the PGX1D with this fix will be LC30 or greater.
+

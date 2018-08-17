@@ -1,0 +1,12 @@
+Title: MXA910 cabling in conduit
+Id: 4992
+Legacy Id: 6260
+
+Question:
+What if my municipal code requires all cable above the ceiling be installed directly in conduit?
+
+
+Answer:
+
+	Use the A910-JB accessory.
+

@@ -1,0 +1,34 @@
+Title: Radio Shack - HighBall by Shure
+Id: 1241
+Legacy Id: 1287
+
+Question:
+Radio Shack has a microphone they call the HighBall - model number 33-984E and it is manufactured by Shure in Mexico.
+
+
+My questions are -
+
+
+Is this microphone a quality item ?
+
+
+It seems to be targeted at vocals, but would it be usable and provide high quality recordings when used for intruments such as drums like tom toms and snare-drums ?
+
+
+I was going to buy an SM57, but I could afford two of these for the same money, so I was wondering if these microphones have an equivelant Shure model I could compare them with ?
+
+
+Or would I just be wasting my money ?
+
+
+Thanks...
+
+
+Answer:
+
+	Shure microphones made for Radio Shack are manufactured to specifications agreed upon by both Shure and Radio Shack. There are no equivalent regular Shure microphones.
+	
+	Since its a dynamic microphone, you could use it to mike instruments like tom-toms and snare-drums without concern about overloading the microphone. One issue might be is that you will not be able to get the microphone as close to the drums because of the grille.
+	
+	This would be considered an entry-level all-purpose microphone.
+

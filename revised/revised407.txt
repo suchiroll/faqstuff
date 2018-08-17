@@ -1,0 +1,11 @@
+Title: PE53 User Guide
+Id: 407
+Legacy Id: 414
+
+Question:
+I am looking for a spec sheet/user guide for a model PE53 high impedance microphone. I searched through your database of user guides for discontinued products, and found lots of other PE microphones, but no PE53. Is there another number that I might find it listed under?
+
+
+Answer:
+
+	The PE53 is the same as the model 533A.

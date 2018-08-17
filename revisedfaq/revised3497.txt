@@ -1,0 +1,12 @@
+Title: Quietspot headphone discontinuation
+Id: 3497
+Legacy Id: 3696
+
+Question:
+When were the Quietspot headsets discontinued?
+
+
+Answer:
+
+	The QSHB3, QSHI3, QSHB4, and I2c-m were discontinued as of October 1, 2008.
+

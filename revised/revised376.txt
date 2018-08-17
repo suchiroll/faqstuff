@@ -1,0 +1,15 @@
+Title: Moisture and condenser mics
+Id: 376
+Legacy Id: 383
+
+Question:
+Moisture is clearly bad for condenser mics, but I'm curious as to what extent and how it effects the mic.  If my condenser has suffered some moisture damage, will it be obvious, like pops, crackles, or other clear electrical problems, or might it be a more subtle degradation of the sound that might not be noticed right away ?
+
+I want to know since I periodically take my large diaphragm studio condenser to other locations, and when the weather is cold, when the case is opened back inside, even after some time to acclimate, a small amount of condensation forms on the case, though not visibly anywhere else.  Can this type of moisture damage the mic, and if so, how would I know?  
+
+Answer:
+
+	Typically, light condensation like you describe will not be a problem. Moisture could cause a problem is if it is on the diaphragm. If moisture is on the diaphragm, the sound will likely be very poor. It would not be a subtle degradation.
+	
+	Letting the microphone air dry will typically allow the it to recover. Shure puts all of our condenser microphones through extensive environmental testing. If it is a Shure microphone, the type of moisture that you describe shouldnt be a problem.
+

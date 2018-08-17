@@ -1,0 +1,24 @@
+Title: Diminished sound in one ear of my earphones
+Id: 3253
+Legacy Id: 3407
+
+Question:
+One of my earphones is not as loud as the other. Why?
+
+
+Answer:
+
+	Most likely it is due to earwax inside the nozzle or sleeve. The nozzle is the passage way for the audio signal. The nozzle opening is very tiny. The smallest amount of wax or moisturecan cause a drastic drop in sound level.
+	
+	First, replace the sleeves with new sleeves to see if that restores the full level.
+	
+	Then, please clean the nozzle to ensure it is not clogged. Over 90% of the earphones returned to Shure for service are not defective, but clogged. Some times, the wax is not visible to the eye, as it is either too small of an amount or is further up inside the earphone where it can not be seen. Even the smallest, non-visibleamount can dramatically affect the output level.
+	
+	If you have the discontinued E4 or SCL4 model, replace the nozzle with a spare one supplied in the package. Simply unscrew the silver ring to replace the nozzle.
+	
+	If moisture gets in the nozzle due to cleaning or intense exercise, the earphone may cut out until it dries. Let the earphones sit overnight and then see if the sound level is restored.
+	
+	In 2013 Shure has introduced new foam sleeves that include a wax filter. As of 2013, these sleeves are standard with all Shure earphones. Thus, when earwax gets caught in the wax filter, simply changing the sleeves will often bring back the proper sound of the earphones.
+	
+	If the problem persists, return the earphones to Shure Service for evaluation. Click here for repair and service.
+

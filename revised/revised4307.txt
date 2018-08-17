@@ -1,0 +1,18 @@
+Title: BLX receiver audio outputs
+Id: 4307
+Legacy Id: 5378
+
+Question:
+Please provide details on the BLX receiver audio outputs.
+
+
+Answer:
+
+	On the BLX receiver, the  phone jack output (50 ohms) will provide a balanced output signal. The mating connector must be a Tip-Ring-Sleeve (TRS or stereo)  phone plug in order to obtain the balanced output. The output is impedance-balanced with audio on the Tip, and no audio on the Ring or Sleeve.
+	
+	The mic level XLR output (200 ohms) is also impedance-balanced with audio on pin 2, and no audio on pin 3 or pin 1.
+	
+	The XLR output and the  phone jack output may be used simultaneously. The phone jack output signal level is 14 dB greater than the XLR output.
+	
+	Both outputs are protected against phantom power being supplied by the following mixer or device.
+

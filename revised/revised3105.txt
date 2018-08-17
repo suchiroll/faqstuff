@@ -1,0 +1,14 @@
+Title: EZO Microphone - increase the cable length?
+Id: 3105
+Legacy Id: 3238
+
+Question:
+Your instruction sheet with the EZO/W overhead microphone says you can shorten the cable. Can I lengthen the cable. I need to add approximately 50'. I do not want a coupling in the insulation in the attic so I wish to solder 50' of microphone cable to this cable and install this end at the opposite end of the additional cable. How many feet of cable can be added without degradation of the signal?
+
+
+Answer:
+
+	Not recommended. The connection between the mic and the preamp is unbalanced and medium impedance. Adding cable, as you described, will degrade the high frequency response of the audio signal, and could inject Radio Frequency Interference into the audio signal.
+	
+	You can try it and if the results are satisfactory, great, but satisfactory results are unlikely.
+

@@ -1,0 +1,16 @@
+Title: Using one microphone for a five piece bluegrass band
+Id: 2871
+Legacy Id: 2984
+
+Question:
+I want to get a Shure microphone to use as a single mic for a bluegrass band - five instrumentalists playing into the same mic, all acoustic. What Shure microphone would recomend for this purpose?
+
+
+Answer:
+
+	Best: KSM44
+	Better: KSM32
+	Good: Beta 27
+	
+	For operation, all require 48 V dc phantom power to be provided by the mixing board. Also, to use this miking technique requires the use of in-ear monitors, or NO (or very little) loudspeaker monitors.
+

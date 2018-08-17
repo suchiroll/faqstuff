@@ -1,0 +1,16 @@
+Title: Line Level into a wireless transmitter
+Id: 2826
+Legacy Id: 2936
+
+Question:
+I will be videotaping a function that will already be mic'd by a house sound system. (over which I have no control) I would like to tap into the house system's board and use a VP body pack transmitter to send the signal to my field mixer/camera location. Answer #276 describes how to do this for a musical instrument. Can it be done with a line level or mic level out from a mixer?
+
+
+Answer:
+
+	Assuming the mixer has an XLR, line level output:
+	
+	1) Pad the signal down to Mic level by using the Shure A15LA.
+	
+	2) Connect the A15LA output to the body pack transmitter using the Shure WA310 cable.
+

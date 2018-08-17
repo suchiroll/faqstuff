@@ -1,0 +1,12 @@
+Title: Rotating grill on the SM57
+Id: 2102
+Legacy Id: 2169
+
+Question:
+Just bought a new SM57 and the top of the mike rotates to the touch. Is this normal? Should it be fixed?
+
+
+Answer:
+
+	Absolutely normal! Do not try to fix; it is not broken.
+	The rotating grill was part of the original industrial design on the model 545.  The design provided a reliable method to securely mount a grill to the end of the mic.  The rotation was simply a "side-effect" of the mounting method.

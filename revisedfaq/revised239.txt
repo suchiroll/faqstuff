@@ -1,0 +1,20 @@
+Title: What mics are best suited for percussion?
+Id: 239
+Legacy Id: 245
+
+Question:
+I am a percussionist (bongos and congas, etc.) and am in need of three or four quality microphones to get the best sound out of my rig in live concert situations. The difficulty in this is that I am not a traditional percussionist playing with in a traditional percussion environment. Both of the bands I am in are hard rock/funk rock bands, so I have to rise above the already loud mix of distorted guitars, slap bass, crushing drums and strong vocals. Most people say they've been able to hear me during live shows, but the response is always that I could have been a little louder to even things out. So I need about four mics, preferably omnidirectional, that will help me overcome this problem. Can you help me out with some model numbers and list prices? I understand list prices usually aren't that accurate compared to retail store prices, but it would at least give me a general idea. Thanks.
+
+
+Answer:
+
+	Please go to: Microphone Techniques for Music - Sound Reinforcement
+	
+	This booklet is written specifically about mics for sound reinforcement.
+	
+	I doubt you want omnidirectional mics as they tend to feedback easily when used in a loud PA system. I suggest you look at unidirectional mics with cardioid or supercardioid pickup patterns.
+	
+	Some mics to consider are: SM81; SM94; Beta98D/S; Beta 56; SM57.
+	
+	Which model(s) you prefer should be based on your ears, playing style, your instruments, and of course, your budget. Even though the SM57 is the least expensive model I suggested, if you like the sound of it, use it. Dont be influenced by the price. The SM81 is a great mic but only worth the price if you hear a difference when compared to the SM57. Trust your ears!
+

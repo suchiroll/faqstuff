@@ -1,0 +1,14 @@
+Title: Mic cable with Amphenol connector and 1/4" phone plug
+Id: 4760
+Legacy Id: 5942
+
+Question:
+I need a mic cable for a vintage, high impedance Shure mic. At the mic end, I need an Amphenol connector and at the amplifier end, I need a 1/4" male phone plug.
+
+
+Answer:
+
+	Rapco Mic Cable with Amphenol Connector
+	
+	The above cable was available from Rapco as of October 2015.
+

@@ -1,0 +1,14 @@
+Title: M267 Mixer Mix Bus
+Id: 1170
+Legacy Id: 1211
+
+Question:
+I have an M267 Mixer and have never seen anyone use the MIX BUS for anything...what can I do with it? It looks like an RCA plug (green) and its located on the right-hand side of the back of the mixer (as you look at it).
+
+
+
+
+Answer:
+
+	The M267 mix bus interconnects to another M267 mix bus. This provides the equivalent of an eight input mixer with two independent master outputs.
+

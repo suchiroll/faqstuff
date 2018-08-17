@@ -1,0 +1,9 @@
+Title: VN35MR Specs
+Id: 5453
+Legacy Id: 
+
+Question:
+Please provide the specifications of the VN35MR stylus.
+
+Answer:
+The VN35MR stylus has a Micro-Ridge diamond tip with a nude mounting.  This type of tip reduces second harmonic distortion by 37%; it reduces intermodulation distortion by 56%Tip dimensions: 0.00015 x 0.003 inch  Stylus grip color: RedOutput level: 3.5 mV @ 1 kHz with 5 cm/sec peak recorded velocityFrequency response: 10 Hz to 25 kHzChannel balance: 2 dB or lessChannel separation: 25 dB minimum @ 1 kHz; 15 dB minimum @ 10 kHzTracking Force: 0.75 to 1.25 gramsTrackability (peak recorded velocity) using 1 gram tracking force: @400 Hz – 26 cm/sec; @1 kHz – 38 cm/sec; @5kHz – 35 cm/sec; @10kHz – 26 cm/secNet weight: 0.6 grams

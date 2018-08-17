@@ -1,0 +1,12 @@
+Title: Stylus for model HA95E
+Id: 2194
+Legacy Id: 2270
+
+Question:
+Can I use the N94E as a replacement stylus for me HA95E stylus?
+
+
+Answer:
+
+	The replacement stylus for the HA95E is the N104E.
+

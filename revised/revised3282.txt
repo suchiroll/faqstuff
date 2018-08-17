@@ -1,0 +1,16 @@
+Title: I series T version and Blackberry Pearl
+Id: 3282
+Legacy Id: 3445
+
+Question:
+I am interested in the I2c-T stereo/cellular headset, for use with the new Blackberry Pearl (model 8100). Is the I2c-T's jack meant for a 4-conductor socket (which the Pearl does have)?
+
+I already have a pair of E2c's, and was going to get a 2.5mm/3.5mm audio adapter designed for the Pearl but it would be great to have the in-line mic feature of the I Series.
+
+
+Answer:
+
+	Unfortunately the 4 pin conductor on the pearl is wired differently than the 4 pin jack on our single version I series...so it will not be compatible.
+	
+	The I series dual connector model will work with the Pearl although you will receive mono music in both ears during music playback. The mic will work in the dual connector version so you will be able to use the I series as a hands free headset. With the adapter you mentioned you could plug in the 3.5mm jack or any stereo headphones/earphones like our E series line.
+

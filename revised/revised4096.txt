@@ -1,0 +1,21 @@
+Title: ULXD1 Power Switch and Alkaline Batteries
+Id: 4096
+Legacy Id: 4682
+
+Question:
+Please tell me if this is proper operation of the ULXD1.
+1) Power switch is ON.
+2) The alkaline AA batteries are removed and replaced with new ones.
+3) Power switch must be set to OFF and then to ON for the ULXD1 to operate again.
+It seems that replacing the batteries "overrides" the Power switch. Is this correct?
+
+
+
+
+
+Answer:
+
+	Yes, this is correct operation for the ULX1D. When new alkaline cells (batteries) are inserted, move the power switch from ON to OFF to ON.
+	
+	If the power switch was already set to OFF during the battery change, simply move it to ON once the new cells are in place.
+

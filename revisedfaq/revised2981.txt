@@ -1,0 +1,19 @@
+Title: SLX systems having different audio output levels
+Id: 2981
+Legacy Id: 3109
+
+Question:
+I have two SLX transmitters and they seem to have different levels of audio output. Any suggestions?
+
+
+Answer:
+
+	The SLX 1 body pack transmitter has a gain level switch on the side. Check it for the setting.
+	For a lapel mic, set the switch to the "MIC" position.
+	For a headworn mic, try the "0" position.
+	For an instrument, use the "-10" setting.
+	
+	
+	The SLX 2 handheld transmitter has a gain switch underneath the removable microphone head.
+	For normal use, set the switch to the "0" position.
+	For a really loud singer, set the switch to the "-10" position.

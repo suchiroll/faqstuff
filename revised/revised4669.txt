@@ -1,0 +1,22 @@
+Title: Brass Screw for Desk Stands
+Id: 4669
+Legacy Id: 5836
+
+Question:
+For decades, Shure has used a short, fat, brass fastener to hold a mic, or a mic clip, to a desk stand. This screw / bolt has been used with the S36 stand, S37A stand, S39 stand, and others. What is the Shure part number?
+
+
+Answer:
+
+	Part # 31C162
+	
+	External thread: 5/8-27
+	
+	Thread length: 3/8
+	
+	Total length of screw: 1/2
+	
+	Flat screwdriver slot for tightening into the microphone.
+	
+	
+

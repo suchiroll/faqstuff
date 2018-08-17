@@ -1,0 +1,30 @@
+Title: Original V15 Type V styli - not MR or HE
+Id: 1077
+Legacy Id: 1112
+
+Question:
+I've owned all of the Type V15 cartridges. When I bought my original V15 Type V back in the early '80s, Shure made a series of styli for it, including standard spherical and elliptical versions, all with dynamic stabilizers. I am not looking for the Microridge (MR) or Hyperelliptical (HE) versions. For my reference, could you please give me the old part/model numbers for the original V15 Type V spherical and elliptical styli? What was the part number for the V15G replacement stylus with stabilizer and the suggested tracking force?
+
+Will an N111E stylus fit into a V15V cartridge?
+
+What is the best cartridge that Shure makes that can be obtained with a conventional biradial and/or conical stylus? (Not MR or HE)
+
+
+Answer:
+
+	The different models of the V15V consisted of:
+	
+	V15V: hyper-elliptical tip; dynamic stabilizer; premium packaging
+	V15V-B: hyper-elliptical tip; dyanmic stabilizer; basic packaging
+	V15G: spherical tip; dynamic stabilizer
+	V15V-P: P-mount;hyper-elliptical tip; NO dynamic stabilizer
+	V15V-MR: micro-ridge tip; dynamic stabilizer
+
+	VN5G was the model number.
+	
+	Tracking force: 1 to 1.25 grams
+	
+	No, the N111E will not fit.
+	
+	The M97xE has a 0.2 x 0.7 elliptical stylus.
+

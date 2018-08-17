@@ -1,0 +1,35 @@
+Title: Noise problems caused by audio cable
+Id: 3217
+Legacy Id: 3366
+
+Question:
+Please elaborate about the audible noise problems that can be caused by the audio cable
+
+
+Answer:
+
+	Audio system performance will be degraded due to any undesirable and interfering voltage (developed within or external to the audio system) which evidences itself as electrical noise. By using the proper cable type with proven grounding and isolation techniques it is often possible to stop the noise before it enters the audio system. Audio (and video) cables are extremely sensitive to electromagnetic induction (EMI), electrostatic coupling, radio frequency interference (RFI) and changes in capacitance. Cables must be designed and manufactured to eliminate or minimize the factors which contribute to unwanted line noise, electrostatic hum, crosstalk, and noise induced by cable handling.
+	
+	Electro-Magnetic Induction (EMI)
+	Electrons in motion create magnetic fields. Sources of these fields can be power cables, motors, power transformers, fluorescent light ballasts and SCRs as dimmers. These magnetic fields, and the resultant changes from constantly varying voltages, can induce a voltage in neighboring conductors which is heard as a buzz or hum. Twisting a cables inner conductors minimizes susceptibility to this phenomena. Where there are multiple conductor pairs twisting them with varying lays so the fields do not align also minimizes EMI.
+	
+	Electrostatic Hum
+	In an AC circuit, hum results from voltage being electrostatically coupled into the cable due to the capacitive reactance inherent between power and audio signal lines. The higher the capacitive reactance and the higher the impedance, the higher the induced noise. Additionally, the longer the cable run, the more susceptible the cable will be to hum. A properly grounded cable shield can eliminate this noise and the effectivity is proportional to the cable shields coverage. Braid shield can provide up to 95% coverage. Foil shields can provide up to 100% coverage. When the utmost in cable flexibility is required a spirally served shield with multiple strands of fine wire can be used. Foil/tape shields do not have the flexibility of braid or spiral shields, and have a tendency to open under severe or multiple bending cycles. It is for this reason that foil shield cables are not typically chosen for microphone or instrument applications which require portability and movement. When 100% coverage is called for, as in digital broadcasting applications, double braids or a combination of foil/tape and braid can be utilized. As mentioned, the longer the cable, the more critical the shielding becomes.
+	
+	Radio Frequency Interference (RFI)
+	Complex audio systems use a vastcollection of equipment, all operating at different voltage levels and frequencies. Some of this equipment may radiate stray radio waves. Cables, which act like transmitting antennas, propagate this radiation. Cables are also receiving antennas and can contribute to the noise problem evidenced by buzz or hum. Properly grounded cable shielding greatly minimizes this problem. Cables are available with foil/tape shields, braid shields, spiral shields, and combinations of the shield types. All have their specific advantages and cost considerations so should be selected based on exact application.
+	
+	Handling Noise
+	This source of noise is induced as a result of changes in capacitance. When cables are bent, subjected to vibration, impacted, or crushed, the distance between conductors or between conductors and shields is changed. This results in a change of capacitance between conductors and that leads to changes in the voltage difference between conductors. A change in voltage will induce noise into the cable. Cables can be constructed with fillers where to give the cables strength, mechanical stability, and durability.
+	
+	Static
+	Noise can be induced by the static build-up of electrons as a result of cables rubbing against each other or being dragged along carpets. The use of insulating material inside the cable shields can dissipate static noise, improve shield density, and further reduce noise inherent in normal handling.
+	
+	Ground Loops
+	When a cable connecting two pieces of audio equipment is grounded at both ends, buzz or hum can be created by undesirable current flow in the cable shield. The cable provides a ground path that is in addition to the hard wired AC power line grounds. This condition is called a ground loop. The resulting electrical potential differences lead to the undesirable current flow that causes hum. In severe cases the ground loop provides a return path for very high frequency internal equipment oscillation and this can cause audible distortion. A ground loop can often be eliminated by disconnecting the shield at one end of the cable. Note: never disconnect the shield on a cable used to connect a microphone to a mixer or other equipment.
+	
+	Crosstalk
+	Crosstalk is when signals enter adjacent channels of multi-conductor cables by capacitive coupling or electromagnetic induction. Shielding each channel signal path and inserting twists in the conductors will minimize crosstalk. In higher impedance applications, e.g. digital audio applications, Star Quad cable construction will reduce induced noise levels.
+	
+	Source: U.S. website of Draka Comteq
+

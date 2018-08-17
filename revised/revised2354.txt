@@ -1,0 +1,14 @@
+Title: What does 'Frequency Agile' mean?
+Id: 2354
+Legacy Id: 2442
+
+Question:
+What does frequency agile mean?
+
+
+Answer:
+
+	What does frequency agile mean?
+
+	* The operating frequency of the wireless system can be quickly and easily changed the user.
+

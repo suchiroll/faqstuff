@@ -1,0 +1,25 @@
+Title: Range of a Wireless Microphone System
+Id: 4601
+Legacy Id: 5757
+
+Question:
+How far can a wireless microphone transmit? What is the maximum distance? How far away can I be from the receiver?
+
+Answer:
+
+	A logical question concerning wireless performance is the transmission range of various systems. Unfortunately, the answer is much more complicated than a simple distance measurement. Ultimately, the receiver must be able to pick up a useable signal from the transmitter. Useable means that the strength of the desired signal is within the sensitivity range of the receiver and further that it is sufficiently stronger than (or different from) undesirable signals and RF noise to produce an acceptable signal-to-noise ratio at the audio output of the receiver. Elements that affect usability are the transmitter/antenna, the transmission path, the receiver/antenna and RFI. Some characteristics of these elements are controllable, some are not.
+	
+
+	
+
+
+	Important transmitter characteristics are power output and antenna efficiency. Maximum power is limited by government regulations and battery capability. Antenna efficiency is limited by size and design. The efficiency of typical wireless transmitter antennas is fairly low, about 10% or less for VHF. This means that for a 50 mW VHF transmitter the effective radiated power (ERP) is less than 5 mW. This may be further attenuated by proximity to the body or other lossy objects.
+	
+	Important receiver characteristics are antenna efficiency, receiver sensitivity and the ability of the receiver to reject unwanted signals and noise. Antenna efficiency is again limited by size and design but receiver antennas tend to be much more efficient than transmitter antennas since they can be made large enough to be better tuned to the proper frequency. Other receiver characteristics are limited by design. Both elements are limited by cost.
+	
+	The transmission path is characterized by distance, intervening obstructions and propagation effects. Losses due to these characteristics are generally frequency dependent: the higher the frequency the greater the loss. Once the operating frequency is chosen, only the path length and antenna locations are controllable. These are usually limited by the application itself. Under good conditions (line-of-sight) at a distance of about 100 ft. the field strength of the signal from a 50 mW transmitter is on the order of 1000 uV/m, well within the range of sensitivity of a typical receiver.
+	
+	Finally, RFI is characterized by its spectrum, that is, its distribution of amplitude and frequency. It typically consists of both broadband noise and discrete frequencies. However, its strength can be comparable to or greater than the desired signal in poor conditions. Except for a few predictable sources it is largely uncontrollable.
+	
+	Rather than quote a specific maximum operating distance most manufacturers of wireless microphone systems give a typical range. For systems of the type discussed here (10-50 mW, VHF or UHF) the typical range may vary from 100 ft. to 1000 ft. The lower number represents a moderately severe environment while the upper figure might be achieved in absolute ideal conditions. Extremely poor conditions could result in a range of only 50 feet or less. It is impossible to accurately predict the range of an arbitrary wireless microphone system in an arbitrary application.
+

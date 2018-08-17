@@ -1,0 +1,12 @@
+Title: Is the Beta 58A phantom powered?
+Id: 1745
+Legacy Id: 1804
+
+Question:
+Are the Beta 58A microphones phantom powered or not?
+
+
+Answer:
+
+	The Beta 58A is a dynamic microphone, and it is not phantom powered.
+

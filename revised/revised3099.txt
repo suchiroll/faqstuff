@@ -1,0 +1,16 @@
+Title: SM58 "Dual Impedance"
+Id: 3099
+Legacy Id: 3232
+
+Question:
+On my SM58 microphone, the collar reads: "Dual Impedance 50  150 ohms". It's a tired looking old unit, but a favorite among the singers at our church. It resembles the unit in your spec sheets, but there is no mention of dual impedence. What do I have here?
+
+
+Answer:
+
+	From 1966 until 1984, the SM58 was dual low impedance: 50 ohms or 150 ohms. 50 ohms is now an obsolete standard, but was used in the 1950s and 1960s for direct connection to some broadcast mixing consoles.
+	
+	The Shure 1985 catalog lists the SM58 as having only one output impedance: 150 ohms.
+	
+	For use with modern equipment, your older SM58 should be configured for the 150 ohm setting.
+

@@ -1,0 +1,11 @@
+Title: P4HW female XLR input connectors - balanced?
+Id: 3860
+Legacy Id: 4102
+
+Question:
+Are the female XLR input connectors on the P4HW balanced or unbalanced?
+
+
+Answer:
+
+	The P4HW inputs are actively balanced.

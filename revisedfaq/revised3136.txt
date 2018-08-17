@@ -1,0 +1,15 @@
+Title: External MS matrix for VP88
+Id: 3136
+Legacy Id: 3270
+
+Question:
+The VP88 User Guide mentions the use of an "external matrix" to decode an MS recording into Left-Right stereo. Does Shure sell an external matrix?
+
+
+Answer:
+
+	Shure does not sell an external matrix.
+
+	Here is one company that does: http://www.peterengh.com
+This matrix is called the Sonic Orbit.
+

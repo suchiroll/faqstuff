@@ -1,0 +1,4006 @@
+{
+  "data": {
+    "allProducts": [
+      {
+        "title": "503BG",
+        "uuid": "bf0e3f70-407c-4bab-bda5-f1e420279d70"
+      },
+      {
+        "title": "514B",
+        "uuid": "b8f820d9-c1dc-42ba-a116-fb5232ab908a"
+      },
+      {
+        "title": "515",
+        "uuid": "827e5e36-5da3-42b8-a8da-5a5f15ebd02f"
+      },
+      {
+        "title": "520DX",
+        "uuid": "4be2679d-6e3f-47f5-a900-f84a01a583a5"
+      },
+      {
+        "title": "522",
+        "uuid": "aa67c40c-2504-46f3-b516-ba308b54504b"
+      },
+      {
+        "title": "527",
+        "uuid": "401d54e8-f677-4266-ab24-4f365fb6d0bf"
+      },
+      {
+        "title": "545SD",
+        "uuid": "45575ac8-5e1b-403b-83da-4647d116f4a3"
+      },
+      {
+        "title": "5575LE",
+        "uuid": "a601f27f-230b-4ccd-a97e-798782e5a21a"
+      },
+      {
+        "title": "55SH II",
+        "uuid": "946f7c08-1ea3-4d31-8b8a-0a343bee8618"
+      },
+      {
+        "title": "562",
+        "uuid": "978a1a0d-beb6-4c75-9454-0e255ec6ec62"
+      },
+      {
+        "title": "565SD",
+        "uuid": "a82d09ff-5373-46b1-9397-ba44a9aa2f00"
+      },
+      {
+        "title": "577B",
+        "uuid": "671fdf1d-e714-490b-a159-54b1f4c0f49f"
+      },
+      {
+        "title": "588SDX",
+        "uuid": "6e50b2f9-9cb6-4ca8-a898-00d9d9ca70c4"
+      },
+      {
+        "title": "596LB",
+        "uuid": "6cf6767b-d405-449c-af7e-b7a6a24cfc43"
+      },
+      {
+        "title": "A181WS",
+        "uuid": "7fb38de5-e498-436e-827a-68f48766d0b9"
+      },
+      {
+        "title": "ADX2FD/SM58",
+        "uuid": "1adfc81d-5258-4745-9505-eb49d74db9a4"
+      },
+      {
+        "title": "MXCWNCS",
+        "uuid": "bef20340-84e8-4c2f-b023-0f2593b6e9d1"
+      },
+      {
+        "title": "PA730",
+        "uuid": "dd56838e-bd2a-446d-ae91-52e9c732cfe7"
+      },
+      {
+        "title": "PGADRUMKIT5",
+        "uuid": "a89476fe-37db-488e-8d83-b9d53a7f78e1"
+      },
+      {
+        "title": "PGASTUDIOKIT4",
+        "uuid": "33406f01-a54c-4fde-a5e5-21789c30d680"
+      },
+      {
+        "title": "SB930",
+        "uuid": "37e50f88-5ced-4cd5-b040-7602def82ca6"
+      },
+      {
+        "title": "SLX14L/LC ",
+        "uuid": "b56b8605-d718-4ec4-b9f7-97905657bfc3"
+      },
+      {
+        "title": "SVX2/PG28",
+        "uuid": "208d82ff-4bf6-4e22-99f6-dba055302227"
+      },
+      {
+        "title": "SVX4",
+        "uuid": "3c510305-b277-4770-9547-6d31d0a4663d"
+      },
+      {
+        "title": "UA860SWB",
+        "uuid": "0d8cbeb9-30b4-4f18-ad1f-fb9f8bbab390"
+      },
+      {
+        "title": "WA596",
+        "uuid": "f9fc3b0d-aca2-4e42-8422-f3d5eee8df30"
+      },
+      {
+        "title": "A100WS",
+        "uuid": "9ef318f3-54f1-41e9-8eeb-1939d6c6bbb9"
+      },
+      {
+        "title": "A12",
+        "uuid": "a0077958-ed8f-4eed-bd19-b5fdb72d0d1d"
+      },
+      {
+        "title": "A120S",
+        "uuid": "853af654-bf71-4a5b-9dab-fe1ae1db0baf"
+      },
+      {
+        "title": "A137C",
+        "uuid": "fb56e529-6b19-4ab8-8947-c90b7e5a877d"
+      },
+      {
+        "title": "A137SPC",
+        "uuid": "cd90b478-04be-4696-a7bb-c5bd796a44f4"
+      },
+      {
+        "title": "A13HD",
+        "uuid": "e190ab7f-48b1-4219-ae16-43573dd6cf14"
+      },
+      {
+        "title": "A141C",
+        "uuid": "f6a452e9-83cd-470e-b4b3-373c532d021b"
+      },
+      {
+        "title": "A141SPC",
+        "uuid": "df1cec7b-9fcf-421a-82fb-80f7b60d2175"
+      },
+      {
+        "title": "A15AS",
+        "uuid": "522abce5-4eb8-46d8-9ecd-91c04305b950"
+      },
+      {
+        "title": "A15BT",
+        "uuid": "aea3cd86-49ae-40d5-b144-9634ebd52c1b"
+      },
+      {
+        "title": "A15HP",
+        "uuid": "6f23d379-8567-4c18-b844-98f4f97f53e0"
+      },
+      {
+        "title": "A15LA",
+        "uuid": "65f646dc-30ea-4f77-b1e1-70647aa2d158"
+      },
+      {
+        "title": "A15PRS",
+        "uuid": "8ba3c246-0a5c-4020-b875-a8f0d1b9d2ec"
+      },
+      {
+        "title": "A15RF",
+        "uuid": "0c2eac3b-2529-446b-b767-2e73b46b3514"
+      },
+      {
+        "title": "A15TG",
+        "uuid": "5875466b-6dfe-483e-992f-00a343f6069f"
+      },
+      {
+        "title": "A181C",
+        "uuid": "6d1bb385-b591-4f0a-bb34-bf3bd7e8a926"
+      },
+      {
+        "title": "A1K",
+        "uuid": "31562411-905d-4331-a126-765921dbc905"
+      },
+      {
+        "title": "A1WS",
+        "uuid": "d00bd440-1dd6-4e96-810c-27e8413bc51e"
+      },
+      {
+        "title": "A202BB",
+        "uuid": "578b269f-4b8d-4480-90f1-58e146852652"
+      },
+      {
+        "title": "A25D",
+        "uuid": "e227e4db-6485-4450-bfe5-411f2f532a5d"
+      },
+      {
+        "title": "A25E",
+        "uuid": "40d11d6d-ef78-4f9b-b21c-102ec99bcb78"
+      },
+      {
+        "title": "A26M",
+        "uuid": "2af13687-4b8e-476a-a491-b19387620496"
+      },
+      {
+        "title": "A26X",
+        "uuid": "1ed4d54c-ab23-43b9-80bb-7d802e42022f"
+      },
+      {
+        "title": "A27M",
+        "uuid": "bf8c20c5-f166-45aa-94f0-56875e8e98c5"
+      },
+      {
+        "title": "A27SM",
+        "uuid": "5bd95bba-92ab-4f29-8fc9-52fe1b398a7d"
+      },
+      {
+        "title": "A2WS",
+        "uuid": "41544d1d-b14e-40a7-a376-d8040d5c2518"
+      },
+      {
+        "title": "A300M",
+        "uuid": "5e4de921-a707-4a45-98e6-8d72dec85268"
+      },
+      {
+        "title": "A300PC",
+        "uuid": "7189d58a-1ce8-435b-bafc-fbb0a67f1206"
+      },
+      {
+        "title": "A300SM",
+        "uuid": "95305ead-a6fd-43c7-b09b-1115faf8aa6f"
+      },
+      {
+        "title": "A310-FM",
+        "uuid": "0f7a34ac-34af-497c-a48a-0afffcfe5a3d"
+      },
+      {
+        "title": "A313SC",
+        "uuid": "1d98b4e0-73e2-496d-8960-71ab4e7ef5ca"
+      },
+      {
+        "title": "A313SM",
+        "uuid": "9cbf1c8d-d6d9-4808-850f-916f35fcf3eb"
+      },
+      {
+        "title": "A313VB",
+        "uuid": "b2cc8f2c-76fa-4b4f-91a5-b30b839a8155"
+      },
+      {
+        "title": "A32M",
+        "uuid": "7f970db3-68db-4687-93eb-fb3f0e806e71"
+      },
+      {
+        "title": "A32SC",
+        "uuid": "12eedffa-c5a2-44f7-8290-c50809813586"
+      },
+      {
+        "title": "A32SM",
+        "uuid": "57b55b62-b284-4de2-b9ef-9c5e22787e1a"
+      },
+      {
+        "title": "A32VB",
+        "uuid": "0c18528b-7bba-4b5f-aa2f-8104d81a615f"
+      },
+      {
+        "title": "A32WS",
+        "uuid": "cf2a5a9c-7739-41fa-94f8-533439343e8b"
+      },
+      {
+        "title": "A32ZB",
+        "uuid": "6d23c517-aa2f-475d-a949-73d21332bb16"
+      },
+      {
+        "title": "A353SC",
+        "uuid": "b0b77076-ff21-49ea-9e60-ad2eeb24433a"
+      },
+      {
+        "title": "A353VB",
+        "uuid": "6e7f6261-e4fa-4545-b05d-37ddc5acdd01"
+      },
+      {
+        "title": "A3WS",
+        "uuid": "fce562d0-98fd-4610-965b-0c152b33f29f"
+      },
+      {
+        "title": "A400SM",
+        "uuid": "4410db1a-abf8-4f80-9308-dc1c555132be"
+      },
+      {
+        "title": "A400SMXLR",
+        "uuid": "42b5cefe-4695-4541-b9e8-1fe48b8fa328"
+      },
+      {
+        "title": "A400XLR",
+        "uuid": "fd089ac4-a181-4c13-8eb0-f410d3de2c7a"
+      },
+      {
+        "title": "A412B",
+        "uuid": "b865ab33-aaf3-4950-82cf-f58d2b7f08bb"
+      },
+      {
+        "title": "A412MWS",
+        "uuid": "48817c9b-67e0-4ddb-a2c2-d047942e3ba6"
+      },
+      {
+        "title": "A42OR",
+        "uuid": "b65ebec4-76c1-4370-a793-17dd476e1044"
+      },
+      {
+        "title": "A42PF",
+        "uuid": "46e2f2c8-bb5d-4fa1-abe1-25d35c695fe8"
+      },
+      {
+        "title": "A42SC",
+        "uuid": "bcb191dd-6355-4a01-a093-9a68f47ef1c9"
+      },
+      {
+        "title": "A42SM",
+        "uuid": "ffa58416-e78f-486f-973e-847f9d7ecc7c"
+      },
+      {
+        "title": "A42VB",
+        "uuid": "95d12795-5f20-4732-85c2-351260bc909e"
+      },
+      {
+        "title": "A44AM",
+        "uuid": "fecfbc0d-65f5-4c12-95c3-c5f8dc1cb2ac"
+      },
+      {
+        "title": "A44ASC",
+        "uuid": "d1885ac5-7a7e-4fef-834c-234d5906ed1f"
+      },
+      {
+        "title": "A44ASM",
+        "uuid": "86e62b11-52ef-4f23-b5ad-68f0789fef71"
+      },
+      {
+        "title": "A44AVB",
+        "uuid": "3f26df82-8d12-43a5-a265-5a44f2e45986"
+      },
+      {
+        "title": "A44M",
+        "uuid": "2dedb3e6-45ef-4a98-9704-0054f6ca0446"
+      },
+      {
+        "title": "A44SC",
+        "uuid": "0e29e09c-5489-4b11-8c38-a28b14e80db5"
+      },
+      {
+        "title": "A44SM",
+        "uuid": "008934f2-c309-45a7-9ee5-ffda9a6bf8df"
+      },
+      {
+        "title": "A44VB",
+        "uuid": "8529d28f-26bf-417d-bf33-94fd6c8be479"
+      },
+      {
+        "title": "A4WS",
+        "uuid": "275b3231-37a9-43dd-8214-aa4e7c352277"
+      },
+      {
+        "title": "A50D",
+        "uuid": "5833eaf6-8298-4c00-9381-9efd490bf432"
+      },
+      {
+        "title": "A53M",
+        "uuid": "82744630-0a9e-4e99-86a2-336a16ab8b29"
+      },
+      {
+        "title": "A55HM",
+        "uuid": "50d8a2d2-1568-4466-bfc8-8137706a7609"
+      },
+      {
+        "title": "A55M",
+        "uuid": "a4363c2c-306e-4e9e-ae61-91131f69eae8"
+      },
+      {
+        "title": "A56D",
+        "uuid": "7a01fb27-276b-47ba-9fd4-2b2d001f5810"
+      },
+      {
+        "title": "A57AWS",
+        "uuid": "e503dcb7-5cbc-4f0a-afea-36e91e13385f"
+      },
+      {
+        "title": "A57F",
+        "uuid": "53c0edd8-a119-4a55-9bc4-35fa841b40e2"
+      },
+      {
+        "title": "A58WS",
+        "uuid": "c971676c-cb63-44dc-a9c2-5860e3e10c78"
+      },
+      {
+        "title": "A75M",
+        "uuid": "200c4cf5-e27e-4665-ae13-fbd18332bdff"
+      },
+      {
+        "title": "A7WS",
+        "uuid": "bd2db5ac-1063-4a8f-ad94-4286311f4a05"
+      },
+      {
+        "title": "A81G",
+        "uuid": "be5728b6-edcf-4ce3-a3b2-265c600250bb"
+      },
+      {
+        "title": "A81WS",
+        "uuid": "c381f817-0fa4-4b6d-8971-5a690415a355"
+      },
+      {
+        "title": "A820-NIC-DANTE",
+        "uuid": "9dea2d5f-ff7a-4cc9-8ba9-9fd454029713"
+      },
+      {
+        "title": "A83-FUR",
+        "uuid": "3813b142-0fce-4eab-9da1-85200d393af5"
+      },
+      {
+        "title": "A83-W",
+        "uuid": "947c4fda-30f4-444a-ba58-8f9a1736983c"
+      },
+      {
+        "title": "A85F",
+        "uuid": "c1decb38-1c19-4d56-926b-dc9e771392f9"
+      },
+      {
+        "title": "A85WS",
+        "uuid": "8d91cccd-463c-4ec9-83ae-d50d65da387d"
+      },
+      {
+        "title": "A88SM",
+        "uuid": "b7863bbc-d4b4-4896-995e-fcd5ba5a736c"
+      },
+      {
+        "title": "A89LC",
+        "uuid": "271c8803-03a2-404e-a034-a97250b6af10"
+      },
+      {
+        "title": "A89LM-BA",
+        "uuid": "3495626b-10b4-482f-98cc-8cc146e84d49"
+      },
+      {
+        "title": "A89LW",
+        "uuid": "1b9ea2f5-2408-410c-8841-72008c401aa3"
+      },
+      {
+        "title": "A89LW-JMR",
+        "uuid": "fd9d11c2-3053-4ccd-bcb4-4ed97eccfcb5"
+      },
+      {
+        "title": "A89LW-KIT",
+        "uuid": "6c6f9131-b767-45cf-b20b-c19392197f5f"
+      },
+      {
+        "title": "A89LW-SFT",
+        "uuid": "0e7ba771-354d-4320-96bf-d99378553451"
+      },
+      {
+        "title": "A89M-CC",
+        "uuid": "164ea6d8-9cbe-4730-93af-cace0d3c4cad"
+      },
+      {
+        "title": "A89M-PG",
+        "uuid": "325bbfd6-0e67-40aa-b24d-32aa3814fbf8"
+      },
+      {
+        "title": "A89M-SH",
+        "uuid": "d6b93bd7-c7b4-4eb5-bba5-fdc10088f005"
+      },
+      {
+        "title": "A89MC",
+        "uuid": "94feaa9c-6643-4880-a352-40fbd454dd60"
+      },
+      {
+        "title": "A89MW",
+        "uuid": "8122ce77-db20-46b5-9ee4-aabd6b0f4f8f"
+      },
+      {
+        "title": "A89MW-JMR",
+        "uuid": "07ce7333-ffd2-4f9c-963a-822ee6c19721"
+      },
+      {
+        "title": "A89MW-KIT",
+        "uuid": "e65beef7-bdb2-4457-93f2-e64c9d2c8802"
+      },
+      {
+        "title": "A89MW-SFT",
+        "uuid": "49aa7ae1-be14-46f8-a056-86d6e53dcc10"
+      },
+      {
+        "title": "A89SC",
+        "uuid": "e0b8f2ad-a93d-48bd-89d5-c60e1beb7867"
+      },
+      {
+        "title": "A89SM",
+        "uuid": "359b0660-da39-4f4e-aee3-45c6f208a169"
+      },
+      {
+        "title": "A89SW",
+        "uuid": "286df86b-e70a-44c3-8824-355b57697f7e"
+      },
+      {
+        "title": "A89SW-JMR",
+        "uuid": "c437b9bd-4ef6-462d-bee6-0db459e7fd28"
+      },
+      {
+        "title": "A89SW-KIT",
+        "uuid": "c5b38d36-22ee-409e-aff4-e333b3cd759f"
+      },
+      {
+        "title": "A89SW-SFT",
+        "uuid": "7df21961-af09-447e-beca-930dac026f26"
+      },
+      {
+        "title": "A89U",
+        "uuid": "00ecb64f-2c9e-4aef-a7e1-11c2f65da9c7"
+      },
+      {
+        "title": "A910-HCM",
+        "uuid": "2fc5bed0-6a20-4bf2-b73a-fca79aacfc7e"
+      },
+      {
+        "title": "A95U",
+        "uuid": "dc4b0360-e56e-4852-b856-e1ef6f6dbcff"
+      },
+      {
+        "title": "A95UF",
+        "uuid": "d656b9ff-25b7-4f63-815e-1a3595157e79"
+      },
+      {
+        "title": "A96F",
+        "uuid": "dd21a1e3-5a8a-438a-aadd-9c111c1de3b3"
+      },
+      {
+        "title": "A98D",
+        "uuid": "b2424f51-c301-46fb-8bcc-32833b876862"
+      },
+      {
+        "title": "A98KCS",
+        "uuid": "09f9ba3d-7cf5-47a1-ad72-b049641b20aa"
+      },
+      {
+        "title": "A99SMA",
+        "uuid": "67acb3b6-3919-4b53-ba10-82d9add3a239"
+      },
+      {
+        "title": "A99WS",
+        "uuid": "4f2cfced-ad42-4858-8f31-9bee196cf57a"
+      },
+      {
+        "title": "AC 5900 CC 20PK ",
+        "uuid": "e48553d1-37ea-4cb9-a53e-b03f7a1189cf"
+      },
+      {
+        "title": "AC 5901",
+        "uuid": "17ea7e0b-ed85-45b1-930e-211f866ee35c"
+      },
+      {
+        "title": "ACVG4WS-B",
+        "uuid": "dc3d2d8d-266e-47a6-b7cc-cf81a11a9726"
+      },
+      {
+        "title": "ACVO4WS",
+        "uuid": "83563dea-6a6c-41dd-88a7-058d8c3fffe6"
+      },
+      {
+        "title": "AD1",
+        "uuid": "7c69fd3a-633d-405b-a94a-596261e33daf"
+      },
+      {
+        "title": "AD1LEMO3",
+        "uuid": "6a2c3da4-6925-4a07-908d-6cc964422419"
+      },
+      {
+        "title": "AD2/B58A",
+        "uuid": "78c4015c-9bea-46af-9b92-7602c38aac2e"
+      },
+      {
+        "title": "AD2/B87A",
+        "uuid": "da7c33d7-871f-457b-8052-fa3ab1fc6e2d"
+      },
+      {
+        "title": "AD2/B87C",
+        "uuid": "2688914f-3370-4c0f-9e20-74a5fda85919"
+      },
+      {
+        "title": "AD2/KSM8",
+        "uuid": "12111c27-805f-4b7b-ada1-ed5706677097"
+      },
+      {
+        "title": "AD2/KSM9",
+        "uuid": "dbf7d273-fad4-4b3a-bc06-160f4d7cde9c"
+      },
+      {
+        "title": "AD2/KSM9HS",
+        "uuid": "3f793ea1-99ec-4db3-bc45-acee22f9492f"
+      },
+      {
+        "title": "AD2/SM58",
+        "uuid": "57fbabb9-a773-40ce-a386-dc6d36eb2ed1"
+      },
+      {
+        "title": "AD2/VP68",
+        "uuid": "b017702a-da44-435e-844e-5243c2d281ec"
+      },
+      {
+        "title": "AD4D",
+        "uuid": "93e1d41d-b238-4d22-8f6d-dd31e3d15b7b"
+      },
+      {
+        "title": "AD4Q",
+        "uuid": "a5369f24-21f6-45df-93be-71a84ae35ed6"
+      },
+      {
+        "title": "AD610",
+        "uuid": "7f598f49-c6e1-48e6-9db1-4fddcae73acc"
+      },
+      {
+        "title": "ADX1",
+        "uuid": "c761e36b-ea80-44dd-b69c-d243f02577af"
+      },
+      {
+        "title": "ADX1M",
+        "uuid": "cba369af-14a1-4306-b0da-5e8f552aad76"
+      },
+      {
+        "title": "ADX2/B58",
+        "uuid": "cc2edf61-3d1f-4492-ac4d-f6d68958c556"
+      },
+      {
+        "title": "ADX2/B87A",
+        "uuid": "40d940b0-e0ee-41ba-af6a-911eeec35d9e"
+      },
+      {
+        "title": "ADX2/B87C",
+        "uuid": "b8fd3d0b-a6c0-4c50-a73b-c1e892959718"
+      },
+      {
+        "title": "ADX2/K8",
+        "uuid": "6d68f772-6746-4ed5-8a52-66c463e81c53"
+      },
+      {
+        "title": "ADX2/K9",
+        "uuid": "05715fad-fdea-41d8-b02b-6f49a56b691f"
+      },
+      {
+        "title": "ADX2/K9HS",
+        "uuid": "383c3893-c15f-4791-81a5-80b692b2c6fa"
+      },
+      {
+        "title": "ADX2/SM58",
+        "uuid": "bf5536f7-6c9e-4b9f-b928-a35ead6879ad"
+      },
+      {
+        "title": "ADX2FD/B58",
+        "uuid": "29b472c8-ee25-4106-888f-b38b6c5e38d0"
+      },
+      {
+        "title": "ADX2FD/B87A",
+        "uuid": "ccfbc0ca-7a2d-4b68-9235-ce0512b2c8a9"
+      },
+      {
+        "title": "ADX2FD/B87C",
+        "uuid": "7dd6776f-2e8d-49a6-aef9-ac82d6b55817"
+      },
+      {
+        "title": "ADX2FD/K8",
+        "uuid": "33e43f2f-1e12-4405-9eae-fce66048b6b3"
+      },
+      {
+        "title": "ADX2FD/K9",
+        "uuid": "ffc7479b-0e41-429c-9ee5-9d834aad1579"
+      },
+      {
+        "title": "ADX2FD/K9HS",
+        "uuid": "65ecdfdc-d002-4a36-86ef-325b1dca7196"
+      },
+      {
+        "title": "AFP-511",
+        "uuid": "58b427c9-38ff-406f-a766-80ce21e3a3e7"
+      },
+      {
+        "title": "AFP-512",
+        "uuid": "1af0a7e6-e1c0-490e-b505-d41b5773bfd4"
+      },
+      {
+        "title": "AFP-522",
+        "uuid": "5515b7d9-00d7-4a1e-a52a-c69f2145d670"
+      },
+      {
+        "title": "AFP-522DC",
+        "uuid": "92d4056c-14f3-418c-a8d2-a6778a05d7f7"
+      },
+      {
+        "title": "AFP301",
+        "uuid": "99ebba59-b704-4d91-aafc-241df92294bc"
+      },
+      {
+        "title": "AK313C",
+        "uuid": "0d882993-5553-4c1d-940c-8c8a6585d084"
+      },
+      {
+        "title": "AK32C",
+        "uuid": "31908695-02fd-4e42-bb21-cb5c22d27aa0"
+      },
+      {
+        "title": "AK353C",
+        "uuid": "83bfe961-e920-4c80-81cc-2eb1fcdcbb85"
+      },
+      {
+        "title": "AK42C",
+        "uuid": "59fcb54b-2d71-47b8-afa5-96a47c714f02"
+      },
+      {
+        "title": "AK44C",
+        "uuid": "028d93bd-6f40-4a15-9c3c-497f424b7a56"
+      },
+      {
+        "title": "AK8C",
+        "uuid": "16ebdeba-047c-44ef-bd3b-c8920fd7442a"
+      },
+      {
+        "title": "AK9C",
+        "uuid": "6882dbdc-f4a5-49ef-9c2a-964f8d142614"
+      },
+      {
+        "title": "AM 6040",
+        "uuid": "970f1bda-6344-4b42-9f39-9c78926deab2"
+      },
+      {
+        "title": "AMV-USB",
+        "uuid": "35906ab4-0468-4c6d-9cdb-13a68ff4a61f"
+      },
+      {
+        "title": "AMV-LTG",
+        "uuid": "8490d618-d1f7-48b1-ac89-2ae1add0f40e"
+      },
+      {
+        "title": "AMV88-CC",
+        "uuid": "7d7dc1bf-6e88-40c2-9a0d-52c2df01a4bd"
+      },
+      {
+        "title": "AMV88-FUR",
+        "uuid": "253d7a9d-b1c5-455c-9005-8b0c9fc958b6"
+      },
+      {
+        "title": "AMV88-WS",
+        "uuid": "5ec43134-33cb-4981-80b1-66530a125e88"
+      },
+      {
+        "title": "AMVL-BAG",
+        "uuid": "480371bc-4577-45d9-8794-e792a8e97090"
+      },
+      {
+        "title": "AMVL-CLIP",
+        "uuid": "1c1ec55a-0a0a-4d70-b6ad-ba7ebc910d1e"
+      },
+      {
+        "title": "AMVL-FUR",
+        "uuid": "28a50ca8-3e1f-44d1-8212-6ae81f4a9c13"
+      },
+      {
+        "title": "AMVL-WS",
+        "uuid": "b2adf893-bacc-488e-bdfd-424df4b5e93d"
+      },
+      {
+        "title": "ANI22",
+        "uuid": "4b97052c-8f6b-4266-8f12-e3df0cab0d36"
+      },
+      {
+        "title": "ANI4IN",
+        "uuid": "13eea604-f4f9-4c1c-8d31-0147c7ae1e64"
+      },
+      {
+        "title": "ANI4OUT",
+        "uuid": "204398ed-c1d7-4ff6-839f-34262b940e29"
+      },
+      {
+        "title": "ANIUSB-MATRIX ",
+        "uuid": "b2af44aa-7401-4b95-9736-1cb9c8254239"
+      },
+      {
+        "title": "AO 6004",
+        "uuid": "056db6df-392b-4bf0-a928-ccd59844ef5f"
+      },
+      {
+        "title": "AO 6008",
+        "uuid": "344d4686-69a9-4684-b33d-ffc9518e90d1"
+      },
+      {
+        "title": "AP200K AP201K",
+        "uuid": "4aa2c24a-ecad-407f-8c5c-fb8d6285bd49"
+      },
+      {
+        "title": "Axient Digital",
+        "uuid": "a5a1c937-720b-4e1f-903e-ff74975fd395"
+      },
+      {
+        "title": "Axient Wireless",
+        "uuid": "685668cf-329e-4f21-a6c7-51fd19fa216e"
+      },
+      {
+        "title": "AXT100",
+        "uuid": "79c60467-f24d-4bf5-817c-f39ee18b5edf"
+      },
+      {
+        "title": "AXT200/BETA58A",
+        "uuid": "19fe2b4f-c903-4fa5-ba36-c28d2716897f"
+      },
+      {
+        "title": "AXT200/BETA87A",
+        "uuid": "71a3485a-3c99-49a3-a7c3-eaf505f1a1bf"
+      },
+      {
+        "title": "AXT200/BETA87C",
+        "uuid": "f557e80b-d3a3-4418-a8a7-0ce2c5e59a0f"
+      },
+      {
+        "title": "AXT200/K8B",
+        "uuid": "a6a042ae-d63d-44de-86b1-e29862e5f08d"
+      },
+      {
+        "title": "AXT200/KSM9",
+        "uuid": "946a8139-e3ef-48d6-8990-33a62b24f2ad"
+      },
+      {
+        "title": "AXT200/KSM9HS",
+        "uuid": "53d019aa-4dcf-416f-a81d-222129258014"
+      },
+      {
+        "title": "AXT200/SM58",
+        "uuid": "5d9be7e2-a36e-4949-a4c6-e6ea18c311c7"
+      },
+      {
+        "title": "AXT200/VP68",
+        "uuid": "782593fe-fe47-4d84-b993-a9d91fb29f3c"
+      },
+      {
+        "title": "AXT400",
+        "uuid": "4deeb2a0-90ed-47a6-8375-1bf37c609bbb"
+      },
+      {
+        "title": "AXT600",
+        "uuid": "f1ce8952-f950-459e-8f3f-c9f677ab86f6"
+      },
+      {
+        "title": "AXT610",
+        "uuid": "408a9803-0a8f-47f3-9b17-2a089815284e"
+      },
+      {
+        "title": "AXT620",
+        "uuid": "993e1e4b-cf47-4305-b123-9611ce66c429"
+      },
+      {
+        "title": "AXT630",
+        "uuid": "13e8490d-e911-43d8-9ebc-8d639674357f"
+      },
+      {
+        "title": "AXT631",
+        "uuid": "60bf6d60-fd6d-4619-b9c6-28ae6558ac19"
+      },
+      {
+        "title": "AXT644",
+        "uuid": "eaf6a0ec-35e9-470a-96ef-a9611a6ef3f3"
+      },
+      {
+        "title": "AXT651",
+        "uuid": "9dce51d0-132c-468f-8329-6dcacca0605b"
+      },
+      {
+        "title": "AXT652",
+        "uuid": "4d9db9be-0eb2-433b-aa36-257ff01f6d4e"
+      },
+      {
+        "title": "AXT900",
+        "uuid": "14d27e0b-638c-45e9-9922-c76ad9d936fc"
+      },
+      {
+        "title": "AXT901",
+        "uuid": "b376b410-2904-401d-9253-e4f0110a190e"
+      },
+      {
+        "title": "AXT902",
+        "uuid": "29929bb8-34f0-41eb-b8c0-0d193cf26bb0"
+      },
+      {
+        "title": "AXT903",
+        "uuid": "a48e237c-c8f6-4fc5-8788-065633965554"
+      },
+      {
+        "title": "AXT904",
+        "uuid": "b12dc2a9-e634-4322-bbf0-84600aa1ca70"
+      },
+      {
+        "title": "AXT910",
+        "uuid": "ace33143-11ea-4355-921d-ed78cd685f75"
+      },
+      {
+        "title": "AXT913",
+        "uuid": "c8687e34-b3c0-403e-b52c-6b8d880a93c3"
+      },
+      {
+        "title": "AXT920",
+        "uuid": "0c8ae05b-c5ed-4f6a-9bb0-a477381436d6"
+      },
+      {
+        "title": "AXT921",
+        "uuid": "871d9427-d8d9-47f2-8130-6da1b0a0d917"
+      },
+      {
+        "title": "BCAEC31",
+        "uuid": "918af569-6e10-43a7-bcb6-e48dbfca4a7e"
+      },
+      {
+        "title": "BCAEC440",
+        "uuid": "82f8cabc-760b-4aa7-9ee8-441e7f766b12"
+      },
+      {
+        "title": "BCAEC50",
+        "uuid": "f047abac-c504-475d-affa-d6c337534d4d"
+      },
+      {
+        "title": "BCASCA-NXLR3QI",
+        "uuid": "77f130f1-f2bb-46a1-8e48-74d088757119"
+      },
+      {
+        "title": "BCASCA-NXLR3QI-25",
+        "uuid": "c64c7514-d1bc-481d-ba26-aeb261313da0"
+      },
+      {
+        "title": "BCASCA-NXLR4",
+        "uuid": "951cf0e1-dc2c-477d-80a9-bff790b3e72f"
+      },
+      {
+        "title": "BCASCA-NXLR4-FEM",
+        "uuid": "9e6aaecf-5ea0-4b71-a40f-6bc36250b25c"
+      },
+      {
+        "title": "BCASCA-NXLR5",
+        "uuid": "32da7644-9c3e-4c65-b169-a3a1348144a5"
+      },
+      {
+        "title": "BCASCA-XLR3QI",
+        "uuid": "6f16bdb2-9571-416f-b5e2-60cd28a5a8e6"
+      },
+      {
+        "title": "BCASCA-XLR4",
+        "uuid": "62b7b3ba-dd72-4d12-8780-5132b0f18c90"
+      },
+      {
+        "title": "BCASCA-XLR5",
+        "uuid": "c757e829-c620-45cb-817e-3c8895dabeb1"
+      },
+      {
+        "title": "BCASCA1",
+        "uuid": "7d57910f-713c-4760-9978-9d251f857f84"
+      },
+      {
+        "title": "BCATP1",
+        "uuid": "d5181a73-4d53-4b8e-9f96-26f163d2d348"
+      },
+      {
+        "title": "BCAWS1",
+        "uuid": "60784c9a-07fe-419c-92d3-bf7701c0179f"
+      },
+      {
+        "title": "BCAWS2",
+        "uuid": "a18878b8-cb54-41be-902e-943d4e625538"
+      },
+      {
+        "title": "BLX2/B58",
+        "uuid": "d2a885a2-a619-4fb3-9fe4-21b9b8e781bb"
+      },
+      {
+        "title": "GLXD2/B58 ",
+        "uuid": "5315ad67-ff20-44d1-8ae8-fc08db67672a"
+      },
+      {
+        "title": "GLXD2/B87",
+        "uuid": "a40f9000-54f9-46c1-be7a-101390bd66eb"
+      },
+      {
+        "title": "Beta 181",
+        "uuid": "2956269b-e574-4f54-b4c7-f8436bda2241"
+      },
+      {
+        "title": "Beta 27",
+        "uuid": "07ee90b8-1529-4afd-b6e8-ea22450f5302"
+      },
+      {
+        "title": "Beta 52A",
+        "uuid": "bfcc0079-b504-4359-9610-7a586e40cb39"
+      },
+      {
+        "title": "Beta 53",
+        "uuid": "d1b741e7-8353-4ce4-a79e-b3828fb7b526"
+      },
+      {
+        "title": "Beta 54",
+        "uuid": "b415eb7c-9328-4847-9519-fcc36989e30b"
+      },
+      {
+        "title": "Beta 56A",
+        "uuid": "fe72bf59-ef7f-4351-b2ac-5205274f2549"
+      },
+      {
+        "title": "Beta 57A",
+        "uuid": "83db9d77-5d89-4089-90ad-11cfa9728122"
+      },
+      {
+        "title": "Beta 58A",
+        "uuid": "ef2d55d8-ca51-42df-b825-d85e5dcec3da"
+      },
+      {
+        "title": "Beta 87A",
+        "uuid": "c041763d-866f-48eb-b0c8-19b849ecc4c9"
+      },
+      {
+        "title": "Beta 87C",
+        "uuid": "251005f2-0b67-423b-9225-c4042c712b86"
+      },
+      {
+        "title": "Beta 91A",
+        "uuid": "f5a067e4-f404-43da-b174-5eb0720e0242"
+      },
+      {
+        "title": "Beta 98A/C",
+        "uuid": "ffc51a0a-8133-4de3-b515-956861b46392"
+      },
+      {
+        "title": "Beta 98AD/C",
+        "uuid": "aa4c4c0e-61ba-4743-ae80-64c667aa3e34"
+      },
+      {
+        "title": "Beta 98AMP/C",
+        "uuid": "f42508d6-dcb8-4452-b10f-e628250eb7ca"
+      },
+      {
+        "title": "Beta 98D/S",
+        "uuid": "8a5f80c3-ccf2-46c4-a6ea-b85d707cba12"
+      },
+      {
+        "title": "Beta 98H/C",
+        "uuid": "3983932a-8273-49e8-9390-7ba65b6fc16b"
+      },
+      {
+        "title": "Beta 98/S ",
+        "uuid": "98ea9271-6747-4499-b83c-7524f12f4256"
+      },
+      {
+        "title": "BLX-R Wireless",
+        "uuid": "66dc7813-05af-4dee-bf61-cd4ab8d6e18a"
+      },
+      {
+        "title": "BLX1",
+        "uuid": "9cd485e6-b494-4b55-92a7-df218125f3bb"
+      },
+      {
+        "title": "BLX1288/MX53",
+        "uuid": "a75016c1-c7c4-4085-95bb-52d93107bfbd"
+      },
+      {
+        "title": "BLX1288/PGA31",
+        "uuid": "d18ceb27-ab79-414e-83fa-fff18121ea93"
+      },
+      {
+        "title": "BLX1288/SM31",
+        "uuid": "53235368-ac9a-4c0b-91df-65cf47498518"
+      },
+      {
+        "title": "BLX1288/SM58",
+        "uuid": "dde2be3d-303b-4825-b176-aeed11f8229b"
+      },
+      {
+        "title": "BLX1288/SM35",
+        "uuid": "fe1764e8-f545-472a-a8b0-f78872759451"
+      },
+      {
+        "title": "BLX1288/W85",
+        "uuid": "9083d9d2-af95-427d-ab12-ed576ef3acb1"
+      },
+      {
+        "title": "BLX1288/CVL",
+        "uuid": "dfddc091-0cc2-4d33-95a1-8f55daf592c1"
+      },
+      {
+        "title": "BLX14/B98 ",
+        "uuid": "48fa9a70-f0cb-4c57-8ae7-d017efce3889"
+      },
+      {
+        "title": "BLX14/CVL",
+        "uuid": "497b4700-2a27-4dfa-af2d-00bd150b8acc"
+      },
+      {
+        "title": "BLX14/MX53",
+        "uuid": "522a4a13-1cbe-430b-8094-bc62f06866c3"
+      },
+      {
+        "title": "BLX14/PGA31",
+        "uuid": "7f7309bb-676e-43af-b880-64b73ba07425"
+      },
+      {
+        "title": "BLX14/SM31",
+        "uuid": "634487f0-fbb7-41b0-943f-68183d9337ac"
+      },
+      {
+        "title": "BLX14/SM35 ",
+        "uuid": "9fb26eb7-6a51-4b53-b765-71c994dc9626"
+      },
+      {
+        "title": "BLX14/W85",
+        "uuid": "1e8880be-1f54-4403-add0-d72a025b2072"
+      },
+      {
+        "title": "BLX14 ",
+        "uuid": "d9f7f44e-f616-4c26-85f6-6ffc8899d028"
+      },
+      {
+        "title": "BLX14/93",
+        "uuid": "8d150351-7490-4f7c-a1f9-647c2955e9bc"
+      },
+      {
+        "title": "BLX14/P98H",
+        "uuid": "8de30047-ca99-4a67-9b91-7c6b61df88a7"
+      },
+      {
+        "title": "BLX14R/B98",
+        "uuid": "d4e75077-e3c9-4805-b5e9-d418cb41a1b1"
+      },
+      {
+        "title": "BLX14R/CVL",
+        "uuid": "567c9a41-0556-4353-8f86-44aec603948a"
+      },
+      {
+        "title": "BLX14R/MX53",
+        "uuid": "c39685b0-9080-426b-87cd-95e8b8a148e5"
+      },
+      {
+        "title": "BLX14R/P98H",
+        "uuid": "7614889b-d7a5-49d3-8ce6-46083ccc3b68"
+      },
+      {
+        "title": "BLX14R/PGA31",
+        "uuid": "ad3e1944-3966-416f-b816-c9d0d8b10f5c"
+      },
+      {
+        "title": "BLX14R/SM31",
+        "uuid": "2117049a-68db-4dfa-a84b-7ee86b844d96"
+      },
+      {
+        "title": "BLX14R/SM35",
+        "uuid": "e75d548b-daf8-47d2-a815-0d39ecbfbbdf"
+      },
+      {
+        "title": "BLX14R/W85",
+        "uuid": "e7b8e70e-0b35-4028-9a6f-e9ffd7cd2fdb"
+      },
+      {
+        "title": "BLX14R",
+        "uuid": "fd0fd2a7-7c52-43cc-85fa-62fb84d15095"
+      },
+      {
+        "title": "BLX14R/W93",
+        "uuid": "e6b5784d-5f49-40a2-9d99-9b40c7877aeb"
+      },
+      {
+        "title": "BLX188/CVL",
+        "uuid": "3b97085c-6f7f-4d31-9a65-6233d13eedba"
+      },
+      {
+        "title": "BLX188 ",
+        "uuid": "67db5b49-65ec-4463-8970-cdfd20168815"
+      },
+      {
+        "title": "BLX188/MX53",
+        "uuid": "1a5c49bd-0edd-495e-bb70-c88266aa3b3b"
+      },
+      {
+        "title": "BLX188/SM31",
+        "uuid": "359e09a3-9387-4971-ac5f-95ab04045826"
+      },
+      {
+        "title": "BLX188/SM35",
+        "uuid": "e3b63ab1-0d82-4ee2-a8d7-2086f4866d8d"
+      },
+      {
+        "title": "BLX188/W85",
+        "uuid": "4b0b9387-99c4-4158-9a48-6228f7a40c18"
+      },
+      {
+        "title": "BLX24/B58",
+        "uuid": "64a2eb9a-7934-422f-99e1-52861bdcfe72"
+      },
+      {
+        "title": "BLX24R/PG58",
+        "uuid": "f9d458dd-73e6-4b0f-a7f4-56fd9d611536"
+      },
+      {
+        "title": "BLX24R/SM58",
+        "uuid": "d8b1f5f4-c726-4570-a6c9-a19fa324aea8"
+      },
+      {
+        "title": "BLX24R/B58",
+        "uuid": "4e811cc8-388b-4676-97b9-690ffb71aa72"
+      },
+      {
+        "title": "BLX288/PG58 ",
+        "uuid": "04737338-16b1-4365-b3a1-7704109d1c92"
+      },
+      {
+        "title": "BLX288/B58",
+        "uuid": "2bcea3fd-1a21-4b9a-8e66-a83187f15bee"
+      },
+      {
+        "title": "BLX4",
+        "uuid": "bdaa9dfb-ac2b-45f5-9145-baa5b51255c3"
+      },
+      {
+        "title": "BLX4R",
+        "uuid": "3d07671d-dca6-4200-bf49-92a0068bc500"
+      },
+      {
+        "title": "BLX88",
+        "uuid": "1d60dad7-4ff4-4895-acff-9518baeca897"
+      },
+      {
+        "title": "BLX Wireless",
+        "uuid": "524b6dd6-8bf9-4390-91dd-84e7e909b075"
+      },
+      {
+        "title": "BRH31M",
+        "uuid": "9dfe29b1-bfc5-46ab-9da5-fe8082962b51"
+      },
+      {
+        "title": "BRH440M",
+        "uuid": "a9230d87-04ee-4006-aae1-e8fdabf4c9f9"
+      },
+      {
+        "title": "BRH440M-LC",
+        "uuid": "ddd1dbd4-6618-4048-8536-6b58c466f5bc"
+      },
+      {
+        "title": "BRH441M",
+        "uuid": "db60efa5-22c1-469b-94fa-e9116eed3e6a"
+      },
+      {
+        "title": "BRH441M-LC",
+        "uuid": "607bdafa-6423-4336-a76b-cd553f0c1a98"
+      },
+      {
+        "title": "BRH50M",
+        "uuid": "bc311be1-1899-439e-abe1-6551bff0eccb"
+      },
+      {
+        "title": "BRH50M-LC",
+        "uuid": "668c77c3-a4f5-4f74-8375-acc2938063b8"
+      },
+      {
+        "title": "C107",
+        "uuid": "09bb5400-5cc6-4c11-bf09-e81686222d06"
+      },
+      {
+        "title": "C119",
+        "uuid": "ce7ec8f8-a928-4169-985b-e6acf6eb872f"
+      },
+      {
+        "title": "C122",
+        "uuid": "5fbd2550-b08c-4a9e-bd6a-20dc24600012"
+      },
+      {
+        "title": "C128",
+        "uuid": "357b776d-9956-4ce0-a7cb-daaafd9f2961"
+      },
+      {
+        "title": "C129",
+        "uuid": "efc99407-cb7f-4ff4-90fb-0869976b23e8"
+      },
+      {
+        "title": "C25J",
+        "uuid": "cf91ce8f-f366-432f-b07f-52923599972e"
+      },
+      {
+        "title": "C98D",
+        "uuid": "c51b43e7-7366-485d-9082-63111be3e26b"
+      },
+      {
+        "title": "CBL-M-K",
+        "uuid": "995fec19-5d9c-466f-b1e9-18776606740d"
+      },
+      {
+        "title": "CBL-M+-K",
+        "uuid": "8289edff-7f6b-4369-a0f8-5cb678be7cf0"
+      },
+      {
+        "title": "CM/DM 6080 F",
+        "uuid": "1af64a1f-3929-436e-b6e7-065d0d99cf74"
+      },
+      {
+        "title": "CM/DM 6680 F",
+        "uuid": "317bacac-0269-46e0-b18d-79c047a97f5c"
+      },
+      {
+        "title": "CP 7890",
+        "uuid": "0eca8778-f5fd-4ef1-ac6e-b731023a8c62"
+      },
+      {
+        "title": "CP 7890 APP",
+        "uuid": "5663213a-870c-4a9c-ba65-a8ed1afef7b6"
+      },
+      {
+        "title": "CRT1",
+        "uuid": "33daba92-8c92-4272-b0de-e480c8da5182"
+      },
+      {
+        "title": "CS 6340 F",
+        "uuid": "87ab93e0-2a12-47ff-86f0-3819fc8bb9ae"
+      },
+      {
+        "title": "CVB",
+        "uuid": "73d8f676-fb0e-4814-aced-85474c21454c"
+      },
+      {
+        "title": "CVD-B",
+        "uuid": "6887eadc-6fd2-4893-b91c-3e762e510247"
+      },
+      {
+        "title": "CVG12",
+        "uuid": "267b5e4b-5bf8-486f-ae63-a3b6bcf6cb29"
+      },
+      {
+        "title": "CVG12D",
+        "uuid": "7abee474-446e-47dc-8ee9-40f276c2e151"
+      },
+      {
+        "title": "CVG18",
+        "uuid": "0c97ce6f-73b9-46be-943a-a4bf3298966e"
+      },
+      {
+        "title": "CVG18D",
+        "uuid": "8ea8c5e9-961c-4bb0-9318-413f7f5ea0a9"
+      },
+      {
+        "title": "CVL",
+        "uuid": "0ac4ff70-5dd0-49dc-a14e-a539a46e33a0"
+      },
+      {
+        "title": "CVO",
+        "uuid": "c3d1a237-ab21-4033-b314-5e358eaf8e23"
+      },
+      {
+        "title": "DB25-TRSM",
+        "uuid": "00be1452-5b2e-49df-ba6b-4d037fb4965d"
+      },
+      {
+        "title": "DB25-XLRF",
+        "uuid": "30970526-3f8d-40a7-a797-8ab25ed33574"
+      },
+      {
+        "title": "DB25-XLRM",
+        "uuid": "962c3773-a559-403e-bca5-d6cbbfbdaa69"
+      },
+      {
+        "title": "DC 5900F",
+        "uuid": "aec0b6d6-ad4f-4ffe-a9f2-0d120bb05da9"
+      },
+      {
+        "title": "DC 5980 P",
+        "uuid": "13d9cbba-0efa-4087-aac2-5dd43e601667"
+      },
+      {
+        "title": "DC 5980 P ACC-DM",
+        "uuid": "8f97b268-2330-41fc-8fe0-9cfa19c6da16"
+      },
+      {
+        "title": "DC 6120 P",
+        "uuid": "dbd46b1f-cf00-4be5-9133-c991d04e47fc"
+      },
+      {
+        "title": "DC 6190 P",
+        "uuid": "47c5b023-80e1-485d-8b7f-d00a21b163df"
+      },
+      {
+        "title": "DC 6990 P",
+        "uuid": "a61c2f14-a250-4228-97aa-f61b77416892"
+      },
+      {
+        "title": "DCS 6000",
+        "uuid": "69c7cb50-3c84-4e37-b6be-1e045fb98948"
+      },
+      {
+        "title": "DDS 5900",
+        "uuid": "f0c6e476-7b1b-4603-813c-903a28f16ca5"
+      },
+      {
+        "title": "Designer",
+        "uuid": "8fb2971d-5bad-4347-b2a2-c9ab3edec410"
+      },
+      {
+        "title": "DFR22",
+        "uuid": "3d00aaea-d888-4f74-972e-50bf507d55dc"
+      },
+      {
+        "title": "DH 6001 H",
+        "uuid": "6467c5a8-fd3e-4f57-b573-502a1f1f6cea"
+      },
+      {
+        "title": "DH 6021",
+        "uuid": "5cb99378-e935-4d38-a934-3f486c5b8b7b"
+      },
+      {
+        "title": "DH 6223",
+        "uuid": "8bc119e4-1f71-416e-83b9-3d9a916406db"
+      },
+      {
+        "title": "DH 6225",
+        "uuid": "11b88a85-0c41-417c-8abb-799a342805d5"
+      },
+      {
+        "title": "DIR",
+        "uuid": "c0525974-e7c4-4312-92d9-aa6df2347dd5"
+      },
+      {
+        "title": "DIS-CCU",
+        "uuid": "4d926548-4226-4aa9-91d4-27980fb11bea"
+      },
+      {
+        "title": "DM 6501 F",
+        "uuid": "9c018277-3598-49dd-887f-e1c29e7ba1ed"
+      },
+      {
+        "title": "DM 6588 F",
+        "uuid": "c010109c-263b-4525-a47d-47d894dad420"
+      },
+      {
+        "title": "DM 6620 F",
+        "uuid": "50a94b41-f2ce-4ecc-9584-5fbaa857d64d"
+      },
+      {
+        "title": "DM 6680 P",
+        "uuid": "625ffd70-6fd9-42f0-af4c-8a68642dd267"
+      },
+      {
+        "title": "DMK57-52",
+        "uuid": "9cc4ee03-d5c6-4650-98d6-24cfe20b937a"
+      },
+      {
+        "title": "DR 6004, DR 6008 & DR 6032",
+        "uuid": "dc4fb885-5102-4cdd-bd1e-dfb84902db36"
+      },
+      {
+        "title": "DT 6008 & DT 6032",
+        "uuid": "9a01cc44-7250-4b50-882b-c63b9698aa8c"
+      },
+      {
+        "title": "EAADPT-KIT",
+        "uuid": "ef5c8962-73e9-44c8-bbe9-1ce26f281b81"
+      },
+      {
+        "title": "EAAMPCASE",
+        "uuid": "6acd3593-410f-4549-9a77-cd01de50c58f"
+      },
+      {
+        "title": "EABKF1 (S/M/L)",
+        "uuid": "91386318-713f-4ec1-96aa-7537e3bc44fd"
+      },
+      {
+        "title": "EAC-IFB",
+        "uuid": "743959cc-5979-4e1e-8d0b-928dd409c756"
+      },
+      {
+        "title": "EAC3",
+        "uuid": "e5402238-280f-4554-b216-08ee3d135c1f"
+      },
+      {
+        "title": "EAC30P-MICROB8",
+        "uuid": "d84b1758-aba8-4327-a172-2133c19e2b37"
+      },
+      {
+        "title": "EAC46",
+        "uuid": "c19bd774-ff71-4859-bf1d-cc23cc314243"
+      },
+      {
+        "title": "EAC64",
+        "uuid": "25aa9b79-f790-4fa0-bc52-f8b7bc93f4c2"
+      },
+      {
+        "title": "EAC9BK",
+        "uuid": "e5f751d5-2cf8-42fe-a08a-2cc55b12f775"
+      },
+      {
+        "title": "EAHCASE",
+        "uuid": "78fd1434-e914-4ec3-8959-08f35b119cf3"
+      },
+      {
+        "title": "EAORF2",
+        "uuid": "25ed02b7-d14f-4dcb-a2c5-f57c676a65b9"
+      },
+      {
+        "title": "EASCASE",
+        "uuid": "1a428739-2893-4649-9531-7522471bedfe"
+      },
+      {
+        "title": "EASFX1",
+        "uuid": "7d05fb91-1d62-4d11-aa9f-19052ff336a7"
+      },
+      {
+        "title": "EASFX2",
+        "uuid": "4b570a8b-7cfc-42ee-a7b0-04666483d7a3"
+      },
+      {
+        "title": "EASQRZIPCASE",
+        "uuid": "5df63b3f-a6c5-4cf3-a4e1-52f99775e3ce"
+      },
+      {
+        "title": "EATFL1-6",
+        "uuid": "2cd43e14-5818-4d3a-9e24-a98575d128bd"
+      },
+      {
+        "title": "EAWXG2-10",
+        "uuid": "9e356454-787f-446d-afec-a105ceb2bf17"
+      },
+      {
+        "title": "EAYLF1",
+        "uuid": "552a2584-5f77-4d86-a26d-bf9ea04d9b7f"
+      },
+      {
+        "title": "EX 6010",
+        "uuid": "07c33c64-b7a6-4fc1-a959-822257c6159c"
+      },
+      {
+        "title": "FP1 ",
+        "uuid": "f0ac024c-3ed2-4d7c-ac4c-33c0c008a6bd"
+      },
+      {
+        "title": "FP15/83",
+        "uuid": "29ca3c85-9432-45f5-9149-5e56638a1cd8"
+      },
+      {
+        "title": "FP15 ",
+        "uuid": "3dc0b8e3-132c-4c14-8128-35d42fc03b68"
+      },
+      {
+        "title": "FP25/SM58",
+        "uuid": "14c927e3-2cf5-4889-ab0a-ad3a1bc872bf"
+      },
+      {
+        "title": "FP25/VP68",
+        "uuid": "49f1e62c-aa8d-4254-bd81-9511548d0ad3"
+      },
+      {
+        "title": "FP2/SM58",
+        "uuid": "3fd24e8c-1fe8-4f45-aad9-61bd30c81980"
+      },
+      {
+        "title": "FP2/VP68",
+        "uuid": "873581fa-f2fa-46f0-b557-f988227b1afa"
+      },
+      {
+        "title": "FP3",
+        "uuid": "89e6d526-35df-4302-94a3-7da85fb75283"
+      },
+      {
+        "title": "FP33",
+        "uuid": "81924710-971f-4b08-b052-99d5833e97bc"
+      },
+      {
+        "title": "FP35",
+        "uuid": "6f6f1adc-9052-4b6c-a3ab-b29b8cd4f7bb"
+      },
+      {
+        "title": "FP5",
+        "uuid": "b845cc5a-71b2-4458-bd7b-922644271def"
+      },
+      {
+        "title": "FP 5921 F",
+        "uuid": "28400481-f69e-48bc-98d2-b70691a064ea"
+      },
+      {
+        "title": "FP 5921 F OL1",
+        "uuid": "48a55c9a-2264-47d7-8cab-194fafd09323"
+      },
+      {
+        "title": "FP 5921 F OL2",
+        "uuid": "2badacf8-2adf-4cde-affa-a8c7f0325eb6"
+      },
+      {
+        "title": "FP 5921 F OL3",
+        "uuid": "41371cfa-bd64-4e51-99b7-0dfe78775686"
+      },
+      {
+        "title": "FP 5921 F OL4",
+        "uuid": "d9117652-f738-448e-9f13-aa43b0938f95"
+      },
+      {
+        "title": "FP 5981 F",
+        "uuid": "3f73f9cd-0a88-4b5c-80d6-5edf972cdd72"
+      },
+      {
+        "title": "FP 5981 F OL5",
+        "uuid": "02185550-a56e-45c0-91f5-ad499990c418"
+      },
+      {
+        "title": "FP 5981 F OL6",
+        "uuid": "53a90f86-5369-4873-b33c-26e29d2ca614"
+      },
+      {
+        "title": "FP 5981 F OL7",
+        "uuid": "8c0d6a10-9f73-4226-b628-caa7b3305fde"
+      },
+      {
+        "title": "FP-Wireless",
+        "uuid": "14024860-0c13-40f0-b40e-36a6a5c1cdbe"
+      },
+      {
+        "title": "GLX-D Advanced",
+        "uuid": "ea1d0eb0-8f7f-4862-b193-f16ca680740c"
+      },
+      {
+        "title": "GLX-D",
+        "uuid": "11c0cf26-3a6f-48f6-87a8-4900b2c27073"
+      },
+      {
+        "title": "GLXD1",
+        "uuid": "f884c414-51b5-4299-84a2-6861aeae1e5b"
+      },
+      {
+        "title": "GLXD14/93",
+        "uuid": "46f1f70b-0d44-4467-ab36-cff2d9ad6778"
+      },
+      {
+        "title": "GLXD14/B98",
+        "uuid": "46a7260e-6e43-45d3-8bb6-0913f6c75698"
+      },
+      {
+        "title": "GLXD14",
+        "uuid": "cec116a8-718f-44e3-9c0f-ee20ae5ac93e"
+      },
+      {
+        "title": "GLXD14/MX53",
+        "uuid": "9543addd-25af-4d49-ab5a-ad3519011f4a"
+      },
+      {
+        "title": "GLXD14/P98H",
+        "uuid": "3cb15e7b-28e6-4851-8821-ba09684b625c"
+      },
+      {
+        "title": "GLXD14/SM31",
+        "uuid": "b4c08c33-75fc-4c6a-a395-11441da8bd51"
+      },
+      {
+        "title": "GLXD14/SM35",
+        "uuid": "4db67bd8-1926-4f47-86f9-44a8b6ab6df3"
+      },
+      {
+        "title": "GLXD14/85",
+        "uuid": "5c7de756-28a6-41af-933d-15dbc274d856"
+      },
+      {
+        "title": "GLXD14R",
+        "uuid": "e14dda59-3c4f-4090-b659-fb921868bfdc"
+      },
+      {
+        "title": "GLXD14R/B98H",
+        "uuid": "016ed9ec-674d-4c1d-a4d7-d7357db1c03b"
+      },
+      {
+        "title": "GLXD14R/MX153",
+        "uuid": "b2e0b77d-231f-400a-b1ae-c6582c157eab"
+      },
+      {
+        "title": "GLXD14R/SM31",
+        "uuid": "880236e3-fece-43e1-b26d-0ab9d8ef3f9d"
+      },
+      {
+        "title": "GLXD14R/SM35",
+        "uuid": "592df9a9-7b8e-4a9c-a6f6-37a3de44dd78"
+      },
+      {
+        "title": "GLXD14R/WL185",
+        "uuid": "e0c0188d-92ee-4b35-bdf4-80d921a2feae"
+      },
+      {
+        "title": "GLXD14R/WL93",
+        "uuid": "b962210d-cf6d-4197-b41e-00d1e4f8032f"
+      },
+      {
+        "title": "GLXD16",
+        "uuid": "6d8ca1cb-884d-49dd-831f-87de6c8660f8"
+      },
+      {
+        "title": "GLXD24/B87A",
+        "uuid": "1f0b8d9e-6e39-42de-9521-12cd3402068c"
+      },
+      {
+        "title": "GLXD24/B58A",
+        "uuid": "c720c550-3b4c-48e6-a3d0-5f2c904d707b"
+      },
+      {
+        "title": "GLXD24/SM58",
+        "uuid": "ba37e7cd-939a-400d-b35e-0c882428dfa9"
+      },
+      {
+        "title": "GLXD24/SM86",
+        "uuid": "433eb465-7f46-4c18-9a51-b0d1b4281f63"
+      },
+      {
+        "title": "GLXD24R/B87A",
+        "uuid": "faff76b6-d172-44b5-9ada-c4668d2e823f"
+      },
+      {
+        "title": "GLXD24R/B58A",
+        "uuid": "0df39b57-9d25-4c31-9c00-c73ea0641f12"
+      },
+      {
+        "title": "GLXD24R/SM58",
+        "uuid": "dbcf9239-7ee0-42c5-baaa-7d5052f01941"
+      },
+      {
+        "title": "GLXD24R/SM86",
+        "uuid": "bdbdb593-ba7a-44dc-a068-948df2153efd"
+      },
+      {
+        "title": "GLXD4",
+        "uuid": "929136ce-1f48-49cc-9f4b-af7cd33c34ec"
+      },
+      {
+        "title": "GLXD4R",
+        "uuid": "93f70ccd-b490-4efe-ae98-6e098e33baad"
+      },
+      {
+        "title": "GLXD6",
+        "uuid": "64182717-ae9d-4d43-b2e3-6d3246907613"
+      },
+      {
+        "title": "GM 416 / 420 / 425",
+        "uuid": "ddc6a38c-a4d1-41f1-b8fd-832d4af04142"
+      },
+      {
+        "title": "GM 5923 & GM 5924",
+        "uuid": "b86f163f-ddd8-4542-96a5-b829b92d10e3"
+      },
+      {
+        "title": "GM 6523/6524/6525",
+        "uuid": "e9feae4c-b724-4a22-9c7c-b97405cc180f"
+      },
+      {
+        "title": "GM 6628",
+        "uuid": "8e5ff0fc-06bb-46ba-b040-f4eebe5d0497"
+      },
+      {
+        "title": "HA-8089",
+        "uuid": "b935944d-3fc8-4281-b0c8-c481c1bf087e"
+      },
+      {
+        "title": "HA-8091",
+        "uuid": "bf22d314-628a-44d0-86f3-53030ac59c27"
+      },
+      {
+        "title": "HPACA1",
+        "uuid": "18d85a49-1620-408f-ac06-0181f1149db8"
+      },
+      {
+        "title": "HPACC1",
+        "uuid": "30b50c5c-231e-42d9-af70-3118c2b535e0"
+      },
+      {
+        "title": "HPACC2",
+        "uuid": "774e2afa-dc06-48e0-838d-449352043dad"
+      },
+      {
+        "title": "HPACC3",
+        "uuid": "38ded2d9-1b86-4d64-85bf-05967ed4e8ef"
+      },
+      {
+        "title": "HPACP1",
+        "uuid": "dc153f90-d390-4c2d-9359-aed67e50d4e5"
+      },
+      {
+        "title": "HPAEC144",
+        "uuid": "593c2802-f4f1-44ce-9aee-fcd0c0694413"
+      },
+      {
+        "title": "HPAEC1440",
+        "uuid": "f2b83d52-8747-4601-b5ea-595d9f020339"
+      },
+      {
+        "title": "HPAEC145",
+        "uuid": "c6a6ebce-4ef5-4689-9705-788f2f56fb34"
+      },
+      {
+        "title": "HPAEC1540",
+        "uuid": "91b2f108-fa9e-403b-8d94-a26fce207fe9"
+      },
+      {
+        "title": "HPAEC1840",
+        "uuid": "04beb28c-c0b2-47b0-af14-88292bdfe9e6"
+      },
+      {
+        "title": "HPAEC240",
+        "uuid": "f60c5066-aa6e-4864-9494-1a8393a9a022"
+      },
+      {
+        "title": "HPAEC440",
+        "uuid": "30bb0e2d-177b-4b49-9548-b3b0a39b5736"
+      },
+      {
+        "title": "HPAEC550",
+        "uuid": "d6eabd8c-09be-4be6-a70b-bdcbd44926de"
+      },
+      {
+        "title": "HPAEC750",
+        "uuid": "37e8c10e-f5b4-4704-a1f6-49386b8d0369"
+      },
+      {
+        "title": "HPAEC840",
+        "uuid": "b7d14c88-e990-41e1-a2b0-6e4d8fcd9171"
+      },
+      {
+        "title": "HPAEC940",
+        "uuid": "9867334b-ae6e-4cff-978d-a4452d292c4d"
+      },
+      {
+        "title": "HPAQA1",
+        "uuid": "7c12b1e5-1634-4b7b-b2b8-66e450035f8f"
+      },
+      {
+        "title": "HPASCA1",
+        "uuid": "b76e60d1-18b3-4183-b992-f30d9f80798c"
+      },
+      {
+        "title": "HPASCA2",
+        "uuid": "3e4ee0b0-7255-4b00-a592-eef3c2d94a50"
+      },
+      {
+        "title": "HPASCA3",
+        "uuid": "e800529c-be7c-4747-abba-66866eda123e"
+      },
+      {
+        "title": "IH 6500",
+        "uuid": "65c479ea-f7db-4e24-b7dd-7c276fd3134c"
+      },
+      {
+        "title": "IS 6132 P",
+        "uuid": "6a1874cf-7e81-434d-a916-7e24a568ff7f"
+      },
+      {
+        "title": "JB 6104",
+        "uuid": "e5bb3397-bce7-45ee-832c-34407ae25328"
+      },
+      {
+        "title": "KCX Wireless Microphone Systems",
+        "uuid": "04f8a74c-2d39-442b-83c3-2b44b5f43b28"
+      },
+      {
+        "title": "KCX1",
+        "uuid": "c3d19cfc-edbc-4ebc-94e3-bbdf25ac4f4a"
+      },
+      {
+        "title": "KCX14/CVL",
+        "uuid": "15479a1f-e472-4c53-ac80-338889fd10e9"
+      },
+      {
+        "title": "KCX14/PGA31",
+        "uuid": "a7f1a2fb-afd0-489f-aa56-a5239a5ba733"
+      },
+      {
+        "title": "KCX2/PG28",
+        "uuid": "faf7eebf-4322-445c-83bd-351af58d64ca"
+      },
+      {
+        "title": "KCX2/PG58",
+        "uuid": "afc2cb20-a04d-4306-ab09-f59defdeb7ee"
+      },
+      {
+        "title": "KCX24/PG28",
+        "uuid": "e2862f64-95ed-47fe-9a2c-768cf1c06afd"
+      },
+      {
+        "title": "KCX24/PG58",
+        "uuid": "ba95333d-9a84-4171-b3b4-b81b8c8f3d66"
+      },
+      {
+        "title": "KCX288/PG58",
+        "uuid": "65d5272a-210f-46e0-9dee-8585d6fe408b"
+      },
+      {
+        "title": "KCX4",
+        "uuid": "37bddb5e-9679-40ee-8460-977a9e809706"
+      },
+      {
+        "title": "KCX88",
+        "uuid": "db968729-6294-49bf-8ed9-223236c31ad0"
+      },
+      {
+        "title": "KSE1200",
+        "uuid": "11847253-2fdb-4470-9d7b-9cf3ce29283b"
+      },
+      {
+        "title": "KSE1500",
+        "uuid": "3eaaa2f6-f157-4660-a179-64ea403b419e"
+      },
+      {
+        "title": "KSM137",
+        "uuid": "d230c2c4-020c-4be9-a1b2-08e74ef9a8a4"
+      },
+      {
+        "title": "KSM141",
+        "uuid": "54652160-2077-4a25-b0e5-74f076bd5dce"
+      },
+      {
+        "title": "KSM313/NE",
+        "uuid": "6ff4a325-f045-4519-ba63-d6cd8138b57b"
+      },
+      {
+        "title": "KSM32",
+        "uuid": "a30f68dc-5615-4183-81fa-31f3675665e3"
+      },
+      {
+        "title": "KSM353/ED",
+        "uuid": "bd080f7e-7e12-4b78-b1ba-7f53e1f94f59"
+      },
+      {
+        "title": "KSM42",
+        "uuid": "a45d7b00-6ba2-4fd7-a9dd-54841096818b"
+      },
+      {
+        "title": "KSM44A",
+        "uuid": "991a7901-50f8-4482-b3c1-2d4067ae1151"
+      },
+      {
+        "title": "KSM8",
+        "uuid": "e22b1784-6a64-4a75-9be0-059cac1c0ed8"
+      },
+      {
+        "title": "KSM9",
+        "uuid": "92c6579a-0c30-4284-b521-e8ab7a350bbf"
+      },
+      {
+        "title": "KSM9HS",
+        "uuid": "2881244e-ee67-40c8-8773-3c84e5979a91"
+      },
+      {
+        "title": "LPC-K",
+        "uuid": "baf68744-2f5d-4dfa-bd8c-e8cf0778f861"
+      },
+      {
+        "title": "LS 5900 F",
+        "uuid": "2a5f3677-e42e-49ab-ac10-0e8639a3e0c6"
+      },
+      {
+        "title": "M35X",
+        "uuid": "d74b5275-3edf-4971-8a3c-c0564a664475"
+      },
+      {
+        "title": "M44-7",
+        "uuid": "f8affb8c-7bbb-47b9-9d3a-24962f2b20eb"
+      },
+      {
+        "title": "M44G",
+        "uuid": "843c4bd8-9840-4e7d-b58e-36003d7ece9f"
+      },
+      {
+        "title": "M78S",
+        "uuid": "8e472a04-1c2b-4096-be11-dd9da9bba814"
+      },
+      {
+        "title": "M92E",
+        "uuid": "c30d62e6-4023-45ef-bb2e-5d9ebe9c4a45"
+      },
+      {
+        "title": "M97xE",
+        "uuid": "5926fdf2-056e-4495-9ef3-f876a971e9c3"
+      },
+      {
+        "title": "MCC",
+        "uuid": "15abb6db-468e-45df-a09c-9fdcc6f2be00"
+      },
+      {
+        "title": "Microflex Wireless",
+        "uuid": "9f7e058d-5544-4907-a81b-2cbea3e76b3c"
+      },
+      {
+        "title": "MRB",
+        "uuid": "0935805c-f1af-422d-988a-cc171f06bbe5"
+      },
+      {
+        "title": "MV5",
+        "uuid": "52fbcc3e-bae5-4f60-9ee8-35099477b0ea"
+      },
+      {
+        "title": "MV51",
+        "uuid": "13877e9e-5bc7-4ad6-9f76-64d814f41944"
+      },
+      {
+        "title": "MV88",
+        "uuid": "f91f0a09-7ec0-4d19-81f3-2f3f3c53a9ad"
+      },
+      {
+        "title": "MV88-iPC",
+        "uuid": "b96857b4-83c4-42c1-b4bc-f578f3679caa"
+      },
+      {
+        "title": "MVi",
+        "uuid": "f6dec38d-49b4-447e-82ba-32c991703c66"
+      },
+      {
+        "title": "MVL",
+        "uuid": "5939dbc9-2386-4679-9fbb-5ba2b499e4f3"
+      },
+      {
+        "title": "MW1",
+        "uuid": "9fd58e69-b8ad-459a-b431-ad5a2a0560eb"
+      },
+      {
+        "title": "MW2-BETA-58",
+        "uuid": "516c1816-eaf0-490b-8484-99b4dba4dbe1"
+      },
+      {
+        "title": "MW2-BETA-87A",
+        "uuid": "f7595d76-f632-4631-8288-36e1616d0ee2"
+      },
+      {
+        "title": "MW2-BETA-87C",
+        "uuid": "bdfeed42-871b-49e1-991a-f81d019bf421"
+      },
+      {
+        "title": "MW2-KSM9",
+        "uuid": "3526467c-d5b4-4339-97e9-de16e08a9b10"
+      },
+      {
+        "title": "MW2-SM58",
+        "uuid": "f20ea00d-4ad3-4359-b48c-8b5bf042cfd3"
+      },
+      {
+        "title": "MW2-SM86",
+        "uuid": "10b7e1b1-a832-404f-a269-68c3c2e8988d"
+      },
+      {
+        "title": "MW3",
+        "uuid": "2d20db8c-fee8-4671-bf3f-eaba5a87991f"
+      },
+      {
+        "title": "MW4D",
+        "uuid": "8cbe097d-bab7-4207-92a4-5ebb86c23c59"
+      },
+      {
+        "title": "MW4D+",
+        "uuid": "b0279782-9336-452d-a023-8f430299649a"
+      },
+      {
+        "title": "MW5",
+        "uuid": "a4db2847-c746-41a3-970e-13c640794d37"
+      },
+      {
+        "title": "MX150-TQG",
+        "uuid": "0f2ebf5c-92ac-4d67-827b-9f00496b1f40"
+      },
+      {
+        "title": "MX150-XLR",
+        "uuid": "1d25a83d-3195-4bcd-9506-c801cf6c5503"
+      },
+      {
+        "title": "MX153",
+        "uuid": "e2449fef-519c-4959-a8dc-97343e54ca42"
+      },
+      {
+        "title": "MX183",
+        "uuid": "21f7789f-50d6-4857-a77a-259e4b974a7f"
+      },
+      {
+        "title": "MX184",
+        "uuid": "d1c074de-5679-4cf6-8178-6b460681ec97"
+      },
+      {
+        "title": "MX185",
+        "uuid": "f626409e-fd74-4686-a787-9604b61afe65"
+      },
+      {
+        "title": "MX202",
+        "uuid": "6e2ca12c-dfaf-41fa-8fa4-12656fd2e6bf"
+      },
+      {
+        "title": "MX391",
+        "uuid": "3ebd1c9b-e005-4415-8112-1b3dfb584697"
+      },
+      {
+        "title": "MX392",
+        "uuid": "cd9d978c-dd3b-4d68-9915-836e95f326aa"
+      },
+      {
+        "title": "MX393",
+        "uuid": "e11d6e56-5b52-40fc-8e0f-aae11b063966"
+      },
+      {
+        "title": "MX395",
+        "uuid": "f3103063-3898-4787-a125-c71a399b0087"
+      },
+      {
+        "title": "MX396",
+        "uuid": "b53dcaef-3eb3-4e43-9f01-eacc96ef8aee"
+      },
+      {
+        "title": "MX400DP",
+        "uuid": "6727da97-4a95-4560-ae0e-be31b47687f6"
+      },
+      {
+        "title": "MX400SMP",
+        "uuid": "b9a216f4-a218-4ec1-88ce-f3a905fc1576"
+      },
+      {
+        "title": "MX405",
+        "uuid": "dc3d011c-827b-4939-b503-26bdfc16bc8b"
+      },
+      {
+        "title": "MX405 Surface Mount",
+        "uuid": "ae29b271-163e-4e82-b6b2-66f73b14d850"
+      },
+      {
+        "title": "MX410",
+        "uuid": "8075ac93-810a-4433-8f42-9ae50d4b781b"
+      },
+      {
+        "title": "MX410 Surface Mount",
+        "uuid": "3cb660e2-decd-4fb9-970f-fbe61b978359"
+      },
+      {
+        "title": "MX412",
+        "uuid": "619fe073-d156-44d4-8863-7f3597fc91fa"
+      },
+      {
+        "title": "MX415",
+        "uuid": "84348a20-3c96-42ac-83e1-1808481b9db5"
+      },
+      {
+        "title": "MX415 Surface Mount",
+        "uuid": "fa2aaee5-7a3e-4b10-8cbd-6dd7c193be3d"
+      },
+      {
+        "title": "MX418 ",
+        "uuid": "8474c1ed-8be0-4329-82e9-03e29896f8a7"
+      },
+      {
+        "title": "MX690",
+        "uuid": "7e48714c-aab3-4b4b-b7f3-942d518094df"
+      },
+      {
+        "title": "MX890",
+        "uuid": "e7986943-aad6-4cb0-9a23-f6b2909edd48"
+      },
+      {
+        "title": "MXA310",
+        "uuid": "d8cf059a-6702-492c-aed1-f8178bb564b3"
+      },
+      {
+        "title": "MXA310 + ANIUSB-MATRIX",
+        "uuid": "af83e0f7-3c1f-449a-a521-7308e4be1b6e"
+      },
+      {
+        "title": "MXA310 + P300-IMX",
+        "uuid": "2fc9982b-db70-45a3-a69b-4ea6531c1ebb"
+      },
+      {
+        "title": "MXA910",
+        "uuid": "469dd177-8669-4529-99ac-247a0d13eae8"
+      },
+      {
+        "title": "MXA910 + ANIUSB-MATRIX",
+        "uuid": "12fb1246-1d44-4cb4-8819-24a9a6a1b372"
+      },
+      {
+        "title": "MXA910 + P300-IMX",
+        "uuid": "bdfb8040-38a1-4d40-9a58-ee52c08f1e69"
+      },
+      {
+        "title": "Microflex Complete",
+        "uuid": "5a8ab840-4d08-4f98-af61-5ae44a7405a3"
+      },
+      {
+        "title": "MXC416 and MXC420 ",
+        "uuid": "bfcbb75e-7b99-4497-a2f6-765de081027b"
+      },
+      {
+        "title": "MXC416DF and MXC420DF ",
+        "uuid": "c1ff67c4-148f-477d-ad10-01d4fe710b38"
+      },
+      {
+        "title": "MXCSIGN",
+        "uuid": "aede2285-36b7-4a37-828a-f067282c650b"
+      },
+      {
+        "title": "Microflex Complete Wireless",
+        "uuid": "b5ca4bef-834a-4fc7-ab2f-e5b86a5953fd"
+      },
+      {
+        "title": "MXCW640",
+        "uuid": "df6563d3-5bd5-4b5e-b7f4-1ec33347efa9"
+      },
+      {
+        "title": "MXCWAPT",
+        "uuid": "c38fc718-d3cd-4c7a-8837-86bde77580d6"
+      },
+      {
+        "title": "MXW1 ",
+        "uuid": "0f2b9b3d-ec13-4290-967b-fae6b8975ce3"
+      },
+      {
+        "title": "MXW2/BETA58",
+        "uuid": "88f8f584-8e4e-4e82-be0a-7a4ff47f59d3"
+      },
+      {
+        "title": "MXW2/SM58",
+        "uuid": "d53ab9b1-7928-4fcb-95ed-a2deb78785b2"
+      },
+      {
+        "title": "MXW2/SM86",
+        "uuid": "4528841d-7c98-49b9-b936-f333c190a195"
+      },
+      {
+        "title": "MXW2/VP68",
+        "uuid": "76f26261-ad19-4907-9d11-b52c696f910b"
+      },
+      {
+        "title": "MXW6",
+        "uuid": "89c77307-2611-4727-b0c3-2adaa18c4582"
+      },
+      {
+        "title": "MXW8",
+        "uuid": "877807fa-a363-45c4-b3b5-841c30f7e162"
+      },
+      {
+        "title": "MXWANI4",
+        "uuid": "5536de4a-7230-4da4-905a-c5061ebe74b1"
+      },
+      {
+        "title": "MXWANI8",
+        "uuid": "46a62fc3-ca97-4177-b712-68a2d9029070"
+      },
+      {
+        "title": "MXWAPT2",
+        "uuid": "1d414ddd-28bf-45e1-8035-43e3a70085a3"
+      },
+      {
+        "title": "MXWAPT2 + ANIUSB-MATRIX",
+        "uuid": "843a92bb-5759-4a6a-a146-8d9f454cc22e"
+      },
+      {
+        "title": "MXWAPT4",
+        "uuid": "7a06b24e-ad3e-4911-bf6b-c243dc0c46ee"
+      },
+      {
+        "title": "MXWAPT4 + ANIUSB-MATRIX",
+        "uuid": "95ea74da-842c-4d03-9ae8-9377349075b1"
+      },
+      {
+        "title": "MXWAPT8",
+        "uuid": "1d87bbe1-e151-4319-b499-290ca14f911e"
+      },
+      {
+        "title": "MXWAPT8 + P300-IMX",
+        "uuid": "75644aae-c5c4-4825-b90f-f155063962e4"
+      },
+      {
+        "title": "MXWNCS2",
+        "uuid": "36dff116-6901-4ea7-a40e-7bbf5d97bc1e"
+      },
+      {
+        "title": "MXWNCS4",
+        "uuid": "1622309d-6721-46b8-b98a-5cb4476a68e7"
+      },
+      {
+        "title": "MXWNCS8",
+        "uuid": "f96f7dd5-9d43-419f-8072-579acbc2b6b0"
+      },
+      {
+        "title": "N-WHLB",
+        "uuid": "042995b0-e3ad-4be9-a016-fee8bfa22b19"
+      },
+      {
+        "title": "N25C",
+        "uuid": "49f3b606-377b-4158-8a2c-d6984d2c68f1"
+      },
+      {
+        "title": "N35S",
+        "uuid": "8d02920a-9376-4db8-b359-fb369809388e"
+      },
+      {
+        "title": "N35X",
+        "uuid": "bf094437-8fb5-4ad1-8e77-04326d00a98a"
+      },
+      {
+        "title": "N44-7",
+        "uuid": "6e7c2bf7-4f17-4b22-9fd1-9a3c0d457275"
+      },
+      {
+        "title": "N44C",
+        "uuid": "a3e902ae-81d4-4de1-b3ce-b923d34d62f5"
+      },
+      {
+        "title": "N44G",
+        "uuid": "01c0e53b-612c-4c5b-9118-020803711ad2"
+      },
+      {
+        "title": "N78S",
+        "uuid": "f3f4d5e7-7ec5-432b-92ef-a8148d2e8edf"
+      },
+      {
+        "title": "N92E",
+        "uuid": "05d03047-bdd3-4e80-b94e-2c07fbc61cdb"
+      },
+      {
+        "title": "N97xE",
+        "uuid": "d035d540-c9c1-4f45-9f7e-6cb4b6cc59ef"
+      },
+      {
+        "title": "P10R",
+        "uuid": "898ecf17-3e7b-4042-81bf-20fa2c928855"
+      },
+      {
+        "title": "P10T",
+        "uuid": "9f0893de-a0a9-4319-b5c2-813d8b91db8f"
+      },
+      {
+        "title": "P10TR",
+        "uuid": "dd76a06c-97d2-442c-9bfa-00d39627c551"
+      },
+      {
+        "title": "P2R",
+        "uuid": "6b9949f4-0936-47e2-be96-24a1ebb54c0c"
+      },
+      {
+        "title": "P2T",
+        "uuid": "d9eb58af-b145-4f08-b33f-0c3e53d65922"
+      },
+      {
+        "title": "P2TR112GR",
+        "uuid": "fe57c027-b8e9-4435-a59c-63470f138fcc"
+      },
+      {
+        "title": "IntelliMix P300-IMX",
+        "uuid": "19c79b0a-2973-48a3-8701-b522b1c40450"
+      },
+      {
+        "title": "P3R",
+        "uuid": "936e3891-5e87-471b-9dcf-7312b907e164"
+      },
+      {
+        "title": "P3RA",
+        "uuid": "7a7728d6-bc9f-4323-b3b2-be70d6cf5abb"
+      },
+      {
+        "title": "P3T",
+        "uuid": "872251aa-ea37-4934-97bf-015a399c3c78"
+      },
+      {
+        "title": "P3TR",
+        "uuid": "1e37492c-875b-4bb0-8809-fb11a07bad8c"
+      },
+      {
+        "title": "P3TR112GR",
+        "uuid": "56eeea80-bfd8-4add-abb8-dcc0eeb7312b"
+      },
+      {
+        "title": "P3TRA",
+        "uuid": "154a766f-0241-456c-9172-b831784b9638"
+      },
+      {
+        "title": "P3TRA215BP",
+        "uuid": "1f715991-cfe4-4bcb-84d6-e38d447bfdd1"
+      },
+      {
+        "title": "P3TRA215CL",
+        "uuid": "6c56f954-ebe7-4b3f-bfe4-93544cc43b1b"
+      },
+      {
+        "title": "P3TRABP",
+        "uuid": "83db240e-2cf4-461f-88bd-5b355efc9b3c"
+      },
+      {
+        "title": "P4HW",
+        "uuid": "bf489212-42a8-4d40-8091-1b8da22ef7ae"
+      },
+      {
+        "title": "P4M",
+        "uuid": "5701e7ed-4da3-41d6-953f-b02b8da56c81"
+      },
+      {
+        "title": "P6HW",
+        "uuid": "982f2960-1095-4a77-9b7f-a027a4496862"
+      },
+      {
+        "title": "P9HW",
+        "uuid": "6b382454-1467-4112-84f1-634e9d848134"
+      },
+      {
+        "title": "P9RA",
+        "uuid": "0f27824e-8603-4aa9-b834-528ee7797561"
+      },
+      {
+        "title": "P9T",
+        "uuid": "538aa5cc-6b0b-42aa-ac78-a5d5a82d4d89"
+      },
+      {
+        "title": "P9TRA",
+        "uuid": "3433d382-69ec-4c60-9ada-fc60c3d6d0aa"
+      },
+      {
+        "title": "PA213",
+        "uuid": "96e95934-2ce8-421d-93aa-7c61b342370e"
+      },
+      {
+        "title": "PA214",
+        "uuid": "c750d6a4-6794-49d4-b0c9-eeba2676d64c"
+      },
+      {
+        "title": "PA215",
+        "uuid": "e9ba134d-f33f-443d-817c-99453975f936"
+      },
+      {
+        "title": "PA234",
+        "uuid": "6d13b94c-6b0e-4a76-a24b-e29f3b27b18d"
+      },
+      {
+        "title": "PA301",
+        "uuid": "53bdccf4-531c-46b1-a841-ce0879ef1cbd"
+      },
+      {
+        "title": "PA411",
+        "uuid": "9e05f722-9cf1-48fd-82f0-f1cf6d10d425"
+      },
+      {
+        "title": "PA421A",
+        "uuid": "25f97201-8220-4213-bb07-d0c31232dd5d"
+      },
+      {
+        "title": "PA421B",
+        "uuid": "e8eaa86d-eb91-4cd9-9c61-fa6f2a3257f1"
+      },
+      {
+        "title": "PA705",
+        "uuid": "d04cf328-5391-4a64-89f3-cb872aaf7120"
+      },
+      {
+        "title": "PA710",
+        "uuid": "bf2f50ed-326c-4bc7-9443-dc1ac8a02c2e"
+      },
+      {
+        "title": "PA720",
+        "uuid": "45f60233-0855-44d0-8de1-96aa8aca03b4"
+      },
+      {
+        "title": "PA725",
+        "uuid": "16d276ec-328a-48c9-8afa-69cd247bbb30"
+      },
+      {
+        "title": "PA740",
+        "uuid": "63bfb911-8f46-40ad-b410-24b0dfa25deb"
+      },
+      {
+        "title": "PA745",
+        "uuid": "f4d11dff-2533-42dc-b2d1-8e1907bd3f0a"
+      },
+      {
+        "title": "PA760",
+        "uuid": "1a031b0a-862e-43fa-b707-f35a6669e0af"
+      },
+      {
+        "title": "PA765",
+        "uuid": "6852bf60-d9f0-409b-beea-2a6e6dfd0d5f"
+      },
+      {
+        "title": "PA805",
+        "uuid": "d709389b-17eb-44cd-af62-b96f66dc5832"
+      },
+      {
+        "title": "PA805Z2-RSMA",
+        "uuid": "580e4cbf-9d16-4965-a429-9880a7c0dd33"
+      },
+      {
+        "title": "PA821A",
+        "uuid": "0bf61a57-3d21-4c84-976d-cd121951207b"
+      },
+      {
+        "title": "PA821B",
+        "uuid": "7a12842a-40cd-4d4d-afc8-893891b14e98"
+      },
+      {
+        "title": "BLX24/PG58",
+        "uuid": "b3c5ccf4-f64e-4966-b2cf-8edd0ef2b5f0"
+      },
+      {
+        "title": "PG27USB",
+        "uuid": "ef7b06e0-bfff-43e8-8169-8c7402d247d9"
+      },
+      {
+        "title": "PG42USB",
+        "uuid": "2297a0dd-3250-429d-bc7b-628e43aa716c"
+      },
+      {
+        "title": "BLX2/PG58",
+        "uuid": "a29ee4c8-1c46-4b46-9150-dbfd73db1e82"
+      },
+      {
+        "title": "PGA181",
+        "uuid": "7af7806f-2ded-4cd1-80cf-8e1409517eef"
+      },
+      {
+        "title": "PGA27",
+        "uuid": "7446f249-b62c-4793-8f8b-018ee4c7f54b"
+      },
+      {
+        "title": "PGA31",
+        "uuid": "22655229-257b-459d-9bb4-16ad39bdb8f9"
+      },
+      {
+        "title": "PGA48",
+        "uuid": "d4693eba-9c42-4386-a182-e98bf13fef3e"
+      },
+      {
+        "title": "PGA52",
+        "uuid": "61b212eb-2921-4698-8660-995d658c79d3"
+      },
+      {
+        "title": "PGA56",
+        "uuid": "8143b757-92df-46fd-85ac-3299314ec20e"
+      },
+      {
+        "title": "PGA57",
+        "uuid": "f561cb7c-8544-415f-8173-65bd37d55c8f"
+      },
+      {
+        "title": "PGA58",
+        "uuid": "517f12b3-aff1-4b68-88ba-b6a3e5bf4896"
+      },
+      {
+        "title": "PGA81",
+        "uuid": "eeeee1a7-6de2-47c2-8530-de867b775963"
+      },
+      {
+        "title": "PGA98D",
+        "uuid": "4ac1d678-f15a-4aee-a851-f1baa1611c7e"
+      },
+      {
+        "title": "PGA98H-TQG",
+        "uuid": "9c5779b9-6b7f-4e22-ace2-8164a4973130"
+      },
+      {
+        "title": "PGA98H-XLR",
+        "uuid": "8734e2c0-756b-4e92-aa50-b71e8a731856"
+      },
+      {
+        "title": "PGADRUMKIT4",
+        "uuid": "5efd1fed-ebc0-4d43-8aa6-a1424fd9bf72"
+      },
+      {
+        "title": "PGADRUMKIT6",
+        "uuid": "db4df2fc-0bf3-43b8-8d71-9ff226bb0fdb"
+      },
+      {
+        "title": "PGADRUMKIT7",
+        "uuid": "6222c0ec-4a92-4ac1-a96d-c091481c596c"
+      },
+      {
+        "title": "PI 6000",
+        "uuid": "2ff8e695-eff8-4b73-a211-569743765260"
+      },
+      {
+        "title": "PS-6",
+        "uuid": "91314bb7-f987-4ef5-8976-93fbfecfcd85"
+      },
+      {
+        "title": "PS-CCU",
+        "uuid": "a4ecf84d-8ac6-4dd8-997b-094f9ec26c87"
+      },
+      {
+        "title": "PS124",
+        "uuid": "deca63e1-15e4-49ef-92b5-10f25395812c"
+      },
+      {
+        "title": "PS21",
+        "uuid": "6e91b851-fd4a-448e-8394-80c20f96a36b"
+      },
+      {
+        "title": "PS22",
+        "uuid": "8d5daad2-29b5-4658-ab8c-8ccb6d23f2dc"
+      },
+      {
+        "title": "PS23",
+        "uuid": "365cf3e0-62f5-43b8-921f-61692c5da8b2"
+      },
+      {
+        "title": "PS24",
+        "uuid": "239c8ff9-ecc9-42f7-9924-58a5cb4a5c89"
+      },
+      {
+        "title": "PS41",
+        "uuid": "9ed31844-f937-4cc3-9f18-d056c10671d3"
+      },
+      {
+        "title": "PS42",
+        "uuid": "a3073348-61ea-43f5-9aa8-9d86740eb53d"
+      },
+      {
+        "title": "PS43",
+        "uuid": "b969467b-52d9-42d6-a10c-f08d1d7a0086"
+      },
+      {
+        "title": "PS45",
+        "uuid": "54348b80-fbe0-4226-9602-3ffe74f41a2d"
+      },
+      {
+        "title": "PS50",
+        "uuid": "83a65027-07a5-4862-8853-9156cdb57311"
+      },
+      {
+        "title": "PS51",
+        "uuid": "259c25b7-1c15-4e06-93fb-74a737295218"
+      },
+      {
+        "title": "PS60",
+        "uuid": "2f194a71-dcb8-42f4-9ebe-a20c264898b0"
+      },
+      {
+        "title": "PS 6001",
+        "uuid": "5d21f5ca-49a1-4e97-b055-bdc1227d680d"
+      },
+      {
+        "title": "PS9",
+        "uuid": "ea206098-9a98-46f7-8093-8098bfdb4c56"
+      },
+      {
+        "title": "PS CU",
+        "uuid": "47ccf501-49f3-4645-860d-0d28f9c8f723"
+      },
+      {
+        "title": "PSM 1000",
+        "uuid": "e6bf2533-57e9-43e3-9d9c-ab74d1f7085f"
+      },
+      {
+        "title": "PSM 200",
+        "uuid": "cc0ef6bb-fddc-4f28-9838-1bf9a874af95"
+      },
+      {
+        "title": "PSM 300",
+        "uuid": "6dc1cae3-2e36-40bd-8372-e192b6b0548c"
+      },
+      {
+        "title": "PSM 900",
+        "uuid": "d7f40c9c-e725-4cc2-9dbe-8d025e419959"
+      },
+      {
+        "title": "QLX-D",
+        "uuid": "634a1b31-01aa-4017-aed9-050e693fed25"
+      },
+      {
+        "title": "QLXD1",
+        "uuid": "8a9fde62-2206-4d30-8620-fdc244a1a4d4"
+      },
+      {
+        "title": "QLXD14/150/C ",
+        "uuid": "0c7e5aaf-a229-48c3-a7b7-f73809785557"
+      },
+      {
+        "title": "QLXD14/150/O",
+        "uuid": "00ee3160-d186-4ee0-bc7a-74d2ec75a867"
+      },
+      {
+        "title": "QLXD14/153",
+        "uuid": "8e0357d8-bed4-493e-b638-b41594d6a859"
+      },
+      {
+        "title": "QLXD14/83",
+        "uuid": "9d1463df-b4f9-4b44-a2f2-1b6cc16d6b82"
+      },
+      {
+        "title": "QLXD14/84",
+        "uuid": "61ff47eb-c8e0-4f9c-8db4-013992f96a8c"
+      },
+      {
+        "title": "QLXD14/85",
+        "uuid": "a2389fe3-1518-4e93-97cb-2a618519cfde"
+      },
+      {
+        "title": "QLXD14/93",
+        "uuid": "bd9dd251-9e28-4efa-b374-ce63dcba4d88"
+      },
+      {
+        "title": "QLXD14/98H ",
+        "uuid": "5bf35722-d0ef-4a46-a1fa-16dcb2c28f78"
+      },
+      {
+        "title": "QLXD14 ",
+        "uuid": "3c564f75-78c7-492f-95d3-75ce6a487fdd"
+      },
+      {
+        "title": "QLXD14/SM35",
+        "uuid": "0a47fb64-da00-4c80-af0c-dfe4ae743fda"
+      },
+      {
+        "title": "QLXD2/K8",
+        "uuid": "215fec33-2176-4c19-a130-f8ee165dfd0f"
+      },
+      {
+        "title": "QLXD24/B58",
+        "uuid": "3a81a15e-2595-4d7b-8f50-b17cffcea1ab"
+      },
+      {
+        "title": "QLXD24/B87A",
+        "uuid": "d3730c5a-adb1-47c5-a863-7075b398fb4d"
+      },
+      {
+        "title": "QLXD24/B87C ",
+        "uuid": "76161d6c-ecc3-4461-a0d5-42381111a112"
+      },
+      {
+        "title": "QLXD24/K8B",
+        "uuid": "c3c4ca6b-aa61-4d3d-ab5e-c3907f9409f5"
+      },
+      {
+        "title": "QLXD24/KSM9 ",
+        "uuid": "d1925565-cd54-4c5a-be1d-9e433f1b3a55"
+      },
+      {
+        "title": "QLXD24/SM58 ",
+        "uuid": "d74f9c15-acc4-45d9-89cd-26090de5246d"
+      },
+      {
+        "title": "QLXD24/SM86 ",
+        "uuid": "b757af92-cedd-435e-9931-50a2c9033dc0"
+      },
+      {
+        "title": "QLXD24/SM87 ",
+        "uuid": "66dab4ee-6c8c-4f88-bf83-445dd28b9fac"
+      },
+      {
+        "title": "QLXD2/B58A",
+        "uuid": "1ab79e17-3aef-449a-b74e-55271b05e2b2"
+      },
+      {
+        "title": "QLXD2/B87A",
+        "uuid": "d3b8d4af-ff27-4118-90d1-2288f031c783"
+      },
+      {
+        "title": "QLXD2/B87C",
+        "uuid": "a0281ff7-d3cf-41a3-b638-9b29daa62dd5"
+      },
+      {
+        "title": "QLXD2/KSM9",
+        "uuid": "3a584416-0f5b-41e5-baa7-2c967f8a9f6a"
+      },
+      {
+        "title": "QLXD2/SM58",
+        "uuid": "fd6d22a4-274b-44bb-80e8-7c030b1c8079"
+      },
+      {
+        "title": "QLXD2/SM86",
+        "uuid": "9ae87c2e-b09b-42fe-b1c1-e965785f9095"
+      },
+      {
+        "title": "QLXD2/SM87",
+        "uuid": "2a366d3b-bd6a-4652-8a2b-af02f97799dc"
+      },
+      {
+        "title": "QLXD4",
+        "uuid": "e2e30b78-c063-4914-8961-bc2014a7bf67"
+      },
+      {
+        "title": "R115S",
+        "uuid": "692878dc-fee8-4912-84c3-4018716a5f63"
+      },
+      {
+        "title": "R183",
+        "uuid": "20dd199b-1b25-4525-bb9f-2d7fcf1f2f36"
+      },
+      {
+        "title": "R184",
+        "uuid": "b8dad8ff-30fe-40db-9330-242240385ad4"
+      },
+      {
+        "title": "R185",
+        "uuid": "a5910c9f-9b20-4303-8605-7b8c51d559f4"
+      },
+      {
+        "title": "RA 6013 & RA 6025",
+        "uuid": "faf837e9-68ea-41c0-bbc6-cab2614f7362"
+      },
+      {
+        "title": "RC 6000",
+        "uuid": "2f046594-45b6-4c0d-8e2d-0cbe1b77cd07"
+      },
+      {
+        "title": "RK100PK",
+        "uuid": "32a4b090-e638-4dde-a457-aa0768dca551"
+      },
+      {
+        "title": "RK143G",
+        "uuid": "56ebd04c-6d3b-4546-8534-33cfca8f98e9"
+      },
+      {
+        "title": "RK183T1",
+        "uuid": "8af4db73-a16a-4159-806e-326e1773fc30"
+      },
+      {
+        "title": "RK183T2",
+        "uuid": "6dfe1945-fa63-4060-8f3d-4e3cc370e3b8"
+      },
+      {
+        "title": "RK183WS",
+        "uuid": "8ff6ce94-f293-48ea-91ac-c1df193d06de"
+      },
+      {
+        "title": "RK184WS",
+        "uuid": "1039a59f-4780-4d6d-85e3-95e1d11ee93a"
+      },
+      {
+        "title": "RK200BC",
+        "uuid": "2631dea2-84df-4b24-baff-de4d6a47d947"
+      },
+      {
+        "title": "RK203TC",
+        "uuid": "7112fb44-92e5-4e07-950e-f75acd84f52c"
+      },
+      {
+        "title": "RK214G",
+        "uuid": "97f636d4-08ba-43a5-a579-c861f0ae9be0"
+      },
+      {
+        "title": "RK229WS",
+        "uuid": "c113e932-da55-43a6-a302-52d94e56b53c"
+      },
+      {
+        "title": "RK240SB",
+        "uuid": "5a4cc9bd-0ea8-4256-83f7-193ef8b220eb"
+      },
+      {
+        "title": "RK241DB",
+        "uuid": "5fe99b31-002a-4e8c-b3da-6c381c243b4d"
+      },
+      {
+        "title": "RK242WS",
+        "uuid": "ce8feb25-b809-453f-96b6-6ea8f8547b80"
+      },
+      {
+        "title": "RK244G",
+        "uuid": "deff256b-87b9-4b61-9865-d0ec3cec0f74"
+      },
+      {
+        "title": "RK248G",
+        "uuid": "7f1900b0-cd05-4e6c-95a5-a4b75f2c6919"
+      },
+      {
+        "title": "RK253G",
+        "uuid": "5158d284-944b-4c46-ba7a-85b8f63f341a"
+      },
+      {
+        "title": "RK257WS",
+        "uuid": "78d9151e-6553-45f1-b17c-44a30d8461fa"
+      },
+      {
+        "title": "RK261BWS",
+        "uuid": "f68692e1-feb1-491a-a1c2-28e5edb28403"
+      },
+      {
+        "title": "RK265G",
+        "uuid": "70ff26f3-b654-4df4-85a0-d489d00164f1"
+      },
+      {
+        "title": "RK279",
+        "uuid": "6bff7870-f80c-4e67-9716-cba31b19fbfe"
+      },
+      {
+        "title": "RK282",
+        "uuid": "2749fd49-eaa5-4899-8233-b09acf459c86"
+      },
+      {
+        "title": "RK304T",
+        "uuid": "de5eb5bf-8fcf-46ad-84ef-704460dbc184"
+      },
+      {
+        "title": "RK307DB",
+        "uuid": "1cd2cb00-c9fa-4e2c-a705-0d697ee5bdb1"
+      },
+      {
+        "title": "RK311",
+        "uuid": "db920244-1915-4e64-adc0-44458c8a544a"
+      },
+      {
+        "title": "RK312",
+        "uuid": "12738f88-7932-4198-8463-ac0dfce319a4"
+      },
+      {
+        "title": "RK318WS",
+        "uuid": "048ccebe-fc23-422a-8b30-1d8e188cfc3f"
+      },
+      {
+        "title": "RK319",
+        "uuid": "32794c14-b9f7-467e-b112-940205b82f9f"
+      },
+      {
+        "title": "RK320",
+        "uuid": "5241ef4d-29cb-4a63-884a-11a69cf7d97d"
+      },
+      {
+        "title": "RK321",
+        "uuid": "f181b809-1be1-4dd9-bf34-7bf8a4b16e51"
+      },
+      {
+        "title": "RK322",
+        "uuid": "a4aeff2a-8445-4868-814e-fbbc356eac19"
+      },
+      {
+        "title": "RK323",
+        "uuid": "e56d598b-0d70-4dd3-9e8e-05636bfd7956"
+      },
+      {
+        "title": "RK323G",
+        "uuid": "f0a141c1-0594-4318-be31-b53829c528cc"
+      },
+      {
+        "title": "RK324G",
+        "uuid": "ccc3ff6f-d8d8-446d-9c3a-d45cad3364e5"
+      },
+      {
+        "title": "RK332G",
+        "uuid": "e68375a1-bb19-4cb4-b2ba-bdf27b9aab5e"
+      },
+      {
+        "title": "RK345",
+        "uuid": "19c80ab0-70e9-4a12-9859-d36849fe1afb"
+      },
+      {
+        "title": "RK354SB",
+        "uuid": "76d73a29-ae19-46af-bfcf-c112af7d0536"
+      },
+      {
+        "title": "RK355WS",
+        "uuid": "a62bb4a4-94cb-4d3e-92ee-6a149d619690"
+      },
+      {
+        "title": "RK366G",
+        "uuid": "973490fe-4043-4c12-a3a9-8163fb70f62c"
+      },
+      {
+        "title": "RK367G",
+        "uuid": "4e209d03-9e8c-4bb8-a738-e0502838d874"
+      },
+      {
+        "title": "RK368G",
+        "uuid": "c69684c6-9490-41c3-b5a3-780581676511"
+      },
+      {
+        "title": "RK369",
+        "uuid": "b14981ed-751a-4080-9dae-23bb865f996a"
+      },
+      {
+        "title": "RK370",
+        "uuid": "8842d377-539e-4cae-beab-972fc86e7fe2"
+      },
+      {
+        "title": "RK373",
+        "uuid": "800a9c90-196a-4bd8-acdd-df25fe1ece3f"
+      },
+      {
+        "title": "RK376",
+        "uuid": "9fde0c98-bd4e-4cc6-982a-58d9f4dc74b0"
+      },
+      {
+        "title": "RK377",
+        "uuid": "81b7e2c4-f92a-4832-a37b-3571b93848d0"
+      },
+      {
+        "title": "RK378",
+        "uuid": "c10f6974-f45d-4573-9a3b-4984e017a9df"
+      },
+      {
+        "title": "RK379",
+        "uuid": "c15169dc-c749-4423-afc0-f1c3070aab6d"
+      },
+      {
+        "title": "RK383",
+        "uuid": "aed7b225-4e3f-46f6-b9b1-63af6a643003"
+      },
+      {
+        "title": "RK412WS",
+        "uuid": "3829318a-3db8-4c0c-b074-eaab535a7461"
+      },
+      {
+        "title": "RK513WS",
+        "uuid": "202ca68c-3080-41be-8a22-a91f9e750718"
+      },
+      {
+        "title": "RKC800",
+        "uuid": "bd9441f3-c062-4889-952b-417b3155dbde"
+      },
+      {
+        "title": "RMCE",
+        "uuid": "37b62de0-b4b2-40fb-94bd-cfdb8d75f989"
+      },
+      {
+        "title": "RMCE-BT1",
+        "uuid": "a03f998d-a6bf-48ab-b06b-069a4199c677"
+      },
+      {
+        "title": "RMCE-LTG",
+        "uuid": "9fe4aaec-3709-497f-9934-e256c8883276"
+      },
+      {
+        "title": "RMCE-UNI",
+        "uuid": "249451e4-d473-4e07-a438-3c635063c9e1"
+      },
+      {
+        "title": "RP325",
+        "uuid": "e05c8666-6cf5-4b4d-b25a-e493e1f00baf"
+      },
+      {
+        "title": "RP 6004",
+        "uuid": "c22e3a5b-43a4-4c57-bc78-c723888f60a5"
+      },
+      {
+        "title": "RPM108",
+        "uuid": "8d9974df-ebe9-4893-a884-11b35c397c0e"
+      },
+      {
+        "title": "RPM110",
+        "uuid": "208ce4e6-5313-40da-9dbc-7308d5a9bce3"
+      },
+      {
+        "title": "RPM132",
+        "uuid": "ddab050b-b8ed-44ba-ba5f-3392f1619ddf"
+      },
+      {
+        "title": "RPM134",
+        "uuid": "159c4ca8-bbb8-4628-b1b6-004d3a344c3d"
+      },
+      {
+        "title": "RPM150TC",
+        "uuid": "9f327120-3079-4a94-b3e5-cce7b5b27919"
+      },
+      {
+        "title": "RPM150WS",
+        "uuid": "fc308820-29ad-4faa-ac3e-2f77f0e9f596"
+      },
+      {
+        "title": "RPM153B",
+        "uuid": "a188e984-ba55-43ef-9aa0-f993910e37c9"
+      },
+      {
+        "title": "RPM153C",
+        "uuid": "f938f383-8f32-4cbe-916e-e829d7013057"
+      },
+      {
+        "title": "RPM153T",
+        "uuid": "548ef3e3-101f-403b-abe4-236f9f517f03"
+      },
+      {
+        "title": "RPM162",
+        "uuid": "dde3ba80-92b1-4c68-85b4-c5c7a554d5cd"
+      },
+      {
+        "title": "RPM181/BI",
+        "uuid": "63b5c62d-1c0b-487d-8b14-43cbd7d3c733"
+      },
+      {
+        "title": "RPM181/C",
+        "uuid": "c68a9c88-9a81-42ee-b58f-599c363a17a8"
+      },
+      {
+        "title": "RPM181/O",
+        "uuid": "92ee4dcf-7b8c-4091-8c76-0948cd8793d9"
+      },
+      {
+        "title": "RPM181/PRE",
+        "uuid": "0b117184-7629-451e-814b-0c9dea26bd9e"
+      },
+      {
+        "title": "RPM181/S",
+        "uuid": "bcfec34b-3e16-48d8-8cd1-d139e6dbdc00"
+      },
+      {
+        "title": "RPM208",
+        "uuid": "039fdd31-e5e5-4bfa-be67-07bca1edda05"
+      },
+      {
+        "title": "RPM212",
+        "uuid": "b740953e-c39d-41d9-8bca-71df655706f1"
+      },
+      {
+        "title": "RPM213",
+        "uuid": "612b7256-045c-48c7-9f34-9eca2ed7af1c"
+      },
+      {
+        "title": "RPM214",
+        "uuid": "2d828055-f52b-4f15-a6cd-801d3278b9d8"
+      },
+      {
+        "title": "RPM215",
+        "uuid": "a5aa7f23-d5a0-4ec7-83b5-f6f20a077980"
+      },
+      {
+        "title": "RPM216",
+        "uuid": "fafb959d-3de5-41c0-8c73-967f4e498de5"
+      },
+      {
+        "title": "RPM218",
+        "uuid": "e0ee483d-1492-42e3-92fd-97d62c7105a4"
+      },
+      {
+        "title": "RPM220",
+        "uuid": "80997cfd-d8d7-4b3e-a8fb-c6372d74302b"
+      },
+      {
+        "title": "RPM226",
+        "uuid": "a05cc07b-a48a-4ef4-b8b3-185de8b08112"
+      },
+      {
+        "title": "RPM232",
+        "uuid": "b5b2cb4a-b503-4667-bbe5-3a0527cf2064"
+      },
+      {
+        "title": "RPM234",
+        "uuid": "2c29b11d-1e28-4c66-a898-52bf8c451ab2"
+      },
+      {
+        "title": "RPM236",
+        "uuid": "cee96146-2cd9-425b-aaeb-d74fbdbfc5c6"
+      },
+      {
+        "title": "RPM240",
+        "uuid": "08b65149-6881-473c-86b3-fa12a5433b2a"
+      },
+      {
+        "title": "RPM242",
+        "uuid": "1b0497a2-2025-4032-9c77-760e25dc2ba8"
+      },
+      {
+        "title": "RPM244",
+        "uuid": "13a52b80-9417-4c0f-b132-a73dc71ad9c4"
+      },
+      {
+        "title": "RPM260",
+        "uuid": "0d5c5ab0-3e13-4430-bb86-44215a847f0d"
+      },
+      {
+        "title": "RPM262",
+        "uuid": "5ef665a2-9bc5-4ac7-a3f8-dd547283855b"
+      },
+      {
+        "title": "RPM264",
+        "uuid": "f0f31e2a-a483-41be-b066-a6b91536fb41"
+      },
+      {
+        "title": "RPM268",
+        "uuid": "5e5d931e-233c-4919-8af0-73ad9486830a"
+      },
+      {
+        "title": "RPM266",
+        "uuid": "5f6490b2-28ef-44b3-9c14-50192a38facb"
+      },
+      {
+        "title": "RPM304",
+        "uuid": "d474083f-359a-4093-a8cd-8850adaf2aff"
+      },
+      {
+        "title": "RPM306",
+        "uuid": "900db57e-fda2-4f1e-83b4-6f2daa2607ea"
+      },
+      {
+        "title": "RPM308",
+        "uuid": "d14f1d2a-0f97-4abf-a122-c1e4f7ac0c06"
+      },
+      {
+        "title": "RPM310",
+        "uuid": "e66f9d3a-f0d0-46b4-9139-b2f76a2da586"
+      },
+      {
+        "title": "RPM312",
+        "uuid": "b00d6a9a-a9f0-4c53-a8db-2bf0d30396ff"
+      },
+      {
+        "title": "RPM314",
+        "uuid": "91cde492-84cb-43a8-8b2e-e6f6fde83358"
+      },
+      {
+        "title": "RPM316",
+        "uuid": "cf790f6d-aea1-4084-8801-f0b127630bdc"
+      },
+      {
+        "title": "RPM318",
+        "uuid": "e3b7de9d-96b6-4edc-9a1a-145ab3cf1248"
+      },
+      {
+        "title": "RPM320",
+        "uuid": "c627f753-be14-443c-8afe-5de59392a042"
+      },
+      {
+        "title": "RPM322",
+        "uuid": "dabf7544-d96c-4f34-851a-8ca76ef73725"
+      },
+      {
+        "title": "RPM500",
+        "uuid": "8db7db36-1b66-4662-adda-b448fd2da6c2"
+      },
+      {
+        "title": "RPM502",
+        "uuid": "88f33f92-b3b6-45c5-92b4-ae8c5cac409b"
+      },
+      {
+        "title": "RPM504",
+        "uuid": "1521c971-4ca0-421e-a80b-488cabb8d84a"
+      },
+      {
+        "title": "RPM506",
+        "uuid": "853c2b5b-dfe9-4e94-9eb0-4db4cd5d2337"
+      },
+      {
+        "title": "RPM508",
+        "uuid": "08147349-c11e-4928-836a-874f1f069350"
+      },
+      {
+        "title": "RPM510",
+        "uuid": "c7007b05-d15d-4e34-8cf0-29f3fc4db393"
+      },
+      {
+        "title": "RPM512",
+        "uuid": "aaafe3e8-67a5-4c73-be81-0b1778a693f6"
+      },
+      {
+        "title": "RPM514",
+        "uuid": "9d5dc395-4ee2-48d9-9f5d-d12d20d2393d"
+      },
+      {
+        "title": "RPM522",
+        "uuid": "9fd7dd8a-69a8-4d71-8ed6-ade0377fd6b1"
+      },
+      {
+        "title": "RPM550",
+        "uuid": "ca05b801-1e3a-4e62-8915-89a24f6b0b4e"
+      },
+      {
+        "title": "RPM560",
+        "uuid": "769aa4d9-e5ae-4884-a78f-968df8e99271"
+      },
+      {
+        "title": "RPM570",
+        "uuid": "89aa3573-901a-4fdb-8c68-b4b876fd934b"
+      },
+      {
+        "title": "RPM580",
+        "uuid": "6743aea2-f8b3-4473-8523-3c8e19747d33"
+      },
+      {
+        "title": "RPM602",
+        "uuid": "87d0e61c-4d22-43df-9abc-8837ceae8fbf"
+      },
+      {
+        "title": "RPM626",
+        "uuid": "21b71e77-c655-4119-8487-dd6173e00b52"
+      },
+      {
+        "title": "RPM628",
+        "uuid": "ad598209-c488-441d-b6ba-e9b3de9b2124"
+      },
+      {
+        "title": "RPM640",
+        "uuid": "147ab359-0237-4edb-ac50-bfe4197343de"
+      },
+      {
+        "title": "RPM642",
+        "uuid": "704d00a3-0fae-4bc2-b4d5-b27f2220a508"
+      },
+      {
+        "title": "RPM646",
+        "uuid": "8e03eede-1388-4f46-a5b9-3597caed1cde"
+      },
+      {
+        "title": "RPM648",
+        "uuid": "17a8e538-9f0d-4a2a-907a-4745e7382171"
+      },
+      {
+        "title": "RPM652",
+        "uuid": "e04354b7-1143-4a0e-a0ef-9205fe5a7b44"
+      },
+      {
+        "title": "RPM654",
+        "uuid": "71aee97a-8fd5-4d68-bb9c-966c8f048e2f"
+      },
+      {
+        "title": "RPM89/PRE",
+        "uuid": "19b2d87e-d55e-49cc-a9b6-ad2c93a06f52"
+      },
+      {
+        "title": "RPM89S, M, L",
+        "uuid": "f053abb3-d455-430d-b1cb-0dd89e5ddf00"
+      },
+      {
+        "title": "RPM98A/C",
+        "uuid": "19ec6c85-f795-436a-ab91-bdad872ca8ca"
+      },
+      {
+        "title": "RPW110",
+        "uuid": "ccc0048a-c1d5-412a-95cd-5199e0987148"
+      },
+      {
+        "title": "RPW112",
+        "uuid": "c86ac55c-82c4-459a-81e5-ed69b632ac66"
+      },
+      {
+        "title": "RPW114",
+        "uuid": "dcbde0e8-d289-4155-bce5-1a4f3810ebb9"
+      },
+      {
+        "title": "RPW116",
+        "uuid": "b8f39b9f-4317-4ba0-980a-42b2b45705b4"
+      },
+      {
+        "title": "RPW118",
+        "uuid": "ffe036e9-654e-49bb-9bd1-4dcd2c32c4de"
+      },
+      {
+        "title": "RPW120",
+        "uuid": "47ea126c-d497-429a-b530-1755e4219eb3"
+      },
+      {
+        "title": "RPW122",
+        "uuid": "71a770e1-deec-49b5-b4c8-6d8db1fe3ee2"
+      },
+      {
+        "title": "RPW124",
+        "uuid": "21f6ccaf-39bd-437d-8c77-adc76904b8ca"
+      },
+      {
+        "title": "RPW170",
+        "uuid": "c53702c0-c37d-4ecb-8e25-bf55705f0dac"
+      },
+      {
+        "title": "RPW174",
+        "uuid": "b9fcbe81-9cd6-45b9-8025-948863d120fe"
+      },
+      {
+        "title": "RPW180",
+        "uuid": "945316da-a438-4529-8c52-bc2c3091b430"
+      },
+      {
+        "title": "RPW182",
+        "uuid": "499cd696-ce0a-4616-87e6-ef2ac3bae36f"
+      },
+      {
+        "title": "RPW184",
+        "uuid": "db902b05-105e-4b25-9a0f-0ddcab5cee17"
+      },
+      {
+        "title": "RPW186",
+        "uuid": "445b4a1d-6f65-40bb-ae19-9ed00c311b90"
+      },
+      {
+        "title": "RS65",
+        "uuid": "c0835524-ffdc-4a04-b580-5fdd8cf71cd9"
+      },
+      {
+        "title": "SB 5980",
+        "uuid": "41222645-9525-403c-b769-468185c7c915"
+      },
+      {
+        "title": "SB900",
+        "uuid": "d3d93ecf-1407-419f-ad89-5fb6ac672564"
+      },
+      {
+        "title": "SB900A",
+        "uuid": "59f00d75-cc8b-4c8e-b950-3e0e876a4cd9"
+      },
+      {
+        "title": "SB901A",
+        "uuid": "ac70a958-f3e3-4bd6-bb16-32cc2f074b88"
+      },
+      {
+        "title": "SB902",
+        "uuid": "3965b36e-4bad-4664-9fca-1523fb246cb9"
+      },
+      {
+        "title": "SBC-AX",
+        "uuid": "f1ba146b-2465-41e8-9c9d-4df0f12cb278"
+      },
+      {
+        "title": "SBC-CAR",
+        "uuid": "86c528ff-0b9d-46df-b9e0-af8c86ca9b81"
+      },
+      {
+        "title": "SBC-DC",
+        "uuid": "88880c13-f076-4d95-b1d0-23be4734c352"
+      },
+      {
+        "title": "SBC-USB",
+        "uuid": "bcf7f01a-473f-41d4-b56d-50b6fb2ba6e2"
+      },
+      {
+        "title": "SBC10-100",
+        "uuid": "0ae9f4ff-0914-4f42-aecc-c0025845f3b6"
+      },
+      {
+        "title": "SBC10-902",
+        "uuid": "c5c1c7b9-f136-4f7f-9b86-1fa6e3e362c7"
+      },
+      {
+        "title": "SBC10-MicroB",
+        "uuid": "de127126-7bc1-472b-90dc-db6302ae9d75"
+      },
+      {
+        "title": "SBC10-USB",
+        "uuid": "bf43a8ad-edd5-4b7e-a448-d18739556172"
+      },
+      {
+        "title": "SBC100",
+        "uuid": "a344004b-c7d3-469f-8abb-2c6d90166a15"
+      },
+      {
+        "title": "SBC200",
+        "uuid": "93e27123-0884-4e49-9c18-fd2afff99b2a"
+      },
+      {
+        "title": "SBC210",
+        "uuid": "6fccf3ba-c0c1-48cf-b554-df4af472ea7d"
+      },
+      {
+        "title": "SBC220",
+        "uuid": "80451ae6-d54c-4938-bb1a-7d3079977ed2"
+      },
+      {
+        "title": "SBC250",
+        "uuid": "9f832015-15ab-4508-a650-5169efed2f2a"
+      },
+      {
+        "title": "SBC450",
+        "uuid": "464caeb0-24d1-43d4-b8e8-f1874edd55a4"
+      },
+      {
+        "title": "SBC800",
+        "uuid": "e01e0c66-f42d-47a7-80cf-f2bab89244fe"
+      },
+      {
+        "title": "SBC850",
+        "uuid": "596eef8b-eebb-415a-8cc7-23aa8465e51d"
+      },
+      {
+        "title": "SBC902",
+        "uuid": "f696a600-b324-4295-a46f-dc7a2d1d7270"
+      },
+      {
+        "title": "SBRC",
+        "uuid": "64615836-7712-4f07-9681-6a12979fa5ce"
+      },
+      {
+        "title": "SC35C",
+        "uuid": "6b6c6a0d-0873-463e-94f4-9a5b3536a9d1"
+      },
+      {
+        "title": "SCM262",
+        "uuid": "d386277f-d628-4715-b790-5cd0e52a084a"
+      },
+      {
+        "title": "SCM268",
+        "uuid": "d41e8895-ad1c-4c62-b323-c8bfe8c1875f"
+      },
+      {
+        "title": "SCM410",
+        "uuid": "4a1eb6b5-28aa-47dc-b906-923f9d567bde"
+      },
+      {
+        "title": "SCM800",
+        "uuid": "eb0c65be-51d8-4615-b1a5-a3066349a2a6"
+      },
+      {
+        "title": "SCM810",
+        "uuid": "8908c918-5133-4a3f-95eb-1c1e78f1d9e2"
+      },
+      {
+        "title": "SCM820",
+        "uuid": "33e2ddcb-fe6a-4e7c-a8fb-f2d10ad7d151"
+      },
+      {
+        "title": "SE112",
+        "uuid": "cbc4c90f-9f96-4563-9548-371f7b4dfbe3"
+      },
+      {
+        "title": "SE215",
+        "uuid": "acce2a46-bd06-4d16-af66-a933abc1c622"
+      },
+      {
+        "title": "SE315",
+        "uuid": "81eeaab2-0265-42ff-a40c-5e4cd4ae642b"
+      },
+      {
+        "title": "SE425",
+        "uuid": "fe0b53d0-af82-4097-ad4c-96606d74ff79"
+      },
+      {
+        "title": "SE535",
+        "uuid": "0b3f0903-c294-4db3-abe1-b35a2e1c381d"
+      },
+      {
+        "title": "SE846",
+        "uuid": "1d83432d-c137-4c48-be49-55018a298495"
+      },
+      {
+        "title": "SFG-2",
+        "uuid": "88945d6a-b410-4e59-a25a-d5589834208f"
+      },
+      {
+        "title": "SHA900",
+        "uuid": "ed64c340-fa86-4a8f-90f7-0fd16e73ecb5"
+      },
+      {
+        "title": "ShurePlus™ Channels",
+        "uuid": "eb91fdc2-3c53-4b97-a3f2-63169f89983b"
+      },
+      {
+        "title": "ShurePlus™ MOTIV™",
+        "uuid": "4c30eaf6-5fa7-4b2a-b902-55ecd0fc4aa5"
+      },
+      {
+        "title": "ShurePlus™ MOTIV™ Video",
+        "uuid": "ff34de8c-69f8-4405-8a25-aeaab7cd7e02"
+      },
+      {
+        "title": "Shure Update Utility",
+        "uuid": "24881b85-d053-4237-a0d1-2b51e4716a68"
+      },
+      {
+        "title": "Shure Web Device Discovery Application",
+        "uuid": "38f39875-fd63-4d5d-a941-bc0b7c873cdb"
+      },
+      {
+        "title": "SLX1",
+        "uuid": "ed9643f6-f4cd-43ff-babe-a2fe6a816973"
+      },
+      {
+        "title": "SLX124/85/SM58",
+        "uuid": "ba44453a-206c-487d-8586-d3c12c3ad226"
+      },
+      {
+        "title": "SLX14/84",
+        "uuid": "508687ab-5e64-49b8-9cae-b6a70cdd3d98"
+      },
+      {
+        "title": "SLX14/85 ",
+        "uuid": "c7b313d1-d855-495a-88a4-1e482ec3678d"
+      },
+      {
+        "title": "SLX14/93 ",
+        "uuid": "40f7436e-976b-4fd7-a503-a04f1a319c92"
+      },
+      {
+        "title": "SLX14/98H",
+        "uuid": "c07eff54-4378-448a-b7bd-b3156980e19b"
+      },
+      {
+        "title": "SLX14/LC ",
+        "uuid": "fcd424bc-beb7-4167-932b-af5941190594"
+      },
+      {
+        "title": "SLX14/SM35",
+        "uuid": "99edfed7-3034-46dc-b46c-86a38ad90610"
+      },
+      {
+        "title": "SLX14 ",
+        "uuid": "85a156ff-3bd8-4638-a1e5-30287d3d172a"
+      },
+      {
+        "title": "SLX24/BETA87A",
+        "uuid": "c33a41cb-9ad8-4a4f-a112-21e1d55d152d"
+      },
+      {
+        "title": "SLX24/BETA58",
+        "uuid": "a5db3a09-8d1b-48b2-8648-68280b58f34a"
+      },
+      {
+        "title": "SLX24/SM58",
+        "uuid": "4953429b-b90d-4d65-aeee-4d9023c36531"
+      },
+      {
+        "title": "SLX24/SM86",
+        "uuid": "a6b0ac7c-a56b-4c9f-ae40-86466972dc42"
+      },
+      {
+        "title": "SLX2/BETA58",
+        "uuid": "74b3fa81-931b-454c-9d4a-16264569a545"
+      },
+      {
+        "title": "SLX2/BETA87A",
+        "uuid": "f7bb4979-0899-4ae0-a846-4187a2670c99"
+      },
+      {
+        "title": "SLX2/BETA87C",
+        "uuid": "6b6662ed-5a70-40e1-b49c-b07912f0304b"
+      },
+      {
+        "title": "SLX2/SM58",
+        "uuid": "8ad585f7-1832-4d9e-8b05-774251cdbd07"
+      },
+      {
+        "title": "SLX2/SM86",
+        "uuid": "4da4f3cf-2785-417c-88f8-4a6813f19f90"
+      },
+      {
+        "title": "SLX4",
+        "uuid": "6e622f48-68ad-4354-932f-fde1784b97b0"
+      },
+      {
+        "title": "SLX4L",
+        "uuid": "19c1aa3c-07aa-4872-a248-91d60a5cf53e"
+      },
+      {
+        "title": "SLX Wireless",
+        "uuid": "a98b21b5-a954-4cbb-af5e-8eee21f95f1e"
+      },
+      {
+        "title": "BLX288/SM58",
+        "uuid": "52d82c62-55e8-4922-89b9-3c95304d90a9"
+      },
+      {
+        "title": "BLX24/SM58",
+        "uuid": "11c7c3ed-3765-4279-b739-27c7cdc32671"
+      },
+      {
+        "title": "SM10",
+        "uuid": "c2e817b8-cad0-45af-aa15-a09a4b3edbc2"
+      },
+      {
+        "title": "SM11",
+        "uuid": "29d3990f-affd-4fb4-b8ea-c15233fe5461"
+      },
+      {
+        "title": "SM137",
+        "uuid": "4ce1db87-0f88-4940-87f0-02502c11a4df"
+      },
+      {
+        "title": "SM27",
+        "uuid": "cad071fd-ef93-4974-a1ec-eeb9ec16ed7d"
+      },
+      {
+        "title": "SM31FH",
+        "uuid": "69cb1e33-d579-4f73-a8f9-da976e1c8ec7"
+      },
+      {
+        "title": "SM35-TQG",
+        "uuid": "f8ce9d3c-7bd9-4a73-b47b-80a8ca487fbe"
+      },
+      {
+        "title": "SM35-XLR",
+        "uuid": "3873f49e-a5fd-4613-902b-a22cb0b59c90"
+      },
+      {
+        "title": "SM48",
+        "uuid": "d8f0344a-762f-4c27-bc1c-06469e832e5b"
+      },
+      {
+        "title": "SM57",
+        "uuid": "90f06de5-a31b-4298-aedd-de8aed146030"
+      },
+      {
+        "title": "SM57-X2U",
+        "uuid": "5a4be7a6-0a64-4f64-a450-5220941805e1"
+      },
+      {
+        "title": "SM57VIP",
+        "uuid": "a0e198fd-b817-408d-81db-f1d326f06fcc"
+      },
+      {
+        "title": "SM58",
+        "uuid": "1f6d2eec-6d1b-44e6-be86-b13c88ca49f9"
+      },
+      {
+        "title": "SM58-50A",
+        "uuid": "70381d26-8baa-45e7-8203-fe94e978f307"
+      },
+      {
+        "title": "BLX2/SM58",
+        "uuid": "365f58da-58f5-4838-be15-707c7f949ba8"
+      },
+      {
+        "title": "GLXD2/SM58",
+        "uuid": "aa0e2e38-a82b-47a1-a250-c8154514bae5"
+      },
+      {
+        "title": "SM58-X2U",
+        "uuid": "0334949b-18d6-420f-8940-8789914e68de"
+      },
+      {
+        "title": "SM63",
+        "uuid": "7a7baef0-7beb-4653-a4c0-bac7f4ff509c"
+      },
+      {
+        "title": "SM7B",
+        "uuid": "65feb2d1-193e-4717-920a-ce7998b8864e"
+      },
+      {
+        "title": "SM81",
+        "uuid": "682d44bb-6418-441a-b4fb-591e71bc9270"
+      },
+      {
+        "title": "SM86",
+        "uuid": "89ed3de7-a547-4561-93ea-6ea766d847fe"
+      },
+      {
+        "title": "GLXD2/SM86",
+        "uuid": "1c54536e-fa6a-4c4e-971d-2cc048c51767"
+      },
+      {
+        "title": "SM87A",
+        "uuid": "4810e63f-2870-4ecd-aa6a-835eee144420"
+      },
+      {
+        "title": "SM93",
+        "uuid": "7e1671f8-efdb-48fd-a647-5bcb3a5de9fe"
+      },
+      {
+        "title": "SM94",
+        "uuid": "8d7b0b3b-2547-4340-8a60-39cdc195b1c1"
+      },
+      {
+        "title": "SRH144",
+        "uuid": "a3bb76c0-099e-495f-a1a9-e77b398b793c"
+      },
+      {
+        "title": "SRH1440",
+        "uuid": "54763731-5ef2-416c-8ce0-3a6a901884b7"
+      },
+      {
+        "title": "SRH145",
+        "uuid": "7b645e75-8bc9-4b7f-bfc3-1dff10c27c9d"
+      },
+      {
+        "title": "SRH145m+",
+        "uuid": "d4c6fd70-545d-4ad2-86d5-17cc82a46f26"
+      },
+      {
+        "title": "SRH1540",
+        "uuid": "88c3fe21-5282-4445-808e-ca50363ccca1"
+      },
+      {
+        "title": "SRH1840",
+        "uuid": "eaadb799-66d3-4ccd-9a6b-f3fba076df79"
+      },
+      {
+        "title": "SRH240A",
+        "uuid": "a656e288-1b4f-4864-9d28-31ceb94a2842"
+      },
+      {
+        "title": "SRH440",
+        "uuid": "0dc01ff1-ebee-4220-9341-d71ec35e9b4e"
+      },
+      {
+        "title": "SRH550DJ",
+        "uuid": "4e5689b3-f167-4eb8-ab41-70a0b7f6b493"
+      },
+      {
+        "title": "SRH750DJ",
+        "uuid": "20149450-1d08-4290-85fd-a0a71fe2df82"
+      },
+      {
+        "title": "SRH840",
+        "uuid": "08d5a8b8-ac48-4aeb-90b3-ec26018db9a3"
+      },
+      {
+        "title": "SRH940",
+        "uuid": "e447a2be-1128-411a-9ece-d804032ff322"
+      },
+      {
+        "title": "SS35C",
+        "uuid": "a1c45856-28e5-4c0e-8252-e39a8023e256"
+      },
+      {
+        "title": "SS39EJ",
+        "uuid": "ffac3298-e9ca-4b4b-8298-3666172815d9"
+      },
+      {
+        "title": "Super 55-BLK",
+        "uuid": "eb71f360-fa2c-4404-82e5-12622a98c007"
+      },
+      {
+        "title": "Super 55",
+        "uuid": "22fc0a29-244f-4717-a60c-3d6419d40d9e"
+      },
+      {
+        "title": "SV100",
+        "uuid": "0bd61272-0ab4-451a-9e29-02589755e35b"
+      },
+      {
+        "title": "SV200",
+        "uuid": "c448bbc4-342b-4f20-8765-6ef3743011a3"
+      },
+      {
+        "title": "SVX Wireless Systems",
+        "uuid": "2f61c688-a264-4d98-adfe-787ab9c0f572"
+      },
+      {
+        "title": "SVX1",
+        "uuid": "a1f35e5f-75f6-44d3-9112-91044cc4bbd9"
+      },
+      {
+        "title": "SVX14/CVL",
+        "uuid": "06ae6c8c-f3b2-4fcc-abd9-fe80a2424da6"
+      },
+      {
+        "title": "SVX14/PGA31",
+        "uuid": "97d0a76a-2508-4db4-b2d4-01fb78daffac"
+      },
+      {
+        "title": "SVX188/CVL",
+        "uuid": "882d0038-ad76-4d67-b1cd-19f6925a0a75"
+      },
+      {
+        "title": "SVX2/PG58",
+        "uuid": "37f5e6ca-40a0-4e77-b0fa-e2c2e2c070b4"
+      },
+      {
+        "title": "SVX24/PG28",
+        "uuid": "e733f20f-114e-464f-b0a0-ee987d776dfc"
+      },
+      {
+        "title": "SVX24/PG58",
+        "uuid": "7c0334b1-d477-449a-bb3a-57b63b9892c8"
+      },
+      {
+        "title": "SVX288/PG28",
+        "uuid": "3b92b553-9092-4929-85ac-1a03ae7292fb"
+      },
+      {
+        "title": "SVX288/PG58",
+        "uuid": "5b245b50-6246-411a-8cd2-93aa3500a475"
+      },
+      {
+        "title": "SVX88",
+        "uuid": "3b4ef9c8-f641-458d-b2d0-a5c73a3c3404"
+      },
+      {
+        "title": "SW6000",
+        "uuid": "e26bf614-dc4b-456d-909b-c961d52552b2"
+      },
+      {
+        "title": "SystemOn",
+        "uuid": "f281e56f-ce83-479d-9a9f-f316bfc38d20"
+      },
+      {
+        "title": "SZ 6104",
+        "uuid": "d2718a87-dd74-4bd1-b401-f3eab65b0be2"
+      },
+      {
+        "title": "UA221",
+        "uuid": "03990c5e-d4f4-4688-8d8d-dd0d6348b5ef"
+      },
+      {
+        "title": "UA221-RSMA",
+        "uuid": "e96275b5-f4b6-4546-a701-7bd95cb6ac77"
+      },
+      {
+        "title": "UA400",
+        "uuid": "29cef4f2-b966-45fa-a1aa-f67183dada47"
+      },
+      {
+        "title": "UA400B",
+        "uuid": "3fac6477-b9e5-45a3-93b9-a3e791627f0b"
+      },
+      {
+        "title": "UA440",
+        "uuid": "b6072c32-9bdf-4c69-9633-f5f31380baf6"
+      },
+      {
+        "title": "UA505",
+        "uuid": "44da49f6-93ae-4b4e-8ac8-55dfca033692"
+      },
+      {
+        "title": "UA505-RSMA",
+        "uuid": "8eeb8ec4-afad-4563-96a5-c5fc87f8af4f"
+      },
+      {
+        "title": "UA506",
+        "uuid": "57038bc8-7ae1-4ded-aa11-26735925fff7"
+      },
+      {
+        "title": "UA507",
+        "uuid": "989381f1-27f7-495f-a345-f7d56120b047"
+      },
+      {
+        "title": "UA600",
+        "uuid": "d2c8656a-6cd4-4357-b914-068bb7d556bb"
+      },
+      {
+        "title": "UA7xx ( UA700-V, UA700, UA710, UA720, UA730, UA700Z17, UA700Z18 )",
+        "uuid": "33fd8c8b-b71d-48cc-8f10-e41c415dc342"
+      },
+      {
+        "title": "UA8",
+        "uuid": "3a783315-05b1-4735-9ede-03a438b5b13f"
+      },
+      {
+        "title": "UA802",
+        "uuid": "d5eee083-8193-4644-986a-0104b10ced51"
+      },
+      {
+        "title": "UA802-RSMA",
+        "uuid": "633414f6-32d5-495f-a58e-17454dfd6362"
+      },
+      {
+        "title": "UA806",
+        "uuid": "5384c548-daa2-44b6-97f4-867ab233803c"
+      },
+      {
+        "title": "UA806-RSMA",
+        "uuid": "678bd5b6-6aef-4683-a78b-05fc65d230fc"
+      },
+      {
+        "title": "UA8100",
+        "uuid": "c4d64cec-2941-4a94-abb1-08c058e28fd4"
+      },
+      {
+        "title": "UA8100-RSMA",
+        "uuid": "2059f09a-40e7-41e8-87f5-3dab641a5983"
+      },
+      {
+        "title": "UA825",
+        "uuid": "c43f407f-0d30-41af-88fd-946a221a2a6e"
+      },
+      {
+        "title": "UA825-RSMA",
+        "uuid": "50a98cd1-31b9-405e-b0fd-0f38f336f1c9"
+      },
+      {
+        "title": "UA830",
+        "uuid": "677636e6-445c-4431-a210-c4592601f9c2"
+      },
+      {
+        "title": "UA834",
+        "uuid": "559909e0-dce6-47dc-ae9b-61be9b106bb3"
+      },
+      {
+        "title": "UA844+",
+        "uuid": "26fcc294-7a19-4abb-9c2e-ef9560caf9f1"
+      },
+      {
+        "title": "UA844+/LC",
+        "uuid": "f204e6db-7641-4d78-a864-279a8b3b29d9"
+      },
+      {
+        "title": "UA844SWB",
+        "uuid": "fe9b34bc-030a-455c-ab33-f352a03061da"
+      },
+      {
+        "title": "UA844SWB/LC",
+        "uuid": "c315e12c-83f5-4583-af6a-70bfd8ef952b"
+      },
+      {
+        "title": "UA845SWB",
+        "uuid": "b6e25d75-2f47-4626-9da2-d3d5147faed1"
+      },
+      {
+        "title": "UA845UWB",
+        "uuid": "f964795a-017f-493f-90c6-6bc15515e347"
+      },
+      {
+        "title": "UA845UWB/LC",
+        "uuid": "ca695c89-7fff-4217-949c-df6b400fc11e"
+      },
+      {
+        "title": "UA846Z2/LC",
+        "uuid": "fb61d765-c763-47c2-a9ab-2a824eab02f5"
+      },
+      {
+        "title": "UA850",
+        "uuid": "aad19f0e-7b92-4a8d-8e76-66f31529a733"
+      },
+      {
+        "title": "UA850-RSMA",
+        "uuid": "bad6b467-80cb-45e3-97c1-1f37d3f3a11a"
+      },
+      {
+        "title": "UA860V",
+        "uuid": "fdc42bdb-a89c-4f55-9de9-f34614726ea8"
+      },
+      {
+        "title": "UA864",
+        "uuid": "44afde74-702d-43d7-a38c-75842c13ea10"
+      },
+      {
+        "title": "UA870",
+        "uuid": "1ebd70a6-8423-459d-9338-a024dbc1fa7d"
+      },
+      {
+        "title": "UA874",
+        "uuid": "a0a5bc8f-3cd0-4af9-8812-0c96d1857e0d"
+      },
+      {
+        "title": "UA8-RSMA",
+        "uuid": "4d75af6d-8768-4eec-9c1f-70c921641edd"
+      },
+      {
+        "title": "UA910",
+        "uuid": "c73128c9-c92f-4769-add2-8123fd6fa160"
+      },
+      {
+        "title": "UABIAST",
+        "uuid": "92440eba-40c1-4d42-a399-0d58ba206d37"
+      },
+      {
+        "title": "UAMS",
+        "uuid": "4c541b3a-ea06-4af3-ac1f-0341182188a7"
+      },
+      {
+        "title": "UHF-R",
+        "uuid": "ba002c51-c705-4fca-8594-4eed4eabc1a7"
+      },
+      {
+        "title": "UHF-R-MW",
+        "uuid": "a1030269-3263-40bd-bfb7-d7ef59741e41"
+      }
+    ]
+  }
+}

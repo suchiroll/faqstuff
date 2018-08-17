@@ -1,0 +1,17 @@
+Title: V15/Pro-S on a P-mount turntable?
+Id: 2487
+Legacy Id: 2582
+
+Question:
+Is there any way to use my existing V15/Pro-S on a new Technics turntable with a P-mount?
+
+
+Answer:
+
+	There is no adapter available from Shure that converts a 1/2 mount V15/Pro-S cartridge to a P-mount cartridge.
+	
+	Have you asked Technics if they offer an adapter?
+	
+	Also, check: http://www.hollywooddj.com
+	There may be a company that makes a universal adapter.
+

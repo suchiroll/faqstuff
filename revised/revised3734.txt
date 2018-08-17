@@ -1,0 +1,20 @@
+Title: Prethos™ Advanced Preamplifer Technology
+Id: 3734
+Legacy Id: 3968
+
+Question:
+Some of the KSM mics have a Prethos™ preamp? What exactly does that mean?
+
+
+Answer:
+
+	As of August 2010, Prethos Advanced Preamplifier Technology is incorporated in the KSM44A microphone and the KSM42 microphone. Prethos Advanced Preamplifier Technology is comprised of three core attributes.
+	
+	1) Component Selection: High performance components are obtained from selected suppliers. Research and benchmarking of each component resulted in the precise specification of key parts, each optimized for superior performance in regards to noise specifications and distortion specifications.
+	
+	2) Design Topology: The selected components are arranged in a custom topology that provides consistent performance from microphone to microphone. This proprietary design efficiently manages current consumption, yielding an improved output clipping level specification.Isolation of critical components on the circuit board provides exceptional noise performance with extremely low distortion.
+	
+	3) Manufacturing Process: Stringent manufacturing processes are employed during assembly to ensure the integrity of each component.The result is superb noise performance and reliability throughout the life of the product, even in demanding environments.
+	
+	The combination of the above yields the design stability and consistency required to obtain each electronic components full performance capability.This results in a condenser microphone preamplifier with extremely low self noise, an exceptional signal-to-noise ratio, and the lowest distortion specifications currently available.
+

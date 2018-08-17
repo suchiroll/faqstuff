@@ -1,0 +1,27 @@
+Title: SM1 and SM2 Cable - C108
+Id: 1386
+Legacy Id: 1438
+
+Question:
+Please provide technical details for this cable.
+
+
+
+Answer:
+
+	The replacement cable was model C108.  It was discontinued in March 2016.
+	The C108 cable was 80 inches in length. 
+	It had a shielded, twisted pair of wires for the microphone signal. 
+	It had three unshielded wires for the earphone drivers.
+	The cable diameter was 0.25 inch.
+	
+	Cable shield - encircles red and black wires - pin 1
+	Red wire - mic audio positive - pin 2
+	Black wire - mic audio negative- pin 3
+	Blue wire - earphone left and right - common return - pin 4
+	Yellow wire - earphone right positive - pin 5
+	White wire - earphone left positive - pin 6
+	
+	Connector on headset end of cable - Hirose SR30 or Komine Musen SM7P-6P-1
+	
+	Equipment end of cable was unterminated.

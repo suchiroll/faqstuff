@@ -1,0 +1,28 @@
+Title: KSM313 Miking Technique
+Id: 3710
+Legacy Id: 3943
+
+Question:
+Any tips on how to use the KSM313 ribbon mic?
+
+
+Answer:
+
+	The article below was created in June 2010:
+	With a long history of mixing for major artists and events ranging from Prince and Phil Collins to Latin artists like Juanes and Shakira, Rob "Cubby" Colby has used virtually every tool available to today's sound engineer. One of Colby's recent discoveries is the Shure KSM313 ribbon microphone, a hand-assembled ribbon microphone featuring proprietary Roswellite ribbon material for that can handle 146 dB SPL. The KSM313 was designed with Dual Voice tuning, producing distinctly different sound signatures from the front and from the rear.
+	
+	Colby began using the KSM313 on dates with Latin superstar Juanes in 2009-2010. "This mic is a wonderful departure for Shure," he declares. "It's got that full, round, fat ribbon sound from the front, perfect for electric guitar. Then, turning it around the other way gets me a flatter bottom end and a more pristine top end, so it gives me the best of both worlds. That extra flexibility encourages me to keep thinking outside the box, trying it in different ways on a lot of instruments. I love that."
+	
+	On guitar amp, Colby deploys the KSM313 about an inch from the speaker grill, toward the outer edge of the speaker. "It's a standard technique, but with this mic, I get an amazing sound. It's just tight and right, with a chunkier sound than I get with a large studio mic like the KSM32. I don't have to set the high-pass filter so high, which leaves me a nice, tight, low-end contour."
+	
+	Other deployments have included kick drum, percussion, and a variety of acoustic instruments, including caja (a large bongo), tambora (a Dominican two-headed wooden drum), and gaita (a type of flute). "It sounded great on percussion instruments, very open and accurate, and it handles kick drum with no problem," Colby reports.
+	
+	On kick drum, Colby experimented with positioning. "It was pretty interesting. When I put the mic flat to the drumhead, the impact was doing some strange interactions with the diaphragm. But when I put it at a slight tilt, I got a great acoustic kick drum sound with a very nice proximity to the bottom end, just by re-aiming how that sound pressure was coming at it."
+	
+	The sound quality Colby achieved with the KSM313 was a classic rock sound, and just what he was looking for. "Some guys want that big, round Bon Jovi-style kick, with powerful bottom end, as opposed to a real punchy, attacky sound - and I was able to accomplish that with just this one microphone by moving it at a slightly different angle. I would describe it as real open sounding, like the original Led Zeppelin kick drum sound, with no gates. This mic is very accurate, and it could handle all that low-end energy. It was pretty impressive."
+	
+	With Juanes off the road for a time, Colby has encouraged the artist to try the KSM313 in his project studio. "Juanes is hungry to keep learning, and I love sharing my knowledge with my artists," he says. "It's part of my commitment. So I send him microphones to try out, and suggestions for how to use them."
+	
+	The Shure KSM313 has found a permanent place in Cubby Colby's tool kit. "When we go back out, I plan to have four of them on electric guitars, and another one out front on acoustic," he states. "And when we do all our crazy promo stuff, playing acoustic in locations that don't have the tools I need, I'll always have a KSM313 with me, because I know I can always find a position where it has a more desirable sound. Having the two different responses, the dual voicing, really makes this microphone a great tool.
+	
+	"I think the whole point is to try different things, and the upcoming Juanes world tour will give me ample opportunities to put this mic through its paces. The KSM313 has definitely earned a place in my arsenal."

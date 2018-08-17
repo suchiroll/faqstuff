@@ -1,0 +1,18 @@
+Title: M44E Specifications
+Id: 2307
+Legacy Id: 2393
+
+Question:
+I have a M44E cartridge. I am trying to find tech specs on it.
+
+
+Answer:
+
+	M44E
+	Response: 20 to 20,000 Hz
+	Output voltage: 9.5 mV per channel
+	Separation: 20dB at 1,000 Hz
+	Tracking force: 1.75 to 4 grams
+	Stylus: biradial (.0004 x .0007 inch)
+	Weight: 6.5 grams
+	Optimal load per channel: 47,000 ohms in parallel with 400 to 500 picofarads

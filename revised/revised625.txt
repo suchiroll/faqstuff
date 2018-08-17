@@ -1,0 +1,31 @@
+Title: Wireless microphones for PictureTel
+Id: 625
+Legacy Id: 639
+
+Question:
+Do you carry a clip-on wireless microphone to be used with a PictureTel video conferencing system?
+
+
+Answer:
+
+	Shure has many wireless microphones that may work. However, to be certain, we will need information about the PictureTel product. Please read the following:
+	
+	What specifications determine if a Shure wireless microphone system will properly operate with your camcorder or your conferencing system or your computer sound card or your anything!
+	
+	Shure is often asked Will wireless microphone system model X work with my .? While we would love to have the input specifications of each and every device in the world that needs a wireless microphone, it is an impossible task. So for us to help you select the proper wireless system, we need you to provide the following three vital specifications for the audio input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL AUDIO INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the wireless system must supply to satisfy the audio input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the wireless system model. If you select a system whose signal level is too low for your device, the audio will be noisy and low in level. If you select a system whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the wireless systems signal level to your devices required input level is imperative.
+	
+	VITAL AUDIO INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen wireless microphone system. This specification will be given in ohms, which is abbreviated *. Contrary to popular audio mythology, the output impedance of a wireless system does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the wireless system model. If you select a system whose impedance is lower than or equal to your devices input impedance, the wireless system will work if it provides the proper signal level (see #1 above). If you select a system whose impedance is greater than your devices input impedance, the wireless system will not deliver its full audio signal level to your device and the resultant audio will be noisy and low in level.
+	
+	VITAL AUDIO INPUT SPECIFICATION #3
+	This final specification is the type of audio input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper wireless microphone wiring can be determined.
+	In the Shure product line, there are different wiring schemes available depending on the wireless system model. If the wireless system connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the wireless system might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular wireless microphone system will work with your device. Shure will be happy to assist in your system selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+

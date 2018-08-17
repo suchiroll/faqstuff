@@ -1,0 +1,14 @@
+Title: MX202 Mic Stand Adaptor
+Id: 4191
+Legacy Id: 5145
+
+Question:
+What is the part number for the plastic piece that screws onto the top of a mic stand and holds the MX202?
+
+
+Answer:
+
+	The part is 65B1752.
+	
+	The plastic adapter screws on to the top of a mic stand.The MX202 cable fits down the middle of the adapter and mic stand.The MX202 mic/gooseneck slides into the the adapter; it is a loose fit.The MX202 cable is re-attached to the cablewhereit exits the bottom of the mic stand.
+

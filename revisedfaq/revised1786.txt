@@ -1,0 +1,31 @@
+Title: Radiating Coax Cable
+Id: 1786
+Legacy Id: 1846
+
+Question:
+What is radiating coax cable?
+
+
+Answer:
+
+	RADIATING COAXIAL CABLE
+
+	A wireless microphone application may require that the receiver be installed in one area, while the transmitter is used in another. In such an application, remote mounting the antennas insures that the performance area will receive proper RF coverage. Choosing the correct antennas, cabling, and mounting systems is essential for proper installation and Shure offers technical bulletins on this subject. But when the area being covered is an unusual shape, or if there are several areas, or if multiple floors of a building need to be covered with the same wireless system, radiating coaxial cable, or leaky coax, can often provide a better alternative to stand-alone antennas.
+
+	Radiating coaxial cable is similar to the standard coax cable used when mounting antennas remotely. What differentiates radiating coax are slots cut in the cable shield that allow RF to exit or enter the cable at any point along its length. An analogy is that of a light bulb and a fluorescent tube. While the bulb is a point source of light, like a whip or telescoping antenna, the fluorescent tube distributes light evenly along its entire length.
+
+	Radiating coax is often used for distributed communication systems in tunnels, mines, and subway systems. The cable can be designed to handle any number of frequency ranges and can be installed in numerous ways. There are specialized mounting accessories and some cable designs are thin strips which can be mounted along ceiling tiles. Plenum-rated cables are also available.
+
+	For wireless microphone systems, radiating coax may be used in situations where a standard antenna will not provide adequate coverage. This cable can be fairly thick, 0.5 to 2 inches in diameter, so it is best suited to permanent installations, e.g. a museum with several floors. A single length of cable can be installed near the ceiling of each area that needs to be covered. Avoid placing radiating coax directly next to metal surfaces; it should be at least 2 inches away. Because the cable can potentially pick up more outside interference than standard coaxial cable, the transmitter should be within 40 feet of the cable for best performance. A 50 ohm termination load must be used to prevent standing waves or an unacceptable amount of signal loss. If there is a need to cover an outdoor area as well, the radiating coax can be terminated with a 1/2 wave antenna.
+
+	Radiating coax is also useful for personal monitor systems (PSM). In this application, the PSM transmitter drives the radiating coax and the PSM receivers pick up the RF signal being radiated.
+
+	Like standard coaxial cable, cable length and operating frequency directly effect the signal loss of radiating coax. In order to minimize losses or the impact on overall system performance, a large diameter cable must be used for longer length runs or higher frequencies.
+
+	Sources for radiating coaxial cable:
+
+	
+		Commscope (Radiax)
+		Radio Frequency Systems (Radiaflex)
+
+

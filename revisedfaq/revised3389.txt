@@ -1,0 +1,16 @@
+Title: RK100PK Preamp with other Shure or Countryman microphones
+Id: 3389
+Legacy Id: 3577
+
+Question:
+Will the Shure RK100PK in-line preamp work with every Shure or Shure/Countryman mic that has a TA4F connector?
+
+
+Answer:
+
+	Unfortunately, the answer can be "No."  Here are the technical details.
+	In late 2006, the MX202 and MX391 microphone preamplifier (model RK100PK) electronics was redesigned to eliminate interference from GSM devices, including cell phones and personal digital assistants. The new design is designated as “RF Immune” on the package label.As part of this redesign, pin 1 of the RK100PK was disconnected and its ground function reassigned to the metal case of the RK100PK.  This was done to prevent undesired RF signals from entering RK100PK, where they can be detected and can result in audible interference.
+	If the specific mic employs pin 1 of the TA4F as the ground for audio and/or bias, it will not work with the RK100PK.  In that case, here are solutions:
+	Option 1: Disassemble the mic's TA4F connector and solder a jumper from pin 1 to the metal cable strain relief insert that contacts the connector's outer metal body.
+	Option 2: Fabricate an adapter cable (TA4M to TA4F) to use with the mic when connected to the RK100PK.  At the TA4F connector, solder a jumper from pin1 to the metal cable strain relief insert that contacts the connector's outer metal body.
+	Option 3: Modify the RK100PK preamp.  Use a small Allen wrench to loosen the preamp nose cone. This is necessary to gain access to the TA4M connector and the internal PC board. Once the nose cone is unthreaded, solder a short lead between Pin 1 of the TA4M and the ground eyelet on the PC board.

@@ -1,0 +1,15 @@
+Title: Will the VP83F pass audio if powered off?
+Id: 4501
+Legacy Id: 5615
+
+Question:
+Will the Shure VP83F record to a DSLR if the Shure is turned off? I saw a hint in a comment online that the VP83F WILL still pass audio through to the camera even if the mic is turned off and not recording to the onboard recorder. I am 100% certain that at times I will forget to turn on the mic, and this would be great insurance.
+
+
+
+Answer:
+
+	The VP83F must be powered on to pass audio to the camera.The VP83F is a condenser mic and it requires DC power from the battery to operate. The comment that you read was incorrect.
+	
+	From the VP83F User Guide: The VP83F requires two AA batteries to operate (compatible with Alkaline,NiMH, or Lithium). Installing a MicroSD memory card enables recording functionality. Audio is still passed through to the camera and headphone outputs if there is no memory card installed.
+

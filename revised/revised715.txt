@@ -1,0 +1,20 @@
+Title: Replacement microphones for EC11 transmitter
+Id: 715
+Legacy Id: 733
+
+Question:
+My church currently has several EC11-CB wireless body pack transmitters. Several of these have broken microphone wires. They are held together with black tape. I do not know if these models have a connector for the microphone or not. I was afraid to take the black tape off before church. Anyway, can I get a replacement microphone for these models. I did not see a picture on your web site that looked like the present microphone. Its a round barrel type. Can I order the replacement microphone from you directly? What is the part number and cost? Also, will you provide wiring diagrams if a connector is not under the black tape? I'm an Electrical Engineer (old EE but I still have the paperwork). I might have to knock the dust off of my soldering iron. Ha Ha. 
+
+Answer:
+
+	There certainly are replacement microphones available.
+	
+	But, before purchasing new replacement microphones, you should contact our Service Department. Our Service Department might be able to repair your current microphones for a much smaller price. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+
+	
+	http://www.shure.com/americas/support/service-repair
+
+	If you choose to buy new replacement microphones, they would need to be purchased from your local Shure dealer.
+	
+	The EC11 transmitter does have a connector on it.
+

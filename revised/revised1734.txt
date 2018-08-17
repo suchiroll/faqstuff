@@ -1,0 +1,11 @@
+Title: UT frequency selections
+Id: 1734
+Legacy Id: 1793
+
+Question:
+Can I change or adjust the frequency on a UT series receiver after I take delivery?
+
+
+Answer:
+
+	No. The UT wireless is a single frequency system.

@@ -1,0 +1,12 @@
+Title: Mounting the MXA910 in a plenum space
+Id: 4990
+Legacy Id: 6258
+
+Question:
+Is the MXA910 certified to be installed directly in the ceiling?
+
+
+Answer:
+
+	The microphone is UL 2043 Plenum Rated (suitable for air handling spaces) after affixing the included Fyrewrap fire protective wrap system to the back of the mic. It also carries an IEC 60529 IP5X Dust Protected rating.
+

@@ -1,0 +1,12 @@
+Title: What is "Tuned Port Technology"?
+Id: 3202
+Legacy Id: 3346
+
+Question:
+What is "Tuned Port Technology" used on the E4, E4c, I4C, and E4g earphones? How does it improve bass response?
+
+
+Answer:
+
+	Tuned Port Technology improves airflow around the speaker in the same way that the port in a bookshelf loudspeaker enclosure does, but without allowing outside noise to leak in. This enhances low frequency response for added bass, but with no loss of isolation. In addition, the Tuned Port smoothes out the high frequency response, resulting in a sound that is more natural and less bright compared to the E3c. There is an overall sense of added spaciousness as well. The E4c uses the same sleeves as the E3c and E5c. In addition to the yellow foam sleeves, gray ultra-soft flex sleeves, and clear flex sleeves included with the E3c model, the E4c is shipped with a pair of silicone triple-flange sleeves and the PA235 inline volume attenuator.
+

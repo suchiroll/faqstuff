@@ -1,0 +1,12 @@
+Title: Using a mixer in home stereo?
+Id: 1212
+Legacy Id: 1256
+
+Question:
+Can I use mixers with line (or AUX) input and output like M67, M68 (or similar) as home audio? I wonder if I can connect a CD player directly to mixer input and a home power amplifier directly to mixer output.
+
+
+Answer:
+
+	Yes, you certainly can. Realize that the M67 and M68 are mono mixers, though. For a current stereo mixer, we recommend the SCM262.
+

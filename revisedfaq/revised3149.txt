@@ -1,0 +1,13 @@
+Title: How does the I series TREO version work?
+Id: 3149
+Legacy Id: 3286
+
+Question:
+Looking at your single connector i2c for the Treo 650, how does that one function between the player and the phone?  Is there an answer/end button on the inline control and do both earbuds work on the phone side?
+
+Answer:
+
+
+
+	FYI. The Treo version I series single connector will only work with the Treo and not your ipod. The Treo automatically switches and activates the mic for an incoming call if youre listening to music on the treo. You will need to tap Answer on the TREO to take the call and the ring will not pass through the headphones so you may need to put the phone on vibrate. You will hear the caller in both ears. When the call is done it will go back to listening to your music. Hope this helps. Thanks!
+

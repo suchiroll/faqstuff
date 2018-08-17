@@ -1,0 +1,15 @@
+Title: Minimum Operating Voltage for SLX Transmitter
+Id: 3037
+Legacy Id: 3167
+
+Question:
+The SLX transmitter operates on two 1.5 Vdc cells in series. This configuration provides 3 Vdc.
+At what voltage level will the SLX transmitter shut off?
+
+
+Answer:
+
+	While powered up, the transmitter will shut down when the voltage reached 2.0 Vdc.
+	
+	To power up, the minimum voltage must be 2.3 Vdc.
+

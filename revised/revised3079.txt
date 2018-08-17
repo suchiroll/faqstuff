@@ -1,0 +1,26 @@
+Title: UT4 receiver with a ULX transmitter
+Id: 3079
+Legacy Id: 3210
+
+Question:
+I have lost my UT transmitter on 581.725 MHz. Can I substitute a ULX transmitter?
+
+
+Answer:
+
+	Yes, but with limitations. The ULX transmitter does not use the same audio companding circuit as the UT receiver . Therefore, a ULX/UT combination will produce an audio signal that is noiser than an all UT system or an all ULX system.
+	
+	Here are the six UT4 frequencies that will match to a ULX-J1 transmitter:
+	
+	UT Frequency 581.200 MHz (FH) and ULX Master Frequency F087
+	
+	UT Frequency 581.725 MHz (FJ) and ULX Master Frequency F108
+	
+	UT Frequency 583.000 MHz (FK) and ULX Master Frequency F159
+	
+	UT Frequency 585.700 MHz (FL) and ULX Master Frequency F267
+	
+	UT Frequency 588.050 MHz (FM) and ULX Master Frequency F361
+	
+	UT Frequency 589.025 MHz (FN) and ULX Master Frequency F400
+

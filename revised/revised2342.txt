@@ -1,0 +1,11 @@
+Title: U4D Receiver - Separation of the Frequencies
+Id: 2342
+Legacy Id: 2429
+
+Question:
+Is there a minimum frequency separation recommended between the two individual receivers that are inside of the U4D dual receiver?
+
+
+Answer:
+
+	Shure recommends that you maintain a minimum 500 kHz separation between each receiver in the U4D.

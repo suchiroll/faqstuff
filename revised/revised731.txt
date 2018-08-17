@@ -1,0 +1,16 @@
+Title: Connector for A95A
+Id: 731
+Legacy Id: 750
+
+Question:
+I own a Shure 545S. 
+
+I have the standard Shure cable with Amphenol MC4M at one end and a female XLR at the other.  I also have a A95A line matching transformer that has a male XLR at one end and appears to be missing its other end. It terminates in a male screw type 1/2" fitting with a center contact.  Any hope of getting the missing fitting that would end in an RCA ? 
+
+
+Answer:
+
+	The connector that you are talking about is an Amphenol MC1F connector. We offer this as a fitting to 1/4 connectors, but do not offer it to an RCA connector.
+	
+	You might want to contact Amphenol or Markertek to see if they have an adapter for you.
+

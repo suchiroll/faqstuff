@@ -1,0 +1,14 @@
+Title: Beta 58A cartrige into an SM58 barrel?
+Id: 1821
+Legacy Id: 1881
+
+Question:
+Can you fit a Beta 58A element into an SM58 barrel?
+
+
+Answer:
+
+	Not to our knowledge. Even if it is does fit, the rear acoustic chamber formed by the SM58 handle will not match the Beta element, nor will the SM58 transformer match the Beta element.
+	
+	If you try this transplant and get the audio results you want, great. But we doubt the results will be satisfactory.
+

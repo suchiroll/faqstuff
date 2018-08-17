@@ -1,0 +1,21 @@
+Title: Motiv MV88 use with a phone case
+Id: 4700
+Legacy Id: 5870
+
+Question:
+It appears the only way you can use the MV88 in an iPhone 6 is to have a naked case free iPhone. Any thin bumper case will most likely not allow the MV88's lightning connector to be inserted deep enough into the iPhone for proper connectivity. Not a show stopper, just a concern when considering possible rubber bumper cases that might be considered to be modified and cut away near the lighting port to allow access.
+
+It's not clear if there is enough access to be able to plug in a headphone to the iPhone 6 with the MV88 installed. I would like to plug any headphone in for live monitoring.
+
+
+Answer:
+
+	Important: For the MV88 to be "Apple Approved," it must connect properly with the iPhone when the phone is not within a case.
+	
+	A protective case can prevent the MV88 from making a proper connection to phone. Most thin cases that are open at the bottom (like the Apple branded ones) are compatible. Shure does not test the MV88 with accessory phone cases as there are too far many and the models change frequently. There indeed are protective case designs that are not compatible with the MV88.
+	
+	Examine the Lightning connector on the MV88 and notice a wide, black plastic base surrounding it.  This must be flush with the bottom of the phone itself. Apple insists that a product designed as a third-party accessory (like the MV88) must fit properly to an "uncased" phone.
+	
+	The base of the MV88 is wider on one side of the Lightning connector, but it can be positioned so that it does not block the phone's headphone jack.  Stereo orientation is controlled by rotating the mic or can be selected in the Motiv recording app.
+	
+	Included with the MV88 is a short headphone extension cable to accommodate larger plugs, and also to bypass the in-line microphone on many phone headsets.

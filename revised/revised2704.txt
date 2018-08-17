@@ -1,0 +1,15 @@
+Title: Windows XP and P4800 Firmware
+Id: 2704
+Legacy Id: 2808
+
+Question:
+Any problem with Windows XP and the P4800?
+
+
+Answer:
+
+	There is an incompatibility between the P4800 software and Windows XP when a user is upgrading the firmware of a P4800. Occasionally on Windows XP, the small window showing the upgrade progress will freeze. If this occurs, a user may think that the upgrade has failed. Actually, the upgrade is still underway and will finish normally.
+	
+	An upgrade should take less than 3.5 minutes using a serial to serial connection.
+	
+	Due to the chance of corrupting the firmware, a firmware update should not be performed with a USB adapter.

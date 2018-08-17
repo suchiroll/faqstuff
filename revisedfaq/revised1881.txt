@@ -1,0 +1,14 @@
+Title: U Series Rack Mounted Receivers - Weight, size, connectors
+Id: 1881
+Legacy Id: 1941
+
+Question:
+Please provide space and weight requirements for the U4S/D rack mounted receivers. Output connector locations too.
+
+
+Answer:
+
+	The dimensions and back panel can be seen in the User Guide and User Guide Supplement at:
+	
+	http://www.shure.com/datasheets/guides-wireless.html#uhf
+

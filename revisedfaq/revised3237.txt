@@ -1,0 +1,16 @@
+Title: Noisy KSM27
+Id: 3237
+Legacy Id: 3387
+
+Question:
+I have a Shure KSM27 that becomes noisy after being in operation for about 10 minutes. Any ideas of the root cause?
+
+
+Answer:
+
+	In early 2006, a small quantity of KSM27 microphones were manufactured that had one or more faulty 120pF capacitors on the internal circuit board. This problem was not found in final testing because the noise problem only appeared after phantom power has been applied to the mic for a period of time, typically more than 5 minutes.
+	
+	Unfortunately, the faulty capacitor(s) was not always in the same position on the board and thus finding the root cause was difficult. This capacitor value is used at the following part postions on the KSM27 schematic: C3, C4, C8, C9, C10, C17, C18, C21, C22, C26, C28.
+	
+	By May 2006, the problem had been resolved. If you have a Shure KSM27 mic that exhibits this problem, please contact Shure Service at 800-516-2525 about having the mic repaired.
+

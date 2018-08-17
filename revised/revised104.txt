@@ -1,0 +1,29 @@
+Title: How can I have remote volume control for AMS mixers or SCM810 input channels
+Id: 104
+Legacy Id: 104
+
+Question:
+How can I have remote volume control for AMS mixers or SCM810 input channels?
+
+
+Answer:
+
+	The AMS8000, AMS8100, and SCM810 mixers do not have remote volume control capability. This is possible using third party equipment. Radio Design Labs makes a voltage controlled amplifier that will interface with Shure mixers to provide remote volume control.
+	
+	Radio Design Labs of Carpinteria Beach, CA
+	ph. 805.684.5415 fx. 805.684.9316
+	model ST-VCA1
+	
+	To connect the ST-VCA1 to an input channel:
+	
+	1. Modify the mixers Direct Out so that it functions as a Send/Receive jack. This Send/Receive patch point is before the input gain control and before the AMS/SCM810 mic activation circuit. See the Installers Manual for detailed instructions.
+	
+	2. Connect the ST-VCA1 to the AMS/SCM810 Send/Receive jack as follows:
+	ST-VCA1 Send/Receive jack
+	Line Input + Tip
+	Line Input - Sleeve
+	Input Ground Sleeve
+	Output + Ring
+	
+	We recommend the ST-VCA1 be set up to provide attenuation only. This prevents the remote control user from sending the sound system into feedback as the maximum level for that channel will be pre-set using the AMS/SCM810 mixer input level control.
+

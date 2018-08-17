@@ -1,0 +1,25 @@
+Title: Remove grill from wireless Beta 87 cartridge
+Id: 4696
+Legacy Id: 5866
+
+Question:
+I have an older Beta 87 wireless. How do I get the grill off? When I unscrew it, the entire cartridge comes off, but how does the grill come off the cartridge?
+
+
+Answer:
+
+	The older wireless Beta 87 grill can be difficult to remove, especially if it was tightened extensively. Follow these instructions:
+	
+	On the bottom of the cartridge, there are two slots, as indicated by the red arrows in this picture.
+	
+	
+	
+	Place those slots into something with a metal edge. A metal shelf or metal rack rail works well. While pressing the slots into the metal edge, unscrew the grill. The metal edge should hold the cartridge still so the grill can be unscrewed.
+	
+	
+	
+	
+	The grill can then be unscrewed from the cartridge.
+	
+	
+

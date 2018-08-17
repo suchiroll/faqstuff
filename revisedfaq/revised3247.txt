@@ -1,0 +1,14 @@
+Title: Microphone input volume low on my Mac computer
+Id: 3247
+Legacy Id: 3400
+
+Question:
+I purchased the Shure Microphone 8900W at my local Apple computer store. I plugged it into my PowerBook G4 into the microphone plug. I tried a test recording. It seems to barely hear my voice. I went into the Sound interface of the computer and turned up my volume. It still sounds weak. The internal mic picks me up better than this one. Why?
+
+
+Answer:
+
+	The PowerBook G4 doesnt have a true mic input. It shows a little microphone on the 3.5mm jack but its really more like a line input, which means its expecting an audio device at a much higher level (line level). The microphone that Apple designed is proprietary and is essentially self powered outputting a higher level than a true microphone does. Our dynamic microphone needs to go into an input which is designed to amplify the signal with a pre amplifier.
+
+	What you can do if your interested in upgrading the audio quality is purchase a USB interface with a mic input. Most people are using these now for home recording. This is a device that you can connect a low impendence mic into and the USB will amplify the signal via the USB input on your computer. As an example, look at the Shure X2u or MVi.
+

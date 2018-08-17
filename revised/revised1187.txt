@@ -1,0 +1,13 @@
+Title: Does the SM7B need phantom power?
+Id: 1187
+Legacy Id: 1231
+
+Question:
+I was reading the info on the SM7B microphone and I was wondering if it requires phantom power? I will be using this microphone with several other microphones that do require phantom power. I just want to make sure that I will not have any problems if I use this microphone. Thanks in advance for your help.
+
+
+
+Answer:
+
+	The SM7B does not require phantom power and is not affected if phantom power is present on its mixer input.
+

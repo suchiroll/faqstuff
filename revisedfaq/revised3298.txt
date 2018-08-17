@@ -1,0 +1,17 @@
+Title: UR1 or UR2 will not sync with the UR4 receiver
+Id: 3298
+Legacy Id: 3462
+
+Question:
+Sometimes I have a problem with the Infra-Red (IR) Sync function of the UHF-R system.  It can happen on the UR1 bodypack transmitter or the UR2 handheld transmitter.  The problem is that at times the transmitter won't sync with the UR4 receiver.  Any ideas?
+
+Answer:
+
+	As you likely know, a UR1 or UR2 transmitter can have its internal setting for Sens (Sensitivity), Gain, Power, or Lock changed using the IR Sync function. This means that the UR4 receiver can change, via IR Sync, the transmitter operating frequency AND these other four parameters (Sens, Gain, Power, Lock.)
+	
+	Your UR4 receiver has a setting called No Change. This setting tells the transmitter, Hey, dont change this parameter. No Change can be selected for transmitter Sens (Sensitivity), Gain, Power, or Lock. However, a No Change setting on the receiver can sometimes interfere with the IR Sync function.
+	
+	Though rare, it can happen that a transmitter can develop an invalid internal setting for Sens, Gain, Power, or Lock. If the transmitter has an invalid setting, and the receiver sends an IR Sync signal indicating No Change, the IR Sync is rejected because the transmitter will indicate invalid settings as it communicates back to the receiver.
+	
+	To correct this situation, press SYNC on the UR4 receiver, then SETUP. Do not use the No Change setting. Instead, set each of the transmitter parameters (Sens, Gain, Power, Lock) to your desired values. Once you have set the desired values, repeat the IR Sync procedure. Now the transmitter will receive valid settings from the receiver, and the IR Sync function should operate properly.
+

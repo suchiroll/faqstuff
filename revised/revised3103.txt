@@ -1,0 +1,14 @@
+Title: SLX transmitter - voltage and current requirements
+Id: 3103
+Legacy Id: 3236
+
+Question:
+What are the voltage and current requirements for the SLX transmitter?
+
+
+Answer:
+
+	The SLX transmitter operates on two 1.5 Vdc cells in series; this configuration provides 3 Vdc. While powered up, the transmitter will shut down when the voltage reached 2.0 Vdc. To power up, the minimum voltage must be 2.3 Vdc.
+	
+	Specified current consumption for an SLX transmitter is 130mA (milliamps), +/- 15 mA. Divide 130 into the milliamp rating of the AA batteries used will provide a rough estimate of the maximum battery life.
+

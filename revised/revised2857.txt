@@ -1,0 +1,14 @@
+Title: HTS 5300 Remote Control
+Id: 2857
+Legacy Id: 2969
+
+Question:
+My remote control for my Shure HTS 5300 surround sound processor has been lost. I realize that this piece of equipment has not been made for a number of years, however, I was wondering if you had available, another wireless remote control that would operate this unit. If not, are you aware of any after market remotes that might work?
+
+
+Answer:
+
+	We have some bad news. The HTS 5300 remote was designed before manufacturers had standardized codes for remote controls. It was designed for maximum range, and worked well even if you pointed it the wrong way, but this means it also worked a bit differently than others - short pulses of relatively high power. We have heard that some of the learning remotes can be trained to emulate it well enough to work OK, though the range will suffer. Of course, to do that, youll need to find a learning remote AND someone with an HTS 5200 or 5300 (the remotes are identical) so you can train the learning remote.
+	
+	Also, be aware that the timing of the remotes (and the receiver in the 5300) drifts over time), so if you find someone with a working remote (in their system) it may or may not work in yours. Make sure if you train a learning remote that the remote that taught it works with your 5300 first.
+

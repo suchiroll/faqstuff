@@ -1,0 +1,11 @@
+Title: Grille for Unidyne IV - model 548
+Id: 595
+Legacy Id: 607
+
+Question:
+Is there a replacement grille available for a Unidyne 4 548SD?
+
+Answer:
+
+	Sorry, no. The 548 was never a big seller for Shure. It was discontinued in the early 1980s and the replacement parts were depleted by 1993.
+

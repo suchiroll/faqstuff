@@ -1,0 +1,24 @@
+Title: HW505A vs HW501A Headworn Mics
+Id: 2802
+Legacy Id: 2912
+
+Question:
+Can you tell me the difference between the Shure HW505A vs HW501A? I just ordered the HW501 in a close-out sale, but now am wondering about the quality, as everyone rates the HW505A as among the best head-worn computer-based speech-recognition microphones. I also have a Shure hand-held for this application, it performs beautifully, but I would like a headset. Can you clarify or send specs?
+
+Why are you no longer manufacturing these items? Will you be coming out with a new product in this domain? Your products are among the very best, and I would hate to have to buy something else.
+
+
+Answer:
+
+	Can you clarify or send specs?
+	* The HW501 has a dynamic mic element; the HW505 has a condenser mic element. A condenser element typically has a better high frequency response than a dynamic. As consonants in the English language consist mostly of high frequencies, a condenser typically works better for voice recognition. The HW505 requires 2 to 10 Vdc bias on the ring (red wire) to operate; the audio signal is on the tip (black wire). The plug sleeve (cable shield) is the return path for bias and for audio.
+	
+	
+	Why are you no longer manufacturing these items?
+	* Shure makes professional quality microphones. The vast majority of the voice-recognition market desires a mic that is under $50. We do not make products in that price range.
+	
+	We continue to sell the HW501 in our professional line as the model WH20; the HW505 has been improved into the WH30. HOWEVER, both of the WH models are equipped with professional connectors and are designed to interface with professional audio equipment, not the sub-par audio inputs found in the computer industry. A superb way to interface any professional microphone into a computer mic input is by employing a mic preamplifier.
+	
+	Will you be coming out with a new product in this domain?
+	* We have no plans to re-enter the computer audio industry.
+

@@ -1,0 +1,11 @@
+Title: Acoustic Echo Cancellation and Noise Reduction in MXA310 and MXA910 microphones.
+Id: 4988
+Legacy Id: 6256
+
+Question:
+Is there AEC (Acoustic Echo Cancellation) or NR (Noise Reduction) built into the array microphones?
+
+
+Answer:
+
+	No, but MXA products can be used with any audio DSP products with these features, either multi-channel or single channel.  The MXA910 also includes Echo Reduction as part of the IntelliMix® DSP suite, which can improve smaller-budget systems that connect directly to a VTC or PC-based conferencing systems, and typically don't include AEC. Echo Reduction employs a simple way of reducing acoustic echo by preventing far end participants from activating local mic channels.

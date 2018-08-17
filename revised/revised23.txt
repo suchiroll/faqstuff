@@ -1,0 +1,15 @@
+Title: Recording focus group sessions
+Id: 23
+Legacy Id: 23
+
+Question:
+I am looking for a system to record focus group sessions. Approximately 10 people around a table, in a variety of rooms. My previous recordings have picked up too much room noise, and the voices were difficult to hear. Any suggestions?
+
+Answer:
+
+	The response to your question is rather complicated. On a basic level, the closer the mic is to the sound source (the talker) the better the audio will be as it will pick up more desirable sound. Uni-directional microphones would help to pick up less background noise, but in an around the table situation, using uni-directional microphones means that you must use more than just one microphone. More microphones pick up more noise and reverberation than just one. If you use more than two or three microphones, use an automatic mixer as it turns mics on and off as people speak.
+	
+	Below links are to Shure applications bulletins that address this in depth. The easiest thing is to find a really quiet room and use just one omni-directional microphone in the center of the table. Our MX391BP/0 would be an appropriate table mic. Depending on what recorder you have, you might need an adapter to connect to it.
+	
+	Predicting Speech to Background Noise Ratio at the Microphone
+

@@ -1,0 +1,12 @@
+Title: Shure RDA 86
+Id: 2693
+Legacy Id: 2797
+
+Question:
+What is the Shure RDA 86 Mic?
+
+
+Answer:
+
+	The RDA 86 was an OEM microphone (made by Shure and sold to another company). The RDA 86 was similar to the Shure model 588.
+

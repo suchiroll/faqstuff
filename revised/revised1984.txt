@@ -1,0 +1,23 @@
+Title: Stereo Records - How is the signal recorded onto the groove?
+Id: 1984
+Legacy Id: 2047
+
+Question:
+How is the stereo signal recorded on a vinyl record? I vaguely recall a combination of left-right and up-down. I've been recording 45s onto CD and noticed on some records are distorted only on the left channel. Checked signals with a scope - not caused by electronics. I'm using a 70's vintage M95ED on a Pioneer PL-530.
+
+
+Answer:
+
+	The stereo signal is recorded on a V-shaped groove. One wall of the groove has the left channel; the other wall has the right channel.
+	
+	If the 45 RPM record is stereo, the distortion could be caused by:
+	
+
+	
+		Damage to the left channel portion of the groove.
+	
+		Damaged stylus tip.
+	
+		Improper anti-skate setting on the tonearm. The anti-skate setting should equal the tracking force.
+
+

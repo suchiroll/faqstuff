@@ -1,0 +1,17 @@
+Title: Vocal Master VA300-S and VA301-S Loudspeakers
+Id: 1333
+Legacy Id: 1385
+
+Question:
+I need to replaced loudspeakers in my Vocal Master column speaker. What do I need?
+
+
+
+Answer:
+
+	The 10 full range loudspeaker is 16 ohms and must handle 25 watts (minimum) or greater.
+
+	The 8 full range loudspeaker is 8 ohms and must handle 25 watts (minimum) or greater.
+	
+	Possible source for replacement loudspeakers: www.parts-express.com
+

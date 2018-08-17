@@ -1,0 +1,22 @@
+Title: Floor stand for MX412/MX418 gooseneck microphone
+Id: 1802
+Legacy Id: 1862
+
+Question:
+How can I mount an MX412/MX418 mic to the top of a mic stand?
+
+
+
+Answer:
+
+	This concept works for a MX412/MX418 series mic that has a male, three-pin XLR connector as the output:
+	
+	1) Use a standard floor mic stand like the Shure MS10C.
+	
+	2) To the top of the stand, fasten a Switchcraft P3F adapter, with a mic cable soldered to the rear of the P3F adapter. This provides a female XLR connector at the top of the mic stand, into which the male XLR connector of the MX400 mic will connect.
+	
+	3) Thread the mic cable down the middle of the mic stand tube.
+	
+	4) The mic cable will emerge from the bottom of the mic stand. A male XLR connector must soldered onto this end of the cable.
+	
+	This idea can be implemented by a sound installation company. 

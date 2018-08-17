@@ -1,0 +1,22 @@
+Title: SLX4L Receiver with TTL Logic with AMX systems
+Id: 4257
+Legacy Id: 5314
+
+Question:
+I have been searching for answers on the Logic function on the SLX4L receiver. In the manual supplement, it says that it is compatible with Room Control Systems such as the AMX/Creston systems. Just for example, I have 4 MX890 Wireless Desktop Bases with 4 MX415 goosenecks attached to each of them. Can you give examples of connections from the 4 SLX4L receivers to the AMX control system so that the MX890 wireless gooseneck mics can integrate with the AMX?
+
+
+Answer:
+
+	The SLX4L can provide the status of the wireless microphone. At the back of the SLX4L, there is a 3 pin phoenix connector:
+
+	Pin 1: Transmitter Mute Status. In Logic mode, Pin 1 can be connected to a remote device and when transmitter status is Active, logic level is Low (0V). When status is Muted, logic level is High (+5V). Typical applications include providing remote indication of transmitter status and activating external equipment (equalizer, signal processor, loudspeakers, etc.) when used with a Room Control System (Crestron or AMX for example). Transmitter Mute can also mutes/unmutes an input channel on an automatic mixer. For connections, connect the transmitter status pin to the podium mic mute input terminal on an automatic mixer. Connect the receiver logic ground to the mixer logic ground.
+
+	NOTE: Whenever the receiver is in Normal mode, Pin 1 indicates transmitter on/off status. When the transmitter is powered ON, logic output level is Low (0V.) When the transmitter is powered OFF, the logic level is High (+5V)
+
+	Pin 2: Logic Ground. For connections, make all logic ground connections to this pin, including the power supply ground of external logic circuitry. To avoid switching noise, do not connect logic ground to audio, chassis, or rack grounds.
+
+	Pin 3: Transmitter Battery Status. Good Battery status sends a logic level of Low (0V). Low Battery status (1 hour or less of battery life remaining) sends a logic level of High (+5V). Pin 3 can be used to control a remote LED when battery is low. It can also be used to indicate low transmitter battery status on a remote control panel when used with a Room Control System (Crestron or AMX for example).
+
+	Please note that you need to change the SLX4L to logic mode before you can apply these functions.
+

@@ -1,0 +1,23 @@
+Title: FP33 and FP32A Mix Bus
+Id: 2668
+Legacy Id: 2772
+
+Question:
+I want to make a cable that feeds a stereo recording device from the FP33 mix bus, what would the wiring diagram be to wire the mix bus to a 1/8" stereo mini connector?
+
+
+Answer:
+
+	There is a commercial device that does this: contact Peter Engh - phone 612-827-7992
+	
+	FP 33 / FP32A Mix Bus Specifications
+	Connector Outs:
+	Pin 1 = left
+	Pin 2 = right
+	Pin 3 = ground
+	
+	Looking at mixer jack
+	Upper left = pin 1
+	Upper right = pin 3
+	Lower middle = pin2
+

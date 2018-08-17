@@ -1,0 +1,18 @@
+Title: MX405/MX410/MX415 shock mount
+Id: 4703
+Legacy Id: 5873
+
+Question:
+Is a shock mount available for the MX405/410/415 microphones?
+
+
+Answer:
+
+	The MX405, MX410, and MX415 gooseneck mics work with the MX400SMP (Surface Mount Preamp).This preamp includes two rubber isolation rings that are installed between the table surface and the wing nut that secures the preamp from below.
+	
+	
+	
+	If you desire more isolation, the MX400SMP will fit into an A400SM shock mount.Take care not to damage the rubber donut in the A400SM, as the preamp will be a very tight fit - it will be necessary to install the preamp in the shock mount before affixing it to the table.Also, make sure not to over-tighten the MX400SMP wing nut; this make the A400SM shock mount ineffective.
+	
+	Mounting instructions for the A400SM shock mount can be found in the MX412/MX418 user guide.
+

@@ -1,0 +1,36 @@
+Title: AXT100 versus AXT100+
+Id: 4687
+Legacy Id: 5857
+
+Question:
+What is the difference between the AXT100 and the AXT100+?
+
+
+Answer:
+
+	As of July 31, 2015:
+	
+	*FYI - confidential/for internal use only*
+	
+	As some of you may be aware, over the past year there was a running change made to the AXT100.Two enhancements were made: [1] Auto Power Mode and [2] lowered bias voltage (from 8V to 5V).The version with these changes implemented has been referred to internally only as the AXT100+.More detail on the enhancements are below.
+	
+	NOTE:It is NOT possible to update an AXT100 to AXT100+.It would require changing the main board, which takes up 80% of the cost of a bodypack board.No warranty fix will be offered since there is nothing wrong with the original AXT100.Again, the updates in AXT100+ are just enhancements.There are no plans to publicly communicate this change, and the below detail is confidential and for internal reference only.
+	
+	
+	AXT100+ auto-power mode
+	The dip switch under the bodypack battery currently serves a hard lock function for locking the interface. The lock position of this switch will enable the power state of AXT100+ to be latched to On, such that merely connecting the battery to contacts automatically powers the device on. This simplifies workflow for users who need to power on many transmitters quickly.There will be a utility in the transmitter menu to set the preference for which buttons are locked in this mode: all buttons (including Power, Up, Down and Set) or just the Power button.
+	
+	Reduced bias voltage
+	We reduced the bias voltage from 8V to 5V so that the bodypack is compatible with the MX153 headset microphone; the lowered voltage also addresses the issue of audio artifacts when powering off one of two bodypacks connected to a mic using the AXT652 Y-Cable.
+	
+	
+	Auto power mode and reduced bias voltage are only available with the new hardware version known in SAP as AXT100+.However, the label on the back of the bodypack still says AXT100.
+	
+	To tell whether it is an AXT100+, one can:
+	1) look at the hardware version - indicates R5 instead of R4 in the lower right corner of splash screen as you power up the bodypack
+	2) look for the label which states5V Bias, Auto Power Mode on the bodypack battery case part
+	3) look at the packaging label on the unit outer carton and see if the SKU says AXT100+=- (freq band), instead of AXT100=-
+	
+	
+	Due to the $$$$ involved, a decision was made a while ago across BUs to sell through AXT100 inventory before offering AXT100+.As of today, the ABU has sold through the remaining inventory of the AXT100 TQG and LEMO versions.Going forward, all orders will be fulfilled with the AXT100+.Customers can continue to place orders as they have in the past for AXT100 and Customer Service will update to the correct model name as part of their process.
+

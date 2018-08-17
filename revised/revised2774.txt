@@ -1,0 +1,13 @@
+Title: Can a DFR11EQ v4 be upgraded to a v5?
+Id: 2774
+Legacy Id: 2882
+
+Question:
+Can a version 4 be upgraded to be a version 5? Is the limiter also a hardware change?
+
+
+Answer:
+
+	You can upgrade the microcode. To do this, simply use the latest version of the DFR11EQ Windows software on your computer. This software will automatically update the microcode of the hardware. Of course, with the version 4 hardware, you still will not have preset selection or as much delay, because these are hardware changes.
+	
+	The limiter is a hardware change. Thus, no matter what software you use, version 4 will never have a limiter.

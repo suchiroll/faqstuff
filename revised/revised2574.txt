@@ -1,0 +1,12 @@
+Title: What does "att" mean when associated with a mic input?
+Id: 2574
+Legacy Id: 2673
+
+Question:
+What does in mean (for instance on a digital video camera) there is a choice of "microphone" and "microphone att?" Does it mean "attenuated?" In any case, what would be the difference in plugging a mike into either one of these inputs?
+
+
+Answer:
+
+	Att is an abbreviation for Attenuated. Attenuated means reduced in level. Your microphone will be recorded at a reduced level when using the Attenuated input. Use the Attenuated input only if the non-attenuated input distorts when using your chosen microphone.
+

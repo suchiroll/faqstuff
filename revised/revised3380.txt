@@ -1,0 +1,12 @@
+Title: DFR22 Output LED Meter Displays Full Scale Reading Continuously
+Id: 3380
+Legacy Id: 3567
+
+Question:
+We recently installed a DFR22 Digital System processor.  The device was easy to program and is working just fine, but the audio output LEDs for one of channels are lit to full scale continuously.  What should I do?
+
+Answer:
+
+	Whenever a Peak Stop Limiter processing element is used in the DFR22 processor, anywhere on a input or output strip, it is possible that one or both LED output meters on the front panel will light up continuously at full scale. This is only a visual bug; there is no problem with the audio or the Peak Stop Limiter. The audio output meter display issue is associated with the Peak Stop Limiter element. It does not occur with any other processing block.
+	
+	The solution to this visual anomaly is to add one (or more) extra processing blocks before the Peak Stop Limiter. Any active block may be used, but for simplicity, try inserting a PEQ3 (3-band parametric EQ) block just before each Peak Stop Limiter processor in the audio path. The PEQ3 does not need any filters to be active; its presence alone will resolve the audio output indicator display issue.

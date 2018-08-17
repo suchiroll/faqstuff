@@ -1,0 +1,13 @@
+Title: What system should I use for a stereo guitar?
+Id: 617
+Legacy Id: 631
+
+Question:
+I play a rickenbacker wired for stereo, which has an output for mono and stereo. I use the stereo "ric-o-sound" output via a stereo "Y" shaped cable into two amps. I am having a roadcase built for two heads, a rackmounted tuner, and a rackmounted wireless guitar kit (if possible.) So, can I buy a system with this in mind?
+
+Answer:
+
+	To our knowledge, there is no stereo, battery operated wireless transmitter manufactured by any company. This means you would require two separate monaural wireless systems, each on its own frequency. One system would handle the left output from your guitar; the other system would handle the right output from your guitar.
+	
+	If you try this approach, make certain the two transmitters are physically located as far apart as possible so that they do not interact with each other. As a starting point, locate one near your left shoulder and one near your right hip. Exact placement will require experimentation on your part.
+

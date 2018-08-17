@@ -1,0 +1,15 @@
+Title: Long mic lines
+Id: 851
+Legacy Id: 877
+
+Question:
+I am looking for a mike preamp arrangement.  Problem is transferring low-level mike signals from the front of a church to the rear, a distance of perhaps 150 feet.  Although I have done this many times before, I would feel more comfortable doing it at line level.  A pre-amp would preferably accommodate 4 to 8 mikes and provide phantom power when needed.  Your FP23 is a perfect example of what I believe I need - but I cannot use a battery powered device!
+
+Is there anything else in your product line that will work?
+
+Answer:
+
+	Low impedance balanced mic lines can run several thousands of feet without degradation. The 150 foot run you have should be no problem at all, and mic to line preamps should not be necessary.
+	
+	But if you still want a AC powered mic preamp, consider the Rane MS-1B: .
+

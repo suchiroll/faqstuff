@@ -1,0 +1,13 @@
+Title: Motiv MV88 Changing the Gain
+Id: 4728
+Legacy Id: 5899
+
+Question:
+How do I change the Motiv MV88 gain when in an app other than the Shure app, such as recording video? Do those cool MV88 DSP tools apply only when using the Shure app?
+
+
+Answer:
+
+	The only way to change gain is through the Motiv app, however the DSP remains regardless of app status.
+	
+	Double tap the home button on the iDevice to keep the Motiv app open and quickly jump back and forth to make changes. Once set, the settings stay on the MV88 until they are changed. So if you set your gain or pick a DSP mode, close the Motiv app and switch over to the camera app, the MV88 will use the settings chosen, including gain, stereo width, and DSP processing. The MV88 retains the settings until changed.

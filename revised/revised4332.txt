@@ -1,0 +1,22 @@
+Title: SM81 paint color
+Id: 4332
+Legacy Id: 5414
+
+Question:
+I am looking to touch up the paint of my shure sm 81 microphone handle. I need to get information on the color of this microphone. I am looking for a PANTONE number or a RAL NUMBER.
+
+
+Answer:
+
+	Pantone color specifications are typically intended for specifying ink color, not paint used on metal.
+	
+	The lab color values for the champagne paint used on the SM81 are:
+	L: 65.25
+	a: +0.60
+	b: +7.50
+	
+	http://en.wikipedia.org/wiki/Lab_color_space
+	
+	
+	A suggestion: take the SM81 to an Ace Hardware Store and have the store color match the handle using a colorimeter. From that, they can mix a batch of their Ace brand Rust Stop paint. It is tint-able, formulated for metal substrates, and costs about $5 for a pint in 2013.
+

@@ -1,0 +1,11 @@
+Title: SCM810 DB25 female connector with screw terminals
+Id: 3637
+Legacy Id: 3845
+
+Question:
+Is there a source for a DB-25 female connector that has screw terminal connections instead of solder connections? It would be easier to use in the field.
+
+
+Answer:
+
+	L-Com Global Connectivity offers a DB25 female connector with screw terminals, model DGB25FT.  As of November 2009, the U.S. retail price was $12.00L-Com can be reached at 800-341-5266.Similar products from other manufacturers can be found via an Internet search using "DB25 screw terminal."

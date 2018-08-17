@@ -1,0 +1,14 @@
+Title: Headset mike that sounds like SM58
+Id: 1714
+Legacy Id: 1773
+
+Question:
+Which headset mike most closely resembles (electrically and acoustically) the SM58? I am a (beginning) keyboardist in a band that uses SM58's exclusively for vocals and wish to switch from a mike on a stand to a headset.....
+
+
+Answer:
+
+	The sound of the SM58 is unique and cannot be duplicated by a miniature microphone for many technical reasons, electronic and acoustic. You will not find the exact SM58 sound from any headworn mic. In the Shure line, theSM35 and the Beta54would be units to audition, but it will likely require equalization on the mixer to make it sound more like an SM58.
+	
+	We suggest that you visit a local music dealer that stocks several headset mics. Bring along your trusty SM58 and start comparing it to the headset mics. Let your ear be the ultimate decision maker.
+

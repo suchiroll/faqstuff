@@ -1,0 +1,12 @@
+Title: Size and type of plug / jack used on SRH Headphones
+Id: 4431
+Legacy Id: 5530
+
+Question:
+I'm planning on buying a pair of the SRH440 headphones and I was wondering what the connector dimensions are on the headphone side? I mean the plug and jack used to disconnect the cable from the headphone assembly.
+
+
+Answer:
+
+	It is a 2.5 mm plug/jack.It is custom-made for Shure and has a locking mechanism that is activated by inserting, then turning the plug.
+

@@ -1,0 +1,13 @@
+Title: Replacement styli for M55E
+Id: 2048
+Legacy Id: 2113
+
+Question:
+I have decided to start and use my old Goldring Lenco 75 deck, fitted with a Shure M55E cartridge. The styli is worn however but I have seen a photo of a N75E styli on the net and the shape looks the same, will this fit my M55E cartridge? Hope you can help.
+
+
+Answer:
+
+	The N75E will not work properly.
+	
+	The N55E stylus is the proper stylus for your M55E cartridge.

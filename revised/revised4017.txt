@@ -1,0 +1,19 @@
+Title: Mic element 90A2263
+Id: 4017
+Legacy Id: 4424
+
+Question:
+Would you be able to send specs on your microphone element 90A2263?
+
+
+Answer:
+
+	This element is also called the R132 and is used in the model 527C.It is a dynamic mic element.
+	
+	Nominal impedance at 1 kHz:150 ohms
+	
+	Nominal output at 94 dB SPL (One Pascal) at 1 kHz: -51 dBV (2.8 mV)
+	
+	Specified frequency response range: 300 Hz to 5,000 Hz
+	
+

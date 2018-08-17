@@ -1,0 +1,14 @@
+Title: Beta 57 vs Beta 57A - output transformer
+Id: 608
+Legacy Id: 621
+
+Question:
+I saw in your FAQ that the Beta 57A has an output transformer and no humbucking coil. Does that mean that the mic will hum in a room with neon lights, or a light dimmer, like my guitar does? Are these two changes you've made to improve the mic or to make it cheaper to produce?
+
+
+Answer:
+
+	Unlike most guitars, the Beta 57A is well shielded from hum sources. The lack of a hum bucking coil has proven to be no problem in the field.
+	
+	The addition of a transformer actually made the Beta 57A more expensive to manufacture than the Beta 57. The output transformer prevents detrimental loading when the mic signal is split multiple times to feed a mixing board, a recording board, and a monitor board for example. Without the output transformer, the sound of the mic might change each time the signal is split.
+

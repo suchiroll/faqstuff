@@ -1,0 +1,27 @@
+Title: Shure USA Rebate - Wireless Products Affected by FCC Auction of 600 MHz RF Spectrum
+Id: 5063
+Legacy Id: 6376
+
+Question:
+Please provide an explanation of the Shure wireless rebate announced in April 2017.
+
+
+Answer:
+
+	Shure Incorporated has announced a rebate program (in theUnited States)of up to $500 per channel on the purchase of new Shure wireless microphones or personal monitor systems accompanied by the trade-in of wireless systems operating in the 600 MHz frequency band (614-698 MHz).
+	
+	Products from Shure and from other wireless manufacturers are eligible for the trade-in program. The rebate is effective until April 30, 2018.
+	
+	The rebate will assist wireless users adapt to changing conditions resulting from the reallocation of portions of the 600 MHz band to mobile broadband services.
+	
+	According to FCC rules, wireless microphones and personal monitors that are capable of operating in the auctioned UHF spectrum (616-653 MHz and 663-698 MHz) may not be used after a transition period. If a local mobile broadband licensee begins using these frequencies before that date, the wireless user must change frequencies to avoid interfering with them.
+	
+	As a result of the recently completed Incentive Auction of UHF spectrum, wireless microphone users in the U.S. should plan for the retirement and replacement of systems that currently operate above 614 MHz, says Mark Brunner, vice president of Corporate and Government Relations at Shure. Our number one priority is to help people make the transition from legacy products to new systems that will provide dependable service and comply with updated FCC regulations.
+	
+	Customers may submit rebate forms after the purchase of the following new Shure wireless products: BLX; GLXD and GLXD Advanced; PGXD; PSM300; PSM900; PSM1000; QLXD; and ULXD. A new premium digital wireless system set to be launched at NAB 2017 will also be eligible.
+	
+	To download a rebate form and view a complete summary of the terms and conditions of this rebate program, customers must visit the Shure website.
+	https://wirelessrebate.shure.com/
+	
+	For more technical information about FCC mandated spectrum changes, visit the Shure Incentive Auction Resource Center.
+

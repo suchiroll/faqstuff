@@ -1,0 +1,18 @@
+Title: Suspending a VP88 for recording
+Id: 2458
+Legacy Id: 2553
+
+Question:
+Would it be possible to hang the VP88 permanently from the ceiling in our church, to record the choir and organ which are located in a rear balcony? We were thinking of hanging the microphone 3 - 5 feet in front of the balcony, about 8 feet higher than the floor of the balcony. If the mike can be hung, do you think this would be the best placement for recording?
+
+
+Answer:
+
+	Would it be possible to hang the VP88 permanently from the ceiling in our church, to record the choir and organ which are located in a rear balcony?
+	
+	* Yes. The mic cable can support the weight of the mic. But you need an accessory made by Neumann: the MNV87 auditorium mic hanger.
+	
+	
+	We were thinking of hanging the microphone 3 - 5 feet in front of the balcony, about 8 feet higher than the floor of the balcony. If the mike can be hung, do you think this would be the best placement for recording?
+	
+	* We cannot properly advise you on this. Proper mic placement is depended upon the acoustics of the recording space. This cannot be adequately discussed via email. Experiment with different placements until a good sounding spot is found.

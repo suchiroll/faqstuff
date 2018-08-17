@@ -1,0 +1,12 @@
+Title: How do I add 5 more LX wireless microphones?
+Id: 1510
+Legacy Id: 1564
+
+Question:
+I have been contracted to provide a church with five wireless microphones to be used at the same time in the same auditorium. The transmitter and receiver distances will be around 100 ft. They presently have one Shure LX4 system that they are happy with. Do I need to get five different set ups on different frequencies?
+
+
+Answer:
+
+	All six wireless systems must each be on a unique frequency. Also, these frequencies must avoid any frequencies employed by local TV stations.
+

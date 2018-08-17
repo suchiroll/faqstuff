@@ -1,0 +1,23 @@
+Title: Technical info for EM28A
+Id: 1653
+Legacy Id: 1710
+
+Question:
+THE DESCRIPTIVE PLATE READ:
+
+
+SHURE BROTHERS, INC.
+
+Controlled magnetic microphone
+
+MODEL #EM28A
+
+Made in EVANSTON, ILL. U.S.A.
+
+U.S. PATENT D-198,850
+
+
+Answer:
+
+	The EM28A was a custom model for General Electric. Once a custom model is discontinued, all engineering drawings are sent to the company that purchased the mic, in this case, General Electric.
+

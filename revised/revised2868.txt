@@ -1,0 +1,20 @@
+Title: Miking a semi-circle of singers for live sound
+Id: 2868
+Legacy Id: 2980
+
+Question:
+What is a good mic to use for a group of six standing in a semi-circle? This is for singing in a church - live sound.
+
+
+Answer:
+
+	A semi-circle is difficult as the angle is 180 degrees. Cardioid mics, most often used for live sound, have a 120 degree pickup angle.
+	
+	To cover 180 degrees and six people, we recommend mounting two identical models of the following mics on a Shure A27M stereo mic adapter (a device that holds two mics on one mic stand):
+	
+	Best: SM81 or KSM137
+	Better: SM94 or SM137
+	Good: PGA81
+	
+	Please note that these mics require phantom power for your mixing board. Also note that these mics should be placed no closer that 12 inches to any singers mouth.
+

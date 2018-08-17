@@ -1,0 +1,12 @@
+Title: Body Pack clip
+Id: 1935
+Legacy Id: 1997
+
+Question:
+I recently bought the Shure wireless head set system. I am very impressed with the clean sound and range of my unit. I am disappointed, though, with the belt clip mechanism on the body pack. It is certainly not up to standard Shure quality. I tend to move a lot on stage and the feeble, no other word can describe it, clip is loose and the unit flaps on my belt. Also a small mound/bump i.e. grip, on the inside of the clip would keep it from riding up while worn, basic with most bottom line pagers. Are there plans to make a more reliable clip? Will we be able to upgrade our units to the new one?
+
+
+Answer:
+
+	When using a Shure body pack transmitter, be sure that your belt slides all the way into the uppermost part of the clip, in between the wide plastic and wire portion of the clip. If only the narrow, lower portion of the clip is on your belt, the clip will not hold securely.
+

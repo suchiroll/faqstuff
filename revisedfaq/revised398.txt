@@ -1,0 +1,20 @@
+Title: Connecting a hardwired low-impedance mic to a Shure beltpack
+Id: 398
+Legacy Id: 405
+
+Question:
+How would I wire an adapter from female XLR to TA4F to use a hardwired mic (such as an SM58) with a body pack transmitter, or is it even possible to get acceptable results this way? The other application would be to use the adapter to connect the body pack input to a microphone level output on a console. Thanks for your help -
+
+
+Answer:
+
+	You would connect it as follows:
+	
+	Pin 2 (XLR) -- Pin 3 (TA4F)
+	Pin 3 (XLR) -- Pin 1 (TA4F)
+	Pin 1 (XLR) -- Pin 1 (TA4F)
+	
+	We offer a cable that is already wired like this. Model WA310
+	
+	Complete pin out diagram of the TA4 connector
+

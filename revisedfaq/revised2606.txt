@@ -1,0 +1,11 @@
+Title: SM57 windscreen
+Id: 2606
+Legacy Id: 2707
+
+Question:
+I'm trying to find out about availability of the windscreen for SM57 which has a rubber, friction-fit mounting ring, rather than the set-screw metal ring. I can't find that version on the website, and I suspect you may have discontinued it. But, if it is available, what is the part number?
+
+
+Answer:
+
+	The rubber friction version was unreliable and was discontinued.  The current version uses the setscrew and is the A2WS-BLK or A2WS-GRA.

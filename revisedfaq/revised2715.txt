@@ -1,0 +1,12 @@
+Title: Replacement Stylus for VST III Cartridge
+Id: 2715
+Legacy Id: 2819
+
+Question:
+Is there a replacement available that will fit the VST III cartridge?
+
+
+Answer:
+
+	The NE97HE will fit.
+

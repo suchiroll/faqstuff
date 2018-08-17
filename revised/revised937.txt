@@ -1,0 +1,17 @@
+Title: Doubling up on mixer inputs
+Id: 937
+Legacy Id: 965
+
+Question:
+Currently I have 4 mics into a 4 channel mixer and need to add 4 more mics on the same mixer.  I would probably use XLR 'Y' connectors to insert 2 mic cables into each input.
+
+Although this probably isn't the best idea, can it be done???
+
+How can I explain to a non-technical person (who controls the $$$) the need for a second mixer??
+
+Answer:
+
+	Please advise the model numbers of the Shure mics involved and the Shure mixer(s). Our answer will depend upon the models.
+	
+	In general, Ying two mics into one input has two shortcomings: 1) Each mic loads the other and the signal level to the mixer drops; 2) There is no way to control the level of each mic with an mixer input level control because each level control acts upon two mics, not one.
+

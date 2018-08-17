@@ -1,0 +1,20 @@
+Title: PA411 units - combining the RF outputs
+Id: 4598
+Legacy Id: 5754
+
+Question:
+Is it technically feasible to passively combine the RF outputs of two PA411 PSM antenna combiners? I want to use eight P3T transmitters but only one PA805 antenna.
+
+
+Answer:
+
+	While it technically can be done by using the Shure UA221 antenna combiner/splitter, Shure does not recommend it. Note the following:
+	
+	1) The UA221 will introduce 3 dB of insertion loss - meaning the RF output power will be reduced by 3 dB.
+	
+	2) The RF power radiating from the PA805 will be the equivalent of between 10 mW and 15 mW. This will reduce the effective operating range - P3T transmitter to P3R receiver.
+	
+	3) Try this setup and observe the results. If all works well, excellent. If not, remove the UA221 and use a separate PA805 antenna for each PA411 RF output.
+	
+	4) There is an eight in / one out combiner: model PA821A.
+

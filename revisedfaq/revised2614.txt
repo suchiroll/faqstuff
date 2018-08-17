@@ -1,0 +1,16 @@
+Title: Ripple in phantom power supplies
+Id: 2614
+Legacy Id: 2716
+
+Question:
+Are there any rules of thumb for how much ripple and noise is acceptable on a phantom power supply, such as, "anything less than X millivolts of ripple is OK?"
+
+
+Answer:
+
+	We checked the 1996 IEC phantom power standard 268-15 and there is no spec for ripple/noise.
+	
+	Our thoughts are: 1mV of ripple is the equivalent of a mic output signal of -60dBV. The KSM32 provides a -60dBV signal with an input level of 70 dBSPL.
+	
+	The noise floor of the KSM32 is 13 dBSPL; that equals an output of -117dBV; that equals 0.0014 mV. So the ripple must be less than 0.0014mV.
+

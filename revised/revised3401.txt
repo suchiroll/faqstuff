@@ -1,0 +1,12 @@
+Title: Blackberry Pearl (8100) and Worldphone (8800) and MPA (Music Phone Adapter)
+Id: 3401
+Legacy Id: 3591
+
+Question:
+Will the MPA-3C Music Phone Adapter work with the Blackberry 2.5mm phones?
+
+
+Answer:
+
+	Sorry, the MPA adapter will not work with the 2.5mm input phones.
+

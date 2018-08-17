@@ -1,0 +1,11 @@
+Title: WA304 Cable with GLXD1 transmitter
+Id: 4624
+Legacy Id: 5783
+
+Question:
+Will the Shure cable WA304 work with the GLXD1 transmitter? The WA304 has a right angle 1/4" male phone plug.
+
+Answer:
+
+	Yes.
+

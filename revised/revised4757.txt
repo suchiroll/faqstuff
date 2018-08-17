@@ -1,0 +1,12 @@
+Title: Diaphragm Adhesive
+Id: 4757
+Legacy Id: 5939
+
+Question:
+I have a vintage SM57. One edge of the mic diaphragm needs to be re-glued. What adhesive should I use?
+
+
+Answer:
+
+	While it would be better to replace the entire mic element, it is feasible to carefully re-adhere the diaphragm to the pole piece using contact cement - sold at a hardware store. Use only the very smallestamount and carefully follow the instructions on the contact cement label.
+

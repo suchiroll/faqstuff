@@ -1,0 +1,12 @@
+Title: Internal XLR Wiring for Shure SM58
+Id: 996
+Legacy Id: 1025
+
+Question:
+I had a question about the wiring in the SM58. I have one and the bottom 3-pronged part came out and broke away from the wires. I need to know which wire (the blue or the red) goes to which prong. Thank you.
+
+
+Answer:
+
+	The blue wire goes to pin 2. The red wire goes to pin 3. A wiring diagram can be found in the SM58 User Guide.
+

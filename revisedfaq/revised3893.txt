@@ -1,0 +1,20 @@
+Title: PSM 1000 Frequency Bands in the U.S.
+Id: 3893
+Legacy Id: 4139
+
+Question:
+What frequency bands are offered in the U.S. for the PSM 1000?
+
+
+Answer:
+
+	G10: 470 to 542 MHz (TV 14 - TV 25)
+
+	
+
+	J8: 554 to 626 MHz (TV 28 - TV 39) Note: For J8, TV 37 is omitted (608 to 614 MHz)
+
+	
+
+	L8:626 to698 MHz (TV40 - TV 51)
+

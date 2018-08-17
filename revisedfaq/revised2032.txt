@@ -1,0 +1,13 @@
+Title: Lav mics for W10BT WIRELESS
+Id: 2032
+Legacy Id: 2097
+
+Question:
+We have the W10BT wireless system and the lavalier microphone is shorting out. Will the WL183, WL184 or WL185 Lavalier microphones work with this system?
+
+
+Answer:
+
+	Will the WL183, WL184 or WL185 Lavalier microphones work with this system?
+	* Yes.
+

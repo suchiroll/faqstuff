@@ -1,0 +1,20 @@
+Title: SM57 hum
+Id: 3554
+Legacy Id: 3760
+
+Question:
+I am using an SM57 on a lecturn.I recently replaced the lecturn incandescent lamp with a compact flourescent, and now I'm getting a hum from what I guess is generated radio waves from the bulb.It goes away after moving the mic about2 foot away.Would ungrounding the shell of the XLR get rid of the hum?Any suggestions, or should I go back to regular light bulbs?
+
+
+Answer:
+
+	A fluorescent light has a transformer, called a ballast.The ballast will create a local field of magnetic interference;the SM57 is susceptible to this field because of its plastic grill that surrounds the voice coil.
+
+	
+
+	Replace the SM57 with an SM58 and the problem will diminish because of the metal grille on the SM58.You can also replace the SM57 with a Beta 57 for reduced hum pickup.
+	
+	Do not change the wiring of the mic cable or XLR; this will have no effect.
+	
+	Changing back to a non-fluorescent fixture will also solve the problem.
+

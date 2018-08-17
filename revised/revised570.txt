@@ -1,0 +1,15 @@
+Title: Clipping UC handheld transmitter
+Id: 570
+Legacy Id: 581
+
+Question:
+We operate a couple of UC sets, with BETA58 cartridges. This weekend, while doing a Rock Band, I run into a somewhat troublesome situation. I dialed the gain poti on the transmitter all the way to minimum, and still the singer would frequently light up the red level LED (+9dB, I think) on the receiver. He does have a good strong singing voice, but not overly so. I tried the transmitter myself and found it easy to drive levels up to "red" without shouting into the mike as much as I had expected. Though no audible distortion occured, this fact still worries me. How much headroom is there above the red maximum level LED on the receiver? Can the transmitter be modified in any way as to be able to attenuate the input signal a little bit more?
+
+
+
+Answer:
+
+	This is extremely unusual. We have never heard of anyone overloading a UC2 transmitter with the gain control in the minimum position. Does the gain control have any effect on the audio level or has it become inoperable? Are both transmitters acting the same? The red LED will light 6 dB before clipping occurs.
+	
+	The attached document describes how to add 6 dB of additional attenuation to the UC2.
+

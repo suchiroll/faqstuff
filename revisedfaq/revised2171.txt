@@ -1,0 +1,11 @@
+Title: Making a Beta 98 wireless
+Id: 2171
+Legacy Id: 2244
+
+Question:
+Is it possible to make my Beta 98's wireless?
+
+
+Answer:
+
+	Yes. The Beta 98, minus the inline preamp, will work with any Shure wireless bodypack that has a four pin input connector.

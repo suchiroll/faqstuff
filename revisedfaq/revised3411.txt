@@ -1,0 +1,12 @@
+Title: Is phantom power needed on all three channels of MX396?
+Id: 3411
+Legacy Id: 3601
+
+Question:
+Is phantom power needed on all three channels of the MX396-TRI or can I just supply phantom power to one channel? How does this effect the LED?
+
+
+Answer:
+
+	Phantom power does need to be supplied for all three channels on the MX396/C-TRI.  The channels not receiving phantom power, will not work.
+	As for the LED, if phantom power is supplied to only one channel, the LED will light dimly.  The brightness of the LED will increase as the phantom power is turned on for the other two channels.

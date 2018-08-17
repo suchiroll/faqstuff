@@ -1,0 +1,12 @@
+Title: Wired Microphone Proximity On/Off Switch using Infrared
+Id: 2929
+Legacy Id: 3055
+
+Question:
+Is there are device that will switch on a wired mic when someone stands in front of the mic, and switch the mic off when the person moves away from the mic?
+
+
+Answer:
+
+	www.optogate.com
+

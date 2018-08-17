@@ -1,0 +1,19 @@
+Title: Mic for recording a band in a studio
+Id: 889
+Legacy Id: 916
+
+Question:
+Hi, I am mailing you with a question concerning the purchase of a microphone. I have talked to many people regarding the purchase of a new mic and everyone points me to Shure so I thought I would give your site a try and see what you have to offer.
+
+
+Here's my situation: I'm in a band. We are lucky enough to be close enough to another band that we have all the equipment we need for shows. One thing we do not have, however, is a quality mic for recording at our makeshift studio at home. We need a mic that is good to record with but at the same time sufficient for use on the road. (Quality recording is priority) We are a small alternative band with only a local following, so money is the biggest issue.  I would like to stay under $200, or better yet $150. Any advice you can offer me would be much appreciated.
+
+
+Answer:
+
+	1) Regarding dynamic versus condensor, see:Microphone Techniques for Music - Studio Recording
+	
+	2) For recording, we recommend the PGA81 or SM137. If you are recording in stereo, use two of each model and mount them on the Shure A27M stereo mic holder.
+	
+	For ideas on how to record in stereo, see the above Studio Recording booklet.
+

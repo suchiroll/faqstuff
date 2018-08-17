@@ -1,0 +1,15 @@
+Title: R25XT output level
+Id: 3476
+Legacy Id: 3673
+
+Question:
+What is the output voltage of the R25XT cartridge?
+
+
+Answer:
+
+	The R25XT was based on the Shure M75EJ-Type 2.
+	
+	The output level spec for the M75EJ-Type 2 is 5.0 mV per channel / at 1,000 Hz / at 5 cm/second peak recorded velocity
+	
+

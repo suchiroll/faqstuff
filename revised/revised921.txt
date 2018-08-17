@@ -1,0 +1,16 @@
+Title: Wireless guitar system sounding like a wired guitar
+Id: 921
+Legacy Id: 949
+
+Question:
+I recently bought a Samson UHF One wireless and I hate it! The problem is that the signal coming from my guitar (PRS Swamp Ash w/ McCarty Electronics) overdrives the input of the wireless. If I turn the gain down I lose so much signal that I can't use it. My question is would I have the same problem with the LX series wireless as I am having now??? I am looking for a wireless that SOUNDS like I'm using a cable!
+
+
+Answer:
+
+	Although, we try to make the wireless sound like a cable, there are inherent flaws in every wireless system. For example, a wireless system will have a smaller dynamic range than a cable. Blame physics and the Federal Communications Commission as both dictate how audio signals can be transmitted.
+	
+	Adjusting the gain control on the transmitter will help achieve the best possible performance from your wireless system. The gain control setup is described in the User Guide.
+	
+	If you feel that the wireless system affects the guitar tone too much, stick with a cable as a high quality cable is a better signal path than any wireless system (Shure or non-Shure).
+

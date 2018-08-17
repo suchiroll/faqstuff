@@ -1,0 +1,13 @@
+Title: P6R bodypack freq sticker rubbed off -- how to tell freq
+Id: 3626
+Legacy Id: 3832
+
+Question:
+I have several P6R in-ear bodypacks I have HA HB and HC bodypacks but on some of them the sticker on the back has worn off so much that now I don't know which are the HA and which are the HB etc. Is there a way to figure this out so I'll know which ones to put with my setups?
+
+Answer:
+
+	1) Remove the two screws on the back in order to open up the case.
+	2) Open the battery compartment and pull off the top side of the case.  The bottom side of the case, the circuit boards and knobs will all stay intact.
+	
+	On the exposed circuit board will be a metal can about 1/2" in diameter. The "HA", "HB", etc will be hand written on the can with a sharpie, probably in red ink. 

@@ -1,0 +1,12 @@
+Title: Does the X2u require a software driver?
+Id: 3891
+Legacy Id: 4137
+
+Question:
+Do I need to download a driver for the Shure X2u?I have a PowerBook G4 with a PowerMac processor.
+
+
+Answer:
+
+	The X2u uses the drivers that are built into the operating system. No external driver is needed.
+

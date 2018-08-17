@@ -1,0 +1,14 @@
+Title: DFR11EQ with Windows 7
+Id: 3874
+Legacy Id: 4117
+
+Question:
+Will the DFR11EQ work with Windows 7?
+
+
+Answer:
+
+	We have not tested the DFR11EQ with Windows 7. Realize the DFR11EQ software was written for Windows 3.1. The DFR11EQ software might work, but you might also have problems.
+	
+	Some customers have reported success in using the DFR11EQ software on 32 bit Windows 7.
+

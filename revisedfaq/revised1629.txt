@@ -1,0 +1,19 @@
+Title: Problems connecting to P4800 using Win 2000
+Id: 1629
+Legacy Id: 1686
+
+Question:
+I have a P4800 with Windows 2000. Win I click on the LIVE button, it asks me what COM port I'm using, but then never connects. The software then goes back to DESIGN mode. When I click on the LIVE button again, it again asks me what COM port I'm using, but still never connects. How do I solve this?
+
+
+Answer:
+
+	Win 2000, like Windows NT, is a secured operating system and only authorized users with passwords can log on and use the computer. In addition, only users with administrative privileges can install programs like the P4800. The user privileges of the operating system have many levels, from word processing only, to backup and system admin levels.
+	
+	When the P4800 software is first installed in a computer, the first time a user attempts to go to Live Mode it asks to "Select a COM Port". After a COM port is selected, the software writes the info to the Registry of the Operating System and continues to open the COM port and connect. The "Select COM Port" dialogue box is never displayed again under normal circumstances.
+	
+	The fact that the "Select COM Port" dialogue was been displayed every time you attempted to go to live mode could mean that #1 the user logged onto the computer is not allowed to modify the registry, or #2 the user logged onto the computer does not have access to the COM ports. Option #1 is the more likely case.
+	
+	In the many levels of access privileges that Windows 2000 offers, one of the types of accounts forbids the user from changing the registry.
+	
+	The problem is solved by having a regular user (does not have to be an admin. can be a guest, a user, etc.) log into the computer, run P4800 software, and go to Live Mode. Once the COM info is saved in the registry, the user that could not connect earlier will be able to connect.

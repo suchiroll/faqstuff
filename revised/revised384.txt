@@ -1,0 +1,20 @@
+Title: "Unable to open COM port" error message
+Id: 384
+Legacy Id: 391
+
+Question:
+I am trying to connect a DFR11EQ to my computer, but I am getting an "Unable to open COM port" error message.
+
+
+Answer:
+
+	
+		Many laptops come with the com port disabled. Make certain your laptop has the com port enabled.
+
+
+	
+
+	
+		If you have the Palm Pilot hot sync software running on your computer, you must disable it. The hot sync software holds the com port open and will not allow other programs to use the com port.
+
+

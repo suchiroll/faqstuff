@@ -1,0 +1,33 @@
+Title: Firmware Update for ULX-D transmitters
+Id: 4542
+Legacy Id: 5665
+
+Question:
+I have 2 ULXD2 Beta 87c transmitters. One of them says data error update fw. I'm guessing fw is firmware. Since it is only one transmitter, not both, the problem is in the mic, not the ULXD4Q receiver. Please help.
+
+
+
+Answer:
+
+	You can update ULXD1 and ULXD2 transmitter firmwarein the field.
+	
+	First, make certain that the receiver firmware is the same as the transmitter firmware that is being hosted in the receiver so the proper version is being sent to the transmitter.
+
+	
+		The receiver firmware can be checked in by navigating to a Rx channel menu and going to Device Utilities = Version and looking at Ver.(This can be updated using the Shure Update Utility available for free online in our Software Products section.)
+	
+		The transmitter firmware version that is hosted in the receiver can be viewed just before sending it to the transmitter by going into a Rx channel menu and navigating to Device Utilities = TX FW Update
+	
+		If the receiver is not hosting the correct firmware or you wish to just bring both to the most recent version, this will also need to be done using the Shure Update Utility.
+	
+		If the current Rx firmware and the Tx firmware to be sent match, power on the transmitter and line up its IR window with the receiver IR window while still in the Tx Fw Update menu. The Receiver IR window should glow red.
+	
+		With the IR windows lined up and the receivers IR window glowing red, press enter to start the download. Please note that one must hold the Transmitter fairly still during this process or the update may time out prematurely. This will not damage the transmitter. If the process quits prematurely, just start again. A firmware download should take about 1 to 1.5 minutes.
+	
+		Once the Receiver window says Complete, the transmitter will start to install the new firmware. DO NOT POWER OFF THE TRANSMITTER DURING THIS PROCESS.
+	
+		Wait until the Transmitter completely reboots and then you can check to see if the transmitter firmware installed properly by either power cycling and watching the boot up screen or navigating on the transmitter to the Utilities = Version and looking at the Ver. It should now match the receiver.
+	
+		Note if you see an Asterisk (*) next to the firmware version number, this could indicate that a problem occurred during the installation or the firmware is corrupted. Try to download/install the software again. If that doesnt get rid of the asterisk, contact Shure Service at 1-800-516-2525 and follow the option for Repairs.
+
+

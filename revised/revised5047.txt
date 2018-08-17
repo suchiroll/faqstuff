@@ -1,0 +1,15 @@
+Title: MV88 and Facebook Live
+Id: 5047
+Legacy Id: 6340
+
+Question:
+I bought the MV88 to use with Facebook live. Do I need to use your app or change any settings so that facebook live knows to use your microphone instead of the built in mic?
+
+
+Answer:
+
+	Use the Shure Motiv app initially to set the mic level so it's appropriate for the source and recording environment.  Any changes to the MV88 settings are retained in the mic.
+	
+	When an app (that supports an external microphone) accesses the MV88, a green LED on the mic will light up.  A test is to use the phone's Camera app in the Video mode. 
+	
+	One may need to grant Facebook Live permission to use the external microphone in the phone's Privacy settings, similar to the Motiv app. Try to access Facebook Live through a wifi connection only.  Using cellular data can introduce artifacts such as clicking and popping.

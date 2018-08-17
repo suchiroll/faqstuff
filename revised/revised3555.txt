@@ -1,0 +1,11 @@
+Title: Shure MPA-3c Button Control for Blackberry Storm vs. iPhone
+Id: 3555
+Legacy Id: 3761
+
+Question:
+I noticed that when I double-click the button on my music phone adapter while connected to the blackberry storm, it does not advance to the next song, it only pauses. With my Apple iPhone it would advance track when pushed twice.
+
+
+Answer:
+
+	Button functionality is different for each phone and manufacturer. You are correct with the iPhone being able to advance track when pushed twice, however the Storm is most likely different when controlling other functions of the phone through the button. Please ensure your Blackberry  has the most recent firmware/software upgrade available as it may be a limitation of the phones firmware.I would suggest contacting Blackberry to see if there is a configurable setting in the phone to enable more use of the button. Unfortunately, every phone and manufacturer uses different command protocols for the button...having one headset with expanded functionality  (advance, pause, play music, mute) of the button across phone manufacturers is very difficult as they are all different.

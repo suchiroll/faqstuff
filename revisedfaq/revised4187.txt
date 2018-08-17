@@ -1,0 +1,13 @@
+Title: SM93 into an iPhone
+Id: 4187
+Legacy Id: 5140
+
+Question:
+Willthe SM93 lav mic interface to an iPhone 5 with a Tascam iXZ via XLR?
+
+
+Answer:
+
+	Yes, it should work.The SM93 must connect into the female XLR connector on the Tascam iXZ, and phantom power must be activated on the Tascam device.
+	
+

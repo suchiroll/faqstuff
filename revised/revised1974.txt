@@ -1,0 +1,16 @@
+Title: Model 559575 - RCA microphone
+Id: 1974
+Legacy Id: 2037
+
+Question:
+I have a push button, hand-held communications mic with an RCA label on the face. This was made by Shure, Model 559575, and looks exactly like the Shure Models 407/507. Can you tell me what type of element is in this mic and what the specs are on it? The element is stamped A668QE and is encased in a sealed yellow, translucent plastic housing with AS7 or A57 written on it. To me, the element looks to be a ceramic one because of its light weight and size, but I'm not sure. The coiled cord has a 6 pin, male connector. None of the Shure 407/507 models in my catalog are listed with a ceramic element. Instead they list as either a dynamic or controlled magnetic.
+
+
+Answer:
+
+	Your mic was made by Shure for RCA and made to RCA specifications. The mic was sold as part of an RCA product. Once RCA stopped buying this custom mic model, all technical records were sent from Shure to RCA as the mic was officially a product of RCA.
+	
+	We could find no Shure records for the model 559575. We would suggest you contact RCA, but as RCA name has been sold several times, your search might prove very difficult.
+	
+	Sorry we could not help, but this situation is common when a customer tries to research an OEM (original equipment manufacturer) microphone. All historical records are the property of the company that specified and purchased the custom microphone, in this case, RCA.
+

@@ -1,0 +1,20 @@
+Title: Using SCM268 for VHS video editing with JVC BR-7700U and BR-8600U VCRs.
+Id: 613
+Legacy Id: 626
+
+Question:
+I have an SCM268 Mixer. I'd like to use it to mix each audio channel played back on a JVC BR 7700U VCR with music from a CD deck (TASCAM 103) and voice-overs from  an Electro Voice 635A Mic.  The final output would then be recorded on a JVC BR-8600U VCR.  The edit controller will be either a JVC RM-86U or a JVC RM-810U.  I'm planning to connect the playback VCR audio out  channels and the audio cassette deck audio out to auxiliary level inputs 1, 2 and 3 of the mixer using Radio Shack 42-2367 6-foot shielded audio cable (phono plug to phone plug).   I'd connect the Mic to Mic-level input 4 via and XLR cable.  Then I'd connect "aux out"  to the audio inputs of the JVC BR-8600U using the same Radio Shack cable with phono plug. Would this work without damaging the mixer or other equipment?  Should the mic/line output switch be set to "Mic" or "Line"?  Would I be able to substitute a CD deck or SONY MZ-R70 MiniDisc Recorder for the audiocassette deck?
+
+Answer:
+
+	Here are the answers to your questions:
+	
+	Would this work without damaging the mixer or other equipment?
+	* No damage should result.
+	
+	Should the mic/line output switch be set to Mic or Line?
+	* This switch does not affect the aux out level.
+	
+	Would I be able to substitute a CD deck or SONY MZ-R70 MiniDisc Recorder for the audiocassette deck?
+	* We see no problem.
+

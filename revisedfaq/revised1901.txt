@@ -1,0 +1,23 @@
+Title: "MARCAD" diversity receivers - definition
+Id: 1901
+Legacy Id: 1962
+
+Question:
+Where does the term "MARCAD" come from? Is it an acronym?
+What is the difference from the traditional design of antenna diversity systems built for the last fifty years?
+Is it covered by a patent(s), and, if so, what is the patent number?
+
+
+
+Answer:
+
+	
+	MAximum Ratio Combining Audio Diversity
+	
+	MARCAD does not switch between antennas. It is a dynamic vector addition of both antenna signals. MARCAD requires two separate RF sections.
+	
+	It is a registered trademark #1755082, dated March 2, 1993.
+
+
+	For an explanation of diversity methods, click here.
+

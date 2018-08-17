@@ -1,0 +1,37 @@
+Title: Audio for Videography
+Id: 1784
+Legacy Id: 1844
+
+Question:
+I am entering the field of videography on a fairly serious scale. I have been acquiring equipment to videotape interviews, choral productions, and handbell presentations. Here is my equipment thus far:
+
+
+1. JVC GY-X2B broadcast SVHS camcorder
+
+
+2. Bogen tripod system.
+
+
+3. Sound?????
+
+
+So you can see, the missing link is a good sound recording setup. The onboard microphone on my camcorder is adequate, but is not good enough for quality sound recording of live interviews, in my humble opinion. I had planned to use microphones mounted on booms/stands for the interviews, not lavaliers. My clients have made it clear that that don't want to be "wearing" microphones. So I am also considering high quality microphones placed on a table, etc. in front of the clients. I do have an excellent table microphone I may use for a while, but I eventually want to use two or three mics and be able to balance them properly to record the interviews, as well as use them to record STEREO for music and feed that to my camcorder.
+
+
+I am wide open to ideas on what to use for my audio recording/mixing. I WILL be transporting my gear around, so it has to be fairly compact. My power source will be AC as all of my recordings will be indoors.
+
+
+Any assistance will be most appreciated.
+
+
+Thank you.
+
+
+Answer:
+
+	At 09/27/2001 09:16 AM we wrote - 1) Read the Shure documents on miking techniques: http://www.shure.com/booklets/techpubs.html
+	
+	2) Purchase a professional audio mixer for field production: M367; FP33; FP410; are examples. http://www.shure.com/ProAudio/Products/MixersAndDSP/index.htm
+	
+	3) Use the VP88 stereo mic for music recording: http://www.shure.com/ProAudio/Products/WiredMicrophones/us_pro_VP88_content
+

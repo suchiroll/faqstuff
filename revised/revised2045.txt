@@ -1,0 +1,11 @@
+Title: Need info on Vocal Master PA
+Id: 2045
+Legacy Id: 2110
+
+Question:
+I need info on a vinatge Shure Vocal Master PA 6-channel w/rev. All I can get as I am considering purchasing it soon. Owner also states that it is an all tube unit.
+
+
+Answer:
+
+	The Vocal Master units were NOT tube. They were the early transistorized units. The VA300 unit had 1/4" phone plug inputs and was for high impedance microphones. The VA302 unit had XLR connector inputs and was for low impedance microphones.You can download the operation/service manuals off the Shure web site at:http://pubs.shure.com/guide/VA300-S/en-US(Be advised that Shure no longer repairs or has parts for these units.)

@@ -1,0 +1,29 @@
+Title: 545SD mic- cable high impedance or Hi-Z
+Id: 3939
+Legacy Id: 4188
+
+Question:
+I have ordered a new Shure UNIDYNE III 545SD Dual Impedance Unidirectional Microphone from Guitar Center online. To describe my situation, this mic allows you to
+switch from low-Z to high-Z via an internal jumper. I plan to do this, and plug the mic into my guitar amplifier for harmonica amplification via a female xlr-to-male 1/4" cable. This is a popular setup for this mic with harp players, with regards to sound quality.
+
+Now to my question; what is the effective pin-out of this mics XLR connection when the jumper is set to high-Z? I am confused by the manual. I need to know which pin carries the signal and which is ground, after I have set the jumper to high-Z. I would also appreciate if you could shed some light on what is done with the 3rd "unused" pin (ground it or just cut-off
+and insulate?) as I suspect this may need to be a custom cable.
+
+
+Answer:
+
+	Before you do this modification, how about this idea: Leave the 545SD for low impedance.This allows the mic to be used with XLR inputs, and allows the mic cable to be up to 1000 ft.When you want to connect the 545SD into a guitar amp, simply add the Shure A85F or A95UF to the end of the XLR cable,Best of both worlds..
+
+	
+
+	To answer your question: For unbalanced, high impedance:
+	
+	XLR pin 2 to phone plug tip (signal send)
+	
+	XLR pin 3 to phone plug sleeve (signal return)
+	
+	XLR pin 1 to phone plug sleeve.
+	
+	Use the Shure cable C15AHZ or C20AHZ.
+	
+

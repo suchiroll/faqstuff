@@ -1,0 +1,16 @@
+Title: Using the headphone jack of a mixer for connecting the P4HW
+Id: 1191
+Legacy Id: 1235
+
+Question:
+If using the headphone jack of a mixer for my source to my P4HW, how would the cable need to be wired? Going from a TRS 1/4" male to the left  right XLR of the belt pack.
+
+
+Answer:
+
+	1/4 Tip -- Left XLR Pin 2
+	1/4 Ring -- Right XLR Pin 2
+	1/4 Sleeve -- Left XLR Pin 1  3and Right XLR Pin 1  3
+	
+	Adapter cables can be purchased from Markertek.
+

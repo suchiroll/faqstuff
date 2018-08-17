@@ -1,0 +1,11 @@
+Title: MX391BP Microphone with the X2u Computer Interface
+Id: 3764
+Legacy Id: 4000
+
+Question:
+I am using an MX391BP boundary microphone with an X2u USB audio interface to record round-table discussions on my computer. The sound level from the microphone is very low, and the recordings are not usable. Is there a solution to increase the sound level?
+
+
+Answer:
+
+	The MX391BP boundary microphone is comprised of two components: the MX391 microphone, and the MX1BP preamplifier module.  The MX1BP preamplifier module provides the supporting electronics for the microphone to interface into a standard balanced low impedance microphone input.  The MX1BP also provides two methods for powering the microphone: 9 Volt battery or phantom power from the sound equipment microphone input.The audio output level of the MX1BP preamplifier is similar to a wired dynamic microphone, which is a good match for many situations.  However, when enhanced gain is required for general sound pick-up, such as a conferencing situation, we recommend using the RK100PK preamplifier.  The RK100PK provides at least 12 dB of additional gain.  The RK100PK requires phantom power for operation, which is available from the X2u USB computer interface.  The RK100PK housing is cylindrical in shape, approximately ¾" in diameter, and 4" long.  One end accepts the TA4F connector from the microphone.  The other end provides a standard 3-pin XLR(M) audio output to connect to the X2u or another audio device.The RK100PK preamplifier can be ordered from any Shure dealer or supplier.  It is also available from the Shure Parts Department.

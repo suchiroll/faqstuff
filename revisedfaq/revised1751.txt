@@ -1,0 +1,11 @@
+Title: Conference Recording
+Id: 1751
+Legacy Id: 1810
+
+Question:
+I need to mike a board meeting with 32 members sitting at 6 tables in the same room (for recording purposes only). I am guessing that one mike on each table would probably do it, however I am not sure what type of mike I need to use. Help me out a little.
+
+
+Answer:
+
+	First, read the following: Audio Systems for Meeting FacilitiesThen, for microphones, we would recommend the MX393/O. For a cleaner sound, we recommend running the microphones into an automatic mixer such as the SCM810 (with the RKC800 XLR panel). One mic per table should be fine.

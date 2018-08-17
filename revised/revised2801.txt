@@ -1,0 +1,14 @@
+Title: Stabilizing a rotating choir microphone
+Id: 2801
+Legacy Id: 2911
+
+Question:
+I have three older hanging choir mics that after years still tend to wander in their horizontal angle due to the rotation of the mic cable. Do you have a suggestion on how to minimize that rotation and keep them aimed in a stable direction?
+
+
+Answer:
+
+	The solution used by symphony orchestras is to use a guy wire of clear monofiliment fishing line. If the mic tends to drift to the east, add a guy wire that connects to the mic from the west.
+	
+	Symphony orchestras always use guy wires as the mic will drift due to cable rotation, and due to HVAC air currents.
+

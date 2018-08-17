@@ -1,0 +1,13 @@
+Title: SCM268 to Panasonic AG-456 Video Camera
+Id: 1619
+Legacy Id: 1676
+
+Question:
+I am trying to connect a Shure SCM268 to a Panasonic AG-456 video camera. I am using the XLR output at line level on the mixer to a stereo mini plug on the video camera. I am getting a buzz and picking up a ticking from the motor in the video camera when it is recording. What is the best way to connect the mixer to the video camera? Are they compatible?
+
+
+Answer:
+
+	Try a cable wired as follows: Connecting the M367 to my stereo camcorder
+	
+	Also consider an XLR adapter box from Beachtek or JuicedLink

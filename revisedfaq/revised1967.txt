@@ -1,0 +1,29 @@
+Title: Cartridge for Grace 707 MkIII arm
+Id: 1967
+Legacy Id: 2030
+
+Question:
+Currently has 20 yr old Grace F9-L cartridge but stylus canteliever damaged. Considering M97 or M94. How different are these three? My arm is low-mass so I want high compliance. Are all 3 same compliance?
+
+
+P.S. Do cartridges get stiffer with old age. At what age would you retire the entire cartridge rather than replacing the stylus assy?
+
+
+Answer:
+
+	How different are these three?
+
+	* For your situation, the M97xE is the best choice. The M94E does not have the dynamic stablizer, which is a great feature.
+	
+	Are all 3 same compliance?
+
+	* All three are very similar.
+	
+	Do cartridges get stiffer with old age?
+
+	* The stylus can get stiff due to atmospheric ozone attacking the rubber bushing that supports the stylus.
+	
+	At what age would you retire the entire cartridge rather than replacing the stylus assy?
+
+	* The cartridge body does not age. Replacing the stylus assembly provides like-new performance.
+

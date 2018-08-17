@@ -1,0 +1,13 @@
+Title: Wiring diagram for Shure 444
+Id: 762
+Legacy Id: 783
+
+Question:
+I am the proud owner of a Shure 444 microphone.  I have had it for years.  Can you please help me get a wiring diagram for the microphone?  I lost mine in one of my moves.
+
+Answer:
+
+	Check the user guide section of the Shure web site. Here is the link:
+
+	http://www.shure.com/americas/support/user-guides/discontinued-products
+

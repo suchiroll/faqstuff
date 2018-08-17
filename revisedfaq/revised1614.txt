@@ -1,0 +1,19 @@
+Title: Sending audio between multiple P4800's
+Id: 1614
+Legacy Id: 1671
+
+Question:
+I am designing a system where I have 9 inputs and 8 outputs. I need to know how I am going to reference the outputs from the 1st unit from inputs on the 2nd and 3rd units. I need to provide for some expansion of the system.
+
+
+How can I see, in the software, the outputs from the first unit to make the matrix connections, while in the scene for the 2nd and 3rd units?
+
+
+Do I have to just plan the connection layout to accomodate matching the appropriate inputs to outputs?
+
+
+Answer:
+
+	The P4800 does not support audio networking between units. You cannot route the inputs from one P4800 to the outputs of another P4800. The link cables only carry control information. They do not carry any audio signals. The only audio in/out's are the analog removable screw terminals.
+	
+	If you needed the same audio into multiple P4800's, you would need to split the analog signal before it goes into any of the P4800's.

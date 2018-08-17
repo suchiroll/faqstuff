@@ -1,0 +1,12 @@
+Title: Significant difference between XLR and 1/4" outputs?
+Id: 1455
+Legacy Id: 1508
+
+Question:
+If the cable is only going to be about 2 - 3 feet long between the LX receiver and the mixer, is there any SIGNIFICANT difference in signal loss between using the XLR output low impedance, balanced signal sent on a cable that uses XLR connectors versus using the 1/4" output unbalanced, high impedance signal using 1/4" connectors?
+
+
+Answer:
+
+	For a short run of several feet, there will not be a difference in signal loss. The unbalanced 1/4 cable will still be more susceptible to electrical interference.
+

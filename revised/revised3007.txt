@@ -1,0 +1,22 @@
+Title: Shure WL183 Mic to Lectrosonics UM195 Transmitter
+Id: 3007
+Legacy Id: 3136
+
+Question:
+How to I wire a Shure WL183 Mic to a Lectrosonics UM195 Transmitter?
+
+
+Answer:
+
+	Per Lectrosonics, connect the WL183 to the UM195 as follows:
+	
+	pin 1: ground (shield)
+	pin 2: dc bias (red wire)
+	pin 3: audio input - mic level (black wire)
+	pin 4: connect to pin 1
+	pin 5: no connection
+	330 pF capacitor from pin 1 to pin 2
+	330 pF capacitor from pin 3 to pin 4
+	
+	NOTE: Shure has not tested this wiring scheme.
+

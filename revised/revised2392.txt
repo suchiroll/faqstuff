@@ -1,0 +1,13 @@
+Title: Wireless SMPTE Code Transmission
+Id: 2392
+Legacy Id: 2484
+
+Question:
+In addition to my fulltime consulting gig, I am also a licensed pyrotechnics operator here in TX. We have a show control firing system that syncs the fire control module with the source music via SIMPTE time code. For obvious reasons, the fire control location is not at Front of House. There lies the issue. We would like to create a wireless link for SIMPTE from Front of House to the fire control location. The wireless distance will never exceed 1500 feet. Any suggestions are greatly appreciated.
+
+
+Answer:
+
+	1) Read this: Point to point wireless with Shure wireless microphone systems
+	2) Also consider a portable Marti system: http://www.martielectronics.com/front.html
+

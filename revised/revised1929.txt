@@ -1,0 +1,15 @@
+Title: SM2 Equipment End Connector
+Id: 1929
+Legacy Id: 1991
+
+Question:
+I have bought an SM2 microphone. The end of the cable has five conductors. I have a 3-pin male XLR connector. I guess I can not use this connector. What connector do I need to connect with the SM2's cable?
+
+
+Answer:
+
+	Typically, a 3 pin male XLR connector is used for the mic output of the SM2. A stereo male 1/4" phone plug is typically used for the headphone input to the SM2 ear pieces.
+	
+	Another option is a six pin XLR connector. Pins 1, 2, 3 carry the mic signal; pins 4, 5, 6 carry the headphone signal.
+	
+	The SM2 is supplied with a bare-ended cable because it is used with a variety of devices. The user adds the appropriated connectors to the SM2.

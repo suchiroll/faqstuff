@@ -1,0 +1,15 @@
+Title: How is an XLR jack wired?
+Id: 632
+Legacy Id: 649
+
+Question:
+What is the pinout of an XLR connector?
+
+Answer:
+
+	The AES standard for XLR wiring is as follows:
+	
+	Pin 1: Ground/Shield
+	Pin 2: Audio Positive
+	Pin 3: Audio Negative
+

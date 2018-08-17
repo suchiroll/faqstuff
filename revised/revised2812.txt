@@ -1,0 +1,14 @@
+Title: Windscreen for a boundary mic
+Id: 2812
+Legacy Id: 2922
+
+Question:
+Do you have any type of windscreen system for boundary microphones such as the Shure MX300? The application is for a boundary microphone used outdoors near a golf tee.
+
+
+Answer:
+
+	Unfortunately, we do not have a windscreen suitable for boundary mics in our current product range. However, Rycote offers a product that may work. It is a zeppelin windscreen endcap with an internal diameter of approx 5; an associated detachable ring could be used to fix the windscreen to a surface.
+	
+	http://www.rycote.com
+

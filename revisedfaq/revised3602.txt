@@ -1,0 +1,35 @@
+Title: Configuring Cubase LE with Shure USB Microphones
+Id: 3602
+Legacy Id: 3808
+
+Question:
+How do I configure Cubase LE to work with the PG42USB, PG27USB, or X2u?
+
+
+Answer:
+
+	
+		Plug the device into a USB port
+	
+		Open Cubase LE
+	
+		Open an existing project that uses audio
+	
+		Go to Device in the top menu
+	
+		Go to Device Setup
+	
+		Go to VST
+	
+		Click on control panel
+	
+		In control panel, you should see Shure Digital in the Direct Sound Input and the Direct Sound Output area
+	
+		Click on Shure Digital and Click Move Up on the right side
+	
+		Click OK to confirm move
+	
+		Click OK at the bottom of the control panel to exit the control panel
+	
+		You should be able to use your Shure Digital device now.
+

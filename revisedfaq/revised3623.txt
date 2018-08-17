@@ -1,0 +1,595 @@
+Title: OEM Models: DY, CA, CB, CM, CR, GR Microphones
+Id: 3623
+Legacy Id: 3829
+
+Question:
+Why did Shure make DY, CA, CB, CM, CR, and GR models of standard Shure microphones?
+
+Answer:
+
+	A DY model (and other such models) were sold to another manufacturer that packaged the Shure microphone with its product, such as a tape recorder, a two-way radio, or a public address system. This type of manufacturer was referred to as an OEM: Original Equipment Manufacturer.
+	
+	DY = dynamic mic element
+	CB = carbon mic element
+	CA = ceramic mic element
+	CM = controlled magnetic mic element
+	CR = controlled reluctance mic element
+	GR = gradient ribbon mic element
+	
+	The OEM microphones listed below had equivalent standard Shure microphones; the only difference was the model number.  OEM archival documents are not kept by Shure; these documents are kept by the company that purchased the OEM model.
+	* Note: This list is not complete. Sadly, there is no complete list of every OEM model Shure has produced since 1925.
+	
+		
+			
+				Shure Part Number
+			
+				OEM Part Number
+		
+		
+			
+				51S
+			
+				DY30S
+		
+		
+			
+				55, 555, 556
+			
+				DY11, DY21, MC32
+		
+		
+			
+				55S
+			
+				DY12, DY12R, DY14A
+		
+		
+			
+				55SW
+			
+				DY12S
+		
+		
+			
+				104
+			
+				CB3C, CB12D
+		
+		
+			
+				201
+			
+				CA1
+		
+		
+			
+				202
+			
+				
+					CA22
+			
+		
+		
+			
+				245S
+			
+				CA45S
+		
+		
+			
+				300
+			
+				GR30
+		
+		
+			
+				330
+			
+				GR34
+		
+		
+			
+				401A
+			
+				CM1A
+		
+		
+			
+				401B
+			
+				CM1B, CR4W
+		
+		
+			
+				404B
+			
+				CM44B
+		
+		
+			
+				404C
+			
+				CM44C
+		
+		
+			
+				405K
+			
+				CM4K
+		
+		
+			
+				407A
+			
+				CM47A
+		
+		
+			
+				407B
+			
+				CM47B
+		
+		
+			
+				414A
+			
+				CM414A
+		
+		
+			
+				414B
+			
+				CM414B
+		
+		
+			
+				419A
+			
+				CM419A
+		
+		
+			
+				419B
+			
+				CM419B
+		
+		
+			
+				444
+			
+				CR44
+		
+		
+			
+				450
+			
+				CR51
+		
+		
+			
+				488T
+			
+				CM88TF
+		
+		
+			
+				507B
+			
+				DY57B
+		
+		
+			
+				514B
+			
+				DY14B
+		
+		
+			
+				515BG
+			
+				DY15BG
+		
+		
+			
+				515SA
+			
+				DY15SA
+		
+		
+			
+				515SAC
+			
+				DY15SAC
+		
+		
+			
+				515SB
+			
+				DY15SB
+		
+		
+			
+				515SBG
+			
+				DY15SBG
+		
+		
+			
+				515SB-G18
+			
+				DY15-G18
+		
+		
+			
+				520SL
+			
+				CR20SLJ
+		
+		
+			
+				522
+			
+				DY522
+		
+		
+			
+				524C
+			
+				DY524C
+		
+		
+			
+				526T
+			
+				DY526T
+		
+		
+			
+				533SA
+			
+				DY33SA
+		
+		
+			
+				533SAC
+			
+				DY33SAC
+		
+		
+			
+				533SB
+			
+				DY33SB
+		
+		
+			
+				540
+			
+				DY40
+		
+		
+			
+				540S
+			
+				DY40S
+		
+		
+			
+				544
+			
+				DY44
+		
+		
+			
+				544-G12
+			
+				DY44-G12
+		
+		
+			
+				544-G18
+			
+				DY44-G18
+		
+		
+			
+				545
+			
+				DY45
+		
+		
+			
+				545D
+			
+				DY545D
+		
+		
+			
+				545L
+			
+				DY45R
+		
+		
+			
+				545S
+			
+				DY45S
+		
+		
+			
+				545SC
+			
+				DY45SC
+		
+		
+			
+				545SD
+			
+				DY45SD
+		
+		
+			
+				545SD-CN
+			
+				DY45SD-CN
+		
+		
+			
+				546
+			
+				DY46
+		
+		
+			
+				548
+			
+				DY48
+		
+		
+			
+				548S
+			
+				DY48S
+		
+		
+			
+				548SD
+			
+				DY48SD
+		
+		
+			
+				548SD-CN
+			
+				DY48SD-CN
+		
+		
+			
+				556S
+			
+				DY22
+		
+		
+			
+				560
+			
+				DY60
+		
+		
+			
+				560C
+			
+				DY60C
+		
+		
+			
+				561
+			
+				DY61
+		
+		
+			
+				562
+			
+				DY62
+		
+		
+			
+				565
+			
+				DY65
+		
+		
+			
+				565D
+			
+				DY65D
+		
+		
+			
+				565S
+			
+				DY65S
+		
+		
+			
+				565SC
+			
+				DY65SC
+		
+		
+			
+				565SD
+			
+				DY65SD
+		
+		
+			
+				565SD-CN
+			
+				DY65SD-CN
+		
+		
+			
+				566
+			
+				DY66
+		
+		
+			
+				570
+			
+				DY71
+		
+		
+			
+				570S
+			
+				DY71S
+		
+		
+			
+				571
+			
+				DY72
+		
+		
+			
+				572G
+			
+				DY72G
+		
+		
+			
+				575S
+			
+				DY75S
+		
+		
+			
+				575SB
+			
+				DY75SB
+		
+		
+			
+				576
+			
+				DY76
+		
+		
+			
+				577A
+			
+				DY77A
+		
+		
+			
+				577B
+			
+				DY77B
+		
+		
+			
+				577C
+			
+				DY77C
+		
+		
+			
+				578
+			
+				DY78
+		
+		
+			
+				579SB
+			
+				DY79SB
+		
+		
+			
+				580SA
+			
+				DY80SA
+		
+		
+			
+				580SB
+			
+				DY80SB
+		
+		
+			
+				585SA
+			
+				DY85SA
+		
+		
+			
+				585SAC
+			
+				DY85SAC
+		
+		
+			
+				585SAV
+			
+				DY85SAV
+		
+		
+			
+				585SAVC
+			
+				DY85SAVC
+		
+		
+			
+				585SB
+			
+				DY85SB
+		
+		
+			
+				585SBV
+			
+				DY85SBV
+		
+		
+			
+				588SA
+			
+				DY58SA
+		
+		
+			
+				588SAC
+			
+				DY58SAC
+		
+		
+			
+				588SB
+			
+				DY58SB
+		
+		
+			
+				588SB-CN
+			
+				DY58SB-CN
+		
+		
+			
+				589S
+			
+				DY589S
+		
+		
+			
+				ES51
+			
+				DY51
+		
+	
+

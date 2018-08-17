@@ -1,0 +1,13 @@
+Title: SM58 serial number
+Id: 56
+Legacy Id: 56
+
+Question:
+Is there a "secret spot" on the SM58 where the serial number is placed?
+
+
+Answer:
+
+	There is no serial number on the SM58 microphone nor on most Shure microphones. There is a serial number on the outside of the box that the SM58 comes in.
+	
+	There is a "date code" of two letter combinations inside the microphone. If you carefully unscrew the handle in the middle, there is a small circuit board with wires going to the connector. There are two letters stamped on the circuit board. The "date code" indicates the month and year of manufacture. However, the dates coding used have changed multiple times over the decades, so unless the general age of the mic is known, the date code is of little value.

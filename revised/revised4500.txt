@@ -1,0 +1,12 @@
+Title: Custom RF coax cables
+Id: 4500
+Legacy Id: 5614
+
+Question:
+Is there a source for RF coaxial antenna cables that are fabricated to custom lengths and supplied with connectors?
+
+
+Answer:
+
+	http://fieldcomponents.com/coaxial_cable_assemblies.html
+

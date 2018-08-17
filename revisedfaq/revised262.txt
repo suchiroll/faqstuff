@@ -1,0 +1,19 @@
+Title: M67 mixer questions
+Id: 262
+Legacy Id: 268
+
+Question:
+We have a few M67 (discontinued) mixers and we don't understand what exactly some of the switches do.
+Will you please explain to us in detail what the BRIDGE/TERMINATE switch does? We have looked at the technical data sheet and it doesn't provide enough information to make it clear.  Also, we're not sure what the lo-cut filter switch does.  Will you please explain that and tell us also under what circumstances we would use the tone oscillator switch.
+
+Answer:
+
+	1. BRIDGE/TERMINATE: It affects only input #4 and only if the switch to the left is set to LINE. If a 600 ohm phone line is connected to input #4, set the switch to TERMINATE. For all other line level signals, set the switch to BRIDGE. To learn more about bridged and terminated circuits, consult the book "Audio System Design and Installation" by Phillip Giddings; ISBN 0-672-22672-3.
+	
+	2. LO-CUT switch: When set to IN, bass frequencies will be attenuated. This switch CUTS low frequencies.
+	
+	3. TONE OSCILLATOR: Employed to send a signal of constant amplitude to the audio device following the M67. This tone is used to set the input level of the device fed by the M67 output.
+	
+	Assuming you are new to professional audio, we suggest you read a Shure booklet located at: Audio Systems Guide for Video Production
+	
+	It will answer many of your questions.

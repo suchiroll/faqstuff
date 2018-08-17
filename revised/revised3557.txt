@@ -1,0 +1,194 @@
+Title: PGX vs. SLX
+Id: 3557
+Legacy Id: 3763
+
+Question:
+Why should I upgrade from PGX wireless to SLX wireless?
+
+
+Answer:
+
+	
+		
+			
+				
+					PGX
+			
+			
+				
+			
+				
+					SLX
+			
+		
+		
+			
+				
+			
+				
+					Low Battery Indicator
+					LED on transmitter changes from green to red to indicate low battery.
+			
+			
+				
+			
+				
+			
+				
+					Battery Meter
+					Three segment battery meter shows battery life on transmitter and relays that information to the receiver.
+			
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				
+			
+				
+					90 Frequencies
+					that tune over 3 TV channels (18MHz) allow for 9 systems total per frequency band.
+			
+			
+				
+			
+				
+			
+				
+					960 Frequencies
+					that tune over 4 TV channels (24MHz) allow for more compatible systems (up to 12 per frequency band).
+			
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				
+			
+				
+					Fixed Antennas
+					The PGX4 Receiver has fixed  wave antennas.
+			
+			
+				
+			
+				
+			
+				
+					Removable Antennas
+					The SLX4 receiver has removable antennas which allow for remote mounting the antennas and antenna combining which improve RF performance.
+			
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				
+			
+				
+					MultiFunction LED
+					The single LED on the transmitter indicates low battery and microphone mute.
+			
+			
+				
+			
+				
+			
+				
+					Transmitter LCD Screen
+					SLX transmitters have an LCD Screen to show battery life, group and channel, lock settings and frequency selection.
+			
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				
+			
+				
+					Hard Carrying Case
+					PGX Wireless ships with a hard plastic carrying case.
+			
+			
+				
+			
+				
+			
+				
+					Rack Mounting Included
+					SLX Wireless ships with all the rack mounting hardware needed for installs or life on the road in a rack.
+			
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+		
+		
+			
+				
+			
+				
+					Mic Options
+					PGX handheld systems are offered with microphone options like the legendary SM58, supercardioid BETA 58A, or condenser SM86.
+			
+			
+				
+			
+				
+			
+				
+					Mic Options
+					SLX systems are offered with more microphone options like BETA 87A and BETA 87C condenser capsules or WL183 and WL184 lavalieres.
+			
+		
+	
+
+

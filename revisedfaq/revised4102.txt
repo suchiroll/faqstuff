@@ -1,0 +1,28 @@
+Title: Shure Earphones and the newest must-have Smartphone
+Id: 4102
+Legacy Id: 4738
+
+Question:
+Will Shure earphones model "X" work with my new smartphone model "Y?"
+
+
+Answer:
+
+	Shure is frequently asked if our headphones, earphones, and earphone accessories will work with the newest model of smartphone.A reliable answer to this question can be obtained in two ways:
+	
+	1)Purchase each new smartphone.Set up a cell service for it.Do comprehensive scientific tests to determine frequency response, distortion, sound pressure levels in the ear canal, microphone functionality, control functionality, et al.Repeat for every smartphone on the market, and for every new model that is released.Then, repeat all tests whenever the firmware is updated for a model of smartphone.
+	
+	OR
+	
+	2)Obtain the audio input/output specifications from the smartphone manufacturer, in addition to the control functions offered by the smartphone firmware.These specifications would then be matched to the Shure specifications to obtain an accurate prediction of how well the smartphone and the Shure earphones will interact.
+	
+	An analogy:A tire manufacturer does not purchase every new car model and comprehensively test each new model with every tire that fits.A tire manufacturer relies upon the specifications provided by the car manufacturer to determine the viability of a specific tire.
+	
+	Option 1 above is not feasible for many reasons, primarily expense and manpower.
+	
+	Option 2 should be relatively simple, except that the smartphone manufacturers will typically not release the required specifications, or do not have the specifications to release.
+	
+	Shure could determine the viability of an earphone model to a smartphone if the phone manufacturer would provide the necessary specifications.But they rarely do.Without knowing the exact specifications of a smartphones audio input/output and its firmware, Shure cannot offer a reliable answer about compatibility between an earphone model and a smartphone model.The same concept applies to mp3 players, tablet computers, and other devices that need earphones.
+	
+	Shure assists our customers by providing the pertinent earphone specifications, assuming that the smartphone manufacturer will then offer useful comments on compatibility by comparing the Shure supplied specifications to the confidential specifications of their smartphone.If a customer already owns a set of Shure earphones, we recommend trying the earphones with the new smartphone before the purchase. This is the definitive way to determine compatibility.
+

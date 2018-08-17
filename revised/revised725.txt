@@ -1,0 +1,15 @@
+Title: 55SH II feedback issues
+Id: 725
+Legacy Id: 744
+
+Question:
+The 55SH Series II microphone seems to be more prone to feedback than a lot other mics I have dealt with in the past. Why does this occur? How can I deal with this problem?
+
+
+Answer:
+
+	The rear rejection of the 55SH does not have as much rear rejection as most other microphones. The rear rejection of the 55SH is about 10-15 dB at most frequencies. In comparison, the SM57 and SM58 have a rear rejection of about 20 dB at most frequencies. Since this is due to the design of the microphone cartridge used in the 55SH, there is nothing that can be done to the microphone to help this issue. The things that can be done is to get the microphone closer to the performers mouth and farther away from any loudspeakers.
+	
+	
+Feedback: Fact and Fiction
+

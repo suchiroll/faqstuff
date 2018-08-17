@@ -1,0 +1,15 @@
+Title: Model 522 - Cable Details
+Id: 3048
+Legacy Id: 3179
+
+Question:
+What is the diameter of the cable attached to the Model 522 Microphone? What about the inner conductors?
+
+
+Answer:
+
+	What is the diameter of the cable attached to the Model 522 Microphone?
+	* 0.28 inch (+/- 0.010 tolerance) The cable has a strain relief.
+
+	Four inner conductors: two shielded, two unshielded. Each has a gauge of AWG 20.
+

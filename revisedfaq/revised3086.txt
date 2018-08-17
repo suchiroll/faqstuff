@@ -1,0 +1,15 @@
+Title: Problem with P-popping
+Id: 3086
+Legacy Id: 3218
+
+Question:
+I currently use an SM57 awesome mic but I get a really strong popping sound on words with "P." The sound quality I get with the SM57 is plenty good for my PA system except for the popping. I don't like foam pop filter covers as they really reduce crispness. The info on your site was great but didn't focus enough on anti-popping. Can you tell me about the anti-popping design on your other live mics? I have phantom power available, but, of course, I would love to buy the least expensive model that would serve my needs.
+
+Answer:
+
+	Here is a simple, no-cost way to eliminate popping. Place the mic at the corner of your mouth and not in the middle of your mouth right under your nose.
+
+	Popping cannot be solved electronically. Phantom power has no effect on popping.
+
+	Popping is lessened by re-positioning the mic or by using a foam pop screen. As you do not wish to use a foam pop screen, the remaining option is to reposition the mic.
+

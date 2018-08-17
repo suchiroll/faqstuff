@@ -1,0 +1,15 @@
+Title: Using UA888 with new UB frequency band
+Id: 348
+Legacy Id: 355
+
+Question:
+I heard a rumor that the UA888 does not work with the new "UB" series U4D receivers. Any truth to this rumor? Also, would this be a problem with the UA840 as well? Thanks.
+
+Answer:
+
+	The rumor is incorrect. The UA888 will work with both the UA  UB frequency set, as well as all of our other frequency sets. You will need the latest version of the software, though. The software can be downloaded for free from the Shure web site at:
+	
+	http://www.shure.com/ProAudio/Downloads/SoftwareDownloads/index.htm
+	
+	The UA840 has been replaced by the UA845. The UA840 and UA845 have always been available in different frequency ranges for our international versions. These units should be matched up with the particular receivers that you are using. So, if you have U4-UA receivers, then you should use a UA845-UA. If you have U4-UB receivers, then you should use a UA845-UB. Do not mix and match these and do not combine these together. The different frequency sets need to run as separate, independent systems when antenna distribution is concerned.
+

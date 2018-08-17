@@ -1,0 +1,31 @@
+Title: MX392, MX412D DIP switch detailed drawing
+Id: 3489
+Legacy Id: 3688
+
+Question:
+Is a more detailed diagram available that shows the settings for the Option DIP Switches in the MX392 and MX412D microphones?
+
+
+
+Answer:
+
+	Factory Default Settings
+
+	
+		All DIP switches off
+	
+		Push-to-mute, momentary
+	
+		Muting performed in microphone
+
+
+	
+
+	
+
+	The dip switches may have a transluscent orange plastic film covering them. Peel off the orange film to flip the dip switches.
+
+	
+
+	** To check the microphone operation after changing the DIP switch setting, make certain to re-fasten the microphone bottom platein order tore-establish the mic circuit ground connection.
+

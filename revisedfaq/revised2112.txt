@@ -1,0 +1,12 @@
+Title: Replacement for WL83A
+Id: 2112
+Legacy Id: 2181
+
+Question:
+Our supplier informed us that you no longer produce the WL83A product. We were wondering if there is a comparable product we can purchase.
+
+
+Answer:
+
+	A direct substitute is the WL183 microphone. It is supplied with a four pin connector on the cable just like the WL83A.
+

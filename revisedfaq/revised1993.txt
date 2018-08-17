@@ -1,0 +1,14 @@
+Title: A85F & A95UF - maximum signal levels?
+Id: 1993
+Legacy Id: 2056
+
+Question:
+Do the A85F  A95(U)F convert a 1/4", unbalanced signal into a XLR, balanced signal so that the noise cancellation of an XLR line is utilized or do they simply take the two lines of a 1/4"  use only two pins of a XLR acting as an adaptor? I need to find something (that's not in the thousands of dollars range) that can convert unbalanced to balanced  back again so that i don't get massive amounts of cross talk and ground noise from my (unfortunate) long run of numerouse cables. Would either of these work?
+
+
+Answer:
+
+	The A85F and the A95UF do contain transformers that convert an unbalanced, high impedance signal to a balanced, low impedance signal (and vice versa). But either device is designed to only handle microphone level signals [less than 0.1 volts (-20dBV)].
+	
+	If you need to balance line level signals (great than 0.1 volts), consider the use of the Shure A15BT or contact: http://www.jensen-transformers.com/
+

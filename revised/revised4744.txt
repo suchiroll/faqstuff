@@ -1,0 +1,14 @@
+Title: MX392BE Boundary Microphone with Bottom-Exit Cable
+Id: 4744
+Legacy Id: 5924
+
+Question:
+When was the MX392BE introduced?
+
+
+Answer:
+
+	October 2015.
+	
+	The MX392BE is supplied with a bottom-exit cable configuration. It also has adhesive pads onits bottom platethat secure the microphone to the table surface. The technical functions of the MX392BEare identical to the standard MX392 model.
+

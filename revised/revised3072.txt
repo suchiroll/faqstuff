@@ -1,0 +1,12 @@
+Title: Rack mounting PGX4 receiver
+Id: 3072
+Legacy Id: 3203
+
+Question:
+Do you have a rack mount system available for a PGX4 receiver? If so, where can I get one?
+
+
+Answer:
+
+	The URT rack tray can be used to rack mount the PGX4. The URT can be purchased from your favorite Shure dealer.
+

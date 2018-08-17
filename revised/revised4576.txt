@@ -1,0 +1,18 @@
+Title: VP83 and VP83F - DC blocking capacitors
+Id: 4576
+Legacy Id: 5702
+
+Question:
+Do the VP83F and VP83 Lenshopper microphones have DC blocking capacitors at their audio outputs?
+
+
+Answer:
+
+	Yes.
+	
+	The VP83F has DC blocking capacitors and diode clamps on the headphone output and the camera audio output. The diode clamps limitany voltagegreater than5 Volts. If these diode clamps are activated (because a device is putting DC onto the VP83F output), the audio signal level will be severely attenuated. The signal level will return to normal when the external DC voltage is reduced to 5 Volts or less.
+	
+	The VP83 has DC blocking capacitors and a diode clamp on its camera audio output. The diode clamp limitsany voltage greater than 3 Volts. If the diode clamp is activated, the audio signal level will be severely attenuated. The signal level will return to normal when the external DC voltage is reduced to 3 Volts or less.
+	
+	Thediode clamp protects the VP83F/VP83 output capacitors from damage if connected to an external DC voltage higher than the voltage rating of the capacitors.
+

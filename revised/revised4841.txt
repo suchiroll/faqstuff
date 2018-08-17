@@ -1,0 +1,12 @@
+Title: DC 6120 P replacement
+Id: 4841
+Legacy Id: 6027
+
+Question:
+What is the replacement for the discontinued DC 6120 P conference unit?
+
+
+Answer:
+
+	The DC 6190 P conference unit is the same size and has the same features as the DC 6120 P.Plus, the DC 6190 P has a headphone jack, volume control, and interpretation language channel selector, and can be configured to operate in dual delegate mode to be shared by two participants.
+

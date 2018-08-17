@@ -1,0 +1,13 @@
+Title: N95ED for the M55E cartridge.
+Id: 2057
+Legacy Id: 2122
+
+Question:
+I am wondering if the N95ED stylus would fit into the M55E cartridge before I make a purchase. Using the SME3009II pickup arm that tracks to a max. 1.5gm. I understand the N95E has a 0.75 - 1.5gm tracking force so it should not be a problem. Only if it fits.
+
+
+
+Answer:
+
+	The N95ED will not work properly in the M55E cartridge. 
+	The  N55E stylus is the proper replacement stylus for the M55E.

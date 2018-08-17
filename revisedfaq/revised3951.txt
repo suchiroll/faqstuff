@@ -1,0 +1,44 @@
+Title: Shure PSM used for broadcast IFB
+Id: 3951
+Legacy Id: 4200
+
+Question:
+Is there a difference between an In-Ear Monitor (IEM)system used by musicians, like the Shure PSM product, and the wireless Interruptible Fold-Back (IFB) system used on a TV show or video production? Are Shure's PSM systems a good choice for IFB?
+
+
+Answer:
+
+	Interruptible Fold Back or IFB systems are used for audio monitoring and cueing in filmmaking, video production, live television, and live radio. The IFB feed consists of program audio sent to an earpiece/headphones worn by the on-air talent. The IFB feed can be interrupted and replaced by a producers or directors intercom mic. On a television news program, a producer can talk to the news anchors, to inform them when they are live on-air and when to begin reading the script.
+	
+	Wired IFB systems are unique in that the bodypacks worn by the talent or the crew often do not need batteries. The bodypack is powered by a wet line - the connecting cable carries dc voltage on the same conductors that carry the Send and Receive audio. (This is similar to phantom power.) Note that the electronics that perform the interruptible function are completely external to the IFB system, so the equipment itself does not have special features to allow this communication to occur. This means that if a wireless IEM system can directly accept a wet line, it can be used for IFB without the need for any external DC filters or other circuitry.
+	
+	Using a wireless IEM system for IFB offers one fundamental advantage over a standard IFB system: it also doubles as an excellent in ear monitor system for the musical performers.In other words, an in-ear monitor system can be used for IFB, but an IFB system cant be used for in-ear monitoring.
+	
+	Here are advantages of the Shure PSM systems in IFB applications:
+
+	
+		PSM transmitter will directly accept an intercom/IFB wet line
+	
+		Greater range and fewer dropouts than other IEMs and IFBs, even at lower RF power
+	
+		Noise sensitive squelch and tone-key squelch reduces distracting RF noise bursts due to RF hits or harsh environment conditionsdistracting to the talent
+	
+		Quiet circuitry with lower hiss noise improves communications and is not distracting to talent when on-air
+	
+		A stereo PSM transmitter, using a single frequency, can transmit 2 independent monaural IFB program feeds. The PSM stereo receiver can then be set to Mix Mode, which can allow the director or other personal to listen to either feed or a mix of both.
+	
+		The P9RA and P10R receiver work with lithium-ion rechargeable batteries, which last up to 10 hours.
+	
+		Wider tuning range and more channel selections than dedicated IFB systems.
+	
+		Scan and Sync function (PSM900 and PSM1000) quickly finds open channels and sets the receiver to match the transmitter.
+	
+		PSM1000 has the ability to perform a full spectrum scan and deploy clear channels to all networked PSM1000 units.
+	
+		A typical IFB earpiece worn by on-camera talent uses a monaural 3.5 mm mini plug connector. When this connector is plugged in a PSM stereo output jack, the right audio channel of the PSM headphone amplifier is shorted. However, the PSM receive is designed to handle this condition without suffering any damage or causing other audio problems.
+
+
+	Case Study: The NFL stadium in Miami uses four IFB channels on four frequencies assigned by the NFL RF coordinator. A local broadcast TV antenna farm less than  mile away makes for a very harsh RF environment. The four IFB systems have never worked well, exhibiting short range, drop outs, and RF noise. Working with the stadium broadcast director, the four IFB systems were replaced with one Shure PSM1000 system. The PSM1000 transmitters were tuned to the same frequencies previously used by the IFB systems as these frequencies were authorized by the NFL. Only two frequencies were required for four channels of monaural IFB, as each PSM1000 transmitter sends a stereo signal. The performance of the PSM1000 IFB system has been quite satisfactory, with excellent range, and no dropouts. The stadium broadcast director commented, We walked the whole stadium, inside and out, and we could not find a dropout anywhere. Its amazing.
+	
+	Written by Luis Guerra of Shure Incorporated
+

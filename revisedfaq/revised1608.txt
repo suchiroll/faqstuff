@@ -1,0 +1,15 @@
+Title: FP23 battery life with Lithium batteries
+Id: 1608
+Legacy Id: 1664
+
+Question:
+I am wondering if you have done any tests with the FP23 and lithium AA batteries? Will it work and will it give longer recording times?
+
+
+
+Answer:
+
+	Without phantom power activated, the current draw of the FP23 is approximately 50 milliamps. The milliamp/hours rating of a typical alkaline AA battery is 1,200. 1,200 divided by 50 equals 24 hours of FP23 operating time.
+	
+	If a lithium battery provides more than 1,200 milliamp/hours, it will power the FP23 for a longer time than an alkaline AA battery.
+

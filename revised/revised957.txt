@@ -1,0 +1,17 @@
+Title: Specs on Shure UHF wireless
+Id: 957
+Legacy Id: 986
+
+Question:
+I cannot find any specifications for the Shure UHF series wireless systems on your web site. The closest thing is the user manuals, which under the heading "specifications" says to "Refer to the supplement that came with your system."
+
+
+Since I haven't purchased the system yet, I can't really do that. Could you please direct me to or e-mail me specifications on the Shure UHF series of wireless?
+
+
+Answer:
+
+	The technical specifications are part of the various UHF supplementary guides. Each frequency range that we offer has a different supplement with different specifications. The supplementary guide also contains the frequency settings for particular versions. The User Guide Supplements can be found at:
+	
+	http://www.shure.com/datasheets/guides-wireless.html#uhf
+

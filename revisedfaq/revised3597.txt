@@ -1,0 +1,36 @@
+Title: Music Phone Adapter (MPA) basic functions and operation
+Id: 3597
+Legacy Id: 3803
+
+Question:
+What are the functions of a Shure MPA (Music Phone Adapter)? What is the operational principle of the MPA switch?
+
+
+Answer:
+
+	Note: All models of the Shure MPA were discontinued in June 2010.  The MPA is not recommended for the Apple iPhone4 or the iPad.
+	
+	The MPA allows the user listen to the phone's music player function using Shure earphones, while maintaining the ability to make calls and answer calls. The MPA connects between the Shure earphones and the phone's earphone/microphone jack. When the user listens to music, the MPA passes the phone's stereo audio into the Shure earphones. When the user is on a phone call, the MPA microphone is active to pick up the user's speech. The Shure earphones provide the voice of the person on the other end of the phone call.
+	
+	MICROPHONE SPECIFICATIONS
+	The MPA microphone is omnidirectional.
+	The microphone's maximum sound pressure level is 104 dbSPL - measured at 1 kHz with less than 2% total harmonic distortion.
+	Typical minimum signal-to-noise ratio is 55 dB(A).
+	Required operational bias voltage is 1.1 Vdc to 10 Vdc, delivered on two wires; the nominal current draw is 210 microAmps.
+	The microphone output impedance is 2,200 ohms.
+	
+	SWITCH FUNCTION
+	The MPA also has a "call send/call end" switch that is activated by the button on the MPA. When pressed, this switch shorts the MPA microphone/bias connection to ground. This action is interpreted by the phone and the phone will perform a function DEPENDING upon the design of the phone. The Shure MPA does not determine the phone function that occurs when the switch is activated - it is the phone that determines the function. Certain phones will respond to double-clicks and triple-clicks of the MPA switch.  Certain phones will also respond to the duration of the MPA switch closure, i.e., the length of time that the user presses on the MPA switch.
+	
+	WIRING & CONNECTIONS POINTS
+	The MPA miniature phone plug has four connection points:
+	1) Left earphone audio
+	2) Right earphone audio
+	3) Microphone audio/DC bias
+	4) Ground that is common for the earphone audio, the microphone audio, and the microphone bias voltage
+	
+	The Shure MPA-2B has red insulating bands on the 2.5 mm phone plug.
+	Tip = left earphone; Ring 1 = right earphone; Ring 2 = mic/bias; Sleeve = ground
+	
+	The Shure MPA-3C has black insulating bands on the 3.5 mm phone plug.
+	Tip = left earphone; Ring 1 = right earphone; Ring 2 = ground; Sleeve = mic/bias

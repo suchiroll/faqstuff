@@ -1,0 +1,12 @@
+Title: M7SCS cartridge
+Id: 1204
+Legacy Id: 1248
+
+Question:
+I have a late 70's early 80's Gerrard model 640S turntable. The numbers on the underside of the stylis cartridge are Shure M7SCS. What is the stylus?
+
+
+Answer:
+
+	The 5Xwas the replacement stylus.
+

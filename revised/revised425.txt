@@ -1,0 +1,13 @@
+Title: Mic for monitoring heart valve sounds through a stethoscope
+Id: 425
+Legacy Id: 432
+
+Question:
+I would like to hook a microphone in line with a stethoscope to demonstrate and record heart sounds (the "lub-dup" sounds of the heart valves heard over the chest with a stethoscope).  The question:  we have a stethoscope with a built-in electret mike with two wires, not three.  A 5-volt DC is applied to white which is also the output; the AC output is apparently separated from the 5 volt input.  The company uses the output for a graphic interface, not audio.  does Shure make preamps for mikes like this?
+
+Answer:
+
+	All of our microphones use separate bias and audio conductors, so the preamps are all designed around that. But, you might still be able to make one of our preamps work. The MX1BP (battery or phantom power) or the RK183PK (phantom only) will probably work.
+	
+	While we cant guarantee anything, more than likely this will work. Full compatibility would depend on other specification issues of the microphone that you are using, but at least this gives you something to try.
+

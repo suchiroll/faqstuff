@@ -1,0 +1,18 @@
+Title: Are Canadian U series UHF wireless shipped with different frequencies than U.S.?
+Id: 600
+Legacy Id: 612
+
+Question:
+Are Canadian U series wireless shipped to Canada set up with the same frequency groups as U.S. models. If Canadian artists bring Shure product across the border will they be able to operate without problems?
+
+
+Answer:
+
+	The U.S. and Canada (and Mexico) use the same TV frequencies and have similar regulations on the use for wireless microphones. A U Series in Canada is the same as a U Series in the U.S. Therefore, your U Series will operate fine within the U.S.
+	
+	However, check with Customs regarding any laws that may restrict the importation of electronic equipment.
+
+	
+
+	Note: As of June 12, 2010, UHF wireless systems in the U.S. must operate above 470 MHz and below 698 MHz.
+

@@ -1,0 +1,14 @@
+Title: "C-Ducer" guitar pickup with wireless transmitter
+Id: 3214
+Legacy Id: 3362
+
+Question:
+I play the guitar and am using a “C-Ducer” pick-up that requires phantom power. In addition, the guitar audio signal needs to be sent over a Shure  wireless system. How can I phantom power the guitar pick-up in a wireless arrangement?
+
+
+Answer:
+
+	First consult the user manual of the guitar pick-up to determine the phantom power voltage requirements. If it can be powered at the standard 48-volts DC level, a battery powered Phantom Power Supply will work. Use the Shure model WA310 Microphone Adapter Cable 4-pin Mini Connector (TA4F) to XLR(F) to connect the BPS-1 power supply to the Shure wireless transmitter. Finally, adjust the gain level of the transmitter for best audio transmission without distortion.
+	
+	
+

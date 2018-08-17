@@ -1,0 +1,19 @@
+Title: KSM44
+Id: 1006
+Legacy Id: 1035
+
+Question:
+After trying many mics, I just purchased your KSM44.
+1) Is there any difference in using the mic "upside down" vs. "rightside up"?
+
+
+2) I will experiment, but as a starting point for recording strummed acoustic guitar in a pop mix, should I use the cardioid pattern with the mild low cut filter?
+
+
+
+Answer:
+
+	1. No difference.
+	
+	2. Yes.
+

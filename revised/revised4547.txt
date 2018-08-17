@@ -1,0 +1,39 @@
+Title: SE112m+ and SRH145m+ compatibility
+Id: 4547
+Legacy Id: 5670
+
+Question:
+What Apple devices are compatible with the SE112m+ earphones and SRH145m+ headphones?
+
+Answer:
+
+	According to Apple, as of September 2014:
+
+	iPhone 5s, 5c, 5
+
+	iPhone 4s, 4
+
+	iPhone 3GS
+
+	iPad Air
+
+	iPad mini with Retina display
+
+	iPad 4th generation
+
+	iPad mini
+
+	iPad 3rd generation
+
+	iPad 2
+
+	iPad
+
+	iPod touch (2nd, 3rd, 4th, 5th generation)
+
+	iPod classic
+
+	iPod nano (4th, 5th, 6th, 7th generation)
+
+	iPod shuffle (1st, 2nd, 3rd, 4th generation)
+

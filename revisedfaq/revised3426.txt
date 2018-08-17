@@ -1,0 +1,21 @@
+Title: Easyflex Microphone Line Discontinuation
+Id: 3426
+Legacy Id: 3617
+
+Question:
+When was the Easyflex line of microphones discontinued?
+
+
+Answer:
+
+	Discontinuation date: April 30, 2008
+	Introduced: 2002
+	All Easyflex models have direct replacements in the Microflex line of microphones.
+	EZG/12 - Cardioid condenser microphone; 12 inch gooseneck; attached preamp with male XLR output; charcoal gray; final U.S. retail price $198.00
+	EZG/18 - Cardioid condenser microphone; 18 inch gooseneck; attached preamp with male XLR output; charcoal gray; final U.S. retail price $198.00
+	EZG/12SE - Cardioid condenser microphone; 12 inch gooseneck with side-exit 10 foot cable; separate preamp with male XLR output; charcoal gray; final U.S. retail price $218.00
+	EZG/18SE - Cardioid condenser microphone; 18 inch gooseneck with side-exit 10 foot cable; separate preamp with male XLR output; charcoal gray; final U.S. retail price $218.00
+	EZO/G - Cardioid condenser microphone; overhead microphone with 30 foot cable; separate preamp with male XLR output; charcoal gray; final U.S. retail price $188.00
+	EZO/W - Cardioid condenser microphone; overhead microphone with 30 foot cable; separate preamp with male XLR output; white; final U.S. retail price $188.00
+	EZB/C - Cardioid condenser microphone; boundary microphone with 12 foot cable; separate preamp with male XLR output; black; final U.S. retail price $188.00
+	EZB/O - Omnidirectional condenser microphone; boundary microphone with 12 foot cable; separate preamp with male XLR output; black; final U.S. retail price $168.00

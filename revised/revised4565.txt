@@ -1,0 +1,24 @@
+Title: PSM200 Discontinuation
+Id: 4565
+Legacy Id: 5690
+
+Question:
+When was the PSM200 product line discontinued?
+
+
+Answer:
+
+	The PSM200 line was discontinued in October 2014. Here are the final U.S. retail prices:
+	
+	P2T transmitter: $374
+	
+	P2R receiver: $361
+	
+	P2TR215CL Wireless System: $749
+	
+	P2R215CL Wired System: $411
+	
+	The PSM200 system for the U.S. operated in the frequency range of 518 to 554 MHz. A maximum of four P2T transmitters could be used in this frequency range - designated as H2. Only P2R receivers will work with a P2T transmitter.
+	
+	Recommended replacement system: Shure PSM300 series. Sorry, the PSM300 components cannot be used as direct replacements for PSM200 components.
+

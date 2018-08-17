@@ -1,0 +1,13 @@
+Title: GLX-D Interchangable Mic Elements?
+Id: 4402
+Legacy Id: 5498
+
+Question:
+Does the GLXD24 microphone system have the option of interchangeable capsules? Can someone switch a SM58 capsule with a SM86 capsule?
+
+
+
+Answer:
+
+	Sorry, the answer is no. The mic element on the GLX-D handheld transmitter is fixed.
+

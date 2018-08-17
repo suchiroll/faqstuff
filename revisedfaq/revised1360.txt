@@ -1,0 +1,12 @@
+Title: Replacement Lapel Mics for 839W
+Id: 1360
+Legacy Id: 1412
+
+Question:
+Our church uses four Shure L4 Marcad Diversity wireless mic systems each week. Three of these systems run both a lapel (bodypack) mic and and handheld (SM58) wireless mic. On two of the lapel mic setups, we are still using the older 839W mic cartridges (see attached photo). I would like to replace these cartridges with whatever newer appropriate replacement mic you offer that would plug in to the existing bodypacks. Do you offer a direct replacement that will work with the existing bodypacks?
+
+
+Answer:
+
+	We suggest the WL93 or the WL183. Assuming your L series transmitter has a four pin Tini QG connector for the mic connection, the recommended mics will plug right in. If the 839W is hard wired into the transmitter, replacement is not feasible.
+

@@ -1,0 +1,13 @@
+Title: KSM44 in M-S
+Id: 856
+Legacy Id: 882
+
+Question:
+I have been using KSM32's quite successfully in ORTF configuration for classical orchestra recording.  Am intrigued with possibility of using KSM32 for mid and KSM44 as side in M-S configuration.  How do you feel about match? Has it been tried?
+
+Answer:
+
+	While the sound of the mics are very similar, the KSM44 is 5 dB quieter than the KSM32. This may be noticeable in a critical recording situation.
+	
+	No one at Shure has tried the KSM32/KSM44 combination for M-S. A better choice would be two KSM44 mics for the M-S configuration.
+

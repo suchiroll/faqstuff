@@ -1,0 +1,12 @@
+Title: 55SH Series II and Phantom Power?
+Id: 2376
+Legacy Id: 2467
+
+Question:
+Does the 55SH Series II require Phantom Power? If not, what happens if it encounters Phantom Power?
+
+
+
+Answer:
+
+	The 55SH is a dynamic microphone. Dynamic microphones do not require phantom power. Any balanced dynamic microphone, such as the 55SH, will not be damaged by phantom power.

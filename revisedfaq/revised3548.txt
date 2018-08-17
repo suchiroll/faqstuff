@@ -1,0 +1,12 @@
+Title: PG Operating Frequencies in the United States
+Id: 3548
+Legacy Id: 3754
+
+Question:
+What are the exact operating frequencies in the U.S. for each of the 10 channel selections on a PG transmitter/receiver?
+
+
+Answer:
+
+	See our Frequency Charts
+

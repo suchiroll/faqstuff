@@ -1,0 +1,19 @@
+Title: Boundary Mic for video camera
+Id: 747
+Legacy Id: 766
+
+Question:
+I have a high impedance boundary mic that I just purchased. I need to attach it to a camcorder with a minijack input. I tried to use the adaptor that goes to a 1/4 inch and then to a minijack. For some reason the adaptor that goes to 1/4 does not work. I tried going directly into my soundboard with that adaptor and the mic doesn't work. It isn't a bad adaptor. I tried 3 different ones and even bought a new one in case the others had all gone bad. What's the deal?
+
+
+The boundary mic is MX391/0
+
+
+Answer:
+
+	First, the MX391/O is not high impedance, it is low impedance. Second, the MX391/O requires phantom power to operate. Your camera does not provide phantom power. Third, please read the following information about choosing the correct type of mic to work with your camera:
+	
+	Will microphone model X work with my device that needs a mic?
+	
+	Please contact us again when you have the technical information about your camera.
+

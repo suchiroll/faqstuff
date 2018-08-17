@@ -1,0 +1,20 @@
+Title: DRS-10 with multiple P4800's.
+Id: 2825
+Legacy Id: 2935
+
+Question:
+How can you control two P4800's from one DSR-10? The system has one input from the main console, and 14 outputs to the main cluster (biamped), five delay clusters (biamped), and an lobby/locker room system. I need both P4800's to change between five presets together, and right now it's not happening.
+
+
+Answer:
+
+	Here is the process that has to be done:
+	
+	1) Connect the switch from the DRS-10 to only one of the P4800s Control In pins. Do not use the black RS232 adapter that comes with the DRS-10.
+	
+	2) Connect the cables for the Shure Link network. This has to be a complete loop, thus come out of #1 into #2 and out of #2 into #1.
+	
+	3) Configure the Control Pins on the P4800 that has the switch connected. The other P4800 should have a completely blank Control Pin configuration window.
+	
+	4) Go into Live Mode on both P4800s pull down the DEVICES menu and select GLOBAL PRESET MODE. This will put a check mark next to the GLOBAL PRESET MODE selection.
+

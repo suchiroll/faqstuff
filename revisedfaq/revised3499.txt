@@ -1,0 +1,49 @@
+Title: P4800, DFR22, DFR11EQ, and DP11EQ Software and Windows Vista
+Id: 3499
+Legacy Id: 3698
+
+Question:
+Are the P4800, DFR22, DFR11EQ, and DP11EQ software programs usable under the Windows Vista operating system?
+
+
+Answer:
+
+	The software for these products might be able to be used under Windows Vista. The following procedure might work for your Vista installation.
+	
+	First install the desired software program (P4800, DFR22, DFR11EQ, or DP11EQ) as you would any other program.
+	
+	When the software install process is complete, perform the following steps to specify how Windows should treat the program execution:
+	
+
+	
+		Open the Windows Explorer file manager program.
+	
+		Navigate through the following directories:
+		C:/Program Files/Shure
+		Then select/click the specific program folder: P4800, DFR22, DFR11EQ5, or DP11EQ.
+	
+		In the right Windows Explorer display panel, right click on the specific program executable:
+		P4800.exe
+		DFR22.exe
+		DFR5.exe
+		DP11EQ.exe
+	
+		An options dialogue box appears - select/click Properties.
+	
+		In the Properties dialogue box, select/click the Compatibility tab.
+	
+		Check the box for Run this program in compatibility mode for:.
+	
+		In the drop-down menu list, select Windows XP (Service Pack 2).
+	
+		Click Apply.
+	
+		Click OK.
+
+
+
+
+	The programming software should now be ready to run.
+	
+	If the desired program was loaded under Windows Vista earlier, the above compatibility procedure can be performed at any time that is convenient. The software will generally work if the above procedure is not executed, but should run with better stability if the procedure is performed.
+

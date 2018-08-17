@@ -1,0 +1,17 @@
+Title: Routing audio from an MXA910 or MXA310 to an Audio Network Interface device
+Id: 5030
+Legacy Id: 6322
+
+Question:
+How do I get audio out of my MXA910 ceiling array or MXA310 table array microphones? I have a MXA device that I have physically connected to an ANI output device but I am not getting any audio and I don't see how to configure this on either piece of hardware. What am I missing?
+
+
+Answer:
+
+	Both the MXA910 ceiling array and the MXA310 multi-pattern table microphone are devices that output their audio using a networked digital audio platform called DANTE.  To retrieve this audio, the MXA mics must be properly networked to a DANTE-compatible output device such as our MXWANI4, MXWANI8, ANI4OUT, SCM820-DAN, or a third-party DSP, mixer or interface that has DANTE capabilities.  By properly networking them we mean that the devices are connected via a proper network switch that also has Power Over Ethernet (PoE) (for powering the MXA910, MXA310, or ANI4OUT) and have compatible IP addresses.  Often, simply connecting units together will accomplish this as devices usually self-select a "Link-Local" address in the 169.254.xxx.yyy; 255.255.000.000 range. However, static IP schemes or DHCP servers can also be used to generate compatible IP addresses. These compatible IP addresses need to exist for both the Network Control and DANTE Digital Audio and, often, a device will require a separate but compatible IP address for each of those functions.
+	
+	If you are employing our MXWANI4 or MXWANI8 units, these have an appropriate, built-in 4 port Gigabit switch where one of the ports conveniently has PoE that can power either an MXA910 or MXA310 device.  However, if you are not using these devices, a very good resource for selecting an appropriate network switch for DANTE can be found on Audinate's website.
+	
+	Beyond the actual networking of the units, keep in mind physically connecting and properly networking the units is not enough. To successfully get audio from the MXA devices and routed to a DANTE-capable audio output device, you will need to download a free piece of software called DANTE Controller from a company called Audinate, the creators of DANTE Digital Audio.  
+	
+	Once you have downloaded and installed DANTE Controller on a computer that is networked to both the MXA microphone and the output device, you will need to use DANTE Controller to create the routes FROM the MXA mic channels (listed as DANTE Transmit Channels in DANTE Controller Software) TO audio output channels (listed as DANTE Receive Channels in DANTE Controller).  If done properly, you will see Green check boxes indicating a route has been created for those channels between the two devices and you should start to hear or at least see audio metering on the output device.  It should be noted that there is currently no built-in audio routing or configuration within the built-in web browser interfaces of the MXA mics or the ANI devices as shortcuts to creating this routing.  Utilizing DANTE Controller is the only way to route audio from the MXA mics to an output device so that you can pass audio to your audio system.

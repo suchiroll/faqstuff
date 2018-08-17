@@ -1,0 +1,16 @@
+Title: Professional Microphone with XLR connection to iPad, Smartphone, or a mobile device
+Id: 3955
+Legacy Id: 4204
+
+Question:
+I want to connect my Shure KSM mic to an iPad and other moblie devices. Is there a product that make this easy?
+
+
+Answer:
+
+	Check out the Alesis iO dock for iPad. The dock provides balanced, mic level, XLR inputs with phantom power. The KSM mic should work well with this device, as should other Shure mics.
+
+	
+
+	If your mobile device has a 3.5mm connector (Tip-Ring-Ring-Sleeve or TRRS)for earphones and a microphone, look at the iRig Pre from ikmultimedia.com
+

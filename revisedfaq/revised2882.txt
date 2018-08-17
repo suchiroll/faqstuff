@@ -1,0 +1,14 @@
+Title: L4 receiver historical information.
+Id: 2882
+Legacy Id: 3002
+
+Question:
+I would like the technical specs, year produced, and price of this model.
+
+
+Answer:
+
+	1990 - 1994
+	
+	L4 last sold at $335 U.S. retail.
+	The User Guide can be downloaded from the User Guide area of the Shure website.

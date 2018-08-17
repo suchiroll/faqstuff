@@ -1,0 +1,99 @@
+Title: Network is not physically connected, check your power, COM
+Id: 100
+Legacy Id: 100
+
+Question:
+I get the error message "Network is not physically connected, check your power, COM port, or cable" when I try to connect to the DFR11EQ, DP11EQ, UA111, or UA888.  What can I do?
+
+Answer:
+
+	If the computer displays the Network is not physically connected, check your power, COM port, or cable. message, it is because the software sent a detection character to the network, but it didnt come back. Troubleshoot the error by following these steps:
+
+	
+		Make certain the Power LED is ON on the Shure hardware.
+	
+		Make certain the RS-232 cable (the one that connects between the Shure hardware and the computer) is firmly inserted into both devices. Make certain the cable has seven wires in it and is wired straight through, i.e. pin 2 to pin 2, pin 3 to pin 3, etc. (See the diagram in the users guide.) Shure hardware devices use 7 wire RS-232. A cable that only has 3 wires connected will not work.
+	
+		To check the COM port, follow the Checking the COM port instructions below. Most laptop computers come with their COM ports turned off to conserve battery life. The COM port must be turned on using the utility software that comes with the laptop. When using a laptop, contact the computer manufacturer to find out how to turn on the COM ports.
+
+
+	Checking the COM port
+
+	By following these instructions you can determine if there is a problem with the Shure software or if the computers COM port is not working correctly. These instructions bypass the Shure software and access the COM port through other software to see if it is working properly.
+
+	In Windows 3.1:
+
+	
+		Start Terminal (its installed along with Windows in the accessories group).
+	
+		If this is the first time Terminal is ever run, it will put up a dialog asking for the default port. If so, select the port the Shure hardware is connected to.
+	
+		Go to Settings|Terminal Preferences. It will put up the Terminal Preferences dialog.
+	
+		Check the box for Local Echo.
+	
+		Click OK.
+	
+		Go to Settings|Communications. It will put up the Communications dialog.
+	
+		Set the Baud rate to 19200.
+	
+		Set the Data Bits to 8.
+	
+		Set the Stop Bits to 1.
+	
+		Set the Parity to none.
+	
+		Set the Flow Control to None.
+	
+		Set the Connector to the port the Shure hardware is connected to.
+	
+		Uncheck the Parity Check and Carrier Detect boxes.
+	
+		Click OK.
+	
+		Now you will just have an empty window. Type a character. If the connection is OK, two of the character that was typed will appear and the Shure software should work fine. If the connection is not OK, only a single character will appear and either the COM port is disabled or the COM port is not working.
+
+
+	In Windows 95/98/NT 4:
+
+	
+		Open the HyperTerminal window and run Hypertrm.exe (its installed along with Window 95/98 in the accessories folder).
+	
+		It will put up a dialog asking for a connection name and icon. Just type whatever you want.
+	
+		Click OK.
+	
+		It will then put up a phone number dialog. Change the last item, Connect Using, to Direct to Com #, where # is the port the Shure hardware is connected to.
+	
+		Click OK.
+	
+		It will then put up a Port Settings dialog. Set the Bits per second to 19200.
+	
+		Set the Data bits to 8.
+	
+		Set the Parity to none.
+	
+		Set the Stop Bits to 1.
+	
+		Set the Flow control to none.
+	
+		Click OK.
+	
+		Go to File|Properties. It will put up the Properties dialog.
+	
+		Click the Settings tab.
+	
+		Click the ASCII Setup button. It will put up the ASCII Setup dialog.
+	
+		Check the Echo typed characters locally box.
+	
+		Click OK twice.
+	
+		Now you just have an empty HyperTerminal window. Type a character. If the DFR connection is OK, two of the character that was typed will appear. If the connection is not OK, only a single character will appear.
+
+
+	If only one of each character appears, then the problem is somewhere in the computer; either the COM port is not ON or set up correctly, or the Windows software is corrupt. Therefore, nothing is wrong with the Shure software or hardware, but something is wrong with the computer. Contact the computer manufacturer for technical support.
+
+	If two of each character appear, then the settings in the Shure software is wrong or the Shure software is corrupt. Verify the Shure software settings and/or reinstall the Shure software.
+

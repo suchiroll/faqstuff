@@ -1,0 +1,22 @@
+Title: PS20 or PS21 Power Supply Replacement
+Id: 3590
+Legacy Id: 3796
+
+Question:
+I need a PS20 power supply for my Shure wireless receiver. Is there a commercial alternative?
+
+
+Answer:
+
+	The following power supply will work:
+	Triad AC/DC adapter - model WDU12-600
+	AC input is 120 VAC / 13 watts.\
+	VDC output is 12 volts / 600 mA.
+	DC output cable is 72 inches in length.
+	DC connector is 2.1 mm x 5.5 mm.
+	Size of the transformer / AC plug enclosure is 3" x 2.2" x 1.9".
+	This is a linear supply, not a switching power supply.  For most situations, this supply can also replace the Shure PS21.
+	
+	As of January 2015, available from www.mouser.com
+	Phone: 800-346-6873
+	Price is $11.59 U.S.

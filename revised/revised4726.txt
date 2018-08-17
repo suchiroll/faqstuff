@@ -1,0 +1,20 @@
+Title: What is a MAC address?
+Id: 4726
+Legacy Id: 5897
+
+Question:
+What is a MAC address?
+
+
+Answer:
+
+	Every device that connects to the internet or a network has a MAC address. There are billions of devices with MAC addresses. A media access control address (MAC address) is a unique identifier number assigned to networkable device, like a Shure ULX-D receiver, thatcan connect to an Ethernetnetwork A MAC address is like a serial number for the Network Interface Card, and is required for most IEEE 802 network technologies, including Ethernet and WiFi. Each network-capable Shure device has a unique MAC address. Note: the MAC address is different from the IP address.
+	
+	MAC addresses are most often assigned by the manufacturer of a network interface controller (NIC) and are stored in its hardware, such as the cards read-only memory or some other firmware mechanism. If assigned by the device manufacturer, such as Shure, a MAC address usually encodes the manufacturers registered identification number and may be referred to as the burned-in address (BIA). It may also be known as an Ethernet hardware address (EHA), hardware address or physical address. This can be contrasted to a programmed address, where the host device issues commands to the NIC to use an arbitrary address.
+	
+	MAC addresses are created according to the rules of one of three numbering name spaces managed by the Institute of Electrical and Electronics Engineers (IEEE): MAC-48, EUI-48, and EUI-64. The IEEE claims trademarks on the names EUI-48[1] and EUI-64,[2] in which EUI is an abbreviation for Extended Unique Identifier.
+	
+	The standard format for printing a MAC address is six groups of two hexadecimal digits, separated by hyphens or colons, in transmission order, e.g. 01-23-45-67-89-abor01:23:45:67:89:ab.
+
+	
+

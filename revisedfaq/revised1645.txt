@@ -1,0 +1,24 @@
+Title: M67 & M68 compared to M267 & M268
+Id: 1645
+Legacy Id: 1702
+
+Question:
+What were the changes from the older models to the newer?
+
+
+Answer:
+
+	M267 compared to M67:
+	- much quieter
+	- on-board battery compartment
+	- output limiter
+	- phantom power
+	- mic level and line level switches on inputs and outputs
+	- headphone volume control
+	- M267 is MUCH better than the M67
+	
+	M68 compared to M268
+	- much quieter
+	- phantom power
+	- mix bus jack
+	- M268 is somewhat better than the M68

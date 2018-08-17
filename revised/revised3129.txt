@@ -1,0 +1,24 @@
+Title: Cannot see all of my UR4 receivers in Wireless Workbench
+Id: 3129
+Legacy Id: 3263
+
+Question:
+I have 4 UR4D receivers and have them networked together using an ethernet router. When I connect to them with Wireless Workbench, I only see 3 of the dual receivers.
+
+
+Answer:
+
+	One possible problem is the MAC address of the receivers. Check the MAC address by following these instructions:
+
+	
+		Switch the unit on.
+	
+		Press the Util button
+	
+		Press the Network button
+	
+		Read the MAC address at the bottom line of the display
+
+
+	With a dual receiver the left and right receiver sections will have the same MAC address as they use the same network card. However, each UR4D or UR4S should have a unique MAC address. If two of the UR4D or UR4S receivers have the same MAC address call Shure Applications Engineering at 847-600-8440.
+

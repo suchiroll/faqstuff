@@ -1,0 +1,58 @@
+Title: MX395-LED or MX405/410/415 logic functions with DSP processors or control systems
+Id: 3488
+Legacy Id: 3686
+
+Question:
+How does one wire the LED Status Indicator logic pin on the Shure MX395 and MX405/410/415 microphones to operate with a ClearOne Converge Pro DSP system? When I connect the microphone logic input pin 5 to the corresponding DSP status output pin, nothing happens.
+
+Answer:
+
+	This FAQ discusses the required logic wiring to interface the Shure MX395-LED or MX405/MX410/415 microphones to ClearOne DSP products, especially the XAP and Converge Pro series.  Here are the pin outs for the five pin male XLR connector at the bottom of the MX400 SMP (Surface Mount Preamp):
+	
+	pin 1 = ground
+	pin 2 = audio negative
+	pin 3 = ground
+	pin 4 = audio positive
+	pin 5 = LED contol in
+	
+	Connect the microphone leads to the audio inputs on the ClearOne DSP product. Assuming an XLR 5-pin connector on the microphone cable, the audio leads should be connected as follows:
+	
+	Mic XLR pin 4 to DSP + audio input terminal
+	Mic XLR pin 2 to DSP - audio input terminal
+	Mic XLR pin 1 to DSP audio ground terminal
+	
+	Confirm that phantom power is being provided by the DSP product. Without phantom power, the microphone will not operate. With phantom power applied, the MX395 or MX405/MX410/415 LED indicator should illuminate to the default "on" state. Note that the microphone LED indicators are powered by the phantom voltage. Changing the state of the LED from the "on" indication to the "off" indication is a function of the TTL logic signal supplied to the microphone's pin 5.
+	
+	The ClearOne DSP products feature logic outputs that can be programmed to operate the LED indicator on the Shure MX395 or MX405/MX410/415. These logic outputs are configured as open collector transistor switches.
+	
+	The MX395 or MX405/MX410/415 microphone requires a logic voltage change to alter the state of the LED indicator on the microphone. With no logic voltage applied (logic LOW), the LED will default to the state indicating normal operation. To change the state of the LED indicator, a logic HIGH signal (nominal 5 Vdc, but minimally  2.7 Vdc) is applied to the microphone logic input, XLR pin 5.
+	
+	Logic wiring between the microphone and the ClearOne DSP product is as follows:
+	
+	* Mic XLR pin 5 to the designated Status Output pin on Control/Status Port A or B.
+	* Mic XLR pin 3 to a logic ground pin on the Control/Status Port A or B.
+	**The logic wiring must be implemented using shielded cable.
+	
+	The ClearOne DSP products do not provide internal "pull-up resistors" to establish a logic HIGH signal. To provide the needed logic HIGH voltage level, an external pull-up resistor is required for each microphone. The resistor provides a current limited logic HIGH voltage level. To implement:
+	
+	1. Obtain resistors with values between 4,700 ohms to 10,000 ohms, 1/4 watt or 1/8 watt.
+	2. Connect one end of each resistor to either pin 23 or 24 of Control/Status Port B on the ClearOne DSP. Either of these pins provides 3.3 Vdc that can be used to establish a logic HIGH signal.
+	3. Connect the other end of each resistor to the respective status output pins on Control/Status port A or B that is associated with each microphone.
+	4. Program the ClearOne DSP unit to supply the correct logic state to each microphone. Logic LOW will provide a visual "on" indication, while logic HIGH will provide the "off" indication.
+	
+	Microphone LED Indicator States
+	
+	MX395-LED
+	"ON" indication is Green. "OFF" indication is Red.
+	
+	MX405 or MX410 or MX415
+	"ON" indication is Green. "OFF" indication is Red.
+	
+	MX405R or MX410R or MX415
+	"ON" indication is Red. "OFF" indication is Flashing Red or Dark (user selectable).
+	
+	The logic circuit on the mic draws less than 10 microAmps to switch the LED color.
+	
+	NOTE: BIAMP Logic Box and Voltage Control Box - These BIAMP devices employ open collector outputs with internal pull-up resistors.  Shure MX series microphones can be used with BIAMP products without the need for external pull-up resistors.
+	
+	CRESTRON CONTROL DEVICES: In October 2011, Shure learned that certain Crestron controllers can be configured to disable +5 V pull-up resistors used for the TTL outputs.  If these pull-up resistors are disabled, the MX395/405/410/415 LED functions may not operate as described above.

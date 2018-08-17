@@ -1,0 +1,14 @@
+Title: Can I plug a wired Beta 98 into a wireless bodypack?
+Id: 1233
+Legacy Id: 1279
+
+Question:
+Hello, I have a Beta 98 clip mic, and I want to use it as a wireless mike. Is there any possibility to use it with the wireless transmitters (like the UC1)? The microphone needs 48V phantom power.
+
+
+Answer:
+
+	Yes, the Beta 98 can be used wireless. If you unplug the microphone from its preamp, that 4-pin TinyQG connector will plug right into the UC1 or any Shure bodypack. You will not use the barrel style preamp when using the microphone wireless.
+	
+	The preamp requires 11-52 volts phantom power. The capsule itself requires 5 volts of bias, which is supplied by either the preamp or the wireless bodypack.
+

@@ -1,0 +1,88 @@
+Title: Directional Mic compared to an Omnidirectional Mic
+Id: 73
+Legacy Id: 73
+
+Question:
+How much further away can I work a directional microphone when compared to an omnidirectional microphone?
+
+
+Answer:
+
+	The Distance Factor of Microphones
+
+	The Distance Factor, a technical characteristic of microphones, is often misunderstood. In brief, a directional microphone may typically be placed farther away from a desired sound source than an omnidirectional microphone and produce similar audio results, assuming the microphones are of equal quality and sensitivity. This rule of thumb applies to microphones used for recording, broadcast, video conferencing, surveillance, and public address.
+
+	As an example of the Distance Factor, lets consider a very basic application: recording a talkers voice in a meeting room. Through experimentation, an omnidirectional mic is found to produce an acceptable recording when placed 2 feet away from the talker. [For more information on what makes a recording acceptable, read Shure Technical Bulletins Predicting Speech to Background Noise Ratio at the Microphone and Critical Distance and Microphone Placement.]
+
+	Now try a cardioid microphone in place of the omnidirectional. The Distance Factor for a cardioid is 1.7. This means the cardioid may be placed 1.7 times the distance of the omni and produce the same audio quality. In this example, the cardioid may be located 3.4 feet away (2 feet x 1.7) from the talker and produce an acceptable recording. * Note that when a directional microphone is substituted at a greater distance for an omnidirectional, the gain must be increased to compensate for the reduced sound level at the more distant position. Also, the directional microphone will likely be more sensitive to distracting wind noise and popping.
+
+	Next try a supercardioid mic in place of the omni mic. The Distance Factor for a supercardioid is 1.9. It may be placed 3.8 feet away (2 feet x 1.9) from the talker and produce an acceptable recording.
+
+	Then put a hypercardioid microphone in place of the omnidirectional. The Distance Factor for a hypercardioid is 2.0. It may be placed 4 feet away (2 feet x 2.0) and produce an acceptable recording.
+
+	Finally, try a shotgun microphone in place of the omni microphone. The Distance Factor for a typical shotgun is 3.0, which allows the microphone to be placed 6 feet away (2 feet x 3.0) from the talker and produce an acceptable recording.
+
+	Observe that all Distance Factors relate directly to the results obtained with an omni mic in a given application. For example, if an omni mic must be used at 1 inch or less from the sound source for acceptable results in a noisy setting, a hypercardioid mic must be used at 2 inches or less for the same results... not, not, not the 4 feet mentioned in the example above.
+
+	Remember, the increase in Distance Factor for directional mics is due to their greater rejection of ambient (background) noise, not due to any increase in sensitivity to the desired sound source. The farther the mic is placed from the sound source, the more amplification is necessary to maintain the same output level. And in a public address application, loudspeaker positioning often dictates microphone location and overrides the Distance Factor in determining the maximum distance from talker to microphone.
+
+	
+
+	SUMMARY OF DISTANCE FACTOR
+
+	
+		
+			
+				
+					Microphone Type
+			
+			
+				
+					Omni
+			
+			
+				
+					Cardioid
+			
+			
+				
+					Supercardioid
+			
+			
+				
+					Hypercardioid
+			
+			
+				
+					Shotgun
+			
+		
+		
+			
+				
+					Distance Factor
+			
+			
+				
+					1
+			
+			
+				
+					1.7
+			
+			
+				
+					1.9
+			
+			
+				
+					2.0
+			
+			
+				
+					3.0
+			
+		
+	
+
+

@@ -1,0 +1,12 @@
+Title: Replacement for CU 5905, CU 6105, CU 6110
+Id: 4842
+Legacy Id: 6028
+
+Question:
+What are the replacements for the discontinued CU 5905, CU 6105, or CU 6110 central units?
+
+
+Answer:
+
+	The CU 5905 central unit is replaced by the DIS-CCU central control unit.The CU 6105 and CU 6110 central units are replaced by the DIS-CCU central control unit with Feature License FL6000 installed.The DIS-CCU is available with or without an included power supply depending on country.
+

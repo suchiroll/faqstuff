@@ -1,0 +1,19 @@
+Title: VP83F Mic Won't Turn On
+Id: 4888
+Legacy Id: 6146
+
+Question:
+I ordered a VP83F Mic last week, got it in the mail, read the manual, put in the batteries, pressed power and it did not turn on. I tried for hours to figure out what was wrong, tried new batteries, had other people try, nothing. Why won't this thing turn on? I've run out of ideas.
+
+
+Answer:
+
+	We have seen this problem if the batteries are not installedwith the correct orientation.
+	
+	
+	
+	
+	Also, make certain to push the LEFT button for several seconds to power up the unit. Sometimes, a user presses the button with the red dot, thinking it is the power button.
+	
+	
+

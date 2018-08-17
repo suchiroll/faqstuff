@@ -1,0 +1,31 @@
+Title: M95ED cartridge specifications
+Id: 2920
+Legacy Id: 3045
+
+Question:
+Please provide the performance specifications for my M95ED cartridge.
+
+
+Answer:
+
+	Tracking Force:
+	0.75 - 1.5 grams
+	
+	Frequency Response:
+	20 - 20,000 Hz
+	
+	Channel Separation:
+	25dB at 1,000 Hz
+	
+	Channel Balance:
+	Within 2 dB of each other
+	
+	Output Level:
+	4.7mV per channel at 1,000 Hz, 5 cm/sec peak recorded velocity
+	
+	Optimum Load:
+	47,000 ohms per channel
+	400 to 500 picofarads per channel
+	
+	Stylus:
+	Elliptical 0.0007 x 0.0002 inch

@@ -1,0 +1,12 @@
+Title: A and B both light = system okay?
+Id: 352
+Legacy Id: 359
+
+Question:
+I just bought a used T-Series with the SM58 handheld. Aside from needing to order a new power cord (worn at wall-wart end), I need to know if it's okay for both the receiver A AND B lights to be lit at the same time. The operating guide mentions one or the other. I've "home" tested the system and it works very well.
+
+
+Answer:
+
+	Yes, it is just fine if the A and B lights are both lit.
+

@@ -1,0 +1,33 @@
+Title: SB900 Hibernation Mode
+Id: 4686
+Legacy Id: 5856
+
+Question:
+Please provide technical details about the SB900 battery pack and hibernation mode.
+
+
+
+Answer:
+
+	If a battery enters hibernate mode, it can still be charged and used to operate products, but all intelligence in the batterybecomes non-functional.There is no battery life reporting in this state. The user will see ERR displayed as opposed to hours and minutes.If a battery enters hibernate mode and is then only charged to a minimal 3V, Shure products will interpret this as two AA cells and will allow the SB900 to discharge to a voltage that is too low. In this case, the SB900 must rely on its own internal protection voltage for shut down.
+	
+	Hibernation mode can affect SB900 batteries made before June 30, 2013. All SB900 batteries after this are not subject to hibernate mode, but still should not be left to self-discharge to 2.55V or less!
+	
+	The Fuel Gauge circuitry used in the SB900offers a Hibernate mode for minimal power consumption under long-term storage conditions.This protects the battery from being discharged to a very low voltage level.Unfortunately, hibernate mode is not supported with the interface present in the SB900. A SB900 battery will automatically enter Hibernate mode upon discharging to 2.55V, but the Fuel Gauge circuitry cannot recover.
+	
+	The SB900 has internal under-voltage protection set to 2.7V, so a Shure product cannot discharge a battery directly into hibernate mode.However, the under-voltage protection does not isolate the Fuel Gauge circuitry.If a SB900 battery is left at a low voltage, the Fuel Gauge will eventually discharge the SB900 to 2.55V.Ideally, these low voltages should never be reached in operation.For SB900 battery health and longevity, recharge the SB900 batteries after the Shure unit displays dead battery or recharge battery.
+	
+	Here are situations that can lead to hibernate mode:
+
+	a) User inserts a SB900 with a low voltage battery into aShure device**.The device will assume this is two AA cells and will allow the SB900 to discharge to a lower voltage.This still requires a period of SB900 self-discharge to reach hibernate mode because the SB900 low-voltage protection is at 2.7V.
+	
+	b) User discharges a SB900 battery in the Shure device** by leaving the power switch set to ON. The SB900 still receives internal protection at 2.7V and will require additional self-discharge.
+	
+	c) User discharges a SB900 battery to a normal voltage and then leaves it uncharged forfive months.
+
+	**Thisapplies to these Shure devices: P10R; P9RA; P3RA; P9HW; ULXD1; QLXD1; UR5
+	
+	Note: The SB900 employs a proprietary communication interface between the battery and the microprocessor on the Shure device. The battery has four contact points inside the Shure device: 1) Battery positive; 2) Battery negative; 3) Data path for communication; 4) Thermistor for charging.
+	
+	
+

@@ -1,0 +1,23 @@
+Title: Difference between balanced and unbalanced
+Id: 426
+Legacy Id: 433
+
+Question:
+What is the difference between balanced and unbalanced audio signals?
+
+
+Answer:
+
+	When properly implemented, a balanced audio circuit will rejected unwanted noise (hum, buzz, et al) better than an unbalanced audio circuit.
+	
+	The following is based on a definition from the book: Noise Reduction Techniques in Electronic Systems by Henry Ott, published by John Wiley  Sons:
+	
+	A balanced signal path is a two-conductor circuit in which both conductors (and all circuits connected to them) have the same impedance with respect to ground and to all other conductors. In an unbalanced signal path, the conductors do NOT have the same impedance with respect to ground.
+	
+	The purpose of balancing is so that unwanted noise is picked up equally in both conductors. Equal signal in both conductors is known as a common mode signal. A common mode signal can be made to cancel by use of an input circuit that responds only to the difference in signals found on the two conductors.
+	
+	For more information: http://www.jensen-transformers.com/faqs.html
+	
+	Another explanation can be found on page 11 of the following Shure booklet:
+	Microphone Techniques for Music - Sound Reinforcement
+

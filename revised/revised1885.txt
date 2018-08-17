@@ -1,0 +1,95 @@
+Title: How may I use my USB port to connect to the DFR22, P4800, DFR11EQ, UA888 or DP11EQ?
+Id: 1885
+Legacy Id: 1945
+
+Question:
+My new laptop doesn't have a serial port. Can I use a USB to serial port adapter?
+
+
+Answer:
+
+	It is possible to use either the USB port or the ethernet port on your laptop to control these devices. For information on using the USB port, read the following.
+
+	
+	Compatible USB to serial port adapters by operating system:
+	
+	Windows 7 - 64 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+
+	
+	
+	Windows 7 - 32 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949 (Download drivers from Radio Shack website)
+
+	
+	
+	Windows Vista - 32 bit
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949
+	Radio Shack #26-183 - If this Radio Shack adapter does not have Vista drivers available, you can use the XP drivers on the Vista Operating System. Instructions on installing the driver.
+
+	
+	
+	Windows XP
+	
+	Manufacturer/Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949
+	IOGear GUC232A
+	Tripp-Lite U209-000-R
+	IBM 22P5298
+	Generic UE-RA15SC-A
+	Radio Shack #26-183
+
+	
+	Windows 2000
+	
+	Manufacturer / Model
+	FTDI Chip US232R-100 (1 meter cable) or US232R-500 (5 meter cable)
+	Radio Shack #26-949
+	IOGear GUC232A
+	Tripp-Lite U209-000-R
+	IBM 22P5298
+	Generic UE-RA15SC-A
+
+	
+	
+	Windows ME
+	
+	Manufacturer/Model
+	Radio Shack #26-949
+
+	IOGear GUC232A
+	Tripp-Lite U209-000-R
+	Generic UE-RA15SC-A
+
+	
+	
+	Windows 98
+	
+	Manufacturer/Model
+	Radio Shack #26-949
+
+	IOGear GUC232A
+	Tripp-Lite U209-000-R
+	IBM 22P5298
+	Generic UE-RA15SC-A
+	
+	
+	Firmware upgrades should be done using a direct serial to serial connection.We do not recommend performing firmware updates over USB, as the results are not consistent and the firmware might become corrupt.
+	
+	If a firmware upgrade fails and the unit wont respond, the only way to bring it back is to connect using a computer with a serial port. You must connect to the serial port on the front panel of the unit and choose Firmware Upgrade from the file menu to begin the upgrade.
+	
+	If you still have problems, you may need to turn off extra software running in the system tray and the like. Also, any time a unit is malfunctioning - whether using from a USB to serial adapter or not - the only way to bring it back via a firmware upgrade is to connect to the serial port on the front panel. Connecting to the back panel serial port wont work.
+	
+	In the event the converter does not allow you to connect to a DFR11EQ, DP11EQ, or P4800 processor, chances are it was assigned a COM port of 5 or greater. Most Shure software only communicates through one of the first four COM ports. (The DFR22 software can address COM ports 1 - 32.) To make the converter work, you must manually reassign it to either COM 1, 2, 3, or 4. The COM port assignment is normally managed in the Windows DEVICE MANAGER under the Ports (COM and LPT) category.This process will be different depending on the model of converter, so check with the manufacturer of the USB-to-serial adapter for the proper instructions.
+	
+	A final note: The DFR11EQ and DP11EQ programming software is not compatible with and will not install on a PC using a Windows 64-bit operating system.These programs should install and run on the 32-bit versions of the Windows operating systems.For best results on Windows Vista and 7 (both 32-bit), set the programs compatibility mode to Windows XP (Service Pack 2).
+

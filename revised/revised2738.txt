@@ -1,0 +1,100 @@
+Title: Why does Proximity Effect Occur?
+Id: 2738
+Legacy Id: 2844
+
+Question:
+Why does Proximity Effect occur?
+
+
+Answer:
+
+	
+		
+			
+				
+					Proximity Effect
+				
+					In its simplest form, proximity effect is the increase of bass frequencies as a directional microphone comes closer to the sound source. But why? Why do the bass frequencies increase as the microphone gets closer to the sound source?
+				
+				
+					Pressure Differences
+				
+					First, we need to understand a bit about how a directional microphone operates. A directional microphone (also called a pressure gradient microphone) gets its output signal by responding to the difference in pressure from the front of the diaphragm to the rear of the diaphragm. When a sound wave is on axis with the diaphragm, the sound wave must travel a further distance to get to the rear of the diaphragm (figure 1). That means, if we take a snap shot in time, the wave will be slightly delayed at the rear of the microphone.
+				
+				
+					A typical distance from the front to the rear of the microphone might be 8.5 mm. Thus, the sound wave that hits the back of the diaphragm has to travel an additional 8.5 mm, and hence, is delayed from the front wave. Figures 2-4 shows that if we have the same 8.5 mm distance at different frequencies (green lines), the change in pressure would also be different. At low frequencies (figure 2), the difference in pressure (red line) between the front and rear is smaller than at mid (figure 3) or high (figure 4) frequencies.
+					
+			
+		
+		
+			
+				
+					  
+			
+		
+		
+			
+				
+				If we plot these graphs a different way, by plotting all of the red lines on one graph we show that the frequency response of the diaphragm increases 6 dB/octave (figure 5). The green line in figure 5 is the actual response of directional diaphragm and is called the gradient component of the response. Of course, a microphone whose frequency response increases 6 dB/octave would not be considered good. To compensate, the diaphragm of the microphone is damped to create a 6 dB/octave decrease. The combination of these two factors create an overall frequency response that is flat (figure 6).
+				
+		
+		
+			
+				
+					 
+			
+		
+		
+			
+				
+					
+					Inverse Square Law
+				
+					The inverse square law is the rule that helps explain why sound gets softer as it gets further away from the sound source. As the wave disperses from a source, the energy from the original noise keeps expanding over a larger and larger sphere. Since there must be conservation of energy, as the sphere gets larger each point on the sphere actually contains less energy. In figure 7, at 1 meter from the sound source, the blue square contains a certain amount of energy. At 2 meters from the sound source, that same amount of energy must now be spread over the larger green square.
+				
+				
+					If we place a microphone at the blue square, the distance from the source to the front of the microphone is 1.0000 meters. The distance from the source to the rear of the microphone is 1.0085 meters. As an example, lets say that the source has an output of 1 watt. Calculating the difference in pressure between the front and rear of the microphone at the blue square, yields 0.047 Pa. Calculating the same difference at 2 meters (the green square), we get 0.012 Pa. Thus, we can conclude that as the microphone moves closer to the source, this inverse square component becomes larger. The inverse square component is also equal for every frequency.
+				
+				
+					Figure 8 shows the inverse square component and the gradient component (from Figure 5) when the microphone is far away from the sound source. At this distance the pressure difference from the gradient component is larger than the pressure difference from the inverse square component. Note that Figure 8 is also with an undamped diaphragm. Once we damp the diaphragm, the graph will tilt, and we get Figure 9.
+					
+			
+		
+		
+			
+				
+					 
+			
+		
+		
+			
+				
+				As the microphone moves closer to the sound source, the inverse square component becomes larger (we proved this in figure 7), overtaking the gradient component. Figures 10 and 11 show the microphone a bit closer to the sound source. Figure 10 is undamped, figure 11 is damped.
+				
+		
+		
+			
+				
+					 
+			
+		
+		
+			
+				
+				With the microphone at this distance, we can see the proximity effect start to come into play, as the microphone moves even closer to the sound source, the inverse square component keeps rising on the graph and we get figure 12 (undamped diaphragm) and figure 13 (damped diaphragm).
+				
+		
+		
+			
+				
+					 
+			
+		
+		
+			
+				
+				Whew, we finally made it. Once we take the undamped response from Figure 12 and apply the damping factor to it, we get figure 13. The green line in figure 13 is the overall response of the microphone showing proximity effect.
+		
+	
+
+

@@ -1,0 +1,18 @@
+Title: Shure 450 to Kenwood radio model TS440S
+Id: 234
+Legacy Id: 239
+
+Question:
+Please provide wiring information for the Shure 450 to a Kenwood amateur radio model TS440S.
+
+
+Answer:
+
+	To wire a Shure model 450 to a Kenwood model TS440S, we suggest the following:
+	
+	White wire to radio pin #1 (audio/hot)
+	Shield wire to radio pin #7 (audio/ground)
+	Black wire to radio pin #8 (push to talk/ground)
+	Red wire to radio pin #2 (push to talk/hot)
+	
+	This is based on dated information about the Kenwood radio. As radio manufacturers often change the designs of their radios, and Shure does not keep track of every manufacturer's design changes, we suggest you ask Kenwood if this wiring scenario appears to be correct.

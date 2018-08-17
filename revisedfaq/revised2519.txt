@@ -1,0 +1,16 @@
+Title: V15-RS Stylus
+Id: 2519
+Legacy Id: 2615
+
+Question:
+I have a V15-RS cartridge, which was supposed to be the same as the Shure V-15, but sold through Radio Shack. Can you tell me what differences there were between what Shure was selling as the V15 and this Radio Shack branded V15? Also, which V15 was this supposed to be - III, IV, etc.?
+
+
+Answer:
+
+	The V15-RS was similar to the V15-III. The major difference was the packaging/model number.
+	
+	The replacement stylus is the VNSE3HE.
+	
+	Another stylus that will fit: N111E
+

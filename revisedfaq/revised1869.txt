@@ -1,0 +1,15 @@
+Title: Extension cable for model 450 Series II microphone
+Id: 1869
+Legacy Id: 1929
+
+Question:
+I am looking for an extension cable to fit the Shure Model 450 Series II microphone. I need a cord approx. 20 ft long.
+
+
+Answer:
+
+	The 450 microphone comes from us with a 7 foot attached cable that has no connector on it.
+	If your microphone still has no connector on it, then you can purchase additional cable from any cable supplier (www.markertek.com).
+	If you are looking for a longer coil cord to replace the one that came on it, contact Philmore Electronics at 815-874-2301.
+	If someone put a connector on your microphone, you will need to find out what type of connector it is. If it's a 3-pin XLR connector, then you can purchase an C25J cable from our Shure Parts at 800-516-2525.
+	If the microphone has a connector other than a 3-pin XLR, then you might want to try Markertek to see if they have an extension cable for you.

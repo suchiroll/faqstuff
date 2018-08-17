@@ -1,0 +1,14 @@
+Title: Vertical Tracking Angle of V15
+Id: 1149
+Legacy Id: 1188
+
+Question:
+I am a proud owner of your V15 type Vmr cartridge. I've recently become very interested in the particulars of phono cartridges and I would like you to humour me and please tell me what the stylus rake angle of my cartridge is (assuming all other angles are set to your specifications).
+
+
+
+
+Answer:
+
+	The vertical tracking angle is 15 degrees, thus the V15 name.
+

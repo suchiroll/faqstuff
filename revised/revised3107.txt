@@ -1,0 +1,38 @@
+Title: AMX  /  Crestron control of UHF-R receiver
+Id: 3107
+Legacy Id: 3240
+
+Question:
+What are the serial strings to control the UHF-R receiver with an AMX or Crestron?
+
+
+Answer:
+
+	Crestron and AMX can control the UHF-R receivers via the Ethernet port.
+	
+	Below is a PDF download of the serial strings.
+	
+	The AMX or Crestron can control and/or monitor the following items:
+
+
+	
+		RF Signal Strength
+	
+		Audio Level
+	
+		Receiver Name
+	
+		Receiver Frequency
+	
+		Receiver Group/Channel
+	
+		Volume control
+	
+		Mute
+	
+		Battery Level
+
+
+
+	Below is a download of a Crestron Macro for UHF-R (written by Shure).
+

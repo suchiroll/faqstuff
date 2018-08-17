@@ -1,0 +1,22 @@
+Title: Protecting body pack antenna in aerobics
+Id: 1763
+Legacy Id: 1823
+
+Question:
+I am an aerobics coordinator. We have been using your products for 5 plus years now and are very satisfied. I know the life span for a headset microphone is only 3 months but we seem to have more trouble with the receiver pack antenna. I really think it is the belt packs that my instructors are using but it has become increasing difficult to find packs that don't scrunch up the antenna. Can we order and replace the antenna separately ourselves? Do you have any suggestions for longer life? Our microphone # is WH20 I'm not sure what the receiver pack # is, sorry. One other thing, I need a bulk of microphone covers do you sell those in a big pack (5 plus)?
+
+
+Answer:
+
+	The bodypack is called a transmitter. The larger box that sits near your mixer/amplifier is called the receiver.
+
+	It may be possible to order new body pack antennas from our Parts Department (800-516-2525), but they would have to be soldered onto the PC Board by a qualified technician. If you know anyone that is handy with a soldering iron, they should be able to handle it.
+
+	When you purchase new wireless systems, consider a system like the BLX. The antenna on the BLX series is only about 3 inches long, so it may hold up better for you. The BLX series operates in a different frequency range, so it uses a shorter antenna. Unfortunately, this shorter antenna can NOT be used on your current systems.
+
+	You might want to try using the WA570A Neoprene belt pouch. In our experience, placing the bodypack in this pouch helps shield the antenna from breaking as often. The antenna must still stick out of the pouch and hang down, stretched out. The pouch simply protects the area where the antenna enters into the bodypack.
+
+	For a headset mic, we would recommend the SM31FH for fitness use, as it has additional sweat protection and is more rugged than the WH20.
+	
+	Microphone windscreens can be purchased from our Parts Department at 800-516-2525.
+

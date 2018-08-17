@@ -1,0 +1,20 @@
+Title: Shure Bros 707A Mic
+Id: 1826
+Legacy Id: 1886
+
+Question:
+I have a 707A Shure Mic which was picked up in a garage sale. I read earlier posts/FAQ's about these mic's and would appreciate answers to know three questions:
+
+
+1. The cable/mic is hard wired with a cord and connector I have never seen before. Can this be switched out to either an XLR or a TRS type connector = and how and where would you suggest I send the mic for this "switchout".
+
+
+2. Is there any way to test or inspect the mic to see if it is still functional and worth investing in the upgraded cable I asked about above?
+
+
+3. Is this a HI or LOW Z mic?
+
+
+Answer:
+
+	1) Here a link to the data sheet:http://pubs.shure.com/guide/Model-707A/en-US.pdf2) Can this be switched out to either an XLR or a TRS type connector = and how and where would you suggest I send the mic for this "switchout" * Contact Tom Ellis at: tommics@flexcomp.com    Tom is an expert at vintage mic repair.3) Is there any way to test or inspect the mic to see if it is still functional and worth investing in the upgraded cable I asked about above? * Tom might be able to suggest how to test it.4) Is this a HI or LOW Z mic? * High Z.

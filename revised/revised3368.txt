@@ -1,0 +1,50 @@
+Title: Proprietary AT 8525 headset adapter info
+Id: 3368
+Legacy Id: 3555
+
+Question:
+I'm interested in purchasing some of your products that would work as a Mobile Headset, but your web site indicates it is not compatible with my
+Cingular 8525 (now called AT 8525) which is manufactured by HTC as the Dash, WING, Mogul.   Do you have anything that would work?
+
+
+Answer:
+
+	That phone uses a proprietary connector and we do not have a product that will directly connect to it.
+	
+	Here is a link to a website that carries an adapter for 3.5mm headphones. It however does not pass a microphone so this adapter and SE model earphones would work for stereo music playback only.
+	
+	http://www.daydeal.com/product.php?productid=15366cat=2787
+	
+	This adapter has a built in microphone and send/end button and would work well with SE model earphones due to the modular short cable.
+	
+	http://www.daydeal.com/product.php?productid=15783cat=2787
+	or
+	http://www.mobileplanet.com/p.aspx?i=144719
+	
+	According to their website the above adapter will work with the following phones.
+	
+	ATT 8525
+	Cingular 8525
+	T-Mobile Dash
+	T-Mobile Wing
+	Sprint Mogul
+	UTStarcom PPC-6800
+	Verizon XV6800
+	HTC Cavalier S630
+	HTC Touch P3450
+	HTC Mogul
+	HTC Titan
+	HTC P4000
+	HTC Herald
+	HTC P4350
+	HTC Excalibur S620
+	HTC Hermes
+	HTC TyTN
+	Dopod 838 Pro
+	Dopod CHT9000
+	i-mate JasJam
+	MDA Vario II
+	O2 Xda Cosmo
+	O2 XDA Trion
+	Qtek 9600
+

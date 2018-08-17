@@ -1,0 +1,11 @@
+Title: WA621 Color ID Caps for BLX2 handheld transmitter
+Id: 5368
+Legacy Id: 5355
+
+Question:
+WA621 Color ID Caps for BLX2 handheld transmitter
+
+Answer:
+
+	The model WA621 includes five plastic caps with in these colors: Red; Green; Blue; Yellow; White. The BLX2 transmitter is factory supplied with a black cap. (Systems that include the BLX88 alsocontain a grey cap.)The black cap can be removed and replaced by one of the WA621 caps. Instructions for changing the plastic cap are in the BLX User Guide.
+

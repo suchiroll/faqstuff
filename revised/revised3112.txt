@@ -1,0 +1,31 @@
+Title: Theater Audio - WL93 or other miniature lapel mic as a headworn microphone
+Id: 3112
+Legacy Id: 3245
+
+Question:
+How can I use the WL93 as a headworn mic?
+
+
+Answer:
+
+	1) Obtain a package of pipe cleaners from a craft/hobby store. Pipe cleaners are flexible wire covered in a soft, fuzzy material.
+	
+	2) Starting about two inches away from the WL93 mic element, wrap the pipe cleaner tightly around the mic cable.
+	
+	3) Mold the pipe cleaner into a U shape and place over the ear.
+	
+	4) At the back of the ear, secure the cable to the head or neck using surgical tape; this tape is easy to remove but remains secure.
+	
+	5) At the front of the ear, it may also be necessary to secure the cable to the head using surgical tape.
+	
+	6) Optional step: dip the pipe cleaner / cable combination in liquid plastic; this material is used to coat the handles of tools and may be purchased at a hardware store.
+	
+	Another design is to purchase an ear-shaped plastic piece designed to hold a single earphone; Radio Shack sells this part. Then secure the WL93 cable to this part using the pipe cleaner.
+	
+
+	
+
+
+
+	Finally, Sennheiser offers the model NB2 headset accessory. The WL93 is attached to the NB2 and the resulting combination is a headworn microphone.
+

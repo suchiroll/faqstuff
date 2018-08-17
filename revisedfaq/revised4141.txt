@@ -1,0 +1,16 @@
+Title: PGXD vs PGX Analog and Wind Noise Reduction
+Id: 4141
+Legacy Id: 5042
+
+Question:
+I first had purchased and used a PGX14/85 wireless lavalier system. I then decided to switch it out for the digital version PGXD14/85. I noticed a dramatic improvement in tonal quality, but also noticed it sounded like it did better at rejecting wind noise. I could have been imagining it. Does the digital version reject wind noise better than the analog?
+
+
+Answer:
+
+	Does the digital version reject wind noise better than the analog?
+	
+	* No.
+	
+	* But here is a hypothesis:the PGX analog uses companding for the audio signal.A compander can get confused by low frequency wind noise, and create audible artifacts. PGX Digital does not compand the signal, thus no artifacts from wind noise
+

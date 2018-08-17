@@ -1,0 +1,15 @@
+Title: Mic techniques for hip-hop or rap
+Id: 272
+Legacy Id: 278
+
+Question:
+How do I keep hip-hop or rap artists from covering up the ball of the microphone?  When they cover up the ball they destroy the polar pattern and frequency response of the microphone.  How can I prevent this?
+
+Answer:
+
+	Whenever the grill of the microphone is covered up, the polar pattern of the microphone is affected negatively. Also, the frequency response changes due to the reflections and resonances that the cupped hand creates. Using the SM58 as an example, here is a suggestion to solve this problem.
+	
+	Take the ball grill off a standard SM58 and find an old snare drum skin. Trace the outside diameter of the SM58 grill on the old drum skin. Cut the skin just slightly larger than the circle traced, about a quarter inch. Next, cut a circle the same diameter as the threaded portion of the body of the mic. Place this small ring on the body of the mic and screw the grill back on. The result is a small ring of drum skin just beneath the grill of the mic. This ring is annoying to anyone holding the mic the wrong way, without doing any actual damage to the artists hands. This device is also interchangeable with other mics and it works like a charm if youre willing to take the time to do it to each mic that will be used as a vocal. There is a slight difference in the mics performance and frequency response but it is much less than the problems caused by a cupped hand over the mic ball.
+	
+	Thank you to sound engineer Fedjwick Sylvanus for the above suggestion.
+

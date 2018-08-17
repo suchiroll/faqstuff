@@ -1,0 +1,22 @@
+Title: microphone selection and usage question - barbershop quartet on stage
+Id: 3323
+Legacy Id: 3496
+
+Question:
+What microphone and at what distance would you use for a barbershop quartet on a stage in a moderately live hall with an installed distributed sound system?
+
+
+Answer:
+
+	There is no correct answer to this question. I can provide guidelines:
+	
+	1) Type of mic: condenser with a cardioid pattern. Examples: Shure SM81, Shure Beta27...there are many others.
+	
+	2) The cardioid pattern has a pick-up angle of 130 degrees. All singers must be within the 130 degree window; all must be equal distant to the mic.
+	
+	3) The closer the quartet is to the mic, the louder the quartet will be in the loudspeakers.
+	
+	4) In some halls, the acoustics and the loudspeaker location may require that each singer have his own mic and be within inches of the mic. In that case, look at models like the Shure KSM9, Beta 58, or SM58.
+	
+	Also, please see this link: Miking for barbershop quartets
+

@@ -1,0 +1,11 @@
+Title: T Series Frequency Selection
+Id: 538
+Legacy Id: 549
+
+Question:
+I now own a Shure T4 Diversity system - freq. 182.200 MHz. I would like to purchase a Shure TV58D system. Will there be a problem using both systems at the same time? Two singers will be using both mic's at the same time. Do I need to be concerned about freq. of new system?
+
+Answer:
+
+	You do need to be concerned. Our T Series systems are broken down into two groups: Red Dot and Blue Dot. The frequency 182.2 MHz is part of our Red Dot group. So, when you go get a new system, make certain it is also part of the Red Dot group, but DO NOT buy another 182.2 MHz system. The label on the outside of the box will indicate if it is Red Dot or Blue Dot. All Red Dots are compatible with other Red Dots. All Blue Dots are compatible with other Blue Dots. However, do not mix the two groups.
+

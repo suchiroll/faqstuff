@@ -1,0 +1,20 @@
+Title: I have a  T-series wireless system for guitars single antenna.  The sound fro...
+Id: 139
+Legacy Id: 139
+
+Question:
+I have a T-series wireless system for guitars, single antenna. The sound from my guitar always cuts off while I'm playing together with the band. How do I fix this problem?
+
+
+Answer:
+
+	There a few things that could be causing this as described below.
+
+	
+		When the drop out occurs, is it because you standing in particular spot? That is, when you move just a little bit, does the signal come back, but everytime you step in that one spot the signal drops out? This would also be indicated by the amber RF LED going out. If this is the case, then you are getting a multi-path drop-out. Single antenna (non-diversity) systems are prone to drop-outs. Thats physics we are sorry to say. The only solution for this problem is to get a diversity system. You can try moving your non-diversity receiver around to different locations to try to minimize the drop-outs, but dropouts are a way of life when dealing with non-diversity systems.
+	
+		When the drop out occurs, is it because someone else in the band turned on their wireless system? If this is the case, then you have uncompatible frequencies. To solve this, you need to change frequencies on one of the systems to a compatible frequency.
+	
+		Make certain the red peak light is only coming on at the very loudest points of your playing. If you are constantly overloading the wireless system, it may do odd things like mute the audio signal.
+
+

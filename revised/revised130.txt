@@ -1,0 +1,12 @@
+Title: Mic for recording a bell choir
+Id: 130
+Legacy Id: 130
+
+Question:
+What microphone(s) would you suggest for recording a bell choir (3 octaves of bells on 3, six foot long tables in a row). Using a digital (Roland VS-880EX)8 track hard disc recorder.
+
+
+Answer:
+
+	We would suggest trying a pair of KSM137, SM81, SM137, or PGA81. You could also try a VP88 stereo microphone. Youll need to place the microphones out in the room so that you pick up the ambience and natural reverberation of the room. It would probably sound unnatural to close mic the bells. You could try experimenting with placing the tables in a circle around a pair of microphones. Use your imagination and your ear. If the recording sounds good to you, than thats the right way to do it.
+

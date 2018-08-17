@@ -1,0 +1,18 @@
+Title: Condenser microphones with switchable polar patterns
+Id: 877
+Legacy Id: 904
+
+Question:
+Which condenser microphones have switchable polar patterns? I only want to buy 2 mics but want to achieve xy pair mid+side and spaced omni's. Is this possible?
+
+
+
+
+
+
+
+
+Answer:
+
+	Yes, using the KSM44. It is switchable between omni, cardioid, and bidirectional.
+

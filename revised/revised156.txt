@@ -1,0 +1,13 @@
+Title: Which frequencies do the PSM systems use in the U.S.?
+Id: 156
+Legacy Id: 156
+
+Question:
+Which frequencies does the PSM systems use in the United States?
+
+Answer:
+
+	See the following link:
+	
+	Frequency Charts
+

@@ -1,0 +1,16 @@
+Title: Discontinued Wireless Receiver-- W20R
+Id: 2584
+Legacy Id: 2683
+
+Question:
+I have a Shure W20R Wireless Microphone Receiver that seems to work quite well but I'm getting a bit of noise with it. I have no antennae to fit it! By any chance do you have something that would fit this older model and what could I do about getting one?
+
+
+Answer:
+
+	Sorry. We no longer have parts for the W20R. Try Telex in Minneapolis: phone 800-392-3497.
+	
+	The W20R was made by Telex for Shure, before Shure started manufacturing its own wireless receivers. The W20R was based on a standard Telex receiver.
+	
+	When you call Telex, ask for someone that worked there in the late 1980s or they may not know about this joint effort between Telex and Shure.
+

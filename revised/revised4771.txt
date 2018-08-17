@@ -1,0 +1,14 @@
+Title: KSE1500 Diaphragm Mass
+Id: 4771
+Legacy Id: 5954
+
+Question:
+I heard that the KSE1500 diaphragm is "virtually mass-less." How much does it weigh?
+
+
+Answer:
+
+	It takes just over 6,000 KSE1500 diaphragms to equal one gram.
+	
+	Or it takes 15,000 KSE1500 diaphragms to equal the weight of one U.S. penny (one cent coin).
+

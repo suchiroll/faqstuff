@@ -1,0 +1,16 @@
+Title: Limiter on the M62V and the SR109
+Id: 4357
+Legacy Id: 5442
+
+Question:
+You might have heard how the vintage shure M62V level loc has become a much sought after unit in recording studios. Its limiter is being (ab)used for distorting drums, and that sound is then summed with the original undistorted drum sound, beefing up things an giving the drum set an edge. I was wondering how similar is the SR109's limiter compared to the shure level loc own limiter.
+
+
+Answer:
+
+	Sorry, the engineers that designed these products are either retired or have passed away. The only knowledge that remains about these products are User Guides.
+	
+	Here is the M62V Circuit if you want to re-create it: https://522bb370f5443d4fe5b9-f62de27af599bb6703e11b472beadbcc.ssl.cf2.rackcdn.com/user_guide/upload/980/us_pro_m62circuit_ug.pdf
+	
+	Here is the SR109: https://522bb370f5443d4fe5b9-f62de27af599bb6703e11b472beadbcc.ssl.cf2.rackcdn.com/user_guide/upload/1604/us_pro_sr109_ug.pdf
+

@@ -1,0 +1,28 @@
+Title: SCM820 Crestron code - Gating channels on.
+Id: 4527
+Legacy Id: 5645
+
+Question:
+Do the following commands turn on/off gating for channel 1 on Mix A?
+AlwaysOnAInput1On
+AlwaysOnAInput1Off
+
+Are there commands to turn gating on  off for all mic channels?
+
+Answer:
+
+	To force a channel on, send:
+	
+	 SET 1 ALWAYS_ON_ENABLE_A ON 
+	
+	To put the channel back to automix mode, send:
+	
+	 SET 1 ALWAYS_ON_ENABLE_A OFF 
+	
+	To control all channels, send:
+	
+	 SET 0 ALWAYS_ON_ENABLE_A ON 
+	 SET 0 ALWAYS_ON_ENABLE_A OFF 
+	
+	Note that this does not force a channel off. This only switches between ON and AUTOMIX. To force a channel off, use the AUDIO_MUTE command.
+

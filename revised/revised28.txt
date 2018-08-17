@@ -1,0 +1,14 @@
+Title: Two transmitters and one receiver?
+Id: 28
+Legacy Id: 28
+
+Question:
+I bought two Shure wireless systems recently. One is a SM58 handheld wireless system. The other is a Headset system which has the same style receiver as the SM58 handheld system. Is it possible to order another SM58 handheld transmitter on the same frequency as the Headset so I can use that receiver as either a headset or handheld as needed?
+
+
+Answer:
+
+	Yes, you may purchase a handheld transmitter for any Shure wireless receiver. We would need to know the model number of the receiver and its frequency. This information is available on a label placed on the receiver. You could then use the Headset or the new SM58 transmitter, but never both at the same time!
+	
+	If you might need all three transmitters to work simultaneously, you should purchase a new wireless system (SM58 handheld transmitter plus receiver) on a third frequency so that the three systems may work simultaneously.
+

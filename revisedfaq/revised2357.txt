@@ -1,0 +1,18 @@
+Title: No sound from my turntable
+Id: 2357
+Legacy Id: 2446
+
+Question:
+I have a rather old system that has experienced very little phono use for some time. I recently acquired the ability to record and wish to put some of my "old" vinyl recordings on disc. I was surprised that, when attempting to play some records, there was absolutely no sound at all coming from the phono input. I have a relatively inexpensive Sony PS-FL7 II Automatic turntable. As I remember a while back, the sound was becoming much less dynamic and I began to not listen to my record collection at all. I would like to know if my problem could be a completely "dead" cartridge and, if so, which Shure Cartridge would you recommend to purchase. I did try to connect the phono to a Pioneer 757 integrated amplifier with no luck - absolutely no sound.
+
+
+Answer:
+
+	The problem could be the cartrdige, but more likely is corrosion in the electrical connections. Clean every electrical connection starting at the cartridge and working toward the receiver.
+	
+	For info on connection cleaning, see:http://www.caig.com
+	
+	If the cartridge is at fault, read below:
+	
+	Which phono cartridge will fit my turntable?
+

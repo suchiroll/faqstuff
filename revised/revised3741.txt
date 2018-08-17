@@ -1,0 +1,11 @@
+Title: Weight of V15V-MR cartridge
+Id: 3741
+Legacy Id: 3977
+
+Question:
+What is the total weight of the V15VMR cartridge with stylus attached?
+
+
+Answer:
+
+	6.6 grams.

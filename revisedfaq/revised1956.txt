@@ -1,0 +1,15 @@
+Title: M267 mixers - using the Mix Bus
+Id: 1956
+Legacy Id: 2019
+
+Question:
+Why is it when I use the mix bus feature to tie two mixers together, my noise level increases from -50 to -30? I thought by using this feature there would be no adverse affect.
+
+
+Answer:
+
+	The Mix Bus is passive. When connected via the Mix Bus, the audio level of each mixer falls by 6 dB, so each mixer's program level is now 6 dB closer to the noise floor, i.e., the S/N ratio has worsened by 6 dB.
+	
+	Your message indicates the S/N ratio worsens by 20 dB, not 6 dB. This is not correct. How have you made these measurements?
+	
+	Try your measurements powering each mixer via three nine volt batteries. Are the results the same? If not, you may have a ground loop problem between the linked mixers.

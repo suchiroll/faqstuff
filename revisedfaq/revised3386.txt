@@ -1,0 +1,26 @@
+Title: Safe Listening levels with my SE210's and my iPod
+Id: 3386
+Legacy Id: 3574
+
+Question:
+I read in another FAQ that if I send you my earphone model and inform you that I am using an ipod (which I am), you'll be able to let me know which levels are safe for listening without damaging my ears.
+
+I have the SE210's and a Third generation iPod, I would really appreciate it if you could help me determine which levels are safe!
+
+Answer:
+
+	In the United States, the safe listening level for 8 hours is 90 dB SPL (Sound Pressure Level).
+	
+	The SE210 has a rating of 114 dB SPL with an input level of 1 milliwatt. Working backward:
+	
+	.5 milliwatt(mW) = 111 dB
+	.25 mW = 108 dB
+	.12 mW = 105 dB
+	.06 mW = 102 dB
+	.03 mW = 99 dB
+	.015 mW = 96 dB
+	.007 mW = 93 dB
+	.0035 mW = 90 dB
+	
+	Now you must ask Apple this question: What setting on my Ipod will deliver .0035 mW into a earbud with an impedance of 26 ohms? Apple's answer will provide the setting you seek.
+	 

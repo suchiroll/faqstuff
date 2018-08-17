@@ -1,0 +1,11 @@
+Title: Replacement Cartridge for Realistic R1000 EDT
+Id: 164
+Legacy Id: 165
+
+Question:
+I have a Realistic LAB 440 turntable and need a new cartridge and stylus.  It currently has a Realistic R1000 EDT cartridge and a Shure RS8T stylus in it.
+
+Answer:
+
+	We suggest the M97xE (best) or the M92E (good).
+

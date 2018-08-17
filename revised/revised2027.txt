@@ -1,0 +1,16 @@
+Title: Does the SCM810 come with a cable to link to another unit?
+Id: 2027
+Legacy Id: 2092
+
+Question:
+Does the SCM810 come with the connecting cable to link it to another unit? Can you hook a SCM810 up to a SCM410? We only need 10 channels. Also, How do you hook up a SCM810 to and SCM268?
+
+
+Answer:
+
+	Does the SCM810 come with the connecting cable to link it to another unit? *Yes.
+	
+	Can you hook a SCM810 up to a SCM410? *Yes.
+	
+	How do you hook up a SCM810 to and SCM268? *Aux Output of the SCM268 can feed the Aux Input of the SCM810.
+

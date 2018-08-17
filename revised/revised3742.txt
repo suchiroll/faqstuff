@@ -1,0 +1,36 @@
+Title: Static Compliance Specifications and Definition
+Id: 3742
+Legacy Id: 3978
+
+Question:
+What are the static compliance specifications for Shure phono cartridges?
+
+
+Answer:
+
+	V15 Type I - 0.000025 cm per dyne of force
+	
+	V15 Type II - 0.000025 cm per dyne of force
+	
+	V15 Type III - 0.000030 cm per dyne of force
+	
+	V15 Type IV - 0.000025 cm per dyne of force
+	
+	V15 Type V (all versions) - 0.000025 cm per dyne of force
+	
+	All other cartridges that track from 0.75 to 1.5 grams - 0.000025 cm per dyne of force
+	
+	All cartridges that track from 1.5 to 3.0 grams - 0.000020 cm per dyne of force
+	
+	All cartridges that track from2.0 to 4.0 grams - 0.000015 cm per dyne of force
+	
+	All cartridges that track from3.0 to 5.0 grams - 0.000010 cm per dyne of force
+	
+	Note: Static compliance is an indicator of low frequency tracking only. High frequency tracking is dependent upon stylus mass and stylus stiffness. High frequency tracking is specified (when available) by trackability specifications.
+	
+	In basic terms, compliance is the opposite for stiffness. High stiffness = low compliance. Low stiffness = high compliance. The static compliance of a phono stylus is determined by the stiffness of the elastic bushing that supports the stylus shank.
+	
+	Look above at the V15 Type I. Apply one dyne of force (by pushing sideways)on the stylus tip and the tip moves 0.000025 cm away from its resting spot.A stylus that requires a greater tracking force is less compliant because the stylus shank is more robust,and the heaviershankrequires a stiffer elastic bushing for support.
+	
+	Analogy: A plastic straw can be supported by a soft elastic bushing. That same bushing would collapse if the straw were made of iron.
+

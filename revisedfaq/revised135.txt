@@ -1,0 +1,12 @@
+Title: In the MX202 series, what mic would be best for choir pick-up
+Id: 135
+Legacy Id: 135
+
+Question:
+In the MX202 series, what mic would be best for choir pick-up (cardioid, supercardioid, or omni-directional).
+
+
+Answer:
+
+	The Cardioid and Supercardioid would be the best choices as these are directional pick up patterns and will minimize feedback and background noise pickup. The cardioid is the one usually recommended for choirs as it has a wider pickup pattern that the supercardioid. A cardioid will pick up a larger number of people per mic. The supercardioid has a narrower pick up pattern than the cardioid. The narrower pattern is useful to further reduce the pickup of unwanted background sounds.
+

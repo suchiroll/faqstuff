@@ -1,0 +1,11 @@
+Title: Why does a supercardioid polar pattern have a rear lobe?
+Id: 838
+Legacy Id: 862
+
+Question:
+This is a basic design question that I've had a hard time finding an answer to. Why can't manufacturers make a super or hyper-cardioid mic that doesn't have that "bubble" at 180 degrees? This would give the obvious benefit of having a mic that would reject feedback no matter where the monitors are. I suspect that there is some type of physical limitation with the design process. Could someone please elaborate on the reason?
+
+Answer:
+
+	Because acoustical physics wont allow this improvement. There is no simple layman explanation. The answers lie in the physics and math of mic design. If you have a heavy math background, the equations can be found in the book: Microphone Engineering Handbook, by Michael Gaylord, ISBN 0-7506-1199-5
+

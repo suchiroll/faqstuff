@@ -1,0 +1,14 @@
+Title: Motiv MVi 1/4" phone jack input operation
+Id: 4738
+Legacy Id: 5911
+
+Question:
+Is there anything unique about the MVi phone jack input?
+
+
+Answer:
+
+	Yes. When the MVi detects something plugged intothe  phone jack, it automatically changes to the Flat preset and changes the input gain to accommodate a high level signal source such as an electric guitar; also the other DSP modes will not be available.In this case, the Mode button will enable or disable direct monitoring of the input signal through the MVis headphone output.This is useful when using guitar amp simulators, for example, where it is desirable only to hear the effected signal.
+	
+	We strongly recommend using the XLR jack when plugging a low impedance microphone into the MVi.Note that certain mics, like the PGA48-QTR, include a cable that terminates with a  phone plug; this will result in very low output with the MVi. In place of the XLR to 1/4 phone plug cable, use a standard XLR-Female to XLR-Male microphone cable.
+

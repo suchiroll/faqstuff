@@ -1,0 +1,43 @@
+Title: Hum and buzz with Shure phono cartridge
+Id: 4190
+Legacy Id: 5144
+
+Question:
+I have a 26(!) year old V15 Type V MR mounted on a '85 AR turntable with a Linn Basik arm.It was professionally set up when I got the deck, and I make sure that the turntable is kept clean, belt dusted, and spindle lubricated; and double check the stylus force from time to time.But I've left the cartridge alone, save for making sure that the metal screws haven't loosened up (they haven't), and replacing the stylus when needed.
+
+I have a maddening hum/buzz in the cartridge that I notice particularly when I get my hand near the headshell (integrated with the arm on the Basik), that only goes away when I 'zap' the cartridge with my Zerostat.But it does come back particularly towards the end of the disc.Help!
+
+
+Answer:
+
+	Hum issues are typically associated with a grounding issue.Grounding issues are difficult to find in person and nearly impossible to diagnose via email.Perhaps these links will provide hints that you can use:
+	
+	Answer Title: Hum in a Hi-Fi System or Turntable
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/hum-and-buzz-with-shure-phono-cartridge
+
+	
+	Answer Title: Buzz or hum on my phonograph
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/hum-and-buzz-with-shure-phono-cartridge
+	
+	Answer Title: Ground Loop Buzz or Hum with Metal Headshells
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/hum-and-buzz-with-shure-phono-cartridge
+
+	********************************************************
+	Q. Thanks. If this helps (this was in my original question, it is more like a buzz, and it is sporadic.
+	
+	I notice it particularly when I get my hand near the headshell, and it goes away when I zap the cartridge with my Zerostat. But it does come back particularly towards the end of the disc.
+	
+	So, I think its Ground Loop Buzz or Hum with Metal Headshells.Ill try replacing the metal screws with nylon ones, first; but, why might this problem pop up after many years of trusty service?
+	********************************************************
+
+	A. Minute amounts of corrosion can occur at electrical contact points in phono circuits.It may be worth the effort to clean each contact point, like the four at the rear of the cartridge, with a de-oxidizing agent, such as De-OXIT from CAIG Labs.
+	********************************************************
+
+	Q. I hadnt thought of that (of course).Ive got De-OXIT at home and will try that first. Certainly easier than replacing the screws!
+
+	********************************************************
+	A. The high voltage ZAP from the Zerostat might temporarily clear the oxidation.Just a guess....
+
+	********************************************************
+	Q. I think the DeOXIT might have worked!Gave the pins and the leads a blast with DeOXIT, wipe with a soft cloth/Q-Tip, then the same thing with DeOXIT Gold.After waiting a bit for drying, I replaced the leads and the buzzing appears to have disappeared.Ill check it long term, but, fingers crossed! Help like this is why I Go Shure!
+

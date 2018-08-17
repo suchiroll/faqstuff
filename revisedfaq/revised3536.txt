@@ -1,0 +1,2022 @@
+Title: Wireless mic RF spectrum loss or gain after DTV transition?
+Id: 3536
+Legacy Id: 3740
+
+Question:
+Will wireless mics lose or gain spectrum after the DTV transition?
+
+
+Answer:
+
+	Available spectrum for Wireless Microphones
+
+	
+
+	This chart shows the available spectrum for wireless microphones before and after the end of the DTV transition in the top 200 markets. Some TV stations are terminating their analog transmission on February 17th and some are terminating their analog transmission on June 12th.
+
+	
+
+	City - The television market.
+	Available for mics before Feb 2009 - Adds up the amount of spectrum between TV 14 and TV 69 that has been available for wireless microphones to use.
+	Available for mics after June 2009 - Adds up the amount of spectrum between TV14 and TV51 that will be available for wireless microphones to use.
+	Bandwith between ... - White Space Devices are not allowed to use spectrum that is adjacent to DTV signals in the TV 14-20 range. Adds up the amount of spectrum between TV 14 and TV 20 that is protected space for wireless microphones after June 2009.A handful of the largestcities will also receive 12 MHz of protected spectrum near TV 37.
+
+	
+
+	
+		
+			
+				City
+			
+				Available for mics
+				before Feb 2009
+			
+				Available for mics
+				after June 2009
+			
+				Bandwidth between TV 14-20 that is
+				protected from White Space Devices
+		
+		
+			
+				New York
+			
+				144 MHz
+			
+				120 MHz
+			
+				18 MHz
+		
+		
+			
+				Los Angeles
+			
+				72 MHz
+			
+				90 MHz
+			
+				12 MHz
+		
+		
+			
+				Chicago
+			
+				174 MHz
+			
+				132 MHz
+			
+				18 MHz
+		
+		
+			
+				Philadelphia
+			
+				138 MHz
+			
+				108 MHz
+			
+				12 MHz
+		
+		
+			
+				Boston
+			
+				114 MHz
+			
+				108 MHz
+			
+				6 MHz
+		
+		
+			
+				San Francisco
+			
+				102 MHz
+			
+				96 MHz
+			
+				18 MHz
+		
+		
+			
+				Dallas
+			
+				150 MHz
+			
+				126 MHz
+			
+				18 MHz
+		
+		
+			
+				Washington
+			
+				108 MHz
+			
+				102 MHz
+			
+				12 MHz
+		
+		
+			
+				Atlanta
+			
+				210 MHz
+			
+				150 MHz
+			
+				6 MHz
+		
+		
+			
+				Houston
+			
+				156 MHz
+			
+				126 MHz
+			
+				12 MHz
+		
+		
+			
+				Detroit
+			
+				162 MHz
+			
+				156 MHz
+			
+				6 MHz
+		
+		
+			
+				Tampa
+			
+				198 MHz
+			
+				156 MHz
+			
+				12 MHz
+		
+		
+			
+				Seattle
+			
+				198 MHz
+			
+				156 MHz
+			
+				6 MHz
+		
+		
+			
+				Phoenix
+			
+				222 MHz
+			
+				162 MHz
+			
+				24 MHz
+		
+		
+			
+				Minneapolis
+			
+				240 MHz
+			
+				168 MHz
+			
+				0 MHz
+		
+		
+			
+				Cleveland
+			
+				210 MHz
+			
+				156 MHz
+			
+				12 MHz
+		
+		
+			
+				Miami
+			
+				198 MHz
+			
+				144 MHz
+			
+				6 MHz
+		
+		
+			
+				Denver
+			
+				198 MHz
+			
+				150 MHz
+			
+				24 MHz
+		
+		
+			
+				Sacramento
+			
+				258 MHz
+			
+				174 MHz
+			
+				6 MHz
+		
+		
+			
+				Orlando
+			
+				180 MHz
+			
+				126 MHz
+			
+				12 MHz
+		
+		
+			
+				St. Louis
+			
+				258 MHz
+			
+				168 MHz
+			
+				12 MHz
+		
+		
+			
+				Pittsburgh
+			
+				222 MHz
+			
+				168 MHz
+			
+				0 MHz
+		
+		
+			
+				Portland
+			
+				258 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				Baltimore
+			
+				120 MHz
+			
+				102 MHz
+			
+				12 MHz
+		
+		
+			
+				Indianapolis
+			
+				186 MHz
+			
+				150 MHz
+			
+				18 MHz
+		
+		
+			
+				San Diego
+			
+				270 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Charlotte
+			
+				216 MHz
+			
+				156 MHz
+			
+				12 MHz
+		
+		
+			
+				Hartford
+			
+				168 MHz
+			
+				138 MHz
+			
+				18 MHz
+		
+		
+			
+				Raleigh
+			
+				228 MHz
+			
+				162 MHz
+			
+				18 MHz
+		
+		
+			
+				Nashville
+			
+				228 MHz
+			
+				168 MHz
+			
+				18 MHz
+		
+		
+			
+				Kansas City
+			
+				228 MHz
+			
+				162 MHz
+			
+				18 MHz
+		
+		
+			
+				Columbus
+			
+				270 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Milwaukee
+			
+				204 MHz
+			
+				144 MHz
+			
+				12 MHz
+		
+		
+			
+				Cincinnati
+			
+				174 MHz
+			
+				132 MHz
+			
+				12 MHz
+		
+		
+			
+				Greenville
+			
+				222 MHz
+			
+				174 MHz
+			
+				24 MHz
+		
+		
+			
+				Salt Lake City
+			
+				234 MHz
+			
+				144 MHz
+			
+				6 MHz
+		
+		
+			
+				San Antonio
+			
+				234 MHz
+			
+				162 MHz
+			
+				18 MHz
+		
+		
+			
+				West Palm Beach
+			
+				234 MHz
+			
+				168 MHz
+			
+				12 MHz
+		
+		
+			
+				Grand Rapids
+			
+				252 MHz
+			
+				186 MHz
+			
+				6 MHz
+		
+		
+			
+				Birmingham
+			
+				228 MHz
+			
+				168 MHz
+			
+				12 MHz
+		
+		
+			
+				Harrisburg
+			
+				264 MHz
+			
+				186 MHz
+			
+				6 MHz
+		
+		
+			
+				Norfolk
+			
+				246 MHz
+			
+				174 MHz
+			
+				12 MHz
+		
+		
+			
+				New Orleans
+			
+				240 MHz
+			
+				162 MHz
+			
+				18 MHz
+		
+		
+			
+				Memphis
+			
+				252 MHz
+			
+				168 MHz
+			
+				0 MHz
+		
+		
+			
+				Oklahoma City
+			
+				222 MHz
+			
+				162 MHz
+			
+				12 MHz
+		
+		
+			
+				Albuquerque
+			
+				228 MHz
+			
+				162 MHz
+			
+				12 MHz
+		
+		
+			
+				Greensboro
+			
+				228 MHz
+			
+				168 MHz
+			
+				18 MHz
+		
+		
+			
+				Las Vegas
+			
+				282 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Buffalo
+			
+				228 MHz
+			
+				168 MHz
+			
+				6 MHz
+		
+		
+			
+				Louisville
+			
+				240 MHz
+			
+				174 MHz
+			
+				12 MHz
+		
+		
+			
+				Providence
+			
+				90 MHz
+			
+				102 MHz
+			
+				0 MHz
+		
+		
+			
+				Jacksonville
+			
+				258 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Austin
+			
+				246 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Scranton
+			
+				234 MHz
+			
+				174 MHz
+			
+				0 MHz
+		
+		
+			
+				Albany
+			
+				252 MHz
+			
+				186 MHz
+			
+				0 MHz
+		
+		
+			
+				Fresno
+			
+				240 MHz
+			
+				174 MHz
+			
+				6 MHz
+		
+		
+			
+				Little Rock
+			
+				258 MHz
+			
+				168 MHz
+			
+				0 MHz
+		
+		
+			
+				Knoxville
+			
+				258 MHz
+			
+				174 MHz
+			
+				18 MHz
+		
+		
+			
+				Dayton
+			
+				198 MHz
+			
+				144 MHz
+			
+				12 MHz
+		
+		
+			
+				Richmond
+			
+				264 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				Tulsa
+			
+				216 MHz
+			
+				162 MHz
+			
+				18 MHz
+		
+		
+			
+				Mobile
+			
+				234 MHz
+			
+				156 MHz
+			
+				24 MHz
+		
+		
+			
+				Lexington-Fayette
+			
+				258 MHz
+			
+				186 MHz
+			
+				6 MHz
+		
+		
+			
+				Charleston
+			
+				258 MHz
+			
+				174 MHz
+			
+				12 MHz
+		
+		
+			
+				Flint
+			
+				144 MHz
+			
+				126 MHz
+			
+				12 MHz
+		
+		
+			
+				Fort Myers
+			
+				258 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Wichita
+			
+				270 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Roanoke
+			
+				264 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Green Bay
+			
+				264 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Toledo
+			
+				228 MHz
+			
+				186 MHz
+			
+				0 MHz
+		
+		
+			
+				Tucson
+			
+				240 MHz
+			
+				162 MHz
+			
+				12 MHz
+		
+		
+			
+				Honolulu
+			
+				210 MHz
+			
+				150 MHz
+			
+				12 MHz
+		
+		
+			
+				Des Moines
+			
+				270 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Portland
+			
+				264 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				Omaha
+			
+				240 MHz
+			
+				168 MHz
+			
+				24 MHz
+		
+		
+			
+				Syracuse
+			
+				234 MHz
+			
+				156 MHz
+			
+				18 MHz
+		
+		
+			
+				Springfield
+			
+				276 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Spokane
+			
+				276 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Rochester
+			
+				276 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Paducah
+			
+				270 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Shreveport
+			
+				270 MHz
+			
+				174 MHz
+			
+				24 MHz
+		
+		
+			
+				Champaign
+			
+				264 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Columbia
+			
+				252 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Huntsville
+			
+				258 MHz
+			
+				186 MHz
+			
+				18 MHz
+		
+		
+			
+				Madison
+			
+				258 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Chattanooga
+			
+				264 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				South Bend
+			
+				270 MHz
+			
+				186 MHz
+			
+				0 MHz
+		
+		
+			
+				Cedar Rapids
+			
+				252 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				Jackson
+			
+				264 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Burlington
+			
+				276 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Harlingen
+			
+				270 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Colorado Springs
+			
+				288 MHz
+			
+				186 MHz
+			
+				0 MHz
+		
+		
+			
+				Waco
+			
+				276 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Davenport
+			
+				252 MHz
+			
+				174 MHz
+			
+				0 MHz
+		
+		
+			
+				Baton Rouge
+			
+				288 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Savannah
+			
+				288 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Johnstown
+			
+				258 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				El Paso
+			
+				234 MHz
+			
+				174 MHz
+			
+				24 MHz
+		
+		
+			
+				Evansville
+			
+				252 MHz
+			
+				180 MHz
+			
+				6 MHz
+		
+		
+			
+				Charleston
+			
+				270 MHz
+			
+				180 MHz
+			
+				0 MHz
+		
+		
+			
+				Youngstown
+			
+				252 MHz
+			
+				174 MHz
+			
+				6 MHz
+		
+		
+			
+				Lincoln
+			
+				252 MHz
+			
+				174 MHz
+			
+				24 MHz
+		
+		
+			
+				Fort Smith
+			
+				288 MHz
+			
+				192 MHz
+			
+				30 MHz
+		
+		
+			
+				Greenville
+			
+				258 MHz
+			
+				186 MHz
+			
+				18 MHz
+		
+		
+			
+				Fort Wayne
+			
+				264 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Florence
+			
+				258 MHz
+			
+				186 MHz
+			
+				24 MHz
+		
+		
+			
+				Springfield
+			
+				198 MHz
+			
+				156 MHz
+			
+				6 MHz
+		
+		
+			
+				Tallahassee
+			
+				276 MHz
+			
+				174 MHz
+			
+				0 MHz
+		
+		
+			
+				Lansing
+			
+				180 MHz
+			
+				144 MHz
+			
+				18 MHz
+		
+		
+			
+				Reno
+			
+				294 MHz
+			
+				192 MHz
+			
+				18 MHz
+		
+		
+			
+				Traverse City
+			
+				282 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Sioux Falls
+			
+				258 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Augusta
+			
+				276 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Montgomery
+			
+				240 MHz
+			
+				168 MHz
+			
+				12 MHz
+		
+		
+			
+				Peoria
+			
+				258 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Fargo
+			
+				294 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Boise City
+			
+				300 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Macon
+			
+				276 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Eugene
+			
+				276 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Santa Barbara
+			
+				288 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				La Crosse
+			
+				288 MHz
+			
+				204 MHz
+			
+				18 MHz
+		
+		
+			
+				Lafayette
+			
+				264 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Monterey
+			
+				282 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Yakima
+			
+				282 MHz
+			
+				198 MHz
+			
+				18 MHz
+		
+		
+			
+				Columbus
+			
+				264 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Bakersfield
+			
+				288 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Corpus Christi
+			
+				294 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Chico
+			
+				300 MHz
+			
+				198 MHz
+			
+				6 MHz
+		
+		
+			
+				Amarillo
+			
+				300 MHz
+			
+				198 MHz
+			
+				24 MHz
+		
+		
+			
+				Columbus
+			
+				300 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Rockford
+			
+				288 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Wausau
+			
+				288 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Monroe
+			
+				282 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Topeka
+			
+				294 MHz
+			
+				204 MHz
+			
+				0 MHz
+		
+		
+			
+				Duluth
+			
+				294 MHz
+			
+				192 MHz
+			
+				18 MHz
+		
+		
+			
+				Columbia
+			
+				294 MHz
+			
+				198 MHz
+			
+				24 MHz
+		
+		
+			
+				Wilmington
+			
+				282 MHz
+			
+				186 MHz
+			
+				0 MHz
+		
+		
+			
+				Beaumont
+			
+				288 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Medford
+			
+				282 MHz
+			
+				204 MHz
+			
+				0 MHz
+		
+		
+			
+				Erie
+			
+				252 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Sioux City
+			
+				264 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Wichita Falls
+			
+				306 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Joplin
+			
+				294 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Lubbock
+			
+				270 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Albany
+			
+				294 MHz
+			
+				210 MHz
+			
+				0 MHz
+		
+		
+			
+				Salisbury
+			
+				282 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Bluefield
+			
+				282 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Terre Haute
+			
+				294 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Bangor
+			
+				312 MHz
+			
+				210 MHz
+			
+				12 MHz
+		
+		
+			
+				Rochester
+			
+				276 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Palm Springs
+			
+				282 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Wheeling
+			
+				240 MHz
+			
+				168 MHz
+			
+				0 MHz
+		
+		
+			
+				Anchorage
+			
+				306 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Binghamton
+			
+				252 MHz
+			
+				174 MHz
+			
+				12 MHz
+		
+		
+			
+				Panama City
+			
+				282 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Biloxi
+			
+				300 MHz
+			
+				204 MHz
+			
+				12 MHz
+		
+		
+			
+				Odessa
+			
+				270 MHz
+			
+				180 MHz
+			
+				12 MHz
+		
+		
+			
+				Minot
+			
+				306 MHz
+			
+				204 MHz
+			
+				6 MHz
+		
+		
+			
+				Sherman
+			
+				312 MHz
+			
+				216 MHz
+			
+				0 MHz
+		
+		
+			
+				Gainesville
+			
+				282 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Idaho Falls
+			
+				300 MHz
+			
+				180 MHz
+			
+				24 MHz
+		
+		
+			
+				Abilene
+			
+				300 MHz
+			
+				192 MHz
+			
+				18 MHz
+		
+		
+			
+				Clarksburg
+			
+				306 MHz
+			
+				210 MHz
+			
+				0 MHz
+		
+		
+			
+				Utica
+			
+				258 MHz
+			
+				168 MHz
+			
+				18 MHz
+		
+		
+			
+				Hattiesburg
+			
+				288 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Missoula
+			
+				300 MHz
+			
+				204 MHz
+			
+				12 MHz
+		
+		
+			
+				Quincy
+			
+				282 MHz
+			
+				198 MHz
+			
+				6 MHz
+		
+		
+			
+				Yuma
+			
+				294 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Billings
+			
+				318 MHz
+			
+				204 MHz
+			
+				12 MHz
+		
+		
+			
+				Dothan
+			
+				288 MHz
+			
+				192 MHz
+			
+				6 MHz
+		
+		
+			
+				Elmira
+			
+				264 MHz
+			
+				174 MHz
+			
+				18 MHz
+		
+		
+			
+				Jackson
+			
+				306 MHz
+			
+				198 MHz
+			
+				0 MHz
+		
+		
+			
+				Lake Charles
+			
+				276 MHz
+			
+				186 MHz
+			
+				6 MHz
+		
+		
+			
+				Alexandria
+			
+				294 MHz
+			
+				192 MHz
+			
+				0 MHz
+		
+		
+			
+				Rapid City
+			
+				294 MHz
+			
+				198 MHz
+			
+				18 MHz
+		
+		
+			
+				Watertown
+			
+				246 MHz
+			
+				198 MHz
+			
+				18 MHz
+		
+		
+			
+				Jonesboro
+			
+				312 MHz
+			
+				198 MHz
+			
+				6 MHz
+		
+		
+			
+				Marquette
+			
+				306 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Harrisonburg
+			
+				276 MHz
+			
+				186 MHz
+			
+				12 MHz
+		
+		
+			
+				Greenwood
+			
+				294 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Bowling Green
+			
+				282 MHz
+			
+				198 MHz
+			
+				18 MHz
+		
+		
+			
+				Meridian
+			
+				276 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Lima
+			
+				300 MHz
+			
+				204 MHz
+			
+				0 MHz
+		
+		
+			
+				Charlottesville
+			
+				288 MHz
+			
+				192 MHz
+			
+				12 MHz
+		
+		
+			
+				Grand Junction
+			
+				312 MHz
+			
+				204 MHz
+			
+				24 MHz
+		
+		
+			
+				Laredo
+			
+				306 MHz
+			
+				210 MHz
+			
+				12 MHz
+		
+		
+			
+				Great Falls
+			
+				312 MHz
+			
+				204 MHz
+			
+				0 MHz
+		
+		
+			
+				Parkersburg
+			
+				306 MHz
+			
+				204 MHz
+			
+				0 MHz
+		
+		
+			
+				Lafayette
+			
+				276 MHz
+			
+				198 MHz
+			
+				18 MHz
+		
+		
+			
+				Twin Falls
+			
+				294 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Butte-Silver Bow
+			
+				306 MHz
+			
+				204 MHz
+			
+				12 MHz
+		
+		
+			
+				Eureka
+			
+				294 MHz
+			
+				198 MHz
+			
+				12 MHz
+		
+		
+			
+				Cheyenne
+			
+				294 MHz
+			
+				198 MHz
+			
+				6 MHz
+		
+		
+			
+				Bend
+			
+				312 MHz
+			
+				204 MHz
+			
+				6 MHz
+		
+		
+			
+				San Angelo
+			
+				318 MHz
+			
+				204 MHz
+			
+				24 MHz
+		
+		
+			
+				Casper
+			
+				300 MHz
+			
+				204 MHz
+			
+				24 MHz
+		
+		
+			
+				Ottumwa
+			
+				312 MHz
+			
+				204 MHz
+			
+				12 MHz
+		
+		
+			
+				Mankato
+			
+				324 MHz
+			
+				216 MHz
+			
+				0 MHz
+		
+	
+
+

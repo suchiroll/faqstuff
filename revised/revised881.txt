@@ -1,0 +1,16 @@
+Title: Model 99D668B water - resistant dynamic microphone - Mic for diver's mask
+Id: 881
+Legacy Id: 908
+
+Question:
+I have an old data sheet that was faxed to my predecessor in 1995. It is for a Model 99D668B which is a "water-resistant dynamic microphone cartridge designed for diving applications." We have used this microphone in our products in the past and need to know if it is still available. Could you provide an up to date product sheet for this or similar products.
+
+
+Answer:
+
+	This element was also known as part number R113.
+	
+	To purchase in small quantites in the U.S. , contact Kirby-Morgan Diving Equipment: telephone 805-965-8538.
+	
+	Attached to this answer is a PDF file of the mic element specifications.
+

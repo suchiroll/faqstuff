@@ -1,0 +1,15 @@
+Title: Subnet Address Disappears on UR4 Receiver
+Id: 3427
+Legacy Id: 3618
+
+Question:
+When setting the static (manual) IP address and subnet mask for the first time on a UR4 receiver (with firmware version 1.150), the subnet mask disappeared and reset to all zeros. Because of this, it was not possible to communicate with the receiver. Any suggestions?
+
+
+Answer:
+
+	When setting up the network interface on a UR4 receiver for the first time, and programming a static IP address and subnet mask, the subnet mask may default to all zeros when the receiver is rebooted.  The reboot is a necessary step when changing the Ethernet configuration.
+	
+	This condition has been reported in receivers with firmware version 1.150.  The situation applies only when setting a static (or as displayed on the receiver - Manual) Ethernet configuration.  Because the subnet mask disappears, the Ethernet port will not communicate with the connected network.   
+	
+	The solution is to reprogram the subnet mask a second time, and reboot the receiver.  The subnet mask will lock in and the network interface will operate correctly.  This anomaly may occur the first time the receiver is configured, and should not be encountered again.

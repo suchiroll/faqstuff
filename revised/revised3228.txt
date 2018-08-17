@@ -1,0 +1,14 @@
+Title: SCM810 Automixer - Tone or Oscillation when multiple channels are linked for common gating.
+Id: 3228
+Legacy Id: 3378
+
+Question:
+We configured an SCM810 Automixer for two microphone channels to be gated on together (choir type application). The linked channel gating works as expected. However, when the channel pair gates off, we can hear a soft whistle (~3 kHz tone) at the mixer output. This only happens with the linked channel pair – other independent channels do not exhibit the whistle when either gated on or off.
+
+
+Answer:
+
+	This scenario was reproduced in the Applications Engineering lab. It appears to be associated with the latest circuit board revision, version H, which provides accessible connection pads to install the option channel link jumper.
+
+	To eliminate the whistle or tone, set the Last Mic-Lock On operating parameter dipswitch, switch 2, located on the back panel, to the off or down position.
+

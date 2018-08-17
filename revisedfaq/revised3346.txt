@@ -1,0 +1,20 @@
+Title: 888TT Replacement
+Id: 3346
+Legacy Id: 3528
+
+Question:
+Is there a commercial alternative to the discontinued Shure 888TT that is FAA approved?
+
+
+Answer:
+
+	As of June 2007:
+	
+	An aviation parts supplier in Cincinnati, Diversified Communications Group, offers a replacement for the 888TT that is FAA-approved.
+	
+	Diversified Communications Group
+	Bob Bross or Al Werner
+	(513) 794-1275
+	www.diversifiedgroup.com
+	
+	Their model number is VM-888DTMF.

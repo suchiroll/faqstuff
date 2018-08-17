@@ -1,0 +1,21 @@
+Title: OEM microphone model DM53 or DM57
+Id: 4816
+Legacy Id: 6002
+
+Question:
+Please provide details about the model DM53 made for DeMambro Sound Equipment Company of Boston, Massachusetts. Attached is a photo.
+
+
+Answer:
+
+	The DM 53 is an OEM variation of the Shure model 530: Model 530 User Guide
+	
+	DM = Dynamic Microphone or DeMambro
+	53 = shortened version of 530
+	
+	There was also the model DM57 - closely related to the model DM53. The DM57 was based on the Shure model 535.
+	
+	Both DM models were from the 1950s/1960s.
+	
+	
+

@@ -1,0 +1,12 @@
+Title: WA615M Transmitter ID Plastic Rings
+Id: 2932
+Legacy Id: 3058
+
+Question:
+What color are the rings?
+
+
+Answer:
+
+	The WA615M is a package of five bands in the following colors:
+	Blue, Red, Yellow, White, and Orange.

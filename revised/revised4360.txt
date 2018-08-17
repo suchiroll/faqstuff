@@ -1,0 +1,16 @@
+Title: Internet Streaming Device and GLX-D wireless
+Id: 4360
+Legacy Id: 5447
+
+Question:
+I provide technical services at weddings. I own a Shure GLX-D wireless mic and soon I will be adding a device that will stream wedding video and audio via the Internet. This allows people to view the wedding on their computer. This "wedding broadcaster" device operates in the 2.4 GHz range, just like the GLX-D. Will there be a problem?
+
+
+Answer:
+
+	There certainly could be a problem. It will depend upon how much unused 2.4 GHz spectrum is available at the wedding venue. It is certainly recommended that the GLX-D receiver be placed at least 10 feet away from the streaming device that emits the 2.4 GHz signal. Unfortunately, it is not feasible to accurately predict the interaction of all the devices that use the 2.4 GHz range.
+	
+	For those readers that are not familar with broadcasting a wedding, here is test about one such device:
+	
+	The Livestream Broadcaster is an High Definition live broadcasting device that works with the new Livestream service to deliver the affordable unlimited ad-free live streaming. Event owners and producers can use the Livestream Broadcaster as a desktop encoder connected to a multi-camera video production switcher; or as a battery powered (three AA cells) portable wireless encoder mounted to a camera and streaming via Wi-Fi or a USB 3G/4G Wireless Modem. Control the Livestream Broadcaster on the device itself or remotely via the Livestream website, or via the Livestream iPhone app. Cameras connect to the Broadcaster via the HDMI video input. The Livestream Broadcaster encodes high quality video/audio at up to 2.3 Mbps. HDMI audio and analog line audio (via 3.5mm phone jack) inputs are provided.
+

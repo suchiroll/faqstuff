@@ -1,0 +1,14 @@
+Title: Connecting a mixer to phone lines.
+Id: 2545
+Legacy Id: 2643
+
+Question:
+Do you have a product that will let me connect a mixer in a church to a phone line to be sent to a radio station?
+
+
+Answer:
+
+	Shure does not have such a product.
+
+	Try: http://www.telos-systems.com
+

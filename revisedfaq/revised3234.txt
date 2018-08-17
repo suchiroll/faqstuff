@@ -1,0 +1,25 @@
+Title: Mounting SLX4 and ULX4 side-by-side
+Id: 3234
+Legacy Id: 3384
+
+Question:
+How do I connect a ULX receiver to a SLX receiver so they're side by side?
+
+
+Answer:
+
+	If the ULXP is purchased with the SLX, both systems come with mounting hardware to mount side by side. Both receivers use Shures link bar system to attach the two chassis side by side. Both systems come with a long-ear mounting bracket and a short-ear mounting bracket, a single link bar, plus a bag full of mounting hardware for each.
+	
+	Mount the link bars to the top and bottom of each chassis. Then mount the appropriate short-ear mounting bracket to the outside of each receiver chassis.
+	
+	If you purchase the ULXS system, rack mount hardware is optional. To order the piece parts from Shures Parts Department, you will need the following:
+	
+	One 53A8484 Short mounting bracket
+	One 53B8443 Link Bar
+	One 90AR8100 Hardware Kit
+	
+	
+	Download the UA507 instruction sheet off the Shure web site. Different screws are used for the link bars for the ULXS system.
+	
+	For parts availability and current pricing, please contact our Service Department at 800-516-2525.
+

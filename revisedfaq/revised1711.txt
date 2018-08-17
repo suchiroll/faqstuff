@@ -1,0 +1,19 @@
+Title: SM91 polar pattern
+Id: 1711
+Legacy Id: 1769
+
+Question:
+I just printed the manual for our SM91 microphone and find that it is indeed a cardioid pattern. But from where? Is it from the mounting plane perpendicularly out? From the edge opposite the cord fitting out? Perpendicular to the tilted plane rising from the edge that is opposite the cord fitting?
+
+
+This is not stated or even hinted at in the manual and I really need to know..
+
+
+From what direction, at what angle, toward what side, do I address the mic for maximum gain?
+
+From what direction, at what angle, toward what side, do I address the mic for minimum gain?
+
+
+Answer:
+
+	If the SM91 is placed on table, the cardioid pattern would be in the horizontal plane. That is, the most sensitive point is at the table surface on the side were "SM91" is printed. The least sensitive point is exactly where the cable enters into the SM91. Think of the polar pattern as an SM58 laying flat on the table.

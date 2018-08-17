@@ -1,0 +1,14 @@
+Title: M44-7 and Numark Turntable
+Id: 2927
+Legacy Id: 3053
+
+Question:
+Is there a compatibility issue between the Shure M44-7 cartridge and Numark turntables?
+
+
+Answer:
+
+	The M44-7 cartridge may distort when used on a Numark Line level DJ turntable.
+	
+	This is possible given the extremely high output voltage of the M44-7 (9.5mV), compared to the industry average 5mV- 7mV. This is
+	high output level can overload the built-in Numark preamp. It can also happen with inexpensive DJ mixers.

@@ -1,0 +1,34 @@
+Title: Shure 522 connected to Kenwood TS-520s radio
+Id: 4947
+Legacy Id: 6209
+
+Question:
+What is the wiring pin out for the older Kenwood 4 pin connector?
+
+Here is the description of the 4 pin connector
+1 = Microphone
+2 = Push to Talk
+3 = Chassis Ground
+4 = Microphone Ground
+
+
+
+Answer:
+
+	
+		522 wires to Kenwood pins:
+	
+		white = 1
+	
+		green = 4
+	
+		red = 2
+	
+		black = 3
+	
+		shield = 3
+	
+		522 Hi/Lo impedance switch: try both settings and use the one with the better audio results.
+
+
+

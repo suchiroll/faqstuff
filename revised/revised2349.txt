@@ -1,0 +1,17 @@
+Title: Shure MX392 with Gentner XAP800 for remote muting control.
+Id: 2349
+Legacy Id: 2436
+
+Question:
+I need to know how to connect a MX392's logic terminal to a Gentner XAP800's 25 pin control/status connector for this desired effect:
+
+
+Mic's membrane is pushed resulting in a mute at both the Gentner and the Shure. Mic's membrane is pushed again resulting in an unmute at both. I've got that down. Here's the kicker. The customer also requires that the mic's remotely unmute when a call is received at the gentner being reflected at the mic with the led light. This is achieved through a macro in the gentner. How do I connect the mics logic terminal to the Gentner's 25 pin to acheive this?
+
+
+Answer:
+
+	The internal mute of the MX392 cannot be reversed by an external signal.
+	
+	The only option is to have the MX392 live at all times, and mute its signal at the Gentner.
+

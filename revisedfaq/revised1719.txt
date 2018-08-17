@@ -1,0 +1,11 @@
+Title: How to mike an acoustic (upright)  bass for stage use
+Id: 1719
+Legacy Id: 1778
+
+Question:
+The application is for a plucked upright bass in a bluegrass band. We currently use an SM58 wrapped in 1/2" foam and jammed upright behind the string "anchor" (the big black piece at the bottom that holds the bottom end of the strings). Is this the best way to mike this instrument, or should I use a short stand and force the bassist to stay put? For EQ at the board, I leave the low-cut filter off, cut a few dB off the mid (adjusted to center on 800-1K), and leave the low and high flat. It sounds ok, but a little muddy. I'm looking for a little more punch out of it. Any suggestions?
+
+Answer:
+
+	For information on microphone techniques, see: Educational Articles - Online booklets and bulletins
+

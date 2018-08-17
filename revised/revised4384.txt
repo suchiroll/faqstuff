@@ -1,0 +1,98 @@
+Title: Headphone Design and Selection
+Id: 4384
+Legacy Id: 5476
+
+Question:
+Please provide information on the design and selection of headphones.
+
+
+Answer:
+
+	Here is an interview with Shure Principal Engineer Yuri Shulman who led the development of the Shure headphone line.
+	
+	What can you say about frequency response? Isnt there a sense that a flat frequency response is preferable to a more shaped sound?
+	
+	Yuri Shulman: Frequency response has a strong effect on perceived timbral quality and is therefore an essential component of high-quality headphone design. The issue goes back to the loudspeaker industry where the flat response (when a speakers acoustic output stays the same for every frequency) is usually preferred. However, there is a major difference between acoustic measurements made on loudspeakers and headphones.
+	
+	While a loudspeaker frequency response can be evaluated in free-field conditions, the headphone has to be coupled to the ear if a frequency response measurement representative of what listeners perceive is intended. This requirement implies that the ear must be included in the measurement system.
+	
+	Several methods have been used to take the ear into account. These include the perceptual loudness comparison as well as instrumental measurements made with artificial ears and couplers. In the headphone measurement technique described above, the resulting frequency response includes the filtering effect of the listeners ear, and therefore the reference of a flat frequency response does not apply anymore in this context. Instead, the target headphone response is designed to provide a natural listening experience, similar to one received while listening with flat loudspeakers in the sweet spot in the room.
+	
+	Many of our headphones are designed to be perceived as flat. They deliver naturally balanced, non-equalized sound. Of course, there are special user situations when deviation from a flat perceived frequency response is desired.
+	
+	So, the actual differences in the structure of a listeners ear have an impact on users preferences?
+	
+	Yuri Shulman: Its difficult to design something that will sound perfect to everyone  in fact, its impossible, and yes, thats based, in part, on the actual physical characteristics of the listeners ear. When designing Shure headphones, we use industry standard ear simulators which represent an average human ear. Its physical characteristics are based on many thousands of ears carefully measured. There are, however, significant variations from this standard ear for some individuals. In addition, personal taste is also a factor in users preferences.
+	
+	When is a flat response preferred?
+	
+	Yuri Shulman: Someone who is recording or mixing needs to hear every component in the sound spectrum with full resolution and high timbral accuracy, so its important to have a tool thats neutral in character. Our headphones like the SRH940 and SRH1840, which are professional headphones for critical listening, monitoring, mixing and mastering, allow professional users to catch the smallest detail possible, they are designed for the greatest accuracy.
+	
+	When would a shaped response headphone be used?
+	
+	Yuri Shulman: For example, accurate sound reproduction is not of concern for DJ headphones. These are designed to provide enhanced, strong, low frequencies and crisp highs. Its the kick drums, snares, and hi-hats youre paying attention to when mixing, not intricate sonic details.
+	
+	Heres something we hear pretty often  that headphones require a burn in period. What about it?
+	
+	Yuri Shulman: This is more myth than fact. Some people make the argument that the drivers suspension could be a little unsettled when the headphones are brand new.
+	
+	At Shure we dont subscribe to that thinking  again, what could be true for some loudspeakers (where there can be a 100-hour or so burn-in period) doesnt directly apply here. Its a matter of perception. Shure headphones sound the same a year after using them as they did brand new.
+	
+	If everyone hears differently depending on the physical shape of their ears, their hearing abilities (and even right ear/left ear hearing differences), how is it possible to develop standards when you Beta-test headphones?
+	
+	Yuri Shulman: Here is one of the techniques: we utilize the Head and Torso Simulator (HATS) when developing headphones. We use outer silicone ears of different sizes and densities with artificial inner ears that match the impedance of the average human ear. We measure the headphones actual performance affected by resonance in the ear canal and shape of the ear; collected data is then used to engineer the response of each model to produce a flat or other desired frequency response profile as perceived by the average listener.
+	
+	And of course, we beta-test with trained human listeners  both audiophiles and professional sound engineers. While professional users look for a perfectly flat, smooth spectral balance and highest possible detail resolution, the audiophiles are more concerned with musicality or ability of the headphone to communicate the musical message as it was intended by the performers. Harmonic and intermodulation distortions, fatigue factor and wearing comfort are also graded by both groups of beta testers.
+	
+	Enhanced bass seems to be a trend with consumer headphones, correct?
+	
+	Yuri Shulman: Yes, some popular consumer headphones have dramatically enhanced bass response. However, this excessive correction leads to increased distortions and added listening fatigue. Actually there may be good reasons to enhance low frequency response on certain headphones assuming this is done correctly, and I mean it, responsibly. Let me give a few examples where such enhancement could be of benefit.
+	
+	Listening at very low levels would benefit from boosted bass according to equal loudness curves (Fletcher-Munson). Our ears are less sensitive to low frequencies as listening volume decreases.
+	
+	Listening on the subway train or city bus  increased low frequencies output will help to mask outside noise for a better overall experience.
+	
+	Browsing the web, playing electronic games, listening at work  boost at low frequencies can create more excitement.
+	
+	Certain recordings with poorly recorded bass may sound fuller if headphones provide some additional bass.
+	
+	Enhanced low frequencies could compensate for lost sound pressure effects on the body such as bone/chest transmission and nasal cavity compression. These are present when listening to a live performance or loudspeakers with strong low end in the room.
+	
+	Some models in Shures headphone line are open backs. Why would users want that type?
+	
+	Yuri Shulman: Its more like listening to a pair of loudspeakers. Your ears dont get as hot because ventilation is built in and that makes you more comfortable especially if youre listening for hours. They usually offer a better stereo image  a psycho-acoustic effect due to removed occlusion. Outside noises are somewhat reduced, but you still hear them. They sound more open and airy, but the price paid is a loss of isolation. We believe each type of headphones have applications where they are best. This is why Shure offers both types.
+	
+	Lets get your comments on individual headphones in the Shure line as of 2013, but before we do that, whats common to all of them?
+	
+	Yuri Shulman: For all our headphones, we try to achieve the perceived frequency response as smooth and natural sounding as possible, within particular cost limitations. From model to model, we voice our headphones to match the intended application.
+	
+	We make good sounding headphones with professional characteristics  not just relating to the sound quality but also their durability  for example, all our headphones were designed to survive multiple drops as well as to continue performing after exposure to extreme environments. The environmental testing on our least expensive headphone is the same as the testing on our most expensive. Our goal is 100% reliability.
+	
+	How we do this is simple: Every headphone on the production line is tested 100% for its full frequency response, left-right balance and sensitivity. We also test for THD at high SPLs to catch any buzz or rattle. Every single one. This is a very thorough set of tests. Thats how we serve our customer with consistency and assure good reliability  regardless of price.
+	
+	SRH240A offers high quality sound and comfort. It is a great value headphone for personal listening on almost any device.
+	
+	SRH440 has a nice stereo image with wide soundstage and full, extended frequency response. It is a workhorse headphone, great for tracking, field recording and mixing. It is foldable for an easy fit in the bag.
+	
+	SRH840 is tailored to offer rich bass, smooth and clear mid-range and nicely extended highs, great for critical listening and studio monitoring.
+	
+	SRH940 provides a truly flat and accurate response across the entire audio range, ideal for critical listening, studio monitoring and mastering.
+	
+	SRH550DJ is for DJ mixing as well as personal listening on any device. It has high sensitivity and is a great value.
+	
+	SRH750DJ is designed for professional DJ mixing and monitoring, but amplification is recommended for optimum performance.
+	
+	SRH1440 Open Back is great for critical listening and mastering, it can be connected to personal audio devices, and amplification is not required.
+	
+	SRH1540 Our newest model features an expansive soundstage with clear, extended highs and warm bass; these closed back lightweight headphones offer a supremely comfortable circumaural design for professional critical mastering and audiophile listening.
+	
+	SRH1840 Open Back is also designed for mastering and critical listening; it features the smoothest response with crisp, clear and very detailed sound across its extended frequency range. The most comfortable, lightweight headphone we make today.
+	
+	Are there any safety issues associated with headphone use?
+	
+	Yuri Shulman: I dont recommend blasting the volume! Headphone users should use safe and comfortable volume levels to preserve good hearing health.
+	
+	While headphone models are engineered for specific applications and sound signatures, it is a subjective decision, based on the preferences of the user. Yuri was quick to point out that even though the entry-level model (SRH240A) is intended for personal listening, it, like all Shure headphones, meet professional standards.
+	
+	Does Yuri have a favorite model? They are all his children, but he labeled the SRH1840 a gem.
+

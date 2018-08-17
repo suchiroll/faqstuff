@@ -1,0 +1,45 @@
+Title: Typical Sound Pressure Levels of Speech
+Id: 4226
+Legacy Id: 5209
+
+Question:
+What are typical dBA readings for speech?
+
+
+
+Answer:
+
+	Maximum shout = 90 dBA at one meter (roughly 40 inches)
+
+	
+
+	Shout = 84 dBA at one meter
+
+	
+
+	Very Loud =78 dBA at one meter
+
+	
+
+	Loud = 72 dBA at one meter
+
+	
+
+	Raised =66 dBA at one meter
+
+	
+
+	Normal = 60 dBA at one meter
+
+	
+
+	Relaxed =54 dBA at one meter
+
+	
+
+	Other dBA readings can be estimated as follows: if the distance is divided by 2, the level increases by 6 dB.
+
+	Example: Maximum Shout at 0.5 meter = 96 dB SPL.
+
+	
+

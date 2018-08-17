@@ -1,0 +1,52 @@
+Title: What is new in GLX-D Firmware v2.0?
+Id: 4954
+Legacy Id: 6219
+
+Question:
+What is new in GLX-D Firmware v2.0?
+
+
+Answer:
+
+	
+		New Single User Group: optimized for single-channel users in extremely crowded, high-traffic RF environments.
+	
+		
+			
+				Group 4 uses 27 backup frequencies to provide the system with the ultimate flexibility for a single user in harsh environments.
+		
+	
+	
+		Improved LINKFREQ Automatic Frequency Management models the RF environment more accurately.
+	
+		
+			
+				Receiver automatically finds and chooses the best starting point when selecting the Channel button (to scan) or Group button (to choose a new group).
+			
+				As with the previousfirmware version (v1), the system will continue to adjust as needed within that particular channel on any group with backup frequencies.
+			
+				The scan may take slightly longer than with previous firmware versions, but improves system performance and stability.
+		
+	
+	
+		Improved audio stability in marginal RF conditions
+	
+		
+			
+				In rare cases, compromised RF conditions can result in an audible, high frequency tone being created by the system. This firmware update fully corrects this issue.
+		
+	
+
+
+	Note that all transmitters and receivers must run on the same firmware version to establish a link. Users adding or replacing transmitters in existing systems or installations will encounter connection issues until firmware is updated to the correct version on receivers with version 1 firmware.
+	
+	How do I know if my transmitter and receiver arent on the same firmware?
+	Simply put, your transmitter and receiver will not form a link. GLX-D systems will appear to time out when connecting (flashing green light and does not connect).
+	
+	If your system is not functioning properly, download the Shure Update Utility application to obtain the latest firmware. The GLX-D transmitter and receiver must be on the same firmware version to operate correctly together.
+	
+	Download the application from theShure website and update the devices to the same firmware. Update instructions.
+	
+	How do I know which Firmware Version a component is running?
+	Components in original retail packaging are wrapped in a poly bag, with a barcode label and Firmware version printed beneath it. Otherwise, connect to theShure Update Utility to see which version firmware your components have installed.
+

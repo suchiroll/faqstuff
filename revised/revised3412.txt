@@ -1,0 +1,147 @@
+Title: The Truth about Wireless Mic Technology
+Id: 3412
+Legacy Id: 3602
+
+Question:
+What is the truth about wireless mic technology and the frequencies used?
+
+
+Answer:
+
+	As the FCCs reorganization of the UHF spectrum continues, many have posed questions about the future of wireless microphones. Can wireless microphones operate in other bands? Are digital wireless microphones immune to interference? Some say that continuing to use wireless microphones in the UHF TV band is equivalent to throwing the dice. The simple truth is that every part of the spectrum is subject to a certain degree of risk. Before jumping into a new section of the spectrum, wireless microphone users need to be aware of some basic facts:
+
+	
+		All spectrum is shared by multiple users and multiple types of devices. The 902-928 MHz and 2.4 GHz bands are heavily used by other types of unlicensed devices, and wireless microphones are not entitled to any protection from interference caused by them. In other words, its a wireless free-for-all.
+	
+		All types of RF transmission  analog, digital, or spread spectrum  can suffer interference. The effect can be a reduction in range or fidelity even if the interfering signal does not fully break in.
+	
+		The UHF TV band is not the only spectrum affected by rule changes. The 902-928 MHz and 2.4 GHz bands are subject to future rule changes that could affect wireless microphones and other devices that transmit continuously. The FCC has the right to alter how RF spectrum is employed and these alterations can be deter mental to wireless mic operation.
+
+
+
+	Alternative frequency bands may make sense in certain situations, but wireless microphone users should know the facts about each band before making a potentially expensive choice.
+
+	902 - 928 MHz
+
+	The so-called 900 MHz Band allows either analog or digital wireless microphone operation. However, the sheer multitude of equipment operating in this band in locations ranging from homes to industrial parks to roadways means that users of wireless microphones  analog or digital  need to be aware of their surroundings. In addition to being legal for wireless microphone operation, this band is used by the following types of unlicensed devices:
+
+	
+		
+			
+				Government/Military
+			
+				Consumer
+			
+				Industrial/Scientific/Medical
+		
+		
+			
+				
+					
+						High-power airborne and shipmounted radar
+					
+						Tracking/telemetry systems for missiles and target vehicles
+					
+						Perimeter protection devices at military installations
+					
+						Weather forecasting  environmental radar
+					
+						Transmission of images from bomb-disposal robots
+				
+			
+			
+				
+					
+						Cordless telephones
+					
+						Audio  video baby monitors
+					
+						Automated highway toll collection systems
+					
+						Home intercom  security systems
+					
+						Cordless headphones
+					
+						Amateur ham radios
+					
+						Wireless internet services
+				
+			
+			
+				
+					
+						Wireless utility meter readers
+					
+						MRI, diathermy, and other medical equipment
+					
+						Systems that monitor the locations of trucks, buses, or other vehicles
+					
+						RF equipment that cures glue or inks, or seals packaging
+					
+						Bacon dryers, donut fryers, and other food processing equipment
+				
+			
+		
+	
+
+
+	Source: Memorandum Opinion and Order and Further Notice of Proposed Rulemaking: Modification of Parts 2 and 15 of the Commissions Rules for Unlicensed Devices and Equipment Approval, June 22, 2007, OET Docket 03-201
+
+
+
+
+	2.4 GHz
+
+	Wireless microphones are allowed to operate on frequencies from 2.400 to 2.483 GHz using either analog or digital transmission. Like the 902-928 MHz band, this range is already crowded with a wide variety of unlicensed consumer products:
+
+	
+		Bluetooth-enabled mobile phones, headsets, laptop computers, and other hardware
+	
+		Wi-Fi enabled smartphones, laptop computers, personal media players, etc.
+	
+		Wi-Fi hotspots in hotels, meeting facilities, libraries, schools, restaurants, airports, etc.
+	
+		Wireless Local Area Networks (WLANs) in homes and offices
+	
+		City-wide Municipal Wi-Fi networks
+	
+		Cordless phones
+	
+		Microwave ovens
+	
+		Security systems
+	
+		Room automation control panels (such as Crestron or AMX)
+	
+		Various Industrial/Scientific/Medical devices
+
+
+	As stated previously, any of the devices listed above could interfere with a wireless microphone signal, causing a reduction in range or sound quality or a more conventional dropout.
+
+	Ultra-Wideband (UWB)
+
+	Ultra-Wideband is a digital transmission protocol in which the data is transmitted in very short pulses, each lasting just a few nanoseconds. The signal can be transmitted at frequencies between 3.1 GHz and 10.6 GHz, and is spread across 500 MHz of spectrum (more than the entire UHF television band). UWB devices are restricted to very low power levels, so they work only over short distances. Wireless microphones in this band are restricted to indoor use only. Due to the extremely high frequencies involved, body absorption of the signal is very significant, making conventional handheld or bodypack transmitter designs impractical. This band is also used by the following types of devices:
+
+	
+		Through-wall imaging equipment used by law enforcement and military agencies
+	
+		Ground-penetrating radar equipment used to identify hidden defects in bridges and roadways, or to locate victims of earthquakes or building collapses
+	
+		MRI, diathermy (tissue heating), and other medical equipment
+
+
+
+	Other Bands
+
+	Shure is continually evaluating new wireless technologies as well as ways to make more efficient use of the existing spectrum. Conventional wireless microphones offer proven sound quality, reliable performance, and freedom from digital delay or latency that may disrupt performers. Expanding their availability to other parts of the spectrum provides additional options for users needing additional units for large facilities or productions  using familiar antenna components and setup procedures.
+	
+	470  512 MHz
+	The lowest portion of the broadcast TV band (channels 14-20, 470 to 512 MHz) has traditionally been underutilized by wireless microphones. Preliminary filings by the FCC suggest that unlicensed consumer devices will not be permitted to use the White Spaces in this range. In 13 U.S. cities, two or three of these channels are used for public safety communications. As long as the locally-designated channels are avoided, this spectrum represents a useful option.
+	
+	944  952 MHz
+	The 944  952 MHz range is outside of the television and White Space band, and has traditionally been used by broadcast stations to transmit the signal from the studio to a remotely-located transmitter and antenna. Wireless microphones are also permitted to operate in this range. While only 8 MHz of spectrum is available, a significant number of wireless microphones can still be accommodated. The FCC has not proposed any changes to the rules regarding the use of this frequency range.
+
+	Summary
+
+	While it is tempting to declare that the sky is falling when it comes to wireless microphones, the fact is that the FCC has committed to preventing that from happening. They have repeatedly stated their intention to allow new devices to operate in the White Spaces only if they can do so without interfering with existing users of the TV band  broadcast television stations and wireless audio equipment. To that end, the FCC is conducting extensive research to determine whether interference mitigation technology works under real-world conditions before they make a final decision. Shure has actively participated in the FCCs proceedings on the White Spaces issue since the beginning of its investigation in 2003. We share the goal of making the most efficient use of the RF spectrum while protecting existing users.
+

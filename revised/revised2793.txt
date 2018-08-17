@@ -1,0 +1,18 @@
+Title: Mic for a Zoom PS-02
+Id: 2793
+Legacy Id: 2902
+
+Question:
+Can you, please, recommend the best (for both performance and value) microphone to use with my Zoom PS-02. I plan to record voice and acoustic guitar either direct to this unit or through the unit to my PC.
+
+
+Answer:
+
+	* Input Specs of the Zoom PS-02 (Used as both Line and Mic):1/4 monaural phone jack x1, Nominal
+	input level:-50dBm (Mic / High Gain), :40dBm (Mic / Low Gain), -16dBm
+	
+	We suggest the Shure PG58-QTR. It retails for $105, but you will likely find it sold for much less.
+	The output level is satisfactory assuming you use the mic close to your mouth or guitar; the impedance is satisfactory; and the mic cable connector with match the Zoom.
+	
+	Be certain to set the Zoom for Mic/High Gain. If you find that you require more gain for the Zoom mic input, then invest in the Audio Buddy from M-Audio. It is a compact mic preamp used by many home recordists for interface between a professional mic and a computer recording system.
+

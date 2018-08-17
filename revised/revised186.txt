@@ -1,0 +1,11 @@
+Title: Does the BG 5.0 have a battery?
+Id: 186
+Legacy Id: 187
+
+Question:
+I have a Shure BG 5.0 and when I move it, I can hear a movement. I was wondering if these mics have a battery inside it, and if so how do I remove and replace it. It appears to have some screws in the side, but I do not want to mess with it until I know for sure what I am doing.
+
+
+Answer:
+
+	The BG 5.0 or BG 5.1 can be powered by either an internal battery or by phantom power. The BG 5.0 does not come from the factory with a battery installed in it, but someone may have put one in yours after it was purchased or at the dealer. The handle unscrews right at where the label is so that you can access the battery compartment. Note this does not involve removing any screws on it. You should be able to do this by just twisting the handle in relationship to the part that has the switch.

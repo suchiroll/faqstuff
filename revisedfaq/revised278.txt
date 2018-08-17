@@ -1,0 +1,36 @@
+Title: Can I use a PSM system for IFB?
+Id: 278
+Legacy Id: 285
+
+Question:
+How would I connect a PSM system to use it as an Interruptible Foldback system for broadcast or field production use?
+
+
+Answer:
+
+	The example below uses the discontinued Shure PSM400, but the concepts apply to current Shure PSM systems.
+
+	
+	Using Personal Monitors for IFB
+
+	
+		Location sound recording for TV, film, or video production usually requires that both the talent and the technicians be able to hear what is being recorded or broadcast. In addition, the director must be able to interrupt this program feed to give instructions. This communications mix is often called Interruptible Foldback, or IFB.
+	
+		An example of someone who needs to hear IFB is the boom operator. The boom operator holds a shotgun microphone mounted on a long pole or boom above the heads of the talent, so that the microphone is just out of the cameras view. The boom operator needs to hear the program audio (in order to know that the shotgun microphone is aimed properly) and the directors instructions to the talent (to be ready for movements which may be required).
+	
+		The Shure PSM400 Personal Monitor System offers several features that make it ideally suited for this application. The PSM400 system (model P4MTRE1) includes the P4M Monitor Mixer, the P4T Transmitter, one P4R Receiver, and one set of E1 Earphones.
+		
+			
+				The P4R Receiver allows the listener to adjust the overall volume level as well as the balance between the program and IFB signals, either in stereo or in mono. The P4Rs 3.5mm stereo output jack is compatible with virtually any earpiece or pair of headphones.
+			
+				The transmitter and receiver are adjustable to 16 different UHF frequencies (722 - 746 MHz). Up to 8 P4T transmitters can be used simultaneously in one location.
+			
+				Both the P4M and the P4T can operate on dc power (14-18 volts, 370 mA total maximum draw), allowing them to be powered from rechargeable battery packs.
+		
+	
+	
+		The program audio from the mixer output and the directors microphone are connected to two inputs on the P4M Monitor Mixer. The P4M allows each source to be panned to a separate output. The P4M also passes these sources through, so that the program audio can be connected to an audio recorder or satellite uplink. The P4Ms two main outputs are connected to the inputs of the P4T Transmitter, which transmits the signal in stereo on a single frequency.
+
+
+	
+

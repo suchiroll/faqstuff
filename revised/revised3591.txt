@@ -1,0 +1,16 @@
+Title: Super 55 - Why no on/off switch?
+Id: 3591
+Legacy Id: 3797
+
+Question:
+I am interesting in buying the Shure Super 55 microphone which improves on the older 55 SH II model. However, the 55 SH II has an On-Off switch while the Super 55 does not have the On-Off switch. I am curious why the new microphone does not have the On-Off switch and would like to know if the On-Off switch can be added to the Super 55.
+
+
+Answer:
+
+	The Super 55 is designed to meet the requirements of touring sound companies.On/Off switches are not provided on high-end touring mics because the performing artist might accidentally switch off the mic while performing, and the sound engineer cannot run on to the stage to undo this mistake.
+	
+	We recommend an external switch that is part of the mic cables female XLR connector, such as the Switchcraft model T3F.
+	
+	Or purchase the 55SH Series II, then replace the mic element with the Super 55 element, sold as the R115S upgrade kit.
+

@@ -1,0 +1,26 @@
+Title: L2 modification - 6dB pad
+Id: 1587
+Legacy Id: 1643
+
+Question:
+I have an L Series wireless system equipped with the Beta58 capsule. My problem is regular overload to distortion even with the gain switch set on 'lo'.
+
+
+A few years ago, I mentioned this to a vendor who told me that this was a common problem and could be remedied with the removal of a "chip" from the circuit board that would drop the gain another 6dB or so. He did this for me, and it solved most all of the overload problems.
+
+
+Recently, I had it in for service, and when it came back, it now is overloading constantly again. I'm thinking that they may have put this "missing" chip back on the board again.
+
+
+My question for you is this: Could you send me a diagram/schematic showing me the chip to be removed so that I may take care of this myself?
+
+
+
+---- 08/22/2001 03:59 PM ----------------------------------------------
+
+Thank you for your reply, however, there is no MS Word doc. attached as stated. Could you please send?
+
+
+Answer:
+
+	We have attached the MS Word document that adds 6dB of attenuation to the L2 transmitter.

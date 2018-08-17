@@ -1,0 +1,27 @@
+Title: SLX4L Receiver  - How does TTL logic control work?
+Id: 2561
+Legacy Id: 2659
+
+Question:
+How does TTL logic control work?
+
+
+Answer:
+
+	The receiver rear panel has three TTL logic terminals:
+	
+	Logic Ground (pin 2)
+	Transmitter Status (pin 1)
+	Battery Status (pin 3)
+	SLX 1, SLX2, MX690, MX890 Transmitter Status - Receiver in NORMAL mode:
+	When the transmitter is OFF, the Transmitter Status terminal measures +5 volts dc in relationship to Logic Ground.
+	When the transmitter is ON, the Transmitter Status terminal measures 0 volts dc in relationship to Logic Ground.
+	MX690, MX890 Transmitter Status - Receiver in LOGIC mode:
+	When the transmitter is MUTED, the Transmitter Status terminal measures +5 volts dc in relationship to Logic Ground.
+	When the transmitter is ACTIVE, the Transmitter Status terminal measures 0 volts dc in relationship to Logic Ground.
+	NOTE: LOGIC mode does not work with SLX1 or SLX2.
+	Battery Status - Receiver in NORMAL mode or LOGIC mode:
+	When the battery is GOOD, the Battery Status terminal measures 0 volts dc in relationship to Logic Ground.
+	When the battery is LOW, the Battery Status terminal measures +5 volts dc in relationship to Logic Ground.
+	This voltage change from +5 volts to 0 volts can be used to trigger other devices, like a flashing LED, or a relay, or an AMX-type control panel.  For example, a flashing LED could be installed on a church pulpit. It would begin to flash if the battery in the clegyman's transmitter was getting low. Radio Design Labs offers a product that operates a DPDT relay controlled by TTL signals.
+	NOTE: The SLX4L ships in NORMAL mode. To switch between modes: powered on the SLX4L, press and hold the Select button, then press the Power button. In LOGIC mode, the front panel LCD flashes "logic."  In NORMAL mode, the front panel will flash "nor."  An LED near the terminal block connector illuminates when LOGIC mode is active. When an IR sync to the MX690 or MX890 transmitter is performed, the receiver will reset the transmitter to match its mode setting. Both transmitter and receiver will remember the last mode status.

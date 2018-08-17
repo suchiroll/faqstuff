@@ -1,0 +1,56 @@
+Title: Connecting a guitar to a wireless transmitter - WA302
+Id: 270
+Legacy Id: 276
+
+Question:
+I was wondering if you could possibly help me with a dilemma I have. Currently I have a wireless presenter microphone system with a standard T1 body pack transmitter, which I have found to be a quality product. However recently I have started to play the guitar, and realized the need for a wireless guitar system. Is it possible for me to take the output from my guitar and use the transmitter I currently have to make my guitar wireless? This would save me the expense of buying a separate transmitter, however the transmitter I currently use only has a 4 pin Tini Q G socket. As I'm not sure about the electronics of the system is it possible to wire up a 1/4" jack to the 4 pin plug? If so is it possible for you to detail a wiring diagram so that I can hook up some cables for myself?
+
+Thanks for any help you can give and keep up the good work!
+
+
+Answer:
+
+	It is possible to hook up a guitar to that bodypack with the correct cable. We make the correct cable as model #WA302.
+
+	
+
+	If you wish to build your own, you would need to connect the wire as follows:
+
+	
+		
+			
+				
+					TA4F
+				
+					1/4
+			
+			
+				
+					pin 1
+				
+					sleeve
+			
+			
+				
+					pin 2
+				
+					not connected
+			
+			
+				
+					pin 3
+				
+					tip
+			
+			
+				
+					pin 4
+				
+					not connected
+			
+		
+	
+
+
+	The wiring of our bodypacks can be seen by clicking on the following: Pin-out for Shure bodypack transmitters and preamps - TA4M / TA4F
+

@@ -1,0 +1,16 @@
+Title: MX395 Hum and Buzz
+Id: 4169
+Legacy Id: 5116
+
+Question:
+I have five MX395B-BI-LED microphones that hum and buzz whenever there is an A.C. power cord placed near the mic. Any ideas?
+
+
+Answer:
+
+	There is likely an erroneously attached date code label inside of the mic housing tube, positioned exactly where the 5-pin XLR connector ground tab should contact the metal mic housing.This label disrupts the ground path and the result is audible hum/buzz.
+	
+	To correct the problem in the field: Loosen the XLR set-screw, carefully slide out the circuit board, and scrape the date code label from the inside of the tube.While the circuit board is extracted from the tube, the low frequency roll-off DIP-switches can be adjusted if desired.
+	
+	As of August 23, 2012, this manufacturing error has been noted and corrected in the MX395 models.
+

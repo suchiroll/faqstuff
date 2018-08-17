@@ -1,0 +1,17 @@
+Title: SRH240M+ Color Code of Cable Wires
+Id: 4148
+Legacy Id: 5054
+
+Question:
+What is the color code for the wires inside of the SRH240M+ cable?
+
+
+Answer:
+
+	Blue: Left Ear Phone +
+	Gray: Left Ear Phone -
+	Red: Right Ear Phone +
+	Black: Right Ear Phone -
+	Yellow: Microphone +
+	Shield: Microphone -
+

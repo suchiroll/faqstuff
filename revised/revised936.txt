@@ -1,0 +1,15 @@
+Title: UHF compatibility with other Shure UHF systems
+Id: 936
+Legacy Id: 964
+
+Question:
+I'm a long-time user of your UHF U4D system.  I'm using the Beta 87 handheld mic and am wondering whether or not I can use it w/any other Shure UHF receiver.  i.e. Can I program the mic to the UHF channel of, say your UC receiver or even one of your UT receivers?
+
+Answer:
+
+	The U2/Beta 87 microphone could be used with a UC receiver as long as the receiver was in the same frequency band as the transmitter. The frequency bands are UA or UB.
+	
+	The UC receiver does not have as many available frequencies as the U4 receivers do. Also the battery indicator on the receiver is not valid either.
+	
+	The U2/Beta 87 microphone cannot be used with the UT receiver.
+

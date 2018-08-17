@@ -1,0 +1,11 @@
+Title: Sony Phono Cartridge Replacement
+Id: 464
+Legacy Id: 473
+
+Question:
+Does Shure sell phono cartridges that would work in a Sony turntable?
+
+Answer:
+
+	Shure makes a wide variety of phono cartridges for home and professional DJ use. We do not recommend cartridges for specific turntables, but there are a few factors you can look at to help choose. First, the mounting type. There are two basic types, standard 1/2 or P-mount. 1/2 types are held in place by two screws from the top of the tone are. P-mount types attach directly to the end of the tone arm. The 1/2 type is by far the most common. Secondly, look at the tracking force. There is usually a recommended tracking force for the turntable. Beyond these considerations, it is a matter of features and personal taste as to which will be the best choice.
+

@@ -1,0 +1,42 @@
+Title: Violins and Mini-Discs
+Id: 1495
+Legacy Id: 1548
+
+Question:
+I was wondering which microphone to buy for a recordable minidisc player for violins. Here are the specifications for my minidisc player:
+
+
+Specifications
+
+· Format Digital Audio MiniDisc System
+
+· Sampling Frequency 44.1 kHz
+
+· Sampling Rate Converter From Optical-In: 32kHZ, 44.1kHz, 48kHz
+
+· Data Compression Method (Coding) ATRAC (Adaptive Transform Acoustic Coding)
+
+· Frequency Response 20-20,000Hz ±3dB
+
+· Wow  Flutter: Unmeasurable
+
+· Inputs DC In, 3V
+
+· Microphone: stereo mini jack, 0.35 - 1.38 mV, plug-in power
+
+· Optical Line In, stereo mini jack
+
+· Outputs Headphones/Remote: Stereo mini jack x 2
+
+· Power output 5mW/channel x 2 (impedance @16 ohms)
+
+
+I would appreciate some help with choosing a specific microphone, thanks again! Charles
+
+
+Answer:
+
+	Assuming you are going to use the microphone on a microphone stand as opposed to a microphone on the violin itself, we recommend thePG81 microphone along with the A96F adapter.
+	
+	ThePG81 is a condenser microphone made for recording purposes such as yours. You can use a AA battery to power this microphone. Then use the A96F transformer adapter to change the XLR output of the microphone to a mini-stereo plug. It will also block the dc voltage from the mini-disc recorder to prevent any damage to the microphone.
+

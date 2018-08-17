@@ -1,0 +1,11 @@
+Title: Shock Mount for the PG81
+Id: 3215
+Legacy Id: 3363
+
+Question:
+I need a shock mount for the Shure PG81. Any ideas?
+
+
+Answer:
+
+	None of the Shure shock mounts (A55M, A53M, A55HM) properly fit the PG81 1" diameter handle.The SP-25 shock mount from WindTech appears to be a good match to the PG81.http://www.windtech.tv/Shock_Mounts.php

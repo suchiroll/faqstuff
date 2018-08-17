@@ -1,0 +1,11 @@
+Title: FP32 and external phantom power
+Id: 85
+Legacy Id: 85
+
+Question:
+I have an FP32 mixer.  I was looking to provide an external power source for the phantom power.  Can you tell me if the 3.5 mini jack for the external phantom in is a mono - or stereo jack?  Can you also forward the positive and negative pin assignment? I'm powering a Sennheiser 416 - 12v T.  Works great with the internal 9V batteries, but want to use an external power source.
+
+Answer:
+
+	The FP32 mini-plug jack accepts a mono 3.5 mm plug. The wiring configuration is tip positive and sleeve negative/ground. Please note that the microphone you describe runs on T (A-B) power. T power is not Phantom Power and the FP32 will not provide T power with an external source. The FP32 will provide T power only with an internal 9 Volt battery.
+

@@ -1,0 +1,11 @@
+Title: Recording setup for church pipe organ
+Id: 2841
+Legacy Id: 2953
+
+Question:
+We have two KSM32 and need to make a stereo recording of a church pipe organ, never done that before, how should the mic placement be? would more mics be better, we also have two Beta87a and four PGA81, recording onto a recorder.
+
+
+Answer:
+
+	Two KSM32 mics used as a stereo pair would be our choice. The Shure A27M stereo mic adapter may prove useful.Read more about stereo mic technique in the Shure booklet: Microphone Techniques for Studio RecordingPositioning of the stereo pair in the space requires experimentation. Use masking tape to mark the floor and make test recordings at the various marks. One position will sound best; use it.

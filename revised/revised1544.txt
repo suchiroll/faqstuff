@@ -1,0 +1,14 @@
+Title: Battery power for the SCM268?
+Id: 1544
+Legacy Id: 1598
+
+Question:
+When I talked my boss into buying an SCM268 to get multiple inputs into a digital camcorder, I was unable to sell him on your least expensive battery powered 4 or 6 channel mixer. As I recall the jump in price was about 800 dollars. Anyhow, question is, would it be impossible to build a battery power source for this little mixer? If so, do you have any resources for researching such a project or is someone out there already building such devices?
+
+
+Answer:
+
+	The SCM268 has an internal power supply and thus cannot be easily battery powered. In order to battery power it, you would need a large 12 volt battery, along with an external inverter (to convert the 12Vdc to 120Vac). The mixer could then plug into this inverter.
+	
+	For batteries, something as simple as a car battery will work.
+

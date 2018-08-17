@@ -1,0 +1,15 @@
+Title: Which preamp to use with KSM44?
+Id: 904
+Legacy Id: 932
+
+Question:
+I recently purchased a KSM44 studio mic.  I now, need information regarding possible pre-amps for this microphone.  Any information regarding compatible pre-amps will be appreciated. 
+
+Answer:
+
+	There are hundreds of mic preamps on the market. Mix Magazine has published preamp reviews in the past.
+	
+	For a simple basic preamp, try Rane.
+	
+	Shure does not make a mic preamp for the KSM44.
+

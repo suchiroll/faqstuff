@@ -1,0 +1,26 @@
+Title: FCC Reallocation of 698 to 806 MHz in the United States
+Id: 3062
+Legacy Id: 3193
+
+Question:
+I've heard that the FCC has sold off many frequencies in the 698 to 806 MHz range for cellular data beginning in 2009. Do you have any information regarding this and if it's true are you coming out with receivers in other frequency bands? We do a lot of stadium work and I want to steer away from frequencies that may be a problem in the future.
+
+
+Answer:
+
+	The FCC conducted spectrum auctions in the 700 MHz band (actually 698-806 MHz). The auctions were conducted in two phases, dividing the spectrum into two groups, upper and lower 700 MHz bands. Additionally, a portion of the 700 MHz has been re-allocated for Public Safety. On June 12, 2009 the television stations that were occupying the 700 MHz spectrum vacated that area. This opened up the spectrum for the auction winners to begin testing and using these frequencies. All television stations are now in their new assignments below TV channel 52 (698 MHz). Cellular telephone companies, such as Verizon and ATT were the major winners of the auctions. These cell phone companies will begin using this spectrum for cell phones in the near future.
+	
+	Additionally, on January 15, 2010, the FCC announced that wireless microphones will be illegal to use in the 700 MHz band after June 12, 2010. More information:http://www.fcc.gov/cgb/wirelessmicrophones/
+	
+	What does this mean for you? You should make plans to replace your wireless systems before June 12, 2010. Operation on the newly defined Public Safety channels (TV 63, 64, 68, 69)must be avoided. In some markets, testing of new wireless services may already be occurring. As you would probably do for any large event, scanning for clear frequencies ahead of time is highly recommended. This is easily accomplished with either the UHF-R wireless system and a laptop computer running Shure Wireless Workbench software, or with the older UHF system, if you have the UA111 network interface.
+	
+	The antennas and antenna distribution systems are not affected by this regulation. However, if you have narrow band antennas or antenna distribution, you might need to change them out for wide band devices or devices in a different band.
+	
+	For current and future system purchases,you shouldmove to frequency bands TV channel 51 and below, which are located in the core television band (UHF frequencies 470 - 698 MHz). These frequencies are not slated to be auctioned, nor has this even been proposed. The wider the tuning bandwidth of the wireless system, the more frequency choices you will have. This is key for successful operation. Shure does not currently sell any wireless systems in the 700 MHz band. Thus, you can be confident in purchasing any new Shure wireless system.
+	
+	Shureoffered an 18 month rebate program to assist U.S. customers that own professional wireless audio systems in the 700 MHz band. This program ended June 30, 2010.
+	
+	Furthermore, the federal government has dictated that Shure can no longer repair 700 MHz wireless systems.
+	
+	Shure encourages all parties interested in the continued successful operation of wireless microphones, personal monitors, intercoms and IFB devices to state their position with decision makers in Washington, D.C. To assist in this effort,direct written communication to U.S. House and Senate representatives is also encouraged.
+

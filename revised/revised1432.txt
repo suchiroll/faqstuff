@@ -1,0 +1,11 @@
+Title: Microphone for grand piano
+Id: 1432
+Legacy Id: 1485
+
+Question:
+Looking for info on microphones for grand piano.
+
+
+Answer:
+
+	1) For sound reinforcement, read: Microphone Techniques for Music - Live Sound Reinforcement2) For studio recording, read: Microphone Techniques for Music - Studio Recording3) For home recording and podcasting, read: Introduction to Home Recording and Podcasting

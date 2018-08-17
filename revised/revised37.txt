@@ -1,0 +1,14 @@
+Title: Which lavalier mic should I use?
+Id: 37
+Legacy Id: 37
+
+Question:
+The church I attend is in need of a new wireless lapel. We have a Shure wireless system and WL183 lavalier. What lavalier would you use: WL183 or to the WL185? Our Pastor raises, lowers, and turns his head a lot, and will lower his voice to almost a whisper at times.
+
+
+Answer:
+
+	If you are not having any problems getting enough gain before feedback, then we suggest the WL183. The omnidirectional cartridges are more forgiving on other aspects such as clothing noise, proximity effect, wind noise, etc. If you are having problems getting enough gain before feedback, then we would recommend the use of the WL185. While it might have more fluctuation in level when the pastor moves his head around, that compromise is worthwhile to get more gain before feedback.
+
+	Or you can try a headworn mic that positions the mic near the mouth and keeps the mic in the proper position no matter where he turns his head.
+

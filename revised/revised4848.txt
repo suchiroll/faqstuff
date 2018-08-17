@@ -1,0 +1,12 @@
+Title: Feature Licenses for CU 6105 / CU 6110 with Firmware v8.0.1
+Id: 4848
+Legacy Id: 6034
+
+Question:
+If I update my CU 6105/6110 central unit to Firmware version 8.0.1, do I need to replace existing feature licenses with new ones?
+
+
+Answer:
+
+	No.Previously-installed feature licenses (such as for the number of conference units or interpretation languages) will continue to operate.
+

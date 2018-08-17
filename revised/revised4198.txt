@@ -1,0 +1,19 @@
+Title: SE530 earphones with the CBL-M+-K-EFS Earphone Accessory cable
+Id: 4198
+Legacy Id: 5155
+
+Question:
+I’m the proud owner of 2 sets of SE-530 headphones that have worked well for me in the past. I wanted to use them with our new iPhones and was told the CBL M+ EFS was what I need. I purchased 2 sets but when they arrived I discovered our headphones don't appear to have the right connection at the earphone. Mine do not appear to have the swivel plug? Can you help me with this?
+
+
+Answer:
+
+	Sorry, but the CBL-M+ cable can only work with the SE535 because of the detachable cable feature.This cable cannot work with the SE530.The advice that you received was incorrect.We suggest that you return the CBL-M+ cables.
+	
+
+	We are unaware of a third-party cable/device that can control the iPhone and work with the SE530.One may exist, but we have not yet found it.If you do find such a device, please send that information and we will post it for other SE530 owners.
+	
+
+	We did find this interesting link:http://lifehacker.com/5802821/add-an-inline-remote-control-to-your-favorite-headphones-without-ruining-them
+	
+

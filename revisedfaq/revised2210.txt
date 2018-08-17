@@ -1,0 +1,16 @@
+Title: R47EDT with N75ED Type2 stylus
+Id: 2210
+Legacy Id: 2286
+
+Question:
+I have ordered replacement styli for the R47EDT cartridge on my LAB-395 Realistic turntable. The original specifications in the service manual for this turntable state the tracking force should be between 1.5 and 3.0 grams. The replacement styli state they should be tracked between .75 and 1.5 grams. Now the specifications for the tonearm say that 1.5 grams is the minimum tracking force that should be applied. I have two questions: 1. Should I track the replacement styli at 1.5 - 3.0 grams or .75 - 1.5 grams?
+
+2. Could I run into any problems with the tonearm if I track them at less that 1.5 grams?
+
+
+Answer:
+
+	1. Set the tracking force for 1.5 grams. It is within the range of the tonearm and the new stylus.
+	
+	2. Perhaps, it depends upon the physics of the tonearm design. Try 1 gram and if it sounds fine, use 1 gram.
+

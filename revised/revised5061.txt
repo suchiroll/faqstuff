@@ -1,0 +1,23 @@
+Title: Shure Models M16 and M12 Studio Dynetic Phono Reproducer
+Id: 5061
+Legacy Id: 6374
+
+Question:
+Please provide history on the Shure M16 and M12 tone arms.
+
+
+Answer:
+
+	The M16 and M12 were introduced in March 1957 at the Institute of Radio Engineers national convention. The M16 was for records up to a 16 diameter; the M12 was for records up to a 12 diameter. Either tone arm could be supplied with the M1 phono cartridge - for monaural LP records; or the M2 phono cartridge - for 78 RPM records.
+	
+	From a Shure memo datedFebruary 12, 1957:
+	In this reproducer we have attempted to incorporate every desirable feature requested by critics and engineers. For example, full range frequency response of 30,000 cycles per second --the pivots are jeweled for maximum sturdiness and minimum friction -- the arm is fully damped through the use of dynamic damping -- high output is provided without the use of transformers -- the arm is extremely stable and intended for operation at 1 gram -- it is almost impossible to damage the pickup or record by careless handling.
+	
+	1957 Pricing
+	M16: $79.50 with M1 or M2 cartridge
+	M12: $79.50 with M1 or M2 cartridge
+	M1: $42  LP cartridge
+	M2: $42 78 RPM cartridge
+	N1: $21 LP0.0007 diameter spherical stylus
+	N2:$21 78 RPM0.0027 diameter spherical stylus
+

@@ -1,0 +1,11 @@
+Title: How to replace a Shure stylus
+Id: 3867
+Legacy Id: 4110
+
+Question:
+Please provide instructions about how to replace the stylus on a Shure cartridge.
+
+
+Answer:
+
+	Above the thin stylus shank (or "needle" as some call it) is a U-shaped plastic piece called the stylus grip.  Use your thumb on one side of the plastic stylus grip and your index finger on the other side, then pull outward.  The entire stylus assembly will slide out of the cartridge body.  Use the same method, in reverse, to insert the new stylus.

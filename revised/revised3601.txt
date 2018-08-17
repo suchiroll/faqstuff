@@ -1,0 +1,11 @@
+Title: X2u not showing up on Apple Computers and/or Third Party Recording Software
+Id: 3601
+Legacy Id: 3807
+
+Question:
+I connect the X2u to a Macintosh computer. The X2u works fine with Garageband. With Digital Performer, software recognizes Shure Digital, but I get the error message \”MOTU MAS error\”. No audio passes through to DAW. With Logic Pro 8, software recognizes Shure Digital but I get no audio either.
+
+
+Answer:
+
+	Quit the software and swap the USB port to which the X2u is connected. Relaunch after the X2u has re-enumerated. This should solve the issue.

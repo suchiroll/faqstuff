@@ -1,0 +1,12 @@
+Title: OEM Model EM26C
+Id: 4857
+Legacy Id: 6044
+
+Question:
+What was the model EM26C?
+
+
+Answer:
+
+	It was a telephone handset madeby Shureand sold to General Electric as an OEM model.The EM26C was packaged with GE two-way radios.
+

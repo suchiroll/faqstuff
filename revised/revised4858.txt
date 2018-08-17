@@ -1,0 +1,34 @@
+Title: Microphone Placement: A Thermometer Analogy
+Id: 4858
+Legacy Id: 6045
+
+Question:
+Why is it necessary to place a microphone near the desired sound source?
+
+
+Answer:
+
+	The Microphone and the The Thermometer: A Parable
+
+	Shure frequently receives inquiries from end users with the mistaken notion that a microphone can somehow reach out across a large space to grab audio as it emerges from the talkers mouth.A microphone cannot do this; a microphone can only measure sound waves that travel to its location.This concept seems difficult for many to understand. So here is a analogy about a microphone and a thermometer - because most people have used a thermometer.
+	
+	A thermometer measures the presence of heat.Heat is energy and a function of molecular activity: for a liquid, a pot of boiling water has more molecular movement than a block of frozen water.Heat in the air is also a function of molecular activity, but not as easy to observe as with water.When the air is 100 F, the molecules are more active than when the air is -30 F.
+	
+	If one wants to measure the air temperature within my refrigerator, the thermometer must not be placed on the oven as it will measure the molecular activity (heat) at that location.The thermometer cannot reach out from the oven and magically measure the temperature within the refrigerator.The thermometer must be placed in the refrigerator; it must be located at the desired measurement location.A thermometer placed in the basement does not accurately record the room temperature in the second floor bedroom.Common sense and it sounds absurd to read it.
+	
+	Yet this is exactly what the novice often expects from a microphone. The novice positions the microphone in a noisy room, or on a noisy stage, and expects the microphone to listen ONLY to one sound source - twenty feet away - while ignoring all other sound sources.A microphone measures energy and this energy is disguised as the movement of air molecules. Like the thermometer, the microphone must be located near the sound-energy source to be measured.This is why a singer uses the SM58 handheld microphone or the Beta 54 headset microphone. This is why a TV news anchor wears the MX150 lapel microphone.This is why a radio DJ talks directly into the SM7B microphone mounted on suspended mechanical arm.This is why the President of the United States orates into the Shure SM57 positioned within arms length on the lectern.
+	
+	The microphone must be proximate to the singer/artist/presenter.
+	
+	The novice then counters with, But I have seen long, shotgun microphones that act like an audio zoom lens. Appearances can deceive.A shotgun mic is not a zoom lens.Using a shotgun mic is like looking through a cardboard tube at a person in the distance.The persons image is not brought closer or enlarged.What occurs is the visual side images are no longer seen and thus do not distract.When used for video/film work, a shotgun mic is mounted on a long boom arm and typically within twenty-four inches of the talker, located just above the talkers head but out of the camera frame.And lets not forget the critical actions of the boom operator who constantly moves the microphone to match the motion of the talker - because the microphone must be kept near to the desired sound source.
+	
+	From a 1931 Acoustical Society of America technical paper about the development of microphones: A microphone cannot efficiently transmit all of the sounds of the human voice over its broad frequency range and intensity range, and at the same time discriminate against unwanted sounds from other audio sources within these same ranges. In other words, air movement is air movement and a microphone does not selectively discriminate between the desired air movement (the artists voice) and the undesired air movement (everything else.)
+	
+	In summary, both the microphone and the thermometer measure the movement of molecules. Microphone accuracy (fidelity) is a function of proximity to the sound source.Thermometer accuracy is a function of proximity to the heat source. With a thermometer or with a microphone, the immutable laws of physics cruelly crush the hopes and wishes of the novice.
+	
+	Please read the links below:
+	
+	How far away will my microphone pick up?
+	
+	Critical Distance and Microphone Placement
+

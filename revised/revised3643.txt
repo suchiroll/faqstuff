@@ -1,0 +1,25 @@
+Title: SE115M Basic Features and Operation
+Id: 3643
+Legacy Id: 3851
+
+Question:
+What are the basic features and operation of the SE115M?
+
+
+Answer:
+
+	The SE115M includes a pair of SE115 earphones, a microphone, and a push button switch.  The earphones serve a dual purpose: to listen to music or to listen to the person on the other end of the call.  The microphone is used to speak to the other person during a call.
+	
+	The switch is actuated to SEND a new phone call or to END an existing phone call.  When actuated, the switch shorts the mic signal line to ground.  Typically, this action is interpreted by the phone as a SEND call or an END call function.
+	
+	NOTE: It is the phone design that determines what happens with this switch is actuated.  The type of function is not determined by the SE115M switch.
+	
+	The 3.5mm male plug is configured as follows:
+	Tip - audio feed to left earphone;
+	Ring 1 - audio feed to right earphone; 
+	Ring 2 - ground return for earphones and for microphone;
+	Sleeve - audio feed from microphone.
+	
+	The operating voltage range for the microphone is 1.5Vdc to 3.6Vdc.  The current draw is 0.25 mA maximum.
+	
+	IMPORTANT: The mic and switch function of the SE115M will not work with most Apple phones.

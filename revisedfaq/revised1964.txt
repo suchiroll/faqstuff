@@ -1,0 +1,31 @@
+Title: Signal level into PSM Transmitter (P6T) is low
+Id: 1964
+Legacy Id: 2027
+
+Question:
+I am using the PSM600 for myself and floor monitors for other band members in my system. I have two monitor mixes with one monitor output level control on my board (Alesis Studio 24). When I turn up the monitor level control on the board to get the recommended signal level on the PSM600 Transmitter (between -3 and +3) the floor monitors are extermely loud. If I turn down the board's monitor level control, I can effectively provide floor monitors but don't have enough signal on the PSM600 Transmitter to register even one light. What do I do?
+
+
+A second scenerio occurs when we use a Peavey powered mixer and I use the monitor output. The signal is very weak to the PSM600.
+
+
+As a third question, it seems as though I have to turn the input control on the PSM600 Transmitter very high before I achieve a strong signal. I am turning to the "3:00 o'clock" position when there is a strong signal coming into the unit to reach the recommended -3 to +3 range. Is this normal?
+
+
+Answer:
+
+	* First, make certain the input pad on the rear of the P6T is set to -10dB. If it is set to +4dB, the input signal will be reduced by 14dB as it enters the P6T.
+	
+	"When I turn up the monitor level control on the board to get the recommended signal level on the PSM600 Transmitter (between -3 and +3) the floor monitors are extermely loud. If I turn down the board's monitor level control, I can effectively provide floor monitors but don't have enough signal on the PSM600 Transmitter to register even one light. What do I do?"
+	
+	* Do you have separate power amplifiers driving the floor monitors? If so, use the input level attenuators on these to lower the level being sent to the floor wedges.
+	
+	
+	"A second scenerio occurs when we use a Peavey powered mixer and I use the monitor output. The signal is very weak to the PSM600."
+	
+	* Is there a headphone output on the Peavey with its own level control? If so, use that to drive the P6T.
+	
+	
+	"I am turning to the "3:00 o'clock" position when there is a strong signal coming into the unit to reach the recommended -3 to +3 range. Is this normal?"
+	
+	* Not a problem. Using the entire range of the P6T level control is OK. Remember to use the input pad switch on the rear of the P6T in conjunction with the front panel level control.

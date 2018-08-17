@@ -1,0 +1,12 @@
+Title: Remote Control of a Conference ONE Chairman Unit
+Id: 2893
+Legacy Id: 3017
+
+Question:
+Can I remotely control a Chairman via a personal computer?
+
+
+Answer:
+
+	Sorry, there are no computer control functions available.
+

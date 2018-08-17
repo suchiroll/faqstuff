@@ -1,0 +1,12 @@
+Title: Talkback microphone
+Id: 1228
+Legacy Id: 1274
+
+Question:
+I'm looking for a electret "talkback" mike that is installed on a small gooseneck and can be plugged directly into an XLR jack on the mixer console. For some reason, these seem to be hard to find. Thanks for any info. that you can provide.
+
+
+Answer:
+
+	The Microflex Gooseneck micswill work IF there is 11 to 52 volts of phantom power at the XLR jack.
+

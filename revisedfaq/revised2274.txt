@@ -1,0 +1,27 @@
+Title: Audio interference problems - buzz and radio frequency interference
+Id: 2274
+Legacy Id: 2355
+
+Question:
+I am at my wit's end, so I'm hoping you have some helpful feedback. I record using an SM57, and ART Tube MP preamp, and my computer. This combination allowed me to make pristinely clean recordings until I moved to a new house eight months ago. I now get a very loud buzz, and sometimes an FM radio station, when using the equipment (even minus the computer), which precludes any real recording activity. I have tested the equipment in other people's houses with no problem whatsoever. My outlets are grounded. The power company has no answers for me. What may be causing this, and what can I do about it?
+
+Thanks!
+
+
+Answer:
+
+	Your new house is located in an area with strong electronic fields of an unknown origin. Unless you move again, this situation will not change. So.......
+
+	
+	Solving interference problems (buzzing, RF, etc.) is a process of elimination. Doing it via email is next to impossible, but here are some suggestions:
+	
+	1) Fabricate an audio dummy load. From Radio Shack, buy a male XLR connector. Across pins 2 and 3, solder a resistor (any value between 100 ohms and 200 ohms). Reassemble the XLR connector. You have created a dummy load.
+	
+	2) Unplug the SM57 from your setup. Replace it with the dummy load. If the problem goes away, it is the SM57 that is picking up the interference. Since the mic works well elsewhere, it is not defective; but it is not shielded well enough for the stray electronic fields in your house. Try the SM58; the Beta 57; the Beta 58. If none of these solve the problem, try a condenser mic: any Shure KSM mic; the BG 5.1; the SM87; etc.
+	
+	3) If the SM57 is not the problem, unplug the mic cable for the ART. Replace it with the dummy load. If the problem goes away, you need a cable with better shielding.
+	
+	4) Continue the process through the entire signal chain. This is lead you to the component (or components) that are picking up the buzz and RF.
+	
+	Finally, there are some electronic fields so strong that using audio equipment within the field is not possible. Lets hope that is not the case in your new house.
+

@@ -1,0 +1,11 @@
+Title: Change SM7B settings while mic is operating
+Id: 4553
+Legacy Id: 5676
+
+Question:
+I have the SM7B and i was wondering if you can switch the settings, flat response, bass roll off and presence boost while the microphone is plugged in and muted so i can check the different recording tones. Will this cause damage, or is it best to have the setting fixed before plugging in and recording?
+
+Answer:
+
+	It is OK to change the settings while the mic is plugged in, and/or in use.
+

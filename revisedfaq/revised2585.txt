@@ -1,0 +1,22 @@
+Title: Parts for a 585SB
+Id: 2585
+Legacy Id: 2684
+
+Question:
+i am a blues harp player and i recently acquired a shure 585sb mic. i read that some great harp players used this mic. i don't know if i can convert this mic to high impedance. i need to plug it into a guitar amp. i need a cable, and don't know where to get one. i was also wondering if there was an internal cloth type filter behind the wire mesh (mine does not have one). your web site was very helpful on the specs. thank you. i think the preferred mic was the 585A, but i think this mic would be good for such an application. please send me any information that might be helpful.
+
+
+Answer:
+
+	i don't know if i can convert this mic to high impedance. i need to plug it into a guitar amp.
+	* Use a Shure A85F or A95UF transformer at the end of the mic cable. This converts the mic to high impedance.
+	
+	i need a cable, and don't know where to get one.
+	* Shure no longer has such cable. Try Tom Ellis: phone 214-328-3225
+	
+	
+	i was also wondering if there was an internal cloth type filter behind the wire mesh (mine does not have one).
+	* It was foam that likely has deteriorated. You can use silk as well. Try a local fabric shop.
+	
+	i think the preferred mic was the 585a.
+	* It is the same mic with a different internal output transformer.

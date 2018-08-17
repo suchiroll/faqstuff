@@ -1,0 +1,11 @@
+Title: Vacuum Tubes for the Vocalmaster
+Id: 1269
+Legacy Id: 1317
+
+Question:
+My friend has an old Vocal Master PA. It is currently not working. He took it to get it fixed (they are currently looking at it) and reports that someone called a Shure rep on the phone who told him the tubes for the Vocalmaster are no longer made. Does this just mean that sure no longer makes tubes for the Vocal Master? Certainly if the problem is that a tube has burned out, there are tubes in existence which could replace the tubes in a Vocal Master, right?
+
+
+Answer:
+
+	There are no vacuum tubes in the Vocal Master. It uses solid state electronics. Shure no longer offers repair parts for the Vocal Master as it was discontinued more than 20 years ago.Here is a link to the Vocal Master Service Manual: http://pubs.shure.com/guide/VA300-S/en-US

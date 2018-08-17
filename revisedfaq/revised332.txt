@@ -1,0 +1,42 @@
+Title: How do I connect a Beyer TG-X35, TG-X30, or DT 297 to a Shure bodypack?
+Id: 332
+Legacy Id: 339
+
+Question:
+How do I connect a Beyer TG-X35, TG-X30, or DT 297to the TA4 connector on a Shure bodypack?
+
+
+Answer:
+
+	To make this modification it is necessary to remove the connector or preamp attached to the microphone cable. This will require disassembling the connector or preamp and unsoldering the attached cable or simply cutting off the cable at the strain relief. Once this is accomplished, the following color codes configuration can be applied to equip the exposed cable with a Switchcraft TA4F connector for mating with the Shure wireless transmitter.
+
+	
+
+	The resistor and capacitor should fit inside of the TA4F. Customers have reported that the mic gain can be increased by using a 10k resistors in place of the 15k resistor.
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Parts Department at 800-516-2525 or 847-600-8699 as part number WA330.
+
+	
+
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

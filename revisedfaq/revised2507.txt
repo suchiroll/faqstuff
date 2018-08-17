@@ -1,0 +1,12 @@
+Title: Model 515 Switch Contacts
+Id: 2507
+Legacy Id: 2603
+
+Question:
+What amperage rating is the switch contact in the model 515?
+
+
+Answer:
+
+	The contacts on this switch are intended for use in low level/dry circuit applications. High current or voltage levels will shorten the contact life. The switch contact can handle up to one amp, but the contact life would be greatly shortened.
+

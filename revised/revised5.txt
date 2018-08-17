@@ -1,0 +1,94 @@
+Title: RS232 codes for controlling DFR11EQ v5 with Crestron or AMX
+Id: 5
+Legacy Id: 5
+
+Question:
+What are the RS232 codes used to control a DFR11EQ v5 without a computer?
+
+
+Answer:
+
+	The connection from a DFR11EQ to a control system is seven wire RS232.
+
+	
+
+	Download Crestron module for the DFR11EQ (written by Crestron).
+
+	
+
+	To use an AMX or a Crestron controller to set the output volume level, output delay, EQ bypass, delay bypass, output mute, or gain control bypass on a version 5 DFR11EQ, send the following data sequence to the target device. Hexadecimal numbers are indicated by the h suffix.
+
+	
+
+	F0h 00h 01h 00h [Device ID] 07h 00h 2Bh SS ww xx yy WW XX YY bypass checksum F7h
+
+	where:
+
+	
+		[Device ID] corresponds to the target DFR11EQ version 5 device ID from 00h to 0Fh
+		
+		ww0 = truncate[(# of delay samples)/10000h]
+		xx0 = truncate[(# of delay samples - (ww0*10000h))/100h]
+		yy0 = # of delay samples - (ww0*10000h)  (xx0*100h)
+		ww = ww0  7Fh
+		xx = xx0  7Fh
+		yy = yy0  7Fh
+		
+		G = truncate{10[(output gain in dB)/20] * 200000h}
+		WW0 = truncate[G/10000h]
+		XX0 = truncate[(G  (WW0*10000h))/100h]
+		YY0 = G- (WW0*10000h)  (XX0*100h)
+		WW = WW0  7F
+		XX = XX0  7F
+		YY = YY0  7F
+		
+		SS = (ww0  80h)/2h + (xx0  80h)/4h + (yy0  80h)/8h + (WW0  80h)/10h + (XX0  80h)/20h + (YY  80h)/40h
+
+
+	and where:
+
+	
+		bypass is a byte whose bits are encoded as follows:
+		Bit 0=0/1 for delay bypass/enable
+		Bit 1=0/1 for Unmute/Mute the output
+		Bit 2=0/1 for bypass/enable the EQ
+		Bit 3=0/1 for bypass/enable the output gain control
+		Bits 4-7 = 0
+		
+		checksum = 7Fh ^ SS ^ ww ^ xx ^ yy ^ WW ^ XX ^ YY ^ bypass
+
+
+	and where:
+
+	
+		 is logical AND
+		^ is logical exclusive OR
+
+
+	Examples
+
+	
+		Volume: +12; No delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 02h 00h 00h 00h 7Fh 64h 70h 2Dh 3Bh F7h
+		Volume: +6; No delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 04h 00h 00h 00h 3Fh 59h 30h 2Dh 00h F7h
+		Volume: 0; No delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 00h 00h 00h 00h 20h 00h 00h 2Dh 72h F7h
+		Volume: -6; No delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 02h 00h 00h 00h 10h 09h 39h 2Dh 70h F7h
+		Volume: -12; No delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 02h 00h 00h 00h 08h 09h 3Ch 2Dh 6Dh F7h
+		Volume: 0; 500 ms delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 10h 00h 5Dh 40h 20h 00h 00h 2Dh 7Fh F7h
+		Volume: 0; 1000 ms delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 30h 00h 3Bh 00h 20h 00h 00h 2Dh 79h F7h
+		Volume: 0; 1300 ms delay
+		F0h 00h 01h 00h 00h 07h 00h 2Bh 30h 00h 73h 40h 20h 00h 00h 2Dh 71h F7h
+
+
+	Note: The connection from a DFR11EQ to a control system is seven wire RS232. Click here for more information on how to use 3 wire or 5 wire RS232 with the DFR11EQ.
+
+	
+
+	Click here for the RS-232 codes to change scenes on a DFR11EQ.
+

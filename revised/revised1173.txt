@@ -1,0 +1,14 @@
+Title: M267 Mix Bus
+Id: 1173
+Legacy Id: 1215
+
+Question:
+Can you use the MIX BUS with other mixers which DON'T have one? Is it a line-level signal? is it an input or output or both depending upon the application?
+
+
+Answer:
+
+	The Mix Bus can be used as an additional unbuffered output.
+	
+	The mix bus is pre-Master gain control and line level.
+

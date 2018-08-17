@@ -1,0 +1,51 @@
+Title: Mic into a tape recorder?
+Id: 1561
+Legacy Id: 1616
+
+Question:
+My wife is a composer and singer. She just purchased a Shure SM58 mike, and wants to use it into a cassette recorder. The dealer sold her a cable - XLR to 1/4 inch 3 circuit (stereo type) plug. I'm sure the 3 connections are shield, and the balanced 150 ohm mike circuit. They also sold her an adapter, from stereo 1/4 inch jack to two RCA plugs. I'm sure that was really intended as a true stereo splitter and it would be useless with the mike cable, as it would put one side of the mike on each of the two RCA plug tips and the shield on both jack shells.
+
+
+To go from the balanced 150 ohm mike to unbalanced 1/8 inch mono mike input jack on the recorder would seem to me to require a matching transformer. But I couldn't find such a device on your web site. Do you have such a transformer or can you suggest a source? I certainly don't want to just tie one side of the the balanced mike output (along with the shield) to the cassette input common (1/8 inch mono plug shell) and the other balanced mike input to the cassette mike input (1/8 inch mono plug tip). Even if it worked, the impedance difference would cause a very low mike output, and the cassette input may not have sufficient gain. A matching transformer would also step up the mike output voltage into the high impedance cassette mike input.
+
+
+A simple 1:1 transformer to convert from balanced to unbalanced would not step up the voltage, so a 150 ohm to 10K-20K matching transformer would seem to be needed. I don't believe we have a need for a preamplifier or full mixer setup, as this will be the only mike.
+
+
+
+---- 08/17/2001 03:30 PM ----------------------------------------------
+
+Still didn't address main question - Shure SM58 (balanced 150 ohm) to 3.5 mm unbalanced (mono) medium/high impedance cassette mike input jack. Even if I knew necessary signal need, still have the balanced to unbalanced question to answer. That would seem (per your app note) to need a 1:1 transformer, or perhaps better low to medium/high impedance that could increase the voltage and also do the balanced to unbalanced.
+
+
+Answer:
+
+	To go from the balanced 150 ohm mike to unbalanced 1/8 inch mono mike input jack on the recorder would seem to me to require a matching transformer. * Not necessarily! It depends upon the following:
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your tape recorder or your radio or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+	
+	Dont buy anything or do anything until you get the specs for the recorder. Then contact us again and we will give you the proper solution.
+	
+	---- 08/17/2001 03:34 PM ----------------------------------------------
+	
+	Even if I knew necessary signal need, still have the balanced to unbalanced question to answer. * If the mic to recorder cable is less than 15 feet, unbalance the mic as follows: XLR pin 1 and XLR pin 3 to 3.5 mm sleeve; XLR pin 2 to 3.5 mm tip.
+	
+	That would seem (per your app note) to need a 1:1 transformer, or perhaps better low to medium/high impedance that could increase the voltage and also do the balanced to unbalanced. * Step-up transformer may or may not work depending upon actual input impedance of the recorder. See VITAL MICROPHONE INPUT SPECIFICATION #2. 1:1 transformer not necessary unless long cable runs are required, like over 20 feet.
+

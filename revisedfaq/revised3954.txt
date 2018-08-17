@@ -1,0 +1,36 @@
+Title: PG27-USB or PG42-USB with Apple iPad
+Id: 3954
+Legacy Id: 4203
+
+Question:
+Any tips on using these USB mic models with an Apple iPad?
+
+
+Answer:
+
+	An externally-powered USB hub is needed. The PG27-USB and the PG42-USB need more current/power than the iPad can provide from its USB port. The symptom is that the iPad refuses to establish the data connection.
+
+	
+
+	Items needed:
+
+	External USB hub of your choice and its power adapter
+
+	Apple iPad Camera Connection Kit - which is also useful USB audio devices
+
+	Apple iPad recording software, such as Garage Band for iPad
+
+	
+
+	Make the connections in this order:
+
+	1.Connect the power adapter to the USB hub.
+
+	2.Plug the Shure USB microphone into the hub.
+
+	3.Attach the USB camera connector attachment to the end of the USB cable from the hub
+
+	4.Plug the connector into the iPad.
+
+	Failing to follow this order of connection may bring about an iPad error message.
+

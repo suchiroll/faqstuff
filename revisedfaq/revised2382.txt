@@ -1,0 +1,42 @@
+Title: VP88 Voltage/Current Requirements
+Id: 2382
+Legacy Id: 2473
+
+Question:
+I have a VP88 mike which I use in conjunction with a Canon XL1 camcorder. The mike is superb - no complaints there.
+
+
+1) However in my application I have to use the 6v battery to power the mike. Or do I?
+
+
+I am looking at powering the mike externally.
+
+
+2) Can I power the mike from another source by attaching a couple of wires to the 6v battery connections?
+
+
+3) If so what are the limits of voltage and required current?
+
+
+4) For example can I use an external 9v or even 12v battery? Would that simply blow the power circuitry.
+
+
+5) Another possibility is that the XL1 has a socket through which it provides power for an external mike. The supplied Canon mike uses this as it's power source. At this point I am not sure of the voltage and current provided by the source, but if it is within the tolerance of what the VP88 can handle, then I can simply wire this power supply from the XL1 to the 6v battery connections.
+
+
+Answer:
+
+	1) Yes, you need to use the internal 6 V battery in your application.
+	
+	2) No.
+	
+	3) The proper way to externally power the VP88 is via phantom power: What is Phantom Power?
+	
+	4) You can use an external battery IF you built a phantom supply: Battery Powered Phantom Power Supply with Balanced Output
+	
+	You will need two as each leg (the LEFT and the RIGHT) of the VP88 output must be powered.
+	
+	5) This will not power the VP88. The Canon provides bias, not phantom.
+	
+	Summary: Build or purchase two battery phantom supplies; OR use the internal 6V battery.
+

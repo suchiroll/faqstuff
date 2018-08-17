@@ -1,0 +1,13 @@
+Title: Information on mic model CR10K
+Id: 2795
+Legacy Id: 2904
+
+Question:
+I recently acquired an older Shure microphone that I can't seem to find any information for. The  model# is CR10K. I can't find any mention of it anywhere on the 'net nor on your site. Is it rare
+
+Answer:
+
+	Your CR10K is a the Shure model 510, also known as the Hercules. It appears in the Shure 1949 catalog and was priced at $12.95.
+	
+	It is not a rare model and was often packaged along with a tape recorder. Your model number CR10K was likely requested by a tape recorder manufacturer, and Shure obliged if they ordered a large quantity.
+

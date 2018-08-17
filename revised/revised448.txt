@@ -1,0 +1,12 @@
+Title: Which Shure model are my Radio Shack mics?
+Id: 448
+Legacy Id: 457
+
+Question:
+I have a pair of "Shure" Omni-directional, dynamic microphones. The Radio Shack p/n is: 33-1070D. Is this a private label of an existing Shure model, and if so, which is your model number? Thank you.
+
+
+Answer:
+
+	There is no equivalent model in the standard Shure line. The 33-1070D was designed to Radio Shack specifications. The closest model in the Shure line is the VP64, however it is not identical in performance.
+

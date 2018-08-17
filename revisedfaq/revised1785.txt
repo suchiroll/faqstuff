@@ -1,0 +1,20 @@
+Title: Solution for too many open mics
+Id: 1785
+Legacy Id: 1845
+
+Question:
+In a church setting, I'm having problems with mics being used for various parts of the service and then being left open, creating feedback problems. Is there a product with some sort of proximity sensor that could turn the mic off when the speaker steps away from the podium?
+
+
+Answer:
+
+	Use a voice activated mixer like the Shure SCM810 or SCM820.
+	
+	To calculate the increase in gain if the unused mics are off, use this formula:
+	10*log(number of open mics). Here is an example for 6 open mics:
+	
+	The log of 6 is 0.778.
+	0.778 times 10 = 7.782 = rounded to 8
+	
+	Having 1 mic open instead of 6 mics open with be 8 dB louder.
+

@@ -1,0 +1,14 @@
+Title: Push to talk mics for class room
+Id: 814
+Legacy Id: 836
+
+Question:
+I am seeking a solution for push to talk microphones and mixer that will support a class room of 20 people with one microphone for every two students. The system will interface with a videoconferencing system. The videoconferencing system provides RCA audio out.
+
+
+Answer:
+
+	Consider the Shure MX412D or MX418D mic connected to Shure SCM810 or SCM820 mixers.
+	
+	Also, read Audio for Distance Learning at Educational Articles.
+

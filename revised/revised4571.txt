@@ -1,0 +1,20 @@
+Title: GLXD6 lithium battery charge time
+Id: 4571
+Legacy Id: 5697
+
+Question:
+I purchased the GLXD6 wireless guitar. Trying to fully charge Lithium battery as it is flashing green (versus solid green). Plugged into the Charging cable into AC source overnight and it is still flashing green. How long does it take to get fully charged (i.e. Solid Green)? Does the Receiver need to be turned "on" or "off" during charging? Is there a way to tell that is actually charging?
+
+Answer:
+
+	From the User Guide - full battery charge using an AC power source will take around 3 hours.Flashing Green likely indicates a battery that will not reach 100% charge, but is over 90% charge.See below:
+	
+	Battery Charging Indicator: Illuminates when battery is in charging bay:
+	Red = battery charging
+	Green Flashing = battery charge  90%
+	Green = battery charged
+	Amber Flashing = charging error, replace battery
+	
+	
+	Contact Shure Service if your conclusion is that the battery is defective.
+

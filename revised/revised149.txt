@@ -1,0 +1,13 @@
+Title: Modifications to the MX202; can I install a longer gooseneck ?
+Id: 149
+Legacy Id: 149
+
+Question:
+I have seen a modified version of the MX202 with a 5 foot gooseneck.  These modified mics are mounted on traditional stands and are being used to mic a choir where the overhead hanging application is not desired.  I have a couple of customers who could make use of such a configuration.   
+
+Do you have instructions for this modification?  Do you know who the supplier is for this modified mic?
+
+Answer:
+
+	We are not aware of any modification to convert the MX202 to a 5 foot gooseneck. However, the MX202 does come with a stand adapter that allows it to easily be mounted on a traditional mic stand. The adapter threads on the top of the stand, and the cable can be run through the stand, so it appears that the mic and stand are one piece. The stand adapter could also be used on a long gooseneck.
+

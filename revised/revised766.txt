@@ -1,0 +1,12 @@
+Title: Is the KSM32 a good studio microphone for female vocals?
+Id: 766
+Legacy Id: 787
+
+Question:
+My daughter is almost 13 years old and sings in the soprano range. She is about to record a demo CD and I would like to get a studio mic for her. After looking around, I am looking strongly at the Shure KSM32/SL. Is this appropriate for a female with that range? If not, what else do you suggest. I currently own a Shure wireless system with a Beta 58A for her live performances. She goes into the studio again shortly and I would like to get the mic, so please respond as soon as you can.
+
+
+Answer:
+
+	The KSM32 would be a superb choice. Make certain the mixing board to which it is connected will supply 48 volts of phantom power.
+

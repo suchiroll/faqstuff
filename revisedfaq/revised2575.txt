@@ -1,0 +1,19 @@
+Title: Should I change to the Beta 87C from an SM58?
+Id: 2575
+Legacy Id: 2674
+
+Question:
+I sing at a church using the SM58. Tried the Beta58A, but went back to SM58. However, I see that the Beta87C is ideal for IEM. I use the Shure IEM's and always complained to the sound tech the sound being too direct. It says that the Beta87C creates more "NATURAL" sound. Please explain more in detail, and should I purchase this mic over the old reliable 58's. I unfortunately can't find any place to try out. So need to rely on your judgment.
+
+
+Answer:
+
+	The SM58 is a dynamic mic with a cardioid pattern; the Beta 58 is a dynamic mic with a supercardioid pattern.
+	
+	The Beta 87C is a condenser mic with a cardioid pattern; the Beta 87A is a condenser mic with a supercardioid pattern.
+	
+	You have shown a preference for a cardioid pattern having chosen the SM58 over the Beta 58, so the Beta 87C might be to your liking.
+	
+	HOWEVER, sound is subjective. We cannot predict that the Beta 87C will be to your liking. It will sound different than the SM58 in a side by side comparison. Will it sound better? That is a personal decision that only you can make.
+	
+	We recommend that you do not buy the Beta 87C until you have a chance to compare it to your SM58.

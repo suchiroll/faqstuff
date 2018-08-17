@@ -1,0 +1,9 @@
+Title: Parts for M267
+Id: 1787
+Legacy Id: 1847
+
+Question:
+I would like to know if it's possible to get some parts of Mix Console M267 as transformer T201 and T204 [part number: 95B8165], the potentiometer with the part number  46B8000 [100K Ohm] and the VU Meter part number 95A8214 [190 uA]. In the case not be possible please send me which is the manufacturer for to look for them in your Web Page.
+
+Answer:
+Sorry, we no longer have parts for the M267.  The following company might be able to help you: Delta Audio - source for vintage Shure products and their repair

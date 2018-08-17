@@ -1,0 +1,64 @@
+Title: Connecting multiple microphones in an MX396 (-BI or -TRI) to a single microphone input
+Id: 3509
+Legacy Id: 3708
+
+Question:
+Can the microphones in an MX396 (-BI or -TRI) be paralled together to a single microphone input on a mixer (example: SCM268)?How does this affect the LED?
+
+
+Answer:
+
+	The microphones in an MX396 will work when paralleled together.This particular wiring arrangement is not optimum, and therefore is not recommended. Here are some suggestions and notes:
+	
+
+	
+		In most cases, paralleling the microphones in an MX396 essentially creates an omnidirectional microphone.Alternate products, such as the MX393/O (with mute button and LED indicator) or the MX391/O (without mute button and LED indicator) microphones will provide equivalent omnidirectional performance at a better price point.
+	
+		The LED indicator on the MX396 will not illuminate to full brightness when a single microphone input is providing phantom power to all elements.
+	
+		When paralleling multiple microphones, be sure to connect the microphones together so they are operating with the same polarity. This will prevent erratic sound pick-up due to inverted polarity cancellation. Join the Audio + wires together and connect to XLR connector pin 2. Connect the Audio - wires together and connect to XLR connector pin 3. The cable shield connects to XLR connector pin 1. The color code for the wires is:
+		
+			
+				
+					
+						
+							White
+						
+							Mic 1 Audio +
+					
+					
+						
+							Green
+						
+							Mic 1 Audio -
+					
+					
+						
+							Orange
+						
+							Mic 2 Audio +
+					
+					
+						
+							Blue
+						
+							Mic 2 Audio -
+					
+					
+						
+							Yellow
+						
+							Mic 3 Audio + (Tri-element only)
+					
+					
+						
+							Gray
+						
+							Mic 3 Audio - (Tri-element only)
+					
+				
+			
+		
+	
+
+

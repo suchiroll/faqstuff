@@ -1,0 +1,14 @@
+Title: Specs and comparison for 8800A mic
+Id: 375
+Legacy Id: 382
+
+Question:
+A 8800A mic is offered for sale, and I am wondering how it compares with better mics, such as the SM58, Prologue 14L, etc. I own 2 Prologue 14L's and am very pleased with them.
+
+
+Answer:
+
+	The 8800A is part of our C-Series of microphones.
+	
+	The 14L is a small step above the 8800A. The SM58 is a very large step above the 8800A. The 8800A does not have an internal shockmount.
+

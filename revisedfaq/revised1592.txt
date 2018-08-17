@@ -1,0 +1,13 @@
+Title: Poor Sound from WBH53
+Id: 1592
+Legacy Id: 1648
+
+Question:
+Should the WBH53 Microphone work ok with a wireless transmitter as I have just purchased the microphone to replace a broken WCM16. It sounds very weak, poor sound. Should it work please help.
+
+
+Answer:
+
+	Yes, the WBH53 should work. But it will sound very different than the WCM16. The WCM16 is a hypercardioid mic and will have more bass response.
+	
+	The WBH53 may be working properly, but you simply do not like the sound. Perhaps you should buy another WCM16.

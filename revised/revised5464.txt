@@ -1,0 +1,9 @@
+Title: PoE Ports on Axient Digital
+Id: 5464
+Legacy Id: 
+
+Question:
+What are the specifications for the PoE ports on Axient Digital? How many devices can it power?
+
+Answer:
+Axient Digital receivers provide four Ethernet ports: Two Dante-enabled Ethernet ports and two network Control Ethernet ports with PoE support for a single Class 1 device.A single Class 1 device can be on either of the Control ports but only one port will be granted power for the external device. If a second Class 1 device is connected to the open port it will not be powered.AD4 can sufficiently power an AXT610 and AD610. Unfortunately our MXA and ANIs aren’t compatible with AD4 due to power requirements (they are Class 0). 

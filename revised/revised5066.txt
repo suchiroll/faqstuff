@@ -1,0 +1,22 @@
+Title: PA821B Antenna Combiner
+Id: 5066
+Legacy Id: 6380
+
+Question:
+Please describe the model PA821B combiner.
+
+
+Answer:
+
+	Introduced in May 2017, the PA821B Antenna Combiner (for Shure PSM Personal Monitor systems) replaces the PA821A Antenna combiner, which was discontinued.
+	
+	Features of the PA821B include:
+	* Combines up to eight PSM transmitters to a single antenna output
+	* Wideband operation (470-865 MHz or 865-960 MHz)
+	* Daisy-chain up to 2 combiners with the expansion port
+	* LED indicators for signal presence, signal overload
+	* Improved fan design significantly improves thermal efficiency and lowers ambient noise
+	* Optional modification to enable combining of microphone receiver antennas (Contact Shure Service Department for more details)
+	---Provides +15V bias on RF inputs to power antenna
+	---Requires modification of unit by qualified service technician
+

@@ -1,0 +1,18 @@
+Title: MXW Microflex Wireless and IGMP Snooping
+Id: 4890
+Legacy Id: 6148
+
+Question:
+I am using Microflex Wireless with a Juniper network switch, and I and having communications issues. I can connect to each device from my computer, but the devices do not seem to be aware of each other. Why is this happening?
+
+
+Answer:
+
+	Microflex Wireless, as well as other Dante-enabled devices, can exhibit this problem with switches that use IGMP Snooping if the switch is not configured correctly.Many switches have this feature disabled by default, but Juniper switches usually have IGMP snooping enabled. Turning off IGMP snooping will usually solve this problem.
+	
+	For small, isolated networks that only have Shure devices, or when there is an isolated VLAN for Shure gear, disabling IGMP snooping should be fine. Dante flows are, by default, unicast (a one-to-one connection between two devices, versus splitting the signal to multiple Dante devices - multicast). For networks that only use unicast flows, disabling IGMP snooping shouldnt cause any problems. However, before making changes to your network or switch settings, consult with an IT professional.
+	
+	A good way to diagnose this problem is by using Dante Controller software (available as a free download from www.audinate.com). Dante Controller allows you to see which device is acting as the Master Clock on the network. There should only be one clock master. If Controller is reporting multiple clock masters, IGMP snooping is likely the culprit.
+	
+	There are cases where IGMP snooping is beneficial. IGMP (Internet Group Protocol Management) helps prevent transmission of data packets to ports that dont need them. On larger, shared networks with lots of Dante multicast flows, IGMP snooping greatly reduces the amount of multicast traffic on the network by only forwarding multicast data to the devices that request it. In these cases, a knowledgeable IT professional should be engaged to ensure proper configuration.
+

@@ -1,0 +1,19 @@
+Title: A57F mic clip compared to A57E mic clip
+Id: 4111
+Legacy Id: 4828
+
+Question:
+Hasthe outer diameter of the base of the microphone clip that comes with the SM81 has changed?
+
+
+Answer:
+
+	As of May 2012, the SM81 is supplied with the A57F mic clip. When compared to the earlier A57D or A57E, the A57F is indeed larger...redesigned that way to be far more durable.
+	
+
+	
+		Base of the A57E/A57D (and earlier models) had an outer diameter of 0.75 inch.
+		
+		Base on A57F has an outer diameter of 1.055 inch.It is 41% larger.
+
+

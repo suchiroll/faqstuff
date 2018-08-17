@@ -1,0 +1,21 @@
+Title: Phonograph Cartridge Shure TKS 390 E
+Id: 2543
+Legacy Id: 2640
+
+Question:
+Bought a 20 years old turntable DUAL 741 Q equipped with a Shure cartridge TKS 390 E. I would like to ask you for technical informations about the cartridge, so that I am able to adjust everything right (anti-skating, etc.) after balancing the tone arm.
+
+
+
+Answer:
+
+	TKS 390 E
+	
+	Tracking weight range: 0.75 to 1.5 grams
+	
+	Set the Anti-skate force to equal the tracking weight
+	
+	The stylus is a biradial shape; 0.2 x 0.7 mils.
+	
+	If you decide to purchase a new cartridge, we recommend the Shure M97xE.
+

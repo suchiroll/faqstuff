@@ -1,0 +1,14 @@
+Title: Stylus cleaning fluid
+Id: 1505
+Legacy Id: 1558
+
+Question:
+I accidentally used "Discwasher" Record cleaner on my stylus brush instead of their stylus cleaner. My tonearm is now skating across the record which of course worsens as it attempts to track toward the center. What can I use to clean this stuff off without damaging the adhesive you use to attach the stylus to the cantilever? I have tried dishwashing soap when the stylus cleaner and plain water did not work. Should I use some type of solvent?
+
+
+Answer:
+
+	For the stylus, we recommend a mixture of 50% ethyl alcohol (or denatured alcohol) and 50% distilled water, and a soft camle hair brush. Dampen the brush with the mixture and clean the stylus by moving the brush from behind the stylus to the front of the stylus.
+	
+	Also, make certain the diamond tip is still on the stylus shank. Examine using a bright light and a magnifying glass.
+

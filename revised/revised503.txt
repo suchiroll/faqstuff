@@ -1,0 +1,18 @@
+Title: Recommended range of capacitance for M91ED
+Id: 503
+Legacy Id: 513
+
+Question:
+sorry, my English is not so well...
+my terratec phono-preamp pc-interface asks me for the recommended range
+of the input-capacity of the pre-amplifier.
+I use a Shure M91ED.
+it is possible to choose between 100pf, 250pf and 425pf.
+
+the intention is to bring my vinyls to harddisk with wavelab from steinberg.
+
+Answer:
+
+	With your pre-amplifier, use a capacitive load of 425pF for each input channel.
+	
+	For the M91ED, the recommended minimum load is 400pF per channel and the maximum recommended load is 500pF per channel.

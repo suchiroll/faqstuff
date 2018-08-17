@@ -1,0 +1,20 @@
+Title: Mics for Roland record minilab
+Id: 2642
+Legacy Id: 2744
+
+Question:
+I want to assemble a small record lab to produce radio spots, and occassionaly, record soundtraks of jazz and latin local bands. I want to buy the Studio Package Pro from Roland, and I want to buy a basic stock of microphones for the most of uses, kind of semi-professional use. Which models can you reccomend me to get?
+
+
+Answer:
+
+	The Roland device has XLR balanced inputs with phantom power, therefore your mic choices are unlimited.
+	
+	1) Read the book about Mic Techniques for Studio Recording at: Educational Articles - Online booklets and bulletins
+	
+	2) Consider the SM7B as your dynamic voice-over mic.
+	
+	3) Consider the KSM44, KSM32, or KSM27 as your condenser voice-over mic.
+	
+	These three suggestions will get you started.
+

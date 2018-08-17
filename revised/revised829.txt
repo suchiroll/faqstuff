@@ -1,0 +1,12 @@
+Title: Guitar sounds muddy and distorted through wireless system
+Id: 829
+Legacy Id: 852
+
+Question:
+Today I purchased the Shure "guitarist" T4N series wireless system for my bass guitar. I hooked everything up to my bass (Ibanez 800 w/ active pickups) and amplifier and into my rack case, where it sat on a rack tray. However, when I turned it all on, the sound that came out was very muddy and distorted. also the audio peak indicators were red almost the whole time. I then took it out of the rack and tried it only to get the same results. I would really appreciate your help on what may be the problem because am clueless as to what the problem is. Thanks for your time.
+
+
+Answer:
+
+	Most instruments with active pickups have much hotter output than instruments with passive pickups. This usually requires a gain adjustment on the transmitter. Find the recessed gain potentiometer on the transmitter, and use a small screwdriver to rotate the pot counter-clockwise until the Audio Peak indicator on the receiver only flashes on the loudest notes. Also, only turn up the output level control on the receiver until the volume level is equivalent to that of using a cable. This setup will prevent overdriving any portion of the signal chain.
+

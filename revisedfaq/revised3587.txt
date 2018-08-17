@@ -1,0 +1,63 @@
+Title: MPA-3C with iPhone 3G and 3G S
+Id: 3587
+Legacy Id: 3793
+
+Question:
+Will the MPA-3C work with the iPhone 3G and 3G S?
+
+
+Answer:
+
+	The MPA-3C has functionality with both the iPhone 3G (3.0 software) and iPhone 3G S. The following outlines functionality.
+	
+	iPhone 3G. (any software version including 3.0)
+	
+		During a call:
+	
+		
+			
+				Answer/end call:  1 click
+				 
+		
+	
+	
+		During music playback
+	
+		
+			
+				Pause/play music: 1 click
+			
+				Track forward: 2 clicks
+			
+				Track backward: 3 clicks
+		
+	
+
+	iPhone 3G S.		During a call:
+			
+				Answer/end call:  1 click
+				 
+				During music playback
+			
+				Pause/play music: 1 click
+			
+				Track forward: 2 clicks
+			
+				Track backward: 3 clicks
+				Voice Command: Hold control button to enter voice prompt menu
+	The MPA-3C does NOT have a volume control on it.  You will need to reach to the handset for that (the supplied headset with the iPhone 3G S does have a volume control).
+	
+	Some suggestions for MPA-3C's not working in iPhones.
+	
+		Try the MPA in another device if possible. Another iPhone, iPod touch 2G, current nano or current classic iPods all have voice recording enabled and can use the mic and control button. If it works in those devices and not in their iPhone then there may be some pocket lint or may be a headphone jack problem on the iPhone. Also try the original apple headset to see if that works.
+	
+		If the mic and button are not working at all but music playback is fine:
+	
+		
+			
+				Make sure the plug is seated all the way in the jack.
+			
+				Try it in another device. If it still doesn't work then the mic/button has shorted out. If the button does nothing during music playback then the mic connection is not working and the MPA needs to be replaced. The iPhone sees button commands by shorting out the mic signal to ground. If the mic conductor is not reliable, the button commands don't work either.
+		
+	
+

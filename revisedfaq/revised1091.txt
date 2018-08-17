@@ -1,0 +1,12 @@
+Title: 55SH SERIESII Mic Stand
+Id: 1091
+Legacy Id: 1126
+
+Question:
+I am going to purchase a Shure 55SH Series II mic and I was wondering if their was any type of mic stand that you recommend. I noticed that this particular mic has a swivel-stand mounted base and would just like to know if their is a certain kind of stand I would need along with this mic.
+
+
+Answer:
+
+	The 55SH Series II has a 5/8-27 female thread in the base. This is a standard thread size for microphones in the U.S. and therefore no special mic stand is required.
+

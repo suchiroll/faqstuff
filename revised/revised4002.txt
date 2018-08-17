@@ -1,0 +1,30 @@
+Title: Distance from preamp to microphone?
+Id: 4002
+Legacy Id: 4409
+
+Question:
+Does the length from the Preamp to the microphone have to be a short distance? Could it be 100ft?I have done mobile recording witha serious engineer that really knows his stuff.On all microphones, we would use a 200ft snake, so the distance from microphone to preamp was always 200ft, but for ribbon mics, we would always minimize distance from preamp to microphone, then send the signal down the 200ft snake.What is the science behind this?
+
+
+Answer:
+
+	Does the length from the Preamp to the microphone have to be a short distance?
+	
+	* It is not essential.
+	
+	Could it be 100ft?
+	
+	* Yes.
+	
+	I have done mobile recording witha serious engineer that really knows his stuff.On all microphones, we would use a 200ft snake, so the distance from microphone to preamp was always 200ft,
+	
+	* The engineer likely had success with a 200 ft length and kept this as part of his procedure.
+	
+	
+	but for ribbon mics, we would always minimize distance from preamp to microphone, then send the signal down the 200ft snake.What is the science behind this?
+	
+	* Long cable lengths act as a high frequency roll-off due to capacitance.As ribbon mics already have a rolled-off high end, adding the cable capacitance will make the high end even more attenuated.
+	
+	Answer Title: Wired mic performance through a 100 foot cable snake
+	Answer Link: https://www.shure.com/americas/support/find-an-answer/distance-from-preamp-to-microphone
+

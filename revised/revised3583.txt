@@ -1,0 +1,42 @@
+Title: How to test phantom power voltage and current
+Id: 3583
+Legacy Id: 3789
+
+Question:
+I have a Shure MX392 that works OK on one input of a mixer, but not on another input of the same mixer. I suspect the phantom power supply of the mixer, or the mic cable run that leads to the mixer. How do I test the phantom power voltage and current?
+
+
+Answer:
+
+	For this example, we will assume the phantom power voltage is rated at 48 Vdc and the maximum phantom power current is rated at 7 mA, i.e., 48 Vdc supplied through a 6.8 kOhm resistor as per the DIN Specification 45 595, dated August 31, 1976.
+	
+	First, measure the phantom power voltage:
+	
+		Disconnect the mic cable from the mixer.
+	
+		Set the Volt/Ohm/Amp meter to read from 0 to 50 volts DC.
+	
+		Measure from XLR pin 2 to XLR pin 1. Note the voltage.
+	
+		Measure from XLR pin 3 to XLR pin 1. Note the voltage. The DC voltages measured should be exactly the same - to the tenth of a volt.
+	
+		Measure from pin 2 to pin 3. The DC voltage should be zero or nearly zero.
+	
+		Reconnect the mic cable and make the same measurements at the microphone location, BUT with the microphone disconnected. The voltage results should be nearly identical to the readings at the mixer.
+
+	Second, measure the phantom power current:
+	
+		Make these measurements at the microphone location, but with the microphone disconnected.
+	
+		Set the Volt/Ohm/Amp meter to read from 0 to 100mA DC.
+	
+		Measure current by connecting the positive meter lead to XLR pin 2 and the negative lead to XLR pin 1. The reading should be approximately 7mA.
+	
+		Repeat the previous step using XLR pin 3 and XLR pin 1. The reading should be approximately 7mA.
+
+	If the voltage measurements and current measurements are not as described above, the mic cabling could be defective or the phantom power supply circuit in the mixer could be defective. In either case, the phantom powered microphone will not operate properly.
+	
+	If screw terminals are used:
+	XLR pin 1 = ground
+	XLR pin 2 = audio positive/send
+	XLR pin 3 = audio negative/return

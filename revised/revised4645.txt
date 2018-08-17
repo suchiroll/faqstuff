@@ -1,0 +1,13 @@
+Title: KSM32 and A42 Accessories
+Id: 4645
+Legacy Id: 5804
+
+Question:
+I understand that there is an A32SM Shock Mount available for the KSM32 but I am looking to use the A42PF and A42SM. Will this work?
+
+Answer:
+
+	KSM32 and KSM42 are identical in size.A42 accessories will fit KSM32.
+	
+	
+

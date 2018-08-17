@@ -1,0 +1,11 @@
+Title: Carrying Case for PG wireless
+Id: 3619
+Legacy Id: 3825
+
+Question:
+Is there a hard plastic carrying case for PG wireless?
+
+
+Answer:
+
+	The carrying case for the PGX wireless system will work. The part number is 95A9227. It fits the PG4 receiver and a transmitter. It will not fit the PG88 dual receiver.

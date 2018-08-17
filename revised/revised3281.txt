@@ -1,0 +1,14 @@
+Title: Miking a dobro
+Id: 3281
+Legacy Id: 3442
+
+Question:
+Can you help me find a good system for my dobro? It does not have a pick-up or jack but I'd like to play out without having to stay in front of a mic, which is what I have been doing. I'd like to be able to move.
+
+
+Answer:
+
+	Dobro is a difficult instrument to mike using a wireless. Most players, like the superb Jerry Douglas, use a high quality, wired condenser mic on a stand. Jerry often uses the Shure KSM32.
+	
+	If you want to audition a Shure wireless system for your dobro, I recommend the Shure ULX series, with a bodypack transmitter, and the Shure WL183 or WL50 mic attached to your shirt, down low near the dobro. There is no need to place the mic on the dobro; place the mic on you, but near the dobro. Also try placing the mic on your right shirt cuff, near your picking hand.
+

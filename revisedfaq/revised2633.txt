@@ -1,0 +1,20 @@
+Title: SM7, SM7A, SM7B - Differences
+Id: 2633
+Legacy Id: 2735
+
+Question:
+I was wondering if someone can fill me in on the differences between the SM7, SM7A, and the SM7B. What was improved and what has changed between the models?
+
+
+Answer:
+
+	SM7 - Introduced 1973 with a U.S. retail price of $256.80.
+
+	SM7A - Humbucking coil improved; design of the mic mounting yoke also improved. Introduced 1999.
+
+	SM7B - Larger foam windscreen added. Introduced 2001.
+
+	
+
+	The mic element is based on the Unidyne III design and has not changed.
+

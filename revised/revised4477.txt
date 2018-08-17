@@ -1,0 +1,24 @@
+Title: DIS CU 5905 IP Address Display Error
+Id: 4477
+Legacy Id: 5589
+
+Question:
+I have a DIS CU 5905, and when I try to find the unit's IP address, it only displays 000.000.000.000. What's going on?
+
+
+
+Answer:
+
+	There is a bug in earlier firmware versions for the CU 5905 that prevents the unit from correctly displaying a link local IP address. This is the IP address that a device should revert to if the IP address mode is set to Dynamic, but it does not receive an IP address from a DHCP server (as would be the case if a CU is connected directly to the network jack on a PC). A firmware update to the CU will correct this problem. The latest firmware update can be found here:
+
+	http://www.shure.com/americas/products/conferencing-discussion/dds-5900-digital-discussion-system
+	
+	In order to perform a firmware update, the new firmware must be loaded into the CU via the embedded browser-based GUI. Connection to the CU is established by entering the IP address of the unit into your browsers address bar. Since a CU in this mode is only displaying zeros, you have two alternatives:
+	
+	1.Use an Ethernet router or switch with a DHCP server to hand out an IP address to the CU 5905.
+	2.Change the IP Address mode of the CU to Static and manually enter an IP address for the CU.If your computer is set to obtain an IP address automatically it should default to an address in the 169.254.xxx.xxx range. Enter an address on the CU using the following format:
+	IP Address: 169.254.xxx.xxx (dont duplicate the address your computer is using!)
+	Subnet Mask: 255.255.0.0
+	
+	Once the browser GUI opens, follow the instructions for updating CU 5905 firmware, starting at step 7.
+

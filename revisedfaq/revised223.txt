@@ -1,0 +1,18 @@
+Title: Shure TTR-109 test record
+Id: 223
+Legacy Id: 225
+
+Question:
+Some time ago Shure produced a "test record" that has sine waves recorded at varying velocities. The record was a tool mainly used to test phono cartridge tracking with the use of an oscilloscope. I'm not referring to the TTR- series of consumer "test records".
+
+Do you know what the Shure part number of this record is, if it's still available and the cost?
+
+
+Answer:
+
+	The TTR-109 was designed to test output level and channel crosstalk. Both sides of the 33 1/3 RPM LP record were the same. It was not a consumer test record.
+	
+	Sine wave signals were recorded at 1kHz with a 5cm/second peak velocity. The record bands alternated between left and right channel recordings. The record label had a strobe pattern for setting turntable speed. A cardboard overlay of the strobe pattern for 50 Hz use was included.
+	
+	Sorry, the TTR-109is no longer available.
+

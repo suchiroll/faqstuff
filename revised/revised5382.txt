@@ -1,0 +1,13 @@
+Title: GLXD4 Output Signal Level
+Id: 5382
+Legacy Id: 5449
+
+Question:
+GLXD4 Output Signal Level
+
+Answer:
+
+	The nominal XLR output signal level of the GLXD4 receiver is -40dBV. This is a typical output level of a high impedance microphone or a guitar with passive magnetic pickups.
+	
+	The GLXD4 gain adjustment range is 60 dB (-20 dB below nominal to +40dB above nominal), or from -60dBV to 0dBV.
+

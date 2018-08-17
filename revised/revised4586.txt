@@ -1,0 +1,18 @@
+Title: P9HW, P3R, P3RA Headphone Output Power
+Id: 4586
+Legacy Id: 5739
+
+Question:
+What is the headphone output power for these devices?
+
+
+Answer:
+
+	Headphone Output Power (both channels driven): 80mW/channel @ 32 ohms.
+	
+	Headphone Output Power (single channel driven): 120mW @ 32 ohms.
+	
+	Headphone Output Impedance: 2.5ohms
+	
+	Designed to drive earphones having an impedance of 2.5 ohms or greater.
+

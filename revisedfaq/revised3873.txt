@@ -1,0 +1,33 @@
+Title: How do I install Wireless Workbench 5 on 64-bit Macintosh OS X?
+Id: 3873
+Legacy Id: 4116
+
+Question:
+When I try to install Wireless Workbench v5.0.4 on a Macintosh running Snow Leopard in 64-bit mode, I get an error message that says "Error: Couldn't raise admin privileges". Is there a solution for this?
+
+Answer:
+
+	It is recommend that you upgrade to Wireless Workbench 6.
+	
+	If you must use Wireless Workbench 5, you can following these instruction as a work around.
+	
+	Wireless Workbench 5 software can run on a Macintosh running the Snow Leopard 64-bit kernal, but the installation program must run while the OS is in 32-bit mode.
+	
+	Restart while holding the 3 and 2 keys simultaneously to boot into the 32-bit kernal.
+	
+	Run the Wireless Workbench 5 installer.
+	
+	Restart the computer.
+	
+	Run the Wireless Workbench 5 application (Workbench.app located in Applications-Shure-Shure Wireless Workbench Software-5.0)
+	
+	Note: you can verify the mode in which your system is running at any time by:
+	
+		Choosing "About This Mac" from the Apple menu.
+	
+		Click the "More Info" button.
+	
+		In the "Contents" section, select "Software."
+	
+		If the entry "64-bit Kernal and Extensions" says "Yes," the computer is running the 64-bit kernal. If it says "No," it is running the 32-bit kernal.
+

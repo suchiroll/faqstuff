@@ -1,0 +1,28 @@
+Title: What system for vocal and guitar
+Id: 415
+Legacy Id: 422
+
+Question:
+What would be the best and lowest cost system for a combined vocal and guitar wirless system, and what price would it be?
+
+
+
+Answer:
+
+	We are confused by what you mean as combined vocal and guitar. The vocal and guitar will have to have separate transmitters operating on different frequencies. We do offer some systems that have 2 receivers in the same physical box to allow reception of these two transmitters. These systems are the T88 and LX88.
+	
+	Both the T88 and LX88 are non-diversity systems. That means, you should expect some dropouts to occur due to multi-path. A better choice for you would be to get a separate diversity T series vocal system and separate diversity T series guitar system. This is the route that we would suggest.
+	
+	The T88 system would have to be purchased as components: T88, T1, T2/14A, WA302. The T88 can be seen at:
+	
+	
+	
+	The LX88 would have to be ordered as: LX1288/58, WA302. The LX88 can be seen at:
+	
+	
+	
+	The T Series diversity systems are as follows: TV31D Vocalist, TGD Guitarist. The T series can be seen at:
+	
+	
+	Again, we recommend going with the T Series diversity systems.
+

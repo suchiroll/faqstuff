@@ -1,0 +1,11 @@
+Title: On/Off switches for the SM10A and WH20?
+Id: 362
+Legacy Id: 369
+
+Question:
+Do the SM10A and the WH20 have on/off switches?
+
+
+Answer:
+
+	No, the SM10A and the WH20 do not have switches. The Shure A120S switch can be wired in-line with either mic and act as an on/off switch.

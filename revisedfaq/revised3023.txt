@@ -1,0 +1,14 @@
+Title: Radio Shack microphone RS230
+Id: 3023
+Legacy Id: 3152
+
+Question:
+I have recently purchased a mic for singing and playing the sax .The purchase was from the RADIO SHACK,but I can not find the model number listed at your website.
+
+
+Answer:
+
+	RS230 is a Radio Shack model, not a Shure model. Radio Shack procures microphones from many different suppliers, sometimes from Shure, sometimes not from Shure.
+	
+	No matter what manufacturer supplied the mic to Radio Shack, it is still a Radio Shack product and the technical information you seek must be supplied by Radio Shack.
+

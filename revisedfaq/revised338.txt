@@ -1,0 +1,18 @@
+Title: Are LX and T series transmitters and receivers compatible?
+Id: 338
+Legacy Id: 345
+
+Question:
+1. Can the T series handheld mics work with a LX series receiver if they are the same frequency?
+
+2. How many T series receivers can be effectively mounted in the same rack without causing interference or antenna problems? Does it matter that side by side the A antenna would be crossing the B antenna of the next system?
+
+
+
+Answer:
+
+	1. Yes. T and LX transmitters and receivers can be used with each other as long as the frequencies match.
+	
+	2. You can operate up to 6 T series systems depending on the local TV stations in your area. While the antennas crossing is not ideal, this will not likely hinder the performance.
+	
+	Make certain the antennas do NOT physically touch each other or anything else.

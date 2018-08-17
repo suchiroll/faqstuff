@@ -1,0 +1,14 @@
+Title: Four UA864 or UA870 with a ULXD receiver
+Id: 4646
+Legacy Id: 5805
+
+Question:
+Can I combine four UA864 antennas from two rooms to a ULXD receiver?
+
+
+Answer:
+
+	Sometimes, in a wireless mic installation it is necessary to combine antennas from multiple rooms, such as shown at: Antenna Distribution - 2 rooms, 4 antennas
+	
+	There wasan issue(now resolved)when connectingfour UA864 (or UA870) antennas directly to either a ULXD4, ULXD4D, or ULXD4Q. The ULXD receiver would show an error message.This issue was resolved in firmware v1.6.11. Firmware can be updated using the Shure Update Utility.
+

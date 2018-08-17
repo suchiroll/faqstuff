@@ -1,0 +1,13 @@
+Title: Jumper X203 for monaural output of SCM262
+Id: 3248
+Legacy Id: 3401
+
+Question:
+Where is jumper point X203 in the SCM262?
+
+
+Answer:
+
+	The jumper X203 is located on the upper side of the printed circuit broad, an inch in front of the #3 channel RCA jack inputs. Place a solder blob across the two solder points within the square marked as X203.
+	
+

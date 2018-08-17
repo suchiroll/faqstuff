@@ -1,0 +1,567 @@
+Title: Point to point wireless with SLX4 receiver and P7T transmitter
+Id: 3064
+Legacy Id: 3195
+
+Question:
+I need a stationary wireless system. That is, I want the receiver and transmitter to both be rack mounted and AC powered. What can I use?
+
+Answer:
+
+	Wireless Pointto Point Audio Usingan SLX Receiver and P7T (discontinued) Transmitter
+
+	
+	Certain applications require sending audio from point A to point B (and sometimes C) without using cable. Some frequency bands in the PSM700 series (discontinued) of products, and frequency bands in the SLX series of products allow two rack mounted, AC powered units to serve as the send and receive points for wireless audio. A minor modification to the SLX receiver is required to defeat the tone-key squelch circuit.
+	
+	By using any of the P7T H3 or L2 frequencies appropriate for your area (visit: www.shure.com/frequency), an SLX H5 or L4 receiver can be tuned, via the Master List, to receive the signal from the PSM transmitter. Here are instructions on how to set up this point-to-point system:
+
+	
+		Go to Shures frequency selection guide at shure.com. Determine which PSM 700 frequency band, H3 or L2, is recommended for your location.
+	
+		Choose a band and frequency that overlaps with SLX bands H5 or L4:
+		P7T-H3 overlaps with SLX4-H5 between 524.000 MHz and 542.000 MHz.
+		P7T-L2 overlaps with SLX4-L4 between 638.000 MHz and 662.000 MHz.
+	
+		Set the appropriate frequency on the P7T using the Group switch and Channel selector on the front panel of the transmitter (Example: P7T-H3 Group 1, Channel 5).
+	
+		Set the input switch to MONO.
+	
+		Modify the appropriate SLX4 receiver to defeat tone key (Example: SLX4-H5).
+	
+		Remove the 4 screws on the sides of the SLX4 chassis as shown.
+		
+			
+	
+	
+		Press down on the front center of the top cover of the receiver so that the flange lock releases from the front panel. This allows the cover to slide backward as shown.
+		
+			
+	
+	
+		Locate jumper R280 on the printed circuit board. R280 is located on the left side of the board.
+		
+			
+	
+	
+		Place a solder jumper across the two points marked as R280 as shown.
+		
+			
+	
+	
+		Reassemble the SLX4 receiver by sliding the cover back over the chassis and fastening the screws on the sides of the receiver.
+	
+		Access the Master List:
+		
+			
+				Hold down the menu button while powering on the SLX receiver.
+			
+				Push the menu button
+			
+				Push the select button.
+			
+				While FREQUENCY SELECT is flashing, the menu button scrolls up and the select button scrolls down in 25 KHz steps; press and hold to scroll quickly. The display will not show the typical Group/Channel setting.
+			
+				Choose the correct frequency to match the P7T transmitter (Example: 533.300 MHz).
+			
+				When FREQUENCY SELECT stops flashing, the receiver will be ready.
+		
+	
+	
+		Any line level audio signal input to the P7T should now be present at the outputs of the SLX4. The green ready LED on the front panel of the SLX receiver will indicate that the RF signal is being received.
+
+
+	With this arrangement, a mono signal can be transmitted from point-to-point via two AC powered, rack mounted units. During testing at Shure, a line-of-sight transmission of 500-feet was achieved with  wave antennas on both the P7T transmitter and SLX4 receiver. A distance of approximately 1,000 feet was achieved using a  wave antenna on the P7T transmitter and  wave antennas on the SLX4 receiver. Further distances are theoretically possible if directional antennas are used on both transmitter and receiver under optimum conditions.
+	
+	Note: The audio output of the SLX4 receiver is mic level and not line level. If line level is required, the SLX4 receiver must feed a mic-to-line preamp.
+	
+	The following frequency tables show intersecting frequencies for SLX/PSM700 bands:
+	
+	Table 1: SLX H5 band with PSM700 H3 band:
+
+
+	
+		
+			
+				SLX
+			
+				PSM700
+		
+		
+			
+				Frequency (Master List)
+			
+				Group
+			
+				Channel
+			
+				TV Channel
+		
+		
+			
+				524.200
+			
+				1
+			
+				0
+			
+				23
+		
+		
+			
+				525.150
+			
+				1
+			
+				1
+			
+				23
+		
+		
+			
+				526.825
+			
+				1
+			
+				2
+			
+				23
+		
+		
+			
+				527.850
+			
+				2
+			
+				9
+			
+				23
+		
+		
+			
+				527.975
+			
+				1
+			
+				D
+			
+				23
+		
+		
+			
+				530.375
+			
+				1
+			
+				3
+			
+				24
+		
+		
+			
+				531.000
+			
+				1
+			
+				4
+			
+				24
+		
+		
+			
+				531.075
+			
+				2
+			
+				8
+			
+				24
+		
+		
+			
+				532.375
+			
+				2
+			
+				7
+			
+				24
+		
+		
+			
+				533.300
+			
+				1
+			
+				5
+			
+				24
+		
+		
+			
+				535.025
+			
+				2
+			
+				A
+			
+				24
+		
+		
+			
+				536.350
+			
+				2
+			
+				C
+			
+				25
+		
+		
+			
+				537.325
+			
+				1
+			
+				C
+			
+				25
+		
+		
+			
+				538.150
+			
+				1
+			
+				6
+			
+				25
+		
+		
+			
+				539.850
+			
+				2
+			
+				6
+			
+				25
+		
+		
+			
+				540.675
+			
+				1
+			
+				E
+			
+				25
+		
+		
+			
+				541.650
+			
+				2
+			
+				B
+			
+				25
+		
+	
+
+
+
+	Table 2: SLX L4 band with PSM700 L2 band:
+
+
+	
+		
+			
+				SLX
+			
+				PSM700
+		
+		
+			
+				Frequency (Master List)
+			
+				Group
+			
+				Channel
+			
+				TV Channel
+		
+		
+			
+				638.375
+			
+				1
+			
+				3
+			
+				42
+		
+		
+			
+				639.000
+			
+				1
+			
+				4
+			
+				42
+		
+		
+			
+				639.075
+			
+				2
+			
+				8
+			
+				42
+		
+		
+			
+				640.375
+			
+				2
+			
+				7
+			
+				42
+		
+		
+			
+				641.300
+			
+				1
+			
+				5
+			
+				42
+		
+		
+			
+				643.025
+			
+				2
+			
+				A
+			
+				42
+		
+		
+			
+				644.350
+			
+				2
+			
+				C
+			
+				43
+		
+		
+			
+				645.325
+			
+				1
+			
+				C
+			
+				43
+		
+		
+			
+				646.150
+			
+				1
+			
+				6
+			
+				43
+		
+		
+			
+				647.850
+			
+				2
+			
+				6
+			
+				43
+		
+		
+			
+				648.675
+			
+				1
+			
+				E
+			
+				43
+		
+		
+			
+				649.650
+			
+				2
+			
+				B
+			
+				43
+		
+		
+			
+				650.725
+			
+				1
+			
+				F
+			
+				44
+		
+		
+			
+				651.250
+			
+				2
+			
+				D
+			
+				44
+		
+		
+			
+				652.700
+			
+				2
+			
+				5
+			
+				44
+		
+		
+			
+				653.625
+			
+				1
+			
+				7
+			
+				44
+		
+		
+			
+				654.925
+			
+				1
+			
+				8
+			
+				44
+		
+		
+			
+				655.000
+			
+				2
+			
+				4
+			
+				44
+		
+		
+			
+				655.625
+			
+				2
+			
+				3
+			
+				44
+		
+		
+			
+				658.150
+			
+				1
+			
+				9
+			
+				45
+		
+		
+			
+				659.125
+			
+				2
+			
+				E
+			
+				45
+		
+		
+			
+				659.175
+			
+				2
+			
+				2
+			
+				45
+		
+		
+			
+				659.625
+			
+				1
+			
+				A
+			
+				45
+		
+		
+			
+				660.850
+			
+				2
+			
+				1
+			
+				45
+		
+		
+			
+				661.375
+			
+				2
+			
+				F
+			
+				45
+		
+		
+			
+				661.575
+			
+				1
+			
+				B
+			
+				45
+		
+		
+			
+				661.800
+			
+				2
+			
+				0
+			
+				45
+		
+	
+
+
+
+	This set-up pertains only to frequencies available on U.S. versions of PSM700 and SLX wireless systems. For further information contact Shures Technical Support Group at 1-800-516-2525.
+

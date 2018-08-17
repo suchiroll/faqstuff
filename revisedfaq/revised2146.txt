@@ -1,0 +1,12 @@
+Title: Field recording for video
+Id: 2146
+Legacy Id: 2217
+
+Question:
+What types of microphones are recommended for field recording?
+
+
+Answer:
+
+	We will assume you mean field recording for video. See the book about audio for video at: Educational Articles - Online booklets and bulletins
+

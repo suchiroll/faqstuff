@@ -1,0 +1,32 @@
+Title: Collection of Wireless Troubleshooting Links
+Id: 4264
+Legacy Id: 5323
+
+Question:
+I'm having problems with my wireless microphone. Are there any general troubleshooting tips?
+
+
+
+Answer:
+
+	Wireless troubleshooting is difficult when on site. Via telephone, it is even more difficult. Via email or chat, it is nearly impossible. The root issue is that there are multiple variables which affect wireless microphone installations; these variables can change over time, and will change based on the location. To assist in narrowing down the causes, please read carefully each hint and suggestion below; one never knows in which link the solution may be waiting. Using the process of elimination, the underlying problem or problems can often be uncovered.
+	
+	Seven Common Reasons for Wireless Mic Problems
+	
+	Five Mistakes to Avoid When Using Wireless
+	
+	Troubleshoot wireless mic dropouts
+	
+	Wireless Troubleshooting Hints
+	
+	Conversation at a Loud Party and Wireless Microphones
+	
+	Scan function - Recommended Method
+	
+	Antenna Set Ups and Systems for Wireless
+	
+	Interaction of PSM Transmitter and Wireless Mic Receiver
+	
+	RF Spectrum Analyzer
+	
+	If none of the above resolves the issue, contact Shure Service/Repair to have the wireless system examined/repaired. In the United States, Shure Service/Repair may be reached at: 800-516-2525.

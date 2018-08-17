@@ -1,0 +1,13 @@
+Title: FW: Large Wireless System
+Id: 845
+Legacy Id: 871
+
+Question:
+We have a client who is looking to include 16 wireless microphones in their system. We’d like to rackmount the whole thing and provide a single antennae to it. What do you suggest?
+
+
+Answer:
+
+	We suggest the UC system or the UHF system. Also consider using UA845 antenna distribution amplifiers.
+	
+

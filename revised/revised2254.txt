@@ -1,0 +1,18 @@
+Title: SM10A-CN for a drummer?
+Id: 2254
+Legacy Id: 2335
+
+Question:
+This is for our drummer. Two questions. One: Will I need to buy a cable with this headset to reach my PA 25 feet away? If so male on both ends? AND TWO: Is this the same quality mic as like the SM58? If there is a better one for our singing drummer -- or if you suggest a mic on a boom instead for live, please advise. We have 4 Shure mics and counting.
+
+
+Answer:
+
+	1. Yes, he will need a 25 foot extension cable.
+	
+	2. Female XLR on one end; male XLR on the other. Mic cables are normally configured this way.
+	
+	3. No, the SM10 will not sound as good as the SM58. It will require bass boost from the mixer.
+	
+	4. An SM58 on a boom will sound better, but not be as convenient to use. If he sings background, the SM10 should be fine. For lead singing, the SM10 may not be good enough.
+

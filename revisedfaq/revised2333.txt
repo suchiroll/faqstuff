@@ -1,0 +1,13 @@
+Title: V15 III Weight
+Id: 2333
+Legacy Id: 2419
+
+Question:
+How heavy is this cartridge?
+
+
+
+Answer:
+
+	It is 6 grams.
+

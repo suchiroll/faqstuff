@@ -1,0 +1,38 @@
+Title: Will a BLX1 or BLX2 work with a PG receiver?
+Id: 4546
+Legacy Id: 5669
+
+Question:
+I lost my PG transmitter. Will the BLX transmitter work with the PG receiver?
+
+
+Answer:
+
+	Yes, but there are nonconformities of performance to consider before purchasing a BLX transmitter.
+
+	
+		Shure does not guarantee that a hybrid system (a BLX transmitter with a PG receiver) will meet the published specifications of a pure PG system or a pure BLX system.
+	
+		When a BLX1 is paired with a PG receiver, the audio output signal from the receivers XLR male connector is 10 dB louder than when a PG1 transmitter is used.
+	
+		When a BLX2 is paired with a PG receiver, the audio output signal from the receivers XLR male connector is 6 dB louder than when a PG2 transmitter is used.
+	
+		The BLX audio companding circuit does not match the PG audio companding. Audio will be heard but there may be audible artifacts because of this mismatch. There are no adjustments that will correct a companding mismatch.
+
+
+	In the United States, there are only three BLX-J10 frequency settingsthat match PG-K7 frequency settings:
+	
+	1) PG4/PG88 receiver-K7 set to channel 3 =BLX microphone/transmitter-J10 set to Group/Channel n 2
+	
+	2) PG4/PG88 receiver-K7 set to channel 4 = BLX microphone/transmitter-J10 set to Group/Channel L 7
+	
+	3) PG4/PG88 receiver-K7 set to channel 5 = BLX microphone/transmitter-J10 set to Group/Channel A 4
+	
+	In the United States, there is only one BLX-H9 frequency settingthat match a PG-H7 frequency setting:
+	
+	1) PG4/PG88 receiver-H7 set to channel 3 =BLX microphone/transmitter-H9 set to Group/Channel F A
+	
+	No BLX transmitter will work with a PG-M7 receiver.
+	
+	NOTE: The settings above are valid only for one BLX transmitter used with one PG4 receiver. The settings are not frequency compatibility settings, i.e., simultaneous operation of multiple wireless systems. Shure Wireless Work Bench must be used to determine the compatibility of multiple systems.
+

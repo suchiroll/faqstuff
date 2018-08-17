@@ -1,0 +1,12 @@
+Title: Adapting a Samson handheld to Shure
+Id: 1314
+Legacy Id: 1365
+
+Question:
+I have a T4V Shure receiver and a headset with a 182.200 frequency. I would like to know if you can adapt a Samson handheld to use with my receiver. I actually have 2, the model #'s are VH2 and SH2 . Please advise.
+
+
+Answer:
+
+	No, we cannot. Different manufacturers use different companding and noise compression schemes on their wireless. This means that you cannot use one manufacturers transmitter with another manufacturers receiver. Even if they were on the same frequency, it would probably sound funny.
+

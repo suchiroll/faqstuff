@@ -1,0 +1,16 @@
+Title: Cleaning volume control / potentiometers
+Id: 3524
+Legacy Id: 3728
+
+Question:
+I have 2 audio mixers, M367 models. When I am doing a live mix on legal depositions, I need to adjust and some of the pods or knobs and when I do, some make noise when I adjust. I have heard this is dirt build-up. How can I clean these to make like new or much better? Is there a cleaner that I can purchase?
+
+
+Answer:
+
+	Look at the De-Oxit aerosol spray cleaners from CAIG Labs.These are effective and used by Shure Service.
+
+	
+
+	http://www.caig.com/
+

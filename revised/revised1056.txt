@@ -1,0 +1,16 @@
+Title: Phantom Power Circuit
+Id: 1056
+Legacy Id: 1089
+
+Question:
+Where can I find technical notes to tell me how phantom power works at design and component level?
+
+
+Answer:
+
+	Phantom power circuits are extremely simple. To see a schematic of a phantom power supply, click on the following link:
+	
+	Battery Powered Phantom Power Supply with Balanced Output
+	
+	Most mixers simply use a 48Vdc voltage source through two 6.8kohm 1% resistors.
+

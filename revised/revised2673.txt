@@ -1,0 +1,11 @@
+Title: mV output level of M75 ED type2
+Id: 2673
+Legacy Id: 2777
+
+Question:
+I have the above cartridge and need to know its output in mV in order to adapt a preamplifier in between the cartridge and an amplifier.
+
+
+Answer:
+
+	5.0 mV per channel.

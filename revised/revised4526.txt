@@ -1,0 +1,13 @@
+Title: Does QLX-D have DC voltage for antenna amps?
+Id: 4526
+Legacy Id: 5644
+
+Question:
+Does the QLXD4 receiver has DC bias voltage on the BNC connectors to power RF antenna amplifiers?
+
+Answer:
+
+	No. The QLXD4 does not have bias voltage on the BNC connectors. If the need arises to connect an antenna amplifier directly to the QLXD4, this can be done using the UABIAST power injector as shown on the Wireless Accessory Wizard.
+	
+	Note: if using the UA844 antenna distribution, it is the UA844 that powers the antenna amp, not the QLXD4 receiver.
+

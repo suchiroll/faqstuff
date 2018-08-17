@@ -1,0 +1,12 @@
+Title: Pin diameter on V15V cartridge
+Id: 4120
+Legacy Id: 4902
+
+Question:
+What is the diameter of the four pins on the V15VXMR cartridge? Are they 1mm or 1.5 mm?
+
+
+Answer:
+
+	Measured pin diameter is 1.25 mm.
+

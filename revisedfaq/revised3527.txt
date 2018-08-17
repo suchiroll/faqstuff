@@ -1,0 +1,12 @@
+Title: MX202 Rubber Grommet
+Id: 3527
+Legacy Id: 3731
+
+Question:
+What is the part number for the rubber grommet supplied with the MX202? The grommet fits through a hole in a ceiling tile, and secures the MX202 cable.
+
+
+Answer:
+
+	As of January 2009, the part number is 66A409. This part is defined as a slitted rubber grommet. Note that such part numbers are subject to frequent change.
+

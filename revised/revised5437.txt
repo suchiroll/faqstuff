@@ -1,0 +1,13 @@
+Title: Shure Alta Pro 4
+Id: 5437
+Legacy Id: 6382
+
+Question:
+Do you have information on this cartridge?
+
+Answer:
+
+	This model was private label, made by Shure and packaged for a specific hi-fi retailer.
+
+	The Alta Pro 4 uses the N92E stylus. Thus, the body was the M92E. Therefore, the specs are the same as the M92E.
+

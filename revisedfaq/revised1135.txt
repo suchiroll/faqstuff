@@ -1,0 +1,12 @@
+Title: Guitar - Recording direct or going through amp?
+Id: 1135
+Legacy Id: 1173
+
+Question:
+I have a Roland 880EX 8 track. Its master output is connected to my home system. I can hook my guitar straight to a track and record (and hear what I'm playing through my home system) or go from my guitar to the guitar amp and from the amp output to a track. So my question is, besides wanting to use two mics to add layers or whatever, is there a reason behind going from guitar to amp to mic to track, rather then guitar to track? I read the microphones and multitracks handbook but did not see an explanation
+
+
+Answer:
+
+	Yes, there is a reason. The guitar will sound one way when played through an amp and miked, and sound different when played directly to the track. Consider each one a different timbre (tone color) and use whichever fits your sound better.
+

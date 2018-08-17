@@ -1,0 +1,13 @@
+Title: Differences between the E3c/E3g and the E4c/E4g earphones?
+Id: 3163
+Legacy Id: 3301
+
+Question:
+What are the differences between the E3c/E3g and the E4c/E4g earphones?
+
+
+
+Answer:
+
+	Like the E3c, the E4c uses a balanced armature speaker. The E4c uses a new development called Tuned Port Technology. The Tuned Port improves airflow around the speaker in the same way that the port in a bookshelf loudspeaker enclosure does, but without allowing outside noise to leak in. This enhances low frequency response for added bass, but with no loss of isolation. In addition, the Tuned Port smoothes out the high frequency response, resulting in a sound that is more natural and less bright compared to the E3c. There is an overall sense of added spaciousness as well. The E4c uses the same sleeves as the E3c and E5c. In addition to the yellow foam sleeves, gray ultra-soft flex sleeves, and clear flex sleeves included with the E3c model, the E4c is shipped with a pair of silicone triple-flange sleeves and the PA235 inline volume attenuator.
+

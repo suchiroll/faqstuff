@@ -1,0 +1,12 @@
+Title: Will the Motiv MVL lapel mic work with my mobile device?
+Id: 4722
+Legacy Id: 5892
+
+Question:
+Will the MVL lavalier mic work with my mobile device?
+
+
+Answer:
+
+	The MVL has a male 3.5mm TRRS (Tip/Ring 1/Ring 2/Sleeve) connector that is designed to work with most smartphones and tablets. It may also work with other types of recording devices and devices that require a microphone. As there are no industry standards as to the electrical specifications of a 3.5 mm TRRS, Shure has provided the electrical MVL specifications.  
+	Please follow this link for the MVL pin-out and technical details: MVL technical information and wiring diagram

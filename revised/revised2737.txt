@@ -1,0 +1,34 @@
+Title: Connecting the PG81 to a computer Sound Card
+Id: 2737
+Legacy Id: 2843
+
+Question:
+Hi I am considering buying PG81 to record classic guitar to computer.
+1) Is PG81 a good choice for Classic guitar, I know it is for acoustic?
+2) I have Creative Live vakue sound card with the following spec.
+*Mic Impedance 600 ohms
+*Mic sensitivity 10-200 mvpp
+*Noise floor -120db
+*Signal to noise ratio 96 db
+Will I need a transformer like A95UF to raise the signal or will it be ok also how do you rate the A/M noise floor according to standards?
+3) Will the transformer (if any) will be enough to record a high signal or I will need a mixer?
+4) if I need a mixer is 200M ok with my sound card and PG81?
+5) last question is PG81 for live performance only or it is good as well for recording?
+
+
+
+Answer:
+
+	1) Yes, it is a good choice.
+	
+	2) The transformer will NOT provide enough gain
+	
+	3) We suggest a mic preamp with at least 60 dB of gain.  It must also have a low noise floor as classical guitar is a quiet instrument.
+	
+	4) The M200 mixer will be too noisy for classical guitar. Do NOT use the 200M.
+	
+	5) It will work fine for recording.
+	
+	Professional low impedance condenser microphones, like the PG81, have a low output level.  A dynamic low impedance mics, like the SM57 or SM58, has an even lower output level.   The sound card on your computer requires a hotter level.
+	
+	Read the following link: Microphone connected to a computer sound card

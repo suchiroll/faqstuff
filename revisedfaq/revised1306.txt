@@ -1,0 +1,16 @@
+Title: Tracking weights
+Id: 1306
+Legacy Id: 1356
+
+Question:
+My question is a very simple one but I didn't find anything about it in the quick look I had on your pages. I have a Sansui turntable (SR-212) which I bought second hand and so I don't have the manuals. Its arm has a variable weight system. As I could find from some testings, if the arm weight is too low there will be distortions in the sound; if the arm weight is too high I supose it could damage the records grooves and the needle. So my question has three parts: 1. what's the ideal weight for playing a typical record in good conditions with a new needle? 2. what's the acceptable weight range in order not to get any distortions nor damage records in the long term? 3. is it true that older records tend to demand higher weights?
+
+
+Answer:
+
+	1) Whats the ideal weight for playing a typical record in good conditions with a new needle? * This depends upon the phono cartridge mounted on the tonearm. Tracking weights range from 0.75 grams to 5 grams.
+	
+	2) Whats the acceptable weight range in order not to get any distortions nor damage records in the long term? * The lighter, the better. One gram is a good choice IF your tonearm/phono cartridge combination can track at one gram.
+	
+	3) Is it true that older records tend to demand higher weights? *78 rpm records require a higher tracking weight than 45 rpm records. 45 rpm records require a higher tracking weight than 33 1/3 rpm records.
+

@@ -1,0 +1,11 @@
+Title: Discontinuation of DFR11EQ
+Id: 3373
+Legacy Id: 3560
+
+Question:
+What is the replacement for the DFR11EQ?
+
+Answer:
+
+	Stock of the DFR11EQ was depleted in October 2007. The DFR22 is the recommended replacement.
+

@@ -1,0 +1,12 @@
+Title: Can I use standard ConferenceOne consoles with an Intellimix version power supply?
+Id: 3143
+Legacy Id: 3279
+
+Question:
+I am wondering if I can use non-Intelimix delegate consoles with the Intellimix version of the power supply and vice versa?
+
+
+Answer:
+
+	Yes, you can use non-Intellimix consoles with the Intelimix power supply. You can also use the intellimix consoles with the non-Intellimix power supply. The ConferenceOne system will only work in manual mode when mixing these components. It will not work in Intellimix mode.
+

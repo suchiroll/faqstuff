@@ -1,0 +1,80 @@
+Title: How do I connect a Mipro MU-55HNS to a Shure bodypack?
+Id: 3338
+Legacy Id: 3520
+
+Question:
+How do I connect a Mipro MU-55HNS to the TA4M connector on a Shure wireless bodypack?
+
+Answer:
+
+	The Mipro MU-55HNS microphone may be used with any Shure wireless bodypack transmitter that has a Switchcraft TA4M input connector (a round 4-pin mini-connector). However, the microphone is not available with a compatible TA4F connector pre-installed. It is necessary for the user to install a matching TA4F connector.
+
+
+	The Mipro headworn microphone is available with an unterminated cable (MU-55HNSLC) or with a non-compatible mini-connector (MU-55HNSX) already installed. If possible, obtain the unterminated version of the microphone for easier connector installation. The microphone wire is a shielded cable with a red and white wire inside.
+
+
+	Connect the microphones wires to the TA4F mini-connector as follows:
+
+	
+
+	
+		
+			
+				Mic
+			
+				---
+			
+				TA4F Connector
+		
+		
+			
+				Red wire
+			
+				---
+			
+				Pin 2
+		
+		
+			
+				White wire
+			
+				---
+			
+				Pin 3 and Pin 4
+		
+		
+			
+				Shield
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+
+	If replacing another connector, use extra care when terminating the wires to the TA4F connector. The red and white wires have copper strands twisted with non-conductive fibers for strength and durability. The non-conductive fibers must be carefully separated out from the copper strands and cut away. Be sure to tin the copper strands before soldering to the connector pins. If you experience difficulty successfully tinning the conductors, it may be necessary to gently scrape the copper strands with a knife to remove any protective coating applied to the copper strands.
+
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F or equivalent. This connector is available from the Shure Parts Department as part number WA330. The connector can also be purchased from Mouser Electronics at 800-346-6873, as well as parts suppliers handling Switchcraft connectors.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

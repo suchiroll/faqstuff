@@ -1,0 +1,17 @@
+Title: Buying old stock M91 and M95 cartridges
+Id: 378
+Legacy Id: 385
+
+Question:
+Looking for a new cartridge, I have been offered 2 discontinued Shure models (in addition to the current range) :M91-ED & M95-EJ, brand new in their original packaging. Therefore I would like to ask:
+1. When was each of those models produced?
+2. Which of the 2 is better, and what would be their equivalents in your current range?
+3. Do you generally recommend replacing styli with compatible (non-original) ones?
+
+Answer:
+
+	1. From the late 1960's until the early 1980's is the closest dates we can provide.
+	
+	2. The M95EJ is slightly better, but it tracks at 1.5 to 4 grams, and the M91ED tracks at .75 to 1.5 grams. The closest current equivalents are: M95EJ = M94E; M91ED = M92E.
+	
+	3. We have never tested non-Shure compatible styli. As in all things: "Let the buyer beware".

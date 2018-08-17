@@ -1,0 +1,21 @@
+Title: Feedback Reduction
+Id: 1138
+Legacy Id: 1176
+
+Question:
+We are in a band and our three mics have a little bit of effect to one another when the music is too loud. Is there an device to kill the feedback of the mics?
+
+
+Answer:
+
+	Consider using the Shure DFR22
+
+	
+	Also, the use of in-ear monitors can help control feedback.
+	
+	More Information:
+	
+	Feedback - Fack and Fiction.
+	
+	Understanding Sound System Design and Feedback Using Math
+

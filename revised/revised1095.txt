@@ -1,0 +1,12 @@
+Title: Wireless for synthesizer
+Id: 1095
+Legacy Id: 1130
+
+Question:
+I have a Roland GR-30 guitar synth, and I was wondering if you make a wireless system that would work for this?
+
+
+Answer:
+
+	All of our systems can be purchased as a bodypack system. The bodypack system would have a 1/4 inch connecting cable that would connect the audio output of most synthesizers to the bodypack transmitter.
+

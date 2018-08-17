@@ -1,0 +1,30 @@
+Title: Inventors of Microphones
+Id: 3580
+Legacy Id: 3786
+
+Question:
+Who invented the microphone?
+
+
+Answer:
+
+	Like many inventions, modern microphones came about due to the research of different scientists. Here is an incomplete and brief history of major microphone developments.
+	
+	1854 - Antonio Meucci - controlled reluctance (moving armature) microphone.Working Meucci examples are in the Garibaldi-Meucci Museum, Staten Island, NY.As Meucci did not patent this device, his name is almost never mentioned in the history of the microphone.
+	
+	1874 - E.W. Siemens - moving coil (dynamic) microphone. U.S. Patent 149,797.
+	
+	1876 - Alexander Graham Bell - moving armature microphone. U.S. Patent 174,465. This microphone type is also attributed to Joseph Henry.
+	
+	1877 - Thomas Edison - carbon microphone. U.S. Patent 474,230. Also claimed by E. Berliner.
+	
+	1917 - E.C. Wente, Bell Labs- condenser microphone. U.S. Patent 1,333,744.
+	
+	1919 - A. Nicolson - crystal microphone using Rochelle salt element.
+	
+	1924 - E. Gerlach - ribbon microphone. U.S. Patent 1,557,336. This transducer concept refined by Harry F. Olson, RCA.
+	
+	1939 - Ben Bauer, Shure Brothers Incorporated- single element directional microphone.U.S. Patent 2,237,298. Model 55 - Unidyne.
+	
+	1962 - G. Sessler and J. West, Bell Labs - electret condenser microphone.
+

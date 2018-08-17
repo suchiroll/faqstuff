@@ -1,0 +1,46 @@
+Title: Can AMX / Crestron initiate a Channel Scan on UHF-R
+Id: 3186
+Legacy Id: 3326
+
+Question:
+I have an application with several rooms that each have a UHF-R system in them. If the end user has a an interference problem, I want them to be able to hit a button on the Crestron touchscreen and have the receiver scan for a new clean channel. The receivers will be locked in a closet. How do I do this?
+
+
+Answer:
+
+	First, hereare a few downsides of this functionalilty.
+
+	
+		If you initiate a channel scan on one receiver, it might choose the same channel a secondreceiver is already on (only if the second transmitter is off). This could be a problem when someone goes to use the second room.
+	
+		If the receivers are locked in a closet, the end user will need to be taught how to manually change the channel on the transmitter. If the receiver is accessible by the end user, they will need to be taught how to IR sync the transmitter to the receiver.
+	
+		We have many years of experience in troubleshooting wireless mics and determine thatthe majorityof time when a customer thinks they are having interference problems, they actually are not. Thus, this functionality would be limited in its usefulness.
+
+
+	There is no serial command to initiate a Channel Scan. But, it is possible to implement a safe, robust version of this in the AMX/Crestron programming.
+
+	
+		
+			Set up some variables in the AMX/Crestron program to keep track of the Group/Channel used in each room.
+	
+	
+		
+			When the end user pushes the Find a new channel button on the touchscreen, the AMX/Crestron will use the variables (from step 1)to find an unused channel in that group and avoid the channels that are already used. To have compatible frequencies, the UHF-R systems should be in the same group and different channels withing that group. Once the AMX/Crestron sets the receiver to an unused Channel, it monitors the RF level to see if that is clean frequency or not. If needed, the AMX/Crestron changes the receiver to another Channel. By avoiding Channels that are already used, this process prevents the situation described in the first bullet point above.
+	
+	
+		
+			Once a clean channel is found by the AMX/Crestron, it will need to update the variable for that room to indicate its new channel.
+	
+	
+		
+			Theend userwill need to manually tune the transmitterto the new Group/Channel.
+	
+
+
+	This may seem like a complicated process, but it helps prevent two rooms from trying to use the same channel.
+
+	Note that once a good, clean frequency is found at initial installation, it is rarely necessary to change the Group/Channel. Thus, this functionality is limited in its usefulness.
+
+	UHF-R AMX/Crestron Command Strings
+

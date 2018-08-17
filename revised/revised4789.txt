@@ -1,0 +1,13 @@
+Title: Motiv MV88 recording with Shure iPhone App
+Id: 4789
+Legacy Id: 5974
+
+Question:
+Is there a way to extend the 2 hour record time without changing sample rate? I'm using a 64gb 6. If not, stopping the record process and then starting record process again should start another file? Is there a lot of time between stopping and startup or is it as quick as you can push the buttons? Is auto gain possible?
+
+
+
+Answer:
+
+	Unfortunately, the size limitation is a function of the file management system. However, the app will automatically begin a new recording when that limit is reached - without any perceptible interruption between the two files, once they have been pieced together in post-production.
+	There is no Auto Gain Control in the MV88. However, there is some buffer built into the level meters and a very effective limiter associated with the preset DSP modes. The limiter can also be engaged in the Flat setting.

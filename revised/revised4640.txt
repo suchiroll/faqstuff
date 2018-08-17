@@ -1,0 +1,18 @@
+Title: UR5 Power and Current Draw
+Id: 4640
+Legacy Id: 5799
+
+Question:
+I have 12 UR5's and I intend to power them with an AC/DC power supply along with the Shure battery eliminator inserts. Trying to deter the power draw of each UR5 in order to select the appropriate external AC/DC supply.
+
+Answer:
+
+	
+		With the display light off, and using two AA cells, the nominal current draw is 210 mA, or 0.210 amp. 
+	
+		
+		Using Ohms law: 3 volts x .210 amp = 0.63 watts
+
+
+
+

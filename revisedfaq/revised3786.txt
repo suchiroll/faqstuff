@@ -1,0 +1,18 @@
+Title: AMS Mixer with non-AMS Mics
+Id: 3786
+Legacy Id: 4024
+
+Question:
+I understand that a Shure AMS mixer will operate as designed only when paired with Shure AMS mics. Can I use the AMS mixer as a non-automatic mixer with non-AMS mic? If so, how?
+
+Answer:
+
+	You are correct that the AMS mixer will only work properly when paired with a AMS mic.  An AMS mic has two cardioid mic elements placed back to back.  Each operates from 7 Vdc bias supplied by the AMS input.  The AMS mixer compares the level of the two mic elements and makes a gating decision based on the level difference.
+	
+	The AMS mixer will work as a manual mixer with dynamic mics, like the Shure SM58.   Do the following:
+	
+	1) On each AMS channel, connect a wire from OVERRIDE IN to LOGIC GROUND.  This gates on each AMS mixer input.
+	2) Add a balancing transformer to each AMS input. One example is the Proco transformer model ITX.
+	
+	NOTE: The AMS mixer does not provide 48V phantom power.  It will not work with phantom powered condenser mics.
+	 

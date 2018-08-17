@@ -1,0 +1,32 @@
+Title: External Circuit to Power a Carbon Microphone
+Id: 3763
+Legacy Id: 3999
+
+Question:
+Please explain the principle of a carbon mic and the circuitry required for operation.
+
+
+Answer:
+
+	A carbon mic, like the Shure 104C, is one of the oldest microphone designs. Like all microphones, a carbon mic has a diaphragm that vibrates in response to air movement. The diaphragm vibration compresses and de-compresses a small quantity of carbon granules - like the carbon used in resistors. As the granules are compressed and expanded, the resistance changes. A DC current flows through the granules and is modulated by the resistance changes. This modulated DC current is a representation of the vibrating diaphragm. Using a capacitor and a transformer, theaudio signalis extracted from the mic circuit as the audio signal. Note: a carbon microphone will not operate with typical pro audio preamps or mixers.
+	
+	To operate a carbon mic, the following external components are required:
+	1) DC power source
+	2) Current limiting resistor
+	3) Bypass capacitor
+	4) Blocking/matching transformer
+	
+	The DC power supplyis typically between 6 and 24 volts; 12 volts is commonly used. 50mA is a typical operating currentflowin a carbon mic. To limit that current, a resistor of 200 ohms is placed in series with the DC supply and the carbon mic element.
+	
+	A capacitor of 20uF is employed to bypass the DC supply and the 200 ohm resistor, allowing the modulated signal to go around the DC supply.
+	
+	The final component is a transformer that passes the modulated signal to the input circuit of the amplifier/radio/paging system being fed by the mic. The transformer also blocks the DC current flowing in the mic, and can step up impedance of the modulated signal if desired. Stepping up the signal level is rarely required as the output level of a carbon mic is quite high. For example, the 104C will provide anoutput level of -25 dbV (0.06 volts) with a sound pressure level of 94 dB (1Pascal). See the 104C User Guide, attached below, for a schematic of the circuit described.
+
+	
+		The concept for a carbon microphone was described in an 1878 technical paper written by Professor David E. Hughes, also credited with coining the word microphone.
+	
+		The carbon granulesare specially selected and treated anthracite coal; processing provides carbon that is nearly as hard as a diamond.
+	
+		The diaphragm of a carbon microphone has a typical thickness of 0.002 inch (2 mils).
+
+

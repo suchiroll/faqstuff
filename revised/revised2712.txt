@@ -1,0 +1,16 @@
+Title: European Radio Frequenices for Wireless Audio Applications
+Id: 2712
+Legacy Id: 2816
+
+Question:
+Where can I find an Internet source about wireless audio frequencies in Europe?
+
+
+Answer:
+
+	http://www.efis.dk
+	
+	With this link , one can search for wireless audio frequencies in a number of European countries. In the drop down menu entitled APPLICATION, choose Wireless Audio Applications. And then choose the country.
+
+	EFIS shows national frequency allocation tables and gives only a rough idea. These tables do not show the specific national regulations and special regional allocations. Detailed information about usage of wireless microphone systems can be only obtained by direct contact of the national authority or by contacting SHURE Europe GmbH.
+

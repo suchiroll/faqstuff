@@ -1,0 +1,17 @@
+Title: 586SB-LC Unisphere A
+Id: 1743
+Legacy Id: 1802
+
+Question:
+What can your tell me about model: 586SB-LC Unisphere A?
+
+Is it a good vocal mike?
+
+
+Answer:
+
+	The data sheet can be found here:
+	
+	http://pubs.shure.com/guide/Model-586SA-B/en-US
+	
+	It will work fine as a vocal mic.

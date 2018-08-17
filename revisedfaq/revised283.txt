@@ -1,0 +1,16 @@
+Title: Where can I get a second wireless transmitter?
+Id: 283
+Legacy Id: 290
+
+Question:
+I'm wanting to get into the wireless guitar realm. The only problem is that my band uses two different tunings for playing live. After reading through your site I realized that I can get two transmitters (one for each guitar) and use them both on one receiver as long as I don't use both at the same time. My question is: "Is there a package that I can get a 2 high quality transmitters and one receiver?" If not, what is the best way to go about getting a compatible second transmitter?
+
+
+Answer:
+
+	No problem! Simply buy the guitar wireless system of your choice and ask your Shure dealer to order a second transmitter on the same frequency.
+	
+	Any Shure transmitter can be purchased alone; it does not have to be part of a system. Make certain to also order an additional cable to connect your second guitar to the second transmitter.
+	
+	Finally, never forget that two transmitters on the same frequency must not be powered up at the same time. Though no damage will occur, the audio quality will be very poor.
+

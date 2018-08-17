@@ -1,0 +1,18 @@
+Title: Rechargeable batteries and rack mount charger
+Id: 3034
+Legacy Id: 3164
+
+Question:
+Are there any NiMH rechargeable batteries available that might be useful for wireless professional audio products?
+
+
+Answer:
+
+	www.ansmann.us
+	
+	This company offers NiMH (nickel metal hydride) rechargeable batteries and professional rack mount chargers. The batteries appear to be useful due to their current capacity. One model of AA cell has a current capacity of 2,400 mAh (milliamp hours). One model of 9 volt battery has a current capacity of 250 mAh.
+	
+	Shure has tested the Ansmann products. Based on the published specifications and the types of recharging stations offered, the Ansmann products appear to be suitable for professional wireless audio applications.
+	
+	Ansmann AA rechargeable batteries are not recommended for the Shure UHF-R series do to the large size of the batteries.
+

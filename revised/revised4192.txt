@@ -1,0 +1,71 @@
+Title: MX412D and MX418D switch functions, logic functions, wiring scheme, and other technical matters
+Id: 4192
+Legacy Id: 5146
+
+Question:
+Please provide details on the switch functions and the logic functions of the model MX412D and MX418D. And any other details that may be useful for my installation.
+
+
+Answer:
+
+	Technical aspects of the MX412D and MX418D Gooseneck Microphone with Weighted Desk Stand Base
+
+	Note: The bottom plate of the microphone must be installed for the microphone to function.
+
+	The external switch on the MX412D, labeled PUSH, is factory set for momentary operation. In the factory setting, the audio signal from the mic element is muted (via the mics internal circuitry) when the switch is pushed and held. The LED illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	
+	DIP switch #2 - DOWN
+	
+	DIP switch #3 - DOWN
+	
+	
+	The MX412D may be configured as Push-To-Talk. In this setting, the audio signal from the mic element is activated (via the mics internal circuitry) when the switch is pushed and held. The LED illuminates Green when the mic element is active.DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	
+	DIP switch #2 - UP
+	
+	DIP switch #3 - DOWN
+	
+	
+	The MX412D may be configured as Push-On/Push-Off. In this setting, the audio signal from the mic element alternates between activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic element is activated. The LED illuminates Green when the mic element is active.DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	
+	DIP switch #2 - DOWN
+	
+	DIP switch #3 - DOWN
+	
+	
+	The MX412D may be configured as Push-On/Push-Off, but with the initial start-up state being audio muted. In this setting, the audio signal from the mic element alternatesbetween activated/muted (via the mics internal circuitry) each time the switch is pushed. Upon start-up, the mic element is muted. The LED illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	
+	DIP switch #2 - UP
+	
+	DIP switch #3 - DOWN
+	
+	
+	The MX412D may be configured with the mic element always activated, bypassing the internal muting function. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX412D is connected. The MX412D white wire is the TTL Switch Out connection and the MX412D green wire is the TTL ground. When the MX412D external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the MX412D external switch is released, the white wire rises to +5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	
+	DIP switch #2 - DOWN
+	
+	DIP switch #3 - UP
+	
+	
+	The MX412D may be configured with the mic element always activated, bypassing the internal muting function, but with alternate switch action in place of momentary. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX412D is connected. The MX412D white wire is the TTL switch out connection and the MX412D green wire is the TTL ground. When the MX412D external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the MX412Dexternal switch is pushed again, the white wire rises to
+	+5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	
+	DIP switch #2 - DOWN
+	
+	DIP switch #3 - UP
+	
+	
+	To control the MX412D LED from an external source, set DIP switch #3 to UP. The LED will illuminate Green when the MX412D orange wire is connected to thegreen wire. The LED willgo darkwhen the orange wire is NOT connected to the green wire. This connect/disconnect function may be handled via an external switch, relay, or a TTL gate on an automatic mixer. Setting DIP Switch #3 to UP bypasses the internal audio mute function of the MX412D.
+

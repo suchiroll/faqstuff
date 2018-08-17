@@ -1,0 +1,11 @@
+Title: U2 Transmitter With UC4 Receiver
+Id: 2011
+Legacy Id: 2075
+
+Question:
+Can you use a U2 handheld transmitter with a UC4 receiver?
+
+
+Answer:
+
+	Yes, but the operating bands of each component must match: UA band or UB band.

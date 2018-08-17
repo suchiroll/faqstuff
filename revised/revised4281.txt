@@ -1,0 +1,12 @@
+Title: Solution for Microphone Audio Level Changes
+Id: 4281
+Legacy Id: 5348
+
+Question:
+In an auditorium, I have a wireless mic that is passed around for audience questions. Some talkers eat the mic and talk loud; others hold the mic near their stomach and talk softly. Is there a device, that operates at mic level, that can produce a consistent audio level no matter the type of talker?
+
+
+Answer:
+
+	Radio Design Labs offers a compressor that is mic level XLR in, mic level XR out, and supplies phantom power. The model is HR-MCP2. The specifications state that the HR-MCP2 can handle level variations of up to 25 dB. Website: www.rdlnet.com
+

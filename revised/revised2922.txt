@@ -1,0 +1,26 @@
+Title: Mid-Side (M-S) Miking Configuration with KSM Microphones
+Id: 2922
+Legacy Id: 3048
+
+Question:
+What do you recommend for Mid-Side recording?
+
+
+Answer:
+
+	We recommend:
+	
+	1) Use a Shure KSM137 or KSM141 (set to Cardioid) as the Mid microphone.
+	
+	2) Use a Shure KSM44 (set to Bi-directional) for the Side microphone.
+	
+	3) Use a Shure A53M shock mount and a Shure A27M stereo mic adapter, mount the KSM137 in the top position, aiming forward at the stage. Configure the A27M so that the two 5/8-27 threaded nipples are as far apart as possible; do this by completely unscrewing the top of the A27M, removing the two rotating sections, and then replacing them as desired. Secure the A53M to the top 5/8-27 threaded nipple, bend the A53M to form a 90 degree angle at the swivel, and insert the KSM137 into the A53M. The XLR end of the KSM137 will just clear the top of the A27M.
+	
+	4) Mount the KSM44 (in its shock mount) directly below the KSM137, aiming at the side walls.
+	
+	5) Align the two mics so the KSM137 diaphragm is directly above the center of the KSM44. The diaphragms of the two mics will form an angle of 90 degrees when viewed from above.
+	
+	6) Record the KSM137 Mid signal on track one. Record the KSM44 Side signal on track two.
+	
+	7) In post-production, run the Mid signal and Side signal through an M-S matrix decoder to produce Left - Right stereo.
+

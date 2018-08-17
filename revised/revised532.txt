@@ -1,0 +1,92 @@
+Title: Connecting a UA888 or UA111 to Crestron or AMX
+Id: 532
+Legacy Id: 543
+
+Question:
+How do I connect a UA888 or UA111 to a control system such as AMX or Crestron?
+
+Answer:
+
+	The UA888 and UA111 use a standard 7 wire RS-232 port for control. It is possible to control them with a control system that provides a 5 or 7 wire RS-232 output.
+
+	
+
+	Wiring
+
+	
+
+	Seven wire operation
+
+	
+
+	Connect the RX, TX, DTR, GND, DSR, RTS, and CTS conductors to the appropriate terminals on the control device.
+
+	
+
+	Five wire operation
+
+	
+
+	Using the RS-232 wiring diagram in the UA888 or UA111 owners manual, connect the RX, TX, GND, RTS, and CTS to the five wire RS-232 port on the control unit. This would be similar to the RS-232 port number 4 on the AMX Axcent2 system. The UA888 and UA111 require a voltage of 5 to 12 volts on the DTR line. This voltage tells the microprocessor to accept any data that it receives on the TX line. This voltage can be supplied by any of the 12 VDC outputs from the AMX. See the following diagram.
+
+	
+
+	
+
+	
+
+	The resistor is placed in-line to limit the current going to the DTR of the UA888.
+
+	
+
+	Three wire operation
+
+	
+
+	When using three wire operation the hardware hand-shaking capabilities of RS232 are disabled. To make the UA888 handle the messages without hand-shaking, all messages sent from the AMX must be delayed. Also, when using three wire configuration, the DTR line, as well as the CTS line, must still be supplied a DC voltage as shown above in the five wire operation. This wiring scheme is not recommended. It is better to use 7 wire or 5 wire RS-232.
+
+	
+
+	Specifications
+
+	
+
+	
+		
+			
+				Baud:
+			
+				19200
+		
+		
+			
+				Data bits:
+			
+				8
+		
+		
+			
+				Stop bits:
+			
+				1
+		
+		
+			
+				Parity:
+			
+				none
+		
+		
+			
+				Flow control:
+			
+				none
+		
+	
+
+
+	
+
+	RS-232 codes to change the Group/Channel of the receiver.
+
+

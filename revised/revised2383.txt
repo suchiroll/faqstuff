@@ -1,0 +1,16 @@
+Title: Radio Shack R27E Cartridge
+Id: 2383
+Legacy Id: 2474
+
+Question:
+I have a defective R27E cartridge. What of your present products will replace the R27E? Also please include information on the stylus required for the replacement cartridge. Thank You.
+
+
+Answer:
+
+	The R27E was made by Shure for Radio Shack.
+	
+	The replacement stylus for the R27E is the model N75ED Type 2.
+	
+	To replace the entire cartridge, purchase the Shure model M92E.
+

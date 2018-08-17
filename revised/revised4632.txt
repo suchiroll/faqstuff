@@ -1,0 +1,11 @@
+Title: V15VxMR Effective Stylus Tip Mass
+Id: 4632
+Legacy Id: 5791
+
+Question:
+What is the effective tip mass of the V15VxMR stylus?
+
+Answer:
+
+	The discontined V15VxMR had an effectivestylus tip mass of 0.17mg (milligram.)
+

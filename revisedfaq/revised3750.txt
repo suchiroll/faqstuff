@@ -1,0 +1,33 @@
+Title: PG Wireless Frequencies in the U.S. and Compatible Groups
+Id: 3750
+Legacy Id: 3986
+
+Question:
+Please provide the compatible groups and exact frequencies for the PG systems sold in the U.S.
+
+
+Answer:
+The PG Wireless Series was discontinued in 2013.
+	Frequency Band H7 (536 - 548 MHz)
+	Compatible Group #1
+	1 - 536.075 MHz ; 3 - 537.275 MHz; 5 - 540.025 MHz; 7 - 541.925 MHz
+	Compatible Group #2
+	2 - 547.925 MHz ; 4 - 546.725 MHz; 6 - 543.975 MHz; 8 - 542.075 MHz
+	Remaining Channels
+	9 - 547.175 MHz   0 - 536.825 MHz
+	
+	Frequency Band K7 (590 - 602 MHz)
+	Compatible Group #1
+	1 - 590.075 MHz ; 3 - 591.275 MHz; 5 - 594.025 MHz; 7 - 595.925 MHz
+	Compatible Group #2
+	2 - 601.925 MHz ; 4 - 600.725 MHz; 6 - 597.975 MHz; 8 - 596.075 MHz
+	Remaining Channels
+	9 - 601.175 MHz   0 - 590.825 MHz
+	
+	Frequency Band M7 (662 - 674 MHz)
+	Compatible Group #1
+	1 - 662.075 MHz ; 3 - 663.275 MHz; 5 - 666.025 MHz; 7 - 667.925 MHz
+	Compatible Group #2
+	2 - 673.925 MHz ; 4 - 672.725 MHz; 6 - 669.975 MHz; 8 - 668.075 MHz
+	Remaining Channels
+	9 - 673.175 MHz   0 - 662.825 MHz

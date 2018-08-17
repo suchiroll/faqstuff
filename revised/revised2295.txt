@@ -1,0 +1,29 @@
+Title: Wiring of MX392/C to Standard Male XLR Jack
+Id: 2295
+Legacy Id: 2380
+
+Question:
+I've got an MX392/C and I want to solder the wires to the correct pins of a standard Male XLR jack, (assuming this microphone doesn't need an in-line pre-amp?) maintaining the logic circuit functionality if possible. Since the MX392/C has 6 wires and an XLR jack has only 3 pins plus the lug, I'm assuming I have to double up wires to pins. Would this be the correct way to do it?
+
+
+Pin 1 - shield and green wire
+
+Pin 2 - red and white wires
+
+Pin 3 - black and orange wires
+
+
+If this isn't possible, will the microphone work with only the shield, red and black wires connected to the XLR jack?
+
+
+Answer:
+
+	The correct wiring is:
+	Pin 1 - shield
+	Pin 2 - red
+	Pin 3 - black
+	
+	The mic will provide audio with this wiring, but it does require 11 to 52 volts of phantom power to operate.
+	
+	The other wires (green, white, orange) carry the logic signals. If you need these wires for external logic, use a six pin XLR connector.
+

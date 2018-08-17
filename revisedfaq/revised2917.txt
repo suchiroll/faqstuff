@@ -1,0 +1,16 @@
+Title: A85F Actual Impedance
+Id: 2917
+Legacy Id: 3042
+
+Question:
+What are the exact impedances of the low and high ends of this in-line transformer?
+
+
+Answer:
+
+	Primary is 300 ohms.
+	
+	Secondary is 40,000 ohms.
+	
+	Gain is 21 dB.
+

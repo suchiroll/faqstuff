@@ -1,0 +1,13 @@
+Title: Replace an SM99
+Id: 955
+Legacy Id: 984
+
+Question:
+I have an SM99 microphone that we use in our pulpit in church that has a stress break in the arm.  Thus, it will no longer stand up on its own.  We'd like to get a replacement but I can't find this product in your catalog anymore.  Is this still available?  If not, can you suggest a substitute?
+
+Answer:
+
+	The SM99 was replaced with the MX412 and MX418. These are available in many different models with many choices of polar pattern.
+	
+	The MX412/S is the direct replacement, but you may want to consider the MX412/C cardioid version.
+

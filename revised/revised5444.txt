@@ -1,0 +1,51 @@
+Title: How do I isolate Dante traffic?
+Id: 5444
+Legacy Id: 
+
+Question:
+How do I isolate Dante traffic on a network?
+
+Answer:
+
+	In certain situations Network Administrators or AV Integrators will need to filter Dante Audio, PTP, Shure Discovery or other Multicast traffic from a corporate network. Here are two solutions to accomplish this using the Shure MXWANI4/8 or IP filtering within an Enterprise Gigabit Layer 3 Switch (for example, the Cisco Catalyst 3750G).
+	MXWANI4/8 Audio Network Interface in Uplink Mode
+	When connecting to corporate or public networks, the MXWANI can be configured to isolate the audio network from the control network. This protects the audio from distributing to the entire network and significantly decreases network traffic.
+	The MXW Audio Network Interface (ANI) can be set to Uplink mode which dedicates Port 4 of its internal switch to be used as a control-only connection. This mode blocks multicast network audio and data for Shure Web Discovery Application, Dante Controller and Dante Virtual Soundcard.
+	*Note: Since the device will not show up in the Shure Device Discovery application, the IP address of the control software must be recorded to access the server.
+	
+		Record the IP address of the ANI.
+	
+		Connect Port 4 of the ANI to the corporate network.
+	
+		Use the Shure Web Device Discovery application to open the control software of the ANI.
+	
+		Go to the Preferences tab.
+	
+		Under the Network panel, change Port 4 Mode to Uplink.
+
+	IP Filtering with Access Control Lists (ACL) on Cisco Enterprise Switches
+	Filtering Multicast traffic for: PTPv2, Dante/AES67, mDNS, and Shure Discovery
+	
+	The dots illustrate points within the network where an ingress (red) or egress (green) ACL may be applied to filter Multicast traffic. The goal is to isolate PTPv2 and other related Multicast packets to minimize traffic on the corporate network. The assumption is that each location is separate and will not share Multicast and/or PTP clock traffic.
+	Example ACL configurations in Cisco IOS:
+	Switch 1
+	access-list 100 deny ip any host 239.255.254.253
+	access-list 100 deny ip any host 239.255.255.250
+	access-list 100 deny ip any host 224.0.1.129
+	access-list 100 deny ip any host 224.0.0.233
+	access-list 100 deny ip any host 224.0.0.251
+	access-list 100 deny ip any host 224.0.0.252
+	access-list 100 permit ip any any
+	interface GigabitEthernet1/0/2
+	ip access-group 100 in
+	Switch 2
+	access-list 100 deny ip any host 239.255.254.253
+	access-list 100 deny ip any host 239.255.255.250
+	access-list 100 deny ip any host 224.0.1.129
+	access-list 100 deny ip any host 224.0.0.233
+	access-list 100 deny ip any host 224.0.0.251
+	access-list 100 deny ip any host 224.0.0.252
+	access-list 101 permit ip any any
+	interface GigabitEthernet1/0/4
+	ip access-group 101 out
+	*Note: If an ACL is not filtering needed traffic flow, use Wireshark to sample traffic and make needed changes to the ACL.

@@ -1,0 +1,14 @@
+Title: Ethernet switch with PoE for MXW
+Id: 4319
+Legacy Id: 5396
+
+Question:
+Please recommend a managed Ethernet gigabit switch, with PoE (Power over Ethernet), that has been used successfully with the MXW product.
+
+
+Answer:
+
+	Customers have had success using Cisco SG300 and Cisco SG200 switches. The Cisco units have PoE.
+
+	Critical Note: Proper MXW operation is obtained only when using a managed Gigabit Ethernet switch. An unmanaged switch will result in synchronization errors and the MXW mics will mute unpredictably.
+

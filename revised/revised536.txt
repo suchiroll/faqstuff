@@ -1,0 +1,16 @@
+Title: Input problems with linked PSM 400s
+Id: 536
+Legacy Id: 547
+
+Question:
+We just bought a second PSM 400.  When I run from the split outs on unit #1 to the unit #2 inputs using XLR-1/4" adapters, I can only get a signal when the 1/4" mono cables running from the sound board auxiliary outs are partially plugged in to the unit #1 inputs.
+
+When I run only a single unit, the signal from this unit is great when the 1/4" cables are fully plugged into the unit #1 inputs.  The problem occurs on both units only when I'm splitting the signal from unit #1 to unit #2.
+
+Do I need to use stereo cables running from the sound board aux outs to the unit #1 inputs, or is there another problem I'm overlooking.
+
+Answer:
+
+	You are unbalancing the aux out of your board going into P4T #1. Then you are unbalancing the connection between P4T #1 and P4T #2. If these two unbalance methods are reversed, then you nullify the signal. That is, the first unbalancing is tying pin 2 to ground. The second unbalancing is tying pin 3 to ground.
+	
+	For the best connection, you should use 1/4" stereo (TRS; Tip-Ring-Sleeve) cables between all of the above components. Use TRS cables between the aux out and P4T #1. Use TRS cables between P4T #1 and P4T #2. These cables are also called "Balanced 1/4 inch". Using balanced 1/4" cables between these components should cure your problem.

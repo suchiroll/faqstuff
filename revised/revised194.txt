@@ -1,0 +1,18 @@
+Title: Which cable for SM58
+Id: 194
+Legacy Id: 195
+
+Question:
+I need a vocal mic for performing and intend to buy an SM58. I'm confused about which cable would be appropriate. I'm embarrassed to admit that I don't understand the difference between low and high impedance. We run our mics through a 200 watt PA. Any ideas?
+
+
+Answer:
+
+	The output connector of an SM58 is called a male XLR connector. If the mic input connector of your PA is a female XLR connector, your PA system is low impedance. In that case, use any mic cable that has an XLR female on one end and an XLR male on the other. The cable length can be up to 1,000 feet!
+	
+	If the mic input connector of your PA is a quarter inch phone jack (like on a guitar amp), your PA is probably high impedance. In that case, use the same cable as above, but add a Shure A95UF or A85F transformer at the PA end of the cable. This will transform the SM58 low impedance signal to a high impedance signal.
+	
+	There is a very small chance that your PA could be low impedance, but use a quarter inch phone jack as the mic connection. That would be very rare. Consult your PA owners manual or call the manufacturer if you think this might be the case. Then contact Shure with this information and we will tell you how to cable the SM58 to connect to this type of very unusual input.
+	
+	To learn more about impedance, go to the Shure FAQ section of www.shure.com and enter the word impedance. We have written several educational bulletins on this subject.
+

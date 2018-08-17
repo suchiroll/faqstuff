@@ -1,0 +1,21 @@
+Title: Stiff antenna for SLX1 or PGX1
+Id: 3178
+Legacy Id: 3318
+
+Question:
+I want to stiffen the "floppy" antenna wire on the SLX1 transmitter. The reason is to prevent the antenna wire from being scrunched when a user puts the SLX1 into a pocket. Any ideas?
+
+
+Answer:
+
+	Here is a simple way to stiffen the SLX1 or PGX1 antenna. Supplies required are:Heat shrink tubing
+	Piece A: 75 mm (3") long, I.D. 4 mm (3/32")
+	Piece B: 25 mm (1") long, I.D. 5 mm (1/8")
+	Piece C: 25 mm (1") long, I.D. 7 mm (3/16")
+	Heat gun or hot hair dryer1) Carefully pull off the protective tip on the antenna wire. It is held on with a tiny drop of glue. Roll the tip between your fingers to break the glue bond2) With the protective tip removed, place Piece A of the heat shrink tubing over the antenna wire.
+	2a) Push it onto the wire until it hits the rubber boot at the base of the antenna.
+	2b) Use the heat gun to shrink the tubing.3) Place Piece B over the antenna wire.
+	3a) Push it onto the wire until it hits the rubber boot at the base of the antenna.
+	3b) Use the heat gun to shrink the tubing.3) Place Piece C over the antenna wire.
+	3a) Push it onto the wire until it covers the rubber boot at the base of the antenna.
+	3b) Use the heat gun to shrink the tubing.4) Replace the protective tip on the end of the antenna wire. Use a tiny drop of "Super Glue" to hold it in place.Heat shrink tubing may be purchased at Radio Shack or from Mouser Electronics.

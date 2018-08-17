@@ -1,0 +1,11 @@
+Title: Is the N78S stylus compatible with an M95ED cartridge?
+Id: 2142
+Legacy Id: 2213
+
+Question:
+I have an M95ED cartridge (actually the lettering is ME95ED where the leftmost "E" is tiny and flush with the top of the "M"). Is it compatible with the N78S stylus?
+
+
+Answer:
+
+	Yes, the N78S will fit the M95 body. Be careful when installing the N78S as it is a tight fit.

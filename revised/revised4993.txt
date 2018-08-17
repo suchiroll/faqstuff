@@ -1,0 +1,12 @@
+Title: Copying MXA910 or MXA310 settings to other devices
+Id: 4993
+Legacy Id: 6261
+
+Question:
+If I have multiple rooms and I want to configure all devices with the same settings, is there a way to deploy a single configuration to multiple units?
+
+
+Answer:
+
+	Yes. Configure one of the mics, save as a preset, export the preset to your PC, and then import that preset into all other units.
+

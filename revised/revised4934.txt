@@ -1,0 +1,14 @@
+Title: iPhone 6 and iPhoneSE with KSE1500 or SHA900
+Id: 4934
+Legacy Id: 6193
+
+Question:
+Can there be an issue with the KSE1500 or SHA900 if used with an iPhone6 of iPhoneSE model?
+
+
+Answer:
+
+	Some iPhone 6 and iPhone SEunits have USB digital audio glitches that manifest as pops and clicks or occasional digital distortion when used with external USB DACs (digital-analog convertor,) including the Shure SHA900 and KSE1500.These two iPhone modelsare the only USB audio capable phones known to have this issue.
+	
+	Not every iPhone6 or iPhoneSEhas exhibited this issue. Because a moderate percentage do have this issue, Shure cannot guarantee that these iPhone models will work properly with external USB DACs, including the SHA900 portable listening amplifier and the KSE1500 electrostatic earphone system.
+

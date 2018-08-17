@@ -1,0 +1,18 @@
+Title: Motiv MV88 Recording with Playback Tracks
+Id: 4798
+Legacy Id: 5984
+
+Question:
+I'm a song producer and blogger. I'm currently creating a step-by-step tutorial where rap artists can easily create quality songs without needing a major studio and perhaps using their phones to do the vocal recording.
+
+In my recording studio, I've been using a Shure KSM27 for years without any problems. That's why I was so happy to find out about your Shure MV88 that works directly with the iPhone because I know the quality and durability of your microphones firsthand.
+
+Now I know that the Shure MV88 comes with a headphone adapter for monitoring, but my question is will I be able to play other audio from my iphone while recording with the MV88?
+
+Answer:
+
+	While using the MV88, you may monitor the input using the earphone jack on the iOS device.  The short 3.5mm extension cable is included in case you use headphones with a built-in mic, as this would take precedence over any microphone plugged into the Lightning port.  
+	
+	Headphone monitoring with the MV88 and an iPhone is only possible when the mic is facing away from you, as it blocks the phone's earphone jack when the mic faces toward you.
+	If you are using an app like GarageBand or another multi-track recording software, you will be able to monitor the existing tracks while recording with the MV88.  The input level and other adjustments are set using our Motiv app, and the MV88 can be configured to record in mono
+	We also offer the MV5 and the MV51, which can be used for mono recordings.  These models will work with iOS or Android devices, as well as computers with a USB port.  Either of these models also would suit your needs.

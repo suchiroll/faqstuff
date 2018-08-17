@@ -1,0 +1,29 @@
+Title: 515SBG Modification to Open Mic Circuit
+Id: 4665
+Legacy Id: 5832
+
+Question:
+The model 515SBG microphone is supplied with the mic circuit Normally Closed when the mic switch button is up. This means I cannot connect two (or more) 515SBG mic in parellel. Can the mic circuit be modified to Normally Open?
+
+
+Answer:
+
+	Yes, the mic circuit can be modified.
+	
+	However, note that the disassembly of the mic and the re-assembly is quite difficult.
+	
+	The steps below are a general outline of the process:
+	
+	1) Remove the grill assembly. It is held on by a set screw.
+	2) Remove the mic element.
+	3) Remove the E clip that attaches to the shaft of the switch button.
+	4) Remove switch button for the mic handle.
+	5) Remove the hex nut and washer that holds the switch to the mic handle.
+	6)Slowly remove the switch from the interior of the mic handle.
+	7) Locate the switch terminal that has a red wire and green wire soldered together.
+	8) Remove the red wire and green wire from the switch terminal.
+	9) Re-solder the red wire to the green wire and insulate with electrical tape.
+	10) Start at step 6 above and work backward to re-assemble the mic.
+	
+	Once again, this is not a simpleprocedure. Think carefully before proceeding.
+

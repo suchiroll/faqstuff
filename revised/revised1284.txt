@@ -1,0 +1,18 @@
+Title: Measurement Microphones for below 20Hz
+Id: 1284
+Legacy Id: 1332
+
+Question:
+For our experiment we are looking for some omni-directional highly sensitive microphones with a frequency range of about 0.1 Hz to 1000Hz. We want to use three microphones together at different locations outside the buildings and then correlate the signals to determine the location, direction and magnitude of the thunder, rain or lightening.
+
+
+I would appreciate some advice for an appropriate set of microphones with a reasonable price.
+
+
+Answer:
+
+	You will require measurement microphones for operation below 20 Hz. Here are two companies:
+	
+	ACO Pacific at http://www.acopacific.com
+	Lawson Inc at http://www.lawsonmicrophones.com
+

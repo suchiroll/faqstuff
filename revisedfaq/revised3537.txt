@@ -1,0 +1,25 @@
+Title: KSM137 KSM141 case dimensions
+Id: 3537
+Legacy Id: 3741
+
+Question:
+What are the dimensions for the plastic case that comes with the KSM137 or KSM141?
+
+
+Answer:
+
+	The protective carrying case model numbers for the KSM137 and KSM141 microphones are:
+
+	
+	Microphone - Carrying Case Model
+	KSM137 (single) - A137C
+	KSM137 (stereo pair) - A137SPC
+	KSM141 (single) - A141C
+	KSM141 (stereo pair) - A141SPC
+
+	
+
+	The dimensions are 9-3/8 x 8 x 2-1/8 as indicated in the picture below.
+
+	
+

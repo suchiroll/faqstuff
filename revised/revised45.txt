@@ -1,0 +1,12 @@
+Title: What is the COM port setting for DFR11EQ?
+Id: 45
+Legacy Id: 45
+
+Question:
+What should the com port device driver settings be to allow proper communications with the DFR?
+
+
+Answer:
+
+	The DFR11EQ software versions 4 and 5, overrides the computers COM port settings in order to communicate with the hardware. The correct COM port needs to be selected (usually COM 1) and enabled. When in doubt, a standard Microsoft COM port driver should work fine. Use the default COM port settings.
+

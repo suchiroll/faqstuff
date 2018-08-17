@@ -1,0 +1,12 @@
+Title: How to purchase Feature License for DIS-CCU
+Id: 4833
+Legacy Id: 6019
+
+Question:
+How do I purchase a Feature License for the DIS-CCU central control unit?
+
+
+Answer:
+
+	Contact your regional Shure Distribution Center or Sales Representative to purchase a Feature License .xml file.You will need to have the serial number of the DIS-CCU on which the license will be installed because the license is generated for that specific DIS-CCU.
+

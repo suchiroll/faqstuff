@@ -1,0 +1,23 @@
+Title: 527C as a replacement for model 104C
+Id: 4796
+Legacy Id: 5982
+
+Question:
+Please tell me if you have a replacement for the Model 104C handheld carbon mic. A distributor aid that the Model 514B is the replacement, however, since the 514B is a dynamic (not carbon) mic, I believe this claim is incorrect.
+
+
+Answer:
+
+	The 104C is a carbon mic. Shure no longer makes a carbon mic. The 514B is NOT a replacement.
+	
+	Devices that require a carbon microphone are rare today. Carbon mic technology dates back to the early 1900s. In the past, carbon mics were employed primarily for telephones, military communications equipment, mining operations, and off-shore drilling platforms.
+	
+	The 527C might work in place of the 104C. The 527C output level is similar to the 104C. The powering scheme required for the 104C will work for the 527C. This powering scheme is NOT the same as phantom power.
+	
+	104C output level at 94 dBSPL is -25 dBV.
+	527C output level at 94 dbSPL is - 31 dBV.
+	
+	See attached PDF file below for a typical circuit used with the 527C microphone.
+	
+	NOTE: The 527C cannot be used into an input designed for a typical dynamic microphone or a condenser microphone.
+

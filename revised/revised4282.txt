@@ -1,0 +1,28 @@
+Title: ULXD4D or ULXD4Q with a guitar amp or guitar effects
+Id: 4282
+Legacy Id: 5349
+
+Question:
+I want to use my ULXD4D dual receiver with my guitar amp and guitar effects. But the receiver does not have a 1/4" phone jack output. What I need is an external device that will connect to the receiver XLR output and convert the audio signal into something that electrically resembles a guitar's output signal. Any ideas?
+
+
+Answer:
+
+	Yes, the ProRMP offered by the Radial Engineering. http://www.radialeng.com
+	
+
+	Although the ProRMP stated use is for re-amping, it works with the ULXD4D or ULXD4Q which do not have  phone jack outputs.The ProRMP works with any line level output to provide a floating instrument level signal. The ProRMP has a ground lift switch and an isolation transformer so that possible hum and other noise problems can be eliminated when a ULXD receiver is connected to a typical electric guitar amp input.A standard XLR mic cable is used to make the connection from the male XLR output of the ULXD receiver to the female XLR input of the ProRMP.
+	
+
+	Recommendations:
+	1) Set the output switch on the ULXD4D or ULXD4Q to LINE.
+	2) For unity gain, set ULXD level to -14, and the ProRMP level to maximum.
+	3) For more meter movement on the ULXD receiver, increase the receiver level and compensate with the level control on the ProRMP.
+	
+	
+	Measurements made by Shure Engineering:
+	a) -10dBV output with the level control at maximum
+	b) 0.65% THD at 20Hz +18dBV (full scale for ULXD)
+	c) -0.3dB at 20Hz
+	d) -3dB at 40kHz
+

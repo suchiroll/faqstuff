@@ -1,0 +1,13 @@
+Title: Shure M44G with elliptical stylus
+Id: 4163
+Legacy Id: 5075
+
+Question:
+Can I mount an N55e or N44e elliptical stylus on the M44G cartridge?
+
+
+Answer:
+
+	Yes.Either stylus should fit into the M44G body.
+	
+

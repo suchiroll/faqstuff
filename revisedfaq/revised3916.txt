@@ -1,0 +1,32 @@
+Title: SLX transmitter will not sync with the SLX4 receiver
+Id: 3916
+Legacy Id: 4163
+
+Question:
+My SLX mic transmitter will not sync with my SLX4 receiver. What are the possible causes?
+
+
+Answer:
+
+	Here are possible causes of the problem, from most common to least common:
+
+	
+
+	1) The battery compartment of the SLX transmitter is not open, and therefore the sync signal from the SLX4 is not being received.
+
+	
+
+	2) The SLX transmitter is too close or too far away from the SLX4. The optimal distance is 20 to 25 cm [8 to 10 inches].
+
+	
+
+	3) The SLX transmitter operating frequency band is not the same operating frequency band as the SLX4. This can happen if you have multiple SLX systems. Look at the SLX4 front panel, lower right side,and find text that reads, as an example, H5 518-542 MHz. Then look at the SLX transmitter for the same text. If the SLX transmitter reads J3 572-596 MHz, and the SLX4 receiver is H5 518-542 MHz, these two products will not sync.NOTE: Use color coded adhesive tape to mark the transmitter/receiver pairs that operate together.
+
+	
+
+	4) The ambientlight is too bright and overwhelms the infra-red sync signal sentby the SLX4 receiver. Try syncing the units in an area with less ambient light.
+
+	
+
+	5) The transmitter or receiver are defective and have to be repaired. Call Shure Service for details on product repair: 800-516-2525 if you are in the United States.
+

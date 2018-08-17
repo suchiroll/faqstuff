@@ -1,0 +1,14 @@
+Title: QLX-D "Encryption Mode Mismatch" [ err.003 ]
+Id: 4676
+Legacy Id: 5843
+
+Question:
+What causes "Encryption Mode Mismatch" (err 003) in QLXD?
+
+
+Answer:
+
+	The QLX-D error ofEncryption Mode Mismatch (err.003) occurs when the receiver and the transmitter have different encryption modes, that is, the encryption on one deviceis setON and the encryption on the other deviceis set OFF.
+	
+	To correct, do a new IR sync from receiver to transmitter. Refer to the QLX-D User Guide for instructions.
+

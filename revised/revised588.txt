@@ -1,0 +1,14 @@
+Title: Logging recorder for wireless mic troubleshooting
+Id: 588
+Legacy Id: 600
+
+Question:
+Where can I located a logging cassette recorder? I need it to record the output of a wireless mic receiver that has occasional interference. Voice activation on the recorder is desired and a recording time of 10 hours or more would be great. Any suggestions?
+
+
+Answer:
+
+	Please refer to:
+	
+	This company offers several models of logging cassette recorders.
+

@@ -1,0 +1,14 @@
+Title: Replacement antenna for the T4 receiver
+Id: 1035
+Legacy Id: 1067
+
+Question:
+One of our wireless systems is an older model (number T4 Diversity Receiver). The telescoping antenna broke off and I would like to know where I can get a replacement or can I get a flexable antenna to put on this unit like the other newer models that I have (UT4 receiver). I really like the flex antenna idea.
+
+
+Answer:
+
+	The telescoping antenna for the T4 receiver can be purchased from the Shure Service Parts department.
+	
+	The smaller antenna that comes on the UT4 receiver cannot be used because its not made to pick up the same frequencies as the antenna used on the T4 receiver.
+

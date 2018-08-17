@@ -1,0 +1,16 @@
+Title: KSM9 Switchable Polar Pattern and KSM9 Foam Windscreen
+Id: 3226
+Legacy Id: 3376
+
+Question:
+The KSM9 is switchable between a cardioid pattern or a supercardioid pattern. How is this accomplished? Also, is there an accessory foam windscreen?
+
+
+Answer:
+
+	The KSM9 has two electret condenser elements; one element is in front of the other with the distance between the diaphragms being 3.7mm. Both elements face forward and are contained within a single housing. The front element is acoustically tuned half-way between cardioid and supercardioid.
+
+	Via a double-pole switch, the rear element is connected in parallel to the front element. When the rear element is connected to have the same polarity as the front element, the resultant pattern is cardioid. When the rear element is connected to have the opposite polarity as the front element, the resultant pattern is supercardioid. Using this approach, the sensitivities of both patterns are nearly identical. Compared to a single element directional microphone, this two element design also lessens proximity effect, handling noise, and wind noise.
+
+	The A85WS foam windscreen fits the KSM9.
+

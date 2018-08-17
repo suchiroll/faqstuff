@@ -1,0 +1,36 @@
+Title: Microphone Hum Problem
+Id: 2658
+Legacy Id: 2762
+
+Question:
+The following is a letter I sent to Neumann Microphone about a problem I have. They have not responded. Would you please read this letter and write to me with your opinion and/or possible solution? I would appreciate this very much.
+
+
+"I have a question about microphone shielding. In one small area of my studio (near my mains circuit breaker/electrical panel) I have some type of electrical interference and all my microphones except the Neumann mics have hum when turned in a certain direction. If I turn the mics 90 degrees, the hum disappears. The Neumann mics (U87s and U64s) have no hum in any direction and work fine. So, before I write to the other mic manufacturers (Sennheisser, Shure, AKG, and Electro-Voice) for a solution to the problem, I want to ask you if you use a special kind of shielding in your mics that prevent this type of hum from electrical interference. Do you? And do you think the hum in the other mics comes from mic transformers that are not shielded or not shielded enough?"
+
+
+The mics in question are:
+
+Sennheiser MD-421
+
+Shure SM57
+
+Electro-Voice RE-15; RE-20; 635A
+
+AKG C414 EB; C452 EB
+
+
+Answer:
+
+	The likely source of the problem is a hum field in your studio caused by the AC power lines.
+	
+	Any type of dynamic mic, like the Shure SM57 or EV 635, contains a voice coil that is very susceptible to picking up the hum field. Nothing can be added to these mics to control this.
+	
+	Some dynamic mics contain an internal hum bucking coil, like the Shure SM7B, that reduces hum pick-up....reduces, not eliminates. Some dynamic mics, like the Shure Beta 58, have more effective shielding around the voice coil; that also reduces hum.
+	
+	But ALL dynamic mics will pick up this hum field to some extent.
+	
+	Condenser mics, like the Neumanns or the Shure KSM mics, do not have voice coils. These mics will perform much better in a hum field. But many of these mics have output transformers that, like a voice coil, will also pick up the hum.
+	
+	If the hum field cannot be eliminated, stick with high quality condenser mics with transformerless outputs. The Shure KSM mics are condenser mics with transformerless outputs.
+

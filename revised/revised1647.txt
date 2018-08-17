@@ -1,0 +1,12 @@
+Title: Specs for M91MGD cartridge
+Id: 1647
+Legacy Id: 1704
+
+Question:
+I need the specifications of phonograph cartridge Shure M91MGD that I use in my 1219 Dual.
+
+
+Answer:
+
+	The M91MGD is a conical (spherical) stylus with a radius of .0006 inches. The tracking force range is 0.75 to 1.5 grams.
+

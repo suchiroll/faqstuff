@@ -1,0 +1,24 @@
+Title: PGX Digital Frequency Groups / How To Use Them
+Id: 3840
+Legacy Id: 4079
+
+Question:
+Please provide guidance on using the PGX Digital frequency groups.
+
+
+Answer:
+
+	The PGX Digital is available in different frequency groups, depending upon the wireless laws in each country.  The most common frequency band is X8: 902 - 928 MHz.   This band is used for the United States, and other countries.  Band X8 is NOT used for Australia*, Brazil**, and the European Union.
+	
+	When using the X8 band, these guidelines must be followed:
+	
+	1) When using one or two PGX Digital systems, use the coordinated frequencies in Group 0, 1, or 2.
+	2) When using three or four PGX Digital systems, use the coordinated frequencies in Group 3, 4, 5, or 6.
+	3) When using five PGX Digital systems (the theoretical maximum), use the coordinated frequencies in Group 7, 8, or 9.
+	4) Do not use different Groups as the frequencies are not coordinated between Groups; frequencies are coordinated only within a Group.
+	
+	NOTE: Operating five PGX Digital systems simultaneously is possible under ideal conditions.  However local RF interference and RF conditions will typically reduce this number to less than five systems.
+	
+	*Austrilia uses band X8A: 915 - 928 MHz
+	**Brazil uses band X8B: 902 - 907.5 and 915 - 928 MHz.
+	 

@@ -1,0 +1,11 @@
+Title: Frame resonant thump from SM57
+Id: 1941
+Legacy Id: 2004
+
+Question:
+We have been using your SM57 mics to amplify our mallet equipment (marimbas, etc.) in the University of Oregon front ensemble. A problem that has been progressive is there is a thump coming from our speakers caused (we believe) by the vibration of the frame when the instrument is struck. We have the mics connect via clamp (mics are set in your mic holder) to the bottom cross brace of the frame. Do you know of any way to get rid of this problem?
+
+
+Answer:
+
+	Try the A55M shock mount. It looks like the A53M shock mount, but will accept the larger tapered handles of the SM57 microphones.

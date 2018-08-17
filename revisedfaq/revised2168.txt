@@ -1,0 +1,36 @@
+Title: Theater Audio - Multiple microphones for school plays
+Id: 2168
+Legacy Id: 2241
+
+Question:
+All questions refer to phantom-powered Microflex Mics:
+
+1. Is there a limited number of mics that u can connect to a mixer that supplies phantom. Example: Should sound output be the same if (a)one mic w/phantom is used OR (b)three mics w/phantom are used all coming from the SAME phantom power source from the mixer?
+
+2. Will feedback increase as more open mics increase. I notice that I must lower the gain of all open microphones as more microphones are opened or else feedback can be heard.
+
+3.(a)What is the best HEAD to use for picking up church plays with shy (quiet) children actors (stage: 7 meters wide, 4 meters deep)? Currently using cardioid. How about super or omni?
+
+(b)Alternatively, would 2 overhead choir mics perform well for this task, rather than using 3 shotguns?
+
+4. Does the output sensitivity spec determine how far a speaker can be from the respective microphone? If not, what does?
+
+Thanks for any guidance you can give.
+
+
+Answer:
+
+	1. If the mixer is designed properly, all inputs should be able to provide phantom power without any effect on audio output level or quality.
+	
+	2. Yes, gain before feedback in reduced as more microphone are open. This is an axiom of sound system design.
+	
+	3. Cardioid is typically the best choice, but the room acoustics are a major variable. Consequently, other patterns may work better in that specific room.
+	
+	4. Whatever mic style can be located closest to the actors mouths is the best choice.
+	
+	5. No. The determining factor is Potential Acoustic Gain: PAG
+	
+	PAG is determined by the laws of physics. PAG is the reason that microphones are held close to the mouth by singers, and microphones are mounted on the heads of actors.
+	
+	6. Also read: Theater Audio: The Science Behind the Illusion
+

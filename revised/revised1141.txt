@@ -1,0 +1,34 @@
+Title: N78S Styli for V15 Type IV
+Id: 1141
+Legacy Id: 1179
+
+Question:
+I use a Shure V15 Type IV phono cartridge on my Harman/Kardon Rabco ST-7 straight line tracking turn table. Both the turn table and the cartridge are still performing extremely well, even after all these years. I have come across a bunch of old 78 RPM records that I would like to transfer onto CDs. In the booklet that came with the cartridge, it says that the VN-478E styli is what I should use for my needs. Checking your catalogue, this styli is not listed, therefore, I presume no longer available. However, there is mention that the N78S styli is for playing 78 RPM records and it should fit all currant cartridges. My question is, would a N78S styli fit into my V15 Type IV cartridge, and would it work to satisfaction.
+
+
+Answer:
+
+	No, the N78S will not work with the V15 Type IV.
+	
+	The N78S replacement stylus will only work with these current and discontinued Shure cartridges:
+	
+	Current Audiophile/hi-fi cartridges:
+	V15VxMR
+	M97xE
+	M94E/MP94E
+	M92E
+	M70BX
+	M78S
+	
+	Discontinued Audiophile/hi-fi cartridges:
+	M111E
+	M91 Series
+	M92 Series (Pre 1975)
+	
+	DJ cartridges:
+	M35S
+	M35X
+	SC35C
+	M44-7X
+	M44GX
+

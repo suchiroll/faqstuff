@@ -1,0 +1,17 @@
+Title: Theater Audio - Microphones for grade school play
+Id: 540
+Legacy Id: 551
+
+Question:
+I am interested in finding out exactly which wired microphone would work best for picking up grade school children that are singing or performing plays. There softer voices are hard for audience to hear. It would be awkward to try and mic each individual child. We try to use our SM58's but they don't pick anything up unless there mouths are right up to the mics. I do not understand the microphone terminology well enough to choose the right product.
+
+
+Answer:
+
+	We are assuming the reason you cant turn the SM58s up any further is because you are encountering feedback. If this is the case, then any other microphone that you choose will have a similar problem.
+	
+	The following links will help explain:
+	
+	Feedback: Fact or Fiction
+	Theater Sound: The Science Behind the Illusion
+

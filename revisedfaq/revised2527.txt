@@ -1,0 +1,16 @@
+Title: How to use the DRS-10 to change presets on the P4800
+Id: 2527
+Legacy Id: 2624
+
+Question:
+How does the DRS-10 get connected to the P4800 to change presets?
+
+
+Answer:
+
+	You do not need an entire DRS-10. The only parts needed are the RPC603 (Switch Assembly Kit) and the RPC602 (Wall Plate Kit).
+	
+	Setup the control pin inputs and wire the RPC603 to pin one. The RPC603 can connect from up to 2000 feet away. In software select Devices-Control Pin Configuration. In the control inputs section, enter the number of presets you want to switch between (up to 10) in the box labeled # of presets. From the Encoding Type pull down menu, select DRS-10 / Custom (10). It will show the DRS-10 connected to pin 1. Click the DRS-10 box so that it is active (a blue line from the block to the picture of the control pins on the back panel). From the configuration menu, select Store to Device.
+	
+	Once an external control has been assigned to preset changes, you cant change presets from the software in Live Mode any more. Also, if you change presets via the external control and are in Live Mode, you will be bopped back to design mode. You can re-enter Live Mode to see the new Live Preset. To change presets via the computer, physically unplug the RPC603 from the back of the P4800.
+

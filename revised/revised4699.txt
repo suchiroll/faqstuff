@@ -1,0 +1,15 @@
+Title: Capacitive specification of GLXD1 transmitter
+Id: 4699
+Legacy Id: 5869
+
+Question:
+The GLX-D1 User Guide lists the input impedance as 900k ohms, but what is the capacitive spec on the input?
+
+
+
+Answer:
+
+	It is 900k in parallel with 330pF. If used, the Shure guitar cable adds another 140pF.
+
+
+

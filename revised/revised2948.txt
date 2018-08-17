@@ -1,0 +1,20 @@
+Title: QuietSpot with Motorola Talkabout radios
+Id: 2948
+Legacy Id: 3075
+
+Question:
+Can I use the QuietSpot headset with the Motorola Talkabout radios?
+
+
+Answer:
+
+	Motorola consumer "Talkabout" two-way radios use an accessory headset jack that is slightly longer than those used on Motorola (and many other) mobile phones. With the appropriate adapter cable, however, the QuietSpot headset (model QSH-3) may be used with these radios.
+	
+	The adapter cable is the "Motorola-Style Headset Adapter" available from Radio Shack as part number 21-1896.
+	
+	IMPORTANT: For any headset to work with these radios, the headset must be connected BEFORE the radio is turned on. If the headset it connected while the radio is already on, the radio will go into Transmit mode and remain transmitting until the headset is disconnected.
+	
+	For radios that feature "VOX" voice activation, it should be set to its most sensitive setting to allow comfortable communication. The radio's VOX circuitry typically does not begin transmitting until after the
+	first syllable is spoken and continues transmitting for about one second after you stop talking. This is a function of the simple voice detection circuitry used in the radio, and it has nothing to do with the headset.
+	
+	Note that the QuietSpot's earphone is more sensitive than most accessory headsets. Start with the radio volume turned all the way down, and while receiving, gradually turn the volume up to a comfortable level. My test showed that the volume needed to be set at or near the minimum setting.

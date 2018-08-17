@@ -1,0 +1,13 @@
+Title: X2u plugged into Pioneer DJ mixer?
+Id: 3632
+Legacy Id: 3839
+
+Question:
+I have a Pioneer DJ mixer model DJM-5000. Can I plug the X2u into the USB port of this mixer?
+
+
+Answer:
+
+	Unfortunately, that is not possible.
+	USB connections are a master-client type connection.  Typically the computer is the master and the X2u is the client. Since the Pioneer mixer is also a client, it is not possible to connect the X2u to it.  You can not connect two clients together.
+	A master has a USB type A connector (rectangular shaped like on your computer) while clients have a USB type B connector (more square shaped like on the X2u). Thus it is possible to identify a master by looking for a rectangular shaped type A connector.

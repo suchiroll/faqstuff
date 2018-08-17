@@ -1,0 +1,21 @@
+Title: Karaoke Wired Microphones
+Id: 887
+Legacy Id: 914
+
+Question:
+I bought recently a Karaoke System and I looking for a Good Wired Michophones for My family. Which model could you recommend for me? Which one is better Omnidirectional or unidirectional?
+
+
+Answer:
+
+	1) Please read thesebooklets to understand microphones used for sound reinforcement and karaoke:
+	
+	Microphone Techniques for Music -Sound Reinforcement
+	Introduction to Wireless Microphone Systems
+	
+	These can both be downloaded from Shure Educational Articles
+	
+	2) Please provide the technical information about the microphone input on your karaoke system. Read the following:  Will microphone model X work with my device that needs a mic?
+	
+	3) See this link for help in choosing a Shure model: Selection Guides
+

@@ -1,0 +1,13 @@
+Title: Can a bicolor LED be used in the MX392 or MX393?
+Id: 161
+Legacy Id: 161
+
+Question:
+Can I use bicolor LED in the MX392 or MX393?  I want it to be red when the microphone is off and green when the microphone is on.
+
+Answer:
+
+	No, the preamp and electronics inside the microphone do not support a bi-color LED.
+	
+	If you are using the MX392, you could design your own electronics to run an external bi-color LED off the Logic wires.
+

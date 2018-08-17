@@ -1,0 +1,15 @@
+Title: Connecting microphones to guitar amps
+Id: 459
+Legacy Id: 468
+
+Question:
+I bought 2 of your mics today not knowing that I was unable to connect them to my guitar amp. If there is any way that I can hook these up to my guitar amps... please tell me what product I can purchase to do so.
+
+Answer:
+
+	Your answer depends on the sensitivity of the input of your guitar amp. Most of the time, a transformer is necessary to plug a low impedance microphone into a guitar amp. The Shure A85F transformer will work for this situation.
+	
+	Related information:
+	
+	Would a SM58 sound ok plugged into a regular guitar amp?
+

@@ -1,0 +1,20 @@
+Title: Can a Y adapter be used to combine UHF antennas?
+Id: 2008
+Legacy Id: 2072
+
+Question:
+I am the sound guy for our church, and I have two quick questions.
+
+
+1) On our handheld U2/Beta 87A wireless mics, they are sending a very hot signal to our receivers. With the gain all the way down, they still peak out at the receiver when a person is singing on it. How can we fix this?
+
+
+2) We have two U4D receivers, and are setting up remote antennas. Is it possible to just Y connect the antennas at the receivers, or is a distribution absolutely necessary? If we can just Y it, how many can there be before a distributor is needed?
+
+
+Answer:
+
+	1) If you are not hearing distortion, there is nothing to fix. If you hear distortion, a pad must be added to the U2 between the mic head and audio input of the transmitter. This is best done by Shure Service or a very qualified electronics technician.
+	
+	2) A passive combiner or distribution amp is essential.
+

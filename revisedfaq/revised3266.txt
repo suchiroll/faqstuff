@@ -1,0 +1,17 @@
+Title: Beta 53 with WA360 in-line switch
+Id: 3266
+Legacy Id: 3421
+
+Question:
+Will the WA360 in-line switch work properly with the Beta 53 headworn microphone?
+
+
+Answer:
+
+	The WA360 will work with the Beta 53, however there will be an audible click/pop whenever the switch is used. This occurs because the WA360 is designed to handle 5 volts of bias on pin 2, but not the 16 volts of bias provided by the Beta 53 preamp (model RPM626).
+	
+	The RK100PK may be substituted for the RPM626, and then the WA360 can be used with no audible click/pop. The RK100PK provides 5 volts of bias on pin 2. The trade-off is that the Beta 53 will distort at a lower level of sound pressure due to the reduced bias voltage. This will be no problem for normal speech, but could be a problem for a loud singer or very loud talker.
+	
+	The above information also applies to the Beta 54.
+	
+	The WA360 may be used with the WH30XLR assuming that Tini-QG connectors are added to the cable between the mic and the supplied preamp.

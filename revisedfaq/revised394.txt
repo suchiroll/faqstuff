@@ -1,0 +1,27 @@
+Title: Improvements to Lavalier Mics
+Id: 394
+Legacy Id: 401
+
+Question:
+Our church is considering upgrading our pastor's lav mic. He currently uses an L series diversity with a WL83 element. Questions:
+
+
+1) Are there significant improvements in the WL18x series elements over the WL8x series? If so, please identify them.
+
+
+2) Given that this mic will be used for speaking, are there any drawbacks to using the WL184 (supercardioid) over the omni? It seems that the noise rejection and gain-before-feedback would be better. Is the supercardioid patter more sensitive to things like breath noise?
+
+
+3) Strictly from a sound quality standpoint (*not* considering things such as freq availability, battery life, et al), is there a difference between the LX and UC series systems? Assume each system is using the same mic element.
+
+
+Answer:
+
+	1) There are differences in sound qualities between the older WL83/84 and the newer WL180 series. We suggest you listen to them side by side. A local Shure dealer can help you to do a comparison.
+	
+	2) There are advantages and disadvantages to using directional microphones. The advantages include more gain before feedback and less ambient noise pickup. The disadvantages include more wind noise, more p-popping, excessive proximity effect, more clothing noise, etc. For a more detailed explanation, see the following link:
+	
+	Why should I use an omnidirectional microphone?
+	
+	3) The audio performance difference between an LX and UT is negligible.
+

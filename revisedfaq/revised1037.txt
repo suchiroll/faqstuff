@@ -1,0 +1,14 @@
+Title: Can the DFR11EQ be used with a 3 wire RS232 connection?
+Id: 1037
+Legacy Id: 1069
+
+Question:
+Is it possible to use a 3 wire link with your software or will that only work when issuing commands from a third party control system. We have a line driver which allows us to communicate with Rane or Allen  Heath devices up about 500m and we would like to use this with your devices but can't get it to work. I have made an adaptor that makes the 3 wire connection, and puts a 9 volt battery onto the DTR and CTS lines. If I use hyperterminal and link TX/RX on the plug that would go into the device it echos correctly.. but I can't get the software to detect the unit.
+
+
+Answer:
+
+	No, it is not possible to use a 3 wire link with our software. The DFR11EQ and DP11EQ require a 7 wire RS232 connection. The only line driver (or RS232 to RS422 converters) that we have tested to work is from R. E. Smith. Details can be found at the following link:
+	
+	How can I bring RS232 signal from UA888 to more than 100 feet?
+

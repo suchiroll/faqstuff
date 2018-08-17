@@ -1,0 +1,24 @@
+Title: SM27 versus KSM27
+Id: 3523
+Legacy Id: 3727
+
+Question:
+What is the difference between the SM27 and the KSM27?
+
+
+Answer:
+
+	The primary difference is the color: the SM27 is dark gray in colorand the KSM27 is champagne in color.
+	
+	Several of the SM27specifications are better than the KSM27 when it was first introduced. This is due to continual improvements in the internal circuitry and in the manufacturing/material process improvement.
+	
+	- The SM27 Self-Noise has been lowered by 4.5 dB compared to the original KSM27.
+	- The SM27 Maximum SPL has improved by 1 dB compared to the original KSM27.
+	
+	These improvements are also found in thelater versions of the KSM27.
+	
+	The SM27-LCis suppliedwith a zipper bag and a hard plastic mic stand adapter
+	The SM27-SC is supplied with a shock mount and a black velveteen pouch bag.
+
+	
+

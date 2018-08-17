@@ -1,0 +1,17 @@
+Title: VP83F with a microSDHC UHS-1 Memory Card
+Id: 4340
+Legacy Id: 5425
+
+Question:
+Will a microSDHC UHS-1 (Ultra High Speed) memory card work in the VP83F?
+
+
+
+Answer:
+
+	Yes, if the microSDHC UHS-1 card is formatted as FAT32. To be sure this is the case, first format the memory card using Windows. Set the File system to FAT32 and set the Allocation unit size to Default allocation size.Then, format the card again with the VP83F to optimize performance.
+	
+	NOTE: Using Windows, the action will be titled Format Removable Disk
+	
+	
+

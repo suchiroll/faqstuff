@@ -1,0 +1,13 @@
+Title: What is adhesive on bottom of SFG-2?
+Id: 3354
+Legacy Id: 3538
+
+Question:
+I just purchased an SFG-2. I noticed that the underside of the lever arm has a 4 cm indented section in which there is adhesive. Was there supposed to be something attached here? And will the measurements be off as a result?
+
+
+Answer:
+
+	This area is the underside of the aluminum piece showing the grams: 1.5 ---1.25 --- 1.00 ---.75 --- .50. The adhesive is on the underside of this piece.
+	
+	The adhesive holds this piece to the upper side of the balance arm. You are looking at the adhesive that is really not required because the balance arm has a 4 cm rectangular opening.

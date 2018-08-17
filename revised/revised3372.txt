@@ -1,0 +1,12 @@
+Title: M25C: Internal Resistance and Inductance
+Id: 3372
+Legacy Id: 3559
+
+Question:
+I recently purchased a M25C for a project, and checking out the specs for moving magnet cartridge, I could not find the internal resistance and inductance for this cartridge.  I did find the recommended load of 47k ohms in parallel with 250pF. Please provide the data.
+
+Answer:
+
+	DC resistance of each coil: 1,550 ohms +/- 10%
+	
+	Inductance of each coil: 650 milliHenries +/- 15%

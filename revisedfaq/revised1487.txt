@@ -1,0 +1,21 @@
+Title: Using limiters with In Ear Monitors
+Id: 1487
+Legacy Id: 1540
+
+Question:
+I am interested in upgrading my bands monitoring system. My band is currently a five piece, and I need a solution that will best serve my purpose. What I need to know is, how many systems will I have to buy to accomodate a five piece band all with PSM's? I have been told that I can run five sets with one transmitter. I hope this is correct.
+
+
+Also, what advantages will I have by using a limiter to control sound peaks to conserve hearing loss.
+
+
+Answer:
+
+	What I need to know is, how many systems will I have to buy to accommodate a five piece band all with PSMs?
+
+	* If everyone will be satisfied listening to the same stereo mix, you require one transmitter and five receivers. Or you can have two independent mono mixes using the same set up.
+	
+	What advantages will I have by using a limiter to control sound peaks to conserve hearing loss?
+
+	* There are limiters in each PSM receiver to control sound peaks. We suggest these limiters always be used. Putting a high quality limiter just before the PSM transmitter input is often done by professional bands, just to have yet another level of hearing protection.
+

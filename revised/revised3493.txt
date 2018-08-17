@@ -1,0 +1,28 @@
+Title: Warning Label on Shure Products
+Id: 3493
+Legacy Id: 3692
+
+Question:
+Why is there a warning label on my Shure product?
+
+
+Answer:
+
+	We have placed the warning label on our products to be extremely cautious and ensure that we comply with a law in the State of California commonly known as Proposition 65.
+What is Proposition 65?
+	The State of California developed a list of hundreds of chemicals which the State believes could cause cancer or reproductive harm to humans in certain circumstances where they are exposed to these chemicals. If a product contains any of these chemicals, the label may be required.
+How concerned should I be? Am I really at risk of cancer if I use this product?
+	Please do not be unnecessarily alarmed by this label - at least in regards to our products - for the following reasons:
+
+	
+	For many, if not most, of the chemicals on the State's list, there are no minimum threshold limits on quantities that trigger the requirement for a warning.
+	
+	
+	The State of California has not provided comprehensive guidance as to when the warning is required in all circumstances. Therefore, to be abundantly cautious, Shure has decided to place the warning on certain products.
+	
+	
+	Shure does not believe its products pose an unreasonable risk to users, but Shure wants its customers to be fully apprised.
+	
+
+	For more information about Proposition 65, you may wish to visit the Proposition 65 section of the website of the California Office of Environmental Health Hazard Assessment (OEHHA) at www.oehha.ca.gov.
+

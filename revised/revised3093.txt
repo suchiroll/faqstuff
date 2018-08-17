@@ -1,0 +1,25 @@
+Title: Comparison of Shure UHF receivers - Mic Level Outputs
+Id: 3093
+Legacy Id: 3225
+
+Question:
+I have noticed a difference in the output levels provided by different Shure UHF receivers. What are the actual level differences?
+
+
+Answer:
+
+	Comparison of Shure receivers - Mic Level Outputs
+	
+	Test Conditions:
+	Microphone: WL183 omnidirectional lavalier
+	Acoustic Input: 80 dB SPL of pink noise
+	Transmitter input gain at maximum
+	Receiver output gain at maximum
+	
+	Results:
+	UC4 receiver XLR output at mic level: -30 dBu
+	ULX4 receiver XLR output at mic level: -48 dBu
+	SLX4 receiver XLR output at mic level: -54 dBu
+	PGX4 receiver XLR output at mic level: -38 dBu
+	SM58 (wired) output level: -59 dBu
+

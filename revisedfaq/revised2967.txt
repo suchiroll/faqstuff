@@ -1,0 +1,11 @@
+Title: Adding a serial port to a laptop computer
+Id: 2967
+Legacy Id: 3095
+
+Question:
+My laptop computer does not have a serial port and I need to control a Shure DSP device. What do you suggest?
+
+
+Answer:
+
+	Here's a link to a manufacturer that makes PCM/CIA cards with serial ports.http://www.socketcom.com/product/serial.asp?Type=SingleThis is a better, though more expensive, option than a serial-to-USB adapter. This device provides an actual serial port, without any drivers or other software needed when going through the USB port. Unlike the USB option, this should work independent of the computer or operating system. Plus, it is unlikely that any other device will need to access the serial port.For the audio engineer who does a lot of work with serial devices, this type of PC card is worth the expense.

@@ -1,0 +1,11 @@
+Title: WH20 Specs
+Id: 2314
+Legacy Id: 2400
+
+Question:
+What is the frequency response of the WH20?
+
+
+Answer:
+
+	All WH20 specs are in the User Guide on the Shure web site.

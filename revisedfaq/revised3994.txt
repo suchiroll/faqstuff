@@ -1,0 +1,16 @@
+Title: Shure Earphones and Android Phones
+Id: 3994
+Legacy Id: 4371
+
+Question:
+What Shure earphones and control accessories work with my Android phone?
+
+
+Answer:
+
+	An Android phone is like saying that one has a Windows computer  its a software standard, but the hardware can vary.
+	
+	Different brands of Android phones require different switch schemes for volume control, trackselection, initiate call, end call,etc. As an example,a volume up/down button that works with an HTC model might not work with a Samsung model, or the Samsung might not support remote volume control. It simply is not economically feasible for Shure to test every new Android phone or to offer a unique earphone for each Android phone model.
+	
+	Shure will gladly supply complete technical specifications on any Shure earphone modelor control accessory. With this information, the Android phone maker should be able to comment on compatibility.
+

@@ -1,0 +1,11 @@
+Title: Screw terminals for SCM410 Logic Connector
+Id: 2840
+Legacy Id: 2952
+
+Question:
+Is there an adapter that converts the 15 pin D-sub Logic connector on the SCM410 into screw terminals?
+
+
+Answer:
+
+	Such adapters are availble.  Do an Internet search with these terms: "db15 female screw terminals."

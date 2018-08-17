@@ -1,0 +1,26 @@
+Title: PGA and PG Series Drum Kit Details and Drum Microphone Technique
+Id: 2883
+Legacy Id: 3004
+
+Question:
+Please outline:
+1. various mic techniques for a drum kit using your mic packages
+2. the DIFFERENCES between the drum mic packages
+
+
+Answer:
+
+	Drum mic techniques are described here:
+	
+	Microphone Techniques for Drums
+	
+	PGADRUMKIT5: kit for beginner/amateur use. Includes PGA52 kick drum mic, three PGA56 snare/tom/high hat mics; one PGA57 snare/tom/high hat mic; three AP56DM mounts for use with the PGA56; one A25D stand adapter for use with the PGA57;five XLR to XLR mic cables; carrying case.
+	
+	PGADRUMKIT7: kit for beginner/amateur use. Includes PGA52 kick drum mic, three PGA56 snare/tom/high hat mics; one PGA57 snare/tom/high hat mic; two PGA81 overhead/cymbal mics; three AP56DM mounts for use with the PGA56; three A25D stand adapter for use with the PGA57/PGA81;seven XLR to XLR mic cables; carrying case.
+	
+	DM57-52: kit for professional use. Includes Beta52 kick drum mic, three SM57 snare/tom/high hat mics; three A56D mounts for use with the SM57; carrying case.
+	
+	PGDMK4-XLR (Discontinued): kit for beginner/amateur use. Includes PG52 kick drum mic, three PG56 snare/tom/high hat mics; three A50D mounts for use with the PG56; four XLR to XLR mic cables; carrying case.
+	
+	PGDMK6-XLR (Discontinued): kit for beginner/amateur use. Includes PG52 kick drum mic, three PG56 snare/tom/high hat mics; two PG81 overhead/cymbal mics; three A50D mounts for use with the PG56; six XLR to XLR mic cables; carrying case.
+

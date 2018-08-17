@@ -1,0 +1,23 @@
+Title: WBH53 - Using it as a hard-wired mic
+Id: 3114
+Legacy Id: 3247
+
+Question:
+I am interested in purchasing a WBH53 for laboratory (high-quality speech) use. I would like to use my own microphone pre-amp with integrated phantom power. Does Shure sell an adapter for the TA4M connector so that I can connect to my preamp (XLR connection)?
+
+
+Answer:
+
+	The WBH53 must be connected to a Shure preamp, like the RPM628, in order to be used as a wired mic.
+
+	The RPM626 provides several vital functions:
+
+	
+		Converts the unbalanced audio signal from the mic element into a balanced signal.
+	
+		Converts the medium impedance signal from the mic element into a low impedance signal.
+	
+		Converts phantom power to +5Vdc to operate the FET in the mic element.
+		
+
+

@@ -1,0 +1,18 @@
+Title: Lack of Output Level on 55SH
+Id: 1585
+Legacy Id: 1641
+
+Question:
+I am the proud owner of the 55SH microphone. I love the look and feel of it, but I have noticed a considerable lack of volume output. I use the same volume setting on my PA for a cheap little $30 mic that I do with the 55SH and the cheapy is much louder. Is their anything I can do, buy, or fix to get a louder output for the 55SH. I really want to keep this mic. Thank you.
+
+
+Answer:
+
+	We cant comment on the $30 microphone as you did not provide any technical specifications on that microphone. Different microphones will have different output levels even though the input signal level and distance between sound source and microphone are the same. This depends on the type of microphone.
+	
+	Do not cant assume that every microphone will use the same volume level setting on the PA.
+	
+	Finally, your other mic may be a high impedance mic, which will have a greater output level. The 55SH can be converted to a high impedance output by using an in-line transformer like the Shure A95UF.
+	
+	How do I compare the sensitivity of two microphones?
+

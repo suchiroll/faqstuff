@@ -1,0 +1,12 @@
+Title: Low volume with BG 4.0 into digital deck
+Id: 989
+Legacy Id: 1018
+
+Question:
+I am attempting to record acoustic guitar with a BG 4.0. I am using a Yamaha AW 4416 digital deck. I am getting a very low volume from the mic; I have tried phantom power (from the Yamaha) and also a battery in the mic, but with poor results from both. Any suggestions?
+
+
+Answer:
+
+	Yes, you likely require a microphone preamp. Try the Audio Buddy at www.m-audio.com. Or the M1b mic preamp from www.rane.com.
+

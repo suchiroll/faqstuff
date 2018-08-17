@@ -1,0 +1,11 @@
+Title: Pop protection for KSM27
+Id: 2225
+Legacy Id: 2303
+
+Question:
+Please confirm correct model windsreen for this microphone. Use is studio only for pops and other plosive attacks.
+
+
+Answer:
+
+	The A32WS foam windescreen will fit the KSM27. Also consider the PS-6 Popper Stopper for studio use.

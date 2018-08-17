@@ -1,0 +1,15 @@
+Title: Microphones for nature recording
+Id: 1571
+Legacy Id: 1626
+
+Question:
+I want to take my mixer and a tape deck into the field to record nature sounds for "ambience" CD's. I'll be taping lake surf, rainstorms, birds, crickets and other low-sound-pressure sources. I'm in the market for an appropriate mic.
+
+I tried a friend's PG81 and really liked it. Do you have any other suggestions? I think a pair of mics would be preferable to a stereo mic, but would like to know if Shure makes a model that is particularly suited to this sort of environment.
+
+Answer:
+
+	In addition to the PG81, we also suggest the KSM44, KSM141, or VP88. The VP88 is a stereo microphone.
+	
+	And here is a link to a company that specializes in nature recording devices: http://www.telinga.com/
+

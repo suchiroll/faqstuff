@@ -1,0 +1,15 @@
+Title: UR1 Transmitter and WA340 Locking Ring for TA4F Connector
+Id: 3472
+Legacy Id: 3669
+
+Question:
+I am attempting to use the WA340 locking adapter on my six UR1 transmitters. The WA340 works on five transmitters. On one transmitter, the WA340 will not fasten. It appears that there are not enough threads on the UR1 TA4M connector and the WA340 cannot grab it. Any idea what is happening and how I can fix it?
+
+
+Answer:
+
+	When the UR1 was introduced, the TA4M mic connector was secured by a single shoulder nut.  Some users found that this shoulder nut could loosen up over time if the UR1 was subject to extreme vibration and movement.   If the TA4M became too loose, it could break away from the printed circuit board.
+	
+	Shure decided to add a star lock washer under the shoulder nut to hold it in place during severe vibration.  Adding the thickness of the lock washer reduced the number of exposed threads on the TA4M; these threads are what mate with the WA340 locking ring.  On a small number of UR1 transmitters, the lock washer is a bit thicker, as is the shoulder nut.  When this happens, there are not enough threads for the WA340 to fasten securely.  
+	
+	To solve this situation, remove the shoulder nut and the lock washer.  Use Lok-Tite thread adhesive (available at a hardware store) in place of the lock washer.  Apply a small amount of Lok-Tite to the TA4M threads, replace the shoulder nut and tighten it firmly.  The Lok-Tite will keep the shoulder nut secure.  Removing the lock washer will expose more threads for use of the WA340 locking adapter.

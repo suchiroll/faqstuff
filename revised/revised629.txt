@@ -1,0 +1,17 @@
+Title: Where is the best place to connect a monitor?
+Id: 629
+Legacy Id: 646
+
+Question:
+I have a monitor connected to a regular speaker.  Does this make the monitor more sensitive therefore causing less gain before feedback? What is the correct way to hook up a monitor.  I have a mixer going into the amp and from there the speakers are hooked up.
+
+By the way, do all mixers(including non-powered mixers) have an on/off switch.
+
+Answer:
+
+	Shure does not manufacturer loudspeaker monitors. Therefore, we have no expertise in this area.
+	
+	We suggest you post your question at: http://www.live-audio.com
+	
+	As to your second question, all professional mixers have an on/off switch.
+

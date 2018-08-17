@@ -1,0 +1,30 @@
+Title: Live Stereo Recording of opera singers
+Id: 2330
+Legacy Id: 2416
+
+Question:
+I frequently record recitals by classical (operatic) singers accompanied by grand piano. Please comment on your choices for a top-of-the-line system specifying mic selection and placement. Thanks!
+
+
+Answer:
+
+	1) For mic placement, read the booklets at: Educational Articles - Online Booklets and Bulletins
+	
+	Or purchase the book: Stereo Microphone Techniques; published by Focal Press
+	
+	2) Product suggestions for stereo miking set-up:
+	
+	1 - 15 foot tall mic stand (model S15A)
+	
+	1 - Stereo mic adapter (model A27M)
+	
+	2 - shock mounts (model A53M)
+	
+	2 - flat response condensor mics of the same model (models SM81; or KSM141; or PGA81; depending upon your budget)
+	
+	3) Or you could consider a one piece stereo mic, like the Shure VP88 and its shock mount the A88SM.
+	
+	There are lots of choices, and the choices depend upon your budget and what your ear likes to hear.
+	
+	Personally, I make quite satisfactory recordings with the Shure VP88 connected directly to a Sony mini-disc player with mic level inputs.
+

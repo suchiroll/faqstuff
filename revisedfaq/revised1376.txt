@@ -1,0 +1,16 @@
+Title: Wireless link between my guitar amp and my distortion pedal
+Id: 1376
+Legacy Id: 1428
+
+Question:
+I would like to make a wireless link between my amp and my distortion pedal.
+
+Is it possible? I know it's possible from my guitar directly to the amp but that's not what I want, I need my distortion pedal and I need it near me. The wire I want to eliminate is the wire between my pedal and my amp and it is about 10 to 12 feet long.
+
+
+Answer:
+
+	You probably wont like the results. Distortion pedals are designed to drive the audio input of a guitar amp, not the audio input of a wireless transmitter. A wireless link from the pedal to the amplifier will sound very different than a cable link. Overdriving a guitar amp may sound great; overdriving a wireless transmitter does not.
+	
+	We suggest you take your guitar, pedal, cables, and amplifier to a local music store. Set up your system with cables first, and get the sound you like. Then substitute a wireless system for the cable going from the pedal to your amp. If you like the sound, great. But do not be surprised if you do not like the sound.
+

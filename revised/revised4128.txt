@@ -1,0 +1,65 @@
+Title: Information Required for Frequency Coordination Assistance - Checklist
+Id: 4128
+Legacy Id: 4975
+
+Question:
+What information do I need to gather before requesting frequency coordination assistance for wireless microphones and in-ear monitor systems?
+
+
+Answer:
+
+	Frequency coordination of wireless audio systems is critical to successful operation of the equipment. In order to select and identify compatible frequencies, information about the project and venue are needed. Gathering this information in advance will simplify the frequency planning effort and reduce the time necessary needed to synthesize usable frequencies. Following is a checklist of information that is required:
+
+	
+
+	
+		Location of installation facility
+		
+			
+				ZIP Code is required.
+			
+				Street Address and City, although generally not required, may be helpful in some situations.
+		
+	
+	
+		Inventory of all existing wireless equipment at the installation facility:
+		
+			
+				Type: Wireless microphones, wireless in-ear monitors, wireless intercoms
+			
+				Manufacturer
+			
+				Model
+			
+				Frequency Band
+			
+				Frequency or Group and Channel
+			
+				Location in building, if multiple venues are involved
+		
+	
+	
+		Are problems being experiencing on any of the existing channels? If problems are being experienced, please describe what is happening.
+	
+		Description or schematic of existing receiving and transmitting antenna systems with location of antennas.
+	
+		Floor plan of installation facility, especially if wireless equipment is located in multiple rooms or different parts of the building. In situations where architectural drawings are not available, simple line drawings showing the floor plan layouts with dimensions are adequate.
+	
+		Are any two-way radio systems in use at the facility? Are the two-way radios ever used near the wireless audio equipment antennas? If so what frequencies are being used?
+	
+		Listing of equipment to be added:
+		
+			
+				Type: Wireless microphones, in-ear monitors, intercoms
+			
+				Manufacturer and model
+			
+				Frequency Band (if already purchased)
+			
+				Location in building, if multiple venues are involved
+		
+	
+	
+		RF Spectrum Scan - contact the area Shure sales representative for assistance if needed. This is especially important when larger numbers of wireless devices and frequencies are involved at facilities in major metropolitan areas.
+
+

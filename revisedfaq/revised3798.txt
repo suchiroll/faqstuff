@@ -1,0 +1,13 @@
+Title: SM57 and SM58 Model Number
+Id: 3798
+Legacy Id: 4036
+
+Question:
+On a Shure SM57 and SM58, where do the model numbers come from? Some people guessed that it was the year, but it wasn't since the SM57 was not even made available until 1965. If you could help me out here, it would be much appreciated.
+
+
+Answer:
+
+	SM stands for Studio Microphone, as the original market for Shure SM mics were TV, radio, and recording studios.  The number "5" in the model indicates a dynamic mic element.  Historically, most Shure dynamic mic models start with the number "5".  The Shure Unidyne Model "55" has been around since 1939.  "56", "57", and "58" were next in line to be used.
+	
+	SM56 introduced in 1964. SM57 introduced in 1965. SM58 introduced in 1966. 

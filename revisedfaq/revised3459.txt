@@ -1,0 +1,19 @@
+Title: KSM109 Grille Screen is Dented
+Id: 3459
+Legacy Id: 3653
+
+Question:
+I'm using the KSM109s as overheads for drum micing. I popped it with stick and put a dent in the screen. Is there a way I can unscrew or remove something to get to the inside and push it back out?
+
+
+Answer:
+
+	Using a small flat blade screw, turn the screw clockwise that is located on the KSM109 handle.  The screw is just above the lettering "PHM 48 VDC".   Turn the screw until is stops.
+	
+	Using needle nose pliers, grasp one pin of the XLR connector and pull away slowly by quite firmly.   The entire insides of the mic will separate from the outer housing.
+	
+	Using the handle of a wooden spoon, gently push out the screen grill.
+	
+	Reassemble the mic.
+	
+	Take your time and do not force anything,

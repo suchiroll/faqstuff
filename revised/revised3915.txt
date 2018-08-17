@@ -1,0 +1,14 @@
+Title: P10R battery adapter marked as REMOVE
+Id: 3915
+Legacy Id: 4162
+
+Question:
+What is the purpose of the black plastic piece, in the P10R battery door, marked as REMOVE?
+
+
+Answer:
+
+	When using two AA cells, this piece helps to keep the two cells secure. When using a Shure SB900A rechargeable power pack, this piece is removed as the pack is slightly larger that two AA cells.
+	
+	The part number for this piece is 65A15224.
+

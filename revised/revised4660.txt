@@ -1,0 +1,35 @@
+Title: SCM810 problems
+Id: 4660
+Legacy Id: 5825
+
+Question:
+I have been trying to track down audio problems in our conference room. Channel 3 in SCM810 #1 will not work, Channels 6,7,8 (for us 14,15,16) of SCM810 #2 will not work. I have verified that the microphones (MX412) are good, the cables from the room to the RKC800 are good, the Phoenix connectors are properly attached and properly seated.I tried testing with a 50' external XLR with a SM63 hand microphone and channels 14 15 work with it but they do not work with the MX412. Channel 8 (16 on our set up) of SCM810 #2 actually passes audio back through the SM63 , which surprised me. Any Suggestions?
+
+
+
+Answer:
+
+	
+		We recommend this exact troubleshooting procedure to see if the mixer is defective.
+	
+		1) Unlink the mixers.
+	
+		2) Use headphones to the monitor the mixer output via the front panel jack.
+	
+		3) Turn off Last Mic Lock On using the DIP switch set on the rear panel.
+	
+		4) Use one, and only one, MX412. Use one, and only one, connecting cable.
+	
+		5) Place the MX412 in front of a radio with a talk station tuned in. Do NOT use music as a source.
+	
+		6) Set all input knobs on the mixer front panel to the same setting.
+	
+		7) Connect the MX412 into input #1. Monitor with the headphones. Listen to the level and the fidelity.
+	
+		8) Disconnect the MX412 from input #1 and move it to input #2. The level and fidelity should be nearly identical. Test the remaining inputs using the same procedure.
+	
+		The method above will show if there is a mixer defect. If so, contact Shure Service for repair: 800-516-2525.
+
+
+
+

@@ -1,0 +1,15 @@
+Title: Difference between A44M and A32M for KSM Mics
+Id: 2969
+Legacy Id: 3097
+
+Question:
+1) Do the A32M and A44M have the same size threads?
+
+2) And can a KSM27 fit on the A44M or A32M?
+
+
+Answer:
+
+	1) Yes. (A32M is black in color; A44M is champagne in color.)
+	
+	2) Yes.

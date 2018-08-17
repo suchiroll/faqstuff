@@ -1,0 +1,18 @@
+Title: Table Microphone for recording
+Id: 1348
+Legacy Id: 1400
+
+Question:
+Which microphone would be best for the following application:
+
+
+Approximately 4 ft. round table; min. of two persons, with as many as 5 persons at table; relatively quiet surroundings; base of mic perhaps hidden in a flower arrangement; hard wired ok..have existing 3 pin hookups
+
+
+Could this be done with one mic, or would two be better?
+
+
+Answer:
+
+	Assuming this microphone will be used for recording, we suggest one omnidirectional boundary microphone, like the Shure MX390 series.
+

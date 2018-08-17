@@ -1,0 +1,12 @@
+Title: M97xE Mount Dimension
+Id: 5041
+Legacy Id: 6333
+
+Question:
+What is the distance for the stylus diamond tip to the middle of the screw mounting holes?
+
+
+Answer:
+
+	This distance is 10 mm.
+

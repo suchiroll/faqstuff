@@ -1,0 +1,17 @@
+Title: A13HD Mounting Flange
+Id: 3779
+Legacy Id: 4015
+
+Question:
+Please provide basic dimensions for the A13HD mounting flange.
+
+
+Answer:
+
+	The A13HD is metal and has these characteristics:
+	Diameter: 3.0 inches
+	Total height: 1.312 inch
+	Base thickness: 0.52 inch
+	Length of 5/8-27 external thread: 0.792 inch
+	Three holes for mounting screws are located every 120 degrees and 1.0 inch out from center.
+

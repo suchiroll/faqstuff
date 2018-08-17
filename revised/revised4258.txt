@@ -1,0 +1,12 @@
+Title: Guitar and Vocal combo wireless system
+Id: 4258
+Legacy Id: 5315
+
+Question:
+Can one wireless receiver system provide wireless capability for both a vocal headset and a guitar? or - do you require a seperate system for both? I am interested in making both vocals and guitar wireless but not sure I want to spent double the cash on a receiver - i would probably only go wireless for headset and remain plugged in for guitar if this cannot be done.
+
+
+Answer:
+
+	If you dont want to use two separate systems, we suggest the use of wireless system that has dual channel receiver. In this case, both handheld and body pack can use on the same dual receiver. Take a look at the BLX series.
+

@@ -1,0 +1,16 @@
+Title: Microphone for church group singing
+Id: 1000
+Legacy Id: 1029
+
+Question:
+---- 04/16/2001 03:29 PM ---------------------------------------------
+
+I lead a Contemporary music group at church and presently use 4 Shure PE10D microphones plugged into a Yorkville 8 input PA. Our current mics provide decent vocal sound, however, I was wondering which model mic might have improved performance, especially when using 1 or 2 mics to pick up a group ensemble (sometimes children with weaker voices) over the existing older PE10D's. Would appreciate your input.
+
+
+Answer:
+
+	For area miking, we suggest a cardioid condenser microphone. Condenser microphones are more sensitive and have a wider frequency response than dynamic microphone like the PE10s. Condenser microphones will need a DC voltage to operate. Some will accomodate a AA battery, and some microphones will only operate from phantom power.
+	
+	Depending on your budget, Shure suggests KSM32, SM81, SM94, and/or PG81.
+

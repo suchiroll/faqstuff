@@ -1,0 +1,17 @@
+Title: Stylus for 78s for M55E cartridge
+Id: 215
+Legacy Id: 216
+
+Question:
+I have a Shure M55E cartridge and would like a stylus that will play my old 78 records. I note that the N78S will fit all current Shure cartridges - will it fit my old M55E? If not, what other solutions are there?
+
+Answer:
+
+	The N78S will not fit the M55E body. This is for certain as I tried it.
+	
+	Two suggestions:
+	
+	1. Try your existing M55E as is. Set the tracking weight to 2 grams which is the maximum for the stylus. The tip will ride lower in the groove than a typical 78 stylus. If you are pleased with the sound, mission accomplished.
+	
+	2. Purchase the M78S cartridge. Or purchase the M70BX cartridge and the N78S stylus.
+

@@ -1,0 +1,12 @@
+Title: 520DX Volume Pot Value in Ohms
+Id: 3628
+Legacy Id: 3835
+
+Question:
+I have a 520 DX greenbullet, can you tell me how many ohms the volume control is?
+
+
+Answer:
+
+	100,000 ohms.
+

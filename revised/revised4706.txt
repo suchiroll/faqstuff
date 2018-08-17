@@ -1,0 +1,23 @@
+Title: Motiv MVi compared to X2u
+Id: 4706
+Legacy Id: 5876
+
+Question:
+Please compare the MVi to the X2U USB interface.
+
+
+Answer:
+
+	X2U:
+	USB only
+	Input: XLR-Female
+	Bit Depth / Sampling Rate: 16-bit / 48kHz
+	Adjustable Gain Range: 50dB
+	Phantom Power: 48 volts
+	
+	MVi:
+	USB or iOS
+	Input: XLR-Female or ¼" phone jack, Tip-Sleeve
+	Bit Depth / Sampling Rate: 24-bit / 48kHz
+	Adjustable Gain Range: 36dB
+	Phantom Power: 48 volts from USB, 12 volts from iOS device

@@ -1,0 +1,18 @@
+Title: Making a Handheld Transmitter Rain Resistant
+Id: 4026
+Legacy Id: 4435
+
+Question:
+An outdoor gun practice range has a Shure wireless system. The handheld transmitter is used year-round. Any ideas on how to make the resistant to rain? I realize it cannot be made water-proof.
+
+
+Answer:
+
+	1) To protect the transmitter handle and the switches, install the Shure WA555 plastic grip cover.
+	
+	2) To protect the mic element, install a foam windscreen, such as the Shure A58WS.
+	
+	3) To protect the transmitter from rolling off a table or other surface, install the Shure A1K anti-roll device.
+	
+	The three ideas above apply to most Shure handheld transmitters, though there are some exceptions due to dimensional differences.
+

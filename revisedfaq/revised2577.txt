@@ -1,0 +1,16 @@
+Title: ME95ED Cartridge Specifications
+Id: 2577
+Legacy Id: 2676
+
+Question:
+I have an ME95ED cartridge fitted to my turntable. I would like to know the output in mV, and whether the cartridge is a moving magnet cartridge?
+
+
+Answer:
+
+	1) 4.7mV per channel at 1,000 Hz at 5 cm/second peak recorded velocity
+	
+	2) moving magnet
+	
+	3) 0.75 to 1.5 gram tracking range
+

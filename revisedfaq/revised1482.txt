@@ -1,0 +1,15 @@
+Title: Shure M75-6 TYPE 2
+Id: 1482
+Legacy Id: 1535
+
+Question:
+I own a Shure M75-6 TYPE 2. What is the modern equivalent and how much would it cost?
+
+
+
+Answer:
+
+	Option 1: Replace the stylus with a new stylus, model N75-6. This will restore your M75-6 Type 2 to like-new performance. Finding one may be difficult as Shure no longer makes it.
+	
+	Option 2: Replace the entire cartridge with Shure model M44-7.
+

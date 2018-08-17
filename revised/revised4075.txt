@@ -1,0 +1,12 @@
+Title: Windscreen for the 503BG microphone
+Id: 4075
+Legacy Id: 4647
+
+Question:
+What model of windscreen should I purchase for the 503BG microphone?
+
+
+Answer:
+
+	There is no model specific to the 503BG.However, the model A1WS should fit OK.
+

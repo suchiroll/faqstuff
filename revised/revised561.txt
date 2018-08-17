@@ -1,0 +1,12 @@
+Title: Leaving the wireless microphone receiver on all the time
+Id: 561
+Legacy Id: 572
+
+Question:
+I have a customer that is hoping to leave their UT series receiver plugged in all the time, due to location of the receiver. Is there any real concern for doing this? Heating problems or such? Please let me know what to advise them. Thank you.
+
+
+Answer:
+
+	Leaving the UT receiver on all the time will not cause any problems. Many systems are set up this way. Keep in mind that the UT receiver may pick up stray RF signals when the UT transmitter is not active. Adjusting the squelch on the UT receiver is recommended if this proves to be a problem.
+

@@ -1,0 +1,14 @@
+Title: DFR11EQ Version 4 All Clear - Factory Default
+Id: 2548
+Legacy Id: 2646
+
+Question:
+How do I return a DFR11EQ-V4 to the factory default setting? Is there a hard reset?
+
+
+Answer:
+
+	With the unit powered off, hold down the LOCK and CLEAR buttons.
+	
+	Power the unit on while holding the LOCK and CLEAR buttons for 10 seconds.
+

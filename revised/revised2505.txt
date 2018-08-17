@@ -1,0 +1,35 @@
+Title: Timetable/history of the V15 cartridge models
+Id: 2505
+Legacy Id: 2601
+
+Question:
+How long has the V15 been in production? What are the model differences?
+
+
+Answer:
+
+	A brief history of the V15:
+	
+	V15 1964-1966
+	V15 Type II 1966-1970
+	V15 Type II Improved 1970-1973
+	V15 Type III 1973-1978
+	V15 Type IV 1978-1982
+	V15 Type V 1982-1983
+	V15 Type V-MR 1983-1993
+	V15 Type VxMR 1996-2005
+	
+	One distinctive difference between each generation of the V15 is the shape and dimensions of the Pole Pieces and Stylus Brass Housing. This means that the styli are not interchangeable from one generation to the next. They do not provide a proper fit, or alignment, between the Magnet and Pole Pieces.
+	
+	In 1983, Shure introduced the Micro-Ridge (MR) diamond for the V15 Type V. Shure also offered the Micro-Ridge diamond on replacement styli for V15 Type III and Type IV. Again, long term quantities were estimated and produced. Circumstantially, the tooling for the V15 Type V allowed for additional production of Type III replacement styli. This accounts for the larger availability of Type III and Type V replacement styli.
+	
+	Shure experienced dramatic shifts in demand for phono cartridges when the CD Player was introduced in the late 1980s. In the early 1990s cartridge sales plummeted, OEM business ceased, and Shure gave serious consideration to ending all phono production.
+	
+	In 1995, under new phono management, Shure re-engineered our phono products and manufacturing process to allow us to produce significantly lower quantities, maintain our quality standards, locate reliable suppliers, and maintain a fair market price. The action allowed Shure to remain in the phono cartridge business, but unfortunately, required that we cease to support pre-1995 products beyond the final inventory build-ups.
+	
+	For V15 products, a replacement stylus was typically available for years after the cartridge was officially discontinued. Some inventory usually remained in the retail channel for 2-3 years.
+	
+	Shures inventory of VN45E, VN45HE, and VN45MR styli completely expired in the late 1990s. We are unable to re-produce this part due to scarcity of tooling and raw materials.
+	
+	The V15VxMR, was discontinued in 2005. As of June 2005, there are no plans to design another V15 cartridge.
+

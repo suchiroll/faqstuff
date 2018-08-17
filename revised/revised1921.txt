@@ -1,0 +1,29 @@
+Title: 10 wireless systems for speech?
+Id: 1921
+Legacy Id: 1982
+
+Question:
+Please respond as soon as possible:
+
+I have a customer with a hall of (90ft X 60ft) with chairs against all 4 walls. We currently have one NUTONE amp Model CT-60 / AC0982 with 4 wired mikes. We need several wireless lavelier type mikes (up to 10 units) with the members around the hall so they can be heard when they talk from any area. in general all of them may talk at the same time but for budget purpose we can enforce the issue of one person to talk at a time. Would you please give me an idea what is needed for best solution equipments (needed and cost). please provide two solutions the best pic and the average pic.
+
+
+Answer:
+
+	1. The proper solution is to employ 10 wireless systems, each on its own unique frequency. This allows all 10 to operate at the same time. The least expensive wireless system that can provide ten simultaneous systems is the PGX Series.
+
+	
+	Also required is one SCM810 eight channel auto mixer ($1,750 retail) and one SCM410 four channel automixer ($974 retail): htt-p://ww-w.shure.com/scm810.html These are linked to provide a 12 input auto mixer to handle the 10 audio signals from the LX wireless.
+	
+	Including labor, this recommended system would run between $15,000 and $20,000 installed.
+	
+	2. The inexpensive solution is to have one handheld wireless mic and pass it around. The model TV31D ($500 retail) would be fine: ht-tp://w-ww.shure.com/tvocal.html It will require that your NUTONE amp have one available open mic input.
+	
+	3. We cannot recommend using one receiver and having ten transmitters on the same frequency. This will work as long as only one tranmitter is powered on and the other nine are powered off. As soon as one person forgets to power off his transmitter when done speaking, the system will fail. Having two identical transmitters powered on at the same time will produce no audio or distorted audio.
+	
+	Do you honestly think that you can rely on the users of this system to consistently keep only one transmitter on at a time? Our experience indicates that this is not in keeping with human nature.
+	
+	We also suggest you read: ht-tp://w-ww.shure.com/pdf/booklets/meeting.pdf
+	
+	Other questions? Call Shure at 800-516-2525, then press 4.
+

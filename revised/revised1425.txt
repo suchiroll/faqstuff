@@ -1,0 +1,23 @@
+Title: In ear compatibility with existing monitoring system
+Id: 1425
+Legacy Id: 1478
+
+Question:
+Our Church Praise Band currently has 8 Furman HRM16 remote monitor mixing stations for each musician to set up their own custom headphone mix. ( back up singers get a traditional Wedge monitor with a console controlled mix) Each musician I really need to get him some in ears --which he is willing to use.
+
+Can we use the E1 or E5 in-ear phones with our Furman HRM16 units if we go into the headphone out of the unit?   We do not need a wireless system from the main mixing console, because we already have the Furman system that goes from the console to the 8 stage positions and everyone loves them. If we can find a way to match up in-ear phones for the leader, we may use them for some other band members as well.
+
+If I need to buy more than just the E1 or E5, please tell me exactly what I need. I do not want to order the entire system, if I only need the head sets and I would really like to try a pair of the E5's.
+
+---- 07/25/2001 11:50 AM ----------------------------------------------
+ HRM -16 specs:
+line outputs on back of unit: balanced or single ended, 50 ohms, 68dB OCMR
+
+Headphone outputs: there are 2 of them --but I can't find where it gives their output levels.  We primarily use the high end Sony stereo headphones with them --but have used others with no problems. I will call Furman if the above info does not help.
+
+Answer:
+
+	Please provide the specs for the headphone output jack on the Furman HRM16. We can then tell you if the E1 or E5 will work. Both E1 and E5 have 3.5mm stereo mini-phone plugs at the end of the cable.
+	
+	At 07/25/2001 12:00 PM we wrote - If you can drive Sony stereo headphones, you can use the E1 or E5. The E5 have an extended low end, preferred by drummers and bass players. Buy whichever you prefer, plug them, and go.
+

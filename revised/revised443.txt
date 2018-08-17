@@ -1,0 +1,19 @@
+Title: Placement of bass drum mic
+Id: 443
+Legacy Id: 452
+
+Question:
+I have a SM91 Shure mic. My band hooked up a sub with a PV400 amp and I couldn't seem the get any punch from the mic. I have it inside my 22" bass drum in the middle, on the bottom, should I raise it up a little are, is this not the correct mic for the job. We play Rock and Roll.
+
+
+
+Answer:
+
+	The SM91 was a popular bass drum mic (it has been replaced by the Beta 91A). But perhaps it does not suit your taste. Many customers prefer the Beta 52, a mic designed from scratch as a bass drum mic.
+	
+	Before you give up on the SM91, experiment with placement. Where it will sound best depends upon the internal acoustics of your bass drum. Try placing it on a pillow to isolate it from the drum shell.
+	
+	Mic placement is more art than science. You will need time to experiment and someone to play the kick while you listen to the sound of each mic placement you try. You may decide you simply dont like the SM91 sound. A mic is like a musical instrument. Often you have to audition quite a few until you find one you like.
+	
+	Sorry we cannot give you a definitive answer, but there is not one. Experiment with positioning and try other mics.
+

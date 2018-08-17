@@ -1,0 +1,15 @@
+Title: Parabolic reflector microphone
+Id: 2188
+Legacy Id: 2262
+
+Question:
+Does Shure offer such a product .... possibly with a low noise amplifier? If not, can you identify a vendor that might offer such a product?
+
+
+Answer:
+
+	The SM63 is often used in a reflector.
+
+	
+	Reflectors are made by Crystal Partners of Carol Stream, Illinois.
+

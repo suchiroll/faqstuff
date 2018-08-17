@@ -1,0 +1,12 @@
+Title: Model MI88L-CN
+Id: 1355
+Legacy Id: 1407
+
+Question:
+I have a Shure Unisphere B mic. Please, can you tell me more about it , specs. and so forth.
+
+
+Answer:
+
+	The MI88L-CN is a variation of the Shure 588. It was custom packaged for a large customer that requested a unique model number.
+

@@ -1,0 +1,12 @@
+Title: M44-7x cartridge and replacement needles
+Id: 1039
+Legacy Id: 1071
+
+Question:
+I've got the old M44-7X cartridges and I've run out of replacement needles for them. Will the new N44-7 and N44GX replacement needles work with them?
+
+
+Answer:
+
+	Sorry, the newer styli will not fit into this older M44-7X cartridge.
+

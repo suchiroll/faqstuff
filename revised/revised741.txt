@@ -1,0 +1,18 @@
+Title: What is Phantom Power?
+Id: 741
+Legacy Id: 760
+
+Question:
+What is a "phantom powered" microphone? Does that mean that the microphone draws its power from a remote source?
+
+
+Answer:
+
+	Phantom power is used with condenser microphones. It is called phantom power because there is noobvious external power supply for the condenser mic; the power supply is invisible and therefore a phantom.The mixer sends voltage up the same wires that the audio is traveling down. Thus, the microphone is receiving the power remotely from the mixer.
+	
+	Phantom power is a DC voltage (usually 12-48 volts) used to power the electronics of a condenser microphone. For some (non-electret) condensers it may also be used to provide the polarizing voltage for the element itself. This voltage is supplied through the microphone cable by a mixer equipped with phantom power or by some type of in-line external source. The voltage is equal on Pin 2 and Pin 3 of a typical balanced, XLR-type connector. For a 48 volt phantom source, for example, Pin 2 is 48 VDC and Pin 3 is 48 VDC, both with respect to Pin 1 which is ground (shield).
+	
+	Because the voltage is exactly the same on Pin 2 and Pin 3, phantom power will have no effect on balanced dynamic microphones: no current will flow since there is no voltage difference across the output. In fact, phantom power supplies have current limiting which will prevent damage to a dynamic microphone even if it is shorted or miswired. In general, balanced dynamic microphones can be connected to phantom powered mixer inputs with no problem.
+	
+	
+

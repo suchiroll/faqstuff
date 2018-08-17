@@ -1,0 +1,24 @@
+Title: 48 Volt Phantom Power - Is it always required?
+Id: 4374
+Legacy Id: 5465
+
+Question:
+I have a condenser mic and the specifications state that it requires 48 volts of phantom power. Will it work with 24 volts of phantom power? How about 12 volts of phantom power?
+
+
+Answer:
+
+	The answer is....it depends upon the microphone design and circuitry. Here are a few generalizations:
+
+	
+		Most microphones will operate with phantom voltage as low as 12 volts up to a high of 48 volts.
+	
+		Most microphones have the same operating specifications no matter the actual phantom voltage.
+	
+		Some microphones may have a lower clipping (distortion) point if provided less than 48 volts of phantom.
+	
+		A few microphones will not operate properly if provided less than 48 volts of phantom, but the lower voltage will not damage the microphone.
+
+
+	Remember, most specification sheets and user guides are written/edited by the marketing department, and not the engineering department. So it is often necessary to contact the microphone engineers about using a lower phantom voltage as the microphone specification sheets may not be 100% correct.
+

@@ -1,0 +1,39 @@
+Title: Centraverse Microphones - Facts, Features, and Applications
+Id: 5361
+Legacy Id: 5143
+
+Question:
+Centraverse Microphones - Facts, Features, and Applications
+
+Answer:
+
+	What are the key differences between Microflex and Centraverse?
+	- Fixed, non-interchangeable capsules
+	- No TTL logic
+	- Different microphone cartridge design / sound signature
+	
+	Is there any wiring/soldering involved with installing Centraverse?
+	- No. Each Centraverse microphone has a male XLR output connector. The boundary microphone models have an attached 12 foot cable. The overhead hanging models have an attached 25 foot cable with an inline preamp.
+	
+	Are Centraverse Microphones GSM Immune / Commshield Equipped?
+	- Yes
+	
+	Do Centraverse models have TTL logic controls?
+	- No. Centraverse microphones are targeted primarily for sound reinforcement applications, and therefore do not offer TTL logic control of the microphone LED or Mute Switch.
+	- For traditional teleconferencing applications where Acoustic Echo Cancellation (AEC) is deployed, using a microphones mute switch without TTL logic is not recommended.
+	
+	Can I use Centraverse microphones with Skype? (Desktop Conferencing)
+	- Yes. An XLR to USB audio interface (such as the Shure X2u or MVi) may be used to connect Centraverse microphones to the computer for Skype/Lync/Facetime, et al.
+	
+	How is a Centraverse microphone mounted to a suface?
+	- A gooseneck microphone can be mounted to a table/surface with the included flange mount (drilling into surface is required). It can also be mounted in a podium application using the Shure A57F microphone clip. The CVD Desktop Base securely holds a Centraverse gooseneck on any stable, flat surface. The CVD base may be mounted to a surface using the mounting holes on the bottom of the unit.
+	- A boundary microphone may be mounted to a surface using the mounting holes on the bottom of the unit.
+	- An overhead microphone includes a metal wire-form hanger and plastic aiming guide to hang/aim the unit in the desired location.
+	
+	What accessories are provided with the Centraverse microphones?
+	- CVG Gooseneck: flange mount; snap-fit windscreen
+	- CVO Overhead: metal wire-form hanger; plastic aiming guide
+	
+	What is the introduction date of the Centraverse microphone line?
+	- November 2012.
+

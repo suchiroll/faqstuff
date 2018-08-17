@@ -1,0 +1,12 @@
+Title: PGA58 Impedance - Low or High?
+Id: 2763
+Legacy Id: 2871
+
+Question:
+Are the PGA58's different in impedance when you get the 1/4" cable. Are the XLR and 1/4" both low impedance mics?
+
+
+Answer:
+
+	Both are low impedance. To obtain a high impedance PGA58, add the A85F transformer at the end of the XLR cable.
+

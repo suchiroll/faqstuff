@@ -1,0 +1,11 @@
+Title: Where can I find information about the Shure Axcess wireless system?
+Id: 153
+Legacy Id: 153
+
+Question:
+I recently purchased a T4V Diversity Receiver (AXSLWD) with the transmitter from a 3rd party . I have been looking for a manual for the reciever on the Shure website, but it is not listed.
+
+
+Answer:
+
+	The User Guides for the Access system can be found at the following link: http://www.shure.com/americas/support/user-guides/discontinued-products/wireless-systems

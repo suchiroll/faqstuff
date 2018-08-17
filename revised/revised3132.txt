@@ -1,0 +1,21 @@
+Title: Shure Smart-Amp RF amplifier
+Id: 3132
+Legacy Id: 3266
+
+Question:
+Please provide details about the Shure Smart-Amp RF amplifier.
+
+
+Answer:
+
+	In the 1980s, Shure distributed a line of RF amplifiers for use with two-way mobile radios to boost transmitting power. These amps were powered by the vehicles 12-volt battery. These products were distributed through radio microphone distributors.
+	
+	These products were manufactured by Vocom Products, located in Schaumburg, Illinois. Phone: 800-872-6233 or 847-908-5400.
+	(www.vocom-rf.com)
+	
+	The Smart-Amp RF-U3 and RF-U4 models were UHF frequency amplifiers with 100 watt rated output fo 10 watt input. The RF-U3 amplifier operated between 450 to 460 Mhz. The RF-U4 amplifier operated between 460 to 470Mhz. Each had a 30 amp in-line fuse.
+	
+	The Smart-Amp RF-V1 and RF-V2 models were VHF frequency amplifiers with 80 watt rated output for a 25-watt input. The RF-V1 operated between 150 to 160Mhz. The RF-V4 models operated between 160 to 170Mhz. Each had a 15 amp in-line fuse.
+	
+	The Smart-Amp RF-V3 and RF-V4 models were VHF frequency amplifiers with 80 watt rated output for a 10 watt input. The RF-V3 operated between 150 to 160Mhz. The RF-V4 model operated between 160 to 170Mhz. Each had a 15 amp in-line fuse.
+

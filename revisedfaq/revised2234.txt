@@ -1,0 +1,14 @@
+Title: Model 16A microphone - phantom power?
+Id: 2234
+Legacy Id: 2314
+
+Question:
+According to the user's guide Shure 16A doesn't work with phantom power, does it? What is the cheapest Shure condenser microphone for acoustic instrument recording, such as flute, acoustic guitar, violin, cello, that works with phantom power?
+
+
+Answer:
+
+	The 16A operates only from an internal battery. Look at the model PG81 as an upgrade.
+
+	Also, see: Which Microphone should I use on ... ? (Selection Guides)
+

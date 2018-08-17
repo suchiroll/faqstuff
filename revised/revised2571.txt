@@ -1,0 +1,12 @@
+Title: I need 4 separate monitor mixes. Can I do this with 1 transmitter?
+Id: 2571
+Legacy Id: 2670
+
+Question:
+Our band is a 5-member band. 4 of us need the wireless ear monitors. Each mix will need to be custom. We are wondering the best way to do this both economical and sound quality. Can it be done with one (1) transmitter and 4 receivers?
+
+
+Answer:
+
+	No. At a minimum you will need two stereo transmitters. Each transmitter can send one stereo mix or two mono mixes.
+

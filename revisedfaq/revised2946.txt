@@ -1,0 +1,14 @@
+Title: Splitting Guitar to hear in Personal Monitors and send to Wireless Pack.
+Id: 2946
+Legacy Id: 3073
+
+Question:
+Is there a way that will allow me to hook up wireless transmitter to my guitar and monitor what I'm playing?
+
+
+Answer:
+
+	It is possible to do this with two Shure bodypacks.
+
+	Use the PA213 or PA214 splitter cable. This will split the guitar signal to any Shure bodypack transmitter and to the PSM200 bodypack (P2R). The headphones will plug into the PSM200 bodypack so you can listen to your guitar signal. The User Guide for the PA213 and PA214 have excellent diagrams on how to connect the system together.
+

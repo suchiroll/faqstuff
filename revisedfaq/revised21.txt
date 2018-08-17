@@ -1,0 +1,18 @@
+Title: 545S wiring
+Id: 21
+Legacy Id: 21
+
+Question:
+I recently acquired a 545S microphone. It can be wired for hi-Z and lo-Z but cannot find any info pertaining to the 4 pin connector. I am not certain if impedance selection is done via the connector pins or internally.
+
+
+Answer:
+
+	The 545S microphone has a four pin MC4F Amphenol connector.
+	
+	Pin 1 (sleeve of 1/4 phone plug) and pin 2 (tip of 1/4 phone plug)of this connector are the high impedance output. Pin 2 is hot.
+	
+	Pin 3 (XLR pin 3) and pin 4 (XLR pin 2)are the low impedance balanced output. Pin 4 is hot. Pin 1 is the ground/shield (XLR pin 1.)
+	
+	The mating connector to the 545S MC4F is Amphenol part MC4M.
+

@@ -1,0 +1,12 @@
+Title: Shure Microphone Model 98A108A
+Id: 4899
+Legacy Id: 6157
+
+Question:
+Please provide a User Guide for the Shure measurement microphone model 98A108A.
+
+
+Answer:
+
+	See PDF file below.
+

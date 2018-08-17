@@ -1,0 +1,32 @@
+Title: Inverse Square Law
+Id: 4134
+Legacy Id: 5023
+
+Question:
+As the microphone gets closer to my mouth, the signal gets louder. What is the underlying principle of this change in level?
+
+
+Answer:
+
+	This phenomenon of physics is called the inverse square law, andit applies tolight and sound, as well asother types of energy. To understand it for sound, lets first discuss the deciBel or dB.
+
+	If an audio signal is 3 dB louder, this is a noticeable increase.If an audio signal is 6 dB louder, this is a significant increase.If an audio signal is 9 dB louder, it is considered nearly twice as loud by most listeners.
+
+	When a mic is moved closer to the talkers mouth, the mic output signal increasesbut by how much? Here is the mathdont be afraidit wont hurt and it is very useful.
+	a)Divide the old distance from the new distance.Mic was 12 inches away and is moved to 3 inches away.
+	b)12 divided by 3 = 4.
+	c)Calculate the log (logarithm) of 4 by pressing the LOG button on the calculator.
+	d)Log of 4 = 0.60
+	e)Multiply the log of 4 by 20.
+	f)0.60 x 20 = 12.0 dB
+	g)Moving the mic from 12 inches to 3 inches will increase the mic output signal by 12.0 dB.
+	
+	Lets do one more.Mic is 2 inches away and is moved to 0.25 inches.
+	a)2 divided by 0.25 = 8
+	b)Log of 8 = 0.9
+	c)0.9 x 20 = 18 dB
+	d)Moving the mic from 2 inches to 0.25 inches will increase the mic output signal by 18.0 dB.
+	e)Moving the mic from 2 inches to 0.25 inches provides a greater increase in signal than moving the mic from 12 inches to 3 inches!
+	
+	Always remember that it is not about the actual number of inches moved; it is about the ratio of the two distances.Moving a mic from 24 inches away to 12 inches away provides the same level increase as moving the mic from 2 inches away to 1 inch away.It is the ratio that is important; not the measured distance.
+

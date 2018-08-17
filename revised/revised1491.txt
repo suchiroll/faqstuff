@@ -1,0 +1,14 @@
+Title: Number of mics/transmitters on one receiver
+Id: 1491
+Legacy Id: 1544
+
+Question:
+How many mics/transmitters will run on one receiver. I am presuming five, but perhaps I misread the information. Also, if multiples are available, are they different frequencies?
+
+
+Answer:
+
+	How many mics/transmitters will run on one receiver? * One transmitter.
+	
+	If multiples are available, are they different frequencies? * Each transmitter requires its own receiver; and each transmitter/receiver pair requires its own unique frequency.
+

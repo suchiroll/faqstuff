@@ -1,0 +1,15 @@
+Title: Shure S53P and S55P Low Profile Mic Stands
+Id: 5435
+Legacy Id: 6385
+
+Question:
+What were the S53P and S55P mic stands? When were they introduced?
+
+Answer:
+
+	Introduced in 1970 ($31.25), the S53P and the S55P were tripod stands designed for miking a stage.
+	
+	The microphone was held in an air-filled rubber doughnut to isolate it from floorvibration. The mic was positioned parallel to the stage floor - about 1/8 above the floor. Thisunusual positioning minimized comb filtering; it also increased the microphone output level because of the acoustic boundary effect provided by the stage floor.
+	
+	For a complete explanation with diagrams, see the PDF file attached below.
+

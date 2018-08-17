@@ -1,0 +1,14 @@
+Title: Repair parts for model 555
+Id: 2394
+Legacy Id: 2486
+
+Question:
+I am looking for a source to buy parts for a Shure model 555 microphone. In particular I need the 3 internal shock mount bushings that have dry rotted. Also the wind screen material that lines the inside of the housing. Any additional information you may be able to provide on the wiring of this mic would be appreciated.
+
+
+Answer:
+
+	Sorry, but we no longer have parts for the 555.
+	
+	You might have luck with collectors of old mics. We suggest you start with: Tom Ellis - tomsmics@flexcomp.com
+

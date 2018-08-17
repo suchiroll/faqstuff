@@ -1,0 +1,12 @@
+Title: Model 810 Speaker/Mike to Motorola MTS2000
+Id: 220
+Legacy Id: 221
+
+Question:
+Is there a cordset that will mate the model 810 speaker/microphone to a Motorola MTS2000 series handheld radio? If not, is there a way that the Motorola cordset from their model NMN6193B can be modified to fit the model 810? We are having to replace many of the Motorola speaker/microphone units because the PTT activator breaks off and cannot be replaced.
+
+
+Answer:
+
+	Our standard cordsets will not mate the 810 with a Motorola MTS2000. In order to get the 810 to connect to the MTS2000, you would need to get the ALM1 cordset which has no connector on the radio end. You can then add your own appropriate connectors to the ALM1 cordset.
+

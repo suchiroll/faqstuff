@@ -1,0 +1,13 @@
+Title: Broken SM57
+Id: 650
+Legacy Id: 667
+
+Question:
+I have a SM57 mic that is broken.  It's past warranty, but I heard that you guys can fix them anyway.  I was wondering if you can and how much it would cost.
+
+Answer:
+
+	Information concerning service, repair, parts and warranty of all Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

@@ -1,0 +1,16 @@
+Title: Remote Antenna for UC wireless
+Id: 919
+Legacy Id: 947
+
+Question:
+I work for a consulting firm and am currently working on a project that I have specified your UC Wireless product. I am looking for guidance as to which type of remote antenna be used and where to properly locate them. The receiver will be rack mounted in a control room. The outside face of the control room faces the performance area (its an arena). The microphone will be line of site about 150' to 200' away. I am considering mounting the antennas to the control room wall, is this correct? The distance to the rack is between 25 to 35 cable feet to the antenna. Which antenna and mounting hardware is required? How far apart should the antenna be? Do I need inline RF amplifiers? Thank you for your time.
+
+
+Answer:
+
+	Use the UA500 antenna kits. These kits consist of a 1/2 wave antenna and mounting bracket. You would need to use RG-8/U cable to run that far away from the receiver.
+	
+	Our in-line amplifiers (UA830) require dc voltage to operate. This dc voltage is available on the UHF receivers antenna connections (Like the U4S or U4D), but not on the UC receivers. An external DC voltage injector box would have to be constructed.
+	
+	The antennas should be at least a wavelength apart. In this case, at least 17 inches apart.
+

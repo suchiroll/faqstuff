@@ -1,0 +1,14 @@
+Title: Powering SM93 from camcorder
+Id: 2053
+Legacy Id: 2118
+
+Question:
+I have a Sony VX2000 minidv camcorder. Can I use the SM93 microphone with this kind of cameras? I don´t know if I need phantom entries to power it (this camera hasn´t got...) . if so, how can I give energy to the mic? thanks
+
+
+Answer:
+
+	You will need an interface such as theBeachtek or JuicedLink interfaces.
+
+	The SM93 requires phantom power. The interface is necessary to supply the phantom power.
+

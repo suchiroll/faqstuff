@@ -1,0 +1,19 @@
+Title: Stylus for V15RS
+Id: 580
+Legacy Id: 592
+
+Question:
+I have a Realistic cartridge (V15RS) with a Shure stylus. Can you give me a replacement model number for the stylus. The one I have has no number. Radio Shack has several models that look similar.
+
+At 01/22/2001 01:37 PM you wrote - I went to the shack and we could not find this particular number (VNSE3HE).
+Please verify the number and,if you can, offer an alternative. Thank you.
+
+
+Answer:
+
+	At 01/22/2001 07:45 AM we wrote - Our records show the replacement stylus to be a VNSE3HE. It should be available from Radio Shack.
+	
+	At 01/22/2001 02:21 PM we wrote - The model VNSE3HE is correct. According to Shure Parts, we no longer have this in stock. You might check with Radio Shack Parts at 800-THE-SHACK.
+	
+	If Radio Shack does not have a stylus, then you will need a new cartridge.
+

@@ -1,0 +1,80 @@
+Title: USA Tour - best wireless frequencies for all cities
+Id: 4018
+Legacy Id: 4425
+
+Question:
+What are the best wireless microphone and/or personal monitor frequency bands to provision for traveling and performing throughout the United States?
+
+
+
+Answer:
+
+	Unfortunately, there is not one frequency group that is best everywhere in the USA. This is because the number of TV stations, and the frequencies they use, vary greatly from city to city. There is no common pattern throughout the United States; therefore there is no single solution to the wireless audio provisioning question.
+
+	
+
+	For musicians and performers planning to travel widely, it is strongly recommended to engage their audio technical staff to plan wireless equipment frequency coordination well in advance of touring.Wireless audio equipment can include microphones, personal monitors, and intercoms - which can end up using a fair amount of spectrum.As soon as performance locations are scheduled, the venue and city should be analyzed for usable frequencies.Doing this homework in advance will provide adequate time to schedule available equipment and if necessary to rent additional wireless equipment.It will also minimize set-up time at the venue.The needed TV broadcast information is readily available from the FCC database at www.fcc.gov and also at www.fccinfo.com.
+
+	
+
+	It should be noted that the type of venue can affect the frequency selection process.Here are some characteristics to keep in mind:
+
+	
+
+	Is the venue an indoor or outdoor facility?Because of their construction (steel and concrete), indoor venues sometimes provide attenuation of external signals that can interfere with wireless microphone operations.On the opposite side of the coin, outdoor venues can be more difficult due to direct exposure to TV broadcast signals.
+
+	
+
+	Where are the TV broadcast stations located with respect to the venue?Frequently, but not always, the major and some of the low-power TV stations locate their transmitters and antennas in the same general vicinity.If the venue is some distance away, there may be some additional flexibility in selecting frequencies due to reduced signal levels.On the other hand, watch out for venues that are located near TV broadcast sites.For example, some low-power broadcast stations whose transmitters and antennas are not located with the major broadcast stations, may be situated on tall buildings in a downtown area.If the performance venue is in a downtown area, special care will be needed to avoid their strong signals.
+
+	
+
+	When planning frequency assignments, be sure to perform band planning for each category of equipment.For instance, best practice calls for operating personal monitor transmitters and intercom systems in different frequency ranges from microphones to prevent interference issues.
+
+	
+
+	Software tools are available to assist in frequency coordination.The tools can assist in identifying active TV stations to avoid, manage proper spacing between wireless audio channels, and calculate intermodulation free compatible frequencies.Two available and recommended software tools are:
+	Wireless Workbench - Shure Incorporated
+	Intermodulation Analysis System IAS - Professional Wireless, Orlando, FL
+
+	
+
+	Associated with this topic is proper placement of antennas.Locating receiving antennas closer to the wireless microphones will help improve the desired to any undesired signals received ratio.While the ambient RF noise level will remain relatively constant throughout a venue, locating the receiving antennas closer to the microphone transmitters increases the received signal strength of the microphone transmitters (inverse square law), and in turn improves the desired signal ratio.Also, personal monitor transmitting antennas should not be placed close to the wireless microphone receiving antennas.The rule of thumb is to maintain at least 15 - 20 feet of separation.This method minimizes chances for intermodulation distortion interference and receiver front end overload that can result in receiver desense, and audio dropouts.
+
+	
+
+	In some cases, the technical support staff may need to carry some sort of RF Spectrum Analyzer to confirm the available frequency spectrum upon arrival at each venue.The spectrum analyzer tool can also be used to confirm or troubleshoot received signal strengths at the venue.
+
+	
+
+	Following is a list of metropolitan areas that will be most challenging when doing frequency coordination.These cities require special attention when planning compatible frequencies in what may be a limited amount of available spectrum.Also keep in mind that some of these metropolitan areas are large enough geographically that broadcast TV signal levels may vary from one area to another.In addition, some TV broadcast stations use directional antennas, which may cause some additional signal strength considerations, either good or bad.
+
+	
+
+	Most Challenging Areas for Wireless Microphones
+	Tier 1 Most Challenging Metropolitan Areas
+	Los Angeles, CA
+	Dallas/Ft Worth, TX
+	New York City, NY
+	Miami/Ft Lauderdale, FL
+
+	
+
+	Tier 2 Somewhat Challenging Metropolitan Areas
+	San Francisco/Oakland, CA
+	Denver, CO
+	San Antonio, TX
+	Houston, TX
+	Chicago, IL
+	Detroit, MI
+	Boston, MA
+	Philadelphia, PA
+	Baltimore, MD
+	Washington, DC
+	Atlanta, GA
+	Orlando, FL
+
+	
+
+	Posted January 23, 2012
+

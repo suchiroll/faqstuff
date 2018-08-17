@@ -1,0 +1,11 @@
+Title: Adding more wireless to an existing system
+Id: 32
+Legacy Id: 32
+
+Question:
+I am using a Shure wireless system with a lapel mic or a handheld mic. I  want to add more wireless mics. What more equipment would I need to purchase/add to make this possible?
+
+Answer:
+
+	To add more wireless microphone transmitters, you need to add more receivers: one new transmitter requires one new receiver. Two transmitters cannot operate on the same frequency at the same time. When you order the new systems from your Shure dealer, make certain you provide the frequencies your current systems so that the new system do not duplicate the existing frequencies.
+

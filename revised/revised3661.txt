@@ -1,0 +1,12 @@
+Title: Information about the SM57
+Id: 3661
+Legacy Id: 3869
+
+Question:
+Hello, I have 10 or so SM57 mics and need some information on them. I need to know the thread size at the point where the microphone splits into two sections.
+
+
+Answer:
+
+	The diameter of the thread  is 1 and 3/32".  The thread type is 32UNS-2B.  FYI - Shure products are blatantly counterfeited in Asia.  So we cautiously guard all engineering specs.
+	 

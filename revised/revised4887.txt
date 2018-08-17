@@ -1,0 +1,26 @@
+Title: ULX-D and Yamaha digital consoles
+Id: 4887
+Legacy Id: 6145
+
+Question:
+Can you provide some information about how my ULXD receiver integrates with Yamaha digital consoles?
+
+
+Answer:
+
+	1. Control and monitoring of ULXD receivers is ONLY available for Dante-enabled receivers, which are the dual (ULXD4D) and quad (ULXD4Q) models. ULXD4S single-channel receivers do not support this capability.ULXD firmware must be version 1.6.6 or higher.
+	
+	2. Compatible Yamaha consoles are the QL and CL series, running firmware version 4.
+	
+	3. Along with the previously available ability to patch Dante channels from ULXD receivers directly from the console, this firmware update now offers the following control and monitoring features:
+	
+	 a) Adjust microphone receiver gain from the console
+	 b) Mute receiver channels
+	 c) Name receiver channels
+	 d) Identify receivers
+	 e) Monitor RF level, audio level, antenna status, frequency, and battery life
+	
+	4.The following video from Yamaha explains how to configure the ULXD and mixing console: Yamaha Video
+	
+	5. The Yamaha console can support a maximum of 24 ULXD devices.
+

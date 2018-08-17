@@ -1,0 +1,20 @@
+Title: PSM Input and Output Impedance
+Id: 968
+Legacy Id: 997
+
+Question:
+I am trying to find out the input and output impedances of the PSM600 in-ear monitor systems.
+
+
+04/11/2001 09:13 AM -
+
+
+How about output impedance from the belt pack to the actual ear piece itself. If I could also get that information, that would be great. I'm trying to use this in a specific theatre application and the wireless monitor system will work great. Thanks for your help--
+
+
+Answer:
+
+	The impedance of the XLR input connector is 20k ohms. The impedance of the 1/4 loop-through female phone jack is 20k ohms.
+	
+	At 04/11/2001 10:21 AM we wrote - The receiver audio output is designed to drive earphones that have an impedance of 16 ohms or greater.
+

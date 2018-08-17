@@ -1,0 +1,12 @@
+Title: Cable Lengths for low impedance mics?
+Id: 2360
+Legacy Id: 2450
+
+Question:
+What is the maximum recommended cable length for the SM63? Is the maximum recommended length shorter for dynamic mics than for condenser mics?
+
+
+Answer:
+
+	Assuming the SM63 will be connected to a balanced, low impedance input, the mic cable can be thousands of feet in length. The same applies to a condenser microphone with a low impedance, balanced output.
+

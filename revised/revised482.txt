@@ -1,0 +1,13 @@
+Title: Harmonica Breathing Noise With 520DX
+Id: 482
+Legacy Id: 492
+
+Question:
+I am a harmonica player just starting to experiment with mics and amps.  I'm using a 520DX input to a Peavey KB/A 30 Keyboard/Acoustic amp.  The problem is that when I turn up the mic and the amp to get adequate volume, it also amplifies my breathing as I play.  Is this a technique problem or is there a technical solution that will eliminate those frequencies?
+
+Answer:
+
+	This is a playing technique problem. In brief, a microphone is designed to change air movement into an equivalent electrical signal. A microphone cannot distinguish between desired air movement (music) and undesired air movement (breathing). As the 520 microphone is successfully used by harmonica players around the world, we must conclude the problem is in your playing technique.
+	
+	We suggest you contact other harmonica players to find out what type of technique they use. For a place to start, contact Mr. Tom Ellis at: tomsmics@flexcomp.com. Tom specializes in restoring harmonica microphones and he may have some ideas for you to try.
+

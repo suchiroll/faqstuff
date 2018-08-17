@@ -1,0 +1,16 @@
+Title: Crossover Frequency for SE425 and SE535
+Id: 4063
+Legacy Id: 4603
+
+Question:
+What is the crossover frequency for the SE425 and SE535?
+
+
+Answer:
+
+	SE425: 4,000 Hz(Crossover is acoustical.)
+
+	
+
+	SE535:5,000 Hz(Crossover is acoustical, and electrical using a capacitor.)
+

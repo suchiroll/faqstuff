@@ -1,0 +1,31 @@
+Title: Skating Force Information
+Id: 5393
+Legacy Id: 5600
+
+Question:
+Skating Force Information
+
+Answer:
+
+	Quoted with permission from a 1978 publication of the Boston Audio Society:
+	
+	Skating force produces uneven record wear and inferior tracking. Once you compensate for it, tracking improves and record wear is reduced. This improves the life of the stylus as well. Friction is the primary cause of skating. Softer record materials produce more friction due to surface deformation and thus a stronger skating force. Skating is more pronounced with soft lacquer and is less pronounced with styrene records (45 RPM). Skating force is much less with 78 RPM shellac discs.
+	
+	Results of Skating Force Study for Moving Magnet Cartridge Tracking at One Gram
+
+	
+		Speed of the record has no effect on skating force.
+	
+		Stylus shape has very little effect, if any, on skating force.
+	
+		Skating force is proportional to tracking force.
+	
+		A modulated groove products 10% to 20% more skating force than a silent groove.
+	
+		Groove radius has no measurable effect on skating force.
+	
+		Record material has the most pronounced effect on skating force. The harder the material, the less friction, and the less skating force.
+
+
+	Shure recommends that the anti-skate setting equal the actual tracking force applied at the stylus tip.
+

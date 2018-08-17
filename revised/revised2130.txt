@@ -1,0 +1,12 @@
+Title: Overhead mic for PA
+Id: 2130
+Legacy Id: 2200
+
+Question:
+My 7-piece jazz band would like to reduce the amount of equipment we need in performance (sometimes on a stage, sometimes not, sometimes outdoors). Presently we mic each player, but it's a nuisance. Would it be practical to consider using one or two elevated or other type of "area" mics if we arranged ourselves suitably? If so, what would you recommend?
+
+
+Answer:
+
+	The VP88 stereo mic would work. Or consider two SM81 mics on a A27M stereo adapter. However, miking at a distance does not allow the PA system to be as nearly loud as when miking up close.
+

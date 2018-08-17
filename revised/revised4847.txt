@@ -1,0 +1,80 @@
+Title: Which DDS 5900 Flush-mount components do I need?
+Id: 4847
+Legacy Id: 6033
+
+Question:
+What components are required to assemble a DDS 5900 Digital Discussion System with flush-mounted discussion units?
+
+
+Answer:
+
+	Central Control Unit
+
+	
+		1 DIS-CCU central control unit with appropriate power supply for the country of installation.Depending on the number of discussion units and distance to/between units, additional power/signal distribution accessories may be required.
+
+
+	Cables
+
+	
+		One EC 6001-XX cable of sufficient length to go from the central control unit to the first discussion unit
+	
+		Additional EC 6001-XX cables of sufficient length to go between discussion units
+
+
+	For the chairman and each delegate/participant:
+
+	
+		Base unit:DC 5900 F
+	
+		Front plate (choose one):
+	
+		
+			
+				FP 5921 F
+			
+				FP 5981 F with earphone jack
+		
+	
+	
+		Button Overlay (choose one):
+	
+		
+			
+				FP 5921 F OL1 Delegate Overlay with Speak and Mute controls (pack of 5)
+			
+				FP 5921 F OL2 Delegate Overlay with Speak control (pack of 5)
+			
+				FP 5921 F OL3 Chairman Overlay with Speak and All Delegates Off control (pack of 2)
+			
+				FP 5921 F OL4 Delegate Overlay with no controls (pack of 5)
+			
+				FP 5981 F OL5 Delegate Overlay with Speak, Mute, Language Selection, and Earphone Volume controls (pack of 5)
+			
+				FP 5981 F OL6 Delegate Overlay with Speak, Language Selection, and Earphone Volume controls (pack of 5)
+			
+				FP 5981 F OL7 Chairman Overlay with Speak, All Delegates Off, Language Selection, and Earphone Volume controls (pack of 2)
+		
+	
+
+
+	Gooseneck microphone (choose one):
+
+	
+		GM 5923 (16 inch/40 cm)
+	
+		GM 5924 (20 inch/50 cm)
+	
+		MX405RLP/N (5 inch/13 cm) + (R184B or R185B cartridge) + AC 5901 adapter (sold in package of 5)
+	
+		MX410RLP/N (10 inch/25 cm) + (R184B or R185B cartridge) + AC 5901 adapter (sold in package of 5)
+	
+		MX415RLP/N (15 inch/38 cm) + (R184B or R185B cartridge) + AC 5901 adapter (sold in package of 5)
+
+
+	Loudspeaker (optional):
+
+	
+		LS 5900 F
+
+

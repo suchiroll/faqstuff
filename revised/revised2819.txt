@@ -1,0 +1,12 @@
+Title: BNC to BNC dc block
+Id: 2819
+Legacy Id: 2929
+
+Question:
+Is there a BNC to BNC device recommend to block the 12 Vdc present on the antenna port of Shure wireless products?
+
+
+Answer:
+
+	Try the following:Pomona Model 5297  www.pomonaelectronics.com
+	Mini-Circuits BLK-222+   www.minicircuits.comBNC male - BNC female - blocks DC on the inner conductor; 1000pF cap in series 

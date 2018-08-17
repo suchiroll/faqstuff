@@ -1,0 +1,13 @@
+Title: EZG-12 mic to 18" Gooseneck
+Id: 3807
+Legacy Id: 4045
+
+Question:
+What is the most cost effective path to get into a 18" stem from the EZG-12? Are the capsules replaceable?
+
+
+Answer:
+
+	Our recommendation is to replace the EZ mic with a new mic, such as the MX418/C or one of its variations.   The EZ capsule has a different thread size from the MX mics, so it cannot be used on an MX gooseneck.
+	
+	Or you could add a thicker 6" gooseneck to the xlr end of the EZ mic.  Look at the short goosenecks with XLR connectors offered by Neutrik.

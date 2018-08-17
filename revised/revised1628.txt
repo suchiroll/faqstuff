@@ -1,0 +1,18 @@
+Title: Antenna combining and remoting for PSM700
+Id: 1628
+Legacy Id: 1685
+
+Question:
+We are using the antenna combiner PA760 with the antenna PA805 connected to PSM700. I'm using 7 units connected to two combiners. My questions are:
+
+1)What is nearest distance you recommend between two antennas?
+
+2) How long of cables can I use between the combiner and the antenna? This is a fixed installation and the distance between the monitor world and the antenna is about 25 meters. I am using RG58 with the 10 db loss with 100 Mhz.
+
+3) The antennas should be mounted 0.5 from a wall of wood. Can you help me ??
+
+
+
+Answer:
+
+	1) One meter. 2) It depends upon the cable type. 30 meters of RG8/U has 4 dB of signal loss at 800 MHz; this is OK. 30 meters of RG58 has 18 dB of signal loss at 800 MHz; this is NOT OK.3) This is ok.Also read: Selection and Operation of Personal Monitoring Systems Selection and Operation: Wireless Microphone Systems

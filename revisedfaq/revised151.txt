@@ -1,0 +1,13 @@
+Title: Receiver output splitting
+Id: 151
+Legacy Id: 151
+
+Question:
+I am hardwire splitting the output of some wireless mic receivers to go to a Live mixer and a Recording Mixer (video and PC). Others tell me to use a transformer. But transformers come in two types, one for mic level and one for line level. What is the output level of the wireless receiver, mic or line level? The manual says -18dBV, 150 ohms balanced output, but that doesn't translate for me.  Will you help?
+
+Answer:
+
+	You should be just fine making a hard wire split. In fact, some touring companies do exactly this to feed front of house, monitors, and record mixers. Transformers are used to help eliminate ground loops and buzz that could be problems with two mixers hooked up. If you already have the system set up as a hard wire split and you arent having any problems, I would leave it as a hard wire split.
+	
+	The -18dBV output level is the maximum output from the receiver. So, any transformer that you would get needs to handle at least that much level before it reaches saturation. -18dBV is above a very hot microphone level and below a very cool line level. -18dBV is really an auxiliary level signal.
+

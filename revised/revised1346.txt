@@ -1,0 +1,25 @@
+Title: SM93 with T1 and Sony Video Camera VX1000
+Id: 1346
+Legacy Id: 1398
+
+Question:
+Can I use the SM93 with the T1 body transmitter?
+
+
+---- 07/16/2001 11:40 AM ----------------------------------------------
+
+Thanks a lot! However, apart from using the lavalier mic (SM93 or WL93)with the T1, I also want to use it as an external mic with the Sony Video Camcorder VX1000. Sony gives following Mic in specifications: 0.388 mV low impedance with 2.5-3 V DC output, impedance 6.8 Kohms. Will SM93 or WL93 do the job?
+
+Thank you.
+
+
+Answer:
+
+	Yes. Just disconnect the microphone from the SM93 preamp and plug it into the T1. If you have not yet bought an SM93, then you should instead buy a WL93. This is the same microphone, without the preamp (which you wont be using anyway).
+	
+	At 07/16/2001 11:45 AM we wrote - Perhaps the WL93 will work.
+	
+	Lets assume the Sony is wired as follows: tip = audio; ring = bias; sleeve = ground. If the Sony is wired like this, make the following connections: tip = pin 3 (of WL93); ring = pin 2; sleeve = pin 1. Pin 4 is not used.
+	
+	But check with Sony first to confirm how the mic input jack is wired.
+

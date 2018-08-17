@@ -1,0 +1,16 @@
+Title: Wireless mic systems operational details
+Id: 2465
+Legacy Id: 2560
+
+Question:
+In specs for radio mic you see a freq deviation value (eg +/- 45 kHz). What does this value indicate, is it the deviation from the RF carrier? (ie when doubled does it equal the transmission bandwidth?) because I was under the impression that the RF bandwidth was typically about 200 kHz. Or is it something totally different?
+
+Also is it possible to get any further information concerning the operation principles and specifics concerning your transmitters and receiver such as which transmitters are crystal (and at what freq the crystals operate) and which use freq synthesis techniques, and for the receivers the LO freqs used and/ or intermediate frequencies.
+
+
+Answer:
+
+	Your questions are answered in: Selection and Operation of Wireless Microphone Systems
+
+Also try: www.audiosystemsgroup.com/wireless.pdf
+

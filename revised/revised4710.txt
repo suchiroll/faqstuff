@@ -1,0 +1,21 @@
+Title: Connectivity issues with the Motiv MVi, MV51, or MV88
+Id: 4710
+Legacy Id: 5880
+
+Question:
+I'm experiencing connectivity issues with the MVi (or MV51 or MV88) and my recording device. Any suggestions?
+
+
+Answer:
+
+	Power-cycle the device.  
+	
+	Ensure that you are using the latest version of the operating systems and the latest version any apps you are using with the Motiv mic.  
+	
+	Check if any additional apps are running in the background.  
+	
+	Try disconnecting and reconnecting the Motiv mic.  The Motiv device might not light up until an app is running and ready to record.
+	
+	Try the Motiv mic into another phone, tablet or computer. If the Motiv mic works on a different device, then the problem is likely the connector or cable on the device that does not work.
+	
+	Clean the lightning connector on your Apple device using a toothpick or similar item. A dirty lightning jack can cause intermittent problems or worse.

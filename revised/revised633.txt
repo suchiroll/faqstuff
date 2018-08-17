@@ -1,0 +1,94 @@
+Title: How do I wire an XLR to 1/4" adapter cable?
+Id: 633
+Legacy Id: 650
+
+Question:
+I need to make a cable that goes from XLR to 1/4". How should I wire it?
+
+
+Answer:
+
+	There are many different configurations that can be made between an XLR to 1/4 adapter. The XLR connector is pretty straight forward. It has 3 wire terminals and is standard. The 1/4 connector, on the other hand, can have 2 or 3 wire terminals and is not standard.
+
+	Quarter-Inch Connector
+
+	The two terminal 1/4 connector is commonly referred to as the TS, or Tip-Sleeve, version. The three terminal 1/4 connector is commonly referred to as the TRS, or Tip-Ring-Sleeve, version. The TS connector is an unbalanced connector. The TRS connector can be used for many things, including balanced audio, send/return for insert points, and left/right stereo, just to name a few.
+
+	XLR to TS 1/4
+
+	Connecting a balanced XLR connector to an unbalanced 1/4 connector. Note that this will unbalance the connection between the two pieces of equipment.
+
+	
+		
+			
+				
+					XLR
+				
+					TS 1/4
+			
+			
+				
+					Pin 1
+				
+					Sleeve
+			
+			
+				
+					Pin 2
+				
+					Tip
+			
+			
+				
+					Pin 3
+				
+					Sleeve
+			
+		
+	
+
+
+	XLR to Balanced TRS 1/4
+
+	Keeping a balanced connection between devices is always recommended. Note that an adapter designed for XLR to TRS 1/4 will work in both a TRS 1/4 jack and TS 1/4 jack.
+
+	
+		
+			
+				
+					XLR
+				
+					TRS 1/4
+			
+			
+				
+					Pin 1
+				
+					Sleeve
+			
+			
+				
+					Pin 2
+				
+					Tip
+			
+			
+				
+					Pin 3
+				
+					Ring
+			
+		
+	
+
+
+	Left/Right Stereo TRS 1/4
+
+	Stereo 1/4 connectors are typically only used for headphone outputs. Thus, there is almost never a use for an XLR to Stereo 1/4 adapter.
+
+	1/4 Insert Jacks
+
+	The 1/4 insert jacks on mixers are wired differently depending on the manufacturer. Contact the manufacturer of the mixer to determine how your mixer is wired.
+
+	Adapter cables can be purchase from Markertek at 800-522-2025 or www.markertek.com.
+

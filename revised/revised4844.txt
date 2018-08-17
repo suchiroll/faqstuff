@@ -1,0 +1,36 @@
+Title: Replacement for PS CU power supply
+Id: 4844
+Legacy Id: 6030
+
+Question:
+What is the replacement for the discontinued PS CU power supply for the CU 5905, CU 6105, and CU 6110 central units?
+
+
+Answer:
+
+	The PS CU power supply is replaced by one of 11 region-specific power supplies, each of which includes a cord with the appropriate connector for that country/region.These models are:
+
+	
+		PS-CCU-AR (Argentina)
+	
+		PS-CCU-AZ (Australia)
+	
+		PS-CCU-BR (Brazil)
+	
+		PS-CCU-CHN (China)
+	
+		PS-CCU-E (Europe)
+	
+		PS-CCU-IN (India)
+	
+		PS-CCU-J (Japan)
+	
+		PS-CCU-K (Korea)
+	
+		PS-CCU-TW (Taiwan)
+	
+		PS-CCU-UK (United Kingdom)
+	
+		PS-CCU-US (USA)
+
+

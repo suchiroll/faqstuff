@@ -1,0 +1,14 @@
+Title: 78 RPM stylus model N75
+Id: 333
+Legacy Id: 340
+
+Question:
+I have a 30-year-old "The Fisher 115" stereo, that uses an N75-EC stylus for playing 45/33 rpm records. I found Shure N75 styli in a catalog at Radio Shack, but I couldn't figure out, and neither could they, what model number to use for playing 78s. The 30-year-old instructions for the stereo say to exchange the Fisher stylus G3507 (33 rpm) for a Fisher stylus G3509 to play 78 RPMs. But nobody has the Fisher G3509 in their cross references.
+
+
+Can you tell me what Shure stylus number to order for playing 78 rpm records?
+
+
+Answer:
+The N78S is the only 78 rpm stylus that we currently manufacture. It is unlikely it will fit your model which is 30 years old. We do currently sell the M78S phono cartridge designed to play 78 rpm records. It tracks from 1.5 to 3 grams.
+

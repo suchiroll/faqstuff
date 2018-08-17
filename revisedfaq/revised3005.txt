@@ -1,0 +1,35 @@
+Title: Accordion mic elements - mounted internally
+Id: 3005
+Legacy Id: 3133
+
+Question:
+I would like to upgrade the internal mics of a 50 year old accordion. They are very high impedance, small diaphragm, and tired. I own several SM58's and SM57's and a few BETA 58's, all of which I love. Can I purchase the "working part" of any of these mics so that I can mount them internally to the accordion (as the original mics were installed)?
+
+Would you suggest any other model(s)? There are currently three mics in the accordion, though I think two would do the job. Frequency response below 100Hz is probably not necessary and is more of a problem than a benefit.
+
+The channel on the PA that is used always has the rumble filter (75Hz) engaged. Can I parallel two or three mic diaphragms to one XLR output jack?
+
+
+Answer:
+
+	Can I purchase the working part of any of these mics so that I can mount them internally to the accordion (as the original mics were installed)? * No. These mic elements do not work properly when removed for the mic handles. The mic handles provide an acoustic chamber critical to the elements operation. However, a Shure customer did mount the R65 mic element inside his accordion, then wired the R65 to the Shure transformer 51B308 to change the R65 signal to high impedance/unbalanced. The output of the 51B308 connected to a 1/4 female phone jack mounted on the accordion, and this jack was used with a standard guitar cable that connected into a guitar amplifier. The customer was very pleased with the sound quality. The R65 element is used in the Shure model 565 microphone.
+
+	
+
+	Connections were as follows:
+
+	R65 positive terminal to blue lead of 51B308 transformer
+
+	R65 negative terminal to yellow lead of 51B308 transformer
+
+	51B308 transformer red lead to tip of 1/4 phone jack
+
+	51B308 transformer black lead to tip of 1/4 phone jack
+
+	51B308 transformer white lead is unused
+
+	
+	Would you suggest any other mic element? * The Shure mic element R180 might work OK as it does not depend on the mic handle for an acoustic chamber. To purchase, call Shure Parts at 800-516-2525. You will have to fabricate a mounting method for the accordion.
+	
+	Can I parallel two or three mic diaphragms to one XLR output jack? * Yes. However, the output level is reduced each time another mic element is added. One mic element provides the greatest output level.
+

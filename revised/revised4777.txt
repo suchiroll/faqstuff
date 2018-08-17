@@ -1,0 +1,17 @@
+Title: Motiv MV88 recording soft sounds
+Id: 4777
+Legacy Id: 5961
+
+Question:
+Can the MV88 be used to record soft sounds?
+
+
+Answer:
+
+	It all depends on how soft.  The MV88 was designed primarily to record loud sounds, like a rock concert, or medium sounds, such as conversation. 
+	
+	As the sounds gets softer and/or the MV88 is placed farther away from the sound source, at some point the self-noise (hiss level) of the MV88 might become noticeable or objectionable.  With the MV88 set for maximum gain, the self-noise level is around 25 dB SPL-A.  This is similar to a Shure "live sound" microphone like the Beta 98A.
+	
+	The MV88 does not have an exceptionally low noise floor like a Shure KSM44A (4 dB SPL-A), however the KSM44A is nearly seven times the price. If the requirement is to record very soft bird sounds in a forest, or the barely audible whispers of wind in the trees, the MV88 may not be appropriate.
+	
+	Self-noise in Condenser Microphones

@@ -1,0 +1,16 @@
+Title: Two PA705 antennas fed from one PSM transmitter?
+Id: 1741
+Legacy Id: 1800
+
+Question:
+Hi,I have a PSM700 and a PA705 antennae. I want to cover a larger area than 90 degrees. Will another antennae do this? and will the transmitter except 2 antennaes?
+
+
+Answer:
+
+	This requires the use of a power divider: one BNC in / two BNC out 50 ohm device. An example is the PE2003 available from http://www.pasternack.com
+	
+	However, do not overlap the antenna transmitting areas! If a PSM receiver picks up the same signal from two different antennas, the received signal will be less than optimal. Two transmitting antennas may provide worse coverage and performance than one antenna.
+	
+	Why not use an omnidirectional antenna if the 90 degree pattern is too narrow?
+

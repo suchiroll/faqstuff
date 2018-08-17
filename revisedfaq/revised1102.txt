@@ -1,0 +1,17 @@
+Title: Shure RM950ED Cartridge - very little sound on one track
+Id: 1102
+Legacy Id: 1138
+
+Question:
+My vintage RM950ED cartidge has very little sound on one track, and normal sound on the other. I changed the tonearm head with my spare Shure cartridge, and everything is normal, so I am pretty sure the problem is in the RM950ED.
+
+
+Is the cartridge "dead", would a new stylus do any good, can it be repaired, is it worth messing with?
+
+
+Answer:
+
+	The cartridge is dead. The cartridge has been discontinued for some time and can not be repaired.
+	
+	Consider the ShureM92E as a replacement.
+

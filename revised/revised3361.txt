@@ -1,0 +1,27 @@
+Title: How does Radio Frequency Interference (RFI) occur?
+Id: 3361
+Legacy Id: 3545
+
+Question:
+Please provide a basic, non-technical, explanation of how RFI gets into a microphone (wired or wireless) or into the sound system, and why I hear it?
+
+Answer:
+
+	This explanation provides the general concept. (If you are an RF expert, please forgive the generalizations employed.)
+	
+	Radio Frequency Interference (RFI) in a sound system can be defined as an unwanted audible signal that invades the sound system via a radio frequency (RF) signal. Typical sources of RF signals: FM radio station, AM radio station, walkie-talkie, cell phone, Blackberry PDA. If the RFI is audible, it can take many forms: buzz, noise bursts, speech, or music. The common element is that these sounds are not desired in the sound system.
+	
+	A modulated RF signal (i.e., carrying information like an audio signal or digital data) travels through the air looking for a receiving antenna. Any piece of metal that has the appropriate length can be an antenna: a piece of wire, a metal beam, a sheet of aluminum foil, a trace on a printed circuit board, or a nail. Most of the time these metal items are not connected to a circuit that can detect the radio signal. Detection means converting the signal from RF into audio. A detector can be very simple: a diode, a transistor, an integrated circuit, even a slightly imperfect (cold) solder joint, all are potential detectors.
+	
+	Lets look at a microphone and its cable as seen by an RF signal. The microphone cable has a long length of metal, called the cable shield, just under the outer plastic jacket. The cable shield protects the cables inner conductors from outside interference (such as electrostatic buzz/hum) and also is part of the phantom power circuit for condenser microphones. However, the RF signal sees the cable shield as an antenna. One end of the cable shield goes to the microphone; and if the microphone is a condenser, the cable shield eventually connects to the printed circuit board inside of the microphone. The other end of the cable shield goes to the microphone mixer or to a wireless transmitter; both have a printed circuit board. These boards are covered with diodes, transistors, integrated circuits and many, many solder jointsand all can be detectors. So the cable shield intercepts the RF signal, carries the RF signal to a printed circuit board where the signal is detected, transformed into an audio signal, and heard in the audio system as unwanted noise.
+	
+	There are multiple reasons why RFI is not always a problem. The microphone may have a dynamic element and thus no printed circuit board. The mixer might handle the cable shield in a way that sheds the RF signal before it can reach the mixers circuit board. The RF signal might be so weak that the detected audio signal is too quiet to hear, though moving closer to the interfering RF signal transmitter will increase the RF signal level and the RFI could become audible.
+	
+	A cell phone or Blackberry PDA is an RF transmitter - - a local source of RFI that can be extremely strong. Audible RFI is quite likely when an active cell phone or Blackberry PDA is located close to a microphone or its cable.
+	
+	Information on troubleshooting and solving RFI problems.
+	
+	Also, see this excellent technical paper on RFI by consultant Jim Brown: A Hams Guide to RFI
+	
+	And another excellent article on RFI by Pat Brown of Syn-Aud-Con: Troubleshooting RFI Problems
+

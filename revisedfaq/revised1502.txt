@@ -1,0 +1,11 @@
+Title: AXS5 repair
+Id: 1502
+Legacy Id: 1555
+
+Question:
+I have a Shure AXS5 Mic I purchased from Guitar Center. When I pull out the microphone cable at the base of the mic, the whole pin assembly comes with it if I'm not careful. How can I fix it myself?
+
+
+Answer:
+
+	PG81, SM94, 849, BG 5.1, or BG 4.1 XLR connector is loose

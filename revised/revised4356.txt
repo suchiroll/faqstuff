@@ -1,0 +1,36 @@
+Title: VP83F Recording Time and Other Arcana
+Id: 4356
+Legacy Id: 5441
+
+Question:
+I'm in the market to purchase an external mic for my 5D MkII and like the combination of mic and recorder of the VP83F:
+
+How long of recording time on a 32Gb card?
+Can it support larger than the 32GB card? 64GB? 128GB?
+I did not see any reference to an external power jack, does it have one? Shouldn't it if it doesn't?
+I teach a photography class at Starshine Academy, a charter school and wonder if you have a teachers/student discount available?
+As this is a 'shotgun' style mic, is the pick-up pattern adjustable in any way?
+Can this be used in conjunction with any other external recorder, ie its output to another input?
+A big part of the usage of this will be in videoing guitar playing singers in small venues. Info says Speech and DSLRs are its forte, how well does it handle music?
+
+
+
+
+Answer:
+
+	
+		64 hours. See page 8 of the VP83F User Guide.
+	
+		32GB is the maximum card supported.
+	
+		No external power jack. 9.5 hours recording time with two AA cells was deemed acceptable.
+	
+		Sorry, Shure does not sell to end users, only to Shure dealers. Perhaps a local Shure dealer has such a program.
+	
+		The pick-up angle is not adjustable.
+	
+		It depends upon the input specifications of the external recorder.
+	
+		It works very well for music.
+
+

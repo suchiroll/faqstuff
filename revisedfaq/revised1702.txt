@@ -1,0 +1,15 @@
+Title: 550L - Balanced or unbalanced
+Id: 1702
+Legacy Id: 1760
+
+Question:
+I bought a 550L mic. To wire it it has balanced and unbalanced options. What does that mean? It will be in a 1 mic system
+
+
+Answer:
+
+	An unbalanced mic connection has only two connection points: audio hot and ground/shield. A balanced mic connection has three connection points: audio hot, audio neutral, ground/shield.
+	
+	The mic will be connected to some type of electronic device. Look at the device's mic input and count the connection points. Two equals unbalanced; three equals balanced.
+	
+	Balanced is a better connection scheme.

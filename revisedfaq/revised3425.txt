@@ -1,0 +1,26 @@
+Title: P4800 Discontinuation and Suggested Replacement
+Id: 3425
+Legacy Id: 3616
+
+Question:
+When was the P4800 discontinued?
+
+
+Answer:
+
+	Discontinuation date: April 30, 2008
+	
+	Introduced: 2001
+	
+	Final U.S. retail price: $2,665
+	
+	Description: 4 in / 8 out digital audio system processor; one rack space; Windows-based computer required to program the audio routing and to set the internal processors, such as equalizers, crossovers, limiters, feedback reducers, et al.
+	
+	Companies that make similar devices:
+	Biamp
+	Rane
+	Symetrix
+	Yamaha
+	Ashly
+	dbx
+	BSS Audio

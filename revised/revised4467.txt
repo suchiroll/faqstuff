@@ -1,0 +1,15 @@
+Title: Cleaning foam rubber from SM81
+Id: 4467
+Legacy Id: 5577
+
+Question:
+I am the sound engineer for our church. One of your members with a long history in recording and broadcast past away and we recently received a gift of a number of Shure microphones from his widow. Among them were 4 SM81's, outstanding microphones we would love to use for instruments, choral, etc. They were in the original boxes containing protective foam which had degenerated and was all over the microphones, through the windscreens, etc. I tried to clean one of the windscreens/elements with a mild solvent, but that caused it to come apart. Can you recommend a way to clean and restore these marvelous microphones from the damage done by the originally supplied foam?
+
+
+
+Answer:
+
+	That foam has become a problem over the decades.It even melted onto the Shure SM81 mics in the Shure archives.We use WD-40 and soft cotton cloth to remove the melted foam. It was slow process and not 100% effective, so do not expect perfection.
+	
+	If the foam has penetrated the screening on the mic grill, we do not have a solution, except to buy a new mic element.
+

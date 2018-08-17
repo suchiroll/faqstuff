@@ -1,0 +1,17 @@
+Title: ULX4 receiver in a half rack space
+Id: 4510
+Legacy Id: 5626
+
+Question:
+New racks are out that are half width [ex. Middle Atlantic HR Series]. What size rack [9.5 or 10.5 inch wide] and what accessory parts are needed to mount a Shure ULX4 in one these?
+
+
+
+Answer:
+
+	The width of a ULXP4 or ULXS4 is 8.56 inches.With two of the 53E8484 short rack mount ears, the total width from the outer edge of each ear is 10 3/8inches.
+	
+	With the rackmount ears installed,the outer edges of the mounting screw holes are separated by 10 1/16inches; the inner edges of the mounting screw holes are separated by 9 1/4 inches.The size of the mounting screw hole is 0.406 inches wide and 0.278 inches high.
+	
+	Two 53E8484rack mount earsand one 90AR8100 hardware kit are required.
+

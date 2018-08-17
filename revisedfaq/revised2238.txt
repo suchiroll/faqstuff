@@ -1,0 +1,12 @@
+Title: Microphone element 99N556
+Id: 2238
+Legacy Id: 2318
+
+Question:
+I was hoping you may be able to tell me which microphone model usedthe element identified as "Controlled Magnetic Transducer" Model 99N556. The element is also marked as Manufactured In Mexico. I was wondering if you'd also know the vintage. I'm guessing they may be relatively recent, possibly for a 520 series mic?
+
+
+Answer:
+
+	The 99N556 element was last made in 1994. It was an OEM element made for another manufacturer. It was not used in any microphone product that carried the Shure brand.
+

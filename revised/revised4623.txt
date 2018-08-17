@@ -1,0 +1,19 @@
+Title: Headworn Mic is Louder than Handheld Mic
+Id: 4623
+Legacy Id: 5782
+
+Question:
+Our small church purchased Countryman E6 Earworn mics, Shure SLX1 Wireless Bodypack Transmitters, Shure SLX4 Wireless Receivers, and SLX2/SM58 handheld microphones. Everything works except that the handheld has much lower output than the other mics. All mics are used for speech only and we want to be able to use each at the choice of the talker and to be able to switch them out without having to alter volume control. Is there a solution?
+
+Answer:
+
+	This is an issue of inverse square law.
+
+	Answer Link: Inverse Square Law
+
+	Put simply, a mic element that is one inch from the mouth (the Countryman) is louder than a mic 12 inches from the mouth (handheld mic at chest level). As a comparison, place the handheld mic element at the same distance from the mouth as the Countryman.
+
+	What can be used to offset inverse square law? A device called a compressor can be helpful. Here is one that customers have reported as working well:
+
+	http://www.rdlnet.com/product.php?page=612
+

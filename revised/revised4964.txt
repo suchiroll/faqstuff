@@ -1,0 +1,42 @@
+Title: GLXD Firmware update failed
+Id: 4964
+Legacy Id: 6229
+
+Question:
+GLXD Firmware update failed
+
+
+Answer:
+
+	It is possible that the firmware update for a GLXD transmitter or receiver can fail due to a corrupt device.The process listed below should resolve this.
+	
+	Example error message:
+	
+	Failed to install primary firmware 2.0.0.1 to GLX-RXPedal-54134036-WRU Device is on golden FPGA, please call support
+	
+	
+	
+	To correct this issue you will need to:
+
+	
+		Connect GLXD component to computer via USB
+	
+		Power off GLXD component (if not already off)
+	
+		Open Shure Update Utility
+	
+		Hold down link button and turn GLXD component on.
+	
+		Unit reboots
+	
+		Update utility will then recognize GLXD as a corrupt device and give you the option to repair it:
+		
+	
+		Click on repair corrupt device button
+	
+		Shure Update Utility will recognize the GLXD unit
+		
+	
+		Select the GLXD component and perform update again
+
+

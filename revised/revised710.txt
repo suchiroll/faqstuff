@@ -1,0 +1,16 @@
+Title: Will the MX183 work with a wireless system or is it phantom powered?
+Id: 710
+Legacy Id: 728
+
+Question:
+I am slightly confused as to wheather the MX183 is phantom powered or not. I need to buy a lavalier mic for Church use but would like to go wireless at a later stage using the same mic. If it is possible could you tell me if it could be wireless compatible. The mic will be used on a stage. Would the SM11 or the SM93 be up to a similar task?
+
+
+Answer:
+
+	The MX183 requires phantom power to operate.The microphone portion can be disconnected from the in-line preamp and used on a wireless bodypack transmitter. The bodypack transmitter with the four pin Tini QG input will work with the MX183.
+	
+	The SM93 requires phantom power to operate. It will also work with the bodypack transmitter.
+	
+	The SM11 is not a good choice for your requirements.
+

@@ -1,0 +1,18 @@
+Title: Single PSM400 transmitter with 4 receivers?
+Id: 688
+Legacy Id: 705
+
+Question:
+Hello. I have a 4-piece band that is looking at the PSM400. My question: can a single transmitter be used with 4 receivers without any of the personal mixers? The mixer is nice but we really don't need individual monitor mixes at this point in time. If it's a required piece of the technology, that's different but, if not it would be unnecessary additional cost for us.
+
+
+Answer:
+
+	Yes, a single transmitter can be used with 4 receivers. The mixer is not required.
+	
+	For your application, you would need to order the components separately as follows:
+	
+	One - P4T Transmitter
+	Four - P4R Receivers
+	Four - E1 Earpieces
+

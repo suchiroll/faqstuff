@@ -1,0 +1,13 @@
+Title: VN5P stylus into M94E body
+Id: 4170
+Legacy Id: 5117
+
+Question:
+Can a VN5P replacement stylus fit a M94E cartridge body?
+
+
+Answer:
+
+	The VN5P stylus will fit into the M94E body.
+	
+

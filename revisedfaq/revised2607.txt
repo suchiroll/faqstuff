@@ -1,0 +1,11 @@
+Title: Cabled SM58 on UT1 via WA310
+Id: 2607
+Legacy Id: 2708
+
+Question:
+Will a cabled SM58 connected to a UT1 bodypack via a WA310 cable work as a transmitter unit?
+
+
+Answer:
+
+	Yes, that will work.

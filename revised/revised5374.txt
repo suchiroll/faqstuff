@@ -1,0 +1,17 @@
+Title: CVO Microphone Dimensions
+Id: 5374
+Legacy Id: 5397
+
+Question:
+CVO Microphone Dimensions
+
+Answer:
+
+	Mic element diameter: 15 mm (0.6 inch)
+	Mic element length: 55 mm (2.9 inches)
+	Preamp diameter: 24 mm (0.9 inch)
+	Preamp length: 123 mm (4.8 inches)
+	Cable length from mic element to preamp: 7.6 m (25 feet)
+
+	
+

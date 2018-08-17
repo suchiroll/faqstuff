@@ -1,0 +1,39 @@
+Title: SLX4 Receiver - audible hum when transmitter is off
+Id: 3101
+Legacy Id: 3234
+
+Question:
+In a recent installation, I encountered a strange problem. There was a low level aubible hum from an SLX4 receiver, but only when the SLX transmitter was off. This may be important - the SLX4 was not in the same rack as the mic mixer. Any ideas?
+
+
+Answer:
+
+	SITUATION
+	An SLX4 receiver is mounted in a rack. A long audio cable (over 100 feet or 30 meters) connects the impedance-balanced, mic-level, XLR output to a balanced, mic-level, XLR input on a mixer mounted in a different rack. The AC grounds of the two racks are slightly different, so there is current flow on the audio cable shield, inducing hum into the inner conductors. In addition, the audio cable is routed through an area with a strong AC hum field.
+	
+	PROBLEM
+	When the SLX4 receiver is on, the associated mixer channel is on, and the SLX transmitter is off, low level hum is heard in the sound system. The audible hum is cumulative based on the number of SLX systems in the rack.
+	
+	When the SLX transmitter is powered on, the hum is no longer heard. These operating parameters might be found in an unattended church sound system.
+	
+	SOURCE OF THE PROBLEM
+	The SLX4 XLR output becomes slightly unbalanced when the SLX transmitter is powered off. This is a function of the tone-key squelch circuit in the SLX4; this circuit mutes XLR pin 2 when the transmitter is powered off.
+	
+	When the transmitter is powered on, the SLX4 XLR pin 2 output has an impedance of 300 ohms in reference to pin 1; the SLX4 XLR pin 3 output also has an impedance of 300 ohms in reference to pin 1. Equal impedance on pin 2 and pin 3 provides a balanced circuit.
+	
+	When the transmitter is powered off, pin 3 maintains 300 ohms, but pin 2 rises to 350 ohms due to the action of the tone-key squelch circuit. Inequal impedance on pin 2 and pin 3 unbalances the circuit, and the hum becomes audible.
+	
+	The resultant problem of this unbalancing can be audible hum when these conditions exist:
+	1) SLX transmitter is off.
+	2) SLX4 is powered on.
+	3) SLX4 is in a rack and its chassis is grounded via the rack, or via the UA844 antenna distribution system.
+	4) SLX4 XLR output is connected via a long cable to a mixer in another rack or location.
+	5) Mixer input channel for SLX4 is open.
+	6) AC ground potentials of the two rack locations are not the same.
+	7) Audio cable is routed through an area with an AC hum field.
+	
+	SOLUTION
+	On the male XLR connector at the mixer, disconnect the cable shield from pin 1 and, if necessary, from the XLR shield-can grounding lug. This will eliminate the current flowing on the audio cable shield.
+	
+	If the audible hum is still objectionable because of the AC hum field, connect a Shure A95U transformer to the 1/4 phone jack output of the SLX4 receiver and use this transformer-balanced XLR output instead of the SLX4 impedance-balanced XLR output.
+

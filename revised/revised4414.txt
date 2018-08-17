@@ -1,0 +1,16 @@
+Title: Audio Polarity of Shure Wireless Bodypack Transmitters
+Id: 4414
+Legacy Id: 5511
+
+Question:
+Please clarify the audio polarity from a Shure bodypack transmitter input to the receiver XLR output?
+
+
+Answer:
+
+	1) Positive signal voltage on pin 3 of the transmitter TA4M input will produce a positive signal voltage on pin 2 of the receiver XLR male output.
+
+	2) Positivepressure on the Shure lavalier microphone diaphragm will produce a positive signal voltage on pin 2 of the receiver XLR male output. Shure lavalier microphones do not invert the signal voltage. Shure employs a three-wire FET circuit. The FET is used as a non-inverting buffer amplifier, known as a Source Follower or Common Drain. The gain is unity, or close to unity.
+
+	Note: Non-Shure lavalier microphones often use a two-wire circuit, known as a Common Source. This circuit inverts the signal. If used with a Shure wireless system, positive pressure on the microphone diaphragm will produce a negative signal voltage on pin 2 of the receiver XLR male output.
+

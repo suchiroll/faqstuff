@@ -1,0 +1,21 @@
+Title: WL183 to Samson bodypack
+Id: 742
+Legacy Id: 761
+
+Question:
+I am a very satisfied SHURE customer for many years now, and recently bought a WL183 microphone, intending to use it with a SAMSON CT-4L body pack transmitter. The problem is that the WL183 uses a 4-pin connector (TA4F) and the transmitter can handle a 3-pin connector (TA3F). Is there any way that this can be re-wired?
+
+
+Answer:
+
+	When you take apart the connector for the WL183, you will see the following scheme:
+	
+	Red wire - 5 volts bias
+	Black wire - audio
+	Shield - ground
+	
+	We do not know the input scheme of the Samson transmitter. Contact Samson to find out what pin serves which function on their transmitter.
+	
+	More information:
+	What is the pin-out for Shure bodypack transmitters?
+

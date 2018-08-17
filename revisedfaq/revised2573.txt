@@ -1,0 +1,15 @@
+Title: PS20 Jack Dimensions
+Id: 2573
+Legacy Id: 2672
+
+Question:
+Hello, I wish to make my own power distribution unit to replace 10 PS-20 wall worts. What size jack is on the DC side?
+
+
+Answer:
+
+	The dimensions are:
+	
+	ID: .083 (2.1 mm)
+	OD: .217 (5.5 mm)
+

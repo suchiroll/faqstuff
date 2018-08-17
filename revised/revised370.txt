@@ -1,0 +1,22 @@
+Title: Microphone for 20 piece choir
+Id: 370
+Legacy Id: 377
+
+Question:
+What kind/type of microphone I need to use to be able to wire a choir of 20 people. I am aware I would need to use a couple of microphones but which one would be precisely the best for the job.
+
+
+Answer:
+
+	Assuming the microphones are for a public address system, and that the mixing console has phantom power, I recommend:
+	
+	One SM81 microphone mounted with an A53M shock mount on a S15A mic stand
+	
+	or
+	
+	One MX202C/B hanging choir microphone which is suspended by its cable.
+	
+	For details on choir miking, please go to: Educational Articles - Online booklets and bulletins
+	
+	For a complete listing of microphones that we recommend for choir: Selection Guides
+

@@ -1,0 +1,13 @@
+Title: Camera Control for the DDS 5900 system.
+Id: 5052
+Legacy Id: 6349
+
+Question:
+I need a way to control camera switching with the DIS-CCU. Do you have any recommendations?
+
+
+Answer:
+
+	The Collaborate Automatic Video Switching System from 1 Beyond is an all-in-one package that includes cameras and a control system, and the API for Shure DDS 5900 has been integrated and tested by 1 Beyond for compatibility with the DIS-CCU. For more information:
+	http://1beyond.com/collaborate-avs
+

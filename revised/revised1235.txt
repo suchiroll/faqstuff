@@ -1,0 +1,11 @@
+Title: Designing a portable sound system for Marching Band use
+Id: 1235
+Legacy Id: 1281
+
+Question:
+I'm in the process of designing and constructing a portable (transportable) sound reinforcement system for soloists' use during high school marching band half time shows and competitions. I expect to construct this in a short 19 inch rack on wheels plus 2 to 4 loudspeakers. This will be at least a 4-channel system. Ideally, I would like to power this from car batteries (and assume that I may have to use a DC to AC inverter). I was wondering if you have or could refer me to any design guidelines for such a system. I also need some suggestions on: a) wireless microphones that would be clipped to various band instruments, and b) use of your mixers for this application.
+
+
+Answer:
+
+	1. Read: "Sound Reinforcement Handbook" published by Hal Leonard; ISBN 0-88188-900-82. Read: Selection and Operation: Wireless Microphone Systems3. Read: Microphone Techniques for Music - Live Sound ReinforcementThere are no short cuts to learning how to design an effective sound system. Ground yourself in the basics first, and then design your system. You can also hire a professional audio engineer to design the system for you.

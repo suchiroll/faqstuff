@@ -1,0 +1,25 @@
+Title: Replacement PS40 or PS41 Power Supply
+Id: 3700
+Legacy Id: 3928
+
+Question:
+I need a PS40 power supply for my Shure receiver. Is there a commercial alternative?
+
+
+Answer:
+
+	A replacement can be ordered from Shure Parts at 800-516-2525.
+	
+	The following power supply will also work:
+	Triad AC/DC adapter - model WDU15-600
+	AC input is 120 VAC / 15 watts.
+	VDC output is 15 volts / 600 mA. (PS40 and PS41 are rated at 600 mA maximum output current.)
+	DC outputcable is 72 inches in length.
+	DC connector is 2.1 mm x 5.5 mm. DC connector does not have a locking collar like the Shure PS40.
+	Size of the transformer / AC plug enclosure is 3 x 2.2 x 1.9.
+	This is a linear supply, not a switching power supply. For most situations, this supply can also replace the Shure PS41.
+	
+	As of June 2010, available from www.mouser.com
+	Phone: 800-346-6873
+	Price is $9.53 U.S.
+

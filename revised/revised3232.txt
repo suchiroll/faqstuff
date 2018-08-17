@@ -1,0 +1,20 @@
+Title: PGX and SLX Wireless - audio level varies more than expected
+Id: 3232
+Legacy Id: 3382
+
+Question:
+I was using the PGX2/SM58 wireless microphone to give a speech. The microphone was roughly a foot away from my mouth. The audio level faded in and out more than expected as the microphone position changed in relationship to my mouth. I tried a wired mic and it did not have this effect. Do you have an explanation?
+
+
+Answer:
+
+	The audio drop-off effect is a characteristic of the companding design used for PGX (and SLX)wireless. The purpose of companding is to squeeze a wide audio dynamic range into a more limited dynamic range for better wireless transmission.
+	
+	An investigation by Shure Applications Engineering into this audio drop-off produced the same effect as you described. We also recreated the effect by playing a guitar through a PGX1 body-pack transmitter. The sound from sustained notes dropped off quicker than expected.
+	
+	When comparing a PGX wireless microphone system with a wired SM58, the drop-off effect was noticeable and measurable. The conclusion drawn from the experiments was that the drop-off effect was coming from the audio compander circuitry used in the PGX wireless.
+	
+	Shure Development Engineering was contacted about the design of the compander used in the PGX wireless system. After describing the drop-off effect, Development Engineering confirmed that the effect was coming from the compander circuit. The design of the compander uses a 5:1 compressor at the transmitter for stronger audio levels, with no compression at lower audio levels. The receiver uses an expansion algorithm that is the reverse of the transmitter. However, to further reduce the audible system noise floor (hiss), the transmitter compression and receiver expansion curve knees are not aligned exactly the same. Softer audio signals (ones operating in the area of the compander curve knee, e.g., guitar sustain or a weak talkers voice) will decline nonlinearly, producing the drop-off effect.
+	
+	The user of the PGX system can minimize the drop-off effect by speaking louder or holding the mic closer to the mouth.
+

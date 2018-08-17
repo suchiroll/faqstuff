@@ -1,0 +1,18 @@
+Title: Miking a bell tower or carillon
+Id: 4011
+Legacy Id: 4418
+
+Question:
+My church wants to put a mic in the bell tower so that the bells can be heard inside of the church via the PA system. What mic do you recommend?
+
+
+Answer:
+
+	The Shure model SM63. The SM63 is a dynamic microphone and can handle the high sound pressure levels (at one meter, typically greater than 110 dB SPL) created by the bells. We recommend adding the A81WS windscreen to reduce wind noise. The SM63 can also handle extremes in temperature and humidity, but do protect it from direct rain, snow, and other precipitation.
+
+	Use a premium quality mic cable with a double-serve, braided shield.Foil-shielded cable is not recommended as it is susceptible to RFI from AM radio stations. Check local building codes regarding required lightening strike protection as the mic cable is an electrical path from the bell tower into the church interior.
+
+	NOTE: The Shure Beta 91A has been used for miking a carillon and it produces a superb audio signal. However, the Beta 91A is a condenser microphone, so it requires phantom power to operate, and will be more susceptible to humidity and temperature extremes than the SM63.
+
+	
+

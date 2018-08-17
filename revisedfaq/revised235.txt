@@ -1,0 +1,15 @@
+Title: Define low/hi impedence, cardioid, dynamic, condenser, etc.
+Id: 235
+Legacy Id: 240
+
+Question:
+What is the difference in the capabilities of various types of microphones (i.e. dynamic to condenser, cardioid to supercardioid, etc.)? Please be as detailed as possible. Thanks for the info.
+
+
+Answer:
+
+	The answers to all your questions can be found at:
+	http://www.shure.com/ProAudio/TechLibrary/EducationalArticles/ssLINK/us_pro_mics_for_music_sound_ea
+	
+	If you are using this information for a school paper, please reference this book in your bibliography.
+

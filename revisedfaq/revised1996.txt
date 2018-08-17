@@ -1,0 +1,14 @@
+Title: Microphone crackling and popping when handled
+Id: 1996
+Legacy Id: 2059
+
+Question:
+I have a Shure SM58 mic that is 5 years old. Up until this point in time it's performed flawlessly. However, recently it's taken to crackling and popping when either handled or when you touch the mic in the stand with hands or lips. We've ruled out cords as we've tried many with the same result and we've ruled out mixing boards as we have 2 different ones and get the same sound. Is this mic in need of some sort of service or repair? Is there something I could do before I send it away ie: a quick fix?? Any help you could offer would be greatly appreciated.
+
+
+Answer:
+
+	The problem might lie in the XLR connector at the end of the SM58. There is a small set screw that can be accessed via a hole on the side of the mic. This set screw holds the XLR connector tight in the mic body. Use a small screwdriver and tighten that set screw so that the XLR connector does not wiggle.
+	
+	If this does not fix the problem, please contact our Service Department at 800-516-2525.
+

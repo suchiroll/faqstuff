@@ -1,0 +1,18 @@
+Title: P4M Power Adapter and Current Draw
+Id: 3503
+Legacy Id: 3702
+
+Question:
+I'm working on a tour and we're getting ready to take the show to Japan. We currently use a few P4M's in the show that are obviously 120V 60Hz units.
+As part of our preparations for moving the show, we need to ensure all our equipment will survive the power difference. The problem being Japanese power is its 100 Volt, 50 Hz.. Do you have a supply for the P4M that is compatible with Japanese power.
+
+
+Answer:
+
+	The PS21 (likely the power supply you have for the P4M) has a rated input of 100 to 120 VAC, 50 or 60 Hz.So it will work in Japan.
+	
+	If you need to get a new supply in Japan, the DC output must be 12 Vdc, and 400 mA or greater is recommended.Low ripple is a must for minimal audible hum.
+	
+	Maximum current draw for the P4M is 120 mA.
+	
+

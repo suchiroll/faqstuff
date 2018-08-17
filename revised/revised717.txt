@@ -1,0 +1,11 @@
+Title: Is it possible to use UC Transmitters used with U4D receivers?
+Id: 717
+Legacy Id: 735
+
+Question:
+I would like to know if I can use UC transmitters with U4D receivers
+
+Answer:
+
+	If they use the same frequency range, then they will work fine together. The frequency range is indicated by a two letter code similar to UA or UB. Just put the transmitter and receiver on the same frequency, and it will work.
+

@@ -1,0 +1,13 @@
+Title: Combining wireless headset with in the ear monitoring
+Id: 478
+Legacy Id: 488
+
+Question:
+Is there a possibility to easily combine a wireless headset with in ear monitoring without having to wear 2 bodypacks, or even worse when playing (wireless) guitar with 3? In short, is there something like an integrated solution?
+
+Answer:
+
+	Unfortunately, there is not. Each function would require a separate bodypack. The underlying technical problem is that transmitter and receiver circuits negatively interact with each other when located closely together in the same enclosure. This interaction can also occur when transmitters or receivers in separate enclosures are in close proximity to each other.
+	
+	Though what you are seeking sounds simple, it is actually a very difficult engineering problem that is not likely to be solved quickly.
+

@@ -1,0 +1,14 @@
+Title: Connecting AMS Microphones to AMS8100 Mixer
+Id: 973
+Legacy Id: 1002
+
+Question:
+Is it really necessary to buy the RKC800 to properly connect these AMS microphones to the mixer they are designed to be used with? Or are the AMS microphones equipped with the proper connections?
+
+
+Answer:
+
+	The AMS22 has a male XLR connector at the cable end. The AMS24 has a bare end cable because the cable has to fit through the mounting flange. The AMS26 has a male XLR connector. The AMS28 has a male XLR connector at the cable end.
+	
+	If direct connection is required to the AMS8100 (an unusual situation), the RKC800 may be used or the XLR connector on the mic cable can be removed leaving bare wires. For most AMS installations, the mics are quite far from the AMS8100 mixer and XLR mating plugs are installed near the mic locations.
+

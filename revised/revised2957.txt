@@ -1,0 +1,33 @@
+Title: VP88 Placement for Grand Piano
+Id: 2957
+Legacy Id: 3085
+
+Question:
+I've been experimenting with the VP88 in high, medium and low settings at various positions.
+
+
+I can't find anything pertaining to Grand piano and placement of this specific mike (VP88) other than short comments about Herbie Hancock, Norah Jones, and Judy Collins using this for piano.
+
+
+I'm trying to get a full, natural sound with a left to right natural span of the keyboard in the stereo spectrum.(bass in the left speaker and treble in the right). I'll get close and then some isolated notes on the treble side are more pronounced on the left VU meter instead of the right. (Too close to the holes in the harp assembly?)
+
+
+I tried the mike coming from behind the player and facing into the assembly from the keyboard as well. Still not getting clear left to right spectrum.
+
+
+Can you lead me in the right direction? I know I need to experiment for piano placement, but I can use a starting point with this mike.
+
+
+Answer:
+
+	Impossible to answer as mic placement is primarily dictated by:
+	
+	1) Room acoustics
+	2) Exact sound quality desired
+	3) Directional characteristcs of the piano soundboard
+	
+	All three of the parameters are impossible to accurately describe via email. Therefore, we cannot intelligently comment on microphone placement.
+	
+	Continue to experiment AND keep a detailed notebook of each placement and the sonic results. This is how experienced recording engineers develop their mic placement techniques: experimentation and documentation.
+	
+	There is one excellent textbook: Stereo Microphone Techniques; by Bruce Bartlett; published by Focal Press.

@@ -1,0 +1,25 @@
+Title: Color code for phono cartridge wiring
+Id: 3256
+Legacy Id: 3410
+
+Question:
+What is the color code standard for phono cartridge wiring?
+
+Answer:
+
+	The color code below applies to the majority of turntables and tone arms:
+	Left = white wire
+	Left Ground = blue wire
+	Right = red wire
+	Right Ground = green wire
+	
+	Be certain to check your turntable user guide to confirm the colors above.
+	
+	
+	For a removable headshell, the "typical" wiring is as follows - viewed from the wire side of the headshell connector:
+	Upper left = white
+	Upper right = red
+	Lower left = blue
+	Lower right = green
+	
+	Again, this may vary depending on the model and make of the turntable.

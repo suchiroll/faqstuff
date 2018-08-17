@@ -1,0 +1,12 @@
+Title: Does ShurePlus Channels work with UHF-R?
+Id: 4511
+Legacy Id: 5627
+
+Question:
+Does the ShurePlus Channels App work with UHF-R?
+
+
+Answer:
+
+	Yes. Version 1.2 (released in November 2015)added support for UHF-R.
+

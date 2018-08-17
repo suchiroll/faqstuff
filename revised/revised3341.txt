@@ -1,0 +1,13 @@
+Title: Light Bulb for Vocal Master Console
+Id: 3341
+Legacy Id: 3523
+
+Question:
+I need to replace a light bulb in my Vocal Master mixer/amp console.  Is there a generic type of light bulb that will work?
+
+Answer:
+
+	The light bulb used in the Vocal Master is often used in vacuum cleaners. The bulb is an incandescent lamp, model 15T7DC/1F or equivalent. The lamp operate on 115 to 125 Vac and draws 15 watts. The lamp has a D.C. (Double Contact) Bayonet base. The lamp diameter is 0.875 inch. The lamp total length is 2.25 inch
+	
+	Try searching Googlelamp 15T7DC.
+

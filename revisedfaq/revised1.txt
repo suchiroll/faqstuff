@@ -1,0 +1,76 @@
+Title: How do I change the roll off frequency of the A15HP
+Id: 1
+Legacy Id: 1
+
+Question:
+How can I change the roll off frequency of the Shure A15HP High Pass filter?
+
+Answer:
+
+	The standard roll off frequency of the A15HP high pass filter is 100 Hz, at a rate of 12 dB per octave. This assumes that output of the A15HP is connected to a load of 1,000 to 2,000 ohms. This is the typical input impedance of a professional microphone mixer. It is possible to change the corner frequency by replacing the two 10 F capacitors with values as follows:
+
+	
+		
+			
+				
+					
+						
+							Capacitor Value
+					
+					
+						
+							Roll-off frequency
+					
+				
+				
+					
+						
+							10 f
+					
+					
+						
+							100 Hz
+					
+				
+				
+					
+						
+							3.3 f
+					
+					
+						
+							174 Hz
+					
+				
+				
+					
+						
+							2.2 f
+					
+					
+						
+							213 Hz
+					
+				
+				
+					
+						
+							1.0 f
+					
+					
+						
+							316 Hz
+					
+				
+			
+		
+	
+
+
+	You can calculate the capacitor value required for a particular roll-off frequency using the following equation:
+
+	(100 / desired roll-off frequency)2 x 10 = new capacitor value(in microfarads)
+
+
+	
+

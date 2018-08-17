@@ -1,0 +1,14 @@
+Title: Shure Microphone Model 559853
+Id: 4394
+Legacy Id: 5487
+
+Question:
+Please provide information about the two-way radio microphone model 559853, made by Shure for RCA.
+
+
+Answer:
+
+	This is an OEM model. Please read this link: Shure OEM Products: 1940s to 1990s
+	
+	The model 559853 is likely a variation of the Shure standard model 550. To view 550 User Guides, use this link: http://www.shure.com/americas/support/user-guides/discontinued-products
+

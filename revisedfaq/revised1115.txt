@@ -1,0 +1,12 @@
+Title: WH20 for hockey announce
+Id: 1115
+Legacy Id: 1151
+
+Question:
+I am a public address announcer for a hockey team and after 2 seasons I am finding it necessary to go with a headworn microphone. I like the style and functions of the WH20, but is it well-suited for an environment where I'm talking normally one minute and yelling to excite the crowd the next?
+
+
+Answer:
+
+	The WH20-XLR microphone is a dynamic microphone and is able to handle high sound pressure levels. It should work very well for your needs.
+

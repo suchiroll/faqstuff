@@ -1,0 +1,14 @@
+Title: Rechargeable Batteries for PSM
+Id: 2148
+Legacy Id: 2219
+
+Question:
+We own 7 Shure wireless PSM600. We use them on Friday's, Saturday's and Tuesday's for 5 hours a night. Could you please suggest a 9V rechargeable battery that would treat us right?
+
+
+Answer:
+
+	A P6R receiver draws between 80 and 100 milliamps per hour depending on the volume level. A premium nine volt alkaline battery, like a Duracell, provides about 500 milliamp/hours. This means it will provide 100 milliamps for five hours; or 1 milliamp for 500 hours.
+	
+	Look at rechargable Lithium batteries. The higher its mA/hour rating, the longer it will last.
+

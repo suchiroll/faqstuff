@@ -1,0 +1,12 @@
+Title: FP5 and phantom power
+Id: 4193
+Legacy Id: 5147
+
+Question:
+I have the FP5 receiver. It works fine, except when I connect it to an input that has phantom power activated. Then the FP5 audio gets noisy. Turn off the phantom power and the FP5 is OK again. Is this a known issue? Is there a work-around?
+
+
+Answer:
+
+	This is a known issue and thereis a fix for it. Please send the FP5 to the Shure Service Center in your country, and they will be able to perform a modification to the circuit board to fix this issue.
+

@@ -1,0 +1,18 @@
+Title: Sound reinforcement for a church choir
+Id: 2830
+Legacy Id: 2941
+
+Question:
+I have a problem. I am the sound tech for a church. We meet in a 1000 seat auditorium. We have a full band (electric guitar, acoustic guitar, bass, drums, keyboard, lead vocals, 4 backup vocals, a choir of about 10-12, and 4 on stage monitors). Basically a rock band with a choir. We have run out of room on our board for everyone in the choir to have their own mic. I need to mic the choir with 1 or 2 mics. I have experimented with inexpensive overhead choir mics and have tremendous feedback problems. It has been suggested to me to try an SM81, SM137 or KSM141. I am on a budget but not too tight. I just don't want to spend $200-$300 on a mic that I can't use effectively.
+
+
+Answer:
+
+	In short, you have hit a brick wall and the wall is made of the laws of physics.
+	
+	Distant miking of a choir using two or three mics is not possible in a loud rock and roll church environment like yours. To understand why, read the article Understanding Sound System Gain and Feedback available at: Click here
+	
+	Read the article carefully and work through the numbers. You will quickly discover that for your choir to be loud enough to be heard over the band, close miking is a necessity.
+	
+	Save your money for any type of mic placed at a distance. This technique does not work in a loud music environment like you have.
+

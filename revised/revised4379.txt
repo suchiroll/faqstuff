@@ -1,0 +1,13 @@
+Title: A27M Thread Size - internal center rod
+Id: 4379
+Legacy Id: 5470
+
+Question:
+What is the thread size of the A27M internal central support rod? I wish to fabricate an adapter that will secure a small digital recorder to the top of the A27M. It will record a back-up to the main recording being done via the two KSM mics on the A27M.
+
+
+
+Answer:
+
+	 inch, 28 UNF 2A is the male thread of the A27M center rod.
+

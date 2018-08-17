@@ -1,0 +1,18 @@
+Title: Lemo to TA4M adapter cable
+Id: 3011
+Legacy Id: 3140
+
+Question:
+I'm going to make an adapter to be able to attach a TA4F equipment capsule to a U1L body pack. I just want to make sure my pin outs are correct. Please advise.
+
+
+Answer:
+
+	The adapter must use a TA4M to mate with the TA4F.
+	
+	TA4M pin 1 to Lemo pin 4 - cable shield
+	TA4M pin 2 to Lemo pin 2 - bias (red wire)
+	TA4M pin 3 to Lemo pin 1 - audio (black wire)
+	
+	With wiring above, if mic sounds too bright, then connect Lemo pin 1 and pin 3 together.
+

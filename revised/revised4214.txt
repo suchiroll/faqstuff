@@ -1,0 +1,25 @@
+Title: Carrying Case for BLX, GLX-D, PGX, PGX-D, DMK57-52, PGDMK4-XLR, PGDMK6-XLR
+Id: 4214
+Legacy Id: 5181
+
+Question:
+Please provide information about the carrying case used for BLX, GLXD, PGX, PGXD, DMK5752, PGDMK4XLR, and PGDMK6XLR.
+
+
+Answer:
+
+	This information was posted November 2012:
+	
+	a) The hard plastic carrying case supplied with the PGX, PGX-D, DMK57-52, PGDMK4-XLR, and PGDMK6-XLR is discontinued.
+	b) This case has been replaced with a rigid nylon case with zipper closure. It has high density foam cut-outs for the products. There is contoured foam in the lid to hold the products in place during transport.
+	c)Part # 95A16526: PGX or the PGX-D wireless system.
+	d) Part #95B16526: PGDMK4-XLR or PGDMK6-XLR.
+	e) Part # 95C16526: DMK57-52.
+
+	
+	This information was posted June 2014:
+	
+	a) PGX-D is no longer supplied with case #95A16526.
+	b) PGXD, GLX-D, and certain BLX systems, with handheld transmitters, are supplied with case #95D16526. The case foam does not include a cut-out for a body pack transmitter.
+	b) PGX-D, GLX-D, and certain BLX systems, with bodypack transmitters, are supplied with case #95E16526. The case foam does not include a cut-out for ahandheldtransmitter. If the wireless system is supplied with a headworn mic, there is a cut-out forthe mic.
+

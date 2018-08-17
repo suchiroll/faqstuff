@@ -1,0 +1,13 @@
+Title: What is the meaning of PTT?
+Id: 3759
+Legacy Id: 3995
+
+Question:
+I recently saw a mic described as PTT. What does that mean?
+
+
+Answer:
+
+	PTT = Push To Talk.  The mic has a switch that must be activated (pushed) before talking into the mic.
+	
+	Note a PTT mic often features an additional pair of wires that are not part of the mic audio circuit. This pair of wires is connected to the switch on the mic and provides a switch closure (from open to closed) when the mic switch is depressed. This switch closure can signal a two-way radio to change from "receive" to "transmit", or it can signal a paging amplifier to attenuate the background music during an announcement. 

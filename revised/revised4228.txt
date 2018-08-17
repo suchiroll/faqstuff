@@ -1,0 +1,20 @@
+Title: How to use earphone cleaning tool
+Id: 4228
+Legacy Id: 5212
+
+Question:
+What is the best way to use the Shure cleaning tool to clean my earphones?
+
+
+Answer:
+
+	For any wax/debris build-up, hold the earphonewith the nozzle pointed downward.While cleaning, it is desired to have the wax fall out of the nozzle, not accumulate in the center of the nozzle.
+	
+	When inserting the wire loop into the nozzle, the wire loop tip should rest against the edge of the damper; the side of the loop should rest against the side wall of the nozzle.Keep the wire loop tip against the edge of the damper/filter. Scrape the loop around the side wall while pulling it outwards to removethe wax.
+	
+	Do not press the loop deeper into the nozzle as this might puncture the damper/filter. Such damage will allow wax/debris to get into the transducer section of the earphone. Eventually, the audio signal will diminish or stop completely. As this point, the earphones must be sent to Shure Service/Repair.
+	
+	
+
+	
+

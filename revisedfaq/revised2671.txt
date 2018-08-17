@@ -1,0 +1,12 @@
+Title: Phantom voltage for KSM mics
+Id: 2671
+Legacy Id: 2775
+
+Question:
+Is the 48 volt phantom at the microphone PINS OR at the voltage supply BEFORE the 6.8k current limiting resistors?
+
+
+Answer:
+
+	This voltage is measured at the mic connector. The exact same voltage must be measured from pin 2 to pin 1, AND from pin 3 to pin 1.
+

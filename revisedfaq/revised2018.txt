@@ -1,0 +1,11 @@
+Title: Stand and cable for 55SH Series II
+Id: 2018
+Legacy Id: 2083
+
+Question:
+I am interested in the 55SH Series II Microphone. I need to know a couple of things before I decide to buy it. I need to know what kind of mic stand it needs, not a desk stand, a regular mic stand, and do you sell that. And also what kind of mic cord does it need, and do you sell that as well? Thank you for your help.
+
+
+Answer:
+
+	Mic floor stand is Shure MS10C. Mic cable is Shure C25F (25 feet with an XLR connector on both ends.)

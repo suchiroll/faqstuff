@@ -1,0 +1,11 @@
+Title: Foam for PE55 Microphone
+Id: 2300
+Legacy Id: 2385
+
+Question:
+I have a couple of PE55 microphones. Is it possable to buy the foam screen that goes inside of the microphone?
+
+
+Answer:
+
+	The foam used inside of the Shure model 55SH Series II will likely be a close fit to the PE55. Call Shure Parts to inquiry about the foam for the 55SH Series II: 800-516-2525.

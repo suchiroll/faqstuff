@@ -1,0 +1,36 @@
+Title: How do I mic a choir?
+Id: 172
+Legacy Id: 173
+
+Question:
+Where do I place microphones to correctly mic a choir?
+
+
+Answer:
+
+	Positioning Choir Microphones
+
+	
+		The goal of choir miking is to pick up a blend of sound from the whole choir (rather than individual singing voices), without picking up the sound of an organ or other musical instruments or loudspeakers. In general, high-level sound reinforcement of a choir is not possible, unless the choir itself is isolated from the area covered by loudspeakers. While floor wedge monitor speakers are sometimes provided for the choir to hear readers or other audio sources, these speakers cannot be used as foldback monitors for the choir to hear itself. The combination of foldback monitors and distant microphone placement (more than 12 inches from the mouth) almost always results in incurable feedback.
+
+
+	Choir Miking Tips
+
+	
+		Use condenser microphones, with either a cardioid or supercardioid polar pattern. Use the minimum number of microphones necessary.
+	
+		One microphone can generally cover up to 15-20 voices, in an area approximately 10 feet wide and three rows deep. For larger choirs, multiple microphones may be required.
+	
+		To avoid picking up the same singers with more than one microphone, observe the 3-to-1 Rule when positioning microphones (shown below).
+	
+		Position each microphone two to three feet in front of the nearest row of singers to be covered by that mic. Aim the microphone at the farthest row of singers to be covered by that mic. This places the farthest row on-axis to the mic and the nearest row slightly off-axis to the mic, which roughly equalizes their levels.
+
+
+	Suggested Microphones For Choir
+
+	To see which microphones we recommend for choirs, please see our online Selection Guides.
+
+	
+
+	
+

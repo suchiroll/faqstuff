@@ -1,0 +1,14 @@
+Title: Vertical polar pattern of MX392 mic
+Id: 305
+Legacy Id: 312
+
+Question:
+Your manual includes the typical polar patterns for the MX392 series mics. However, I assume that these are patterns in the horizontal plane. What about the vertical plane? Since the mic is on a boundary, we only have 180 degrees to work with. Where would 0 degrees be? On the table boundary, or at the approx 60 degree angle the mic is facing?
+I'm asking this question because the installation I am doing has speakers above the mic location, so I am looking for the optimum angle for mic placement to avoid feedback.
+
+Answer:
+
+	Zero degrees is the table boundary, directly in front of the word PUSH. If the MX392 is suspended in mid-air, the pattern looks like a standard mic, ignoring the minor effect of the MX392 bottom plate which is a small boundary itself. Placing the MX392 on a table surface essentially divides the polar pattern in half. The larger the table, the greater the boundary effect is at lower frequencies. Note that a 100 Hz acoustical signal is 11 feet long!
+	
+	If you use the MX392 supercardioid pattern, the optimal loudspeaker placement would be 120 degrees away from 0 degrees.
+

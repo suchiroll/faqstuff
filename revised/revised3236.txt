@@ -1,0 +1,12 @@
+Title: Compatibility of I series and Motorola Q Smartphone
+Id: 3236
+Legacy Id: 3386
+
+Question:
+Is there an I series that is compatible with the Motorola Q?
+
+
+Answer:
+
+	The single connector T version i series will NOT work with the Q. Even though it is the same jack the internal wiring is different. The I3c dual connector will work when you use the 2.5mm jack but you will only receive music in mono in both ears. You will not receive stereo music. We are still looking for the correct adapter to receive stereo music. FYI ...When using the dual connector version you will have the other 3.5mm jack loose if it is not plugged into a device.
+

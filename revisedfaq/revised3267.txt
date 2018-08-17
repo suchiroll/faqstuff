@@ -1,0 +1,158 @@
+Title: Instructions on configuring USB port for DFR11EQ, DFR22, DP11EQ, P4800.
+Id: 3267
+Legacy Id: 3422
+
+Question:
+How do I configure my USB port to connect to a DFR11EQ, DFR22, DP11EQ, or P4800?
+
+
+Answer:
+
+	All products in Shures DSP line are controllable or programmable via RS232 commands. Though RS232 (serial) communication has been a standard personal computer protocol for many years, more recently the USB (Universal Serial Bus) protocol has become common. USB provides the advantage of connecting many devices to a computer without configuring ports, setting DIP switches, finding IRQ addresses, etc. Another advantage of using USB Ports instead of Serial Ports is that USB communications are faster than Serial communications. Many recent Personal Computers, especially laptop and tablet types, are equipped only with USB ports and have no standard Serial Ports. Heres how to connect a Shure DSP processor to a USB Port.
+
+	
+
+	Parts needed:
+
+	
+		High Speed USB-to-Serial adapter
+	
+		Manufacturer: - Radio Shack
+	
+		Models: 26-949 or 26-183 (discontinued)
+
+
+	Installation for 26-949 Adapter - Windows Vista, XP, 2000, ME, 98SE
+
+	
+		Install the DSP processor software (DFR11EQ / DFR22 / DP11EQ / P4800). Install the software/drivers according to instructions supplied with the USB-to-Serial adapter.
+	
+		Connect the adapter to the USB Port on your computer.
+	
+		If necessary, connect an RS-232 extension cable (wired straight-through) to the adapter.
+	
+		Connect the other end of the adapter or RS-232 cable to the Shure device (DFR11EQ / DFR22 / DP11EQ / P4800).
+	
+		Check the USB-to-Serial adapter port assignment on the PC. It must be one of COM1 through COM4 for the DFR11EQ, DP11EQ, and P4800 or COM1 through COM32 for the DFR22 (if this is not the case, see the Change COM Port procedure below).
+	
+		Open the DSP software. On the DFR11EQ or DP11EQ select Communications tab and click on COM Port. On the P4800 or DFR22, select Devices tab and click on Select COM Port. Select the appropriate COM port number as checked above.
+
+
+	Installation for 26-183 Adapter - Windows XP:
+
+	
+		Install the DSP processor software (DFR11EQ / DFR22 / DP11EQ / P4800).
+	
+		Install the software/drivers according to instructions supplied with the USB-to-Serial adapter.
+	
+		Connect the adapter to the USB Port on your computer.
+	
+		If necessary, connect an RS-232 cable to the adapter.
+	
+		Connect the other end of the RS-232 cable to the Shure device (DFR11EQ / DFR22 / DP11EQ / P4800).
+	
+		Check the USB-to-Serial adapter port assignment on the PC. It must be one of COM1 through COM4 for the DFR11EQ, DP11EQ, and P4800 or COM1 through COM32 for the DFR22 (if this is not the case, see the Change COM Port procedure below).
+	
+		Open the DSP software.On the DFR11EQ or DP11EQ select Communications tab and click on COM Port.On the P4800 or DFR22, select Devices tab and click on Select COM Port. Select the appropriate COM port number as checked above.
+
+
+	Installation for 26-183 Adapter - Windows Vista
+
+	
+		Do not connect the USB-to-Serial Port Adapter to your Vista PC yet.
+	
+		Download a copy of the latest driver file: Go to www.radioshack.com.
+	
+		On the Radio Shack home page, use the site search on text 26-183 to find the product information. The 26-183 adapter is discontinued, but options to download the Product Manuals and Software are still available.
+	
+		Click on Software Downloads
+	
+		On the Software Downloads page, click on the title 6 Ft. (1.8 m) USB-to-Serial Port Cable - dated 7/26/06 to download the driver file.
+	
+		In the file download dialog box, click on Save File.
+	
+		Save the driver file, which is named 2600183.exe, to your hard disk. Store it in a directory of your choice, such as temp.
+	
+		Close your web browser program and any other programs that are active.
+	
+		Using the Microsoft Windows Explorer file manager, which should be under the Accessories program structure, locate the downloaded driver file.
+	
+		Right click the file name 2600183.exe.
+	
+		Click Properties.
+	
+		Click the Compatibility tab.
+	
+		On the Compatibility page, select Windows XP Service Pack 2 from the drop-down menu.
+	
+		Click the check box next to Run this program in compatibility mode for:
+	
+		Click Apply and then click OK.
+	
+		While still in Windows Explorer, double click the executable file 2600183.exe to load the device driver. The file will execute - it may takeseveral minutes to complete. When executing the file, Windows may identify the driver file as unsigned - do you really want to execute the file? Click yes to proceed.
+	
+		Once the driver has loaded successfully, connect the USB-to-Serial Adapter Cable to a USB port on your PC. The device will be recognized and will initialize for use.
+	
+		If necessary, connect an RS-232 cable (wired straight-through) to the adapter.
+	
+		Connect the other end of the adapter or RS-232 extension cable to the Shure device (DFR11EQ / DFR22 / DP11EQ / P4800).
+	
+		Check the USB-to-Serial adapter port assignment on the PC. It must be one of COM1 through COM4 for the DFR11EQ, DP11EQ, and P4800 or COM1 through COM32 for the DFR22 (if this is not the case, see the Change COM Port procedure below).
+	
+		Open the DSP software. On the DFR11EQ or DP11EQ select Communications tab and click on COM Port. On the P4800 or DFR22, select Devices tab and click on Select COM Port. Select the appropriate COM port number as checked above.
+
+
+	
+
+	Change COM Port Settings for DFR11EQ, DP11EQ, and P4800
+
+	If the COM port number is not automaticallyassigned to a value in the range COM1 through COM4 it will be necessary to manually set the COM port number of the USB-to-serial adapter to one of those values. If the USB-to-serial adapter COM port number does not match the one selected in the DSP software an error message will be displayed when attempting to connect to the DFR11EQ (and the DP11EQ) or when attempting to go to the Live mode on the DFR22 or the P4800. The USB-to-serial adapter COM port number can generally be reassigned either through the software that is included with the adapter or through the operating system directly.
+
+	
+
+	Setting the COM Port in the Operating System
+
+	Windows XP
+
+	
+		The software/drivers that are included with the USB-to-serial adapter must be installed before connecting the adapter to the computer.
+	
+		Connect the USB-to-serial adapter to a USB port on the computer.
+	
+		From the desktop, double click My Computer.
+	
+		From My Computer, click Control Panel. The Control Panel will open.
+	
+		In the Control Panel, double click System. The System window will open.
+	
+		In System, click the Hardware tab.
+	
+		In Hardware window, click Device Manager. The Device Manager window will open.
+	
+		In Device Manager, double click Ports (COM  LPT).
+	
+		Find the entry for your USB-to-serial adapter. The entry will contain the current value of the COM port setting. For proper operation with most Shure DSP units it must be one of COM1 through COM4.
+	
+		Double click the entry for the USB-to-serial adapter. The Properties window will open.
+	
+		In the Properties window, click the Port Settings tab. The Port Settings window will open.
+	
+		On the Port Settings window, click Advanced The Advanced Settings window will open.
+	
+		On the Advanced Settings window click the down arrow at the right of the COM Port Number box.
+	
+		Select an unused COM Port number in the range of COM1 through COM4. If there are no unused COM port numbers in that range it will be necessary to overwrite one of the in use COM port assignments. Choose one that will not be used while the Shure DSP is connected.
+	
+		Click OK. The Advanced Settings window will close, revealing the Port Settings window.
+	
+		Click OK. The Port Settings window will close, revealing the Device Manager window. Note that the COM Port number associated with the USB-to-serial adapter will not reflect the new assignment until the Device Manager window is closed and then re-opened.
+	
+		Close the Device Manager window. The System Properties window will be revealed.
+	
+		Close the System Properties window. The Control Panel window will be revealed.
+	
+		Close the Control Panel window.
+
+
+	The COM port value on the DSP software should now be chosen to match the COM port setting made above. Open the DSP software. On the DFR11EQ or DP11EQ select Communications tab and click on COM Port. On the P4800 or DFR22, select Devices tab and click on Select COM Port. Select the appropriate COM port number as set above.
+

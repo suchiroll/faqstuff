@@ -1,0 +1,15 @@
+Title: Are my SM58's out of polarity?
+Id: 1262
+Legacy Id: 1309
+
+Question:
+I have been having a problem on the stage with SM58 microphones, When I check them for phase they are out of phase. Is there a known phase problem with SM58 and SM57 microphones. If so what is the proper wiring to xlr output?
+
+
+Answer:
+
+	The SM58 has always been wired the same way. Positive pressure on the diaphragm produces positive voltage on pin 2.
+	
+	There are no disassembly instructions, as you simple unscrew the microphone at the middle joint or remove the set screw for the XLR connector to remove it. Those are the only two serviceable areas of the microphone.
+	
+	The wiring diagram can be found in the User guide.

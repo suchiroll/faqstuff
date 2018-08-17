@@ -1,0 +1,20 @@
+Title: M97xE terminals and color rings
+Id: 4614
+Legacy Id: 5772
+
+Question:
+Please provide details of the M97xE terminals.
+
+Answer:
+
+	Use a bright light to see the letters RG - L - R - LG molded into the black plastic terminal panel. Looking at the rear of the M97xE cartridge body:
+	
+	Upper left corner = RG = Right Ground = green ring
+	
+	Next lower terminal= L=Left = white ring
+	
+	Next lower terminal=R=Right = red ring
+	
+	Lower right terminalwith silver ground tab =LG=Left Ground = blue ring
+	
+

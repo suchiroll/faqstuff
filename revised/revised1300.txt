@@ -1,0 +1,12 @@
+Title: Can I use the 819 without the supplied preamp?
+Id: 1300
+Legacy Id: 1350
+
+Question:
+I recently purchased a Shure model 819 microphone used. The microphone had a 6' cable with it. I downloaded the model 819 user's guide from your website and noticed that the mike originally came with a battery power supply. Is it possible to run the mike directly to a phantom powered low impedance input? I noticed that the power supply includes a transformer in the signal path and I wondered if there was additional impedance matching or isolation required.
+
+
+Answer:
+
+	No, you cannot run the 819 directly into a microphone input. The 819 MUST be used with the preamp that came with it (or an equivalent).
+

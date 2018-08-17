@@ -1,0 +1,16 @@
+Title: Model 330 Ribbon Mic - SPL capability
+Id: 1276
+Legacy Id: 1324
+
+Question:
+I have aquired (2) uni- tron 330's. I am wondering what the "safe" SPL rating is. I would like to use them for close/room micing of rock drums and don't want to break the ribbon. Can you help?.
+
+
+
+
+Answer:
+
+	A very bad idea. The 330 ribbon mics were designed for speech: radio announcers, spoken word recordings, etc. They were not designed to handle the high SPL and severe transients of close miking for drums. We estimate that an SPL above 115 may damage the 330 ribbon.
+	
+	Shure no longer repairs the model 330. We urge you to use these microphones carefully. Ask this question: Would I put my ear in the same location I want to put the model 330? If the answer is no, then dont use the 330.
+

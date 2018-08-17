@@ -1,0 +1,14 @@
+Title: Conflicting Frequencies T Series
+Id: 1022
+Legacy Id: 1052
+
+Question:
+We apparently have a conflicting external radio frequency that interferes with one of our five T Series wireless units. We have 169.445, 208.200, 192.200, 183.600, and 182.200. It would seem we are getting two-way radio interference we think on 169.445. We are hearing the errant signal when the transmitter is turned off, the receiver is turned on and the board's fader is still up. We are now leaving the transmitters turned on and muted. Is there a way to change one frequency?
+
+
+Answer:
+
+	The T Series system on 169.445 MHz must be returned to Shure for a frequency change. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	Service Policies
+

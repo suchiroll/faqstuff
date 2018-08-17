@@ -1,0 +1,16 @@
+Title: Painting a Shure antenna
+Id: 4003
+Legacy Id: 4410
+
+Question:
+Can I paint a Shure antenna?
+
+
+Answer:
+
+	If the antenna is a flexible, 1/2 wave, rubber-ducky antenna, we recommend covering it with heat shrink tubing of the appropriate color. If painted, the solvent in the paint could attack the antenna outer covering.
+	
+	If the antenna is a directional, shark-fin antenna, like the UA870 models, Shure does not recommend painting as the paint may get onto the BNC connector or into the circuit board. Painting also will void the factory warranty.
+	
+	If you decide to paint anyway, use a fast-drying paint like Krylon. Be certain to adequately mask the BNC connector and the circuit board area.
+

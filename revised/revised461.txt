@@ -1,0 +1,14 @@
+Title: Submixing into an automatic mixer
+Id: 461
+Legacy Id: 470
+
+Question:
+If we connect the output of the SCM268 to an input of a ALTEC LANSING 1684A automatic mixer will it act as the sum of one with the other 1684A inputs?
+The inputs of the SCM268 are collecting multiple mike inputs from a choir.
+We do not want an additional automatic mixer because in a few years we will be in a new facility with a new system.
+Any other suggestions would be appreciated.
+
+Answer:
+
+	Submixing like you are describing could work. It is generally not recommended to submix into an automatic mixer, though. The automatic mixer may have problems with the submix. It would be better to take the output of the automatic mixer into the SCM268 and combine the other microphones at that point.
+

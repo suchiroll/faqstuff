@@ -1,0 +1,18 @@
+Title: Apple ipod nano 6th generation with SE215 and CBL-M+-K
+Id: 4031
+Legacy Id: 4441
+
+Question:
+Does the three button control on the CBL-M+-K accessory work with the Apple Nano ipod 6th generation?
+
+
+
+Answer:
+
+	The 3 button remote cable with mic, CBL-M+-K uses an integrated circuit chip that Apple has approved to work with all of its newer products: iPods, iPad, Mac Books, iPhones.Any Apple product that works with the Apple 3 button control should also work with the Shure 3 button control.The Apple website states that the 3 button control is compatible with the 6th generation nano ipod.That means the CBL-M+-K accessoryshould be compatible.
+
+	
+
+	Please note:it not feasible for Shure to test every new device that is introduced and every new firmware that is released.There are simply too many products being sold that require earphones.
+	
+

@@ -1,0 +1,40 @@
+Title: Part numbers and colors for BLX2 and GLXD2 transmitter shell / handles
+Id: 4684
+Legacy Id: 5853
+
+Question:
+What are the part numbers and available colors for BLX2 and GLXD2 transmitter shells/handles?
+
+
+Answer:
+
+	As of July 2015:
+
+	Replacement shells / handlesare available in Blue, Gold, Pink, Red, Silver, and White for the BLX2 and GLXD2 transmitters with PG58, SM58, and Beta58 mic capsules.
+	
+	BLX2/PG58:
+	WA712-BLU
+	WA712-GLD
+	WA712-PNK
+	WA712-RED
+	WA712-SIL
+	WA712-WHT
+	
+	BLX2/SM58 or BLX2/Beta58:
+	WA713-BLU
+	WA713-GLD
+	WA713-PNK
+	WA713-RED
+	WA713-SIL
+	WA713-WHT
+	
+	GLXD2/SM58 or GLXD2/Beta58:
+	WA723-BLU
+	WA723-GLD
+	WA723-PNK
+	WA723-RED
+	WA723-SIL
+	WA723-WHT
+	
+	Replacement shells in solid colors are not available for the GLXD2/SM86 or GLXD2/Beta87A.Fully customized sleeves for these transmitters, as well as any other BLX2 and GLXD2 transmitters, can be designed and ordered through the Shure Design Studio.
+

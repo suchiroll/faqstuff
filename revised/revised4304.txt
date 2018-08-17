@@ -1,0 +1,14 @@
+Title: AXT100 or AXT200 with FP5 or UR5?
+Id: 4304
+Legacy Id: 5375
+
+Question:
+Will the AXT 100 and AXT 200 work with the FP5 or UR5?
+
+
+Answer:
+
+	1) Will not work with the FP5.
+	
+	2) Will work with the UR5, assuming the frequency bands overlap. Tone key squelch may need to be disabled on the UR5. See the UR5 User Guide.
+

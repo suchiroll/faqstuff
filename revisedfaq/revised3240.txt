@@ -1,0 +1,18 @@
+Title: Mic for Upright Bass
+Id: 3240
+Legacy Id: 3390
+
+Question:
+What microphone would be the best selection for picking up an upright bass for a bluegrass band? I have seen various arrangements from having the mike on a boom on front of the bass, to wrapping the the mike in foam and tucking it between the tail-piece and top of the instrument. From what I have experienced, the wrap and tuck method works the best.
+
+
+Answer:
+
+	My preference is the Shure SM81, in a Shure A53M shock mount, held by a boom arm mic stand. The mic is placed as close as possible and aimed at the bridge or tailpiece.
+	
+	I do not prefer the mic placed on the instrument because the physical vibration of the instrument are tranmitted to the mic.
+	
+	I do not prefer foam wrapped around the mic because the foam will degrade the directional characteristics of the mic.
+	
+	Selection and position of a mic is subjective...a personal preference. There is no correct answer. Miking is more art than science.
+

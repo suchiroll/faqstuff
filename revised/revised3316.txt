@@ -1,0 +1,14 @@
+Title: Difference between QSHB3 and QSHB4
+Id: 3316
+Legacy Id: 3486
+
+Question:
+What is the difference between these two models? I have a Motorola V3.
+
+Answer:
+
+	The only difference between the QSHB3 and QSHB4 is the wiring and compatibility of what phones they work with. The QSHB4 will really only work with some NOKIA phones where the QSHB3 is the standard 3 conductor (2 ring 2.5mm) jack that works on most cell phones.
+	The Music Phone Adapter (MPA-3C, MPA-2B) incorporates a mic with send/end button for music phones like the Apple iPhone and TREO devices. It works seemlessly with any SE model earphone.
+	
+	You will want the QSHB3 with the Motorola SYN1505A adapter for use with the Motorola V3. Found here:
+	http://www.cellphonemall.net/wireless/store/access...

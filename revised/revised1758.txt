@@ -1,0 +1,13 @@
+Title: Adaptor: High-Z mic to Low-Z mixer?
+Id: 1758
+Legacy Id: 1818
+
+Question:
+I've just bought a 520D, and have occasions where I cannot use my Fender amplifier for my harp. On these occasions, I use the High Impedance input on our sound mixer.
+
+But, when we recently played a large club, the mic input box, connected to the snake, connected to their mixer, didn't have Hi-Z inputs, all Low. Is there an in-line device that will attenuate my signal, while changing my connection from 1/4" plug to standard low-Z 3 pin? I know I can wire my 520D either High or Low, but things are not consistent enough for hard-wiring in either configuration.
+
+Answer:
+
+	The A95U will work perfectly and convert the 520DX into a low impedance, balanced output.
+

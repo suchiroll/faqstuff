@@ -1,0 +1,16 @@
+Title: WiNRADiO frequency scanner for Wireless Workbench
+Id: 3042
+Legacy Id: 3173
+
+Question:
+Using your Wireless Workbench software I see I can use a WiNRADiO scanner, which model do you suggest?
+
+
+Answer:
+
+	Wireless Workbench 5.0.0 or 5.0.1 software will work with the WR-G305e, WR-G305e/WFM, WR-1550 and the WT-1550.
+
+	Wireless Workbench 5.0.2through 5.0.4 software will work with the WR-G33WSM, WR-G305e, WR-G305e/WFM, WR-1550 and the WT-1550.
+
+	It is useful to check the WiNRADiO website for software updates on a regular basis.
+

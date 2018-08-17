@@ -1,0 +1,12 @@
+Title: Antenna distribution for 11-13 BLX, SLX, ULX, QLX-D or ULX-D wireless receivers
+Id: 2428
+Legacy Id: 2523
+
+Question:
+How do I connect 11-13 BLX/SLX/ULX/QLXD/ULXD wireless receivers up to an antenna distribution system?
+
+
+Answer:
+
+	Please see our online Wireless Accessory Wizard.
+

@@ -1,0 +1,27 @@
+Title: M95HE Specifications
+Id: 2444
+Legacy Id: 2539
+
+Question:
+What does HE stand for? Specs?
+
+
+
+Answer:
+
+	HE stands for hyper-elliptical: the shape of the stylus tip.
+	
+	Frequency Response: 20 to 20,000 Hz
+	
+	Trackability at 1.25 g Tracking Force
+	(cm/sec Peak Velocity)
+	400 Hz: 24cm/sec
+	1 kHz: 33cm/sec
+	10 kHz: 19cm/sec
+	
+	Channel balance: within 2 dB
+	Channel Separation: greater than 25 dB at 1,000 Hz
+	Optimum Load: 47,000 ohms in parallel with 400 to 500 picofarads per channel
+	DC resistance: 1,550 ohms
+	Inductance: 650 millihenries
+

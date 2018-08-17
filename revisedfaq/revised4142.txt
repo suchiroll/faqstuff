@@ -1,0 +1,30 @@
+Title: Echo with CBL-M+-K when using my phone
+Id: 4142
+Legacy Id: 5044
+
+Question:
+I'm using the CBL-M+-K with SE215s and an iPhone 4S.At first, everything was perfect -- best phone sound and mic I've ever had.But then all of a sudden, everyone i spoke with on the phone started complaining that their own voices were echoing; i do not hear any echo on my side.
+
+Do you have any idea what's up here?Anything I can do to get back to the "good old days" (which were only about 3 weeks ago!)?
+
+
+Answer:
+
+	Unlikely that anything changed in the CBL cable, but you may send it to Shure Service to be examined/replaced.
+	
+	Echo is typically cause by a circuit in the phone known as side tone where some of the mic signal is fed into the earphone.This prevents the talker from speaking too loudly.It could be that the side tone circuit in the phone has gone awry.
+
+	This was found online:
+	
+	Weve received reports of customers having problems with voice echo on their iPhone 4S. The echo does not immediately start during a call, but instead appears anywhere from 2-12 minutes into a call. Multiple iPhone 4S changes and headset changes produce the same results. The problem appears to be software related.
+	
+	Temporary Fix
+	
+	When experiencing the echo, turn the speaker function on and off. This should clear up the issue temporarily and will have to be repeated every time the problem occurs.
+	
+	Other Possible Fixes (Unlikely to help, but worth a shot)
+	
+	Disconnect Your Headset
+	Restart Your Phone
+	Restore Your Phone
+

@@ -1,0 +1,12 @@
+Title: Replacement for SM18B
+Id: 2126
+Legacy Id: 2196
+
+Question:
+What mic replaces the old SM18B mic?
+
+
+Answer:
+
+	The MX391/C. Note this model requires phantom power to operate; the SM18 did not.
+

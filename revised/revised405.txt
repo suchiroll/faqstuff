@@ -1,0 +1,54 @@
+Title: Radio interference on a microphone cable.
+Id: 405
+Legacy Id: 412
+
+Question:
+I am using a MX300 mic in a church application. The cable run to the mic is about 300 feet. We are receiving a local radio station (810 KHz) quite clearly. Two different cable runs have shown the problem, although a third (shorter) is clean. What should I be looking for?
+
+Answer:
+
+	Troubleshooting and fixing RFI is a trial and error process. First, you can try to rule out the microphone by disconnecting the cable at the microphone end and placing a 150 ohm resistor between pins 2 and 3. That is, leave the 300 foot cable attached to the mixer, but replace the microphone with a 150 ohm resistor. If you still have RFI, than the input of the mixer has bad common mode rejection and you can deal with that in multiple ways.
+
+	
+	Solution #1. Transformers.
+
+	A quality 1:1 transformer has excellent common mode rejection. Nearly all inexpensive mixers have active inputs that may or may not be good at common mode rejection. By placing a transformer at the input of the mixer channel, you can get excellent common mode rejection. 1:1 transformers can be purchased from Markertek. Note: most transformers do not pass phantom power. There are certain types that will pass phantom. Check with the transformer manufacturer.
+
+	
+	Solution #2. Low Pass Filters.
+
+	A low pass filter can be made to filter out the AM radio interference. AM radio operates at a frequency higher than what we can hear, so we can roll off those supersonic frequencies using filters. A simple low pass filter can be made with a 0.01 microfarad capacitor. Place one capacitor between pin 2 and pin 1. Place a second capacitor between pin 3 and pin 1. You might have to place this at the microphone end or you might have to place this at the mixer end. Try both ends and see which one reduces the RFI more.
+
+
+	A better low pass filter can be made by introducing inductors as well as the capacitors. The circuit diagram below, shows you how.
+
+	
+
+
+	The necessary components can be purchased from Digi-Key.
+
+	
+		L1 = Series CM9900 PC mount common mode choke by API Delevan inductors; Digi-Key part number DN-4614-ND
+	
+		C1-C4 = Panasonic ceramic capacitor; Digi-Key part number P4847-ND
+
+
+	Use metal enclosure of your choice. Again, try placing this at the mixer and/or microphone end.
+
+
+	Ferrite chokes available from Radio Shack and Digi-Key also create a low pass filter on the line. You might only be able to get the cable through the choke once, or you might be able to wrap the wire around the choke a few times. Again, try placing this at the mixer and/or microphone end.
+
+	
+	Solution #3. RF Choke
+
+	Try using the Shure A15RF at either the microphone or the mixer end of the cable. The A15RF is a 4 inch long barrel with an XLR connector at each end.
+
+	
+	Other Resources
+
+	How does Radio Frequency Interference (RFI) occur
+	
+	The following linked document was written by Syn Aud Con about further troubleshooting RFI problems.
+
+	Troubleshooting Radio Frequency Interference Problems
+

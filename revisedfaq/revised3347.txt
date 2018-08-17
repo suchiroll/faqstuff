@@ -1,0 +1,26 @@
+Title: Professional microphone installation primer
+Id: 3347
+Legacy Id: 3529
+
+Question:
+I install home A/V systems and I need to learn about installing a professional microphone. Please provide some basic guidelines.
+
+
+Answer:
+
+	PRIMER ON INSTALLING A PROFESSIONAL MICROPHONE
+	
+	A professional microphone will have a male 3-pin XLR connector at its output. Interface with a female 3-pin XLR connector on the microphone end of the cable. Audio send will be on XLR pin 2, audio return will be on XLR pin 3, and XLR pin 1 is the cable shield (ground). No audio signal flows on the shield.
+	
+	If the microphone has an attached cable, consult the user manual to determine the function of each wire. There is no standard for the wire color and function.
+	
+	Use a cable with two inner conductors (twisted), enclosed within a shield. The two inner conductors will typically be a twisted pair of stranded copper wire; 20 to 26 AWG is a common size. The shield will be foil with a drain wire, or preferably, a braided copper shield. Because the microphone signal is low impedance and balanced, the cable length may be hundreds of feet in length. Belden, West Penn, Mogami, and Gepco are suppliers of high quality microphone cable.
+
+	The input on the device that follows the microphone must designed to accept a balanced, low impedance signal. Confirm that the input accepts a microphone level signal, typically around 54 dBV/Pa (1.85 mV). This means that one Pascal (Pa) of sound pressure applied to the microphone element will produce a microphone output signal of 0.00185 V (1.85 mV).
+	
+	The input impedance of the device should be roughly 10 times the impedance of the microphone.
+	
+	A condenser microphone requires phantom power supplied by the following device, typically a microphone mixer. Phantom power is between 12V and 48V, and flows to the microphone via the microphone cable. Confirm that phantom power is activated when using a condenser microphone.
+
+	
+

@@ -1,0 +1,14 @@
+Title: Networking two UHF-R receivers together
+Id: 3124
+Legacy Id: 3258
+
+Question:
+I have two UHF-R dual receivers that I have connected together with the ethernet cable. They are both set to DHCP and sometimes they network fine but it is inconsistent. When I turn the receivers on sometimes only one display the network icon, sometime both will display the network icon, and sometimes neither will show the icon and I have to spend way too much time turning them off and on until they network. What is going on?
+
+
+Answer:
+
+	Two UHF-R receivers can be directly interfaced via a single standard Ethernet cable connected to the Ethernet port of each receiver. A router or switch is not required. If the receivers are both in the same frequency band, they will become a self-aware network and the group scan function will be able to program both receivers automatically. If the receivers are in different frequency bands, the scan function will have to be conducted individually on each band. A computer can then be connected to either receiver via the USB connector. Opening Wireless Workbench software on the computer will allow the computer to see both receivers.
+	
+	Since there is no DHCP server involved in this type of set-up, each UHF-R receiver will default to an IP address based on its MAC address. The process is complete when the network icons appear on the UHF-R displays. It may take up to two or three minutes for this default IP setting to occur. When using a DCHP server-equipped router, the IP addressing will normally take place in less than one minute. Otherwise, the results are the same.
+

@@ -1,0 +1,17 @@
+Title: Curing feedback in my church
+Id: 2135
+Legacy Id: 2205
+
+Question:
+I have a small church choir of 6-10 people and We're looking for a mic solution that will eliminate our feed back problem. The choir members are always complaining that they cant hear themselves and so we turn them up in the monitors (two speakers on the floor at the choirster's feet pointing at the back wall). When we turn the monitors up, we get feed back into our 4 stand mounted condenser mics (medium diaphragm). We wanted to know if getting maybe 2 or 3 supercardioid hanging mics would cut the feed back. Our sanctuary is a diamond with the stage in a corner. we have two speakers on either side pointing toward the front pews and a cluster of 3 hanging about 25ft above the altar. We need a solution that will keep us from needing to individually mic every member at close range. Thanks!
+
+
+Answer:
+
+	Your problem cannot be adequately answered by email. Feedback is a complex equation that involves every part of the sound system and the acoustics of the church. Microphones are only one variable in the complex equation, and often not the most important variable.
+
+	
+	We strongly suggest you contact a well-respected audio consultant or sound system designer in your city, and ask them to analyze your entire sound system and room acoustics.
+	
+	Blindly replacing microphones in an effort to cure feedback is not the way to solve this situation.
+

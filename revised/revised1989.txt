@@ -1,0 +1,12 @@
+Title: M78S Cartridge - prongs and jumpers
+Id: 1989
+Legacy Id: 2052
+
+Question:
+I intend to set up a turntable with your M78S cartridge which is monophonic. My turntable currently has one of your better stereo cartridges in it with 4 prongs which connect to 4 wires. Does your M78S cartridge also have 4 prongs which I can put the 4 wires on? And what is the function of the two wire jumpers supplied with the M78S?
+
+Answer:
+
+	The M78S cartridge does have 4 prongs.   The two bronze jumpers (Shure part #44D119A) are used to tie together LEFT to RIGHT, and LEFT GROUND to RIGHT GROUND.  This puts the two internal coils in parallel and provide a monaural output for use with a monaural tone arm. 
+	A single jumper can also be used to tie together the internal coils in series.  For a series connection, have LEFT GROUND tie to RIGHT.   Use LEFT as one connection point for the tonearm, and RIGHT GROUND as the other connection point for the tonearm.
+	The M78S pin functions, from the top to the bottom are: Left - Right - Left Ground - Right Ground.

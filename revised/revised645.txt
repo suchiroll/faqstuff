@@ -1,0 +1,17 @@
+Title: What does "Audio Common" mean on a balanced connection?
+Id: 645
+Legacy Id: 662
+
+Question:
+Several times in reading about audio cables and wires I have heard the term "audio common" used.  Could you explain to me what the audio common is?  Sometimes it seems as if they are talking about the ground wire, but I am not sure.  
+
+Answer:
+
+	A balanced microphone cable requires three wires: a shield (which carries no audio information) and is connected to XLR pin 1; inner conductor A (which carries the hot audio signal) and is connected to XLR pin 2; inner conductor B ( which carries the cold or common audio signal) and is connected to XLR pin 3.
+	
+	The signal on pin 3 is the mirror image of the signal on pin 2. In technical terms, it is 180 degrees out of polarity with pin 2. A balanced input on mixing board only responds to the signal difference between pins 2 and 3. This is also called a differential input.
+	
+	On a professional microphone, pin 2 provides a positive voltage and pin 3 provides a negative voltage when the microphone diaphragm receives a positive pressure wave that pushes the diaphragm inward. Thus, pin 2 is hot; pin 3 is cold or common.
+	
+	To read more about balanced line, please refer to page 11 of: Microphone Techniques for Music - Sound Reinforcement
+

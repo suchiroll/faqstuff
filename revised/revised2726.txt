@@ -1,0 +1,15 @@
+Title: M62V Level Lock Repair
+Id: 2726
+Legacy Id: 2831
+
+Question:
+I have a Shure audio compressor, product name M62V Level Lock. It's a new-old unit bought 2 months ago from an authotized Shure dealer. It was laying on the shelf for the better 15 years "in the box". The unit passes audio in bypass mode but not in the Level Lock possition. We tried to locate the problem to no avail, the PDF schematics do not tell it all. Would you have a better solution to make this unit work. We wish to bring this special unit back to full functionality - not replace it in a new model.
+
+
+Answer:
+
+	Shure no longer services the M62V Level Lock. It was discontinued before 1980. We offer service on products for 10 years after it was last sold.
+	
+	The PDF schematic is the only information available on the M62V. There are no "hidden" circuits not listed on the PDF schematic.
+	
+	We wish you luck in fixing it. The circuit is relatively simple and an audio electronics repair technician in your area could likely find the problem. But keep in mind that Shure no longer has repair parts for the M62V.

@@ -1,0 +1,18 @@
+Title: Playing LPs and 78 rpm records on the same turntable
+Id: 2252
+Legacy Id: 2333
+
+Question:
+I wish to play both LP records and old 78rpm records on my new Gemini PT2410 turntable, which has both speeds. I plan to change from one to the other by changing between 2 tone-arm headshells, with the appropriate cartridge and stylus mounted in each. I expect to use a V15VxMR cartridge for playing LP's. For 78's, I could use a M78S cartridge, which would require changing tracking force and anti-skating adjustment each time, and perhaps other settings as well. Or I could use another V15VxMR cartridge (or perhaps a less expensive Shure cartridge) with a N78S stylus in it, which would presumably require no tone-arm adjustments every time the headshell with cartridge is changed; that would be more convenient. Can you advise me about the performance and adjustment factors I should consider in making the choice?
+
+
+Answer:
+
+	The problem is tracking force. The N78S stylus requires 1.5 to 3 grams of tracking force. The V15VxMR requires 1 gram of force.
+	
+	We suggest a second headshell with the M78S cartridge. Then adhere 1 gram of weight to the top of headshell. You should be able to find a metal washer that weighs a gram.
+	
+	Set the tonearm to track at 1 gram for the V15V. When you change to the other headshell, it will track at 2 grams due to the added weight.
+	
+	Dont worry about the anti-skate setting for the 78 rpm records. It is not critical for playing 78 rpm records.
+

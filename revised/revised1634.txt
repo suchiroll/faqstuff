@@ -1,0 +1,11 @@
+Title: VA300C thermistor
+Id: 1634
+Legacy Id: 1691
+
+Question:
+I am working on a VA300C Vocal Master and R23 is burned and I need to know what to replace it with. I know it is a resistor but need to know what type, value, and current. The numbers you show for this are RKC47, 45A38, and the commercial replacement number is Workman FRT-2.
+
+
+Answer:
+
+	For the answer, Where can I get a thermistor for my Vocal Master?

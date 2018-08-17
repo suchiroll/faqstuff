@@ -1,0 +1,14 @@
+Title: Custom Audio Cables
+Id: 2437
+Legacy Id: 2532
+
+Question:
+I need customized mic cables for an installation. Will Shure make custom cables for me?
+
+
+Answer:
+
+	Shure is not in the custom cable business.
+
+	Try: http://www.libertycable.com or http://www.markertek.com
+

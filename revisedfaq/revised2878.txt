@@ -1,0 +1,12 @@
+Title: N78S stylus with V15 Type II
+Id: 2878
+Legacy Id: 2997
+
+Question:
+Will the N78S stylus fit in and work with a V15 type II body?
+
+
+Answer:
+
+	It will with slight modification. The top of the N78S green plastic stylus grip must be filed/sanded down slightly (about 1 mm) so that the grip does not hit the V15 Type II body when the stylus is inserted. A nail file can used, but be very careful not to damage the N78S stylus when filing the plastic grip.
+

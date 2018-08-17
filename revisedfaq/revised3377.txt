@@ -1,0 +1,12 @@
+Title: SCM268 mixer - different yellow LEDs
+Id: 3377
+Legacy Id: 3564
+
+Question:
+I have an older SCM268 and a recent one. I noticed the color of the yellow LEDs are slightly different. Was this a change?
+
+
+Answer:
+
+	In late 2007, the yellow LEDs used in the SCM268 were changed because the original SCM268 yellow LEDs had been discontinued by the manufacturer. The new yellow LEDs were chosen based on their similarity in color and brightness to the original yellow LEDs.
+

@@ -1,0 +1,22 @@
+Title: KSE1500 Overview
+Id: 4853
+Legacy Id: 6040
+
+Question:
+Please provide an overview of the KSE1500.
+
+
+Answer:
+
+	The KSE1500 Electrostatic Earphone System is an electrostatic Sound Isolating earphone and amplifier system with digital-to-analog-conversion (DAC) for use in-line with portable media players. Featuring single-driver electrostatic earphones matched to a USB digital-to-analog-converter (DAC) and featuring up to 24 bit/ 96 kHz conversion rate, customizable 4-band parametric EQ with five standard and 4 user-defined settings, rechargeability and input level meters. Process digital audio directly via micro-USB, analog via a direct line in, or bypass entirely for a pure analog signal without conversion.
+	
+	 The first application of electrostatic technology for Sound Isolating Earphones (patent pending) featuring a single MicroDriver design
+	 Extremely high correlation to the source audio provides audio clarity and detail
+	 4-band parametric EQ features five preset settings and four customizable settings to manage audio playback preferences
+	 Integrated USB-rechargeable battery can charge from provided wall charger or computer, even when streaming USB audio from computer
+	 Lightweight, ergonomic earphone shape minimizes ear fatigue while comfortable Sound Isolating sleeves block up to 37 dB of ambient noise
+	 Custom-designed earphone cable specifically isolates each conductor
+	 Streamlined controls for user-friendly navigation throughout the KSE1500 settings
+	 Compatible with Mac, PC, iOS and Android devices using included accessories: Micro-B to Lightning and Micro-B OTG cables
+	 Premium Shure fit, finish, and construction featuring a machined black aluminum housing
+

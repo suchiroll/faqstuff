@@ -1,0 +1,18 @@
+Title: Shure cartridge 1200HRP
+Id: 3510
+Legacy Id: 3709
+
+Question:
+I unearthed one my turntables (Yamaha YP-B4) and it has the Shure 1200HRP cartridge. It sounds pretty good still, but I no longer have any of the documentation.
+
+
+Answer:
+
+	The 1200HRP is equivalent to the Shure M110HE.
+	
+	7.3 grams in weight
+	1.0 to 1.5 grams tracking force
+	4.0 mV output level
+	0.000025 centimeter per dyne of force static compliance
+	
+

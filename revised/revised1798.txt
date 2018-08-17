@@ -1,0 +1,17 @@
+Title: Mounting a T4N receiver vertically?
+Id: 1798
+Legacy Id: 1858
+
+Question:
+I am designing a new enclosure to house my mixer and other equipment and am thinking of mounting the T4N vertically on a side wall, instead of having it sit horizontally on a shelf to conserve space. Are there any concerns that you have with such positioning like heat dissipation within the T4N enclosure? (I expect to use Velcro to hold it in position.)
+
+
+Answer:
+
+	The T4N power supply generates most of the heat, not the receiver. A vertical mounting is fine. But keep reading...
+	
+	Make certain the T4N antennas have clear line of sight to the transmitter.
+	
+	Make certain the T4N receiver is mounted far away from any device that is digital in nature, e.g, CD player, digital reverb, digital effects box, etc.
+	
+	Mock up your new set-up first and try out the entire signal chain before mounting any device permanently. Electronic devices can negatively interact with each other.

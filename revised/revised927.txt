@@ -1,0 +1,11 @@
+Title: Replacement stylus for M95EJ
+Id: 927
+Legacy Id: 955
+
+Question:
+I need to replace this stylus in my cartridge in my Sony turntable. Will any N95E stylus work?  I don't see the N95EJ as an available stylus but I see the N95ED as available.  What would be the cost of the N95ED if it is a suitable replacement?
+
+Answer:
+
+	The N95ED tracks at .75 to 1.5 grams. If the tonearm will track in this range, the N95ED can be used and will fit the M95 body.
+

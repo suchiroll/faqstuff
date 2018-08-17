@@ -1,0 +1,12 @@
+Title: MXA910 and MXA310 automixing: Classic versus Smooth mode
+Id: 4999
+Legacy Id: 6267
+
+Question:
+What's the difference between the Classic and Smooth modes of automixing on the MXA310 and MXA910?
+
+
+Answer:
+
+	Smooth mode scales the off-attenuation level based on the number of channels in use. The more channels that are deployed in your configuration, the greater the off-attenuation, resulting in a smoother listening experience as lobes transition between on and off states. Classic mode is the same auto-gating style as with the SCM820 Classic mode and SCM810 automixers, where the off-attenuation level is fixed regardless of the number of channels in use.
+

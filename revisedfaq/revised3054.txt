@@ -1,0 +1,12 @@
+Title: Conference One Audio Signal Levels
+Id: 3054
+Legacy Id: 3185
+
+Question:
+What is the signal level on the Conference One audio bus?
+
+
+Answer:
+
+	The audio signal level that passes from unit to unit is unbalanced and has a nominal signal level of: minus 6dBV (-6dBV)
+

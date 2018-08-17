@@ -1,0 +1,11 @@
+Title: Right earphone is dead on my cell phone, but not on my iPod
+Id: 3645
+Legacy Id: 3853
+
+Question:
+I have a puzzling program. My Shure earphones work fine with my iPod, but on my iPhone 3G, the right earphone is dead. Any ideas?
+
+
+Answer:
+
+	We know the source of the problem and it is the jack on the iphone 3G.  The problem described below also applies to other cell phones.The Shure earphones have three connection points on the 3.5mm male plug.  The tip is the left earphone signal; the ring is the right earphone signal; the sleeve is the common ground return for the left and the right signal.  The iPod 3.5mm mating jack has three connection points that make contact with the three connections point on the earphone plug. As of January 2010, most cell phone 3.5 mm mating jacks have four connections points: the tip is the left earphone signal; ring 1 is the right earphone signal; ring 2 is the common ground return; sleeve is the microphone signal.  What is happening in your situation is that the ring connection of earphone is making contact with the iPhone jack's ring 1 connection AND the ring 2 connection.  When this happens the right earphone signal is shorted to ground and the right earphone goes dead.The spacing between ring 1 and ring 2 in the cell phone mating jack is very tiny and very critical.  If the jack connection points are slightly bent and/or not in tolerance, the right ear phone becomes shorted and produces no audio.  The solution: have a new jack installed in the phone. 

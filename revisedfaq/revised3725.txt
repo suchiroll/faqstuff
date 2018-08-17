@@ -1,0 +1,15 @@
+Title: PSM900 Cue Mode - Limiter defeat?
+Id: 3725
+Legacy Id: 3958
+
+Question:
+Is there a method to defeat the limiter when using Cue Mode on the P9R?
+
+
+Answer:
+
+	Look in the P9T transmitter Utility menu; there is a sub-menu called Rx (Receiver) Setup. In Rx Setup mode, one can set the P9T to send specific data to the P9R receiver upon syncing.For example, the P9T can instruct the P9R to activate or deactivate the P9R limiter, and to set the P9R limiter value.
+	Another option is to keep the settings already stored in a P9R.
+	
+	Whether syncing an individual receiver pack or loading multiple frequencies into a Cue Mode list, all the parameters from a P9Ts RX Setup menu will be stored.These will not be accessible from the P9R receiver while in Cue Mode, and they revert back to the transmitter settings whenever the receiver enters Cue Mode.
+

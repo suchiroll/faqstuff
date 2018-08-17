@@ -1,0 +1,17 @@
+Title: PG27, PG27-USB, PG42 and PG42-USB Stand Adapter and Shock Mount
+Id: 3722
+Legacy Id: 3955
+
+Question:
+The PG42 shock mount does not fit a standard U.S. mic stand that has a 5/8"-27 male thread. Please advise.
+
+
+
+Answer:
+
+	PG27, PG27-USB, PG42 and PG42-USB: The stand adapter and the shock mount mic holder are shipped with an European mic stand adapter fastened into the 5/8-27 internal thread. This adapter changes the size of the threaded hole. With the European adapter installed, the shock mount mic holder will not fit a U.S. mic stand.
+	
+	The Euro stand adapter has two slots on either side of the fitting.A U.S. nickel (5 cent coin) will fit the slots and allow easy removal of the adapter.A large screwdriver may also work.Once the adapter is removed, the 5/8-27 female thread size will be restored.
+	
+	What is a European mic stand adapter?
+

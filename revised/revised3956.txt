@@ -1,0 +1,22 @@
+Title: Axient Talk Switch
+Id: 3956
+Legacy Id: 4205
+
+Question:
+What is the purpose of the Talk Switch on the Axient system?
+
+
+Answer:
+
+	The Talk Switch accessory on the Axient system allows the talent to switch the audio to different listeners. For example, a singer might want to tell their monitor engineer about an adjustment, but that should not go over the main PA. Television on-air personalities can push the button to talk to their producer.
+	
+	There are three Talk Switchmodes:
+
+	
+		Push To Use TRS Output: audio routed to 1/4 TRS when button pushed, audio routed to XLR always on.
+	
+		Push to Use XLR Output: audio routed to XLR when button pushed, audio routed to 1/4 TRS always on.
+	
+		Push to Toggle XLR and TRS: button not pushed = XLR on, TRS off; button pushed = XLR off, TRS on.
+
+

@@ -1,0 +1,15 @@
+Title: Two UT wireless systems on the same frequency?  What to do?
+Id: 903
+Legacy Id: 931
+
+Question:
+We really love the UT wireless system you guys manufacture. Recently on a gig we had two Shure handheld UT Mic's and their respective transmitters on stage. It seems as though they were on the same channel. How do we change the channels of these mic's, or if we can't change the channel, what can we do.
+
+
+
+
+
+Answer:
+
+	The frequencies for the UT series can only be changed by the Shure service department.
+

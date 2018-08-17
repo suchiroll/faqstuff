@@ -1,0 +1,37 @@
+Title: Will the N78S fit all Shure cartridges?
+Id: 1054
+Legacy Id: 1087
+
+Question:
+Will an N78S replacement needle will fit almost all Shure cartridges? Secondly, do I need a different RIAA correction when playing 78´s?
+
+
+Answer:
+
+	The N78S replacement stylus will only work with these current and discontinued Shure cartridges:
+	
+	Current Audiophile/hi-fi cartridges:
+	V15VxMR
+	M97xE
+	M92E
+	M78S
+	
+	Discontinued Audiophile/hi-fi cartridges:
+	M111E
+	M70BX
+	M91 Series
+	M92 Series (Pre 1975)
+	M93
+	M94E/MP94E
+	
+	Current DJ cartridges:
+	M35S
+	M35X
+	SC35C
+	
+	Discontinued DJ cartridges:
+	M44-7X
+	M44GX
+	
+	78 rpm records had several settings, but RIAA is close enough to satisfy most requirements. If someone wants the exact equalization, they would need to research the producer of the 78 rpm disc and find equipment that has the proper playback equalization.
+

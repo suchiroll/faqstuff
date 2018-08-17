@@ -1,0 +1,12 @@
+Title: Foam windscreen principle of operation
+Id: 2779
+Legacy Id: 2887
+
+Question:
+How does a foam windscreen work?
+
+
+Answer:
+
+	The microscopic cells in the foam are open, not closed; i.e., air molecules must follow a winding path from the outer surface of the windscreen to the inner. Like a car travelling around a road with many curves, the air molecules have to slow down. This reduction in speed reduces the noise produced by the wind blasts.
+

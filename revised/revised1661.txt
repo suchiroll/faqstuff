@@ -1,0 +1,12 @@
+Title: Shure equivalent to Radio Shack mic 33-1070
+Id: 1661
+Legacy Id: 1718
+
+Question:
+You sell a microphone through Radio Shack, part no 3301070 (pro-omni, dyanamic) and I would like to know the equivalent Shure model and part number.
+
+
+Answer:
+
+	There is no direct equivalent. The closest Shure model is the Shure VP64A, and it is more expensive than the Radio Shack model.
+

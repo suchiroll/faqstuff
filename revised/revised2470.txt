@@ -1,0 +1,17 @@
+Title: Dimension of V15VxMR
+Id: 2470
+Legacy Id: 2565
+
+Question:
+What are the physical dimensions of the V15vxmr cartridge? I have a Merrill Heirloom table with a peripheral clamping ring. If the cartridge is too wide, it will hit the peripheral clamping ring on the first track. Can the stablizer brush be removed, without any detrimental effects?
+
+
+
+Answer:
+
+	Total length including the terminal pins: 30 mm
+	Total height including stylus: 17 mm
+	Total width: 18 mm
+	
+	The stabilizer brush cannot be removed. It can be locked in the up, unused position.
+

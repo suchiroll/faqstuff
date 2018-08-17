@@ -1,0 +1,13 @@
+Title: Frequency response of wireless monitors
+Id: 760
+Legacy Id: 780
+
+Question:
+I could only find a frequency response specification for the wired personal monitors. What is the frequency response for the P4R Wireless Receiver and the two types of earphones available?
+
+The application is for a small amateur band that doesn't move around on stage very much.
+
+Answer:
+
+	The wireless system, without earpieces, has a frequency response of 50-15,000 Hz. The frequency response of the earpieces is going to depend on the shape of the users ear canal. Therefore, the frequency response of the earpieces cannot be specified.
+

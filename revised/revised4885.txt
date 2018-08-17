@@ -1,0 +1,25 @@
+Title: Phono Cartridge Output Level Imbalance
+Id: 4885
+Legacy Id: 6143
+
+Question:
+When I play a record, the left channel is much louder than the right channel? How can I test the cartridge to see if it is the source of the level imbalance?
+
+
+Answer:
+
+	Remove the wires from the rear of the phono cartridgeand exchange the wires as follows:
+	
+	Move L wire to R terminal
+	Move LG wire to RG terminal
+	Move R wire to L terminal
+	Move RG wire to LG terminal.
+	
+	If the output level imbalance is within the cartridge body, it will move to the other channel with this test.In that case, replacing the cartridge body is required.
+	
+	If the output level imbalance remains in the same channel, the problem is NOT in the cartridge but in the signal chain AFTER the cartridge output.
+	
+	The output level specification for many cartridges is plus/minus 2 dB.Meaning the output level of the Right channel can be 2 dB less or 2 dB greater than the Left channel and still meet factory specifications.
+	
+	Mechanical adjustments, such as alignment, anti-skate, tracking weight, haveminimal effect on output level.
+

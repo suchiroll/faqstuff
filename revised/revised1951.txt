@@ -1,0 +1,12 @@
+Title: Elements for the SM58, SM57 & Beta 57A
+Id: 1951
+Legacy Id: 2014
+
+Question:
+Does the SM58, SM57 & Beta 57A have the same element?
+
+Answer:
+
+	The SM58 and the SM57 elements are nearly the same; there are a few minor variations.
+	
+	The Beta 57A is completely different.

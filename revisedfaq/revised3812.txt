@@ -1,0 +1,14 @@
+Title: X2u stopped working
+Id: 3812
+Legacy Id: 4050
+
+Question:
+I have an X2u that I have used for a few months. It used to work fine, but now my new computer does not recognize it. It does not show up in any of the control panels. The green light never comes on and when I push the "+48V" switch, the blue light does not come on. However, when I plug the X2u into my old computer it works fine.
+
+
+
+Answer:
+
+	The green light will come on whenever the X2u is talking to the computer, so we know the X2u is not talking to the computer.
+	However, the bigger indicator is the blue light that is for the phantom power switch. This light will still illuminate if the X2u is powered up, even if it is not communicating with the computer.
+	Thus, since the blue light never turns on, it shows that the USB port on the computer is not supplying the necessary power. That is, the USB port is dead. The computer needs to be repaired.

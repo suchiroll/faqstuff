@@ -1,0 +1,20 @@
+Title: Too much background noise in recording to computer
+Id: 391
+Legacy Id: 398
+
+Question:
+I'm trying to record a presentation in a conference room directly to a WAV file on a laptop. When I make test recordings there is a lot of background noise. Is there a way to minimize the noise? I am using a tabletop microphone. Do microphones, sound cards.... make much of a difference? If so, what equipment do you recommend?
+
+
+Answer:
+
+	There is no easy answer to your questions. So we suggest you read a few technical bulletins to help you better understand the many factors underlying your situation.
+	
+	Go to: Shure FAQ
+	
+	Do a search using the keyword noise.
+	
+	You will find 5 to 6 questions/answers on this subject. After you have read them, please contact us again if you have remaining questions.
+	
+	The problem might also be in the way the microphone is connected to the computer. Click here for more information.
+

@@ -1,0 +1,44 @@
+Title: P4800 RS232 Codes - AMX / Crestron Subprograms
+Id: 1126
+Legacy Id: 1164
+
+Question:
+What are the RS232 codes for controlling the P4800 with an AMX or Crestron controller?
+
+
+Answer:
+
+	The RS232 codes can be found in the following document:
+
+	P4800 RS232 Commands and Connection Instructions
+
+	AMX
+
+	
+		The zipped file contains AMX library files as well as documentation.
+
+
+	
+		AMX Files (zip file)
+
+
+	Crestron
+
+	
+		The following are macros for the Crestron SIMPL Windows program. The zipped files include connection instructions, complete RS232 command strings, macro documention, and the macros.
+
+
+	
+		Input Macro (zip file, written by Shure)
+	
+		Output Macro (zip file, written by Shure)
+	
+		Matrix Mixer Macro (zip file, written by Shure)
+	
+		Preset/Scene Change Macro (zip file, written by Shure)
+
+
+	Screen Shots
+
+	    
+

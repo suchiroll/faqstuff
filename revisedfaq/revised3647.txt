@@ -1,0 +1,34 @@
+Title: MX690 or MX890 transmitter with SLX4L receiver
+Id: 3647
+Legacy Id: 3855
+
+Question:
+What should I know about using the MX690 or MX890 with the SLX4L "Logic" receiver?
+
+
+Answer:
+
+	The SLX model line features infra-red synchronization (SYNC) for programming the transmitter to match the frequency of the receiver.
+	
+	If an SLX4L receiver tries to sync with an MX690 or MX890 transmitter that has a different operating frequency band, the transmitter's LCD window will display "Incompatible" as a user alert.  The sync cannot happen unless the SLX receiver and the SLX transmitter have the same operating frequency band. There is no field fix to this situation. A new transmitter must be obtained that matches the receiver's operating frequency band, or vice versa.
+	
+	The SLX4L "Logic" receiver features two modes of operation: "Normal" and "Logic".   The Logic Mode is intended only for teleconferencing use. The SLX4L is set to "Normal" mode at the factory. To toggle between the "Logic" and "Normal" modes on the SLX4L receiver, press and hold the "Select" button and press the "Power" button.
+	Mode 1: "Logic"  In "Logic" mode, the transmitter's audio signal is not muted within the transmitter.  The microphone audio passes continuously to the teleconferencing processor and must be muted within the teleconferencing processor.  A continuous audio signal is required for effective operation of echo cancellation circuitry. When the transmitter's mute button (labeled as "PUSH") is activated, the SLX4L receiver's TTL pin 1 terminal changes from logic low (0 volts) to logic high (+5 V).  This voltage change can be used by the teleconferencing processor to mute the audio signal.
+	
+	Mode 2: "Normal"  In "Normal" mode, the audio is muted within the transmitter when the mute button (labeled as "PUSH") on the transmitter is activated.  This action also causes the illuminated LED ring on the transmitter to change from green to red.
+	
+	When syncing the MX690 or MX890 to the SLX4L operating frequency, it is imperative that the receiver be set to the "Logic" mode before the sync function is activated.  The transmitter's internal mute circuit operates differently in "Logic" mode, and thus must be synchronized after the receiver is set to "Logic" mode. If "Normal" mode is desired, set the SLX4L to "Normal" and then perform the sync with the transmitter.
+	
+	Here are the TTL outputs with the SLX4L set to "Logic" mode:
+	MX Transmitter Power Off = TTL Pin 1 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+	MX Transmitter Power On; Microphone Audio Active= TTL Pin 1 status is logic low (0 volts in relation to TTL Pin 2 terminal)
+	MX Transmitter Power On; Microphone Audio Muted = TTL Pin 1 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+	MX Transmitter Battery OK = TTL Pin 3 status is logic low (0 volts in relation to TTL Pin 2 terminal)
+	MX Transmitter Battery Low = TTL Pin 3 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+	
+	Here are the TTL outputs with the SLX4L set to "Normal" mode:
+	MX Transmitter Power Off = TTL Pin 1 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+	MX Transmitter Power On; Microphone Audio Active= TTL Pin 1 status is logic low (0 volts DC in relation to TTL Pin 2 terminal)
+	MX Transmitter Power On; Microphone Audio Muted = TTL Pin 1 status is logic low (0 volts DC in relation to TTL Pin 2 terminal)
+	MX Transmitter Battery OK = TTL Pin 3 status is logic low (0 volts in relation to TTL Pin 2 terminal)
+	MX Transmitter Battery Low = TTL Pin 3 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)

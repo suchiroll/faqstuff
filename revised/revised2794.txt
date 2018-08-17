@@ -1,0 +1,11 @@
+Title: N97xE stylus in M97 or ME97 body?
+Id: 2794
+Legacy Id: 2903
+
+Question:
+Will the N97xE replacement stylus work in the M97 or ME97 body?
+
+
+Answer:
+
+	The N97xE is not a suitable replacement stylus for the M97 or ME97 series cartridges. The magnetic assemblies are incompatible, yielding unacceptable high frequency roll-off.

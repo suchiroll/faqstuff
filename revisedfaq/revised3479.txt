@@ -1,0 +1,11 @@
+Title: Which cities have Public Safety in the TV spectrum?
+Id: 3479
+Legacy Id: 3676
+
+Question:
+In 13 U.S. cities, certain TV channels between 14 and 20 are reserved for Public Safety communications. How can I find out which channels are reserved in each city?
+
+
+Answer:
+
+	The attached document lists the 13 cities and shows which TV channels are used by Public Safety communications.  Wireless microphone users must avoid these channels to prevent interference with critical emergency communications.  Be aware that these channels might only be used during emergencies, so they may appear to be vacant during a scan of the spectrum.

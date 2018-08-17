@@ -1,0 +1,28 @@
+Title: How to identify MX microphones with improved resistance to GSM interference
+Id: 3257
+Legacy Id: 3411
+
+Question:
+How can I identify the new versions of MX microphones that have been redesigned to reduce interference from GSM devices like Blackberry cell phones?
+
+
+Answer:
+
+	In 2006, Shure introduced new designs of the MicroFlex (MX) microphones that have improved resistance to RF interference from GSM phones and other similar devices. Here is how to identify these improved MX designs:
+
+	
+		The label located on the outer box for all improved MX models will have the words RF Filtering.
+	
+		Improved wired gooseneck and overhead microphones using in-line preamps (MX202, MX412SE/MX418SE) will have a small dot located on the XLR end of the preamp. The dot will be located below the existing words condenser 150 Ohms.
+	
+		Microphone cables will no longer be hard-wired to the in-line preamps. The improved models will be connected to the preamp using a TQG connector.
+	
+		Improved wired microphones with an attached preamp (MX412/MX418) will have a small dot located on the XLR end of the preamp. The dot will be located below the existing words condenser 150 Ohms.
+	
+		Improved boundary microphones (MX391, MX392, MX392) will be identified on the name plate label - located on the bottom side of the microphone. The name plate will have the words RF Filtering.
+	
+		Improved lavalier microphones (MX183, MX184, MX185, WL183, WL184, WL185) have a small dot located near the cable entrance on the lavalier housing.
+	
+		On MX412D/MX418D the sticker on the bottom of the base will say RF Filtering. Also, the bottomcoverof the base will be a cast metal piece that is sealed all around. The older version used a sheet metal bottom cover. The bottom cover of the MX412D/MX418D is part of the mic ground circuit. It must be installed for the mic to operate.
+
+

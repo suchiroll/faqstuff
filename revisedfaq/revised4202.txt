@@ -1,0 +1,15 @@
+Title: Subjective Audio Qualities and Descriptive Terms
+Id: 4202
+Legacy Id: 5169
+
+Question:
+'Bite', 'Slap', and 'Sizzle': what does it all mean? I read articles about recording engineers and they use these terms. I am new to recording and have no clue on how to relate these terms to the actual frequencies being recorded.
+
+Answer:
+
+	The following graphic was published by Sound on Sound in October 2012. It characterizes these subjective audio qualities.  Shure sends our sincere gratitude to Sound On Sound for publishing this useful document.
+
+
+	
+	Click on the thumbnail to see the full size version.
+

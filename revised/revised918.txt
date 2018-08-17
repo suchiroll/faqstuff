@@ -1,0 +1,16 @@
+Title: Wireless microphones for conference rooms
+Id: 918
+Legacy Id: 946
+
+Question:
+Hatch has a conference room with an executive table for 24 people. We would like to avoid cables on top of the this table. We do all our worldwide conference and videoconferencing meetings in this room. Do you have any product that we could use? I am not an expert in this, but I was told that we can't use a wireless microphone because they use batteries and the batteries do not last more than four hours. Is this true with your system.
+
+
+Answer:
+
+	Our QLXD, ULXD or MXW series would be appropriate for your application.
+	
+	Next, you need to determine which type of microphone you want. If you want a boundary microphone, look at the MXW6 with the MXW wireless system, or the ULXD6 with a ULXD receiver. If you want a thin gooseneck microphone, look at the MXW8 or ULXD8 and the MX405/MX410/MX415.
+	
+	The other possibility is to place a mixer underneath the table. You can use any wired microphone plugged into the mixer and run the output of the mixer into a single wireless bodypack. The battery life of a wireless microphone transmitteris 6 to 8 hours when using alkaline batteries.
+

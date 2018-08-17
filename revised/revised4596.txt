@@ -1,0 +1,18 @@
+Title: QLX-D Audio Outputs
+Id: 4596
+Legacy Id: 5752
+
+Question:
+Can both audio outputs on the QLXD4 receiver be used simultaneously?
+
+
+Answer:
+
+	1) Yes.
+	
+	2) The Mic/Line Switch affects only the male XLR connector (impedance balanced.)
+	
+	3) The 1/4 female phone jack may be used as an unbalanced output (Tip/Sleeve), or an impedance balanced output (Tip/Ring/Sleeve.)
+	
+	4) The 1/4 phone jack output is about20 dB hotter than the XLR output at Mic Level.
+

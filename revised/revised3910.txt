@@ -1,0 +1,20 @@
+Title: FCC Narrowbanding Mandate
+Id: 3910
+Legacy Id: 4156
+
+Question:
+How will the FCC mandate for narrowbanding affect my wireless microphone systems?
+
+
+Answer:
+
+	The FCC Narrowbanding mandate applies only to operators of Public Safety and private Industrial/Business voice and data radio equipment, not to users of wireless microphones, in-ear monitors, wireless intercoms, or wireless video-assist systems.The class of affected users includes primarily public safety operations (fire, police, etc.) and business operations, and only in certain frequency bands:150-174MHz, 421-430MHz, 450-470MHz, 470-512MHz.
+	
+	Note that although the 470-512MHz band is part of the UHF TV range (TV14-20), the mandate applies only to Public Safety equipment in the eleven cities in the US that already have operations in that band.
+	
+	The goal of this mandate is to increase the number of available radio channels for these users by reducing the bandwidth of each channel from 25kHz to 12.5kHz and is to be completed by 2013.In fact, the ultimate goal is to reduce channel bandwidth down to 6.25kHz.
+	
+	This mandate DOES NOT expand the spectrum available for public safety and industrial radio operations.It only increases the number of usable channels within the existing bands.
+	
+	In summary, the narrowbanding mandate does not affect any existing (or future) wireless audio system operation.
+

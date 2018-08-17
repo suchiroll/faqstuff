@@ -1,0 +1,17 @@
+Title: Battery for Shure SM82 Line Level Microphone
+Id: 2847
+Legacy Id: 2959
+
+Question:
+I have two of these microphones which I use for football  baseball coverage in stadiums. These microphones can be powered either by phantom power from the console or by an internal battery. The original Eveready 177 battery provides 9.8 volts, this is a mercury battery  has been discontinued due to environmental issues. Presently we've rigged some watch batteries in a cardboard tube but would like to find a better solution?
+
+
+Answer:
+
+	The 9.8 volt mercury battery used in the SM82 microphone (Duracell TR177) has been discontinued due to environmental constraints on the use of mercury. A company called Exell makes the only replacement battery that comes close to the specifications. The replacement battery is rated at 10.5 volts. This new battery is a retrofit but could cause damage to the zener diode in the SM82 circuit.
+	
+	Although the SM82 can be powered via 12-52 volts of phantom, using any internal battery with greater than 10.5 volts actual voltage is "dangerous territory". The 11-volt, 5% tolerance zener diode in the microphone helps protect the SM82's condenser circuitry. But if the battery exceeds the 10.5-11 volt maximum, the SM82 will begin to draw excessive current from the internal battery. This will most likely damage the zener diode, thus making the microphone susceptible to further damage if use with phantom power.
+	
+	Shure's position is that no matter the rated voltage of a battery (most new batteries exceed their rated voltage), the measured voltage of any SM82 replacement battery should be 10.5 volts maximum.
+	
+	The best course is to use the Exell battery after slightly discharging it. This can be done by putting a 1/2 watt, 500 ohm resistor across the terminals for a few minutes until the voltage goes to 10.5v. Then it should be safe to use.   http://www.exellbattery.com/

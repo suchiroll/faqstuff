@@ -1,0 +1,12 @@
+Title: Microphone for live field recording
+Id: 2285
+Legacy Id: 2367
+
+Question:
+I am searching for a durable, quality microphone, preferably a directional microphone that can be used in non-studio applications such as live field recording. Can you recommend a microphone given a limited budget?
+
+
+Answer:
+
+	The VP64 or the SM63 is our choice. But both are omnidirectional. If you know for certain that the mic has to be directional, use the SM58.
+

@@ -1,0 +1,50 @@
+Title: Firmware Update Process for CU 5905
+Id: 5392
+Legacy Id: 5591
+
+Question:
+Firmware Update Process for CU 5905
+
+Answer:
+
+	
+		Download the new firmware from: http://www.shure.com/americas/products/conferencing-discussion/dds-5900-digital-discussion-system
+	
+		Connect one end of the network cable to the TCP/IP Port on back of the CU, and the other end to the Ethernet jack on your computer.
+	
+		Connect the power cable from the DIS power supply to the Power jack on the CU. Plug in the power supply.
+	
+		Power on the CU and wait until it becomes ready. (Please be patient, the unit takes up to 3 minutes to boot up.) The unit is ready when the display shows Main menu CU 5905 and any connected microphones stop flashing.
+	
+		Open up a Web browser (any browser will work) on the computer.
+	
+		Find the IP address of CU by scrolling with the down arrow on the front panel until LAN Setup is shown in the display. Hit the Enter (middle button) and then scroll down to IP Address Setup. Hit Enter twice to display the IP address.
+		
+		Note: If the CU is displaying an IP Address of 000.000.000.000, please read this FAQ: FAQ 5589
+	
+		Connect to the CU by entering its IP address [e.g. 169.254.xxx.xxx] in the browser and then hit Enter.
+	
+		Once the CU SET UP screen is open, change the URL in the browser to: CU IP address/cgibin/update.cgi and press Enter. The CU 5905 Update page should now be open.
+	
+		Click the Browse or Choose File button and select the file cu_ISO_update_5905_5747_2014-04-28_13-10-22_PART_1.dis from the computer (Note: if the file was downloaded as a zip file, please unzip it first).
+	
+		Press GO. The update file will now be uploaded and stored in the CU. After the update, the browser will display Success! and the CU will restart.
+		
+		If you receive a message that says, Package not compatible, instead, see Note 1 below.
+		
+	
+		After the CU has completed restarting, reconnect to CU IP address/cgi-bin/update.cgi NOTE: DO NOT PRESS F5 OR THE RELOAD BUTTON TO RELOAD THE UPDATE PAGE! Instead highlight the URL line in the browser by clicking the current address then press the Enter key.
+	
+		Click Browse or Choose File and select file cu_ISO_update_5905_5747_2014-04-28_13-10-22_PART_2.dis from the computer.
+	
+		Press GO. The update file will now be uploaded and installed in the CU. After the update, the CU will restart.
+	
+		When the CU restarts the firmware in the CU will be updated. BEWARE: There is NO indication of the ongoing update in the display. The update may take up to 30 minutes. Powering OFF during updating may leave the CU unable to start up!
+	
+		After CU updating completes the CU will start up and go into normal operation.
+
+
+	IMPORTANT: The display will remain blank and the button unresponsive until the code is written to the SD card. This may take up to 10 minutes. Do NOT turn the unit off! The update is complete when the display shows the words Main menu CU 5905.
+	
+	NOTE 1: In the event that you receive the message Package not compatible, click Browse or Choose File again, but this time select the file called cu_5905_5747_4_2014-04-28_13-10-22.dis instead. Click Go. The update file will be uploaded and installed in the CU. No further steps are necessary.
+

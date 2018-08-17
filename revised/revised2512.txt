@@ -1,0 +1,11 @@
+Title: P4800 Latency
+Id: 2512
+Legacy Id: 2608
+
+Question:
+What is the latency (group delay) from input to output with the P4800 in the signal path with no DSP resources assigned?
+
+
+Answer:
+
+	The propagation delay is less than 1.5 ms. The latency does not increase as you add processors to the signal path (unless of course it is a delay block or a Peak Stop limiter).

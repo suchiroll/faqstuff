@@ -1,0 +1,28 @@
+Title: Static discharge through a microphone on a pulpit
+Id: 3137
+Legacy Id: 3272
+
+Question:
+What can be done about static popping that occurs when the minister walks across the stage floor and touches the mic? He wears a robe and leather shoes. The problem gets worse during cold weather when the humidity is lower. The mic cable, the shielding, and the floor plate are all OK.
+
+
+Answer:
+
+	The problem is static electricity. When it is cold, the heat is on and the air dries up. A person walks up to the microphone on carpet, builds up a charge on his body, and the charge is discharged through the microphone because the mics metal body is grounded via the mic cable.
+
+	
+
+	FYI - All wired mics are grounded via the mic cable.
+	
+	A wireless mic would not typically have this problem as it is not grounded. Though a static discharge can occur if the wireless mic body has a substantially lower charge potential than the body of the person touching the mic.
+	
+	A foam windscreen placed grill might help stop the static from discharging through the mic grill, though touching the mic body will still cause a discharge.
+	
+	Try an anti-static mat placed on the floor near the mic that will discharge the static when a person stands on it. Or a grounded metal touch plate on the lectern that will also discharge the static build-up.
+
+	
+
+	Adding a humidifier near the microphonecanease static build-up.
+	
+	Finally, not touching the mic will end this problem.
+

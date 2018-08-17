@@ -1,0 +1,11 @@
+Title: Which mic should I use for depositions?
+Id: 1435
+Legacy Id: 1488
+
+Question:
+I am putting together a video tape deposition system. I am using a Shure M267 mixer and plan on using 3 mics to be placed 18 to 24 inches from each person. What mics would be good choices?
+
+
+Answer:
+
+	Consider the MX300 series or MX400 series.Also, read: Audio Systems Guide for Video Production

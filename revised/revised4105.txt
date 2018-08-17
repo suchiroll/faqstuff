@@ -1,0 +1,30 @@
+Title: SB900 Battery Pack versus AA alkaline cells
+Id: 4105
+Legacy Id: 4743
+
+Question:
+I'm trying to decide between using the Shure SB900 lithium-ion rechargeable battery pack, and disposable AA alkaline cells. Please provide a rough estimate of the break-even point between these two choices.
+
+
+Answer:
+
+	This answer was created in May 2012, and is based on these assumptions:
+
+	
+		a) Price of a single AA alkaline cell is $0.50 in the United States.
+		b) Retail price of the SB900 is $118 in the United States.
+		c) Cost of the charger for the SB900 is not included in the calculation.
+
+
+	
+
+	I) If 8 AA alkaline cells (4 sets of two) are used every month, the SB900 break-even point is around 28 months.
+
+	II) If16 AA alkaline cells (8 sets of two) are used every month, the SB900 break-even point is around 14 months.
+
+	III) If 24 AA alkaline cells (12 sets of two) are used every month, the SB900 break-even point isaround 10 months.
+
+	
+
+	
+

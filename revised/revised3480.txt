@@ -1,0 +1,15 @@
+Title: UR1 Gain and Sensitivity Adjustments
+Id: 3480
+Legacy Id: 3677
+
+Question:
+Please explain the difference between the Gain and Sensitivity on a UR1 bodypack
+
+
+Answer:
+
+	The Sensitivity adjustment has three large steps: +15 dB / 0 dB / -10dB.    +15 dB might be used for a lapel mic on a soft talker.   -10dB might be used for a heavy metal guitar.
+	
+	The Gain adjustment is fine tuning (1 dB steps) once the general range is selected by the Sensitivity control.
+	
+	A mixer might have a three position input switch of Mic / Aux / Line; that is equivalent to the UR1 Sensitivity.   The mixer might also have a Trim control for fine adjustments: that is the equivalent of the UR1 Gain.

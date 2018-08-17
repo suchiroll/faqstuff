@@ -1,0 +1,19 @@
+Title: SLX transmitter battery gauge
+Id: 3210
+Legacy Id: 3358
+
+Question:
+The SLX transmitter battery gauge has three bars. How does each bar relate to remaining battery life?
+
+
+Answer:
+
+	The battery gauge circuit measures the voltage provided by the two AA batteries. Different types of batteries and different makes of batteries have different discharge curves. Thus the battery fuel gauge can vary in accuracy depending upon the type and make of batteries employed.
+	
+	Assuming the use of typical high quality, non-rechargeable, alkaline 1.5 vdc batteries:
+	
+	3 bars indicates approximately 8 hours (or less) of battery life
+	2 bars indicates approximately 2.5 to 3 hours (or less) of battery life
+	1 bar indicates approximately 45 minutes (or less) of battery life
+	
+

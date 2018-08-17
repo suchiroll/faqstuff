@@ -1,0 +1,16 @@
+Title: Shure 533SB cable
+Id: 3995
+Legacy Id: 4376
+
+Question:
+I found a Shure 533SB. It has the Amphenol MC2M with a 3 conductor cable. The other end has a 1/4" mono plug. I'm pretty sure this isn't right. I have the data sheet for 533SA  533SB. If I am right the 3 conductor cable needs a 3 prong XLR connector. I don't know which pins to use on the XLR.
+
+
+Answer:
+
+	Amphenol pin 1 to XLR pin 2
+	
+	Amphenol pin 2 to XLR pin 3
+	
+	Amphenol ground/sleeve/case to cable shield to XLR pin 1
+

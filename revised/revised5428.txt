@@ -1,0 +1,11 @@
+Title: RMCE-LTG Compatibility with Motiv - Recording Button Disabled
+Id: 5428
+Legacy Id: 6393
+
+Question:
+In some circumstances, the MOTIV App Recording Button can become disabled for RMCE-LTG users. What is happening?
+
+Answer:
+
+	On some iOS devices, when the MOTIV App is launched with the RMCE-LTG is plugged in, if the MOTIV app is then sent to background, and the RMCE-LTG cable is unplugged, re-opening the app via the homescreen icon may cause the Recording Button to show as disabled. And, if MOTIV hardware is then plugged in, the Apple busy indicator will load in perpetuity. The workaround is to close all Motiv Apps that are running in the background.
+

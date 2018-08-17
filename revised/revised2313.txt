@@ -1,0 +1,15 @@
+Title: V15 IV replacement stylus
+Id: 2313
+Legacy Id: 2399
+
+Question:
+Within the past two years I replaced my V15 IV with the same and one of my children has recently wrecked the stylus.
+
+My enquiries reveal that the VN45HE stylus is no longer available. Is there another more recent stylus that I can use or do I just throw away a perfectly excellent cartridge?
+
+Answer:
+
+	The VN45HE is no longer manufactured by Shure.
+	
+	The VN35MR stylus will fit the V15 IV body and may still available via replacement styli dealers. Note that the VN35MR does not have the dynamic stabilizer/brush. A VN45 stylus is required to obtain the original performance of the V15 IV.
+

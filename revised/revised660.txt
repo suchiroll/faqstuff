@@ -1,0 +1,20 @@
+Title: Stereo pairs using KSM32 or KSM44
+Id: 660
+Legacy Id: 677
+
+Question:
+KSM44 and KSM32(pair) are both listed under Live Recording and Stereo Pickup/Ambience applications in the on-line Shure Performance and Recording Mic Selection Guide. Why doesn't the word "pair" appear next to the KSM44? Is the KSM44 not recommended for use in pairs?
+
+
+I'm currently using a pair of SM94's for big band live recording and I'd like to improve the quality of the my recordings. I would expect noticeably improved results using SM81s, and even better results when using KSM32s or KSM44s. For my application, I would expect the sound quality differences between the KSM32 and KSM44 to be slight when considering a cardioid pattern. Do you agree?
+
+
+Any comments or suggestions would be appreciated.
+
+
+Answer:
+
+	You are correct. For a stereo recording, you would need to use a pair of KSM44s. We agree that the difference in sound between the KSM32 and the KSM44 will be slight.
+	
+	The differences that you hear between microphones is going to depend on your ears, the recording environment and the rest of the recording equipment. Some people will hear a large difference, while others will hear only a minimal difference. It is personal preference as to which microphone you like prefer.
+

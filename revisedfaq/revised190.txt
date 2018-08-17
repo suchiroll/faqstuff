@@ -1,0 +1,13 @@
+Title: Age, specs, tracking force of M3D phono cartridge
+Id: 190
+Legacy Id: 191
+
+Question:
+I recently came across an old Shure M3D cartridge on Ebay, bought a replacement stylus from Radio Shack and cannot believe how good this thing sounds.  Can you tell me anything about it...age, specs, tracking force, etc?  I'm tracking it at 2 grams and it works perfectly...great bass.  I understand it was one of you first magnetics from the late 50's.
+
+Answer:
+
+	The M3D moving magnet cartridge was first sold in the late 1950s and was last sold in the 1970s. There were no date codes used so it is impossible to know the age of your unit. It was designed to track at 3 to 5 grams, but that was because of the tone arm designs of the 1950s.
+	
+	If you find that it works well at 2 grams, keep that setting. Shure no longer offers a replacement stylus so we are pleased Radio Shack does.
+

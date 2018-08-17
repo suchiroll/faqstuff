@@ -1,0 +1,11 @@
+Title: Wireless Workbench on MacBook with Parallels
+Id: 3667
+Legacy Id: 3875
+
+Question:
+I am needing to run Wireless Workbench on my MacBookPro running Windows Virtual Machine with Parallels. Normally, I would just use the Mac version of Wireless Workbench, but I am needing to use the WinRadio which only works on Windows. I am able to connect to the UHF-R receivers via Ethernet using the Mac version of WWB, but can not connect using the Windows version and Parallels.
+
+
+Answer:
+
+	In the Parallels settings, select Bridged Ethernet.

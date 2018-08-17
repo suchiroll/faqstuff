@@ -1,0 +1,59 @@
+Title: SCM262 Timing and Muting Modifications
+Id: 3059
+Legacy Id: 3190
+
+Question:
+Is it possible to modify the microphone Ducking recovery timing and the Jukebox Mute timeout? Can the sensitivity of stereo input 3 be reduced when used with a jukebox?
+
+
+Answer:
+
+	a) Decrease Microphone Ducking Recovery Time
+
+	The following modification decreases the time that stereo channels 1, 2, and 3 are ducked when microphone ducking is enabled and activated. The default time that the stereo channels are ducked is 1 second.
+
+	
+		Install a  watt axial lead resistor at location X301, according to the following table:
+		
+			0.1 seconds = 100k Ohms
+			0.5 seconds = 470k Ohms
+	
+
+
+	b) Increase Microphone Ducking Recovery Time
+
+	The following modification increases the time that stereo channels 1, 2, and 3 are ducked when microphone ducking is enabled and activated. The default time that the stereo channels are ducked is 1 second.
+
+	
+		Remove surface mount resistor R301. See circuit board legend for the location.
+	
+		Install a  watt axial lead resistor at location X301, according to the following table:
+		
+			3 seconds = 3 megOhms
+			5 seconds = 5 megOhms
+	
+
+
+	c) Jukebox Mute Deactivation Time Modification
+
+	The following modification changes the time that stereo channels 1 and 2 remain ducked (muted) after the stereo 3 (juke box) channel goes silent. The default time is 30 seconds.
+
+	
+		Remove surface mount resistor R318.
+	
+		Insert a  watt axial lead resistor at location X302 according to the following table:
+		
+			10 seconds = 100k Ohms
+			20 seconds = 1 megOhm
+			50 seconds = 3.3 megOhms
+	
+
+
+	d) Decrease Jukebox Mode Input Sensitivity
+
+	This modification prevents noisy sources from accidentally activating the Jukebox mode. It reduces the activation sensitivity by 10 dB.
+
+	
+		Replace resistor R346 with 8k Ohms or similar. Lower resistor value to decrease sensitivity. Increase resistor value to increase sensitivity. To locate R346, a PC board layout schematic is necessary. Contact Shure Applications Engineering.
+
+

@@ -1,0 +1,45 @@
+Title: Apple Macintosh App for Wireless Workbench
+Id: 4488
+Legacy Id: 5602
+
+Question:
+Is there an Mac app that works with Shure Wireless Work Bench?
+
+
+Answer:
+
+	First, Shure offers a a mobile app called ShurePlus Channels.
+	
+	Secondly, a company in Germany created this app
+	
+	Here is additional information about the German app:
+	
+	Scan Viewer
+	
+	This application quickly displays REScanData + SHURE Wireless Workbench 6 scan data files.
+	
+	Scan Viewer can:
+	- Display multiple scan data sets
+	 - Zoom into the scan data set & navigate easily
+	 - Change the color of a scan data set
+	 - Calculate a combined plot of selected   scan data sets
+	 - Print out the view
+	 -Export the scan data to different file types
+	
+	Scan Viewer imports:
+	
+	-*.REScanData files (UHFRControl)
+	-*.SDB files (SHURE Wireless Workbech 6 - old format)
+	-*.SDB2 files (SHURE Wireless Workbech 6 - new format)
+	
+	Scan Viewer exports:
+	
+	-*.REScanData files (UHFRControl)
+	-*.SDB2 files (SHURE Wireless Workbech 6 - new format)
+	
+	NOTES
+	- The number of simultaneous displayed data sets depends on your Mac's speed.
+	- Although well tested - this application remain a piece of software: Rockbaby Engineering will not take any responsibility for any issues that may occur using Scan Viewer.
+	- Contact: Rockbaby Engineering | www.rockbaby.de | email: info@rockbaby.de
+	
+	* Shure has not tested the German app, does not support the German app, and does not endorse the German app.  This information is provided only as an accommodation to customers searching for an app that works with Wireless Work Bench.

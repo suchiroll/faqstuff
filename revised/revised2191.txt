@@ -1,0 +1,10 @@
+Title: Connector for 585 microphone
+Id: 2191
+Legacy Id: 2267
+
+Question:
+I have misplaced the cord for my mic, and it is unavailable here in Ft Worth. I need the end which screws onto the mic. Model #585 High Impedance.
+
+Answer:
+
+	The connector on the 585SA was made by Amphenol and called a model MC1F. We do not carry this connector.

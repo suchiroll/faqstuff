@@ -1,0 +1,19 @@
+Title: Connecting XLR output to stereo 3.5 mm TRS mini plug
+Id: 2958
+Legacy Id: 3086
+
+Question:
+I need to connect the XLR output of the LX4 into the 3.5mm mini *stereo* LINE-IN jack on a MP3 recorder. (I already have the switch on the back of the LX4 set to LINE).
+
+
+How should I connect the XLR pin-outs to a TRS mini jack so I get a 'stereo' signal from the LX4's mono only output. In other words, how do I split the XLR output signal so *both* Left  Right channels get recorded?
+
+
+Answer:
+
+	XLR pin 1 - cable shield - no connection at TRS plug
+	
+	XLR pin 2 - cable conductor A - connection to T and R at TRS plug
+	
+	XLR pin 3 - cable conductor B - connection to S of TRS plug
+

@@ -1,0 +1,11 @@
+Title: RF Immune TA4F Connectors – MX202, MX391
+Id: 3287
+Legacy Id: 3450
+
+Question:
+The new “RF Immune” TA4F Connector cover has what appears to be a pin or tiny screw on it. What is it, what is its purpose and what tool is needed to remove it?
+
+
+Answer:
+
+	The new “RF Immune” TA4F connector features a metallic cover, which compares to the standard TA4F plastic cover. The metal cover provides additional RF shielding. The small pin or screw on the metal cover is a hex setscrew and provides positive electrical contact between the cover and the connector body. To remove the setscrew, use a 0.9-mm or 0.035-inch hex socket screwdriver. This will allow the connector’s metal cover to be unscrewed for internal inspection.

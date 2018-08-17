@@ -1,0 +1,31 @@
+Title: UA888 System sending a noise to Receiver?
+Id: 165
+Legacy Id: 166
+
+Question:
+I am currently using a UHF Wireless System with the UA888 System. The UA888 is creating a ticking noise through the receivers. The only way to stop the noise is to shut down the computer program or disconnect the data link cable between the hard drive and the network interface. The ticking noise sounds as if you can hear a hard drive coming through the receivers. How do I get rid of the noise without shutting down the program?
+
+
+Answer:
+
+	Network Monitoring Signals
+
+	The UA888 (or UA111) uses two low-level signals to continually monitor and control U4 receivers. The first signal is used approximately once per second to poll the receivers for battery status information. The second signal is used to poll the receivers for all other functions: RF and audio levels, frequency, squelch, name, etc. The second signal occurs many times per second to ensure very accurate monitoring and metering information.
+
+	In quiet listening environments, these two low level network monitoring signals may be audible. This signal can be lowered by as much as 10 dB relative to the desired audio signal by using the following gain structure procedure:
+
+	
+		Turn the output level knobs on each U4 receiver fully clockwise.
+	
+		Select either mic level or line level output on the back of the U4 receiver.
+	
+		Adjust the input trim on the next device in your audio chain appropriately to avoid clipping.
+	
+		If the U4s output overloads the input of the next device, add an attenuator between the devices. The transmitter gain can also be adjusted, if necessary.
+
+
+	The above procedure retains all features of the UA888 Network Interface System because the network monitoring signals are perceptually reduced, but not entirely muted.
+
+	Service Department Solutions
+	If the perceived monitoring signal still cannot be adequately lowered for your particular application, please contact the Shure service department to discuss additional options. Circuit board modifications to U4 receivers are now available for further reductions in the network monitoring signal level.
+

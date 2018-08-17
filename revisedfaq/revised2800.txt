@@ -1,0 +1,11 @@
+Title: History of the model 520 Green Bullet
+Id: 2800
+Legacy Id: 2910
+
+Question:
+Please provide a brief history of the model 520 Green Bullet.
+
+
+Answer:
+
+	Green Bullet Video1949 - Model 520 introduced. High impedance (10,000 ohms). Employed R5 element.1953 - Model 520B introduced. Low impedance (150 to 250 ohms).1974 - Model 520B discontinued.1980 - Model 520 discontinued.1980 - Model 520D introduced. High/low impedance. Employed R44 element.1997 - Model 520D discontinued.1997 - Model 520DX introduced. High/low impedance. New dynamic element designed to sound like the original R5 element. 5/8"-27 internal threaded hole replaced by volume control.The shape of the microphone case was influenced by automotive headlamp housings from the 1930s.

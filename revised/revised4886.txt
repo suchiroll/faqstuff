@@ -1,0 +1,19 @@
+Title: UA864US as a PSM transmitting antenna
+Id: 4886
+Legacy Id: 6144
+
+Question:
+Can this unit also be used as a transmit antenna for a PSM in-ear system?
+
+
+Answer:
+
+	Yes, but only if:
+	
+	1) UA864US gain switch is set to 0 dB.
+	
+	2) Maximum RF input is 100 mW.
+	
+	
+	
+

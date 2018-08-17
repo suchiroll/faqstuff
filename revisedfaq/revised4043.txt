@@ -1,0 +1,26 @@
+Title: Headphone Technical Terms and Definitions
+Id: 4043
+Legacy Id: 4482
+
+Question:
+Please provide definitions of common terms used for headphones.
+
+
+Answer:
+
+	Cans - Audio industry slang for headphones.
+	
+	Circumaural - Headphones that surround the pinna (external ear flap.) Shure SRH1440 and SRH1840 are circumaural headphones.
+	
+	Earphones - Also called earbuds, these listening devices fit into the ear canal. Earphoneswere first used by musicians with in-ear monitor systems and later popularized by iPod users. The Shure SE535 is an example.
+	
+	Open Back -Headphones designed to allow sound to pass through the back of the earcup. The effect is sometimes described as having an open, accurate, or natural sound. Shure SRH1440 and SRH1840 are examples.
+	
+	Noise Cancelling - Headphones that reduce unwanted ambient sounds (i.e., acoustic noise) by means of active noise control (ANC). This involves using one or more microphones placed near the ear and electronic circuitry that uses the microphone signal to generate an anti-noise signal.
+	
+	Reference Headphones - Professional headphones that accurately reproduce the entire frequency range heard by the human ear. Shure SRH940 is an example.
+	
+	Sound-Isolating -Characteristic of earphones or headphones that prevent unwanted sound from entering the ear by physical means - a snug fit, use of foam or other material to reduce ambient noise.
+	
+	Supra-Aural - Headphones that sit on top of the pinna (external ear flap.)The Sony Walkman came with this type of headphone.
+

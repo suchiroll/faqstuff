@@ -1,0 +1,14 @@
+Title: Input connectors for SCM800
+Id: 614
+Legacy Id: 627
+
+Question:
+What is the recommended manufacturer and product number for block connectors required for inputs to the SCM800 mixer? Can you recommend a supplier/vendor?
+
+
+Answer:
+
+	Nine input connectors are supplied when you purchase the SCM800. If you require more, please contact Shure Parts at 800-516-2525. The Shure part number is 95A8580.
+	
+	If you require this type of connector for your own project, it is generically known as a Euro block connector and can be purchased in quantity from an electronic supply company such as Mouser or DigiKey.
+

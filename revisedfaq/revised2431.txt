@@ -1,0 +1,15 @@
+Title: Inverting polarity of a phono cartridge
+Id: 2431
+Legacy Id: 2526
+
+Question:
+I have the latest version of the V15 cartridge. I prefer to listen to lps in inverse polarity and cds in absolute polarity. I had a preamp which had a polarity switch which enabled me to change polarity easily, however it is old and starting to malfunction. I thought I might be able to achieve the same effect by switching the hot and ground leads at the cartridge. The result was a slight but noticeable hum. Is your cartidge grounding incompatible with phase reversal or is this effect likely due to some other part of the system such as the tonearm. Thanks for the info and thanks for making such a great cartridge.
+
+
+
+Answer:
+
+	The outer shield can of the V15 (and all Shure cartridges) is connected to one of the cartridge ground leads. When the leads are switched as you described, the shield can is now connected to a hot lead. Therefore any hum being shielded by the outer can will be mixed into the audio signal.
+	
+	So the hum you are hearing would be expected. Sorry, there is no way to change this without redesigning the entire cartridge.
+

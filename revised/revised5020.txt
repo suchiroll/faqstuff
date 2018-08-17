@@ -1,0 +1,20 @@
+Title: SystemOn E-mail and Text notification requirements
+Id: 5020
+Legacy Id: 6312
+
+Question:
+How does the email / text notification work and how much does it cost?
+
+
+Answer:
+
+	Email and text notifications help to prevent problems before they become critical by actively informing the IT admin about low batteries, missing microphones or offline devices.
+
+	
+		Email notifications use the customers existing SMTP server.
+	
+		Text notifications use Twilio, a free cloud communication service. The customer has to set up an account with Twilio and enter this account information into SystemOn. Account setup is free, however minimal data charges apply for sending text messages.
+		
+		Twilio provides a web service API and is utilized by companies including Uber, AirBnB, Netflix, and Coca-Cola.
+
+

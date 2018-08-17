@@ -1,0 +1,11 @@
+Title: Woodstock Music Festival Stage Microphone
+Id: 5443
+Legacy Id: 
+
+Question:
+What Shure model was the primary stage microphone for the Woodstock Festival in August 1969?
+
+Answer:
+
+	The majority of onstage microphones were the Shure Unisphere I Model 565. The U.S. retail price was then $100. The 1969 standard version of the Model 565 employed a four pin Amphenol connector. However, some of the Woodstock 565 microphones had been modified to accept a female XLR cable connector. A machined metal collar was added to the mic handle to hold the 3 pin male XLR connector.
+

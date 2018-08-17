@@ -1,0 +1,14 @@
+Title: Mic to record inside of a race car
+Id: 2600
+Legacy Id: 2701
+
+Question:
+I need help with selecting a windscreen that will work for a special application. I record race car sounds. I need something that will work in an in-car application. There is alot of wind. What do you suggest?
+
+
+Answer:
+
+	1. Use an omnidirectional dynamic mic like the Shure SM63.
+	
+	2. Cover the SM63 head with the A81WS windscreen.
+

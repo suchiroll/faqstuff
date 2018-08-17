@@ -1,0 +1,11 @@
+Title: Motiv MV88 Not Recognized by iPhone
+Id: 4876
+Legacy Id: 6134
+
+Question:
+The MV88 is not always recognized by the iPhone. Any ideas?
+
+
+Answer:
+
+	This symptom is usually related to lint/dust in the iPhone lightning port. To clean the port, turn off the iPhone then use a toothpick (or tiny brush) and GENTLY sweep inside. 

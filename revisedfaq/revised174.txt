@@ -1,0 +1,23 @@
+Title: Wireless for Health Clubs
+Id: 174
+Legacy Id: 175
+
+Question:
+What concerns are there in using a wireless system in a health club or aerobics scenario?
+
+
+Answer:
+
+	Wireless Microphones in Health Club Applications
+
+	
+		Wireless microphones are becoming common for aerobics and other applications in health clubs. The instructor wears a headworn microphone and a bodypack transmitter, which broadcasts the signal on a particular frequency. A receiver tuned to this frequency picks up the signal and connects to the sound system. Professional wireless microphones operate in the same portions of the frequency band used by broadcast television channels. Your local dealer can help you to select an appropriate frequency for your geographic area. For best results, the wireless microphones receiver must be located in the performance area, so that there is a line of sight from the instructor wearing the transmitter to the receiver. Putting the wireless receiver in a closet or behind a wall will usually result in reduced operating range or an increased chance of momentary lapses in the signal (called dropouts).
+	
+		If the sound system utilizes an FM-stereo receiver to control and amplify the audio, the output of the wireless microphone receiver can be connected to an unused input on the stereo receiver. Appropriate inputs are typically labeled Aux In, Tape In, CD In, or VCR In. (Inputs marked Phono In are intended for phonograph turntables only and cannot be used for other devices.) The problem with this type of setup is that the stereo receiver only allows one audio source (e.g. FM, CD, or the wireless microphone) to be heard at a time. It is therefore impossible to listen to the instructors voice and music at the same time.
+	
+		The solution lies in a device called a mixer, which allows multiple audio sources to be heard simultaneously. The volume of each source can be adjusted independently, so that the instructors voice can be heard above the music, for instance. The output signal from the mixer includes all of the audio sources, and connects to the amplifier (or the stereo receiver) which feeds the loudspeakers in the room. A mixer can easily be added to an existing sound system that does not have one. Dealers who carry Shure wireless microphone systems usually carry appropriate mixers for health club applications.
+
+
+	
+
+

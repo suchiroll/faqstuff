@@ -1,0 +1,12 @@
+Title: GLX-D Carrying Case
+Id: 4301
+Legacy Id: 5370
+
+Question:
+What is the part number for the GLX-D carrying case that is supplied in the box?
+
+
+Answer:
+
+	As of June 2013, the carrying case part number is 95E16526.
+

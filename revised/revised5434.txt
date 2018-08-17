@@ -1,0 +1,20 @@
+Title: Shure 548 Microphone Element
+Id: 5434
+Legacy Id: 6386
+
+Question:
+Can you please tell me what cartridge was used for the 548 variations - and if this cartridge was also used for other mics - and is it still in production today?
+
+Answer:
+
+	
+		The 548 had a Unidyne IV mic element. This element was never successful. It was difficult to manufacture and customers preferred the Unidyne III element (SM57 and SM58.) The Unidyne IV was not used in the SM mic line.
+	
+		The Unidyne IV element was discontinued in the 1980s.
+	
+		
+	
+		https://522bb370f5443d4fe5b9-f62de27af599bb6703e11b472beadbcc.ssl.cf2.rackcdn.com/user_guide/upload/472/us_pro_548_ug.pdf
+
+
+

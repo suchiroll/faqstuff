@@ -1,0 +1,13 @@
+Title: Stereo cartridge -mono application
+Id: 195
+Legacy Id: 196
+
+Question:
+I want to use a Shure standard mount cartridge but my tone arm only has two wires.  I plan to play 45's.  Some of my records sound O.K. but some sound like I'm playing them on a stereo tuner with the balance control all the way to either the left or right.  If just jumper A and B pins(and grounds) it seems to work.  Is this an acceptable method?  I wondered how you handle this situation where a customer purchases one of your 78 rpm (mono) stylus and plugs it into a standard mount(4 pin) cartridge.  Maybe there is a more acceptable solution than my wire-the-pins-together method?
+
+Answer:
+
+	Your solution is the correct one. There will be no damage to the cartridge or your system.
+	
+	All current Shure cartridges are stereo (four output pins) and if used with a monaural arm (two wires), we suggest the same wiring you employed.
+

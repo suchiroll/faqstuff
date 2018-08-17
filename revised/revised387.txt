@@ -1,0 +1,22 @@
+Title: 520DX rewired solution for low impedance
+Id: 387
+Legacy Id: 394
+
+Question:
+Please can you send me the rewired plan or a description for the 520DX, to turn it from high to low impedance?
+
+Answer:
+
+	520DX Low-Impedance Modification
+
+	The following diagrams show how to modify the 520DX for low impedance (z), balanced or unbalanced operation. By changing the microphone to low impedance, the cord of the 520DX can be extended without losing high frequencies. By wiring an XLR to the balanced low impedance modification (audio + to pin 2, audio - to pin 3, ground to pin 1), the microphone can be plugged into a standard low impedance input mixer. The microphone should be left as high impedance if it is being connected to a guitar amplifier.
+
+
+	
+
+
+	
+
+
+	
+

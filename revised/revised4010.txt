@@ -1,0 +1,20 @@
+Title: Current draw for P9R and P9RA
+Id: 4010
+Legacy Id: 4417
+
+Question:
+What is the current drain for the P9R and P9RA? Conditions are idle: no earphones connected; no audio signal present
+
+
+Answer:
+
+	Nominal idle current draw:
+
+	P9R = 250 mA with display lit; 230 mA with display dark
+
+	P9RA = 220 mA with display lit; 200 mA with display dark
+
+	All of the above can vary by plus/minus 15 mA.
+
+	For the P9R and P9RA, maximum current drain can be over 400 mA with excessively loud audio levels.
+

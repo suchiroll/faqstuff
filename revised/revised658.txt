@@ -1,0 +1,15 @@
+Title: Difference between the UT system and the UHF system
+Id: 658
+Legacy Id: 675
+
+Question:
+My question is what is the difference between the UT system and the UHF system. I currently own three of the PSM600 systems and I need one UHF headphone mic. Both systems have the MARCAD system and the UT is around 1/3 of the cost of the UHF system. I need high quality systems, I guess the question is: Is the UHF system still worth the extra money.
+
+Answer:
+
+	Here are some major differences:
+	
+	UHF System: 200 user selectable frequencies; computer control of the receiver if desired; tone key squelch; metal construction - transmitter and receiver; two AA batteries power the transmitter; receiver offers extensive metering of RF and audio signal.
+	
+	UT system: frequency is set at factory and is not adjustable by the user; no computer control; no tone key squelch; plastic construction; one 9V battery powers the transmitter; rudimentary metering of RF and audio signal.
+

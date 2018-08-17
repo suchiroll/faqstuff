@@ -1,0 +1,84 @@
+Title: How do I connect an Audio Technica ATM73a or ATM75 to a Shure bodypack?
+Id: 316
+Legacy Id: 323
+
+Question:
+How do I connect an Audio Technica ATM73a or ATM75 to the TA4 connector on a Shure bodypack?
+
+
+Answer:
+
+	This note applies to the following Audio-Technica headworn microphones:
+
+	
+		ATM73a
+	
+		ATM75
+
+
+	Each of these condenser microphones is supplied with a small, permanently attached power module which provides bias voltage to the mic element from either an internal AA battery or 9-52 v phantom power from an external source. Hooking any of these microphones directly to a wireless bodypack transmitter will allow the transmitter to provide the bias voltage, thus eliminating the need for the power module.
+	
+	To make this modification it is necessary to remove the power module from the attached microphone cable. This will require disassembling the power module and unsoldering the attached cable or simply cutting off the cable at the power module strain relief. Once this is accomplished, the following color codes configuration can be applied to equip the exposed cable with a Switchcraft TA4F connector for mating with any Shure wireless transmitter.
+	
+
+	
+		
+			
+				Mic
+			
+				---
+			
+				Transmitter
+		
+		
+			
+				Red wire (s)
+			
+				---
+			
+				Pin 2
+		
+		
+			
+				Yellowwire (s)
+			
+				---
+			
+				Pin 3 and Pin 4
+		
+		
+			
+				Shield
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+	An older ATM73, with a cylindrical power module may have the following color scheme: red/white (bias) and yellow/black (audio). In this case: shield to Pin 1, red/white to Pin 2, yellow/black to Pin 3 and Pin 4 (again a jumper from Pin 3 to Pin 4.)
+	
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 as part number WA330.
+	
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

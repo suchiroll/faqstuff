@@ -1,0 +1,12 @@
+Title: AMS8000 plus regular microphones
+Id: 537
+Legacy Id: 548
+
+Question:
+I have an opportunity to acquire 2 AMS8000 mixers, but no AMS microphones. Although they may not work to peak efficiency, will the mixers still perform their auto-mix functions with regular condenser mics?
+
+
+Answer:
+
+	Sorry, the AMS mixers will only work properly with the AMS microphones.
+

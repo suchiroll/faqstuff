@@ -1,0 +1,12 @@
+Title: Nickel Metal Hydride batteries for UHF wireless
+Id: 1114
+Legacy Id: 1150
+
+Question:
+I am using several Shure UHF Beta 87 wireless handhelds. I was told by a battery company that people are successfully using "Nickel Metal Hydride" (rechargeable) batteries in wireless mics. I have not heard of anyone using rechargeable batteries in wireless mics. We buy a lot of AA batteries, and I would like to know if these rechargeable batteries are now an option. Please let me know if this is recommended.
+
+
+Answer:
+
+	The UHF series battery life (using a major brand of AA alkaline batteries) is rated at 12 hours. We estimate that nickel metal hydride will only give you about 3 hours of battery life.
+

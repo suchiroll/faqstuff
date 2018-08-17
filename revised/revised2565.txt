@@ -1,0 +1,13 @@
+Title: Aluminum case for the KSM27
+Id: 2565
+Legacy Id: 2663
+
+Question:
+Do you offer an aluminum hard case that holds both the KSM27 and it's shockmount?
+
+
+Answer:
+
+	Sorry, there is no case specifically for the KSM27.
+	
+	The A32SC aluminum case fits the KSM32 or KSM44. The foam cut-outs will be oversized for the KSM27, but the A32SC will work.

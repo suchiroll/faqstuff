@@ -1,0 +1,19 @@
+Title: Music Phone Adapter (MPA) and Motorola mini-USB phones
+Id: 3360
+Legacy Id: 3544
+
+Question:
+I have a Motorola phone that uses the min-USB plug as my headset jack. Can I use an MPA or Shure headset?
+
+
+Answer:
+
+	Depending on the cellular phone model and adapter you have, you may be able to use our Music Phone Adapter (MPA-3C) with a Motorola phone.
+	
+	Most Motorola phones require a mini-USB (EMU)plug to headset adapter most likely supplied with the phone when you purchased it. You can also purchase it from the manufacturer. The following adapters can be purchased from various Internet sites such as www.cellphonemall.net and from Motorola:
+	
+	SYN1504A: For use with standard 3.5mm headphones/earphones. (PLEASE NOTE!: This adapter does not carry the mic signal, it only will work for music playback) 
+	SYN1504B or SYN1504C: For use with 4 conductor 3.5mm plugslike theMPA-3C
+	
+	Check with your phonemanufacturer to determine the appropriate adapter for your phone. Due to the adapter, some functionality may not work (i.e. send/end button function on the MPA).
+

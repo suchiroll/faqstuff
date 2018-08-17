@@ -1,0 +1,11 @@
+Title: MX393 - XLR to RCA adapter
+Id: 62
+Legacy Id: 62
+
+Question:
+Is there an adapter that can change an XLR to an RCA output for the MX393 microphone?
+
+Answer:
+
+	No, there is not such a cable, and we question the reason behind this request. First, the MX393 microphone requires phantom power, and it is impossible for any RCA connector to supply phantom power. Secondly, we do not know of any piece of equipment that has an RCA microphone input. We believe the input you are trying to use would not work with MX393. More than likely you will need a microphone preamp or a mixer. We would suggest an SCM268 or SCM262. You can plug the MX393 into either of them and they both have RCA outputs. The SCM268 is a mono unit and the SCM262 is stereo.
+

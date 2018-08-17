@@ -1,0 +1,20 @@
+Title: Phono Cartridge model DS10
+Id: 4362
+Legacy Id: 5450
+
+Question:
+I have inherited a well taking care of SEIKI turntable. I realized that there is a Shure cartridge on it, the model number of the cartridge is DS10. I just started learning about turntables so I do not have any idea if DS10 is MC or MM. I will be more than happy if you inform me about this old model.
+
+
+Answer:
+
+	
+		The DS10 is a moving magnet cartridge.
+	
+		The replacement stylus (no longer available) was NDC-EJ.
+	
+		The tracking force was 1.5 to 3 grams.
+	
+		The Shure M95EJ was the model most similar to the DS10.
+
+

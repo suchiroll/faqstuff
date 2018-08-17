@@ -1,0 +1,17 @@
+Title: Using KSM32/44 with A27M stereo adapter
+Id: 1267
+Legacy Id: 1314
+
+Question:
+Will the A27M Stereo Microphone Adapter accommodate a pair of KSM32 or KSM44 microphones for coincident or closely spaced mounting?
+
+
+
+Answer:
+
+	Yes, it will work. However, the A27M must be reconfigured. Unscrew the knurled knob. Slide the two black sections off the vertical rod. Re-position the sections on the vertical rod so that the 5/8-27 threaded studs are on opposite ends of the A27M. Replace the knurled knob.
+	
+	The A27M can then be fitted with two A32SM or A44SM shock mounts. The mics and shock mounts will be parallel to the floor, i.e., lying on their sides. The mics can then be positioned to be coincident or near coincident.
+	
+	Make certain the mic stand has a wide base as the A27M/KSM combination will be heavier on one side, and the stand will tend to tip with a too narrow base.
+

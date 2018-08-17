@@ -1,0 +1,62 @@
+Title: WWB6 using a wireless router
+Id: 4607
+Legacy Id: 5763
+
+Question:
+Please offer suggestions on how to use Shure Wireless Work Bench 6 via a wireless (wi-fi) router?
+
+Answer:
+
+	In general:(PC - means Mac or Windows - the personal computer running WWB)
+
+	
+		Setup the wired network first and confirm that WWB is working on the wired network first.This eliminates basic setup issues. Next, disable WiFi on the PC.
+	
+		Recommended WiFi access point(s):
+		
+			
+				802.11g or better.We suggest 802.11n at 5GHzfor larger configurations (24+ channels).
+			
+				The Apple AirPort Extreme provides good WiFi range, is well made, and settings are fairly straight forward.
+			
+				Default settings will work, but consider:
+				
+					
+						Setting up a SSID and security to protect from others joining your network.
+					
+						Enable / disable the DHCP server built into most routers - as per your needs; e.g., if you are using manual IP addresses dontactivate it.
+				
+			
+			
+				Connect port 1 (not the uplink port) to switch that your rack gear is connected.
+			
+				Connect port 2 (not the uplink port) to the PC.
+		
+	
+	
+		Confirm the IP addresses of the devices and PC and make sure they are unique, same subnet mask and in the same range; e.g., 192.168.1.10-100
+	
+		Start WWB and go to the Preferences  Network.
+		
+			
+				Choose the wired adapter on the network listed above.
+			
+				WWB should now discover devices, manage, monitor, etc.
+			
+				Now you know that the wired network is sane, and WWB works.
+		
+	
+	
+		Now disconnect the network cable from the PC.
+	
+		Enable WiFi on the PC and join the network.
+	
+		Now:go back to the WWB Preferences  Network.
+	
+		Choose the WiFi adapter - which should be listed with an IP in the same range; e.g. 192.168.1.xx.
+	
+		WWB should now discover devices, manage, monitor, etc.
+
+
+	
+

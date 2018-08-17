@@ -1,0 +1,51 @@
+Title: Wiring scheme for Electro-Voice (EV) wireless transmitter
+Id: 3289
+Legacy Id: 3452
+
+Question:
+What is the wiring scheme to connect a Shure condenser microphone, such as the WH30, WL183, WL184, WL185, etc., to an Electro-Voice RE-2 system, model BPU-2 wireless bodypack transmitter?
+
+Answer:
+
+	The bodypack transmitter for the Electro-Voice RE-2 wireless microphone system is designated as model BPU-2. The microphone connector on the EV transmitter accepts Switchcraft TA4F connectors.
+	
+	Following is the wiring for the connector when a Shure condenser microphone, such as the WH30 or WL183, is used:
+	
+
+	
+		
+			
+				EV Transmitter Wiring
+			
+				Shure Microphone Wiring
+		
+		
+			
+				Pin 1: shield
+			
+				Shield
+		
+		
+			
+				Pin 2: audio
+			
+				Black
+		
+		
+			
+				Pin 3: +5V bias
+			
+				Red
+		
+		
+			
+				Pin 4: +5V bias thru 3.3k ohm resistor
+			
+				Do not use
+		
+	
+
+
+
+	Note that the Electro-Voice wiring scheme is different from the Shure bodypack transmitters, which use the same connector.
+

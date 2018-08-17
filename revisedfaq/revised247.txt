@@ -1,0 +1,16 @@
+Title: Banana Plug Adapter for M67
+Id: 247
+Legacy Id: 253
+
+Question:
+I have an older M67 Mixer that works quite nicely.
+
+The problem is that in a new application, I need to use the line level out instead of the Mic level.  On this model, the line level output uses a banana plug.  Do you have any idea how I could obtain a banana plug to RCA adapter?  Does such a item even exist?
+
+Answer:
+
+	We have never seen such an adapter. We suggest you build your own using Radio Shack parts.
+	
+	The M67 post marked "2" goes to the RCA tip; the M67 post marked "3" goes to the RCA sleeve; the RCA sleeve might also have to connect to the M67 ground terminal, but try your setup first without this connection.
+	
+	You can also use the M67 headphone output. It might drive the RCA line input perfectly.

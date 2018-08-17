@@ -1,0 +1,11 @@
+Title: Mic for Bass Harmonica
+Id: 2551
+Legacy Id: 2649
+
+Question:
+I am looking for a low frequency ribbon type microphone for use with my Hohner 265 bass harmonica. A friend of mine uses a Shure Model 330 Uni-Ron Ribbon microphone with his bass harmonica but I understand this microphone is no longer in production. Can you suggest an equivalent microphone that is available now?
+
+
+Answer:
+
+	Ribbon mics have certain tonal characteristics that cannot be duplicated by current microphones. Look at the KSM313 and KSM353

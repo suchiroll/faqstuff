@@ -1,0 +1,39 @@
+Title: UC4 and MX692 with an echo canceller
+Id: 2939
+Legacy Id: 3066
+
+Question:
+Is there anything special about using the MX692 and UC4 with an echo canceller?
+
+
+Answer:
+
+	Modifying UC4 for use with an Echo Canceller/Mixer
+	The UC4 with the MX692 wireless boundary microphone is an excellent combination for teleconferencing applications. The echo cancellers/mixers used in these applications require that:
+	
+		The microphone always supplies audio. The echo canceller/mixer requires a constant audio signal to properly process the audio signal paths.
+	
+		A separate switch contact be supplied for muting the microphone signal. This muting occurs inside the echo canceller/mixer, not locally at the microphone.
+
+	To provide this functionality with the UC4 receiver and MX692 wireless microphone, perform a simple modification to the receiver. With this modification, the membrane switch on the MX692 will provide a TTL logic output on the UC4 receiver that in turn activates the mute function on the echo canceller, but the MX692 switch will not mute the audio output of the UC4 receiver.
+	
+	This modification will vary slightly depending on the vintage of UC4 being used. Identify the vintage of the UC4 by comparing it to figures 2 and 3.
+	
+	If the UC4 resembles figure 2a and 2b, it is an older version and a circuit board trace must be cut. Use an X-acto knife to carefully cut through the copper trace on the top of the printed circuit board. Cut the trace anywhere along the red line in figure 2. Do NOT cut through the trace that is highlighted in blue.
+	
+	If the UC4 resembles figure 3, it is a newer version. Identify the resistor that is circled in figure 3. This resistor will have "0" printed on the top of it. Use a soldering iron to carefully remove the circled resistor. It might be easier to use a pair of tweezers to hold the resistor while unsoldering.
+	
+	Before the modification, the green A/B lights on the receiver indicate the mute status of the microphone. After the modification, the A/B lights will be on whenever the transmitter power is on.
+	
+	The tone key switch normally feeds both the audio mute circuit as well as the TTL logic output. The trace going from the tone key switch to the audio mute circuit is cut.
+	
+	Figure 1
+	 
+	
+	Figure 2a - Older Style UC4
+	 
+	
+	Figure 2b - Older Style UC4
+	 
+	
+	Figure 3 - Newer Style UC4

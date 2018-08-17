@@ -1,0 +1,28 @@
+Title: X2u specifications
+Id: 3513
+Legacy Id: 3714
+
+Question:
+What are the specifications for the X2u?
+
+
+Answer:
+
+	Many specifications for the X2u can be found in the User Guide. Here are some additional specifications.
+
+	Frequency response: flat from 100 Hz to 10,000 Hz; down 1.5 dB at 20 Hz; down 0.3 dB at 20,000 Hz
+
+	Maximum analog input level: 0 dBV
+
+	Original Mic preamp maximum gain: 40dB
+
+	Revised Mic preamp maximum gain: 50 dB [Implemented in April 2011 - X2u is marked with a white dot, on the flat side with the rubber pad.]
+
+	Input impedance: 1.6 kOhm typical
+
+	Phantom power: 48V typical, 10 mA
+
+	Headphone max output power: 60 mW typical into 32 ohms
+
+	Female XLR pinout: pin 2 positive, pin 3 negative, pin 1 shield
+

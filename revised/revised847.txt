@@ -1,0 +1,23 @@
+Title: Wireless Systems and WCM16
+Id: 847
+Legacy Id: 873
+
+Question:
+What are the most important things to know about the WCM16 Wireless system?
+Subject of my work: Music-Hall comedy with 8 singers sounding by this system.
+
+For example: stuff with the headset, best group choice for frequencies in Europe.....
+
+Answer:
+
+	1) Contact Shure Europe for help with frequency selection in Europe: support@shure.eu
+	
+	2) Read the following links regarding wireless mic operation:
+	http://www.shure.com/publications/us_pro_intro_to_wireless_ea.pdf
+
+	http://www.shure.com/publications/selection_and_operation_of_wireless_microphone_systems_english.pdf
+
+	3) Read the following link about using mics in sound reinforcement:
+
+	http://www.shure.com/publications/microphone_techniques_for_recording_english.pdf
+

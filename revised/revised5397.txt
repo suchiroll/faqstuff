@@ -1,0 +1,78 @@
+Title: What is intermodulation?
+Id: 5397
+Legacy Id: 5661
+
+Question:
+What is intermodulation?
+
+Answer:
+
+	This is a excerpt from Selection and Operation of Wireless Microphones.
+	
+	Frequency Selection
+	Selecting the operating frequency of a wireless audio system is a two-step process: first, choose an appropriate radio frequency band; second, choose the appropriate operating frequency (or frequencies) within that band. There is a finite number of wireless microphone systems that may be used simultaneously in any one frequency range. The reasons for this limitation are several and they fall under the general topic of frequency coordination or compatibility. We will define these factors and examine each in terms of origin, effects, and relative importance to total system compatibility. In the first section we will consider only interactions that may occur between the individual wireless microphone systems themselves.
+	
+	At this point it should be stated that frequency coordination is a process that must take into account various factors including the physical (limitations), the mathematical (calculations) and the political (regulations). It is not necessary for most users to go through the details of this process. Wireless manufacturers provide this service through pre-selected frequency groups and can also offer assistance in complex applications using proprietary computer programs. What follows here is an introduction to the process for the interested user.
+	
+	System Compatibility
+	The two main areas of concern are: interaction between transmitters and receivers related to their operating frequencies, and interactions between transmitters and receivers related to their internal frequencies. The first class of interactions is the more important one and may occur in any group of wireless microphone systems. It is also the one more cumbersome to calculate. The second class of interactions is less problematic and is also relatively easy to predict. However, it is determined by specific system characteristics.
+	
+	Operating Frequency Interactions: Intermodulation
+	A single wireless microphone system can theoretically be used on any open operating frequency. When a second system is added it must be on a different operating frequency in order to be used at the same time as the first. This limitation arises from the nature of radio receivers: they cannot properly demodulate more than one signal on the same frequency. In other words, it is not possible for a receiver to mix the signals from multiple transmitters. If one signal is substantially stronger than the others it will capture the receiver and block out the other signals. If the signals are of comparable strength none of them will be received clearly.
+	
+	The effect of this is often heard in automobile radios when travelling out of range of one station and into the range of another station at the same frequency. The receiver will switch back and forth between the two stations as their relative signal strength changes, often with considerable noise and distortion. The result is that neither station is listenable when the signals are nearly equal.
+	
+	If the wireless microphone systems must be on different frequencies, how different should they be? The limiting characteristic of the receiver in this regard is its selectivity or its ability to differentiate between adjacent frequencies. The greater the selectivity the closer together the operating frequencies can be. The recommended minimum frequency difference ranges from 300kHz to 1.5 MHz, depending on receiver selectivity.
+	
+	When a third system is added to the group it must be at least the recommended frequency difference from each of the existing systems. However, it is now necessary to consider other potential interactions between the transmitters to insure that all three systems will be compatible with each other. The most important type of interaction is called intermodulation (IM), and it arises when signals are applied to non-linear circuits. (See Figure 3-4.)
+
+	
+
+	A characteristic of a non-linear circuit is that its output contains new signals in addition to the original signals that were applied to the circuit. These additional signals are called IM products and are produced within the circuit components themselves. The frequencies of IM products are mathematically related to the original transmitter frequencies. Specifically, they consist of sums and differences of the original frequencies, multiples of the original frequencies, and sums and differences of the multiples. Non-linear circuits are intrinsic to the design of wireless components and include the output stages of transmitters and the input stages of receivers. The mixer stage at the receiver input is an example of a non-linear circuit: recall that it is designed to produce a difference frequency that becomes the intermediate frequency (IF) for subsequent stages.
+	
+	IM can occur when transmitters are in close proximity to each other. The signal from each transmitter generates IM products in the output stage of the other. These new signals are transmitted along with the original signals and can be picked up by receivers operating at the corresponding IM frequencies. (See Figure 3-7.)
+
+	
+
+	IM can also occur when transmitters are operated very close to receivers. In this case IM products are generated in the receiver input stage which can interfere with the desired signal or be detected by the receiver if the desired signal (transmitter) is not present.
+	
+	The strongest IM products are the two so-called 3rd order products produced by two adjacent transmitters operating at frequency f1 and frequency f2, where f1 is lower than f2. The resulting IM products may be calculated as:
+	 IM1 = (2 x f1)  f2
+	 IM2 = (2 x f2)  f1
+	
+	If the interval between f1 and f2 is F, then IM1 = f1  F and IM2 = f2 + F. That is, one IM will appear exactly at interval F above the upper frequency f2 while the other IM will appear exactly at interval F below the lower frequency. For example, if f1 = 180MHz and f2 = 190MHz, then F = 10MHz. Thus, IM1 = 170MHz and IM2 = 200MHz. (See Figure 3-5.)
+
+	
+
+	In addition to IM products generated by interaction between two transmitters, other IM products are generated by interaction between three transmitters in a similar fashion. (See Figure 3-6.) In order to avoid potential IM problems most manufacturers recommend a minimum margin of 250 kHz (0.25 MHz) between any 3rd order IM product and any operating frequency. This further restricts available frequency choices as the number of simultaneous systems increases.
+
+	
+
+	It should be apparent from this discussion that the prediction of potential compatibility problems due to IM products is best left to computer programs. The complexity increases exponentially for additional systems: a group of 10 wireless microphone systems involves thousands of calculations.
+	
+	Internal frequency Interactions: LO, IF, Crystal Multipliers
+	In addition to frequency conflicts due to intermodulation between operating frequencies there are certain other sources of potential conflicts due to the various internal frequencies present in the normal operation of transmitters and receivers. These differ from manufacturer to manufacturer and even from system to system from the same manufacturer.
+	
+	One such source is the local oscillator (LO) of the receiver itself. Although this is a low-level signal which is generally confined within the receiver, it is possible for the local oscillator of one receiver to be picked up by another receiver tuned to that LO frequency if they or their antennas are in close proximity to each other (stacked, for instance). For example, assuming a typical intermediate frequency (IF) of 10.7 MHz, a receiver tuned to 200.7 MHz would have its LO operating at 190.0 MHz. Another receiver tuned to 190 MHz should not be used close to the first receiver because the second unit could pick up the LO of the first, especially if the 190 MHz transmitter is turned off or is operating at a great distance. (See Figure 3-8.) Good design and shielding in receivers and physical separation of receivers will minimize the possibility of LO interference. For multiple units, active antenna splitters will effectively isolate antenna inputs from each other. However, it is still recommended that operating frequencies be chosen to avoid LO frequencies by at least 250 KHz.
+
+	
+
+	An image frequency is another source of possible interference. In a receiver, recall that the frequency of the local oscillator (LO) always differs from the frequency of the received signal by an amount equal to the intermediate frequency (IF). Specifically, the operating frequency is above the local oscillator frequency by an interval equal to the IF. When these two frequencies are applied to the mixer section (a non-linear circuit) one of the output frequencies of the mixer is this difference frequency (the IF), which is the tuned frequency of the subsequent IF stage filters.
+	
+	If the frequency of a second signal is at the same interval below the local oscillator frequency, the difference between this second frequency and the LO frequency would again be equal to the intermediate frequency (IF). The mixer stage does not discriminate between positive or negative frequency differences. If this second (lower) frequency enters the mixer stage, it will result in another (difference) signal getting to the IF stages and causing possible interference. This lower frequency is called the image of the original
+	frequency. Again, assuming an IF of 10.7 MHz, a receiver tuned to 200.7 MHz would have its LO at 190.0 MHz. A signal from another transmitter at 179.3 MHz would appear as an image frequency since it is 10.7 MHz below the LO frequency or 21.4 MHz below the operating frequency.
+	
+	The image frequency differs from the operating frequency by an amount equal to two times the intermediate frequency (2 x IF). (See Figures 3-9 a  b.) The image frequency will be below the operating frequency for a high-side injection receiver and above the operating frequency for a low-side injection receiver. Thus the image frequency for the typical single conversion receiver is at least 20 MHz away from the operating frequency. Double conversion receivers, which have a relatively high first IF (50 MHz typical), have image frequencies which are even farther (100 MHz typical) away from the operating frequency. In most cases, the front end of the receiver should be able to reject an image frequency unless it is extremely strong. Nevertheless, it is recommended that operating frequencies be chosen to be at least 250 KHz from any image frequency.
+
+	
+
+	The last internal frequency issue concerns the VCO in crystal controlled transmitters. Recall that the actual VCO frequency is a relatively low radio frequency that is multiplied to obtain the final transmitter frequency. A small amount of the original crystal frequency remains after each multiplier stage. Thus the output signal includes not only the final operating frequency but also low-level spurs or spurious emissions due to the multipliers. These spurs occur above and below the operating frequency at intervals equal to harmonics (multiples) of the original crystal frequency.
+	
+	For example, assuming a 9 x multiplier, a 180 MHz transmitter would have a 20 MHz crystal frequency. This would produce spurs at 160 MHz and 200 MHz, 140 MHz and 220 MHz, etc. Good transmitter design will minimize the amplitude of such crystal harmonics but, again, additional receivers should be chosen to avoid these frequencies by at least 250 KHz. (See Figure 3-10.)
+
+	
+
+	Frequency-synthesized transmitters do not produce spurious emissions of this type because they do not employ multipliers. However, both types of transmitters can produce other spurious emissions due to power regulating circuitry, parasitic oscillations, carrier harmonics, etc. These emissions can all be controlled through careful design.
+	
+	It can be seen that the calculation of both local oscillator conflicts and image frequencies depends on the intermediate frequency (IF) of the receiver while calculation of crystal harmonics depends on the number of multipliers in the transmitter. If receivers with different IFs or transmitters with different multipliers are being used together (i.e. units from different manufacturers) this must be taken into account in compatibility analysis. Unfortunately, only a few proprietary computer programs for frequency selection have this capability. Input to most of these programs assumes that all units are of the same design. For this reason, accurate prediction of compatibility between systems of different design is not always possible.
+

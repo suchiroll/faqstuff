@@ -1,0 +1,30 @@
+Title: Remote Mic and Control for ipod 80 GB Classic?
+Id: 4391
+Legacy Id: 5484
+
+Question:
+I purchased a set of Shure SE425 earbuds with the remote/mic accessory cable. I found that the cable remote doesn't work with my 80 GB ipod classic. I decided to purchase a new ipod Shuffle. My question is does this cord have full functionality with newest ipod shuffle (2013)?
+
+
+Answer:
+
+	Based on the capacity of your iPod Classic the Remote and Mic (3-button) functionality is not supported on that model. Remote and Mic functionality was first introduced with the 120GB model bearing the same name in late 2008.
+	
+	Note the Accessories section (scroll down) and how it includes Earphones with Remote and Mic:
+	http://support.apple.com/kb/SP498
+	
+	Now note the same section for the model you own:
+	http://support.apple.com/kb/SP15
+	It doesnt mention Remote and Mic because that feature was not included at that time. It has since been added to every Apple product - laptops, desktops, iPad, iPod Shuffle etc.
+	
+	Wikipedia also includes a mention of the added Remote and Mic function on the iPod Classic:
+	http://en.wikipedia.org/wiki/IPod_Classic
+	
+	See in the Models chart toward the bottom that in the 6th (classic, 1st revision) it says Can use mic and remote controller through 3.5mm audio jack and does not say that for the 80GB version.
+	
+	For the iPod Shuffle: Remote and mic was added to the Shuffle in 2009 with the 3rd generation. Remote and Mic remains a feature on the current generation of the Shuffle or anything from the 3rd generation on.
+	
+	Generally all Apple products launched after 2009 feature the Remote and Mic compatibility.
+	
+	See this for further reference: https://www.shure.com/americas/support/find-an-answer/remote-mic-and-control-for-ipod-80-gb-classic/
+

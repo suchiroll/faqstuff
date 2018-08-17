@@ -1,0 +1,13 @@
+Title: Motiv MV88 Custom Presets
+Id: 4860
+Legacy Id: 6047
+
+Question:
+How do I create my own presets? The 5 included are very useful but I'd also like to easily swap between my own.
+
+
+
+Answer:
+
+	As of February 2016, there is no method to save user presets in the Motiv app.  Your request has been sent to the MV88 product manager for consideration.
+	 

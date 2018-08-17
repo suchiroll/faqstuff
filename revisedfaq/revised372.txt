@@ -1,0 +1,19 @@
+Title: Unable to access battery or gain switch on L2/SM58 wireless
+Id: 372
+Legacy Id: 379
+
+Question:
+I have an older SM58 wireless (model L2-CG, SN:T93391831B) that I recently purchased used. After a couple of uses, the battery needs replacing. I downloaded the L Series PDF manual from your site, but I am unable to use the directions for accessing the battery compartment. I can unscrew the top portion of the mic, but it only reveals three small terminals in the bottom portion (handle) of the mic and not the battery compartment as shown in the manual. I was able to push the bottom of mic up (from switch end) through the threaded center portion of the mic, but the battery compartment is not lifting high enough to remove the battery. I also cannot access the gain switch inside; it's just a little too low in the handle still.
+
+
+After looking at the mic carefully,it seemed obvious that the center ring (the threaded section just above the 3 terminals) might twist off. The ring is approximately .5" in height and would allow the extra clearance I need to access everything. I removed a very small machine screw that was visible from the outside of the center ring on the handle of the mic, but the ring still will not budge. It really appears that if I could get the ring off, the battery compartment and the gain switch would be fully accessible.
+
+
+Can you please verify where the mic should be separating when I twist it apart? The L series manual doesn't make it clear whether or not the center ring should come off. Unfortunately, the picture inside the manual doesn't exactly match the mic picture on the front of the manual which clearly shows this center ring. Therefore, I can't tell if it's just stuck or if the problem is that the battery compartment is not lifting high enough. I don't want to force anything since this has already proven to be a great investment. The mic is in great condition and sounds really clear. Thanks for any help you can provide.
+
+
+Answer:
+
+	It sounds as if there is a mechanical problem inside the mic handle. There is a mechanism the prevents the bottom portion of the handle from sliding completely off when changing the battery. This may have gone awry since you cannot reach the gain switch and it should be easiliy accessible.
+	
+	Approximately 2/3 up the handle (starting at the switch end) is where the handle separates from the top section to reveal the battery compartment. The handle section should smoothly slide back toward the switch end, exposing the battery compartment and gain switch.

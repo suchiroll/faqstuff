@@ -1,0 +1,11 @@
+Title: SB900A battery used with SBRC Rack Recharger
+Id: 4654
+Legacy Id: 5817
+
+Question:
+Can the SB900A battery be recharged using the SBRC or AXT900US rack mounted recharger?
+
+Answer:
+
+	Yes.Required isthe SBRC rack charging station frame, and the SBC-AX charging module for the SB900A. The SBC-AX module holds two SB900A batteries. Up to four SBC-AX modules fit into the SBRC.
+

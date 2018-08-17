@@ -1,0 +1,16 @@
+Title: Wired Microphone and Phantom Power in water environment - safety?
+Id: 1110
+Legacy Id: 1146
+
+Question:
+What potential electric shock hazard exists when using a phantom powered microphone in an environment where there is a potential for the mic and/or user to be accidentally immersed in water (i.e. an indoor pool facility)? Would it be best to use only dynamic microphones in this application?
+
+
+Answer:
+
+	All properly designed phantom power supplies limit the available current to no more 15 milliamps. 48 volts of phantom times 0.015 amps = 0.72 watts. In theory, this small amount of power should not be harmful.
+	
+	However, any type of wired mic is connected to an audio mixer and if the mixer is AC powered there always is a possibility of failure within the mixer that might bring the AC hot lead in contact with the chassis and therefore the handle of the microphone - dynamic or condenser.
+	
+	The best answer is a wireless microphone which is powered by 9 volts DC or less, and has no physical connection to the audio mixer.
+

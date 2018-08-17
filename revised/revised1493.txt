@@ -1,0 +1,13 @@
+Title: Microphone to record church pipe organs
+Id: 1493
+Legacy Id: 1546
+
+Question:
+I will be needing a microphone to record church pipe organs. Do you recommend any special one for this purpose?
+
+
+
+Answer:
+
+	In order of preference: 1) KSM44; 2) KSM32; 3) SM81
+

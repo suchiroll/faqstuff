@@ -1,0 +1,12 @@
+Title: KSE1500 - Can the earphones be used without the electronics pack?
+Id: 4772
+Legacy Id: 5955
+
+Question:
+Must the electronics pack / amplifier be used with the KSE1500 earphones?
+
+
+Answer:
+
+	The electronics pack is essential for operation. Without the pack, the earphones without the electronics will not produce an audio signal.
+

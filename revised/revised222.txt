@@ -1,0 +1,13 @@
+Title: Need mic with response up to 48 kHz?
+Id: 222
+Legacy Id: 223
+
+Question:
+Do you have any mics that pick up frequencies to 48 kHz?
+
+Answer:
+
+	Shure does not offer such a product. You will need to contact a company that manufactures measurement microphones. We suggest B  K at: www.bk.dk
+	
+	B  K offers microphones that measure ultrasonic frequencies.
+

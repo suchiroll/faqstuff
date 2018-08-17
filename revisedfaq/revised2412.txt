@@ -1,0 +1,25 @@
+Title: Linking of the SCM810 Mixers
+Id: 2412
+Legacy Id: 2504
+
+Question:
+I have designed a job where I plan on linking two SCM810 auto mixers and need to know the following:
+
+
+1) By using the link out / in put option, do I avoid having to use one of the 8 input channels?
+
+
+2) What type of cable do I need? (With the second unit mounted directly under the first)
+
+
+3) Will these two units work as one 16 channel unit?
+
+
+Answer:
+
+	1) Yes. All eight input on both mixer will be available.
+	
+	2) A linking cable is supplied with every SCM810. If you buy two mixers, you will have an extra linking cable.
+	
+	3) Yes.
+

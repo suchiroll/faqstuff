@@ -1,0 +1,14 @@
+Title: Microphone model 91A27
+Id: 4390
+Legacy Id: 5483
+
+Question:
+Please provide information on the model 91A27.
+
+
+Answer:
+
+	The 91A27 is a carbon element microphone from the 1940s. The replacement element was the model 99-701 or the model R10. The number 91A27 is not a typical Shure model number, therefore this microphone was likely an OEM model: manufactured by Shure but sold by another company as part of their product, such as a two-way radio.
+	
+	The 91A27 had the same outer design as the Shure Stratoliner microphones from the 1940s. Shure Vintage Catalogs can be viewed here: Vintage Catalogs
+

@@ -1,0 +1,12 @@
+Title: UR1 or UR1M transmitter with non-Shure lav mic
+Id: 4265
+Legacy Id: 5324
+
+Question:
+Here is a strange one. All my Shure lav mics work OK with my UR1 transmitter. But several lav mics that are European do not. I get hum, buzz, and intermittent operation. Any ideas?
+
+
+Answer:
+
+	On rare occasions, the UR1 or the UR1M-LEMO3 has exhibited a ground connection issue.The mic connector, TQG or LEMO, isnot solidly connected to the transmitter chassis ground.Some mics rely upon this chassis ground connection in place of a pin 1 connection. A field diagnostic step is to loosen the mic connector nut, scrape away any excess paint or corrosion, and re-tighten the nut to ensure the ground connection between the mic connector and the transmitter chassis.
+

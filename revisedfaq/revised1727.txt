@@ -1,0 +1,14 @@
+Title: Shibata/Quadraphonic Cartridge - M24H?
+Id: 1727
+Legacy Id: 1786
+
+Question:
+I am having difficulty finding a cartridge to play my old cd-4 quad records with.  Can you provide me with a list of the cartridges that Shure made that either came with a Shibata stylus or were able to be upgraded to a Shibata? I have no problem finding old cartridges, just need to know what I am looking for. 
+
+
+Answer:
+
+	In the 1970s, Shure manufactured the M24H cartridge. It was the only Shure model made for Quadraphonic playback.
+	
+	Shure no longer sells the M24H or the N24H replacement stylus. The stylus featured Hyperbolic long-contact tip geometry. This was likely very similar to a Shibata tip.
+

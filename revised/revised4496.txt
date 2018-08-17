@@ -1,0 +1,35 @@
+Title: Microflex wireless channel limitation
+Id: 4496
+Legacy Id: 5610
+
+Question:
+I have a bid to use more than the recommended 40 channels of wireless for Shure’s Microflex Wireless systems. Have this been done successfully? We are spread out over multiple floors within the same building. We also have 40+ channels of Sennheiser wireless in different parts of the building as well.
+
+
+Answer:
+
+	While MXW does have a specified channel count limit of 40 systems, this is intended to indicate the approximate upper limit of channels within one open room.Due to the shorter wavelengths at DECT band frequencies (1.9 GHz) there is less signal penetration through walls and obstacles than there typically would be with your typical UHF or VHF wireless microphone system.As such, it may be possible to exceed 40 channels with an MXW installation through DECT band spectrum analysis, careful placement of the Access Point Transceivers (MXWAPTs) as well as careful RF power management.
+	
+	DECT band spectrum analysis:
+	Before proceeding with any other step, it is always advisable to do an initial site survey to confirm the degree to which the DECT band at the installation location is available. The local Shure rep office can assist with this step. The MXWAPT can be put into a scan mode to check this.The Scan mode can run for up to 24 hours and can be left overnight without a PC/Mac connected.If the results indicate enough open spectrum to do 32+ mics, it should be ok to proceed.If the results show far less spectrum available, it may require investigation to see what other sources of DECT signals exist at the job location.
+	
+	Regarding RF Power Management:
+	Each access point and its associated portable units can be set on one of four different power levels.Each of these levels is appropriate for an approximate system range.These are:
+	Low = approx. 1 mW; good for up to around 25-30 feet
+	Medium (default) = approx. 3 mW; good for up to approx. 50 feet
+	High = approx. 16mW; good for up to approx. 100 feet
+	MAX = approx. 80mW; good for up to approx. 150 feet
+	
+	Depending on the size and proximity of the rooms, you may be able to achieve higher channel counts by controlling this RF output power.If rooms on the same floor are relatively far apart, the building construction my attenuate the signals enough that systems on opposite ends of a hallway or building may not even really see each other and therefore begin to be able to reuse spectrum.Once again, this is why it is important to not use a higher power setting than is required for the desired range of the system.
+	
+	Regarding Access Point placement and networking:
+	In general, a ceiling mount location for MXW is typical and offers good coverage in the room and depending on your power setting and wall construction, can do a good job of room coverage with minimal to average RF spillover to adjacent rooms.Sometimes, though, with installations that involve multiple rooms that are close by on the same floor, careful arrangement of access points with wall placement that attempts to aim access points somewhat away from each other can help reduce the amount of overlapping spectrum/time slots that MXW requires for operation.Of course, this would be in combination with limiting RF power.
+	
+	In general, the floors of various buildings are far thicker in construction than the walls and therefore rooms on different floors are generally better shielded from each other than rooms on the same floor.We have seen installations have more success going much beyond the stated limit when systems are spread out across many floors than all clustered in a few rooms close together on the same floor.
+	
+	It is crucial to note that the MXW system relies not just on particular frequencies but occupied time slots within those frequencies.In other words, two systems can actually share the same frequency as long as they dont share it at the same moment in time.This type of operation is known as Time Division Multiple Access (or TDMA for short).As such, keeping nearby systems in sync with he same clock signal is important for maximizing channel count.In order to do this, we recommend making certain that all MXW systems in an installation be networked together so they can share the same Master Clock.This is especially crucial for systems clustered in close proximity with only a wall or two between them.Sharing a master clock helps prevent adjacent systems from sliding into each other and temporarily causing interference.
+	
+	The Sennheiser wireless should have no effect on the Microflex wireless product as it operates in the UHF range (anywhere from 518-698 MHz) while the MXW systems operate in the DECT band (1.92-1.93 GHz).Coordinating forty channels of the Sennheiser product is a separate issue.There are several frequency compatibility software programs and tools, such as our Wireless Workbench v6 software, that can assist with that.
+	
+	There have been a few successful tests of MXW that have exceeded the recommended channel count of 40 systems but due to the many variables involved from building construction to system layout by room or by floor, we cannot say definitively whether it is possible to do more than the recommended amount.For assistance with such specifications, it is recommended that you contact the Shure Systems Support Group directly by phone to discuss.Having floor plans with potential locations for the systems as well as prior knowledge of any divisible walls, building construction, or other important details is encouraged.
+

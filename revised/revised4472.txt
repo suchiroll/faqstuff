@@ -1,0 +1,22 @@
+Title: ULXD4D - Dante
+Id: 4472
+Legacy Id: 5582
+
+Question:
+I have a question re: Audiante, CL5 and Shure ULXD4D. I added my MacBook Pro Laptop to our network with the Virtual sound card. I'm trying to get audio into the Yamaha CL5 console and also into my laptop. When I patched with the Dante Controllerr I received a message stating that this was not possible.
+
+Can you not route the output of the receiver to both the CL5 and Laptop for recording?
+
+
+
+Answer:
+
+	This should be possible. There isn't any limitation in the ULX-D that would prevent you from routing the signal to multiple destinations.
+	
+	It's possible that there is something in your Dante Controller settings that is preventing "multicast" flows, (versus "unicast) that would be not allow you to connect the signal to more than one device. See the following FAQ from Audinate on this topic:  http://dev.audinate.com/GA/dante-controller/userguide/webhelp/#multicast_transmit_flow_configuration.htm
+	
+	Be sure to check out the note at the bottom of the page regarding network switches that support IGMP.
+	
+	Since this issue involves Dante from three different manufacturers, I might recommend that you contact Audinate directly for Dante Controller support. They can be reached at: http://www.audinate.com/index.php?option=com_contact=contact=1
+	
+	Another routing choice might be to route "direct outputs" from the desired channels of the CL5 to Virtual Soundcard. I haven't used a CL5 with Dante yet, but I imagine that individual channel direct outs should be available in Dante Controller.

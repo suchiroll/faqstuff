@@ -1,0 +1,12 @@
+Title: Front-panel display on CU 5905, CU 6105, CU 6110
+Id: 4835
+Legacy Id: 6021
+
+Question:
+The display on the front panel of the CU 5905, CU 6105, or CU 6110 central unit does not light up right away when the power is turned on. Also, the display goes dark after a while even though the unit is still on. Is there a way to change this?
+
+
+Answer:
+
+	Yes.A firmware update can change this. On legacy central units that have been updated to firmware version 8.0.1 or later, the display illuminates immediately after the power button is pressed, making it clear that the power has been turned on.The display dims after a period of inactivity but remains illuminated, making it clear that the power is still on.
+

@@ -1,0 +1,12 @@
+Title: What components are required for remote Axient transmitter control?
+Id: 3940
+Legacy Id: 4189
+
+Question:
+What components are required for remote Axient transmitter control?
+
+
+Answer:
+
+	An Axient transmitter, the AXT400 receiver, and the AXT610 Showlink Access Point are required for remote Axient transmitter control.
+

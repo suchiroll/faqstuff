@@ -1,0 +1,13 @@
+Title: Will SBRC or AXT900 "top off" batteries?
+Id: 3852
+Legacy Id: 4092
+
+Question:
+We only use our Axient wireless on Sundays. If the batteries are in the SBRC or AXT900 charger will they be fully charged after a week or does the battery start to deplete?
+
+
+
+Answer:
+
+	As long as the battery is in the charger, the charger will top off the batteries if any depletion occurs. Thus, they will be fully charged when you need them.
+

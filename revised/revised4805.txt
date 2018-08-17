@@ -1,0 +1,19 @@
+Title: GLX-D RF frequency and skin absorption
+Id: 4805
+Legacy Id: 5991
+
+Question:
+I am a bass player, but I prefer not to use a cable to direct plug the bass guitar into the amplifier. To prevent the risk of electrical shock, I choose to use a Shure wireless system (GLX-D) Sometimes I do not put the transmitter on my belt or guitar strap, but rather in my sweatshirt or hoodie pocket --- I have done this a lot over the past two years as I just practice, and I noticed the transmitter and my skin would get warm from use. I recently discovered that this device transmits at 2.4 GHz of frequency. At playing for an hour at a time or more each day with this device close to my skin, is there a health risk?
+
+Answer:
+
+	The Federal Communications Commission (FCC) has guidelines for radio-frequency (RF) exposure that are met by all Shure wireless products.Radiated RF safety is evaluated by the heating effect of RF energy, which has been characterized for many years.
+	
+	The GLXD system operates in the 2.4 GHz band, which is shared with Wi-Fi systems, Bluetooth devices, ZigBee controllers, and other unlicensed services.All operate at extremely low output power and fall under the FCCs RF exposure threshold levels. RF exposure is expressed as the specific absorption rate (SAR) of the skin and underlying tissue.We are exposed at all times to RF fields in a vast range of frequencies, with those fields nearest to the body subject to closer scrutiny.Exposure levels are functions of power level, operating frequency, and distance from the body.The FCC has established power and frequency threshold levels that have been found to provide a wide margin of safety.
+	
+	In its most recent RF Exposure Guidance, the FCC states that at 2.450 GHz (the GLXD system operating frequency), at a distance less than 50 millimeters (next to the body), the approximate SAR exclusion threshold is 10 milliwatts.What this means is that a transmitter operating at or below that power level is considered so safe that no additional testing is required.
+	
+	The GLXD1 transceiver is specified to operate at a maximum of 10 milliwatts (0.01 watts), and so falls within the safe range given in the FCC guidelines.The warmth you describe in your question may be from the devices battery, which is not uncommon.You may have noticed the same warmth in your mobile phone as the battery discharges with use.
+	
+	Global Compliance - Shure Incorporated
+

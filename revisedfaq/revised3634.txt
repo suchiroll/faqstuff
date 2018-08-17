@@ -1,0 +1,16 @@
+Title: Replacement Ear Pads
+Id: 3634
+Legacy Id: 3841
+
+Question:
+What are the part numbers for replacement ear pads?
+
+
+Answer:
+
+	HPAEC240: ear pads for SRH240
+	HPAEC440: ear pads for SRH440
+	HPAEC750: ear pads for SRH750DJ
+	HPAEC840: ear pads for SRH840
+	[The HPAEC840 pads will also will fit the SRH440.]
+	To purchase in the United States, contact Shure Parts at 800-516-2525.

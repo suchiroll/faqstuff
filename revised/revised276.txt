@@ -1,0 +1,14 @@
+Title: Just how good is the BG 4.1 against an SM94/81
+Id: 276
+Legacy Id: 283
+
+Question:
+Difficult one this, I know, but I have two BG 4.1's along with a bunch of Beta 57A's, Beta 56's, Beta 52 for live and recording work. I want to buy another condensor, or two maybe. I like the idea of having an option to use three matched mics to record a choir, for example - left, right and one in the centre mono. Alternatively, buying another two mics which match is also an option, hence SM94/SM81 perhaps. Can you explain the perceived improvements in sound quality? Am I correct in assuming the BG4.1 has a very similar capsule/response to SM94?
+
+
+Answer:
+
+	The BG4.1 and the SM94 use the same capsule, so they will sound very similar. The SM94 has a slightly lower self noise level, i.e., less hiss. The SM81 uses a completely different capsule and electronics; it is much quieter than the other models and we think a better sounding mic.
+	
+	Of course, we cant tell you what differences you would hear between the microphones. Hearing these mics yourself at a local Shure dealer is the best advice we can offer.
+

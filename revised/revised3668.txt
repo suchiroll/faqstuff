@@ -1,0 +1,125 @@
+Title: Point to point wireless with UHF-R receiver and P9T transmitter
+Id: 3668
+Legacy Id: 3877
+
+Question:
+I need a stationary wireless system. That is, I want the receiver and transmitter to both be rack mounted and AC powered. What can I use?
+
+
+Answer:
+
+	This can be accomplished by utilizing the P9T transmitter and a UR4 receiver; both are AC powered, may be rack mounted, and may be used with remote antennas. The P9T and UR4 are tunable in 25kHz steps throughout their operating frequency range. The frequency bands overlap as follows:
+	
+
+	
+		
+			
+				P9T
+			
+				Frequency Band
+			
+				UR4
+			
+				Frequency Band
+		
+		
+			
+				G6
+			
+				470-506 MHz
+			
+				G1
+			
+				470-530 MHz
+		
+		
+			
+				G7
+			
+				506-542 MHz
+			
+				G1 or H4
+			
+				470-530 MHz or 518-578 MHz
+		
+		
+			
+				K1
+			
+				596-632 MHz
+			
+				J5
+			
+				578-638 MHz
+		
+		
+			
+				L6
+			
+				656-692 MHz
+			
+				L3
+			
+				638-698 MHz
+		
+	
+
+
+	
+	To determine which frequency band will provide the most available channels, use the Shure online frequency finder tool.
+	
+	To set up a point-to-point-wireless audio system:
+	
+
+	
+		On the UR4, choose RADIOSCANGROUP_SCAN. This initiates a scan to find which Group has the most available channels.
+	
+		Press the flashing ENTER button to select the chosen Group. Flashing LEDs on the UR4 front panel indicate that the Group has been set and a Channel has been selected.
+	
+		NOTE: When using UR4 receivers in the G1 band, it is imperative to avoid local public safety frequencies. See Public Safety FAQfor guidance. Choose RADIO and use the UR4 control knob to select a Channel not in the public safety frequency band.
+	
+		On the UR4 display, note the selected frequency in MHz.
+	
+		Power on the P9T and make certain that the RF switch is in the OFF position.
+	
+		On the P9T, press ENTER.
+	
+		Use the P9T menu knob to highlight and select RADIO.
+	
+		Push the menu knob to highlight the first three digits of the frequency.
+	
+		Turn the menu knob to scroll through the numbers to match the first three digits from Step 4.
+	
+		Press menu knob again to highlight the next three digits of the frequency.
+	
+		Turn the menu knob to scroll through the numbers to match the second three digits from Step 4.
+	
+		Press ENTER to set the frequency. At this step, the P9T frequency must match the UR4 frequency.
+	
+		To enter Point To Point mode (PTP) on the P9T, press ENTER.
+	
+		Use the menu knob to highlight and select AUDIO.
+	
+		Within the AUDIO menu, highlight the MODE options (which are STEREO/MX or MONO), consecutively press SYNC - EXIT - SYNC within 2.5 seconds.
+	
+		The display will say ENTER PTP MODE?
+	
+		Turn the menu knob to select YES.
+	
+		Press the flashing ENTER button.
+	
+		The P9T is now in PTP mode. PTP will be highlighted in the lower right corner of the display.
+	
+		Push the P9T RF switch to the ON position. The blue antenna LED should come on.
+	
+		The UR4 RF LEDs should light and the blue LEDs at the top should also light.
+
+
+	When sending a +4dBU line-level signal to the P9T, use the AUDIO menu to select LINE and use the UP/DOWN buttons to set level to -16 dB as shown on the display. On the UR4 XLR output, the signal level will be +4dBu (+/- 2 dB) with the MIC/LINE switch set to LINE and the front panel attenuator setting at 0 dB.
+	
+	A stereo signal connected to the LEFT and RIGHT inputs of the P9T will be summed to mono and sent to the UR4. To transmit in stereo and receive in stereo, two P9T transmitters and two UR4S receivers (or one UR4D receiver) are required. Send the left channel through one P9T/UR4, and the right channel through the other P9T/UR4 - set to a different Channel within the same Group.
+	
+	Point-To-Point (PTP) mode will remain active even when the P9T is powered off and powered on. To exit PTP mode, push ENTER, use menu knob to select AUDIO, and then change PTP mode to either mono or stereo/mx.
+	
+	A directional antenna, like the PA805SWB, is recommended for the P9T transmitter and for the UR4 receiver. Use of directional antennas may extend the operating distance to 1,600 feet (500 meters) and beyond, given optimum conditions.
+

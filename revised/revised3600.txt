@@ -1,0 +1,32 @@
+Title: No playback from X2u headphone jack
+Id: 3600
+Legacy Id: 3806
+
+Question:
+I am not hearing any playback from the computer out of the X2u headphone jack.
+
+
+Answer:
+
+	Rotate the monitor blend knob into the playback position.
+
+	
+		Plug headphones into the jack on the side of the X2u.
+	
+		Playback a sound file from the computer
+	
+		Rotate the monitor blend control up toward the XLR connector until it stops.
+	
+		Gently turn the headphone volume up.
+	
+		Audio should be playing from the headphone jack on the X2u.
+
+
+	If audio still does not playback, ensure the X2u is selected as the playback audio device in the settings menu of the computer.
+
+	
+		MAC OS X: System PreferencesSounds Select Shure Digital
+	
+		Windows XP, Vista: StartControl Panel Sounds and Audio DevicesAudio TabSelect Shure Digital as Audio Output
+
+

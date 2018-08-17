@@ -1,0 +1,16 @@
+Title: SE Earphones - Intermittent audio or static - Cleaning connector
+Id: 4022
+Legacy Id: 4429
+
+Question:
+My SE series earphones have become intermittent in one ear? Do I need a new cable? Should I send the earphones to Shure Service?
+
+
+Answer:
+
+	A possible cause for this complaint is corrosion, dirt, or sweat in the connector between the cable and earphone housing. This problem can often be alleviated by removing the cable from the earphone housing, and gently cleaning both connectors, especially the connector on the ear bud.
+	
+	We recommend cleaning the connecting surfaces with a foam Q-Tip moistened with rubbing alcohol; both items are available at a pharmacy/drug store. If a cotton Q-Tip is employed, be careful that cotton fibers do not remain in either connector.
+	
+	If this cleaning does not cure the problem, please contact Shure Service. Phone in the U.S. is 800-516-2525.
+

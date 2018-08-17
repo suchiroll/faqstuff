@@ -1,0 +1,24 @@
+Title: Replacement of wireless mic cartridge/element
+Id: 456
+Legacy Id: 465
+
+Question:
+I currently own the "vocal artist" but I would like to change the cartridge to the matt coloured one which I think belongs to the L series Beta58(discontinued). So is this possible? By the way, are there any chance to get the L series wireless mics now?
+
+
+At 11/18/2000 06:42 AM you wrote - Sorry to trouble you again, actually what I meant is the outer housing/cartridge of the body of the wireless BETA 58. Do you still have or sell the matt-coloured housing of the wireless BETA 58? I saw the mic (with matt-coloured housing)on TV and also on the net so I was wondering if I can get that "beautiful" mic.
+
+
+Another question: if I already have the T series vocal artist(T2/58), can I use it with the LX3/LX4 receiver? If yes, can I buy just the receiver alone?
+
+
+Answer:
+
+	At 11/17/2000 07:13 AM we wrote - The L Series was discontinued in 1994. The direct replacement is the LX Series.
+	
+	The current Beta 58 wireless head is the R179. It has a matte gray metal grille and a black plastic outer surface. As of November 2000, the U.S. retail price is $155.04. If the head of your current transmitter can be unscrewed, then you can replace it with the R179. Call Shure Parts at 800-516-2525 if you wish to purchase the R179.
+	
+	At 11/18/2000 12:02 PM we wrote - The blue transmitter housings that you describe are no longer available. They were discontinued with the L series back in 1994.
+	
+	Yes, you can use T series transmitters with LX receivers as long as they are on the same frequency. You can purchase the receiver separately from any Shure dealer.
+

@@ -1,0 +1,17 @@
+Title: N75HE-J Type 2 Stylus
+Id: 3131
+Legacy Id: 3265
+
+Question:
+I have an information sheet which was included with a Shure N75 Type 2 Hyperelliptical Series stylus model N75HE-J. This states that this stylus tracks at 1-1/4 to 2-1/2 grams. Can you give the tip dimensions please and confirm that this is a genuine Shure product.
+
+
+
+Answer:
+
+	1.25 to 2.5 grams is the tracking force.
+
+	Tip is 0.3 x 1.5 mils. Hyperelliptical.
+
+	It is a genuine Shure product.
+

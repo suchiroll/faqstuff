@@ -1,0 +1,12 @@
+Title: Seeking Specs for old Model 530 Microphone
+Id: 2218
+Legacy Id: 2294
+
+Question:
+Need the specs for Model 530 Shure Bros Mic plus I need to buy a cable for it so it can be jacked into a tape recorder. Thank you.
+
+
+Answer:
+
+	Shure no longer stocks a cable for the 530. Try vintage mic cable supplier Tom Ellis: tomsmics@flexcomp.comThe model 530 was dual impedance and could be set for a low impedance output of 50 ohms, or a high impedance output of 35,000 ohms. The correct setting is determined by the input requirements of the tape recorder.http://pubs.shure.com/guide/Model-530/en-US.pdf
+

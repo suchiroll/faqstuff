@@ -1,0 +1,53 @@
+Title: CU 5905 Front Panel Control Options
+Id: 4151
+Legacy Id: 5057
+
+Question:
+What functions can be controlled from the front panel of the CU 5905 Control Unit?
+
+
+Answer:
+
+	Loudspeaker Volume (for the all DC 5980P Portable Conference Units)
+	- Adjustment range is Off, -40 to 0.
+	
+	Mic to Loudpeaker On/Off
+	- Deactivates all DC 5980P loudspeakers
+	
+	Signal Level of Audio Output A (XLR on rear panel)
+	- Adjustment range is Off, -40 to +6
+	
+	Maximum Number of Delegates Talking
+	- Adjustment range is 1 to 8
+	
+	Maximum Number of Total Talkers (delegates and chairmen)
+	- Adjustment range is 1 to 8
+	
+	Maximum Number of Requests to Speak
+	- Adjustment range is0 to 250
+	
+	Operation Mode
+	- Auto (push to talk); Manual (chairman selects from a queue); FIFO (First In First Out determined by a Request To Speak queue); VOX (voice activation)
+	
+	VOX Mic Activation Threshold
+	- Adjustment range of 8 to -12 dB
+	
+	VOX Release Time
+	- Adjustment range of 1 to 10 seconds
+	
+	Automatic Mic Off (deactivates a mic after a period of no speech input)
+	- Adjustment range of 5 to 60 seconds
+	
+	Local Area Network(LAN)Setup
+	Acquire IP Address
+	- Dynamic (DHCP) or Static
+	IP Address Setup
+	- Actual IP Address
+	Subnet Mask
+	- Actual Subnet Mask Address
+	Default Gateway
+	- Actual Gateway Address
+	
+	Restore to Factory Default
+	- OK or Cancel
+

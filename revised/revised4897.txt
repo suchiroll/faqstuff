@@ -1,0 +1,12 @@
+Title: M44-7 and M44G Stylus Shank Shape
+Id: 4897
+Legacy Id: 6155
+
+Question:
+Arethe M44-7 and M44G stylus shanks shaped unusually?
+
+
+Answer:
+
+	Yes. The M44-7 and M44G have type S stylus shanks (cantilevers.) The stylus shank has a subtle S shape. Type S shanks are a major contributor to the outstanding skip resistance of the M44 series when scratching a record.
+

@@ -1,0 +1,15 @@
+Title: Does the Beta 58A have an internal pop filter?
+Id: 743
+Legacy Id: 762
+
+Question:
+I am interested in purchasing the wired Beta 58A microphone. I went to your website and checked it out. I noticed in the detailed description it does not mention whether or not this microphone has the pop filter in it. I assume it does but could you tell me if this one has the pop filter and if it does is it like the SM58 or does it have the 3 stage like the Beta 87A. My problem in the past with other microphones is the popping sounds when I sing words with p, t and b's. Does this microphone minimize this and other breath noises as well as the rumble from handling the microphone? I've also had a problem in the past with other mikes that make my voice garbled and not clear. I would like to know if my voice will sound clear with this mike. I would appreciate an answer as soon as possible as I need to make my purchase right away.
+
+Answer:
+
+	The Beta 58A does have an internal pop filter, but it is not a 3 stage pop filter like the Beta 87A. If you find that you have excessive popping for breath blasts, you should try moving the microphone closer, farther away, or placing at the corner of your mouth so it is not in direct line with the breath blasts.
+	
+	Handling noise is a function of the internal shock mount, not the pop filter. The Beta 58A does have a very good internal shock mount.
+	
+	The sound of the Beta 58A will depend on your particular voice. We recommend that you visit your local Shure dealer and audition different models.
+

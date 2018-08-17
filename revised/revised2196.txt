@@ -1,0 +1,12 @@
+Title: 78 RPM Styli for the M91ED Cartridge
+Id: 2196
+Legacy Id: 2272
+
+Question:
+Will the N78S stylus fit and work in my M91ED?
+
+
+Answer:
+
+	The N78S stylus fits the M91 body.
+

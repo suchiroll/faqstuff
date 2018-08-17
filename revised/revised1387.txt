@@ -1,0 +1,176 @@
+Title: SCM810 Direct Outputs to a Lanier recorder
+Id: 1387
+Legacy Id: 1439
+
+Question:
+Can a TRS 1/4 " connector be used to carry a balanced signal out of any of the SCM810's outputs?
+
+
+If not, what wiring scheme would allow the SCM810's 1/4" output to be connected via XLR connector to your Shure inline 50 dB Line to Mic attenuator?
+
+
+Alternately, can any single output channel on the SCM810 be switched from line or aux level to mic level? The input for that channel must be mic level/phantom power.
+
+
+---- 07/20/2001 09:37 AM ----------------------------------------------
+
+ Thank you for the prompt reply. The solution worked in large measure.
+
+ I am now looking for a solution to pad down the Shure810's relatively
+
+ hot output signal to a xlr miclevel input signal on a Lanier Advocate
+
+ 4 channel tape recorder. Curiously, your Shure inline 50 db. line to
+
+ mic adapter attenuates the sound completely! I've still got some work
+
+ ahead of me. Thanks again!
+
+ 
+
+
+---- 07/23/2001 11:16 AM ----------------------------------------------
+
+ Thank you, you anticipated my next question perfectly! I will connect
+
+ the red wire to the tip and the green wire to the shield. I'll "float
+
+ the black wire". I'll jumper the 100 ohm resistor between the tip and
+
+ shield as suggested. The xlr connector at the Lanier end is wired in
+
+ the standard way. I'll be happy if this gives me the gain i need and
+
+ eliminates the hum that originally sent me on this chase.
+
+
+Glenn Mitchell
+
+VidCOmm
+
+
+
+
+ 
+
+
+---- 07/23/2001 05:51 PM ----------------------------------------------
+
+ hank you again! The article you sent seems to indicate a Lanier model
+
+ which uses female TRS
+
+ inputs. These inputs are designed to force a purchase of Lanier
+
+ microphones. I understand this. It
+
+ seems too, that the hum cancelling connections of balanced input
+
+ lines to the Lanier are carried
+
+ on a 1/4" stereo male plug by the red signal (tip) and black signal
+
+ ( "ring" common) wires, while a
+
+ green ("sleeve" ground) wire becomes the shield and provides an
+
+ interference ground since it
+
+ wraps around the other lines.
+
+
+
+ My model Lanier Advocate has 2 sets of 4 XLR inputs( redundancy?) with
+
+ with a trim pot for each set of twin xlr' inputs. The Lanier is adual
+
+ tape deck with 4 channels and no autoreverse. I can therefore takean
+
+ input signal and attenuate it at the Lanier, and that should be that!
+
+ The problem is that the trim pots do not have an audio taper. So on
+
+ the other end of the line, if I attenuate the volume controls on the
+
+ Shure SCM810 automatic mixer in any way to lower the gain to the
+
+ Lanier, then the part of the SCM output that is being amplified by the
+
+ council chamber's power amp is also weakened.
+
+
+
+ You are right that the Lanier is prone to noise! Since the SCM puts
+
+ out such a hot signal at the 1/4
+
+ inch mono channel outs, the fifty foot cable run to the Lanier does
+
+ not suffer any apprecialble signal
+
+ loss (I wish it did!). That's why your A15LA inline 50 db attenuator
+
+ was plugged in at the xlr inputs to the Lanier. Now, I wire a 1/4 inch
+
+ mono plug out of the SCMend with tip as red and shield as green and
+
+ disconnect the black. I think this will work. It seems to me that
+
+ putting the 100 ohm resistor in there to
+
+ bridge the tip and shield of this plug is just shorting the hot lead
+
+ (red) to ground and setting up
+
+ another 60 cycle hum. If I connect the red and black and disconnect
+
+ the green, then I have what I had to begin with, a con
+
+Answer:
+
+	We will assume you refer to the Direct Out jacks of the SCM810.
+	
+	The Direct Outs are unbalanced, not balanced. We suggest the use of a Shure A95U transformer. Insert the 1/4" phone plug into the Direct Out. The other end of the A95U is an XLR male providing a balanced, low impedance, mic level signal.
+	
+	The Direct Outs are not line level; they are a hot mic level. As supplied from the factory, the Direct Out is unbalanced with a 1,000 ohm impedance. There is no internal modification to boost the Direct Out to aux or line level.
+	
+	FYI - The A15LA is a passive attenuator. It will reduce a line level signal to a mic level signal. It does not amplify a mic level signal up to a line level signal.
+	
+	
+	At 07/20/2001 10:11 AM we wrote - Put a 100 ohm resistor across the tip and sleeve of the 1/4" male connected to the Direct Out. This will give you a low Z, unbalanced, mic output that will likely make the Lanier quite happy. If you try this, the A95U is not needed.
+	
+	At 07/23/2001 12:21 PM we wrote - We just found some old files on Lanier. Here is what they said:
+	
+	"NON-STANDARD" ASPECTS OF THE LANIER
+	
+	A 1/4" FEMALE PHONE JACK USED AS A LOW IMPEDANCE MIC INPUT
+	THE FEMALE XLR CONNECTOR IS THE STANDARD LOW IMPEDANCE MIC INPUT CONNECTOR OF THE PROFESSIONAL AUDIO WORLD. A 1/4" FEMALE PHONE JACK IS NORMALLY UNDERSTOOD TO BE HIGH IMPEDANCE IF USED AS A MIC INPUT. THE LANIER INPUT IS LOW IMPEDANCE, NOT HIGH AS ONE MIGHT EXPECT.
+	
+	A THREE CIRCUIT PHONE JACK USED AS A BALANCED MIC INPUT
+	AGAIN, THE FEMALE XLR CONNECTOR IS THE STANDARD BALANCED MIC INPUT CONNECTOR WORLDWIDE. WHEN A 1/4" FEMALE PHONE JACK IS USED AS A MIC INPUT, IT NORMALLY IS AN UNBALANCED CIRCUIT WHICH ONLY REQUIRES TWO CONNECTIONS - THE TIP AND THE SLEEVE. THE LANIER INPUT IS BALANCED, NOT UNBALANCED AS ONE MIGHT EXPECT.
+	
+	LANIER DATA SHEET DOES NOT LIST MIC INPUT IMPEDANCE OR NOMINAL LEVEL
+	I BELIEVE THIS IS A MARKETING PLOY TO CONVINCE NON-TECHNICAL USERS THAT ONLY LANIER SUPPLIED MICROPHONES WILL OPERATE PROPERLY. THIS IS NOT THE CASE, BUT THE UNUSUAL INPUT CONFIGURATION WILL CERTAINLY CONFUSE SOMEONE TRYING TO USE
+	NON-LANIER MICROPHONES! I HAVE BEEN UNABLE TO GET SPECIFICATIONS FROM LANIER AND HAVE LEARNED ABOUT THE LANIER MIC INPUT CHARACTERISTICS THROUGH EXPERIENCE.
+	
+	SEMI-PROFESSIONAL MIC INPUT INPUT DESIGN
+	THE LANIER IS VERY SUSCEPTIBLE TO HUM AND INTERFERENCE DUE TO GROUND LOOPS. THE DESIGN IS VERY SIMILAR TO HOME CASSETTE RECORDER STEREO INPUT CIRCUITS, NOT THE INPUT CIRCUITS OF PROFESSIONAL BROADCAST QUALITY AUDIO PRODUCTS.
+	
+	HOW TO CONNECT A DIRECT OUTPUT INTO A LANIER INPUT
+	IF THE CABLE BETWEEN THE DIRECT OUTPUT AND THE LANIER IS 5 FEET OR LESS:
+	- CONNECTING CABLE IS TWO INNER CONDUCTORS WITH A SHIELD
+	- DIRECT OUTPUT CONNECTOR IS 1/4" MALE MONO PLUG; LANIER IS 1/4" MALE STEREO PLUG
+	- INSTALL 100 OHM RESISTOR FROM TIP TO SLEEVE ON DIRECT OUTPUT 1/4" MALE PLUG
+	- INNER CONDUCTOR #1 = TIP OF DIRECT OUTPUT PLUG TO TIP OF LANIER
+	- INNER CONDUCTOR #2 = SLEEVE OF DIRECT OUTPUT PLUG TO RING OF LANIER
+	- SHIELD = SLEEVE OF DIRECT OUTPUT PLUG TO NO CONNECTION ON LANIER
+	[THIS CONNECTION PROCEDURE MAY WORK FINE FOR MUCH LONGER CABLE LENGTHS (+100 FEET), BUT IT IS IMPOSSIBLE TO PREDICT]
+	
+	IF THE CABLE BETWEEN THE DIRECT OUTPUT AND THE LANIER IS 5 FEET OR MORE:
+	- CONNECTING CABLE IS TWO INNER CONDUCTORS WITH A SHIELD
+	- DIRECT OUTPUT CONNECTOR IS FEMALE XLR PLUG; LANIER IS 1/4" MALE STEREO PLUG
+	- PLUG SHURE A95U TRANSFORMER INTO DIRECT OUTPUT
+	- INNER CONDUCTOR #1 = PIN 2 OF DIRECT OUTPUT XLR TO TIP OF LANIER
+	- INNER CONDUCTOR #2 = PIN 3 OF DIRECT OUTPUT XLR TO RING OF LANIER
+	- SHIELD = PIN 1 OF DIRECT OUTPUT XLR TO NO CONNECTION ON LANIER
+	[THIS CONNECTION PROCEDURE WILL WORK FINE FOR ANY CABLE LENGTH]

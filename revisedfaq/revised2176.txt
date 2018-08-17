@@ -1,0 +1,12 @@
+Title: Is the M95ED magnetic, ceramic or crystal?
+Id: 2176
+Legacy Id: 2249
+
+Question:
+I have a Shure M95ED cartridge and need to know if it is a magnetic, ceramic, or crystal type cartridge.
+
+
+Answer:
+
+	It is a magnetic cartridge, also known as a moving magnet cartridge.
+

@@ -1,0 +1,11 @@
+Title: Shock Mount for KSM141 and KSM137
+Id: 2638
+Legacy Id: 2740
+
+Question:
+Is there a shock mount for the KSM141 and KSM137?
+
+
+Answer:
+
+	Yes, the model A53M.

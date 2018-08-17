@@ -1,0 +1,12 @@
+Title: Custom panels with connectors
+Id: 2528
+Legacy Id: 2625
+
+Question:
+Does Shure offer custom panels with connectors?
+
+
+Answer:
+
+	No, Shure does not.  Try Panel Crafters.
+

@@ -1,0 +1,14 @@
+Title: Connecting a wireless to a guitar amp
+Id: 2051
+Legacy Id: 2116
+
+Question:
+I play Bass guitar and I plan on purchasing a TGS T-Series Wreless system. I was wondering how do you plug the system into your amp.
+
+Thanx
+
+
+Answer:
+
+	The receiver has a 1/4 output, just like your guitar. Connect a 1/4 to 1/4 cable between the receiver and your amp.
+

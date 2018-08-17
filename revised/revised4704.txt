@@ -1,0 +1,18 @@
+Title: Stylus Terms and Definitions
+Id: 4704
+Legacy Id: 5874
+
+Question:
+What is a nude stylus tip? A bonded stylus tip? A nude mount? A bushing mount?
+
+
+Answer:
+
+	Nude stylus tip = the entire stylus tip is the same material, typically diamond.
+	
+	Bonded stylus tip = the stylus tip consists oftwo parts bonded (adhered) together. Thelower portionis diamond and the upper portion is metal or another type of crystal/stone.
+	
+	Nude mount = the stylus tip is glued directly into a hole at the end of the stylus shank.
+	
+	Bushing mount = the stylus tip is glued into a bushing affixed to the stylus shank
+

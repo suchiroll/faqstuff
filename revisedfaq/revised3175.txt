@@ -1,0 +1,16 @@
+Title: Wireless Workbench stops controlling UHF-R receiver
+Id: 3175
+Legacy Id: 3315
+
+Question:
+I have a computer with Wireless Workbench version 4.0.x.x and connected to a set of UHF-R receivers. Upon going into the “Live” mode the receiver info is displayed but it is “grayed out” on the computer display. No control is possible although the battery meter does occasionally work when the corresponding transmitter is on. This occurs with both USB and Ethernet connections.
+
+
+Answer:
+
+	The problem is that the receiver channels must have a name. Both channels of a UR4D must have at least one alphanumeric character in at least one position of the name area to allow communication.
+	
+	Simply enter any one character name using the controls on the front of the UR4D receiver. Then, you will be able to connect via the computer.
+	
+	This bug was fixed in version 4.1 of Wireless Workbench.
+

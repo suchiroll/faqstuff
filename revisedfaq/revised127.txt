@@ -1,0 +1,13 @@
+Title: What are the different types of microphone other than Dynamic and Condenser?
+Id: 127
+Legacy Id: 127
+
+Question:
+What are the different types of microphone other than Dynamic and Condenser?
+
+Answer:
+
+	Ribbon, carbon, piezoelectric, ceramic, and crystal are other types of microphones.
+	
+	For additional educational materials, see our list of recommended reading at: What books are recommended to learn about audio?
+

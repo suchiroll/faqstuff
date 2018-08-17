@@ -1,0 +1,27 @@
+Title: Microphone for shortwave radio broadcasting
+Id: 933
+Legacy Id: 961
+
+Question:
+We would appreciate to receive your advice what kind/type of microphone we should use for spoken word recorded in a studio as audio file to be broadcast later on shortwave radio.
+
+
+As you may know, understandability is a major problem for broadcasting on shortwave (3-30 MHz) due to interference from different sources such as noise, fading, adjacent channel interference, etc.
+
+
+If you are familiar with these kind of problems, then we would appreciate to receive your information about what microphone we use best in these circumstances.
+
+
+At 04/04/2001 07:32 PM you wrote - The audio frequency response of the actual shortwave transmission is 50 to 7500 Hz.
+
+
+
+Answer:
+
+	Please advise: what is the audio frequency response of the actual shortwave transmission?
+	
+	At 04/05/2001 07:55 AM we wrote - We suggest the following models.
+	Best choice: SM7B
+	Better choice: Beta58A
+	Good choice: SM58
+

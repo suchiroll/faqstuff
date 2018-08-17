@@ -1,0 +1,75 @@
+Title: Shipping Shure rechargeable batteries
+Id: 3909
+Legacy Id: 4155
+
+Question:
+I've heard there restrictions on shipping the Shure Lithium Ion rechargeable batteries. What do I need to know?
+
+
+Answer:
+
+	Shure offers rechargeable solutions to several products. Lithium Ion batteries and recharging accessories offer the optimal product performance with the benefit of lower costs over time and the ability to "go green".
+	
+	Important Note: Lithium Ion batteries do require some additional documentation when transporting equipment, whether by air, boat or ground. Although all lithium and lithium ion cells and batteries are regulated as Class 9 "hazardous materials" or "dangerous goods" for shipping domestically and internationally, there are exceptions to "small" batteries based on the amount of lithium in these batteries. All of the rechargeable lithium ion batteries Shure sells or uses in products are in the "small" classification.
+	
+	To aid you in assembling the information for transportation of our Lithium Ion products, we have included an outline of requirements. There are 3 additional requirements you should fulfill for any shipment that includes Lithium Ion batteries, these are:
+
+
+	
+	Identification Labels
+	
+	Declaration documents to be enclosed with your shipment
+	
+	Packaging requirements
+
+
+	If you are shipping by AIR and SMALL PARCEL Express (The Air Transportation Association (IATA) 2011 rules apply) requirements include:
+
+
+	
+	Lithium Ion handling labels:
+	
+		
+		Identifies Lithium Ion battery including an Emergency contact number for an emergency service
+		
+		Lithium Ion CAUTION label
+	
+	
+	
+	Material Safety Data Sheet (MSDS) from battery manufacturer
+	
+	Packaging requirements:
+	
+		
+		When Shure Lithium Ion Rechargeable Batteries are installed in Shure Battery Charger accessories, they comply with all shipping standards.
+		
+		Batteries not installed in equipment must be individually protected to prevent short circuits by placement in the original Shure packaging or by otherwise insulating terminals (tape over terminals, each battery in a separate plastic bag, etc.).
+	
+	
+
+
+	If you are shipping by Ocean, Truck and SMALL PARCEL Ground shipments (Title 49 U.S. Code of Federal Regulations Section 173.185 apply) requirements include:
+
+
+			No additional documentation or labeling is required
+			Packaging requirements:
+	
+		
+		When Shure Lithium Ion Rechargeable Batteries are installed in Shure Battery Charger accessories, they comply with all shipping standards.
+		
+		Batteries not installed in equipment must be individually protected to prevent short circuits by placement in the original Shure packaging or by otherwise insulating terminals (tape over terminals, each battery in a separate plastic bag, etc.).
+	
+
+
+	Shure encourages you to keep up-to-date on all transportation regulations for rechargeable batteries. Rechargeable Lithium Ion battery transport is regulated by the following agencies:
+
+
+	
+	International Air Transport Association (IATA) http://www.iata.org
+	
+	Federal Aviation Administration (FAA) http://www.faa.gov
+	
+	International Maritime Organization (IMO) http://www.imo.org
+	
+	Department of Transportation's Pipeline and Hazardous Materials Safety Administration (PHMSA) https://www.phmsa.dot.gov/safetravel/batteries
+

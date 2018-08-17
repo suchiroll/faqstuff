@@ -1,0 +1,12 @@
+Title: Motiv MV88 with iOS 9
+Id: 4945
+Legacy Id: 6207
+
+Question:
+I've seen reports of certain lightning microphones no longer working with the native iOS camera app in iOS 8 and 9, even though they worked in iOS 6 and 7. Is this the case with the MV88? Can I use it with the native camera app in iOS 9?
+
+
+
+Answer:
+
+	The MV88 should work fine with the latest version of iOS.  One can set levels, stereo width, etc., in Shure's Motiv app, and then switch to the Camera app to record video. We haven't heard any reports specifically about the camera app not working, but we do occasionally encounter connectivity issues with some iOS devices.  Usually these can be resolved by updating to the latest versions of iOS and our Motiv app, by rebooting the iOS device, or in some cases by reinstalling apps or restoring the device. The MV88 user guide lists "iOS 8.0 and higher" for compatible operating systems.  Since updates to iOS are frequently issued, Shure's Motiv product team ensures that our products stay compatible, and the teams updates the app when necessary.

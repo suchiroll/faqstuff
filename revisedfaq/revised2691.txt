@@ -1,0 +1,15 @@
+Title: Custom audio cable
+Id: 2691
+Legacy Id: 2795
+
+Question:
+Will Shure make custom audio cables? I need a cable so my non-Shure mic will work with my Shure wireless transmitter.
+
+Answer:
+
+	Sorry, Shure does not offer this service. Here are two sources:
+
+http://www.gigcables.com
+
+	http://www.cbicables.com/
+

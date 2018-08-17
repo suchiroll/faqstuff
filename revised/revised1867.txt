@@ -1,0 +1,16 @@
+Title: Noise cancelling microphone
+Id: 1867
+Legacy Id: 1927
+
+Question:
+We are looking for a high quality noise cancelling microphone for use in our new voice recognition exhibit. This exhibit will be located in a very noisy gallary with high ambient levels, point sources and distant voices. We need a microphone or system that will only deliver the intended voice to our voice recognition computer. Any help you could offer would be very much appreciated.
+
+
+Answer:
+
+	Consider the Shure SM10 headworn mic, the WH20XLR headworn mic, or the Shure 503BG gooseneck mic.
+	
+	Regarding connecting a professional microphone into a computer sound card, please read the following.
+	
+	Microphone connected to a computer sound card
+

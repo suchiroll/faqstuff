@@ -1,0 +1,14 @@
+Title: Pin Out Specs for VP3 Receiver
+Id: 2316
+Legacy Id: 2402
+
+Question:
+What is the pin out specs for the 3 pin mic output from the VP3 Receiver, and is the output balanced or unbalanced?
+
+
+Answer:
+
+	The output is balanced.
+	Pin 1 - shield
+	Pin 2 - audio +
+	Pin 3 - audio -

@@ -1,0 +1,29 @@
+Title: What is PoE?
+Id: 4348
+Legacy Id: 5433
+
+Question:
+What is PoE?
+
+
+Answer:
+
+	PoE is an acronym for Power over Ethernet. PoE is a technical method that allows a single Ethernet cable to do double duty: it provides a data path and it provides an electrical power path to a remote device like the Shure MXW Access Point.
+	
+	In the Shure MXW series, PoE is carried on the same wires/conductors as the data. This technique is an IEEE (Institute of Electrical and Electronics Engineers) standard called Alternative A. Indeed, it is eerily similar to how phantom power is delivered to a condenser microphone via the mic cable. And just like a condenser mic will not operate if phantom power is not delivered, a PoE powered device will not operate if PoE is not delivered.
+	
+	PoE also provides signaling between the Power Source Equipment (PSE) and Powered Device (PD). This signaling is known as an initial handshake. The handshake allows the Power Source Equipment to detect the presence of a conforming Powered Device, and lets the devices negotiate the amount of PoE required or available. As examples in the MXW series, the MXW-ANI8 is a PSE because it is the source for PoE, while the MXW-APT8 is a PD because it needs PoE to operate.
+	
+	There are different classes of PoE. The MXW series is Class 0 (zero) PoE . Class 0 defines the parameters of the initial handshake. Class 0 PoE has these specifications:
+	
+	Initial Handshake:
+	Detection voltage range of the PD: 14.5 Vdc to 20.5 Vdc
+	Detection current range of the PD: 4 mA or less
+	
+	After data is exchanged during the handshake, the PSE knows the power requirements of the PD and supplies it:
+	Typical voltage range required by a PD: 37 to 57 Vdc
+	Current supplied to the PD: 350 mA or less
+	Wattage range provided to the PD: 0.44 Watts to 12.95 Watts
+	
+	The maximum Ethernet cable length recommended between the PSE and the PD is 100 meters (328 feet). Why? Because the PoE voltage and current are reduced as the Ethernet cable length increases, eventually being insufficient to operate the PD.
+

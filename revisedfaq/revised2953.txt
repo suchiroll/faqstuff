@@ -1,0 +1,26 @@
+Title: History of Circle S Shure logo
+Id: 2953
+Legacy Id: 3080
+
+Question:
+What is the history of the circle S Shure logo?
+
+
+Answer:
+
+	The Shure Trademark from the 1930s
+	
+	The familiar design pictured is the trademark used on several of our products, including the Model 55 Unidyne, which is the most outstanding microphone, both in performance and appearance, on the market today.
+	
+	The trademark is actually a schematic diagram of an acoustic/electronic circuit. On the left are the acoustical waves shown by wavy lines. In the center is an Alternating Current (AC) generator (1) symbolized by a sine wave in the circle. On the right, wired to the generator, is the resistance or the load (2) of the circuit. So, the sound waves actuate the generator and are changed to a fluctuating electric current. Also, the reverse holds true. Electricity maybe applied to a generator to cause sound waves to pass through air, as occurs in our Hearing Aid receivers (3) .
+	
+	Now, take the symbol of the generator and turn it around slightly so that it forms an S. Around our plant that initial means one thing - SHURE BROTHERS. For the last decade and longer, Shure products have been used for everything from recording and reproducing the music of the finest symphonies, to that of measuring the effect of blasts from an atomic bomb.
+	
+	This strange little trademark proudly symbolizes the products we make and their relation to the very broad field of electronics. They are the vital connection link in a daily amazing achievement where the human voice can be hurled around the world at a speed of 186,000 miles per second, and where the drop of a pin can be made to sound like a crash of thunder.
+	
+	Editors Note: The text above was taken from two 1940s editions of Shures employee newsletter, Shure Shots. In 1999, this vintage trademark was revived by Shure for the KSM line of studio microphones.
+	
+	(1) A microphone is a type of AC generator.
+	(2) The input of a microphone mixer is an example of a load.
+	(3) Shure Personal Stereo Monitor (PSM) earphones function as acoustical generators.
+

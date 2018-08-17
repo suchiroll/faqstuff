@@ -1,0 +1,12 @@
+Title: Connector for Beta 52 drum mic
+Id: 1447
+Legacy Id: 1500
+
+Question:
+How does this microphone plug in? It doesn't seem to have an apparent XLR plug.
+
+
+Answer:
+
+	The output of the Beta 52 is a standard 3 pin male XLR. The XLR is at the base of the mic.
+

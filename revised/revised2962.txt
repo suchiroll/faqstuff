@@ -1,0 +1,20 @@
+Title: Beta 98H/C - Converting for use with wireless transmitter
+Id: 2962
+Legacy Id: 3090
+
+Question:
+I would like to make my Beta 98H/C mic into a wireless using a Shure bodypack transmitter. Is this possible? If so, how does the mic receive phantom power and how do I wire the mic to fit into the 4 pin conector on the transmitter?
+
+
+Answer:
+
+	Is this possible? Yes.
+	
+	If so, how does the mic receive phantom power and how do I wire the mic to fit into the 4 pin conector on the transmitter? The in-line preamp (located inside of the male XLR barrel)is not used when the Beta 98H/C connects to a transmitter, so phantom poweris not required.However, +5Vdc bias is required to operate the mic element; this +5Vdc bias is provided by the transmitter.
+	
+	1) Obtain a female 4 pin connector - Switchcraft TA4F. Shure sells it as the model WA330
+	
+	2) Disconnect or cut the wire leading from the mic to the in-line preamp.
+	
+	3) Solder the TA4F to the disconnected mic wire: Shield to pin 1; red to pin 2; black to pin 3 and to pin 4.
+

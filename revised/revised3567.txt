@@ -1,0 +1,17 @@
+Title: "Shure Digital" doesn't show up in Mac OS X Sound Preferences Panel
+Id: 3567
+Legacy Id: 3773
+
+Question:
+"Shure Digital" doesn't show up in Mac OS X Sound Preferences Panel
+
+
+Answer:
+
+	
+		Be sure the X2u/PG27-USB/PG42-USB is connected to a powered USB Port
+	
+		Switch the device to a different Powered USB Port.
+	
+		If the above doesn’t work, disconnect the device, restart the computer and reconnect the device to a different powered USB port.
+

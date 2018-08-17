@@ -1,0 +1,28 @@
+Title: Antenna Placement
+Id: 4903
+Legacy Id: 6161
+
+Question:
+What are tips for antenna placement?
+
+
+
+Answer:
+
+	Most wireless receivers have their primary antenna inputs on the back of the receiver. Since diversity receivers are discussed here almost exclusively, there will be both an A antenna input and a B antenna input on the rear panel of the receiver. BNC connections are most often used for antenna inputs, although some older (primarily VHF) systems may have used PL-259 connectors. Rack-mountable receivers often provide pre-cut holes on the rack ears to accommodate antenna connections for front-mounting the antennas. Short coaxial cables and bulkhead adapters with the proper connector type are all that is needed to bring the antennas to the front.
+
+	When deciding where to mount antennas, always try to maintain line of sight between the receiving and transmitting antennas. For example, if the back of the rack faces the performance area, then rear-mounting the antennas will provide better line of sight. If the front of the rack faces the performance area, then front-mounting may be better, unless a front door to the rack needs to be closed. Metal equipment racks will block RF from reaching the antennas mounted inside. Rear-mounted antennas may not work inside of a metal equipment rack. If the receiver is not rack-mounted at all, then simply maintain line of sight, that is, the receiving antennas should be directly visible from the transmitting position.
+
+	Antenna Spacing
+	Antennas should be separated from each other by a minimum of one quarter wavelength  about 16 inches (40 cm) for VHF units and about 4 inches (10 cm) for UHF units. This helps ensure adequate diversity performance. Diversity reception can be improved by separating the antennas further, but beyond one full wavelength the advantage becomes negligible. However, greater separation may be useful if it results in more strategic antenna location. For example, increasing separation to ensure line-of-sight with at least one of the antennas from any location in the room.
+
+	
+
+	Antenna Height
+	Receiver antennas should be clear of obstructions, including human bodies, which can absorb RF. Therefore, placing the antennas higher than crowd level (5 or 6 feet, 2 m, from the floor) is always recommended.
+
+	
+
+	Antenna Orientation
+	Receiving antennas should be oriented in the same plane as the transmitting antenna. Since the transmitting antenna is generally in the vertical position, receiving antennas should also b e vertical. However, handheld transmitter antennas, because of the dynamics of live performers, can sometimes vary in position. As a compromise, antennas can be placed at approximately a 45-degree angle from vertical. Additionally, never orient antennas horizontally! This sometimes occurs when antennas are mounted on the back of the receivers, inside an equipment rack where there is not enough clearance for vertical orientation. If this situation arises, either obtain the necessary parts to front-mount the antennas, or remote-mount them outside the rack (see Antenna Remoting). Antennas must always be kept clear of any metal surfaces by at least a few inches and not touch or cross other receiving antennas. Antenna distribution systems can help avoid some of these problems.
+

@@ -1,0 +1,40 @@
+Title: How do I mic a conference table?
+Id: 175
+Legacy Id: 176
+
+Question:
+How do I mic a conference table?
+
+Answer:
+
+	Table Microphone Placement
+
+	
+		Large conference rooms, training rooms, and lecture halls often feature tables rather than individual desks. Whenever multiple sound sources must share one microphone, microphone selection and placement is important to ensure consistent audio levels. Follow these rules for good results:
+	
+		Use the appropriate microphone type.
+		
+			
+				Boundary microphones are less noticeable on camera, but may pick up noise from paper rustling, pencil-tapping, etc., since these sounds occur very close to the mic.
+			
+				Gooseneck microphones are aimed up and over the potentially noisy table surface, reducing noise pickup and preventing the mic from being covered up by books or other materials.
+		
+	
+	
+		Use microphones with the appropriate polar pattern.
+		
+			
+				The cardioid pattern has a useful angle of about 120 degrees, which can easily accommodate two adjacent talkers. The cardioid pattern is least sensitive to sounds coming from the rear of the mic, which reduces pickup of sound coming from loudspeakers mounted at the front of the room.
+			
+				The supercardioid pattern has a working angle of about 100 degrees. It is less sensitive than the cardioid to sounds coming from above the microphone, but is somewhat more sensitive to sounds coming from directly behind the mic.
+			
+				Omnidirectional microphones are equally sensitive to sound from all directions. While they are useful for picking up several talkers seated around the mic, feedback problems usually restrict their use to recording-only systems without sound reinforcement.
+		
+	
+	
+		Use one microphone for every two participants. Because each talker is equally off-axis from the centerline of the mic, their levels will be the same (assuming that they speak equally loud and are seated an equal distance from the microphone). If you try to cover more than two people with each mic, the talkers on the sides will be noticeably softer than the talker in the center, because they are off-axis to the microphone. The difference usually ranges from 3 to 6 dB, depending on the difference in angle and distance between the center and side talkers. This effect is more noticeable with the supercardioid pattern than with the cardioid pattern, because the supercardioids pickup falls off more rapidly as the sound source moves away from the centerline of the microphone.
+
+
+	
+
+

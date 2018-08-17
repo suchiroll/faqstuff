@@ -1,0 +1,11 @@
+Title: Wireless audio for VCR/DVD player
+Id: 721
+Legacy Id: 739
+
+Question:
+In our church, we are running wireless microphones into our system, and we are also running a couple tape decks, and CD player through our board.  We are wondering if it is possible to run a wireless transmitter from the Audio on a VCR/DVD to our board, like we run the wireless microphones.  Our VCR/DVD is in the front of the Sanctuary, and the mixer board is up a flight of stairs in the back.
+
+Answer:
+
+	It is possible, but you would have to be careful about overloading the transmitter. Most transmitters are designed for microphone level signals. Also, you would need two complete wireless systems to have left and right stereo channels.
+

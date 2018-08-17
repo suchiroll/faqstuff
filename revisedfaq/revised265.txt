@@ -1,0 +1,22 @@
+Title: Information on a SME tone arm
+Id: 265
+Legacy Id: 271
+
+Question:
+Information on a SME tone arm?
+
+
+Answer:
+
+	Shure has not distributed SME products since the mid 1980s.
+	
+	As of September 1996, SME was distributed in the U.S. by:
+	
+	Sumiko Corporation
+	3101 Telegraph Ave.
+	Berkeley CA 94705
+	phone: 510-843-4500
+	fax: 510-843-7120
+	
+	Also check: http://www.sme.ltd.uk
+

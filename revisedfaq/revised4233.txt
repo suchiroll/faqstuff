@@ -1,0 +1,30 @@
+Title: Protection from sweat for Shure wireless systems
+Id: 4233
+Legacy Id: 5218
+
+Question:
+We purchase and use your Shure Wireless Systems for all of our clubs and group fitness areas. When the instructors are using the headset and the battery pack sweat gets into the connections. My questions is there a gel like material that can be used to help prevent corrosion?
+
+Answer:
+
+	Sorry, we have no recommendation for a gelmaterial. We can tell you what is done in the theater where wireless mics are used nightly and sweat is an issue.
+	
+	1) Bodypack transmitters are kept in neoprene pouches when on the actors.Shure sells pouches that wrap around the waist or around the biceps.
+	
+	2) The mics, the cables, and the transmitters are wiped off with clean towels after EVERY use, and are NEVER put away while wet.
+	
+	3) The mics, cables, and the transmitters are stored in areas with air circulation.They are only put into zippered bags after air-drying for 24 hours.
+	
+	4) Connectors are sometimes treated with De-Oxit spray made by CAIG Labs.
+	
+	5) Sweat will always destroy mics, cables, and transmitters eventually....water, heat, and salt are the enemies of all electronics.(Just like sweat will eventually ruin clothing.) Have spares available - failure is inevitable.
+	
+	6) For people that sweat profusely, the transmitter is encase in latex.Latex gloves can be used.
+
+	
+	Answer: Wireless microphone for jazzercise and aerobics
+	
+	Answer: Protecting body pack antenna in aerobics
+	
+	Answer: Wireless for Health Clubs
+

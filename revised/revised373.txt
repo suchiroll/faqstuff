@@ -1,0 +1,25 @@
+Title: U1 with an electro-acoustic guitar
+Id: 373
+Legacy Id: 380
+
+Question:
+I have an Ovation Balladeer acoustic-electric guitar that I am using with a U1 transmitter and U4 receiver. This guitar has a piezo pickup with a built in preamp. Whenever I strum the guitar hard, the audio from the wireless system cuts out. The red audio peak indicators never light up. What can I do?
+
+
+Answer:
+
+	The piezo pickups on electro-acoustic guitars have extremely high frequency content. This is above what humans can hear. To solve this problem, it is necessary to get rid of this extraneous high frequency content.
+	
+	Thanks to Shure customer Tim Trace for these suggestions:
+	--------------------------------------------------
+	"I had to apply two separate fixes to reduce the high frequency information enough to prevent the dropouts from occurring.
+	
+	"Dropping a .01 microfarad polyester film (50 Vdc max, 10%) capacitor (Radio Shack p/n 272-1065) from signal to ground inside the Balladeer was the first fix. [Editor's note: This creates a 6 dB per octave high frequency rolloff. Different guitars would require different values of capacitor, depending on their impedance. This may change the tone of the guitar output.]
+	
+	"The other fix was disengaging the guitar's on-board preamp and using the channel strip on the mixing console for tonal shaping. This is not a bad thing in my case, because the channel strip has a dual mid-sweep EQ.
+	
+	"It was necessary to place the capacitor in the Balladeer instead of in the 1/4" plug. Most people will be able to put the capacitor in the 1/4" plug on the cable. I couldn't because that same cable is also used for another guitar.
+	
+	"In my musical setting, typically loud rock, tonality of the Balladeer appears unaffected. The artifacts are probably still there but again, in my musical setting - they are inaudible. I am now extremely happy with my U-series wireless system.
+	
+	"Individual success will be dependent on how hot the preamp output of any given instrument is, or how much high frequency boost the player wishes to add from the instrument EQ."

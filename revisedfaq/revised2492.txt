@@ -1,0 +1,22 @@
+Title: User Guide for Shure Cartridge 1000E
+Id: 2492
+Legacy Id: 2587
+
+Question:
+I would like to buy a user guide for cartridge 1000E.
+
+
+Answer:
+
+	There is no user guide specifically for the 1000E. Perhaps these specs will help:
+
+	
+	Model 1000E
+	Replacement stylus: N99E
+	Tip type: Biradial (0.2x 0.7 mils)
+	Other stylus that will fit: N104E
+	Optimum tracking force:1 1/4 gram
+	Similar current Shure model: M92E (0.4x 0.7mils) (TF: 3/4 to 1 1/2)
+	
+	If not, please send us specific questions and we will attempt to answer.
+

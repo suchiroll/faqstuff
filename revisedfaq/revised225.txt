@@ -1,0 +1,25 @@
+Title: Beta models vs. SM models
+Id: 225
+Legacy Id: 230
+
+Question:
+I would like an explanation of Beta vs. non Beta versions of the SM87 and SM58.
+Advantage of one over the other? Different sound characteristic? Would the application affect my decision of which one to buy?
+
+
+Answer:
+
+	Beta 58A versus SM58:
+	Polar pattern: Beta 58A = supercardioid; SM58 = cardioid
+	Output level: Beta 58A is 4dB hotter than SM58
+	Handling noise: Beta 58A is quieter than SM58
+	Grill: Beta 58A has a hardened grill that is very difficult to dent
+	Frequency response: Beta 58A has extended low end and high end compared to SM58
+	
+	Beta 58A sounds different than SM58. You may like it better or you may not. We suggest a side by side comparison at your favorite Shure dealer.
+	
+	SM87 versus Beta 87A:
+	The primary difference is the Beta 87A has a polar pattern that is extremely uniform at all frequencies. This translates into slightly better gain before feedback in a sound system when compared to the SM87.
+	
+	All four models are vocal mics. Whatever sounds best on your voice should be your selection. Only you can decide that. Test drive the microphones at your favorite Shure dealer before purchasing.
+

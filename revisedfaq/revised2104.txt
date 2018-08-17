@@ -1,0 +1,12 @@
+Title: Meaning of "LC" in a model number
+Id: 2104
+Legacy Id: 2172
+
+Question:
+What does the "lc" following SM58 stand for? (I guessed that "s" means switched, but have come up with no ideas for "lc.")
+
+
+Answer:
+
+	LC means Less Cable. The microphone is supplied without a connecting cable.
+

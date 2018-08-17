@@ -1,0 +1,19 @@
+Title: Microphone for infrasound measurements
+Id: 4577
+Legacy Id: 5703
+
+Question:
+I’m looking at recording some sounds in the 5hz – 20 hz range. Your KSM32 microphone appears to be flat down to 20hz and good for extreme SPL (important to us), however the response below 20hz isn’t listed. Is there any chance you have a response curve or data for this microphone that goes below 20hz? Also, I’m hoping to plug this microphone into a National Instruments board. I don’t see any standard XLR inputs offered by national instruments so intend to run the mic to an XLR-BNC connection. Do you see concerns with this and or recommend a different solution (such as a USB or 1.5mm jack) Thanks in advance.
+
+Answer:
+
+	1) Sorry, our anechoic chamber cannot deliver accurate results below 20 Hz.
+	
+	2) The KSM32 will not work into the board you mentioned. It requires a balanced input that also provides phantom power:Answer Link: What is Phantom Power?
+	
+	3) We appreciate your interest in Shure products, but what you require is a measurement mic. Shure does not make measurement mics. So here are sources:
+	
+	www.bksv.com
+	acopacific.com
+	www.larsondavis.com
+

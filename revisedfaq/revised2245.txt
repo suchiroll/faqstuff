@@ -1,0 +1,15 @@
+Title: Shure 510C "Hercules" - Wilcox Gay mic manufactured by Shure
+Id: 2245
+Legacy Id: 2326
+
+Question:
+I was wondering if you could provide me with some info on a microphone manufactured by Shure for Wilcox Gay. This microphone looks identical to the Shure 510C "Hurcules", and stamped on the back of the case is "Controlled Reluctance Microphone Model 808 (or may be 806?), Manufacture By Shure Brothers, Inc. Chicago, U.S.A." I've attached a jpeg to help identify it. I understand you may not be able to offer the definitive answer since this was an OEM product, but I'd appreciate any help you could offer. Another related question I've been meaning to inquire about has to do with the 510C controlled reluctance microphone. I'm curious what element the 510C used? Is it the R5 as found in some of Shure's "bullet" mics? If not can you tell me which element it did use and if this element is used in other Shure microphones?
+
+
+Answer:
+
+	Shure made many OEM variation of the model 510C. Your mic is one of these OEM variations. It was made before 1956; Shure moved to Evanston from Chicago in 1956.
+	
+	We do not have a data sheet in our archives for a model 806 or 808. This is not unusual for an OEM model. Our records do not indicate which mic element was used in the model 510. It was likely a close cousin to the element used in the "bullet" mics, but probably not exactly the same.
+	
+	Another OEM variation of the Hercules microphone was the CR84A that was sold to Motorola for use with their two-way radios.

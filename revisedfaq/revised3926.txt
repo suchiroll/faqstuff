@@ -1,0 +1,29 @@
+Title: A15 Problem Solvers - Functions of Each
+Id: 3926
+Legacy Id: 4174
+
+Question:
+The A15 series looks interesting, but I do not understand the function of these products. Please provide an explanation of each.
+
+
+Answer:
+
+	All Shure A15 devices have XLR connectors.
+
+	A15AS - Attenuator Switchable. The A15AS reduces the signal level from a microphone by 15 dB, or 20 dB, or 25 dB depending on the switch position. Here is a typical use. A microphone with a hot output level (MX418D) overloads the input of a mixer and causes distortion. Insert the A15AS just before the mixer input to reduce the microphone signal level. The A15AS does pass phantom power so it may be used with a condenser mic as well as a dynamic mic.
+
+	A15BT - Bridging Transformer. The A15BT is used to connect devices of different impedances and/or different signal levels. The A15BT can also convert an unbalanced signal into a balanced signal, and vice versa. The precise function of the A15BT depends upon which XLR end is used as the input. Here is a typical use. An unbalanced output from a consumer CD player must connect to a balanced mic input on a mixer. Using an adapter cable, connect the CD player output to the A15BT female XLR; then connect the A15BT male XLR to a mic cable that terminates at the mixer. Unlike the A15AS, the A15BT DOES NOT pass phantom power.
+
+	A15HP - High Pass. The A15HP passes higher frequencies and attenuates (reduces) lower frequencies.Here is a typical use.A microphone is used outdoors in a high wind; the wind produces excessive low frequency noise in the mic signal.Insert the A15HP just before the mixer to reduce the undesirable low frequency noise.The A15HP does pass phantom power.
+	
+	A15LA - Line Attenuator.The A15LA reduces the signal level by 50 dB.Here is a typical use.A mixers line level output must connect to the mic level input of another mixer.Insert the A15LA just before the mixer input to reduce the line level signal to a mic level signal.The A15LA does pass phantom power.
+
+	A15PRS - Polarity Reverser Switchable. The A15PRS connects pin 2 of the female XLR to pin 3 of the male XLR, and connects pin 3 of the female XLR to pin 2 of the male XLR. This polarity reversal can be undone by the switch. Here is typical use. Two microphones are on a lectern; one has an incorrectly wired cable causing it to have opposite polarity. When the two mic signals are combined in the mixer, the resulting audio is hollow and thin. Insert the A15PRS just before the mixer and reverse the polarity for one of the mics. The A15PRS does pass phantom power.
+
+	A15RF - Radio Filter. The A15RF reduces audible interference caused by AM radio, FM radio, and other types of radio frequency interference. Here is typical use. A choir mic in a church has audible interference caused by a nearby AM radio station transmitter. Insert the A15RF at the output of the microphone, or at the input of the mixer. Severe interference situations may require two A15RF units - one at the mic output and one at the mixer input. The A15RF does pass phantom power.
+
+	A15TG - Tone Generator.The A15TG provides a continuous mic level signal of 400 Hz.Operation requires a 1.5 V button battery.Here is a typical use.Multiple microphone cables are installed in a meeting room.To check each cable for continuity, insert the A15TG into the input of each cable and test for a signal at the other end of the cable.The A15TG does not operate from phantom power.
+	
+	
+	Discontinued A15 models: A15A; A15HA; A15LP; A15PA; A15PR; A15RS. For technical details and schematics of these devices, see the PDF file below. It is a Data Sheet from 1969.
+

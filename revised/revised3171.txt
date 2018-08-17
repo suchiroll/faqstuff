@@ -1,0 +1,15 @@
+Title: I series Dual connector and TREO 650/600
+Id: 3171
+Legacy Id: 3309
+
+Question:
+Are the dual-connector i2c headphones 100% compatible with the Treo 650? I'd like to be able to use the same headphones with other devices.
+
+Your tech specs seem to imply that the 650 uses a 4 conductor 2.5mm plug and the 2.5 mm plug on the dual connector model only has 3 conductors.
+
+If they are not compatible is there an adapter available?
+
+Answer:
+
+	The Dual connector will work with the TREO 650 or 700W Also. The Phone function work fine with you hearing in both ears. For Music through your TREO you will hear the music in BOTH ears but it will be in Mono. Not Stereo. So the same stereo summed signal will go in both ears. This does leave the other end of the I series for another listening device. Keep in mind when listening to music through the TREO the switch needs to be on the Phone side. When listening through the 1/8 headphone jack side then it needs to be switched to music. The standard Treo Adapter: 2.5mm 3 cond. to 3.5mm headphone output will give you stereo music through the Treo when you plug it into the music side: 3.5mm connector. But you will have to plug in other side of the i series to take a phone call. Hope this clears thing up.
+

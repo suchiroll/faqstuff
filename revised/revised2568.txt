@@ -1,0 +1,13 @@
+Title: M97xE body with VN5xMR stylus
+Id: 2568
+Legacy Id: 2667
+
+Question:
+Can I install a new V15 stylus on my m97xe cartridge body?
+
+
+Answer:
+
+	The VN5xMR stylus will fit the M97xE body. However, this does not equal a V15VxMR. The construction of the V15V magnetic pole pieces is different than the M97xE.
+	
+	You might like the sound of your "hybrid" phono cartridge, but it will not be the equivalent of a V15VxMR.

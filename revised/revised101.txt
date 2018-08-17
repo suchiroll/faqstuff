@@ -1,0 +1,12 @@
+Title: What battery fits the VP88?
+Id: 101
+Legacy Id: 101
+
+Question:
+What battery fits the VP88 stereo microphone?
+
+
+Answer:
+
+	Radio Shack Number: 23-469; Duracell PX28L; Eveready A544; Ray-O-Vac RPX28
+

@@ -1,0 +1,15 @@
+Title: 520D Wiring for Different Impedances
+Id: 2876
+Legacy Id: 2993
+
+Question:
+Please describe the different wiring schemes for the model 520D.
+
+
+Answer:
+
+	High impedance / unbalanced : Black wire to phone plug tip; shield to phone plug sleeve.
+	
+	Low impedance / unbalanced : Red wire to phone plug tip; shield to phone plug sleeve.
+	
+	Low impedance / balanced : Red wire to XLR pin 2; black wire to XLR pin 3; shield to XLR pin 1. Inside the mic, cut the blue and black wires in half. Solder the blue wire (from the mic element) to the black wire (from the cable). Insulate this solder connection with electrical tape. Insulate the unused end of the blue wire and the unused end of the black wire.

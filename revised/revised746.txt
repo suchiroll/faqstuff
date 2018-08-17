@@ -1,0 +1,30 @@
+Title: Voice recognition set-up
+Id: 746
+Legacy Id: 765
+
+Question:
+I am trying to set up the equipment needed to work in speech recognition. I would like if you can help me with that.
+
+
+PC with a sound card
+
+Two microphone
+
+Mixer
+
+digital equalizer
+
+power amplifier
+
+pair speaker
+
+
+Could you tell me how is the connection and if I am missing something?
+
+
+Answer:
+
+	We can only assist with the microphone connection portion of your system. Please read the following link:
+	
+	Connecting professional microphone to a computer
+

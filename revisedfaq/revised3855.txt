@@ -1,0 +1,12 @@
+Title: Default User Name, Password for AXT620 switch
+Id: 3855
+Legacy Id: 4096
+
+Question:
+What is the default user name and password for the AXT620 Ethernet switch?
+
+
+Answer:
+
+	Username: root
+	Password: root

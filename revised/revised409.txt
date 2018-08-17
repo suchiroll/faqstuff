@@ -1,0 +1,14 @@
+Title: Change microphone to keep hi-hat out of vocals?
+Id: 409
+Legacy Id: 416
+
+Question:
+I play in a rather unique band. Our drummer sets up stage middle front, and I play just off to his left. I currently sing through a BG 2.1. Our sound man says that when he turns my vocals up, the high hat get's twice as loud. They are at my waist level, about 1/2 foot behind me. I am looking to upgrade my mic to a Beta series, but which one would give me maximum isolation from off axis noise?
+
+
+Answer:
+
+	All of the Beta microphones have a supercardioid polar pattern, so they will all be fairly equivalent for off axis rejection. But, if you are standing just in front of the hi-hat, than the hi-hat is not off axis to the microphone. Positioning the microphone so its null angle is pointed towards the hi-hat will provide maximum isolation.
+	
+	Unfortunately, with the setup you described, it sounds like the position of you or the drumkit would need to bechanged for any dramatic effect in isolation. Changing the microphone will probably not provide that much of a difference.
+

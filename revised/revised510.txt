@@ -1,0 +1,10 @@
+Title: Can two M267 mixers be used together
+Id: 510
+Legacy Id: 520
+
+Question:
+I find that from time to time I need more than four microphones.  I also want to be able to have separate control of each microphone volume.  Can I hook up two M267 mixers together to accomplish this, and then feed the signal to my video camera?
+
+Answer:
+
+	Interconnect the two M267 mixers using the Mix Bus connectors. When connected via the Mix Bus, all eight inputs will appear at each mixer's output. The Master control of each mixer will only effect its own output level. In essence, you will have created an eight input mixer with two separate, independently controlled Master outputs.

@@ -1,0 +1,16 @@
+Title: Motiv MV5 Mounted to a Mic Stand
+Id: 4806
+Legacy Id: 5992
+
+Question:
+How can I mount the MV5 to a mic stand that has a 5/8"-27 Male thread?
+
+
+Answer:
+
+	Remove the MV5 from its supplied desk stand.The thread of the MV5 is 1/4-20Female.
+	
+	Obtain a mechanical adapter that is 5/8-27 Female threadto 1/4-20 Male thread. One such adapter is offered by On Stage Stands, part #MA125. The adapter might be called a camera mount adapter for mic stands.
+	
+	Mount the adapter to the mic stand and fasten the MV5 to themale thread of the adapter.
+

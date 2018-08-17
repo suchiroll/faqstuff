@@ -1,0 +1,57 @@
+Title: Selecting bands/channels for new wireless systems using Wireless Workbench 6 tutorial
+Id: 4585
+Legacy Id: 5712
+
+Question:
+How do I determine which band to purchase for a large wireless setup? Also, how do I determine channels or frequencies to set them to?
+
+Answer:
+
+	If you are only needing a few channels, often the online Frequency Finder can be used to determine which band to purchase. For larger wireless setups, the Wireless Workbench 6 (WWB) software can be used to coordinate frequencies for your wireless systems. Wireless Workbench 6 can be downloaded for free and works on both Windows and Mac.
+	
+	This tutorial will explain how to perform frequency coordination for wireless systems that are offline (not networked to the computer) and that you are wanting to purchase.
+	
+	As an example, let's say we have the following existing wireless systems in the 60714 zip code:
+	
+	8 QLXD systems in the J50 band
+	
+	We wish to add 15 SLX wireless systems to the above systems
+	
+	Step 1: First, we need to add all of our existing and new wireless systems. After opening WWB, select the Frequency Coordination tab.
+	
+	
+	
+	Step 2a: Under the "Add Frequencies" tab, select the Manufacturer, Model, and Band. For our example, we will add the existing systems first. Select "Shure", "QLXD" and "J50". We have 8 QLXD systems in the J50 band, so enter "8" as the "Quantity". Click on the "Add" button. This will add the QLXD systems.
+	
+	
+	
+	Step 3: Choosing bands for the new SLX systems will be a matter of trial and error. Using the instructions in step 2, add 10 SLX systems in the G4 band, 10 SLX systems in the H5 band, and 10 SLX systems in the J3 band. While we only need to add 15 SLX total, we will put in 10 for each band during this trial and error process, to get at least 15 compatible frequencies. With a large setup like this, selecting "SLX_master_list" as the Model can help find additional frequencies.
+	
+	
+	
+	Once we have added all of our systems, our list will now have all of the old and new wireless systems listed. We have collapsed the list to show all of the systems/bands.
+	
+	
+	
+	Step 4: Now that we have added all of our systems, we need to determine which television stations are active in our zip code so the wireless systems avoid them. Click on the "Spectrum" tab and then click on the setup icon next to "TV Channels" label (red arrows). Enter our zipcode (60714, for this example) and click "Search" (green arrows). Leave the Radius at 50 miles for most applications. The active television stations will populate in the list (green box).
+	
+	
+	
+	Step 5: Click on "Calculate"
+	
+	
+	
+	Step 6: The results window will come up showing how many systems can be used together with all of these bands. We can add 19 SLX systems to our existing QLXD using a combination of the J3, H5, and G4 bands (red arrow). We have collapsed the list so it is easier to see all systems/bands. Once you are done calculating, you can choose the "Save" icon or "Create Coordination Report" icon (green arrows) (see step 7 for explanation).
+	
+	
+	
+	Step 7a: Clicking the "Create Coordination Report" icon allows us to either print the frequency list or export the frequency list as a PDF report. (blue arrows). Since our example only needs 15 SLX systems, we can pick any 15 of the frequencies, allowing the remaining 4 to be left for backup or future expansion.
+	
+	
+	
+	Step 7b: Clicking the "Save" icon, saves this equipment list and coordination for later.
+	
+	
+	
+	Step 8: Use the PDF print out from step 7a to manually set the frequency or Group/Channel of the wireless systems. Keep a printout of the calculated frequencies next to the equipment, just in case you need to refer to it.
+	 

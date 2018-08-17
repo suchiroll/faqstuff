@@ -1,0 +1,22 @@
+Title: V15V Replacement Stylus - VN5MR
+Id: 1512
+Legacy Id: 1566
+
+Question:
+I have a mid 80's vintage V15V cartridge which I tried to use recently and it apparently has suffered "stylus bushing" failure, as it will not track anything and the cantilever won't even budge.  I know the ADC turntable is fine, because it works flawlessly with the ADC XLM cartridge that originally came with it before I "upgraded" to the V15V.  Your recommended replacement stylus VN5MR is pretty pricey for the rare times I expect to play records.  Will any of your cheaper replacement stylus work in my V15V with satisfactory results?  Will a new Shure replacement stylus have the rubber bushing deteriorate and seize up over time like my V15V stylus did?
+
+Answer:
+
+	Will any of your cheaper replacement stylus work in my V15V with satisfactory results?
+
+	* Sorry, but no. Only the VN5MR will work properly with your cartridge.
+
+	
+	Will a new Shure replacement stylus have the flexible bushing deteriorate and seize up over time like my V15V stylus did?
+
+	* All cartridges use rubber bushings which are eventually attacked by the ozone in the atmosphere. It is the same as tire rot.
+
+	
+
+	Sorry, Shure no longer has inventory of the VN5MR stylus.
+

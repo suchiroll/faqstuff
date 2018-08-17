@@ -1,0 +1,16 @@
+Title: Stylus for Realistic 1000 EDT cartridge?
+Id: 2422
+Legacy Id: 2516
+
+Question:
+I have a Kenwood turntable that has a Realistic 1000 EDT cartridge with an old Shure 8 X stylus in it that tracks at about 1 gram. The cartridge is still good, but I need to replace the stylus. Is there a replacement Shure stylus available that will work with this cartridge?
+
+
+
+Answer:
+
+	The 8X stylus is no longer available from Shure. Have you checked with Radio Shack? They may have old stock.
+	
+	To replace your R1000EDT cartridge, we suggest the following cartridges:
+	M97xE or the M92E.
+

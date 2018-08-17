@@ -1,0 +1,27 @@
+Title: Coordinating wireless mics and UHF 2-way radios
+Id: 4244
+Legacy Id: 5292
+
+Question:
+More departments are requesting to use 2-way UHF radios on our church campus. We use about 25 channels of wireless mics and IEMs from about the 500 MHz range to 700 MHz.There is one frequency of radio currently in use, and we simply checked it for interference with all our wireless running and haven't had issues since. Now, with adding more radios and a more frequent need to rent supplemental wireless, I am looking for how to correctly coordinate the 2-ways with my mics and IEM's in Workbench. How do I derive the frequency for a given channel of the radios to put into Workbench when I re-coordinate all the wireless devices?Thank you for your help.
+
+
+Answer:
+
+	There a number of questions to ask regarding your inquiry.
+	
+	1. How many additional two-way radio frequencies do you think might be activated?
+	2. Are any of the two-way radios operating through repeaters, or are they all operating simplex?
+	3. Do the two-way radios ever get used near the wireless microphone receiving and antenna equipment, such as in the worship center?
+	4. Do you know whether the existing two-way radios are set to operate at the high power level (4 Watts) or the normal level (1 Watt)?
+	5. What kinds of antennas are installed for the wireless microphone receivers - i.e. half-wave, directional, are any RF amplifiers being used, and where are they located?
+	
+	The main threat to wireless microphone systems from two-way radios is RF signal overload in a receiver, which can occasionally result in a phenomenon called de-sense.The symptom of this is loss of audio due to the receiver front-end being swamped with too much RF signal, even when out-of-band.Intermodulation interference can sometimes occur, but probably less often.
+	
+	Things to consider:
+	1. If possible, do not permit operation of the two-way radios near or in the vicinity of the wireless microphone receiving antennas.
+	2. Set the two-way radios to operate at the lower RF output level.
+	2. Since the two-way radios operate in the 450-470 MHz range, the risk of interference will be to wireless microphones operating in the lower UHF-TV range from 470-550 MHz.Systems at higher frequencies will likely be far enough away in frequency to be much less susceptible to interference.
+	3. Coordinate frequencies using a coordination tool such as Wireless Workbench version 6.The two-way frequencies can be added into the inventory.
+	4. If problems do occur, or the two-way radios need to be operated near the receiving antennas, band-pass filters are available to prevent out-of-band RF from getting into the wireless microphone receivers and causing problems.
+

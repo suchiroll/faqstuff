@@ -1,0 +1,27 @@
+Title: Comprehensive PA for 2km square mosque.
+Id: 545
+Legacy Id: 556
+
+Question:
+My local mosque needs a comprehensive public address system.The dimension of the mosque is 2km square. I want you to help to help size the followings:
+
+1.An amplifier
+2.A mixer
+3.Wired microphones {4}
+4.Wireless microphones {2}
+5.The Vocal Artist UHF {2}
+6.The Presenter UHF {2}
+7.Professional stand alone speakers {10}
+8.All accessories of 1-7
+
+Please,send the necessary prices for importation. All products must be rugged and are meant for outdoor application.
+
+
+Answer:
+
+	Shure does not design complete sound systems. For that service, contact a local installer of sound systems or a sound system designer, often called an acoustical consultant. A system for a mosque of this size will be quite complex. Certainly not a do-it-yourself project.
+	
+	To help you educate yourself, please read the following book: Audio Systems Guide for Houses of Worship
+	
+	Regarding importing the products, please tell us what country you are in and we will give you the name of your Shure agent.
+

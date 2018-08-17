@@ -1,0 +1,12 @@
+Title: MX405/MX410/MX415 leaving LED logic not connected?
+Id: 3421
+Legacy Id: 3612
+
+Question:
+If I do not connect the extra two wires for the LED, does the LED still turn on?
+
+
+Answer:
+
+	Yes, the LED will be on if the logic wires are not connected to anything. On the bi-color version, the LED will be green. On the version with the red LED ring located near the mic element, the LED will be lit red.
+

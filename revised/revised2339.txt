@@ -1,0 +1,17 @@
+Title: Stylus for Shure M75 EJ Type 2?
+Id: 2339
+Legacy Id: 2426
+
+Question:
+I have a Shure M75 EJ Type 2 cartridge for which I need a stylus. Does Shure still make stylus's for this type of Cartridge? I know it's fairly old, but it's a nice cartridge and it would be a pity let it gather dust.
+
+Answer:
+
+	You can still obtain two styli for this model:
+	
+	N75ED Type 2 - biradial tip; 3/4 to 1.5 grams tracking
+	
+	N75B Type 2 - spherical tip; 1.5 to 3 grams tracking
+	
+	To find a Shure dealer in your area, see: http://www.shure.com/americas/where-to-buy/in-store
+

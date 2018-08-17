@@ -1,0 +1,13 @@
+Title: MV51 does not light up when plugged into iPhone
+Id: 5008
+Legacy Id: 6299
+
+Question:
+When I plug the MV51 into my iPhone, the lights on it do not come on.
+
+
+Answer:
+
+	First, the lights will only come on when you have a compatible App (such as the Motiv or camera app) opened
+	
+	Also, try the mic into a different iPhone or iPad. We have seen bad or dirty lightning ports that can cause this symptom.

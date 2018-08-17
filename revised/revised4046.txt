@@ -1,0 +1,14 @@
+Title: Nm displayed on UR4D+ LCD screen
+Id: 4046
+Legacy Id: 4505
+
+Question:
+"Nm" flashes on the bottom of the UR4D+ LCDscreen -what does the Nm stand for?
+
+
+Answer:
+
+	Nm indicates that the bodypack is at Normal RF power level. It is possible to switch the bodypack to a high powered mode, and then the display would change to Hi.
+	
+	Page 14 of the UR4D user guide has instructions on changing the RF power level.
+

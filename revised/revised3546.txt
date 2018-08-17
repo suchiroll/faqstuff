@@ -1,0 +1,26 @@
+Title: MX690 working with a UR4 receiver
+Id: 3546
+Legacy Id: 3752
+
+Question:
+How can I make the MX690 wireless boundary mic work with a UR4 receiver?
+
+
+Answer:
+
+	
+		The MX690 and the UR4 must share overlapping RF bands,such as MX690-H5 and UR4-H4.
+	
+		Defeat Tone Key Squelch on the UR4 using the front panel Menu option.
+	
+		Set MX690 to a desired Group/Channel.
+	
+		Determine MX690 operating frequency of the Group/Channel setting using chart supplied by Shure.
+	
+		Manually set the UR4 receiver frequency to match to the MX690 frequency.
+
+
+	Notes:
+	* MX690 battery condition information will NOT be transmitted to the UR4.
+	* The audio processing circuits are not identical in the MX690 and UR4. There might be noticeable audible anomalies when using this hybrid setup. For speech, these anomalies should be negligible.
+

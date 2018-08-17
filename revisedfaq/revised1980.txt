@@ -1,0 +1,12 @@
+Title: M75D replacement stylus
+Id: 1980
+Legacy Id: 2043
+
+Question:
+I have a M75D cartridge. The stylus should be N71M-B. I can't find it in your list. Can I get that stylus anywhere? If not, is there a replacement stylus I can use?
+
+
+Answer:
+
+	The N71M-B stylus is no longer available. The N75B Type 2 stylus will fit the M75D and is still available from Shure.
+

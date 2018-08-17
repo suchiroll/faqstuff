@@ -1,0 +1,38 @@
+Title: DTV and reallocation of UHF television frequencies
+Id: 733
+Legacy Id: 752
+
+Question:
+1. I want a Beta 87 hand held UHF wireless system that I can travel with. What model do you recommend?
+
+
+2. I understand that the FCC may make some frequencies and therefore some wireless receivers unusable. What hand held system will not be effected by the new FCC changes in airwaves use?
+
+
+A timely response is appreciated. Thank you.
+
+
+Answer:
+
+	At 03/09/2001 03:52 PM we wrote -
+	
+	1. For a traveling system, we recommend a frequency agile system such as the UC or our high end UHF system.
+	
+	2. Please read the information at the following link on the subject:
+	
+	http://www.shure.com/support/technotes/app-dtv.html
+	
+	What you have been told may have left you with the impression that frequencies above 746 MHz will become unfit for wireless microphone use any day now. Recent FCC announcements, however, reveal that the auction for the major spectrum blocks that will be used for new wireless services has been delayed from its original September 2000 date, to March 2001, then to September 2001, and finally to June 2002. The auction winners may not use their new spectrum until it has been vacated by the broadcasters who are now using it.
+	
+	That is not happening nearly as fast as the FCC (or the television manufacturers) had hoped. With approximately 236 stations on the air now, DTV is rolling out much more slowly than planned. It appears doubtful that the remaining 1,200-odd stations can be on the air in time to meet the FCCs deadline. This will most likely delay the introduction of new wireless services (and perhaps emergency communications use) even further.
+	
+	When new services eventually do begin using frequencies above 746 MHz, the whole spectrum will not be filled at once. The use of specific frequencies in a particular city for emergency service communications, or the introduction of a new wireless service in a 5 MHz or 10 MHz slice of spectrum, might make it necessary for a wireless microphone user to change frequencies. Since most wireless systems on the market that operate in the 746-806 MHz range are frequency-agile (including all those sold by Shure in this range), changing frequencies is simply a matter of turning a knob.
+	
+	Shure has added three additional UHF frequency ranges, UB(692-716 MHz), J4(554-584 MHz), and M4(662-692 MHz), for those customers who need it. If a customer in a particular location found the entire 746-806 MHz range to be unusable for some reason, we could simply change their system to a different range for a moderate fee. (So far, we have had very few requests for this.)
+	
+	But changing frequencies will probably not be necessary for everyone. Many customers unknowingly use wireless microphones on frequencies in a locally-active TV channel, or use frequencies that are supposedly incompatible, and they never know because the systems work fine. Other variables - like transmitter-to-receiver distance, antenna placement, ambient RF noise, etc. - play a role here that cant be ignored. Given the wide variations in how people use wireless microphones and what they expect from them, it is just not possible to make a blanket statement about what will or wont work for everyone everywhere, especially in the presence of new types of signals whose characteristics are not yet known.
+	
+	We try to focus on helping customers choose the wireless system and frequency set that best suits their unique combination of needs, including location, number of systems, performance requirements, and cost. These customers seem to be perfectly comfortable with the idea that changes in the operating environment might or might not someday affect the performance of their wireless system. Their experience in dealing with Shure should reassure them that if they ever do have a problem, they will have options that are convenient and affordable.
+	
+	All of our systems have at least one band that they operate on that is unaffected by the reallocation of 746-806 MHz.
+

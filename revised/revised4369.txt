@@ -1,0 +1,13 @@
+Title: X2u 60 Hz hum
+Id: 4369
+Legacy Id: 5460
+
+Question:
+I get a noticeable hum on my sound input when using this set up: SM58  X2U  USB port (of my MacBookPro). This is in my home not a studio. I notice that I can change the hum level with the mic orientation (like it's picking up ambient 60Hz). What now? Is there a shielded cable or grounding strategy to eliminate or minimize this effect?
+
+
+
+Answer:
+
+	The customer wrote back with the resolution: I resolved my noise issue. In my MacBookPro sound preference window on the input tab, I selected INTERNAL MICROPHONE and un-checked the use ambient noise reduction feature. The hum disappeared. Switched back to Shure X2u and smooth recording.
+

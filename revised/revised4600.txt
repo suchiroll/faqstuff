@@ -1,0 +1,12 @@
+Title: ULXD2 Battery Door Part
+Id: 4600
+Legacy Id: 5756
+
+Question:
+On the ULXD2 plastic battery door, this is small, rectangular part that snaps into the battery side of the door. This part is perpendicular to the main door, and has a rubber pad that presses downward on the AA cells. What is the part number?
+
+
+Answer:
+
+	Shure part #95A15842. Description: AA Battery Adapter for Shure ULXD2 handheld transmitter.
+

@@ -1,0 +1,17 @@
+Title: UT Distortion with bass guitar, clipping light does not come on.
+Id: 564
+Legacy Id: 575
+
+Question:
+I have a UT guitarist that I'm trying to use with a 6-string bass with EMG-PJ pickups.  I have a problem with distortion in the lower frequencies.  I'm forced to turn the volume down tremendously in order for the unit to work, the receiver is putting out a very weak signal.  I've tried this on other active basses, they distort at lower volume levels, the red clip light does not come on until the gain is turned up significantly.  Does this sound like a problem with my unit?  How can I fix this problem?
+
+Answer:
+
+	In general, bass guitars and wireless systems are not a good marriage. The reason is based on technical limitations placed on wireless manufacturers by the Federal Communications Systems. In brief, a wireless mic/guitar system is designed like a miniature FM radio station. The transmit signal must be compressed before it is sent and then decompressed after it is received. This is not a transparent action and very low bass frequencies often suffer as a result. Example: When was the last time you heard a really great bass sound from an FM radio station?
+	
+	We doubt that your UT system has a problem. As a check, we suggest you connect the UT system to a passive bass (one without onboard electronics) and listen to the results. If you like what you hear, then padding down (reducing) the level sent from your active bass may help. This would be done by placing an audio pad (made of resistors) in the cable that connects your active bass to the UT transmitter.
+	
+	If you dont like the sound of the UT system with a passive bass, then it will probably never please you with your active bass. In that case, we suggest going back to using a cable or auditioning other wireless systems to see if you can find a system you like. Check out other Shure models and products by other companies.
+	
+	However, we can virtually guarantee that you will never find a wireless system for your six string active bass that will sound as good as a high quality cable. For that, you can thank the Federal Communications Commission.
+

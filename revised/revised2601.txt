@@ -1,0 +1,17 @@
+Title: 78 rpm stylus for V15 III?
+Id: 2601
+Legacy Id: 2702
+
+Question:
+Do you make a compatible stylus for 78rpm records that would fit my mark 3V15 cartridge?
+
+
+What "weight" would it need for best results (I want to transcribe old 78's to CD and want to reduce the hiss from smaller stylii)
+
+
+Answer:
+
+	Shure no longer sells a 78 rpm stylus for the V15 III. Purchase the M78S cartridge. It is designed for 78 rpm and has the proper size stylus: 2.5 mils radius.
+	
+	This cartridge tracks from 1.5 to 3 grams.
+

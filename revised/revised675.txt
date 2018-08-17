@@ -1,0 +1,11 @@
+Title: Will the U4 fit in the WA590 case?
+Id: 675
+Legacy Id: 692
+
+Question:
+Will this case hold BOTH the Body pack transmitter (with WL184) and the SM58 hand transmitter with the receiver all in one?
+
+Answer:
+
+	No. The U4 receiver will not fit in the WA590 carrying case. The WA590 can be used with any of our 1/2 rack size receivers.
+

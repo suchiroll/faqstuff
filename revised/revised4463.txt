@@ -1,0 +1,13 @@
+Title: SM86 diaphragm size
+Id: 4463
+Legacy Id: 5573
+
+Question:
+Please tell me the size (in mm) of the diaphragm of the Shure SM86 condenser microphone.
+
+
+
+Answer:
+
+	The diameter is 10 mm.
+

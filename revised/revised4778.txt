@@ -1,0 +1,21 @@
+Title: RevoLabs Exec Transmitter with a Shure WL183, WL184, WL185 Microphone
+Id: 4778
+Legacy Id: 5962
+
+Question:
+How is a Shure WL180 series mic wired to work with a RevoLab bodypack transmitter?
+
+
+Answer:
+
+	The RevoLab devicehas DC bias and audio on pin 3.
+	
+	Shure employs DC bias on pin 2 and audio on pin 3.
+	
+	Connect the WL18x mic as follows::
+	 Shure WL shield to RevoLab pin 1 ground
+	 Shure WL black (audio) to RevoLab pin 1 ground
+	 Shure WL red (bias) to RevoLab pin 3
+	
+	Though this scheme shorts the WL18x audio wire to ground, the red bias wire is now modulated with the audio signal.
+

@@ -1,0 +1,27 @@
+Title: DDS 5900 Modes of Operation
+Id: 4150
+Legacy Id: 5056
+
+Question:
+The DDS 5900 has four modes of operation: Auto; Manual; FIFO; and Vox. Please describe each.
+
+Answer:
+
+	Auto: The delegate (talker) can activate the microphone immediately by touching the SPEAK button on the DC5980P conference unit. A red LED next to SPEAK will illuminate, as will the red LED ring near the tip of the GM gooseneck microphone. Touch the SPEAK button again to deactivate the microphone.
+
+	
+
+	Manual: The chairman must activate a specific microphone based upon a request to speak list. A delegate requests to speak by touching the SPEAK button. A green LED illuminates on the delegates DC5980P conference unit to confirm that the request has been added to the queue. (Cancel request to speak by touching the SPEAK button again.) The chairman selects the next delegate to speak from the queue. The queue is viewed/controlled by using a control system (such as AMX or Crestron), or by using a web browser interface on a PC or an iPad. Once the chairman has activated a mic, the delegate LED changes from green to red. The delegate can touch the SPEAK button to deactivate the mic.
+
+	
+
+	FIFO: First In - First Out. The first delegate to touch the SPEAK button will activate the microphone. If other delegates touch their SPEAK button while the first delegate is talking, they are added to the FIFO queue. The green REQUEST LED will illuminate for all delegates in the FIFO queue. When a delegate will be the next to speak, the green LED will begin to slowly flash on/off.
+
+	
+
+	VOX: Voice Activation Mode. A delegate microphone is activated whenever she speaks (or touches the SPEAK button.) Once the delegate stops speaking, the microphone is deactivated after 4 seconds; this time can be adjusted from 1 second to 10 seconds. There is also an adjustment for the activation threshold; the range is -12 to +8 with the default setting of 0. Setting the threshold to a number less than 0 makes the mic activate with softer sounds.
+	
+	NOTE: The DDS 5900 system can allow a total of up to eight active speaker (delegate) microphones at a time.The Max speakers:Total parameter can be adjusted to allow a smaller total.In addition, the Max speakers:Delegates parameter can be adjusted to allow an equal or lesser number of active delegate microphones.If delegate microphones beyond the Max speakers:Delegates value are attempted to be activated, those request to speak entries are placed sequentially into a queue.The size of the request to speak queue can be specified by the Max requests parameter.
+	
+	A chairman microphone always has precedence over a delegate microphone.If activating a chairman microphone exceeds the Max speakers:Total value, then the earliest activated delegate microphone will be turned off.If the Max speakers:Total value is greater than the Max speakers:Delegate value, then the chairman microphone can activate without overriding any delegate microphones.
+

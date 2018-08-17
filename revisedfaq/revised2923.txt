@@ -1,0 +1,12 @@
+Title: PA765 Antenna Combiner
+Id: 2923
+Legacy Id: 3049
+
+Question:
+What frequency bands are covered by the PA765?
+
+
+Answer:
+
+	The PA765 is designed for the European market. It is a four in - one out antenna combiner.
+	It's useable bandwidth is 790 to 880 MHz.   It is not sold in the U.S.

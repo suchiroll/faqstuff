@@ -1,0 +1,16 @@
+Title: Model 512 Discontinuation
+Id: 4034
+Legacy Id: 4466
+
+Question:
+When was the model 512 discontinued?
+
+
+Answer:
+
+	The model 512 was discontinued in the spring of 2012.
+	
+	The 512 was a headworn microphone that used the SM10 dynamic mic element.The 512 hada single headphone on the same side that held the microphone boom. The other side was padded foam. The cable had a male XLR for the balanced, low impedance microphone output, and a 1/4 tip/sleeve male phone plug for the headphone input.
+	
+	The final U.S. retail price was $135. The model 512 was introduced in 1985.
+

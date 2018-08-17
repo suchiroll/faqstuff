@@ -1,0 +1,21 @@
+Title: GLXD6 with guitar pedal board - mA current requirement
+Id: 4474
+Legacy Id: 5585
+
+Question:
+I have a Furman SPB-8C Pedalboard and want to use the power supply that's built in to power my GLXD. It has 8 - 1/8" inputs for powering pedals. First of all, can I use this without hurting the unit and if so, what type of adapter do I need?
+
+Answer:
+
+	Sorry, we are not experts on the Furman device.Provide the following technical information to Furman and ask their advice. The GLXD6 receiver requires 9 to 15 volts DC and a recommended current supply of at least250 mA (milliamps).The GLXD6 coaxial DC power jack is non-polarized.
+	
+	A pedal board can often provide just enough current to power up the GLXD6, but not enough currentfor the GLXD6 to operate properly over a stretch of time.
+	
+	For any pedalboard, make certain that it can supply at least 250 mA of current to the GLXD6. When other pedals are being powered, the available current will drop. When the GLXD6 is current starved, (it cannot draw enough current from the pedalboard) its performance will falter. As a test, remove all other pedals and observe if the GLXD6 works properly when it is the only pedal being powered. Another test is to power the GLXD6 from the power supply provided by Shure in the GLXD package.
+	
+	Note: The use of a Y-cable or daisy-chain cable to feed two (or more) pedals from a single DC source can also create a problem as the current issplit between each of the pedals. This means that one, or both, pedals can be current-starved and not operate properly.
+	
+	May 2017 update: While we have not tested the Furman pedal board with the GLXD6, after studying the manual and specifications, we believe this Furman device is not well suited to the GLXD6.Shure customers have reported satisfactory results using the GLXD6 with a Voodoo Labs Pedal Power 2 Plus.
+	
+	We recommend power supplies that have dedicated isolated outputs that supply 250mA or more.
+

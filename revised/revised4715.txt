@@ -1,0 +1,22 @@
+Title: Interruptions and/or weird audio artifacts on my recordings using a Motiv device
+Id: 4715
+Legacy Id: 5885
+
+Question:
+I'm noticing interruptions and/or weird audio artifacts on my recordings. Ideas?
+
+
+Answer:
+
+	To prevent GSM interference as well as interruptions from calls or texts while recording, we recommend using Airplane Mode on the Apple device.The Do Not Disturb setting also should prevent interruptions from alerts, calendar reminders, etc.
+	
+	Checklist (adapted from Apples Developer site):
+	
+	Settings App: Airplane Mode, Do Not Disturb
+	Clock App: no clock alarms are enabled
+	Calendar App: no event alarms are enabled
+	Do not move the Silent switch while recording
+	Do not plug / unplug headphones or charging cable; do not dock or undock the device
+	
+	Information about mobile device interference issues: Cell Phone Frequencies / Wireless Communications Devices
+

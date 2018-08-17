@@ -1,0 +1,19 @@
+Title: PSM 400 vs. PSM 600/700
+Id: 87
+Legacy Id: 87
+
+Question:
+I'd like to know more about the PSM 400.  Is the reception the same as the PSM 600?  Essentially, if I were a touring professional, would the 400 be good enough, or should I stick with the 600/700 series? 
+
+I've heard touring musicians say that they've gone back to the PSM600's from the PSM700's because the PSM600's had a better fidelity range. The question is: are the PSM400's the same electronics as the PSM600's? I'm just trying to make a determination on whether to buy the PSM400's or the PSM600's.
+
+Answer:
+
+	We will need more specifics about your application to determine if the PSM400 is the appropriate system for you. The answer depends on the number of systems you need to operate at once, and how much you tour, as well as other factors.
+	
+	The PSM400 system will probably be closest to the PSM700 system, as these both use frequency synthesized circuits, where the PSM600 uses a crystal controlled carrier frequency.
+	
+	As for differences, the PSM400 system uses many plastic components instead of the metal cases of the PSM600 and PSM700 system. The PSM400 has only balanced 1/4 inch inputs, where the PSM600 and PSM700 have XLR - 1/4 inch combi connectors. The PSM400 system also uses an external power supply, while the PSM600 and PSM700 systems use internal power supplies.
+	
+	Will you like the sound of the PSM400 when compared to the PSM600? That is a question only your ears can answer.
+

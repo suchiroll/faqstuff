@@ -1,0 +1,11 @@
+Title: Cable for 55SW microphone
+Id: 2055
+Legacy Id: 2120
+
+Question:
+I need to replace the wire for this microphone (55SW). This mike has a female plug at one end of the cord and a phono plug at the other. The female plug on the cord has three contacts it attache's to the mike and is held in place with threaded ring. Would you have a part # for this cord so that I may order a new cord for my mike or the type or name of the female plug that is used so that I can make up a new cord. Thanks.
+
+
+Answer:
+
+	The 55SW needs an Amphenol MC3M on the cable. We do not carry these connectors.You can get pre-wired cables from Tom Ellis (214-328-3225).

@@ -1,0 +1,91 @@
+Title: Predicting speech to background noise level at the microphone
+Id: 102
+Legacy Id: 102
+
+Question:
+Predicting speech to background noise level at the microphone
+
+
+Answer:
+
+	Predicting Speech to Background Noise Ratio at the Microphone
+
+	
+	A microphone is the first component in any speech recording or transmission system. Its function is to convert acoustic sound waves into an equivalent electrical signal. This signal can then be recorded, transmitted, amplified, or modified. However, a microphone cannot effectively sort out desired noise (speech) from undesired background noise. Also, a microphone cannot improve the acoustic environment in which it is placed.
+
+	
+	What are acceptable speech to noise ratios?
+
+	
+	Fundamental psycho-acoustic research states that intelligibility is a function of speech to background noise ratio.
+
+	
+		If speech level is 0dB to 10dB above background noise level, intelligibility will be unacceptable to poor.
+	
+		If speech level is 10dB to 20dB above background noise level, intelligibility will be poor to fair.
+	
+		If speech level is 20dB to 30dB above background noise level, intelligibility will be fair to good.
+	
+		If speech level is 30dB to 50dB above background noise level, intelligibility will be good to excellent.
+
+
+	How to predict if speech will be intelligible at the microphone location.
+
+	
+		
+			At the desired mic location, measure the Sound Pressure Level (SPL) A weighted. Make certain all background noise sources are operating, e.g. air conditioning, fluorescent lights, equipment cooling fans.
+		
+			
+				Example: Background noise measures 46dB SPL A weighted
+		
+	
+	
+		
+			Measure the distance (in feet) from the farthest talker location to the mic location. Assuming that the talker produces 68dB SPL at 1 foot, use this formula: 68 - 20log(distance in feet). This provides the SPL of the talker at the mic location.
+		
+			
+				Example: Farthest talker is 8 feet from microphone. Working out the formula gives:
+			
+				
+					
+						
+							log of 8 = 0.9
+							0.9 x 20 = 18
+							68 - 18 = 50dB SPL
+					
+				
+			
+		
+	
+	
+		
+			Subtract the background noise SPL from the talker SPL at the mic location. Compare the result with the speech to noise ratios listed above.
+		
+			
+				Example: 50dB SPL(talker) - 46dB SPL (room noise) = 4dB This is unacceptable to poor intelligibility.
+		
+	
+
+
+	What to do if the predicted intelligibility needs to be improved?
+
+	
+		Move the microphone closer to the talker. or...
+	
+		Make the room quieter via acoustical solutions. or...
+	
+		Both of the above. or...
+	
+		Accept the predicted level of intelligibility
+
+
+	
+	THERE ARE NO OTHER SOLUTIONS!
+
+	
+	Important Note:
+
+	
+	This bulletin does not address the intelligibility problems that can be caused by a reverberant room. Echoes and reflections from hard surfaces (glass, marble, hardwood floors, etc.) can ruin speech intelligibility even if the speech to background noise ratio is acceptable. Intelligibility problems caused by reverberation must be solved by adding acoustical treatment to the room or by moving the microphone closer to the talker.
+
+

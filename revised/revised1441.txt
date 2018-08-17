@@ -1,0 +1,16 @@
+Title: UC Wireless System for music?
+Id: 1441
+Legacy Id: 1494
+
+Question:
+The description of the UC wireless system states that the UC system is especially designed for installed sound applications. Why is this so? Is the UC system not a good choice for non installed sound applications like playing different venues and traveling to different cities or states in the USA. I know that I'd need to choose either UA or UB frequency to match the region and/or cities that I perform in, but I really just don't understand why the UC is defined as being "especially designed for installed sound applications". If you can shed any light on this topic I would be most grateful!
+
+
+Answer:
+
+	The UC is often used for music performance; installed sound is the most common use.
+	
+	There are three TTL logic terminals on the UC4 receiver that are often used by sound installers. You will likely not have use for these terminals. Other than that, there is nothing about the UC system that would make it unsuitable for music performance.
+	
+	If you like the UC features, it will work fine for your requirements.
+

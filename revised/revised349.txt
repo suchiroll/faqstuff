@@ -1,0 +1,16 @@
+Title: Live production using SM89
+Id: 349
+Legacy Id: 356
+
+Question:
+My church presents several dramas each year. I am considering the use of a SM89 or similar shotgun type microphone for miking the actors. I have tried wireless systems, but we cannot afford to buy high quality systems for all our actors. Choir mics such as MX202, do not allow enough gain. Do you have any suggestions? How would the SM89 work for this application. Thank you for your help.
+
+
+Answer:
+
+	Shotgun microphones, such as the SM89, should not be used for public address applications. The rear polar response of a shotgun microphone is not consistent and has many lobes that are unpredictable. A shotgun mic is not an audio zoom lens.
+	
+	It sounds like you need a Sound Contractor or Consultant to look at your PA system and determine why it isnt providing enough gain before feedback. We are guessing that a complete system redesign may be in order. Changing microphones is probably not going to provide enough of a difference.
+	
+	Again, the SM89 (or any shotgun) is not recommended for your PA application. Shotgun microphones are useful for camera or recording work when the microphone has to be about 3-4 feet away from the talkers and a PA system is not involved.
+

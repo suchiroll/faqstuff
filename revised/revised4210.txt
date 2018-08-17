@@ -1,0 +1,16 @@
+Title: One PSM antenna with three PA821A RF combiners
+Id: 4210
+Legacy Id: 5177
+
+Question:
+I wish to use one antenna with three Shure PA821A personal monitor RF signal combiners. My thinking would be an passive RF combiner with 4.5 dB loss or at most 6 dB. Any suggestions?
+
+
+Answer:
+
+	Consider the Mini-Circuits model ZB3CS-900-6W three port RF combiner.Its should meet your needs as well as the stated performance criteria (i.e. loss is very close to 5 dB per port).The device uses N connectors, so BNC-N adapters will be needed.Or, better yet - obtain jumper cables terminated with N connectors on one end and BNC on the other end.
+
+	
+
+	Here is the product information: http://www.minicircuits.com/pdfs/ZB3CS-900-6W.pdf
+

@@ -1,0 +1,14 @@
+Title: 716 to 722 MHz band; formerly U.S. TV channel 55
+Id: 3726
+Legacy Id: 3959
+
+Question:
+Now that June 12, 2010 has passed, what type of service is using the 716 to 722 MHz band (TV 55) in the United States?
+
+
+
+Answer:
+
+	FLO TV, owned by Qualcomm, was designed as a solution for mobile service providers to provide television programming while simultaneously easing network bandwidth concerns. The FLO TV system transmits data across a frequency band that is different from the bands used by mobile networks. 
+	
+	FLO TV operates in the 716MHz-722MHz frequency band in the United States.  Before June 12, 2010, this frequency band was used for TV channel 55 in the U.S.

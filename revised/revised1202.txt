@@ -1,0 +1,25 @@
+Title: Dropouts when U4D is placed in control room.
+Id: 1202
+Legacy Id: 1246
+
+Question:
+I have one of your wireless microphone system model U4D with two channels, each with one handheld BETA 87 and one lavalier.
+
+
+Each time the lavalier is being used, there is always a break in the transmission occasionally, especially when speaker begins to move from one direction to another.
+
+
+I understand this is usually caused as a result of the distance between the transmitter and the receiver but I want you to know that this is not a problem of the distance, though my console room where the receiver is a bit above the stage. I was forced to relocate the receiver to the stage which I am not too comfortable with because I believe something could be done.
+
+
+With the handheld, I don't have any problem but only on the lavalier. Please I would like to here from you as regard this as soon as possible.
+
+
+Answer:
+
+	It sounds like your console room is too well shielded to have the receiver antennas in that room. We recommend that you place the receiver in the console room and remote the antennas into the main room. Keep the wire between the receiver and antennas as short as possible. The antennas simply need to be in the same room as the transmitters.
+	
+	Depending on the length of cable needed, you may need to amplify the signal. See the following link for diagrams and instructions:
+	
+	Wireless Accessories Wizard
+

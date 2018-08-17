@@ -1,0 +1,22 @@
+Title: When will feedback occur? A very simple answer.
+Id: 3633
+Legacy Id: 3840
+
+Question:
+Is there a simple method or idea that will tell me when feedback is likely to occur?
+
+
+Answer:
+
+	In a sound reinforcement system (public address system), feedback happens when the sound wave from the loudspeaker is picked up by the microphone and fed back into the sound system for additional amplification. This endless loop ends up with the system in feedback, i.e., squealing, howling, etc.
+	
+	Feedback will occur when the sound pressure level (loudness of the sound wave) from the loudspeaker is greater than the sound pressure level from the talker/performer, as measured at the microphone.Stated simply: if your ear is next to the microphone, and the amplified voice from the loudspeakeris louder than the unamplifed voice from the mouth, the sound system will soon be squealing.
+	
+	Put another way - in order to avoid feedback:
+
+	
+		
+
+
+	If the result is greater than 1, the feedback loop will begin.
+

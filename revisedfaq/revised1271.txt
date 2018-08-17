@@ -1,0 +1,13 @@
+Title: Repair of model 55SW
+Id: 1271
+Legacy Id: 1319
+
+Question:
+I have an old Shure 55SW microphone, and I've been told that you can refurbish the thing and bring it up to modern performance levels...is this true, and if so, approximately what would the cost be?
+
+
+Answer:
+
+	Shure no longer repairs the 55SW and has not for many years. We do repair the current version of the 55SW, the 55SH Series II.
+	We suggest you contact an antique microphone specialist, Tom Ellis, at tomsmics@flexcomp.com
+

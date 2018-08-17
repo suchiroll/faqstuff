@@ -1,0 +1,15 @@
+Title: Dent Removal on Ball Grill - SM58
+Id: 2852
+Legacy Id: 2964
+
+Question:
+Is there an easy way to remove dents from an SM58 mic grille?
+
+
+Answer:
+
+	Purchase a wooden handle for a file. Make certain the handle has a rounded end.
+	
+	Remove the SM58 grill and place it over the round end of the file handle. Place the other end of the file handle on a horizontal flat surface. Use a small hammer and gently tap the dents using the rounded file handle as support on the inside of the SM58 grill.
+	
+	With time and patience, most dents can be removed or improved.

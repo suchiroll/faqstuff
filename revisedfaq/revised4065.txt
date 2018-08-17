@@ -1,0 +1,15 @@
+Title: ULX Wireless Master List
+Id: 4065
+Legacy Id: 4631
+
+Question:
+Could you send me the link to the ULX Master List Frequencies?
+
+
+Answer:
+
+	J1 band User Guide Supplement
+	
+	M1 band User Guide Supplement
+	
+	Master List information is at the rear of each link above. The G3 band supplement does not have this table.

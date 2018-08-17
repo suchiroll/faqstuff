@@ -1,0 +1,15 @@
+Title: Impedance of antenna cable
+Id: 1663
+Legacy Id: 1720
+
+Question:
+What should be theimpedance of your antenna cables?
+
+
+Answer:
+
+	Please see the following links to our online FAQ:
+	
+	How do I remote mount VHF wireless antennas?
+	Remote Antennas for UHF-R, BLX4R, SLX, ULX, QLX-D or ULX-D Receivers
+

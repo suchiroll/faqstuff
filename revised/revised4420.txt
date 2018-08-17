@@ -1,0 +1,15 @@
+Title: Custom Ear Molds - Are they interchangeable?
+Id: 4420
+Legacy Id: 5517
+
+Question:
+I have custom ear molds/sleeves for my SE535s - would those work for the SE846?
+
+
+
+Answer:
+
+	Sorry, no. The earphone body size is different.Each earphone model body size is different because each earphone driver requires a specific size and shape of an acoustic chamber.
+	
+	Custom ear molds/sleeves are custom on both sides:the ear canal side and the earphone side.
+

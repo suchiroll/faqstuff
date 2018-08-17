@@ -1,0 +1,12 @@
+Title: Conference One Microphone Gating Threshold
+Id: 2892
+Legacy Id: 3016
+
+Question:
+Is there an adjustable gating threshold?
+
+
+Answer:
+
+	No. IntelliMix automatically adjusts the threshold from each individual microphone. A mic gates on when speech is 1dB above the ambient noise floor.
+

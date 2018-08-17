@@ -1,0 +1,12 @@
+Title: UHF Antennas - 1/4 wave vs. 1/2 wave
+Id: 810
+Legacy Id: 832
+
+Question:
+Why is the 1/2 wave antenna UA820 available in a "UA" version and a "UB" version, but the 1/4 wave antenna UA400 isn't? Why doesn't it matter?
+
+
+Answer:
+
+	The 1/4 wave antenna (UA400) has a broader frequency range than the 1/2 wave antenna (UA820), and therefore can be used for the UC systems in the UA band and UB band. However, the 1/4 wave antenna is not as efficient as a 1/2 wave antenna tuned to a narrower band, and will likely be 3 to 5 dB less sensitive. This sensitivity difference might be a problem only when operating the UC wireless system at the maximum end of the transmission range, i.e., over 200 feet.
+

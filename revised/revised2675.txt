@@ -1,0 +1,10 @@
+Title: Extending the E1 cable
+Id: 2675
+Legacy Id: 2779
+
+Question:
+We just purchased the E1's and some Rolls personal monitor mixers.  The Rolls mixers are kind of big and can't really be "worn" like some of the Shure models and the E1 cables are rather short.  How can lengthen the E1 cable?
+
+Answer:
+
+	Radio Shack sells a 20 foot extension cable - part 42-2462. As of October 2002, it is $6.50.

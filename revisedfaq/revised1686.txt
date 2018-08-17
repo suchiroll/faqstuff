@@ -1,0 +1,13 @@
+Title: SM57 into a guitar amp
+Id: 1686
+Legacy Id: 1743
+
+Question:
+I want to mike my resonator directly into a guitar amp. What do I need to convert the male end of the XLR to a standard input jack?
+
+
+Answer:
+
+	Obtain the Shure A95UF transformer. Connect it to the end of your mic cable and plug the A95UF into your guitar amp.
+	
+	The A95UF converts the low impedance, balanced signal from the mic into a high impedance, unbalanced signal similar to a guitar signal.

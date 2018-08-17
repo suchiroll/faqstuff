@@ -1,0 +1,15 @@
+Title: Output voltage of RXP-3 cartridge
+Id: 359
+Legacy Id: 366
+
+Question:
+Could you please tell me the output voltage of the RXP-3 (M104E).  Also, is output voltage determined from the cartridge only or can it vary according to the stylus (i.e., for cartridges that will accept more than one stylus).  Thanks for your very valuable and informative website.
+
+Answer:
+
+	The output voltage of the M104E is 5.0 millivolts at 1,000 Hz at 5 cm/sec peak velocity.
+	
+	The output voltage is determined by two factors: 1) The field strength of the magnet at the end of the stylus shank; 2) The number of coil windings in the cartridge body.
+	
+	Thank you for your compliment on our website.
+

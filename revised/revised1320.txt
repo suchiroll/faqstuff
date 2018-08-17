@@ -1,0 +1,14 @@
+Title: SCM268 use for video signals
+Id: 1320
+Legacy Id: 1371
+
+Question:
+To use the SCM268 with a Blonder Tongue modulator MAVM-860 do I set the mic/line out to line level due to the mavm having a RCA inputjack? Also,there is going to be a need for future internal television systems of a situation in which there is going to be a single forward channel to output a switchable video signal between two each return channels. if using the SCM268, with a video selector, whereas, two voices can be heard while a single video source is selceted, how can both locations here each other and yet not create back feed on the system?
+
+
+Answer:
+
+	Please provide the electrical specifications for the Blonder Tongue modulator MAVM-860 RCA input jack: required signal level, and impedance.
+	
+	The SCM268 will not work for your second scenario. You require a video/audio switcher with audio follow video capability. Shure does not make such a product. Radio Shack offers simple video/audio switchers.
+

@@ -1,0 +1,12 @@
+Title: Hand drums - mic selection
+Id: 1100
+Legacy Id: 1136
+
+Question:
+What is the best microphone to use to set up for hand drums, such as bongos, congas, or an ashiko?
+
+
+Answer:
+
+	Please see our blog article on Choosing the Right Mic.
+

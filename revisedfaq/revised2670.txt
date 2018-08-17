@@ -1,0 +1,13 @@
+Title: Connecting M267 and M268 mixers via mix bus
+Id: 2670
+Legacy Id: 2774
+
+Question:
+I notice there are "MIX BUS" jacks in the backs of both mixers. What't the best way to connect these two mixers? I'll be shooting a roundtable discussion (taped; not live) with 5 or 6 guests.
+
+
+Answer:
+
+	Obtain a short audio cable with an RCA male jack on each end. Interconnect the two mixers via the Mix Bus. Now the inputs of both mixers appear at the outputs of both mixers.
+	
+	Plus the Master level of one mixer does not affect the Master level of the other mixer, i.e., the Master controls are independent from each other.

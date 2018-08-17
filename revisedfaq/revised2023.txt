@@ -1,0 +1,36 @@
+Title: M44G 'sticks' at end of record
+Id: 2023
+Legacy Id: 2088
+
+Question:
+I am having a problem with a M44G on a Numark Pro-TT2.
+
+
+The needle gets stuck at the end of some records usually right before the run-out grove in the last minute or 2 of music or in the run-out groove itself.
+
+
+It seems to happen when playing an LP from the start(most 7" singles play all the way through - even the run-out groove). If it sticks and I replay just the last song, it seems to play through - it only seems to happen when the record is played all the way from the start.
+
+
+I am not using this to DJ - just playing records all the way through. I have read on your site that the tracking force should be set to 3 grams but that is twice the max in the specs - is that right?
+
+
+I have played with the arm height, anti-skate (from zero to 2 grams) - I have mounted the cartridge all the way back in the headshell and that seemed to help a bit.
+
+
+Any thoughts?
+
+
+I called Numark and they said increase the tracking force to 3 Grams and raise the arm height and set the anti-skate to zero - that did not solve it.
+
+
+I have mounted the cartridge 'by eye' do you guys make a tool to make sure it is mounted correctly?
+
+
+Answer:
+
+	It is likely that the tone arm is sticking. The stylus is a passive device; its movement is controlled completely by the record groove. But the tone arm must not bind at any point; if it does bind, it will tend to cause the stylus to skip back to a previous groove.
+	
+	We cannot think of a scenario where the stylus would cause a skip at just one part of a record. But your problem does fit the scenario of a tone arm bearing that binds when the arm is near the center of a record. We suggest you speak with a tone arm engineer at Numark to discuss possible binding of the tone arm bearings.
+	
+	For non-DJ work, the 3 grams of tracking force is too heavy. Set it to 1.5 grams and set the anti-skate to 1.5 grams. The M44G should work just fine IF the tone arm is not binding.

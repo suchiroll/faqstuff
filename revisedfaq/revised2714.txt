@@ -1,0 +1,16 @@
+Title: ULX transmitter or receiver - Group displays E1 or F1
+Id: 2714
+Legacy Id: 2818
+
+Question:
+I have two ULX1 body packs and I'm having a problem with one. For Group selection it goes from F0 to F4 and E0 to E9. Channel goes from 00 to 99! How do I get it back to normal?? What is this function for, I'm not sure how I got into it? It should be Group 1-10 and channels 1-20 right?
+
+Answer:
+
+	Turn on the transmitter. Hold SET button for 10 seconds. Release SET button when display changes. 
+	
+	Use this same concept if the receiver shows E1 or F1
+	
+	This function is the Master List and allows access to all 1400 frequencies. These frequencies are not necessarily compatible with each other, so only a user that is doing their own frequency coordination calculations should use the Master List. To get into the Master List, someone has to hold the SET button down for 10 seconds. On a bodypack transmitter, this can happen when someone sits down and the transmitter is in a rear pants pocket.
+	
+	One ULX customer reported that holding the SET button for 10 seconds did not bring the ULX transmitter back to the Group/Channel display.  So he tried holding down the MODE button while powering on the transmitter; this action worked for his unit. [Typically, this action would only show what firmware version is in the transmitter and not reset the display.]

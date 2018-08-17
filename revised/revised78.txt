@@ -1,0 +1,36 @@
+Title: Why should I use an omnidirectional microphone?
+Id: 78
+Legacy Id: 78
+
+Question:
+I am hesitant to use an omnidirectional microphone. Why would I want to use one?
+
+
+Answer:
+
+	Six Reasons to Use an Omnidirectional Mic instead of a Unidirectional
+	
+	Pity the poor, misunderstood omnidirectional microphone. Though it has many redeeming characteristics, it now plays second violin to the unidirectional microphone. This is primarily due to the ever increasing desire for louder PA systems and even louder monitor systems. It is generally true that an omnidirectional microphone will provide less gain before feedback than a similar quality unidirectional microphone if both mics are located within Critical Distance*. However, once a microphone is located outside of Critical Distance, its directionality becomes much less crucial to gain before feedback. And in those situations, an omnidirectional microphone is often the better choice because........
+
+	 Less Wind Noise
+	The rear acoustic ports that are present on every unidirectional microphone are also additional openings into which wind can enter. Also wind blowing by the rear ports can create turbulence and that causes wind noise. An omni has no rear ports so wind noise is minimized.
+
+	 Less Popping from Plosive Sounds
+	Those darn rear ports are also to blame for the plosive P, T, and B sounds that can occur when a talker is too close to a unidirectional microphone. Though an omnidirectional mic can also be popped, it is much more resistant than a unidirectional.
+
+	 No Bass Build Up due to Proximity Effect
+	An omnidirectional mic does not exhibit a build-up of bass (boominess) when the talker is close. Proximity effect, as this is known, is a characteristic of unidirectional microphones. Eliminate the rear ports and there would be no proximity effect, but the microphone would then be an omni.
+
+	 Less Handling and Vibration Noise
+	As most handling and vibration noise consists of low frequencies, the lack of proximity effect with an omni equates to less of this type of noise.
+
+	 May be Used Upside Down as well as Right Side Up
+	As an omnidirectional mic hears equally well in all directions, it works whether it is right side up or upside down. While using a microphone upside down rarely happens with handheld designs, it is a common occurrence with tiny clip-on lavalier mics.
+
+	 No Chance of Speaking Outside of the Polar Pattern
+	Many talkers pay little attention to where the microphone is located on a lectern, so they often wander away from the front of the mic without realizing the sonic consequences. Speaking into the rear or sides of a unidirectional microphone will result in a very low level and muffled audio quality. This is not a problem with an omni mic.
+
+	So, next time try an omnidirectional microphone, particularly if the room is quite reverberant and the microphone is located far from the loudspeakers. It might be the better mic for the application.
+
+	* CRITICAL DISTANCE: The distance in a room where the reflected/reverberant sound is equal to the direct sound from the loudspeaker or talker. Also, refer to the Applications Technical Bulletin - Critical Distance and Microphone Placement.
+

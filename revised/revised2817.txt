@@ -1,0 +1,17 @@
+Title: What is supplied in the PA745 Rack Mount Kit?
+Id: 2817
+Legacy Id: 2927
+
+Question:
+What is supplied in the PA745 Rack Mount Kit?
+
+Answer:
+
+	As of April 2003, the PA745 contains the following:
+	
+	1 - Link Bar
+	1 - Long Mounting Bracket
+	1 - Short Mounting Bracket
+	1 - BNC to BNC cable (22 inches)
+	1 - BNC to BNC bulkhead adapter
+	1 - Package of mounting screws, plastic washers, and a plastic plug for the hole in the mounting bracket.

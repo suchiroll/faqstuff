@@ -1,0 +1,14 @@
+Title: Radio opaque Microphones
+Id: 591
+Legacy Id: 603
+
+Question:
+I wish to use a microphone for use in an x-ray setting, metalic mics can give unwanted images, hence is there such a thing as radio-opaque microphones?
+
+
+Answer:
+
+	We are unaware of any microphone that does not use some metal as there must be metallic wires to carry the audio signal. High quality microphones today are one of three types: dynamic, condensor, ribbon. All of these have a high percentage of metal.
+	
+	The microphone types that use the least amount of metal are: crystal, ceramic, and piezo-electric. Shure offers none of these types. We suggest you contact a specialty microphone manufacturer such as Brel  Kjr.
+

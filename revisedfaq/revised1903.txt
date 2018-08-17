@@ -1,0 +1,19 @@
+Title: U4 Receiver: Determining the firmware
+Id: 1903
+Legacy Id: 1964
+
+Question:
+How do I determine the firmware version of the U4?
+
+
+Answer:
+
+	To determine what version is installed in the U4 receiver.
+	
+	1. Power on the receiver.
+	
+	2. Press the + and - buttons for 5 seconds.
+	
+	3. Firmware version will show in the LCD display.
+	
+	4. Must be version 2.0 or higher to work properly with the UA888/UA111 software.

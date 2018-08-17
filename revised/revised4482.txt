@@ -1,0 +1,11 @@
+Title: DFR11EQ Software Download
+Id: 4482
+Legacy Id: 5595
+
+Question:
+Where can I download the software for the DFR11EQ?
+
+Answer:
+
+	The DFR11EQ was discontinued in 2007. Attached below is a zip file that was the latest version of the software for the DFR11EQ. The DFR11EQ software requires Windows 3.1 through Windows XP. It will not work on Windows 7, 8 or 10.
+

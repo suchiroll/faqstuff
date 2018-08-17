@@ -1,0 +1,13 @@
+Title: PSM900 Transmitter power in the United States
+Id: 4025
+Legacy Id: 4434
+
+Question:
+What are the RF power settings for the P9T in the United States?
+
+
+
+Answer:
+
+	P9T for the U.S. has 10 mW, 50 mW, and 100 mW. This is selected via the P9T menu.
+

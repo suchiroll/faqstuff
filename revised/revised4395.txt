@@ -1,0 +1,60 @@
+Title: MX392 switch functions, logic functions, wiring scheme, and other technical matters
+Id: 4395
+Legacy Id: 5488
+
+Question:
+Please provide details on the switch functions and the logic functions of the model MX392, and any other details that may be useful for my installation.
+
+
+Answer:
+
+	Technical aspects of the MX392 Boundary Microphone
+	
+	Note: The bottom plate of the microphone must be installed for the microphone to function. This microphone must be supplied with phantom power or it will not function.
+	
+	The external switch on the MX392, labeled PUSH, is factory set for momentary operation. In the factory setting, the audio signal from the mic element is muted (via the mics internal circuitry) when the switch is pushed and held. The LED illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	
+	TheMX392 may be configured as Push-To-Talk. In this setting, the audio signal from the mic element is activated (via the mics internal circuitry) when the external switch is pushed and held. The LED illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	
+	The MX392 may be configured as Push-On/Push-Off. In this setting, the audio signal from the mic element alternates between activated/muted (via the mics internal circuitry) each time the external switch is pushed. Upon start-up, the mic element is activated. The LED illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - DOWN
+	DIP switch #3 - DOWN
+	
+	
+	The MX392 may be configured as Push-On/Push-Off, but with the initial start-up state being audio muted. In this setting, the audio signal from the mic element alternates between activated/muted (via the mics internal circuitry) each time the external switch is pushed. Upon start-up, the mic element is muted. The LED ring illuminates Green when the mic element is active. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - UP
+	DIP switch #3 - DOWN
+	
+	
+	The MX392 may be configured with the mic element always activated, bypassing the internal muting function. The external switch function is momentary. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX392 is connected. The MX392 white wire is the TTL Switch Out connection and the MX392 green wire is the TTL ground. When the MX392 external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the MX392 external switch is released, the white wire rises to +5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - DOWN
+	DIP switch #2 - DOWN
+	DIP switch #3 - UP
+	
+	
+	The MX392 may be configured with the mic element always activated, bypassing the internal muting function, but with external switch alternate action in place of momentary. The audio signal may be muted by the automatic mixer or teleconferencing device to which the MX392 is connected. The MX392 white wire is the TTL switch out connection and the MX392 green wire is the TTL ground. When the MX392 external switch is pushed, the white wire falls to 0 Vdc, in relation to the green wire. When the MX392 external switch is pushed again, the white wire rises to +5 Vdc, in relation to the green wire. DIP switch settings for this mode are:
+	
+	DIP switch #1 - UP
+	DIP switch #2 - DOWN
+	DIP switch #3 - UP
+	
+	
+	To control the MX392 LED from an external source, set DIP switch #3 to UP. The LED ring will illuminate Green when the MX392 orange wire is connected to the green wire. The LED will go dark when the orange wire is NOT connected to the green wire. This connect/disconnect function may be handled via a switch, relay, or a TTL gate on an automatic mixer. Setting DIP Switch #3 to UP bypasses the internal audio mute function of the MX392.
+	
+	Once again to confirm, the membrane switch on the MX392 provides a TTL signal change at the end of the MX392 cable. White wire is Switch Out; Green wire is Logic Ground.The White wire normally sitsat +5Vdc. When the MX392 switch is pressed, the White wire changes from +5 Vdc to 0 Vdc in relation to the Green wire.When the MX392 switch is released, the White wire changes from 0 Vdc to +5Vdc in relation to the Green wire.
+

@@ -1,0 +1,16 @@
+Title: RXP-3 stylus
+Id: 4207
+Legacy Id: 5174
+
+Question:
+I'm trying to find a model number for a particular Shure stylus.I have all the old catalogs with pics and cannot locate info on this one.Physically it is the same as the N92e, N94e, N99e, N104, N110, VN5P style for P-mount cartridges- only the color is a dark tan/light brown with the raised Shure logo on the front in the exact same color.
+
+
+Answer:
+
+	This is a stylus for the RXP-3; made for Radio Shack.
+
+	
+
+	Tracking force of 1 to 2 grams. Elliptical diamond tip; bushing mount.
+

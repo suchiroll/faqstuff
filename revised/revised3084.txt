@@ -1,0 +1,12 @@
+Title: 78 rpm stylus for V15 III - specifications
+Id: 3084
+Legacy Id: 3216
+
+Question:
+I have used the VN78E for many years for my work as a transfer engineer. There is no doubt that it is the best 78 stylus system. Understandably it is no longer economic for you to manufacture it any longer. However, Expert Stylus Co. in the UK would be able re-tip my VN78E assemblies with new styli. Would you be willing to supply the stylus specification to enable them to renew my styli? I rather think the shape is crucial. I can play a record with the latest VN78S, and while it is good for many discs, the VN78E will track quietly, records that no other stylus can.
+
+
+Answer:
+
+	The VN78E tip dimensions are 0.0005 x 0.0025. The shape is elliptical.
+

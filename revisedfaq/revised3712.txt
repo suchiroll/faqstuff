@@ -1,0 +1,14 @@
+Title: Multiple X2U devices into one Mac computer
+Id: 3712
+Legacy Id: 3945
+
+Question:
+Can I use 4 X2U devices to record simultaneously with my Mac? The Mac has 4 USB ports.
+
+
+Answer:
+
+	It depends upon the configuration of the Mac computer.  Contact Apple to find out about "aggregate devices."  This configuration may allow multiple X2U units.  The solution lies with Apple, not with the X2U.
+	
+	Or look for a four input USB recording interface - the equivalent of four X2U units in one enclosure.
+	 

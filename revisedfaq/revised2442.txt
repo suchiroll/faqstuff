@@ -1,0 +1,15 @@
+Title: UA845-UB vs UA845-US?
+Id: 2442
+Legacy Id: 2537
+
+Question:
+I have several UB-band UHF wireless systems, and would like to share antennas. What is your recommendation on using the -UB versus -US distribution amplifiers? The -US appeals to me because it's possible I'll also have -UA systems in the future, and it would be nice to have one antenna distribution system instead of two. What do I give up for this flexibility.
+
+
+
+Answer:
+
+	The UA845-US is a wideband device. That means the RF filters on it are wide.
+
+	The UA845-UB is a band limited device. The chance of interference is less when using a band limited device, versus when using a wideband device.
+

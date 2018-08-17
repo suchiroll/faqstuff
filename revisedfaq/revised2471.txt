@@ -1,0 +1,11 @@
+Title: Replacement grill for PE50SP
+Id: 2471
+Legacy Id: 2566
+
+Question:
+I have a Shure microphone model PE50SP and I was just wondering if there are any replacement grilles that would fit this mic. I didn't see any for this particular model on your web site but it looks so much like an SM58 maybe it uses the same grille.
+
+
+Answer:
+
+	Yes, the SM58 replacement grill will fit the PE50SP.

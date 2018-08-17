@@ -1,0 +1,35 @@
+Title: Adapter - BNC to LEMO antenna connector
+Id: 3261
+Legacy Id: 3415
+
+Question:
+I want to connect a directional antenna to a P7R received. Is there an adapter from a BNC to the LEMO connector of the P7R?
+
+
+Answer:
+
+	Yes, there is adapter, but it is not available from Shure. Heres the info:
+	
+	Description: Adapter from LEMO plug to BNC receptacle
+	
+	Stock Number: ABF.00.250.CTA
+	
+	Online technical data sheet can be found at:
+	http://www.lemousa.com/
+
+	Search for the above part number.
+
+	
+	
+	Order from the US Distributor:
+	
+	IMTRON, Inc.
+	6549 City West Pkwy.
+	Eden Prairie, MN 55344
+	
+	952-931-0464
+	Fax: 952-931-0970
+	Toll-free: 800-927-3312
+	
+	www.imtron.com
+

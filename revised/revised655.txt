@@ -1,0 +1,12 @@
+Title: 200M Mic Mixer
+Id: 655
+Legacy Id: 672
+
+Question:
+Does this mixer supply phantom power to the microphones? If not do you have a comperable product that does?
+
+
+Answer:
+
+	The 200M does not supply phantom power. Consider using the SCM268 instead.
+

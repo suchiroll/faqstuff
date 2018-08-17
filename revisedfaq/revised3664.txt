@@ -1,0 +1,12 @@
+Title: A15HP Hi-Pass Filter and Phantom Power
+Id: 3664
+Legacy Id: 3872
+
+Question:
+I need to use the A15HP with a phantom powered condenser microphone. Can this item be used for this application?
+
+
+Answer:
+
+	Yes, the A15HP will pass phantom power. Each leg has 2.7k ohm series resistor to pass phantom around the high pass filter components.
+

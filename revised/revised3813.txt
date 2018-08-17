@@ -1,0 +1,19 @@
+Title: Wireless mic produces hum and buzz when powered off
+Id: 3813
+Legacy Id: 4051
+
+Question:
+My wireless microphone system exhibits a fairly loud hum and buzz noise when the microphone transmitter is turned off. When the microphone transmitter is turned on, the hum and buzz goes away, and the microphone audio is very clear. What's wrong and how do I fix this?
+
+
+Answer:
+
+	The described symptoms seem counterintuitive, but the cause should be relatively easy to correct.  Depending on the local situation, the hum and buzz may be louder or softer, but certainly undesirable.
+	
+	In many cases, the hum and buzz is due to an open shield in the audio cable connecting the wireless receiver to the microphone mixer input.  A quick test to confirm this diagnosis is to connect a temporary jumper wire between the microphone receiver chassis and the microphone mixer chassis.  If the hum and buzz is dramatically attenuated or eliminated, this confirms the microphone cable shield is compromised.  In particular, be sure to check the following:
+	
+	1. Verify the shield in the connecting microphone cable is not open and is securely soldered to the XLR connectors and/or securely attached to a specialty input connector.  Use a continuity tester or Ohmmeter to verify connections.
+	
+	2. Verify that pin 1 on the XLR microphone input connector or the ground pin on a specialty type connector is connected to the chassis of the audio input device.  Again, use a continuity tester or Ohmmeter to verify connections.
+	
+	The hum and buzz phenomenon can occur when a wireless receiver is powered by some energy efficient switching power supplies, e.g., Shure models PS21 and PS41, depending on receiver model.  A characteristic of most small switching power supplies is a very tiny leakage current that is conducted to the chassis of the powered device.  This tiny leakage current can result in hum and buzz if the chassis of the powered device (receiver) is not properly connected to the chassis of the audio mixer device, typically via the audio cable shield.  When the shield connection is open, the leakage current can be impressed on the audio twisted pair resulting in the hum and buzz. Shure power supply models PS23 and PS42 have a very small leakage current and do not exhibit this hum and buzz.

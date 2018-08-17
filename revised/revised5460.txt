@@ -1,0 +1,9 @@
+Title: MXA910/MXA310 Training and Certification
+Id: 5460
+Legacy Id: 
+
+Question:
+Where can I get training and certification on the MXA910 and MXA310 products
+
+Answer:
+We offer online training and certification at: Shure Audio InstituteContent includes:MXA910 Ceiling Array Overview SAMPLEMXA310 Table Array OverviewAudio Network Interface OverviewHow to Install MXA910MXA910: Steerable CoverageHow to Prepare MXA910 for PaintingMXA310 Light Ring & Mute Button ConfigurationMXA310 Steerable CoverageIntellimix DSP SuiteMXA910 Best PracticesRouting Audio Between DevicesPowering MXA and ANI DevicesUnderstanding Dante FlowsDante Level 1 CertificationMicroflex Advance Certification TestMXA910 Ceiling Array Overview (clone)MXA910 Ceiling Array Overview (clone)

@@ -1,0 +1,13 @@
+Title: Using Mix Mode to get 4 PSM mixes
+Id: 661
+Legacy Id: 678
+
+Question:
+Is it possible to use one PSM transmitter and two receivers, in mix-mode, to get two separate mixes.  One receiver mixed fully one way, one mixed fully the other way?
+
+Couldn't that be expanded to get 4 separate mixes using two transmitters and 4 receivers, using mix-mode, in a similar fashion?
+
+Answer:
+
+	Yes, it is possible to do exactly what you suggest. Note, though, that the separation between the mixes that are on the same transmitter will only be about 35 dB. That is, there will be a small amount of bleed from one mix to the other.
+

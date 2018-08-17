@@ -1,0 +1,37 @@
+Title: PG81 and Phantom power option
+Id: 2788
+Legacy Id: 2896
+
+Question:
+I purchased a pair of PG81's to use in my new Marantz CDR300 portable CD Recorder. This device has phantom power but I can't tell from the PG81 literature if I should just use the included battery with no phantom power, use phantom power from the Marantz leaving the battery in, or use phantom power and remove the battery. I have only tried with no phantom and using just the battery and everything works fine. I would prefer to just remove the battery and not have to worry about replacement or leakage. However, I want to make sure that the circuitry will not be damaged by the Marantz if I do this. Also, I'm a bit confused how the Marantz supply, which I think is +48 VDC, can substitute for a AA battery.
+
+
+Answer:
+
+	I purchased a pair of PG81's to use in my new Marantz CDR300 portable CD Recorder. This device has phantom power but I can't tell from the PG81 literature if I should just use the included battery with no phantom power,
+	
+	* OK to do this.
+	
+	use phantom power from the Marantz leaving the battery in,
+	
+	* OK to do this.
+	
+	or use phantom power and remove the battery.
+	
+	* OK to do this.
+	
+	I have only tried with no phantom and using just the battery and everything works fine.
+	
+	* As it should be.
+	
+	I would prefer to just remove the battery and not have to worry about replacement or leakage.
+	
+	* OK.
+	
+	However, I want to make sure that the circuitry will not be damaged by the Marantz if I do this.
+	
+	* No problem.
+	
+	Also, I'm a bit confused how the Marantz supply, which I think is +48 VDC, can substitute for a AA battery.
+	
+	* The PG81 will work with 11 to 52 volts of phantom. No need for the battery unless no phantom is available.

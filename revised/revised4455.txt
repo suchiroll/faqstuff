@@ -1,0 +1,12 @@
+Title: How is the SM31-FH made sweat resistant?
+Id: 4455
+Legacy Id: 5557
+
+Question:
+I read that the SM31-FH fitness headset is sweat resistant. How is this accomplished?
+
+
+Answer:
+
+	The mic cartridge is tightly wrapped in a hydrophobic (water-resistant)cloth that causes moisture to bead and wick away. It is recommended to air-dry the SM31-FH between uses. Sweat that builds up on the cloth can eventually solidify and become corrosive.
+

@@ -1,0 +1,23 @@
+Title: Stereo Signal from Shure UT UHF Guitarist Wireless system
+Id: 1201
+Legacy Id: 1245
+
+Question:
+I have your UT UHF Wireless System for guitarists. I love your product. My only question is for the following situation: I have a custom Fender Stratocaster that has Rio Grande passive magnetic pickups and an LR Baggs X-Bridge which is a Start tremolo bridge with piezo transducers built into each individual saddle. The output jack is stereo to allow each magnetic/piezo signal to pass through a special Y cable that goes to two separate amplifiers, the magnetic to a Fender Blues Deluxe and the piezo to an SWR acoustic amp.
+
+
+Before having this setup, I've enjoyed the freedom of being wireless with the UT Wireless system and now that I've acquired this setup, I'm now anchored to my amplifiers. I believe the 1/4" plug from the transmitter pack is a mono plug so if I plug the Y cable from the output jack in the UT receiver out to my two amps, I only get the magnetic signal and not the piezo signal.
+
+
+Has anyone else come across this problem? Any kind of adapter? Unfortunately I only have the stereo jack and not two separate output jacks coming out of my guitar. Then I could just get two separate receivers to go to two separate amps.
+
+
+Do you have any suggestions? I've seen a few professional players with the PRS guitars that can bounce back and forth between acoustic sounds and electric magnetic sounds and are still wireless. Maybe this is something only for Artist's relations.
+
+
+Answer:
+
+	In order to have 2 separate signals going from your guitar to 2 amplifiers, you would need 2 complete wireless systems. That is, you would need a separate bodypack (operating on separate frequencies) for each pickup and separate receivers to pick up the 2 bodypacks.
+	
+	You would need to make a custom cable to separate the two signals from your guitar into the two bodypacks.
+

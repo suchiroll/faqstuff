@@ -1,0 +1,67 @@
+Title: Source for VHF antennas
+Id: 3573
+Legacy Id: 3779
+
+Question:
+Are replacement WA380 antennas still available?
+
+
+Answer:
+
+	The WA380 series of VHF half-wave antennas are no longer available.
+	
+	Here are some suggested alternatives:
+	
+		Use quarter-wave antennas instead. The quarter wave antennas, when properly installed are quite efficient. The quarter-wave antenna element should have a length as follows:
+		
+		169 - 185 MHz, range A - center frequency 177 MHz - 15-7/8"
+		185 - 200 MHz, range B - center frequency 192.5 MHz - 14-1/2"
+		200 - 216 MHz, range C - center frequency 208 MHz - 13-1/2"
+		
+		The quarter wave antenna requires a ground plane for proper operation. The ground plane provides an electrical mirror image of the antenna element so that it appears to be equivalent to a dipole. When directly attached to the receiver antenna terminals, the receiver chassis acts as the ground plane. Quarter wave whip antennas are not recommended for remote installation with coaxial cable, unless a ground plane is included in the installation.
+		 
+	
+		Install a half-wave or equivalent antenna that is capable of tuning the VHF-High Band frequencies of 169.0 to 216.0 MHz.
+		
+		There are two antennas that will work for the "Travel" and "A" frequency ranges, 169 - 171 MHz and 174 - 185 MHz respectively:
+		Pulse-Larsen KD142MHW
+		Diamond Antenna RH205
+		
+		Both antennas listed are intended for use in the 144 - 148 MHz Amateur Radio band.  But both can be adjusted to work well in the 169 - 185 MHz frequency range.  They can be ordered from most local Amateur Radio supply stores as well as the following multi-location suppliers:
+		Amateur Electronic Supply - www.aesham.com
+		Ham Radio Outlet - www.hamradio.com
+		Check the store websites for locations, hours, and phone numbers.
+		
+		At this time, there are no known suitable commercial half-wave replacement antennas for the B and C frequencies ranges.
+		
+		Both the Pulse-Larsen and Diamond antennas are straight and terminated with a BNC connector. To mount on the back of a receiver with UHF type connectors, a 90 degree UHF adapter and UHF to BNC adapter will be required.  Other arrangements may require different adapters.
+
+	
+	Adjust the lengths of the Pulse-Larsen and Diamond Antennas as follows:
+	
+		
+			
+				Antenna
+			
+				169-172 MHz "Travel Band" Range
+			
+				174 - 185 MHz "A" Range
+		
+		
+			
+				Pulse-Larsen KD142MHW
+			
+				31"
+			
+				27.5"
+		
+		
+			
+				Diamond Antenna RH205
+			
+				44.5"
+			
+				41.5"
+		
+	
+

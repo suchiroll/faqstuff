@@ -1,0 +1,11 @@
+Title: Instrument cable for SC1
+Id: 1646
+Legacy Id: 1703
+
+Question:
+I have an SC1 and need an instrument cable for this unit.
+
+
+Answer:
+
+	The WA302 instrument cable can be ordered from our Parts Department at 800-516-2525.

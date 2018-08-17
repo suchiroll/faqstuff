@@ -1,0 +1,42 @@
+Title: What is the wiring from XLR to 1/4"?
+Id: 121
+Legacy Id: 121
+
+Question:
+I have an SM57 mic and want to know how can I use this with a synth mic 1/4" phone jack connection. Which pin number goes where on the 1/4" plug?
+
+
+Answer:
+
+	
+		
+			
+				XLR
+			
+				1/4 inch
+		
+		
+			
+				1
+			
+				sleeve
+		
+		
+			
+				2
+			
+				tip
+		
+		
+			
+				3
+			
+				sleeve
+		
+	
+
+
+	
+
+	Aslong as the 1/4 input is at microphone level, this should work perfectly fine. However, we cannot guarantee the SM57 will work without the electrical input specifications of the 1/4 input.
+

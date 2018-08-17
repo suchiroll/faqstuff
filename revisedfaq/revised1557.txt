@@ -1,0 +1,30 @@
+Title: Mini Four Pin Connector used on wireless
+Id: 1557
+Legacy Id: 1611
+
+Question:
+This miniature XLR connector seems to be almost non-existant outside of Shure's application. I haven't been able to get any of my local electronics suppliers to even find it, much less get it. Are they available thru Shure? My 'local' rep is in Montana, according to the Website, but its just as easy to purchase online direct from Shure as it is to get to a rep that might as well be in another country. Who manufactures this thing? What is the part number on it?
+
+
+Answer:
+
+	This miniature XLR connector seems to be almost non-existant outside of Shures application.
+
+	* Untrue. The Switchcraft Tini QG series is very popular in pro audio and used by other companies as well.
+	
+	I havent been able to get any of my local electronics suppliers to even find it, much less get it.
+
+	* www.mouser.com carries the entire Tini QG series.
+	
+	Are they available thru Shure?
+
+	* Yes, as part WA330.
+	
+	Who manufactures this thing?
+
+	* Switchcraft.
+	
+	What is the part number on it?
+
+	* TA4F
+

@@ -1,0 +1,17 @@
+Title: BG 1.0 versus BG 1.1
+Id: 1909
+Legacy Id: 1970
+
+Question:
+What is the difference between the BG 1.1 and the older BG 1.0 model?
+
+
+Answer:
+
+	The BG 1.1 will nearly match your BG 1.0. The differences are quite minor:
+	
+	BG 1.1 has an output level that is 0.5 dB greater.
+	
+	BG 1.1 is not a dual impedance; it is only low impedance.
+	
+	The BG 1.1 has different outer packaging.

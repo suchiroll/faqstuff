@@ -1,0 +1,11 @@
+Title: DC Coax size - AC Power supply for LX3
+Id: 2094
+Legacy Id: 2160
+
+Question:
+I lost the AC Adapter for my LX3 receiver. I got the Voltage and Polarity off the back of the unit. I need to know the size of the connector which fits into the power jack. Typically 2.1mm or 2.5mm ID and 5.5mm OD barrels
+
+
+Answer:
+
+	We use 5.5mm OD x 2.1mm ID.

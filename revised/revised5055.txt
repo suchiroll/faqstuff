@@ -1,0 +1,12 @@
+Title: Dynamic compliance of Shure phono cartridges
+Id: 5055
+Legacy Id: 6366
+
+Question:
+What is the rated (numerical value) Dynamic Compliance of the Shure M97xE?
+
+
+Answer:
+
+	Sorry, Shure does not measure dynamic compliance. We only offer static compliance as a measured spec. Static Compliance Specifications and Definition
+

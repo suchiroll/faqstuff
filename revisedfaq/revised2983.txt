@@ -1,0 +1,17 @@
+Title: Limiter use with a PSM system
+Id: 2983
+Legacy Id: 3111
+
+Question:
+I want to make certain that the performers using the PSM do not damage their hearing by turning up the volume too high. Will a limiter protect the performers from themselves?
+
+Answer:
+
+	The purpose of a limiter is brick-wall hearing protection, designed to prevent unexpected transients from damaging the users hearing. It is not a pleasant sounding limiter, since its only purpose is protection. The ratio is infinite, with a quick attack time, set for maximum protection. It would be an ergonomic challenge to provide a complete set of limiter adjustments on a PSM receiver.
+	
+	Here is an example of how the limiter can work. When using the Shure E1 earphone, and the limiter engaged, the maximum sound pressure level produced by the earphone will be 114 dB SPL. By comparing the sensitivity specification of your earphone to the E1, you can extrapolate the maximum SPL produced by that earphone. Unless you are using an earphone that is many times more sensitive than the E1, the limiter should still be useful. For example, the sensitivity of the E1 is 113 dB SPL/mW. If your earphone is 119 dB SPL/mW, then the limiter on the receiver would allow a max. SPL of 120 dB (6 dB higher). The OSHA standard indicates that 115 dB SPL can be withstood for 15 minutes before hearing damage occurs. Hence, the limiter on PSM systems is not designed for long-term hearing protection, but from short transients.
+	
+	It appears that you are looking for a way to prevent the artists from hurting themselves. While admirable, this may not be possible unless you remove the volume control from the receivers. Shure does not claim that when using in-ear monitors you can not, or will not, suffer hearing damage. But, when used properly, they offer a definite advantage over traditional floor wedge monitors. When using isolating earphones, the overall monitoring level can be much lower than with floor wedges. Unfortunately, if the artists choose to blast themselves into oblivion, you may not be able to do much about it. To use an automobile analogy, the speed limit for safe driving is typically 55 MPH, but just about every automobile produced can easily surpass that limit. If the driver crashes at 85 MPH, whose fault is it? What you can do, is be sure that nothing you do causes any harm. This includes selecting an in-ear system with limiting, and maybe adding an additional limiter across the output of the mixing console.
+	
+	Perhaps the best thing you can do is to hire an audiologist to visit your facility and monitor the actual levels experienced by the artists. Michael Santucci of Sensaphonics Hearing Conservation (www.sensaphonics.com) provides this service. He uses tiny microphones inserted into the ear canal to measure sound pressure level at the ear drum. This procedure allows him to calibrate the volume control on the receiver to an actual sound pressure level. Essentially, it provides the artist with a sound level speedometer. What you will come away with is a way to tell the artist, For a one hour show, do not turn the volume control past here.
+

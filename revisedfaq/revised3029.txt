@@ -1,0 +1,12 @@
+Title: SLX and the WL93 as a headworn microphone
+Id: 3029
+Legacy Id: 3159
+
+Question:
+We use SLX bodypack systems with WL93 microphones for a children's puppet show. The WL93 microphones are attached to headset booms constructed of hanger wire to position the element on the side of the performer's face, yet not in front of their mouth. This enabled good gain before feedback and natural response. However, I found that the transmitter sensitivity had to be placed in the "0" position. The "MIC" position resulted in distortion. Is this normal?
+
+
+Answer:
+
+	Yes. The MIC position would be used in the WL93 was positioned on the chest of the performer.
+

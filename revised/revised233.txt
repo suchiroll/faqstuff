@@ -1,0 +1,16 @@
+Title: Using rechargable batteries with PSM600
+Id: 233
+Legacy Id: 238
+
+Question:
+Can I use rechargable batteries instead of alkaline? Will I be compromising sound quality or reception quality? How much voltage is needed to run the pack? Any suggestions about rechargables?
+
+
+Answer:
+
+	Yes, you can use a rechargable 9 volt battery. The sound quality and reception quality will not be compromised as long as the voltage of the rechargable is at 7.5 volts and above. Look at the batteries offered by iPowerUS
+
+	What will be a problem is the operating time on a rechargable battery. The PSM600 receiver can consume up to 150 milliamps when operating at peak volume. A high quality alkaline battery provides 600 milliamp hours of operation. 600 divided by 150 = 4 hours of operating time.
+	
+	For any rechargable you select, divide its milliamp hours rating by 150 to know approximately how long it will operate the PSM 600 receiver at peak volume.
+

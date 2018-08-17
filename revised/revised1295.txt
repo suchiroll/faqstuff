@@ -1,0 +1,24 @@
+Title: Feedback in a church system
+Id: 1295
+Legacy Id: 1343
+
+Question:
+Our church bought the following product (I believe in South Africa - some time ago):
+
+Shure T4V Diversity Receiver and the T1 Transmitter.
+
+This wireless system has constantly given us problems with feedback. I have recently replaced the mixing desk and all speakers in the church and was hoping that this would solve the problem. I have speakers on the main stage, which I believe are interfering with the transmitter.
+
+Do you have any information or recommendations to stop this feedback? Is this model mic to sensitive to be used for preaching?
+
+Your response will be greatly appreciated.
+
+
+Answer:
+
+	Acoustic feedback is a system wide problem; it is not related only to the microphone. Please read the following links to better understand the root causes of feedback and possible solutions:
+	
+	Basics of Equalization and Feedback
+	
+	Themicrophone may or may not be the guilty party. Understanding of the complete feedback path is essential to solving your problem. Also, search our online FAQ for the word feedback.
+

@@ -1,0 +1,20 @@
+Title: Mics for ham radio HF transceivers
+Id: 263
+Legacy Id: 269
+
+Question:
+Does your company make microphones that improve the audio over that of the ones sold by the ham radio manufacturers? For instance I think the mic that came with my high frequency transceiver does not do a good job, and maybe a amplified mic would work better, yet I know a mic has to be right to drive the audio for each radio.
+
+
+I run ICOM rigs, 726, 735 and a 745. If this topic is not in your line of manufacture I understand.
+
+
+I am just searching for what would be a better mic for my radio equipment.
+
+
+Answer:
+
+	Without having complete technical specifications of your current mic, we cannot speculate if a Shure model would be better. Sound is subjective and what sounds better to you may not sound better to me.
+	
+	Shure does offer microphones used by hams, such as the model 450 Series II. But none are made specifically for ham radio use as this market is quite small. We suggest you ask other hams what microphones they use and if they like the mics.
+

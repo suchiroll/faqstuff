@@ -1,0 +1,14 @@
+Title: Neck Strap for Lavalier Mic
+Id: 2182
+Legacy Id: 2255
+
+Question:
+I have a Shure LX14/83. Instead of the tie clip, I would like to use a neck strap. Do you make an accessory for the lavalier mic that would do this?
+
+
+Answer:
+
+	Sorry, we do not.
+
+	Get a simple chain or cloth lanyard at a hobby shop and attach the mic to the lanyard using the tie clip. The WL183 mic is omnidirectional and does not need to be aimed at the mouth.
+

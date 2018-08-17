@@ -1,0 +1,12 @@
+Title: EWT Wireless
+Id: 3823
+Legacy Id: 4061
+
+Question:
+I have an EWT-UA wireless transmitter. Where can I find a manual for this?
+
+
+Answer:
+
+	The EWT transmitter was a variation of the UC1 transmitter, designed specifically for police car integration.
+	The UC Series User Guide would provide operating instructions for the transmitter.

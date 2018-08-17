@@ -1,0 +1,11 @@
+Title: ST72L Loudspeaker
+Id: 5031
+Legacy Id: 6323
+
+Question:
+I have a Shure STL72a loudspeaker. Can Shure provide some history? It is wood, about 5 inches in diameter and looks like it was to be used on a tabletop.
+
+Answer:
+
+	In the 1980s, Shure marketed a complete teleconferencing systems for boardrooms. The STL72 was an accessory for this system. A = Ash - the wood was a light blonde. W = Walnut - the wood was a dark brown. See the attached data sheet below.
+

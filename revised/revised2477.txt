@@ -1,0 +1,12 @@
+Title: Stylus for Shure M85G
+Id: 2477
+Legacy Id: 2572
+
+Question:
+Is it available the stylus for the cartridge?
+
+
+Answer:
+
+	The replacement stylus N75B Type 2 should fit the M85G cartridge.
+

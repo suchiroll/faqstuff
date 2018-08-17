@@ -1,0 +1,12 @@
+Title: SCM820 used with a Yamaha CL console
+Id: 4344
+Legacy Id: 5429
+
+Question:
+Can I use the SCM820 as an insert processor (via Dante) with the Yamaha CL-series consoles?
+
+
+Answer:
+
+	Sorry, the answer is no. The Dante interface on the CL consoles cannot be configured to provide channel insert points. This is required in order for the SCM820 to function as an insert processor.
+

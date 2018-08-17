@@ -1,0 +1,14 @@
+Title: Beta 98 head on WL185 body
+Id: 568
+Legacy Id: 579
+
+Question:
+I need to mount a Beta 98 in a position where the cord will exit at a right angle. I notice that the element mounts to its body with the same contacts and threads as a WL185. Are the internal electronics of the Beta 98 and the WL185 identical? Will the difference in bodies affect the EQ or polar pattern?
+
+
+Answer:
+
+	The Beta 98 body includes a 15 dB pad (attenuator). This pad is not in the WL185 body. There will be no EQ or polar pattern difference if you use the WL185 body.
+	
+	The combination of the Beta 98 element, the WL185 body, and the Beta 98 preamp will handle a maximum SPL of 140 dB.
+

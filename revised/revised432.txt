@@ -1,0 +1,13 @@
+Title: Product specifications for PE50-SP
+Id: 432
+Legacy Id: 440
+
+Question:
+Do you have any information on the PE50-SP?
+
+
+Answer:
+
+	The PE50SP is an excellent microphone. It can be internally wired for low or high impedance operation. It also has a silent on/off switch. The PE50SP was discontinued in the early 1980's. With proper care it will last for 50 years or more.
+	
+	The specifications are nearly the same as the later model PE86.

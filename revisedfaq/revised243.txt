@@ -1,0 +1,39 @@
+Title: What do I need to adapt a SM91 to my camcorder?
+Id: 243
+Legacy Id: 249
+
+Question:
+I've read some of the FAQs about adapting mics to camcorders but am still unsure what I need to do. Do I need the preamp that is shown with the SM91 product specs? Can I simply go to Radio Shack and buy enough adapters to go from the mini-XLR of the SM91 to a 3.5mm camcorder input?
+
+
+BTW, if you are familiar with it, the camcorder is a Sony VX-1000.
+
+
+Answer:
+
+	The easiest way is to use a phantom power interface made by Beachtek or JuicedLink.
+	You can also use a mixer such as the SCM268. The SCM268 is a mixer that will supply phantom power to a condenser microphone such as the SM91.
+	You DO need to use the preamp that is shown with the SM91. You can NOT use adapters to go from the mini-XLR to the camcorder input. The mini-XLR is not a normal microphone output, therefore you must go through the preamp to have a normal microphone output. But the SM91 still will require phantom power. There isn't any camcorder made with a 3.5mm input that has phantom power on it, so you will need to go through some other device to provide phantom power.
+	There are many different products that will supply phantom power to a condenser microphone.
+	
+		Beachtek of JuicedLink interface
+	
+		SCM268 - a/c powered mixer with phantom power (handles 4 microphones)
+	
+		Build your own battery powered phantom supply. Battery Powered Phantom Power Supply with Unbalanced Output.
+
+	The device that you choose to supply phantom power will go between the microphone and the camcorder. Which device you choose depends on whether it needs to be battery powered or not, how many microphones you will be using, and whether you are willing to build your own.
+	If you are willing to plug the mixer into the wall outlet (a/c powered), then here is the list of equipment:
+	
+		SM91 - microphone including preamp
+	
+		SCM268 - mixer to supply phantom power to microphone
+	
+		RP325 - XLR to 3.5mm cable to plug mixer into camcorder
+
+	If you are wanting a completely battery operated system with just a single microphone, then here is the list of equipment:
+	
+		SM91 - microphone including preamp
+	
+		Beachtek or JuicedLink interface
+

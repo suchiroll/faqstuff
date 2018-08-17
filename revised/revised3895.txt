@@ -1,0 +1,19 @@
+Title: AC hum field and a dynamic mic
+Id: 3895
+Legacy Id: 4141
+
+Question:
+I'm encountering what appears to be an induced AC hum in a dynamic microphone.We've tried several makes and models with similar results.The source of the hum seems to be an AC distribution panel about 6 feet from our Voice Over booth, through the wall and across the hall.I've gotten the result with not only our main mixer, but with a battery operated field recorder.I've tried replacing the mic with a 150 ohm load and the hum disappears.I've not tried a low pass filter as the hum seems centered around 60 hz. The hum does not manifest in condenser mics, which seems to confirm the source.
+
+Is there a way to shield the panel from the booth, or is some other solution in order?
+
+
+Answer:
+
+	You are correct.A dynamic mic has a coil of wire as the voice coil, and this will indeed create an audible hum.Shielding the panel would be difficult, but could be done using Mu-Metal - a type of metal used to shield transformers.
+	
+	http://en.wikipedia.org/wiki/Mu-metal
+	
+	Also consider a dynamic mic with an internal hum bucking coil:Shure SM7B; Shure SM63
+	
+

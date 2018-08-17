@@ -1,0 +1,13 @@
+Title: PA411 Fan Noise
+Id: 4705
+Legacy Id: 5875
+
+Question:
+Is there a fan inside of the PA411? At times, I hear a mechanical noise and it could be a fan in operation.
+
+
+
+Answer:
+
+	Yes, the PA411 has two internal fans.The fansoperate based on the level of heat inside of the unit. It is normal to hear a mechanical noise when the PA411 is being cooled by the fans. A single fan has a noise rating of 16.0 dBA SPL at one meter.
+

@@ -1,0 +1,14 @@
+Title: "Rapper" style of microphone use
+Id: 2587
+Legacy Id: 2686
+
+Question:
+I'm curious what effects "Rapper" style microphone use (bottom up looking down performer's throat) has on the microphone's frequency response curve. Would it be considered "on axis" or "off axis"?
+
+
+Answer:
+
+	The position does not affect the mics performance that much. The mic is still on axis.
+	
+	What does great harm is the cupping the ball of the mic with the hand. This destroys the polar pattern and modifies the frequency response. But it looks cool, so rappers dont appear to care what about the sonic results.
+

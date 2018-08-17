@@ -1,0 +1,18 @@
+Title: Is the brush on my M97xE defective?
+Id: 4681
+Legacy Id: 5849
+
+Question:
+I recently purchased a Shure M97xE stylus and after mounting it, I noticed the not all the brush bristles touch the record surface, and the brush bristles are cut at an angle. Please comment.
+
+Answer:
+
+	
+		The brush bristles are indeed cut an an angle. Looking at the cartridge from the front, the bristles on the left are longer by design.To work properly, only a small section of the brush needs to contact the record groove.
+	
+		
+		As a test, play a record without cleaning it first. If the brush is working properly, it will have collected a small ball of dust by the end of the first side.
+
+
+
+

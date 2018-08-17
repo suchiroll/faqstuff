@@ -1,0 +1,16 @@
+Title: Computer audio output to an audio mixer input
+Id: 2915
+Legacy Id: 3040
+
+Question:
+I am using 3 different mixers they all have Phantom power, for reference I'll use the SCM800. I would like to connect the line out of a laptop which is 2.2K impedance, 1v to the input of the mixers using a 3.5mm stereo plug to the laptop, then adapt to 1/4 and or XLR to the different mixers. I have a feeling this will work but my concern is this is in a somewhat unsupervised classroom setting where it would be fairly easy for someone to flip the phantom power on. The SCM800 has a 3 position switch for Mic/Phantom power/Line.I do not want one of the Proffessor's or student's laptops to go up in smoke, if that is possible. My question is do know of any problems of laptops being damaged by the phanton power being applied to the line out of a laptop?
+
+
+Answer:
+
+	You are correct to be concerned. It is very unlikely that the audio output of a computer has any protection against a DC voltage, like phantom power.
+	
+	We strongly recommend the use of an audio isolation transformer - placed between the computer audio output and the mixer input. Besides blocking any DC voltage, the transformer will convert the unbalanced computer audio signal to a balanced audio signal - always a good thing to do.
+	
+	Based on the specs you provided, an example of an appropriate transformer is the Shure A15BT. The laptop feeds the 33,000 ohm side of the A15BT. The 600 ohm balanced side of the A15BT feeds the mixer.
+

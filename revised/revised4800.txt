@@ -1,0 +1,53 @@
+Title: IEEE Milestone Award for the Shure Unidyne Microphone
+Id: 4800
+Legacy Id: 5986
+
+Question:
+When was the Shure Unidyne awarded the IEEE Milestone Award?
+
+
+Answer:
+
+	On January 31, 2014, Shure Incorporated was presented the Institute of Electrical and Electronics Engineers (IEEE) Milestone Award.The IEEE Milestones in Electrical Engineering and Computing is a program of the IEEE History Committee, administered through the IEEE History Center.Milestone Awards recognize technological innovation and excellence found in unique products, services, research, and patents that benefit humanity.
+	
+	Shure received the honor for the development of the Unidyne microphone, first introduced in 1939.The Milestone Award plaque resides in Shures corporate headquarters in Niles, Illinois, and reads as follows:
+	
+	IEEE MILESTONE IN ELECTRICAL ENGINEERING AND COMPUTING
+	Single-element Unidirectional Microphone - Shure Unidyne, 1939
+	
+	In 1939, Shure Incorporated introduced the Unidyne microphone. Using the Uniphase acoustical system, the patented Unidyne was the first microphone to provide directional characteristics using a single dynamic element. This breakthrough offered lower cost, greater reliability and improved performance for communication and public address systems. Shure Unidyne microphones are still manufactured and used worldwide in numerous audio applications.
+	January 2014
+	
+	To truly appreciate the magnitude of this Award, there have been only 137 Milestones presented worldwide in January 2014just one hundred and thirty seven covering the time period from 1751 to 1989. Milestones honor the work of Benjamin Franklin, Alessandro Volta, Samuel Morse, James Maxwell, Alexander Graham Bell, Thomas Edison, Guglielmo Marconi, Denis Gabor, Walter Brattain, William Shockley, John Bardeen, Jack Kilby, and other pioneers in electricity and electronics.
+	
+	For the decade of 1930 - 1939, here are the six IEEE Milestones that preceded the Unidyne:
+	
+	Development of Ferrite Materials and Their Applications, 1930-1945
+	Tokyo, Japan, Dedicated October 2009
+	In 1930, at Tokyo Institute of Technology, Drs. Yogoro Kato and Takeshi Takei invented ferrite, a magnetic ceramic compound containing oxides of iron and of other metals with properties useful in electronics. TDK Corporation began mass production of ferrite cores in 1937 for use in radio equipment. The electric and electronics industries use ferrites in numerous applications today.
+	
+	Two-Way Police Radio Communication, 1933
+	Bayonne, New Jersey, USA, Dedicated May 1987
+	In 1933, the police department in Bayonne, New Jersey initiated regular two-way communications with its patrol cars, a major advance over previous one-way systems. The very high frequency system developed by radio engineer Frank A. Gunther and station operator Vincent J. Doyle placed transmitters in patrol cars to enable patrolmen to communicate with headquarters and other cars, instead of just receiving calls. Two-way police radio became standard throughout the country following the success of the Bayonne system.
+	
+	Long-Range Shortwave Voice Transmissions from Byrds Antarctic Expedition, 1934
+	Cedar Rapids, Iowa, USA, Dedicated February 2001
+	Beginning February 3, 1934, Vice Admiral Richard E. Byrds Antarctic Expedition transmitted news releases to New York via short-wave radio voice equipment. From New York, the US nationwide CBS network broadcast the news releases to the public. Previous expeditions had been limited to dot-dash telegraphy, but innovative equipment from the newly formed Collins Radio Company made this long-range voice transmission feasible.
+	
+	Westinghouse Atom Smasher, 1937
+	Forest Hills, Pennsylvania, USA, Dedicated May 1985
+	The five million volt van de Graaff generator represented the first large-scale program in nuclear physics established in industry. Constructed by the Westinghouse Electric Corporation in 1937, it made possible precise measurements of nuclear reactions and provided valuable research experience for pioneering work in nuclear power.
+	
+	Atanasoff-Berry Computer, 1939
+	Ames, Iowa, USA, Dedicated April 1990
+	John Vincent Atanasoff conceived the basic design principles of the first electronic-digital computer in 1937.Assisted by his graduate student, Clifford E. Berry, they constructed a prototype in October 1939. It employed binary numbers, direct logic for calculation, and a regenerative memory.It embodied concepts that would be central to the future development of computers.
+	
+	Code-Breaking at Bletchley Park during World War II, 1939-1945
+	Bletchley Park, United Kingdom, Dedicated April 2003
+	During the 1939-45 World War, 12,000 men and women broke the German Lorenz and Enigma ciphers, as well as Japanese and Italian codes and ciphers. They used innovative mathematical analysis and were assisted by two computing machines developed by teams led by Alan Turing: the electro-mechanical Bombe developed with Gordon Welchman, and the electronic Colossus designed by Tommy Flowers. These achievements greatly shortened the war and saved countless lives.
+	
+	
+	http://www.ieeeghn.org/wiki6/index.php/Special:Milestones
+	
+	http://www.ieeeghn.org/wiki/index.php/Milestones:List_of_IEEE_Milestones
+

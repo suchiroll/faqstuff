@@ -1,0 +1,38 @@
+Title: Earphones do not fit, are uncomfortable, or will not stay secure in my ear canal
+Id: 3574
+Legacy Id: 3780
+
+Question:
+Please comment on earphones that do not fit properly, are uncomfortable, or will not stay secure when inserted.
+
+
+Answer:
+
+	First, please read: How to wear Shure earphones
+	
+	The shape, size, and physical anatomy of the ear canal can vary dramatically from person to person, like the size and shape of feet. Just as one size and shape of shoe will not fit every person, the same is true for earphones and earphone sleeves. The left ear canal can have a different shape and size from the right ear canal. Ear canals rarely are mirror images of each other.
+	
+	Here are potential reasons that earphones may not stay secure or may not fit comfortably:
+
+	
+		The earphone sleeve is too large for the ear canal.
+	
+		The earphone sleeve is too small for the ear canal.
+	
+		The ear canal is too slippery to grab the sleeve due to ear wax.
+	
+		The ear canal is too slippery to grab the sleeve due to perspiration.
+	
+		The ear canal is too small for even the smallest earphone sleeve. This situation is common for people of small stature.
+	
+		The ear canal has an acute angle of entry and the earphone cannot be fully inserted, or the earphone nozzle presses against the ear canal.
+
+
+	For reasons #1, #2, #3, and #4, the solution can often be found by experimenting with sleeves of different shapes, sizes, and material. Shure earphones are supplied with a variety of different earphone sleeves because every ear canal is different. It is essential for proper earphone fit and performance that your ear canals are kept free of excess earwax and kept clean. For a musician, this might mean the use of a cotton swab between sets to dry/clean the ear canal.
+	
+	For reasons #5 and #6, the solution might be a custom-molded earphone sleeve. To investigate this solution, contact: www.sensaphonics.com
+	
+	In rare cases, earphones simply will not stay in place, or be comfortable, for several of the reasons listed above. Then the only solution is to abandon the use of earphones that are inserted into the ear canal. An alternative would be earphones that rest in the pinna, outside of the ear canal, or headphones.
+	
+	Note: The Shure product warranty does not guarantee a comfortable fit as Shure has no control over the size, shape, or sensitivity of an individuals ear canals. The warranty does guarantee that the earphones will meet the published specifications and performance data.
+

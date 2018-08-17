@@ -1,0 +1,13 @@
+Title: P2T Split Outputs
+Id: 3434
+Legacy Id: 3626
+
+Question:
+I have been using the PSM 200 for over a year in practice and live shows and have been very pleased with its performance.I have all the PA gear rack mounted in a large rolling rack, pre-wired for ease of setup.Currently, I have to route a 1/4" cable from the output of the EQ (located in the back of the rack) around the side of the rack and plug into the front of the transmitter.The split outs (located on the back of the unit) are the same signal as what comes through the front input.Can I use the split outs as an input to the unit?Will that affect the volume levels that I receive at the receiver?
+
+
+Answer:
+
+	Yes, you can use the Split Out jack as an input connection.  It is the electrical equivalent of the jack on the front panel.
+	The front panel "combo connector" (XLR female / 1/4" TRS female phone jack) is balanced.  The input impedance is 1,000 ohms. With the input level control set to 12 o'clock, the signal clipping level is -5dBU, and the nominal signal level is -25 dBu.   The P2T input can handle a line level signal or a mic level signal depending on the level control setting.
+	The male XLR output connector on the P2T rear panel is a passive pass-through from the XLR female combo connector.

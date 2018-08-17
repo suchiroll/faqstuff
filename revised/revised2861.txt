@@ -1,0 +1,11 @@
+Title: Phono cartridge for Wurlitzer juke box
+Id: 2861
+Legacy Id: 2973
+
+Question:
+I have old jukebox Wurlitzer X7. I have heard that needle used on this machine is SHURE N-17CM. Is it correct?
+
+
+Answer:
+
+	Shure has not sold that stylus for over 20 years. But there are web sites that specialize in replacement parts for jukeboxes: http://www.jukeboxrepair.com/opening.htmThere are many other sites as well.

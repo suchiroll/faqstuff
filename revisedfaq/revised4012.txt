@@ -1,0 +1,22 @@
+Title: Fixed Gain Mic Preamp
+Id: 4012
+Legacy Id: 4419
+
+Question:
+I need a fixed gain preamp that will increase the output level of my Shure dynamic mic, so that it will be similar to the output level of my condenser mic. I think 20 dB of gain will be enough.
+
+
+Answer:
+
+	Consider these products:
+
+	
+
+	Cloud Lifter Preamp (model CL-1)from Cloud Microphones. It operates from phantom power and provides 25 dB of fixed gain.
+
+	
+
+	Fethead from Triton Audio.
+
+	
+

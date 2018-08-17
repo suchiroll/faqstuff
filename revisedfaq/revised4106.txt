@@ -1,0 +1,14 @@
+Title: A26X Extension Tube Thread Size
+Id: 4106
+Legacy Id: 4754
+
+Question:
+Does the A26X fit a standard microphone thread?
+
+
+
+Answer:
+
+	The A26X has a 5/8-27 female thread on one end;the same male thread on the other end.This the standard mic stand thread used in the United States.
+	
+

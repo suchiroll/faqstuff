@@ -1,0 +1,11 @@
+Title: Straight cable for SRH440 and SRH840
+Id: 3641
+Legacy Id: 3849
+
+Question:
+Is there are straight cable for the SRH440 and the SRH840? I would prefer it to the coiled cable.
+
+
+Answer:
+
+	Yes.  The straight cable is model HPASCA1. It is 2.5 meters (8' 4") in length. The cable can be ordered from Shure Parts at 800-516-2525.

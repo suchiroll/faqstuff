@@ -1,0 +1,16 @@
+Title: Which omnidirectional mic to cover a jury booth?
+Id: 424
+Legacy Id: 431
+
+Question:
+What would be a good mic with a omnidirectional pickup pattern? Need one that is sensitive! I will be installing it in a court room, covering a jury booth. I have tried a Radio Shack mic (cat.# 33-1070), which is made by Shure. It works pretty good, but I need a little bit more sensitivity! I am looking for a mic around the $130-$180 range.
+
+
+Answer:
+
+	The sensitivity of the microphone does not determine what you are describing. The sensitivity of a microphone simply dictates how much you have to turn up your mixer input control.
+	
+	A condenser microphone might be better because its lighter weight diaphragm can respond to smaller variations in sound pressure. The Microflex microphones would be a good choice to consider.
+	
+	When trying to cover a large area like a jury booth, the main problem is the ratio between the desired direct sound and the unwanted ambient noise.
+

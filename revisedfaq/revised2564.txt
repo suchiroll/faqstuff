@@ -1,0 +1,11 @@
+Title: Difference between the PG58-XLR and  PG58-QTR
+Id: 2564
+Legacy Id: 2662
+
+Question:
+I wanted to know what was the difference between buying the PG58-XLR and PG58-QTR? What is the difference between them?
+
+
+Answer:
+
+	The connector at the end of the cable: QTR = 1/4" male phone plug; XLR = 3 pin male XLR.

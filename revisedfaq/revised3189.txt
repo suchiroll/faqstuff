@@ -1,0 +1,17 @@
+Title: I series Multi function switch information
+Id: 3189
+Legacy Id: 3332
+
+Question:
+I am interested in better understanding the i2c/ic3 Multi-Function Control Switch capabilities.  For example will it allow you to answer/end a phone call?  I have a LG-4600 cell phone and an iPod and was wondering what the user experience would be if I did not have ready access to the cell phone when a call came in.  For example if I had it on auto answer would the i2c/i3c automatically switch from my music to my phone?
+
+
+Answer:
+
+	No it will not ...you will need to manually switch the switch on the cable from listening to music to hearing the phone call. The I series does not have a send/end function. The switch on the dual connector versions has earphone volume, mute and the function switch between music and phone connector. The I series TREO single connector version has mic mute and volume. The Treo will switch automatically for an entering phone call.
+	
+	I-Series and Pocket PC
+	I series Dual connector and TREO 650/600
+	
+	
+

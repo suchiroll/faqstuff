@@ -1,0 +1,19 @@
+Title: WWB 6.10 Information
+Id: 5395
+Legacy Id: 5622
+
+Question:
+WWB 6.10 Information
+
+Answer:
+
+	June 18, 2014: Shure Incorporated announced the availability of Wireless Workbench 6.10, available for download at www.shure.com/software.The next evolution of this software adds new product support, enhanced frequency analysis, and safeguards against unwanted setting changes.
+	
+	Wireless Workbench 6.10 now supports the new QLX-D Digital Wireless System that features networked control and Shures rechargeable battery technology.
+	
+	For greater insight into frequency compatibility, Wireless Workbench 6.10 introduces a re-designed Frequency Analysis view. Providing more transparency when troubleshooting, Frequency Analysis displays a detailed and interactive listing of conflicts discovered per frequency and enables users to filter conflicts by type.
+	
+	After all desired settings are in place, the softwares new Monitor Only mode safeguards against unwanted changes during a production or performance. When Monitor Only mode is enabled, Wireless Workbench can confidently be used as a monitoring interface without risking unwanted changes to device parameters.
+	
+	Wireless Workbench 6.10 is compatible with the Shure Axient Wireless Management Network, UHF-R Wireless Systems, ULX-D Digital Wireless Systems, QLX-D Digital Wireless Systems, and PSM 1000 Personal Monitoring Systems. The new version can be downloaded at www.shure.com/software. Wireless Workbench 6.10 is supported on Windows XP, 7, and 8 as well as Mac OS 10.6.8, 10.7, 10.8, and 10.9
+

@@ -1,0 +1,36 @@
+Title: Noise canceling microphone for telephone
+Id: 2025
+Legacy Id: 2090
+
+Question:
+As a long time ham, I know Shure's reputation and its products well.
+
+
+I am hoping you can point me to a source that could solve this problem.
+
+
+We have a home office; it is subject to dogs barking and in particular, cockatiels "chirping". So my guess is that we have both relatively high and low frequency unwanted noise.
+
+
+My wife doesn't want this or any background noise when she is on the phone with clients, etc.
+
+
+Can you suggest a solution, esp one that could be plugged in to our regular plain vanilla 2 line phones, to replace their handsets.
+
+
+Of course, I only need 1 or 2 of such.
+
+
+I am comfortable with wiring etc, so any solution that could be made to be the input device for the telephone would be worth considering.
+
+
+Any advice greatly appreciated.
+
+
+Thanks
+
+
+Answer:
+
+	Sorry, Shures microphones will not directly interface with a telephone. We suggest you contact a Plantronics. This company specializes in after-market headsets for telephones: http://www.plantronics.com/
+

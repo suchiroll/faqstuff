@@ -1,0 +1,16 @@
+Title: Shure AXU58D wireless
+Id: 908
+Legacy Id: 936
+
+Question:
+I have one wireless (Shure) and need another. I was told to get a Shure UHF AXU 58D. I cannot find this model number anywhere. Is there such a model number on a current wireless microphone?
+
+Thank you.
+
+
+Answer:
+
+	The Access UHF wireless series is sold to only Guitar Center stores. The Shure branded equivalent is the UT wireless series.
+	
+	The User Guide for AXU wireless can be downloaded from the following link:
+

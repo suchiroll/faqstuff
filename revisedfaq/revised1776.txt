@@ -1,0 +1,12 @@
+Title: How does a wireless guitar system work?
+Id: 1776
+Legacy Id: 1836
+
+Question:
+How do bands get the sound of their electric guitars to be amplified through the amplifiers used at concerts with a wireless system?
+
+
+Answer:
+
+	The output of the guitar goes to a wireless transmitter. The output of the receiver plugs into the input of the guitar amp. A microphone is placed in front of the guitar amp to pick it up. That microphone is run to the main mix console and through the PA in the arena.
+

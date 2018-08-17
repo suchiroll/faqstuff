@@ -1,0 +1,14 @@
+Title: In Ear Sound Level Analyzer
+Id: 3805
+Legacy Id: 4043
+
+Question:
+Is there a device that can measure or calculate the level of sound in my ear canal when I am using my Shure earphones? I want to avoid long term hearing damage.
+
+
+Answer:
+
+	There is such a device and it is sold by Sensaphonics:  www.sensaphonics.com
+	
+	The Sensaphonic in-ear sound level analyzer (dB Check) is connected between the headphone amp output and the earphones.  It displays the audio level in the ear canal in dBA, and checks for the recommended daily exposure limit using OSHA guidelines and NIOSH guidelines.  It can be recharged for any standard computer USB port. 
+

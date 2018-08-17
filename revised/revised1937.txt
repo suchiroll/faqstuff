@@ -1,0 +1,11 @@
+Title: SM81 Attenuation
+Id: 1937
+Legacy Id: 1999
+
+Question:
+When using an SM81 in a medium large church environment to mic an acoustic guitar that is not otherwise plugged in, in this case a Martin D-28, should the attenuation be reset on the mic if the SM81 has been previously used to mic a full choir. The SM81 is about a foot to a foot and one half away from the guitar's sound hole. It is a purely acoustic guitar, not acoustic/electric in this application. It is not especially loud, but used primarily used to accompany a vocal leader. The question is, can the same level of attenuation be used for the choir as for the guitar? Is there any potential risk of excessive sound pressure if the choir setting is used mic the guitar. (We have used the choir setting twice for the guitar, but have not noticed any distortion). The sound is warm and has a full and moderate reverb quality.
+
+
+Answer:
+
+	Microphone attenuators only exist to properly calibrate the microphone sensitivity to the sound source so distortion doesn't occur. Attenuation settings have no effect on the sound quality of the signal. If the setting you are using for the choir seems to also work for the guitar, then there is no problem. An incorrect attenuation setting will not cause any damage to the microphone. The worst that could happen is distortion - unlikely to be caused by an acoustic guitar, especially from a foot away.

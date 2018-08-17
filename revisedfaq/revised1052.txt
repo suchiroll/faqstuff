@@ -1,0 +1,13 @@
+Title: FP32A dirty potentiometers
+Id: 1052
+Legacy Id: 1085
+
+Question:
+Is there any kind of recall on the FP32A mixer due to a problem with dirty potentiometers?
+
+Answer:
+
+	There is not any recall on the FP32A. If you are having problems with the potentiometers, please contact the Shure Service Department. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

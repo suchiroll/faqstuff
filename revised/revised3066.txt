@@ -1,0 +1,12 @@
+Title: Does PGX remember the frequency setting?
+Id: 3066
+Legacy Id: 3197
+
+Question:
+Will the PGX transmitter and receiver remember the frequency setting if I remove the batteries or unplug the power supply?
+
+
+Answer:
+
+	Both the PGX transmitter and PGX receiver store the frequency settings in non-volatile memory. Both components should remember their frequencies indefinitely, with or without power applied.
+

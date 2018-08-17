@@ -1,0 +1,25 @@
+Title: Two extra wires in certain Shure microphone models
+Id: 4267
+Legacy Id: 5329
+
+Question:
+These Shure microphones have something in common: 104C, 450 Series II, 514B, 515BSM, 515BSLX, 515SBGX, 522, 527B, 527C, 577B, 596LB, Each model has two extra wires in its cable but these wires do not carry the audio signal. So what is the function of these superfluous wires?
+
+
+
+Answer:
+
+	Lets use the 514B User Guide. On page 1 of the User Guide, look at Table 1.Note the wires employed for the audio signal are GREEN, WHITE, and SHIELD.Now look at the NOTE directly below Table 1: The RED and BLACK leads are not part of the audio circuit. These wires provide a contact closure when the press-to-talk switch is depressed. This closure may be used to control an external relay or a transmit/receive circuit.Just to confound novices, the terms wires and leads are used interchangeably in electronics.
+	
+	When the 514B switch button is UP, the RED wire is NOT connected to the BLACK wire.When the switch button is DOWN, the RED wire is connected to the BLACK wire.This is called a contact closure or a switch closure.When RED and BLACK are not connected, the switch is open.When RED and BLACK are connected, the switch is closed.
+	
+	Example A:The 514B is connected to a two-way police radio transceiver - a device that is a transmitter and a receiver.The transceiver is normally in RECEIVE mode so the dispatcher can hear incoming radio signals from police on patrol.When the dispatcher wants to talk back to a patrol radio, she presses the 514B switch button.This action activates the mic element and tells the transceiver to change into TRANSMIT mode.The 514B RED and BLACK wires/leads provide a contact closure to change the transceiver from RECEIVE to TRANSMIT.When the 514B button is released, the transceiver changes from TRANSMIT to RECEIVE.
+	
+	Example B: The 514B is connected to a paging system in a restaurant.There is background music in the restaurant that is heard through the paging loudspeakers.When the 514B button is pressed by the host to tell guests that their table is ready, the background music is muted.The 514B RED and BLACK wires provide a contact closure to change the paging amplifier from MUSIC ON to MUSIC OFF.When the 514B button is released, the paging amplifier changes from MUSIC OFF to MUSIC ON.
+	
+	Example C: What if the 514B installation does not require a contact closure?Then the RED and BLACK wires are not used.It is that simpleignore the RED and BLACK wires.
+	
+	IMPORTANT:The wire colors of RED and BLACK do not always indicate a contact closure.Refer to the User Guide for the mic model to determine the function of each wire and its color.
+	
+	In certain installations, the microphone switch closure may be required to handle voltage and/ or current that exceeds the electrical capacity of the switch or the wires.In that case, the microphone switch closure can be connected to an external device, such as relay, that has higher capacity for voltage and/or current. Such relays are offered by Radio Design Labs and other companies.
+

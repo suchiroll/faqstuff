@@ -1,0 +1,22 @@
+Title: MX392 wire color codes
+Id: 2708
+Legacy Id: 2812
+
+Question:
+What are the color codes for the MX392 microphone cable?
+
+
+Answer:
+
+	AUDIO WIRES
+	Red = audio hot / phantom voltage +
+	Black = audio cold / phantom voltage +
+	Silver = audio shield / phantom voltage -
+	
+	LOGIC WIRES
+	Orange = LED control / +5 Volts DC
+	White = Switch out / +5 Volts DC or 0 Volts DC controlled by MX392 front panel PUSH switch
+	Green = Logic ground / 0 Volts DC
+	
+	This information is also on the schematic page of the MX392 User Guide.
+

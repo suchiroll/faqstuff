@@ -1,0 +1,16 @@
+Title: 522 Microphone - rewire for parallel operation
+Id: 3701
+Legacy Id: 3929
+
+Question:
+I want to use three 522 mics, wired in parallel, going into one input on a paging amp. How do I modify the mic for this application?
+
+
+Answer:
+
+	Wiring microphones together in parallel allows multiple microphones to be connected to a single input on a mixer or amplifier. This is useful in paging or other applications where individual level controls for each microphone are not required. For parallel wiring to work, each microphones internal audio circuit must be configured for Normally Open operation. In other words, the audio circuit is open when the microphones switch is not being pressed. The alternative is Normally Closed operation, where the two audio conductors are shorted together when the switch is not being pressed. This also shorts out any other microphones that are connected together, preventing anyone from talking.
+	
+	The 522 microphone is factory configured for Normally Closed operation. To convert the 522 to Normally Open operation, remove the microphone bottom plate, unsolder the RED wire, the WHITE wire, and the BLACK wire - whereall three wiresare joined togetherat the switch. Once the three wires are free from the switch terminal, resolder the RED wire, the WHITE wire, and the BLACK wiretogether and insulate with electrical tape.
+	
+	If the cable run from the microphone location to the mixer input is 50 feet or more, there might be audible hum/buzz heard in the audio system when neither mic is in use. This is because the mic cable is now unterminated at the microphone end. Obtain a resistor with the value of 800 ohms to 1,200 ohms (the precise value is not important) and connect it between the + and the - audio terminal at the mixer input. This will load the mixer input when neither mic is being used and should reduce the level of hum/buzz.
+

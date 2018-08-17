@@ -1,0 +1,27 @@
+Title: Theater Audio - Feedback when using microflex overhead microphones
+Id: 5327
+Legacy Id: 1091
+
+Question:
+Theater Audio - Feedback when using microflex overhead microphones
+
+Answer:
+
+	There will be very little difference between the cardioid and supercardioid at those distances. The solution is to get the microphones closer to the performers.
+	
+	For more information, click on the following link:
+	
+	Beta 53 and feedback
+	
+	Microphone choice is not going to make much difference in your setup. Feedback is most greatly effected by the distance between the microphone and the talker and the distance between microphone and the loudspeaker. The only solution for you is to get the microphones closer to the people on stage and to get the microphones further away from the loudspeakers. The distance that a microphone can pick up is dependent on the rest of the sound system.
+	
+	If you havent already, please read  Understanding Sound System Design and Feedback Using Math.
+	
+	Also, for recommendations on microphone placement for stages, see our online publication Microphone Techniques - Sound Reinforcement
+	
+	More Information:
+	
+	Miking a talker in a noisy room - AUDIO DEMO
+	
+	Search for Theater
+

@@ -1,0 +1,16 @@
+Title: SLX and Motion Detectors in a Meeting Room
+Id: 3819
+Legacy Id: 4057
+
+Question:
+I have encountered a very strange issue with MX690, MX890, and SLX1 transmitters in a meeting room. With any of the three transmitters, I hear a rhythmic clicking / popping. Just like a metronome. If I unplug the WL183 mic from the SLX1, the clicking stops. (Interestingly, the SLX2 transmitter works fine.) On the SLX4 receiver, I notice the antenna icon and the battery icon are also affected in sync with the click. I think the problem is somehow related to the ultrasonic motion / occupancy detectors in the room.Any ideas?
+
+
+
+Answer:
+
+	You are correct about the motion detectors.   This is a case of two different technologies colliding with each other.  Certain motion detectors use an ultrasonic pulse that is near to the frequency used for the tone-key squelch circuit used in the SLX and PGX wireless systems.  When the ultrasonic pulse is picked up by the Shure transmitter, it intereferes with the receiver's tone-key squelch circuit and an audible click is heard, or rapid drop-outs occur.  The symptoms can vary, but the repetitive rhythmic aspect of the symptoms are universal. Note: This is an acoustical issue, not an RF issue.
+	
+	On the SLX1, unplug the mic and the problem should cease because the ultrasonic pulse is no longer being heard by the transmitter.  To test the MX690 or MX890, cover the mic with a heavy jacket to block the sound.  Or a box can be positioned over the motion detector to block the ultrasonic pulse.  Note that on the SLX2 , the frequency response of the mic element prevents the ultrasonic pulse from reaching the SLX4 receiver.  
+	
+	The solution is to replace the motion detectors with units that do not produce an ultrasonic pulse at 32.768 kHz.  Or contact Shure Service to have a low-pass filter installed into each transmitter that exhibits this problem.

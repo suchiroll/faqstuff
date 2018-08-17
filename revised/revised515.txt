@@ -1,0 +1,34 @@
+Title: What is the function of tone key squelch and receiver squelch?
+Id: 515
+Legacy Id: 526
+
+Question:
+What function does the tone key squelch provide in a wireless mic system?
+
+
+Answer:
+
+	This is an excerpt from: Selection and Operation of Wireless Microphone Systems.
+
+	Receiver: Squelch
+
+	One additional circuit that is important to properreceiver behavior is called squelch or muting. Thefunction of this circuit is to mute or silence the audiooutput of the receiver in the absence of the desired radiosignal. When the desired signal is lost (due to multi-pathdropout, excessive distance, loss of power to the transmitter,etc.) the open receiver may pick up another signal orbackground radio noise. In analog systems, this may beheard as white noise and is often much louder than theaudio signal from the desired source.
+
+	The traditional squelch circuit is an audio switchcontrolled by the radio signal level using a fixed ormanually adjustable threshold (level). (See Figure 2-15.)
+
+	
+
+	When the received signal strength falls below this levelthe output of the receiver is muted. Ideally, the squelchlevel should be set just above the background radio noiselevel or at the point where the desired signal is becomingtoo noisy to be acceptable. Higher settings of squelch levelrequire higher received signal strength to unmute thereceiver. Since received signal strength decreases astransmission distance increases, higher squelch settingswill decrease the operating range of the system. Onerefinement of the standard squelch circuit is referred to asnoise squelch. (See Figure 2-16.) This technique relieson the fact that the audio from undesirable radio noise hasa great deal of high frequency energy compared to atypical audio signal. The noise squelch circuit comparesthe high frequency energy of the received signal to areference voltage set by the squelch adjustment.
+
+	
+
+	In this system the squelch control essentially determinesthe quality of signal (signal-to-noise ratio) required tounmute the receiver. This allows operation at lower squelchsettings with no likelihood of noise if the desired signal is lost.
+
+	A further refinement is known as tone-key ortone-code squelch. It enables the receiver to identify thedesired radio signal by means of a supra- or sub-audibletone that is generated in the transmitter and sent alongwith the normal audio signal. The receiver will unmute onlywhen it picks up a radio signal of adequate strength andalso detects the presence of the tone-key. This effectivelyprevents the possibility of noise from the receiver when thedesired transmitter signal is lost, even in the presence of a(non-tone-key) interfering signal at the same frequency.
+
+	Turn-on and turn-off delays are incorporated in thetransmitter tone-key circuits so that the transmitter powerswitch operates silently. When the transmitter is switchedon, the radio signal is activated immediately but the tonekeyis briefly delayed, keeping the receiver muted until thesignal is stable. This masks any turn-on noise. When thetransmitter is switched off, the tone-key is deactivatedinstantly, muting the receiver, but actual turn-off of thetransmitted signal is delayed slightly. This masks anyturnoff noise. As a result, the need for a separate muteswitch is eliminated. Finally, the tone-key signal is oftenused to transmit additional information to the receiver.This may include battery voltage, transmitter audio gainsettings, transmitter type, and transmitter power level.(See Figure 2-17).
+
+	
+
+	In a fully digital wireless system, the squelch process isnot directly related to the RF signal level, or to the signal-tonoiseratio or even to a specific tone-key frequency. Rather,the squelch circuit is activated whenever the error rate of thedetected digital data stream exceeds some preset thresholdthat could cause an audible artifact. This error ratedependence takes into account most of the audio and radiofactors that can degrade the signal quality and can generallyrespond more quickly and accurately than the standardsquelch mechanisms of analog or hybrid systems.
+

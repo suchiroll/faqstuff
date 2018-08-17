@@ -1,0 +1,14 @@
+Title: Cell Phone, GSM, and PDA Interference - affecting other devices?
+Id: 3121
+Legacy Id: 3255
+
+Question:
+I've heard that certain types of cell phones, GSM devices, and PDA's can produce audible interference in professional audio equipment.  Do they create interference in any other electronic devices?
+
+Answer:
+
+	Yes. These devices can create interference in hearing aids and in other medical devices, such as monitors and respirators.
+	
+	Here is a quote from an article in the Chicago Tribune, October 24, 2005:
+	The Mayo Clinic has been studying cell phone interference with medical equipment for more than four years. In the current study, 44 percent of the medical devices recorded some interference from cell phones, but the vast majority of this interference should not have had any significance for the patient.
+

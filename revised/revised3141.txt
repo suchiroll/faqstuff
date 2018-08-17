@@ -1,0 +1,14 @@
+Title: Using the Panasonic Oxyride batteries with UHF-R wireless
+Id: 3141
+Legacy Id: 3276
+
+Question:
+Are there any benefits to using the Panasonic Oxyride batteries on a UHF-R wireless system, as apposed to using standard alkaline batteries?
+
+
+Answer:
+
+	We tested the Panasonic Oxyride batteries in the UR1 bodypack to see if they delivered any longer lifetime than the standard Duracell AA Procells. The result was about the same lifetime but different discharge curves (the Oxyrides start out at 1.7V vs. the 1.5V of the Procells). The different discharge curves will make the battery indicator show incorrect battery status. The battery could die quickly even though the battery indicator showed good battery strength.
+	
+	We believe since the voltage and discharge curves are different than alkaline, the benefits may be seen in tests that are more cyclic in power use like MP3s or cameras that are turned on and off over time. These tests were done on continuous use of the UR1 and thus we did not see any significant improvement over alkalines.
+

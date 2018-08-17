@@ -1,0 +1,21 @@
+Title: Presence 1200HRS Phono Cartridge
+Id: 3918
+Legacy Id: 4165
+
+Question:
+I have a Shure Presence 1200HRS Phono Cartridge. Although the coils are dead, the stylus appears to be brand new. I'm having trouble determining which other Shure cartridge bodies the stylus might work with. It looks identical to the stylus for my V15 TypeVMR. I also have a V15RS and a M97xE.Is it acceptable for either of these?
+
+
+Answer:
+
+	Presence 1200 HRS was the same as the ME97HE.The replacement styli were NE97HE and N111HE.
+	
+	The N111HE stylus does fit the M97xE body.
+	
+	The M111HE stylus does NOT fit the V15V-MR body.
+	
+	I do not have a sample of the V15RS, so I cannot test the fit.
+	
+	Therefore, your Presence 1200RS stylus will fit the M97xE body.
+	
+

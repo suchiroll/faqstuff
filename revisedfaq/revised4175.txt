@@ -1,0 +1,22 @@
+Title: Headphone audio output to Wireless Bodypack
+Id: 4175
+Legacy Id: 5122
+
+Question:
+I want to connect the headphone output of my MP3 player or my laptop computerinto a Shure bodypack transmitter that has a T4M connector. Where can I get a cable like this?
+
+
+Answer:
+
+	As of August 2012, acustom 3.5mm (1/8) TRS plug to TA4F cable is offered by T.C. Furlong Pro Audio: www.tcfurlong.com- Phone: 847-367-9588
+	
+	The cable is available with straight or right-angle plugs, and in custom lengths up to 6. A stereo version for sending signal into two wireless beltpacks is also available.
+	
+	This custom cable allows audio to be sent from an iPhone, iPad, or other 3.5mm (1/8) headphone jack to a Shure wireless bodypack transmitter with a TA4M connector, such as UR1, UR1M, ULXD1, ULX1, SLX1, and others. The cable sums the stereo signal to mono and provides the necessary circuitry for the bodypack transmitter to receive the audio signal.
+	
+	T.C. Furlong employs this cable for walk-testing wireless microphone coverage as it is easier to play music through the transmitter than to continually talk through a microphone. The cable is also used with iPhone or iPad music apps for live performance without wires.
+	
+	Roth Sound (989-779-8828) also offers a 3.5mm to TA4F cable available at: http://www.rothsound.com/ikenny-kable-3-5mm-to-ta4f-shure-bodypack-transmitters-p-508
+	
+	NOTE: To avoid distortion when using this cable, it is necessary to set the headphone volumecontrol at a very low level. It may also be necessary to reduce the input gain setting on the body pack transmitter.
+

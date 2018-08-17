@@ -1,0 +1,12 @@
+Title: KSM44 vs. KSM27
+Id: 2497
+Legacy Id: 2592
+
+Question:
+I already own a KSM44 and I love it!! I was wondering if the KSM27 has the same sound just without the extra features, ie. the omni and figure 8 settings. I have read that the KSM32 has a different, more neutral sound but I havn't read any comparisons between the 44 and 27. Thanks for making such a great mic.
+
+
+Answer:
+
+	The KSM 27 cartridge is based on the KSM44, but does not include the rear portion where the second diaphragm of the KSM44 is located. The KSM27 is tuned for a brighter sound, and does not have the better pop protection of the KSM44 dual diaphragm scheme. The KSM27 proximity effect is also different, being a single diaphragm cartridge.
+

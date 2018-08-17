@@ -1,0 +1,12 @@
+Title: RPM626 improved headroom
+Id: 4100
+Legacy Id: 4735
+
+Question:
+When was the performance of the RPM626 improved? What changed? How is the improved RPM626 identified?
+
+
+Answer:
+
+	In the spring of 2012, a running change was made to the RPM626 inline preamp - the headroom was increased by 6 dB. The improved preamp design can be identified by a blue dot between the words SHURE and BETA printed on the RPM626 exterior.
+

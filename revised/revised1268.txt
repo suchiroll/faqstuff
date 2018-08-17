@@ -1,0 +1,14 @@
+Title: What is the CM18D mic?
+Id: 1268
+Legacy Id: 1315
+
+Question:
+I have a Shure Microphone that I need a data sheet and wiring diagram on. It is a Model CM18D.
+
+
+Answer:
+
+	The model number CM18D is not used in the Shure line. Your mic was probably made by Shure for another company to sell as part of their product. It may be a variation of the 488T.
+	
+	If the 488T does not resemble the CM18D, send us a photo of your mic. We will try to match it to the closest Shure model.
+

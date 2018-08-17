@@ -1,0 +1,15 @@
+Title: Headset Microphone for wireless
+Id: 1768
+Legacy Id: 1828
+
+Question:
+I own one of your Shure wireless microphones. The unit came with a behind the head, over the ears headset with a 1/4" jack. I have used this headset for a good while now and still don't like the feel of it. I would like to try an over the head style of headset. Can you suggest which of your products would work well for this unit?
+
+
+
+Answer:
+
+	Check out the SM10A microphone. The headband goes over the top of the head.
+	
+	The SM10A XLR mic connector must be removed and replaced with a 1/4 male phone plug in order to connect the SM10A to your wireless transmitter. This is a simple procedure for any electronics technician.
+

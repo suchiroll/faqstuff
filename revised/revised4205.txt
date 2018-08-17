@@ -1,0 +1,22 @@
+Title: SE215LTD-EFS
+Id: 4205
+Legacy Id: 5172
+
+Question:
+Please provide details about the special edition of the SE215 - the SE215LTD-EFS.
+
+
+Answer:
+
+	Introduced in the autumn of 2012, the SE215LTD is variation of the standard SE215.
+	
+	SE215LTD differences
+	Case color: Blue
+	Cable length: 46 inches
+	Sound signature: Slightly warmer, minor boost in the low frequency response.
+	Accessories: same as SE215
+	
+	Model number for the United States: SE215LTD-EFS
+	Model numbers for Asia: SE215SPE-A; SE215SPE-CHN
+	
+

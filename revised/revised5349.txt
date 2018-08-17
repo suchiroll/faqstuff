@@ -1,0 +1,15 @@
+Title: What is the difference between interference avoidance and frequency diversity?
+Id: 5349
+Legacy Id: 4121
+
+Question:
+What is the difference between interference avoidance and frequency diversity?
+
+Answer:
+
+	These are two different features, both help protect against unpredictable RF environment.They can be used separately or together.
+	
+	Interference Avoidance is about moving the RF signal from a bad frequency to a good one.It can be manual or automatic.
+	
+	Frequency Diversity is about using two RF signals for the ultimate security on the most critical mics.There is no interruption, but the trade off is using two frequencies and both sides of a receiver.It always works automatically.
+

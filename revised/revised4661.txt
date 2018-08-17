@@ -1,0 +1,27 @@
+Title: A27M and RPM642 - assembly instructions
+Id: 4661
+Legacy Id: 5826
+
+Question:
+I'm not sure of the order of the washers for reassembling the A27M mount. There is a metal concave washer and a plastic flat washer, and it seems like I have them in wrong, as the knob doesn't quite get it tight enough.
+
+
+Answer:
+
+	Here is the assembly order, from left to right:
+	
+	Bolt with black plastic wing knob - inserts into mic stand portion.
+	
+	Inside of mic stand portion is metal washer.
+	
+	Next is split metal ring that holds the elastic bands.
+	
+	Next is plastic washer.
+	
+	Final is shoulder nut that fastens to the wing knob bolt.
+	
+	Large screwdriver is required to hold the shoulder nut while the bolt is fastened tightly.This is imperative or the shoulder nut will not seat fully and the mount will not hold tight.
+	
+	
+	
+

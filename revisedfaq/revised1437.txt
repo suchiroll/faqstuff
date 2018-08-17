@@ -1,0 +1,18 @@
+Title: Mic suitable for radio voiceover
+Id: 1437
+Legacy Id: 1490
+
+Question:
+I have an unusual request from Radio New Zealand for a dynamic microphone suitable for recording voice for news that will not pick up radiation from the computer monitor on the recording suite.
+ 
+   1)       They like using an SM58 because of the sound and the pickup pattern
+   2)       The SM63’s they use for field recording don’t have the hum pick up problem in the new suite but of course they are omni
+   3)       Would one of the 5—series be suitable? 515 545D or 565?
+   4)       Otherwise  going to a condenser Beta 87A
+
+Answer:
+
+	The SM7B has a humbucking coil and is relatively impervious to hum fields for a dynamic mic. Try this model first.
+	
+	If the hum field is too strong for the SM7B, we suggest moving to a condensor: KSM32; SM81 with A81WS windscreen; Beta 87C.
+

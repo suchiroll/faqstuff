@@ -1,0 +1,18 @@
+Title: Voice too quiet when using Shure headset
+Id: 3331
+Legacy Id: 3508
+
+Question:
+When I am using my Shure QuietSpot boom headset (QSHB3) I have had several people complain that my voice sounds too quiet, even when I a speaking loudly directly into the microphone. Is there any way to adjust the mic volume? I am using the headset via a EMU adapter for a Motorola phone.
+
+
+
+Answer:
+
+	Please make sure the boom is facing the correct way. The waves on the mic need to face in and be as close to your mouth as possible. If the mic is turned 90 degrees where its facing up and down instead of towards your mouth you and out it will lose more than half the volume.
+	
+	Also the QSHB3 should have only 2 black rings on the connector jack. If you have 3 black rings you have the QSHB4 which is not compatible with most phones now (only some older Nokia phones). That 3rd ring will cause the mic to short out when plugged into a non compatible phone. If you have a QSHB4 and need a QSHB3 please check with the retailer you purchased it through for their return policy.
+	If it was purchased from www.shure.com we offer a 30 day money back guarantee. Please contact us for an RMA for that purchase.
+	
+	Please try the QSHB3 in another phone without the adapter and see if you yield the same results. That way we can eliminate the adapter from the equation. If you are still having problems please to send it in for warranty repair.
+

@@ -1,0 +1,19 @@
+Title: MX391 mic for Intel TeamStation
+Id: 2312
+Legacy Id: 2398
+
+Question:
+How is the Shure MX391 microphone wired for the Intel Team Station?
+
+
+Answer:
+
+	MX391 Variation for Intel TeamStation
+	
+	1. Does not include in-line preamp
+	
+	2. Switchcraft TA4F connector replaced by Switchcraft TA3F. The TA3F may be purchased at www.mouser.com
+	
+	3. TA3F wired as follows: Pin 1 - shield; pin 2 - bias (red wire); pin 3 - audio (black wire)
+	
+	4. Input on Intel TeamStation provides +5V bias to operate MX391 FET.

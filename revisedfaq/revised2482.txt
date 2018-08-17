@@ -1,0 +1,12 @@
+Title: What is the 'attack' of a microphone?
+Id: 2482
+Legacy Id: 2577
+
+Question:
+On the spec sheet for the SM57, you use the term "attack" to describe tone quality. Could you please give me an explanation.
+
+
+Answer:
+
+	Attack refers to the transient response of the mic. There is no better way to explain the sound, but you can read about transient response in the booklet about Studio Recording: DFR22 High Frequency Noise Floor
+

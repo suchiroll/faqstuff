@@ -1,0 +1,14 @@
+Title: Stylus Microscope
+Id: 692
+Legacy Id: 709
+
+Question:
+At one time, Shure furnished a stylus microscope to dealers. Do you still have any for sale in new/or used condition. In the alternative, can you advise if you have a dealer that has one they would sell?
+
+
+Answer:
+
+	We do not have inventory of the MKE-1 or MKE-2 stylus evaluation kits.
+	
+	The microscope that came with the stylus evaluation kits was a model M240, manufactured by Swift Instruments.
+

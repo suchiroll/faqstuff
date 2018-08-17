@@ -1,0 +1,11 @@
+Title: UR4D, QLXD, ULXD WWB and different subnets
+Id: 3756
+Legacy Id: 3992
+
+Question:
+I have a new UR4 system that we will be installing at our football stadium. Three of the receivers will be on the local network in our broadcast booth, so WWB will have no problem seeing them. Another UR4D will be located in a different area of the stadium, on a different subnet. This receiver will be locked inside an A/V closet and very difficult to access during a game - so we really need remote access in case we need to change frequencies, or even to check signal quality. How can I add this system to WWB?
+
+
+Answer:
+
+	Sorry for the bad news:  Wireless Workbench only works for receivers on the same subnet.

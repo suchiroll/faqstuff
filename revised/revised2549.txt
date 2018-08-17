@@ -1,0 +1,17 @@
+Title: Attenuation a Loudspeaker level to Line level
+Id: 2549
+Legacy Id: 2647
+
+Question:
+Is there such an accessory that will cut the frequency of a speaker signal to a line, mic, or aux level so that I can input it into the PSM Mixer. If so what is it and where can I get it?
+
+
+This accessory would be ideal in situations when I need a vocal signal from the main board, but all I have access to is a speaker level input.
+
+
+Answer:
+
+	http://www.asl-inter.com
+	
+	http://www.whirlwindusa.com
+

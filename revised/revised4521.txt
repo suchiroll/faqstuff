@@ -1,0 +1,13 @@
+Title: DDS 5900 Mode of Failure
+Id: 4521
+Legacy Id: 5639
+
+Question:
+I had a question or two about the DDS 5900 Digital Discussion System by Shure. I understand that you "Daisy Chain" the microphones together and send the signal back to a main hub? We have a conference room where we would like to have in-room sound reinforcement with a system such as this and we would also like to tie it into a video conferencing system. If one of the links in the chain fails (Microphone) will that cause an issue with the others?
+
+Answer:
+
+	The DDS 5900 series units daisy-chain using shielded Cat5e cable and communicate through a proprietary communication protocol called DCS-LAN.Both power and data are sent through this chain.
+	
+	Each delegate unit is comprised of two main pieces.A special DIS gooseneck mic plugs into a DC 5980 P table-top portable unit or a DC 5900 F flush mount unit. In general, if a delegate unit (DC 5980 P or DC 5900 F) fails, it can affect one or more units throughout that DCS-LAN chain.If only the removable DIS gooseneck mic fails, though, the rest of the system should be fine.
+

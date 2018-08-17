@@ -1,0 +1,15 @@
+Title: SM98 convert to wireless system
+Id: 191
+Legacy Id: 192
+
+Question:
+I have an SM98 wired sax mic and would like to convert to your wireless system. How would I go about doing that?
+
+Answer:
+
+	Purchase any Shure wireless system with a 4 pin Tini QG male input connector. All Shure systems can be purchased without a microphone, so you do not need to purchase another mic with the wireless.
+	
+	Use your SM98 microphone, but not the preamp that came with the SM98. If your SM98 has a cable with a 4 pin Tini QG female connector on the preamp end, simply plug it into the wireless transmitter.
+	
+	If your SM98 cable has a 3 pin Tini QG female connector on the preamp end, you will need a new cable for connection to the transmitter. That cable is Shure part 90A4039. It can be ordered by your Shure dealer or you can buy it directly from Shure as a replacement part. In the U.S., call 800-257-4873 to purchase the cable directly from Shure. The wireless system, however, must be purchased from a Shure dealer.
+

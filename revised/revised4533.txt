@@ -1,0 +1,25 @@
+Title: Extend DIS gooseneck mic using XLR cable?
+Id: 4533
+Legacy Id: 5652
+
+Question:
+Can I connect a DIS gooseneck microphone to a DIS chairman/delegate unit using a standard XLR microphone cable?
+
+Answer:
+
+	Although the DIS microphones are equipped with standard 3-pin XLR connectors, the wiring is not the usual standard for balanced microphones because of the light-ring function built-in to the microphone.For audio-only function, a standard XLR microphone cable can be used with no modification, but the light-ring will not illuminate.
+	
+	The wiring scheme of the DIS microphone uses the shell of the XLR connection to provide a DC voltage to illuminate the light-ring.Unbalanced audio is present on Pin 2 and audio ground is on Pin 1.Pin 3 is connected to the shell at the XLR connector in the chairman/delegate unit and the light-ring DC voltage is provided at the same point.Likewise, the light-ring voltage is picked up on the shell of the XLR connector on the microphone itself.There is no conductor connected to Pin 3 in this scheme.
+	
+	
+	
+	In order to enable the light-ring function a modification to the wiring at each end of the XLR cable is required.
+	
+	Specifically, it is necessary to make a connection from Pin 3 to the shell of the XLR at each end of the microphone cable.This can be accomplished by soldering a small jumper from the Pin 3 terminal to the shell terminal in each XLR connector.Take care not to allow the jumper to contact any other wires or terminals in the connector.
+	
+	This allows the unused conductor (connected to Pin 3 at each end) in a shielded two-conductor microphone cable to carry the DC voltage for the light-ring.
+	
+	Note that once a microphone cable is modified in this way it should no longer be used as a standard microphone cable.This is because the Pin 3 signal (the cold or - side of the balanced signal) is now exposed on the connector shells at each end of the cable.If the shell makes contact with ground at either end of the cable, the audio signal will become unbalanced and will likely create a ground loop that may cause hum or other noise to appear.
+	
+	In addition, if phantom power is present, it will be partially shorted to ground.Though no damage will occur, the audio signal of a condenser microphone may be severely compromised when connected in this way.
+

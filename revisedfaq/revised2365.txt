@@ -1,0 +1,14 @@
+Title: Specified static compliance of M97xE and M44-7 cartridges
+Id: 2365
+Legacy Id: 2456
+
+Question:
+What is the compliance of the M97xE and the M44-7 cartridges?
+
+Answer:
+
+	The static compliance for the M97xE:
+	0.000025 centimeter per dyne of force
+	
+	The static compliance for the M44-7:
+	0.000020 centimeter per dyne of force

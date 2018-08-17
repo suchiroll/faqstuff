@@ -1,0 +1,16 @@
+Title: KSE1500 and SE846 Correlation to Original Input Signal
+Id: 5018
+Legacy Id: 6310
+
+Question:
+Please comment about the correlation figure demonstrated by the KSE1500 system compared to the SE846 system mentioned in an earphone webinar.
+
+
+Answer:
+
+	This graph shown in the webinaris difficult to explain, but in a nutshell, the x axis is time and the y axis is correlation. The baseline measurement represents an autocorrelation of the electrical audio signal correlated to itself. The KSE1500 graphic is that same audio signal reproduced through the KSE1500 and then correlated to the original audio signal. The Third line  is the same audio signal reproduced bythe multi-BA driver earphone and correlated against the original audio signal.
+	
+	The attempt of this exercise was to represent the Electrostatic transducers incredibly fast transient response when compared to top of the line earphones.The SE846 is one of the markets most popular earphones and certainly does not leave anyone wanting for audio quality.However, one major benefit of Electrostatic technology is the speed of the diaphragm due to its miniscule mass.Hence this measurement.
+	
+	There is no industry standard test to measure transient response  but Shure engineers found a method to represent it in graphic depiction.This measurement was done at Shure with our specialized measurement gear.We cannot say how any other particular earphone systems would measure because any two measurement systems would require a high level of calibration to produce the same results.Therefore these graphic representations can only really be used in reference to each other.SoShure can show the difference of the KSE1500 vs the original electrical signal, and the SE846vs the original signal. Other earphones were not tested.
+

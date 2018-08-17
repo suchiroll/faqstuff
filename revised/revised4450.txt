@@ -1,0 +1,38 @@
+Title: Three essential tools for troubleshooting an audio system
+Id: 4450
+Legacy Id: 5551
+
+Question:
+What are three essential tools for troubleshooting an audio system?
+
+
+Answer:
+
+	Here are Shures recommendations:
+	
+	1)Set of quality headphones.Also, a headphone amp is very useful.
+	
+	2)Volt-Ohm-Amp Meter, also called a Multi-meter
+	
+	3)Dynamic microphone, such as the Shure 565SD, an XLR-XLR cable, and a low-to-high impedance transformer.
+	
+	
+	I - Headphones provide a reliable method to assess the audio quality throughout the signal chain.Note that certain Shure products, such as the SCM810, the SCM820, the UR4+ receiver, and the MXW-ANI, have a front panel headphone jack.Yet none of these products are typically used with headphones on a regular basis.Then why is a headphone jack supplied?It is an audio quality test point.The sound engineer can connect headphones and access the quality of the audio signal leaving that Shure product.If the audio sounds OK, then the problem lies downstream of the Shure product.
+
+	What if a Shure product does not have a headphone jack?If the product has a line level output, there is a simple electronic circuit that can be fabricated to hear the line level signal via headphones:http://www.shure.com/americas/support/find-an-answer/how-can-i-monitor-a-line-level-signal-with-headphones
+
+	Or obtain a battery operated headphone amplifier, such as offered by Whirlwind or other manufacturers, and use it to monitor the audio signal at any point in the signal chain.The discontinued Shure FP12 or Shure FP22 will also provide this monitoring function.
+	
+	Determining where the problem first appears in the signal chain should be the first task in effective troubleshooting.Start at the microphone end of the sound system and listen with the headphone amp at the output of each component - methodically working toward the power amplifier.
+
+	II - A Volt-Ohm-Amp Meter provides a method to check multiple aspects of a sound system. The meter can test a cable for a short circuit or for an open circuit. The meter can check for the presence of phantom power. The meter can test a power supply to ascertain that the proper voltage and the proper current are being supplied. The meter can assess if an audio connector is properly soldered or if a wire is properly fastened to a screw terminal.
+
+	III - A Dynamic Microphone is useful for testing a variety of inputs.If a mic input works with a dynamic mic, but not with a condenser mic, it is likely that phantom power is not activated or does not exist on the microphone mixer.If an audio input does not provide a sufficient signal level when connected to a wireless mic receiver, substitute the dynamic mic for the receiver.If the results are the same, the audio input required a line level signal, not a mic level signal.Though high- impedance mic inputs are rare in modern sound systems, they are still found in sound systems from the 1960s and 1970s.Checking a high-impedance mic input is as simple as adding the A95UF transformer to the end of the XLR cable.
+	
+	Bottom Line: Without Headphones, a Volt-Ohm-Amp Meter, and a Dynamic Microphone, it is extremely difficult to troubleshoot a sound system.
+	
+	Additional recommended troubleshooting tools:
+	1) Flashlight with fresh batteries to inspect wiring in the back of equipment racks.
+	2) Tone generator such as the Shure A15TG or Whirlwind DCT-9.
+	3) User Guides, Set-Up Guides, Operational Guides, et al.
+

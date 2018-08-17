@@ -1,0 +1,14 @@
+Title: TA4F connection for Shure and Telex?
+Id: 2381
+Legacy Id: 2472
+
+Question:
+I have a Telex receiver and transmitter with TA4F connectors, but a Shure headset mic to TA4F and a Shure 1/4" to TA4F that don't work with the receiver/transmitter; any ideas why?
+
+
+Answer:
+
+	On Shure transmitters, pin 2 is bias and pin 3 is audio.
+
+	On Telex transmitters, pin 2 is audio and pin 3 is bias.
+

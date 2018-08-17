@@ -1,0 +1,36 @@
+Title: SM57 and bias power
+Id: 2578
+Legacy Id: 2677
+
+Question:
+I've read that dynamic mics don't like bias power. I've also read that the SM57 will "ignore" phantom power.
+
+I know that phantom power and bias power aren't the same thing, so my question is, will the SM57 also "ignore" bias power?
+
+If not, where can I get the required hardware to block the bias power?
+
+
+Answer:
+
+	I've read that dynamic mics don't like bias power.
+	* Correct. This is because bias is provided via an unbalanced circuit.
+	
+	I've also read that the SM57 will "ignore" phantom power.
+	* Correct.
+	
+	I know that phantom power and bias power aren't the same thing,
+	* Correct.
+	
+	so my question is, will the SM57 also "ignore" bias power?
+	* No, it will not ignore it.
+	
+	If not, where can I get the required hardware to block the bias power?
+	* Blocking the bias is typically done via a capacitor. The size and position of the capacitor depends on the bias circuit. Here is a typical bias blocking circuit:
+	
+	Assumptions:
+	SM57 pin 2 to tip of phone jack; tip also contains 5 volts of bias.
+	SM57 pin 3 and pin 1 to sleeve of phone jack.
+	
+	To block bias:
+	Place a capacitor in series with the SM57 pin 2. This will pass audio but block the DC bias.
+	Value of the capacitor: 10 microfarads; rated at 16 WVDC; the negative end of the capacitor connects to the SM57.

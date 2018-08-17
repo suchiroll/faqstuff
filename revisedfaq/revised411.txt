@@ -1,0 +1,13 @@
+Title: Marching band recording
+Id: 411
+Legacy Id: 418
+
+Question:
+What microphone(s) would you recommend and how would you place them in order to record a marching band competition on a football field. This is a 3 camera video shoot. Also what format would you record in if you are planning to burn it to CD at a later date? (beta,DAT,...)
+
+Answer:
+
+	The link below describes mic placement for a marching band field competition. As for format, wed use a digital multitrack and mix in post-production, but DAT would certainly be fine for a two track recording.
+	
+	Mic placement for marching band: Mic placement for marching band
+

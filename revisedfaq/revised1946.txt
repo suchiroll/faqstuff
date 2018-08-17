@@ -1,0 +1,13 @@
+Title: PSM700 Frequency Chart
+Id: 1946
+Legacy Id: 2009
+
+Question:
+I am using a PSM700 system on a long term rental. We use it as an IFB for our field reporter during football game broadcasts. As such we use it in conjunction with other wireless products and in the presence of many other groups using wireless as well. The problem is I can't find a frequency list for this unit (example: Group 1, channel 1 = xxx.xxx mHz, etc). Is there a list that you can post or e-mail me?
+
+
+Answer:
+
+	You can go to this address:
+	http://216.64.193.140/wireless/frequency/compatibility_charts.asp
+

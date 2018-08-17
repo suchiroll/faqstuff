@@ -1,0 +1,12 @@
+Title: Rackmounting my ULXS4
+Id: 2509
+Legacy Id: 2605
+
+Question:
+I just purchased a ULXS4 receiver and I need to rackmount it. I see there is a single-unit rackmount kit available. Can I front-mount the antennas with this kit as well?
+
+
+Answer:
+
+	Rack mount it using the UA506 kit. Bring the antennas to the front with the UA600 kit.
+

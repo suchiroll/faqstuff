@@ -1,0 +1,18 @@
+Title: A25E Gray and A25E Black
+Id: 4620
+Legacy Id: 5779
+
+Question:
+When was the A25E changed from gray to black?
+
+
+Answer:
+
+	This change occurred in March 2015.The model number did not change.
+	
+	The A25E was originally gray plastic with a brass-color metal threaded insert at the bottom.
+	
+	The new A25E is black plastic with a silver-colormetal threaded insertat the bottom.
+	
+	The plastic material used is more flexible than the material used in the A25D. The A25E is typically used for KSM handheld wired mics.
+

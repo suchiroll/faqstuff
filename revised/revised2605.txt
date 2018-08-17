@@ -1,0 +1,14 @@
+Title: FP33 Tape Out Isolation
+Id: 2605
+Legacy Id: 2706
+
+Question:
+Is the Tape Out tied to the Main Outputs in any way or are they isolated?
+
+i.e. If I take the Stereo Tape Out and tie the left & right together, external the mixer, to make a mono feed, will it affect the Main XLR Outputs of the Mixer. (I know the Tape out can be made mono with internal modifications, but do not want that option)
+
+
+Answer:
+
+	The tape out is resistively isolated from the main outs. Making the tape out a mono feed will not affect the FP33 main outs.
+

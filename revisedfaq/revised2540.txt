@@ -1,0 +1,12 @@
+Title: Stylus for RXP3
+Id: 2540
+Legacy Id: 2637
+
+Question:
+We have a Thorens T D 165 using a Shure RXP3 cartridge. What do you recommend?
+
+
+Answer:
+
+	The N104E stylus fits the RXP3 cartridge. Or upgrade to the Shure M97xE cartridge.
+

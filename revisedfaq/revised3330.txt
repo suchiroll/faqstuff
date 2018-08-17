@@ -1,0 +1,65 @@
+Title: Shure Stylus Suffix List and Definitions
+Id: 3330
+Legacy Id: 3507
+
+Question:
+Please provide a list of common stylus suffixes and the meaning of each.
+
+
+Answer:
+
+	Since the 1930s, Shure has manufactured many types of phono styli. Stylus model numbers often had a mysterious suffix. Here is a list of the common suffixes, and the meaning of each. NOTE: We have not been 100% consistent in using these suffixes. Please let us know if you find a new one or a different definition than listed below.
+	
+	
+	Shure Stylus Suffix Designations
+	
+	B
+	1.5 to 3.0 grams tracking weight; .0006 inch spherical tip; bushing tip mount
+	
+	C
+	3.0 to 5.0 grams tracking weight; .0006 inch spherical tip; bushing tip mount
+	
+	E
+	0.75 to 1.5 grams tracking weight; .0002 x .0007 inch elliptical tip; bushing tip mount
+	
+	ECS
+	2.0 to 4.0 grams tracking weight; .0004 x .0007 inch elliptical tip; bushing tip mount
+	
+	ED
+	0.75 to 1.5 grams tracking weight; .0002 x .0007 inch elliptical tip; nude tip mount (no bushing)
+	
+	EJ
+	1.5 to 3.0 grams tracking weight; .0004 x .0007 inch elliptical tip; bushing tip mount
+	
+	G
+	0.75 to 1.5 grams tracking weight; .0006 inch spherical tip; bushing tip mount
+	
+	GD
+	0.75 to 1.5 grams tracking weight; .0006 inch spherical tip; nude tip mount (no bushing)
+	
+	H
+	1.0 to 1.5 grams tracking weight; .0003 x .0007 hyperbolic tip; nude tip mount (no bushing)
+	
+	HE
+	0.75 to 1.5 grams tracking weight; .0002 x .0015 hyper-elliptical tip; nude tip mount (no bushing)
+	
+	HEJ
+	1.5 to 3.0 grams tracking weight; .0006 x .0015 hyper-elliptical tip; bushing tip mount
+	
+	-1
+	1.5 to 3.0 grams tracking weight; .0010 inch spherical tip; bushing tip mount
+	
+	-3
+	1.5 to 3.0 grams tracking weight; .0025 inch spherical tip; bushing tip mount; for 78 RPM records
+	
+	-6
+	1.5 to 3.0 grams tracking weight; .0006 inch spherical tip; bushing tip mount
+	
+	-7
+	1.5 to 3.0 grams tracking weight; .0007 inch spherical tip; bushing tip mount
+	
+	
+	* Nude tip mount: diamond stylus tip is affixed directly into a hole in the stylus shank. More complex for manufacturing, but keeps the stylus mass minimized.
+	
+	** Bushing, or bonded,tip mount: diamond stylus tip is affixed (bonded)to a bushing. This two-piece combination is affixed to the stylus shank. Simpler for manufacturing, but adds some mass to the stylus assembly.
+

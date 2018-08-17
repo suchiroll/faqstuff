@@ -1,0 +1,40 @@
+Title: Vocal mic for singing drummer/Maximum isolation
+Id: 1716
+Legacy Id: 1775
+
+Question:
+I am looking for a good vocal mic and I am a drummer. I am currently using a standard Shure SM58 which sounds good, but it picks up too much of the kit
+
+and surrounding stage sounds/noises.
+
+
+1) I have heard that the Shure Beta 87 Hypercardioid is a great mic, but I am wondering if it will isolate any better than a standard SM58.
+
+
+2) There are two versions of the Beta 87, which would work better for me?
+
+
+3) Also, the Beta 87 is a bit longer of a mic and this can be troublesome for drummers constantly trying to keep the mic out of the way of flailing drumsticks. I use a 90 degree plug on my mic cord to keep the mic as unobtrusive as possible. The Beta 56 would be the perfect size because it is the smallest, but it was designed for snare drums...would this mic work?
+
+
+4) Is it possible to have the Beta 87 capsule put into the Beta 56 casing? That would be ideal...
+
+
+5) Do you ever do custom jobs for the gigging musician?
+
+
+The whole band uses PSM in-ear systems and we are trying to clean up the mix a bit, but the SM58 just picks up too much of my kit and it drowns out the awesome sound I am getting from my Beta 98s on the toms. I sing lead on 1/3 of the tunes and back-ups on just about every tune, so the mic is on all the time. My SM58 has the switch on it which I actively turn off when not singing, but this is a pain in the butt and occasionally, I forget to turn it back on. Any suggestions would be greatly appreciated. Thanks.
+
+
+Answer:
+
+	1) The Beta 87A is a supercardioid, not a hypercardioid. If most of the leakage into the SM58 originates from the sides of the mic, the Beta 87A will likely work somewhat better.
+	
+	2) The Beta 87A which is a supercardioid. The Beta 87C is a cardioid, like the SM58.
+	
+	3) It also is a supercardioid and is just fine for vocals.
+	
+	4) This is not possible.
+	
+	5) Sorry, no. Just like Ford doesnt build custom cars.
+

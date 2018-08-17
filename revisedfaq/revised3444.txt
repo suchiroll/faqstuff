@@ -1,0 +1,38 @@
+Title: How should I prepare before I call Shure Applications Engineering for assistance?
+Id: 3444
+Legacy Id: 3636
+
+Question:
+When I call Shure Applications Engineering about a technical issue, how should I prepare and what should I do to help solve my situation quickly?
+
+
+Answer:
+
+	
+	Consult the User Guide before calling. The solutions to many common problems can often be found in the User Guide.
+	
+	Consult the online FAQ.  It contains over 3,500 questions and answers that are searchable using key words.
+	
+	If you call using a cell phone and the connection is unreliable, the Applications Engineer may request that you call back, either from another location or from a landline. If the cell phone signal drops in and out, critical information may be lost. And please, please do not call when you are driving.
+	
+	Have as much specific information about the issue as possible.  This includes full and complete model numbers, operating frequencies (for wireless systems), types of connections, when and where the issue occurs, etc. The more complete the information you provide, the more effective the Applications Engineer will be in assisting you.
+	
+	If at all possible, have the product in question in front of you.
+	
+	Provide information on how long you have owned the product and if it ever operated properly.
+	
+	Be prepared to take notes.  Have pen and paper nearby to write down the recommendations and advice you are given.
+	
+	You will likely be asked many questions as the Applications Engineer constructs a mental picture of your issue. Please be patient. Though you may be familiar with the issue, the Applications Engineer is hearing about your issue for the first time and is handicapped because she/he is not at your location to hear the issue in person.
+	
+	Speak up if the Applications Engineer is talking too fast or using unfamiliar terms. But understand that certain technical terms may be the only way to describe the solution to an issue.
+	
+	Follow the directions given by the Applications Engineer even if you don't completely understand why, and even if you are certain that you have "already tried that."
+	
+	The simplest suggestion is often the quickest solution. Though it may seem elementary, be willing to try different cables, new batteries, and different product substitutions.  The majority of problems with sound systems can be traced back to cables and connectors.
+	
+	Unfortunately, some issues can only be resolved by returning the product to Shure Service for examination and repair. Makeshift "field solutions" are not always available or recommended. Many Shure products do not have user-serviceable parts.
+
+
+	For Shure customers outside of the United States: Shure has offices worldwide. We recommend that you first contact the Shure office, representative, or agent closest to you. The laws and regulations that govern which Shure products are available in your region vary from country to country. The local Shure office will be familiar with your region's laws and regulations.
+

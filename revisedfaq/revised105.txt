@@ -1,0 +1,23 @@
+Title: Will I overload a condenser microphone with my voice?
+Id: 105
+Legacy Id: 105
+
+Question:
+I'm a classically trained singer (dramatic tenor) with a really loud singing voice (I sing all types of music: from rock to classical to ballads)
+
+I need a microphone for live and studio. I was thinking of either a BETA58 or one of the BETA87 models. Would the BETA87s distort because of my loud voice (because it's a condenser microphone and I understand that a condenser mic can't take to much volume - is this true)? Is the BETA87 good for studio?
+
+What do you recommend: the BETA58 or the BETA87 ( or even a BETA57)?
+
+
+
+Answer:
+
+	The maximum SPL level is not a concern when dealing with the human voice. The BETA87A has a maximum SPL of 142 dB SPL, and the BETA87C has a maximum SPL of 139 dB SPL. At these SPL levels, your own voice would be dramatically damaging your own ears. This is not happening because the human voice just cannot be that loud.
+	
+	As far as BETA58A vs BETA57A vs one of the BETA87s, that is a personal choice. Listen to each on your voice and see which one you like. The BETA58 and BETA57 have the same dynamic microphone element and will sound very much alike.
+	
+	The BETA87A or BETA87C would be perfectly appropriate in the studio if you like the sound of them.
+	
+	Microphone selection is very subjective. Auditioning is the best way to select the appropriate microphone for your voice.
+

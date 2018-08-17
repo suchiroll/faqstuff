@@ -1,0 +1,14 @@
+Title: SystemOn Language support
+Id: 5022
+Legacy Id: 6314
+
+Question:
+Is SystemOn available in different languages?
+
+
+Answer:
+
+	Yes. SystemOn software is available in multiple languages. Individual users can also change their language preference within their user profile / account as needed.
+	
+	Entitlement emails sent via the Software Portal software.shure.com, and the Software Portal itself are available in English only. Additional languages may be released later, depending on user demands.
+

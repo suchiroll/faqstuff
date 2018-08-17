@@ -1,0 +1,23 @@
+Title: Shure V15 Type V phono cartridge longevity
+Id: 2154
+Legacy Id: 2225
+
+Question:
+What is the usual lifetime of the Shure V15 Type V phono cartridge?
+
+
+I bought a Shure V15 Type V phono cartridge in 1983 and used it occasionally for less than 18 months before packing the turntable into its shipping box and storing it until October 2001.
+
+
+It now distorts terribly whenever their are any hard-edged bass guitar notes in any record it plays. This distortion affects higher pitches that are going on simultaneously in the music, such as voice, drums, and other instruments.
+
+
+I cleaned the stylus with Discwasher's SC-2 system, and in the SC-2 instructions ran across mention of "rubberoid" parts within many cartridges that the SC-2 fluid is designed to not harm. Since I know that rubber can get hard, I tried moving the stylus shank very slightly, and noticed that it seems fairly stiff, and doesn't move freely relative to the cartridge.
+
+
+Answer:
+
+	The body of the cartridge can last over 50 years. The stylus tip will last 500 to 800 hours of playing time. The bushing that supports the stylus is made ofa flexible materialand will harden over time due to the ozone in the atmosphere.
+	
+	Replacing the stylus returns the cartridge to its original condition.
+

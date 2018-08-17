@@ -1,0 +1,16 @@
+Title: Volume Control at the Microphone
+Id: 3271
+Legacy Id: 3426
+
+Question:
+Where can I get an in-line volume control for my Shure SM58?
+
+
+Answer:
+
+	The company Rapco offers the model CVPBLOX volume control. It works at mic level and also has a mute switch. It inserts into the mic cable using XLR connectors.
+	
+	http://www.rapcohorizon.com/p-371-cvpblox.aspx
+	
+	Note: If there is phantom power on your mic cable, this device may induce noise into the mic signal when the volume is adjusted. Check with Rapco about using the CVPBLOX when using phantom power.
+

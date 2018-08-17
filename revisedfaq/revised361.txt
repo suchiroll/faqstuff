@@ -1,0 +1,18 @@
+Title: How do I keep ambient noise out of my microphone?
+Id: 361
+Legacy Id: 368
+
+Question:
+We are looking at purchasing the SM7A for voice over narration recording. We unfortantely have some ambient noise, particularly a distant 60 cycle hum of a neighboring Air Conditioning System. We currently use a Sennhieser MKH 416 Shot gun mic. The background noise it picks up is unacceptable. Will the SM7A have the same issues?
+
+
+Answer:
+
+	Its hard to say, but it will probably have the same issues. It depends completely on the SPL of the noise, how close the talker is to the microphone, and the desired voice to ambient noise ratio.
+	
+	It sounds like you need to attenuate the air conditioner noise and stop it from getting into your room. That might mean an acoustic shield around the air conditioner or it might mean sound isolating your room.
+	
+	Unfortunately, microphones are not smart enough to listen to the air movement you want (the narration) and not listen to the air movement you do not want (the air conditioner).
+	
+	Also, see the following link: Miking a talker in a noisy room - AUDIO DEMO
+

@@ -1,0 +1,12 @@
+Title: DP11EQ Software Download
+Id: 4483
+Legacy Id: 5596
+
+Question:
+Where can I download the software for the DP11EQ?
+
+
+Answer:
+
+	The DP11EQ was discontinued in 2007. Attached below is a zip file that was the latest version of the software for the DP11EQ.
+

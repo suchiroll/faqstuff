@@ -1,0 +1,14 @@
+Title: Angle of Antennas
+Id: 368
+Legacy Id: 375
+
+Question:
+If I have line of sight betweentransmitterand receiver, what angle should my antenna be on a diversity wireless microphone?
+
+
+Answer:
+
+	The receiver antennas should match the angle of the transmitter antenna.
+	
+	If the transmitter antenna angle will vary, the receiver antennas should be positioned like rabbit ears, i.e., a 90 degree angle between the antennas, and a 45 degree angle between each antenna and the floor.
+

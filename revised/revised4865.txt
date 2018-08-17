@@ -1,0 +1,15 @@
+Title: Motiv and Apple Ipad 2 Compatibility
+Id: 4865
+Legacy Id: 6053
+
+Question:
+I am wondering if there is an adapter that can be purchased to allow for the Motiv MV5 to be compatible with the Ipad 2 (30 pin connector / non lightning)?
+
+
+
+Answer:
+
+	The Motiv product team has seen adapters from Lightning to 30-pin for sale. To date, the team has not identified a specific adapter that will allow the Motiv MV5 to work on an older 30-pin Apple device. Many such accessories that use the 30-pin connector have different power requirements than Lightning accessories.
+	
+	Although it is feasible that an adapter would allow the MV5 to power on and connect, the performance of the mic could vary greatly, and thus we can recommend this adapter solution.
+

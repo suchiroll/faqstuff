@@ -1,0 +1,23 @@
+Title: Wiring of vintage Shure mics: 3 or 4 pin Amphenol to XLR
+Id: 1725
+Legacy Id: 1784
+
+Question:
+I was wondering if you folks could help me out? I have some Shure vintage mics. with 3 and 4 pin screw on type connectors. I would like to connect these to an XLR without doing any re-wiring to the mics. themselves. Any tips would be appreciated.
+
+Answer:
+
+	Check out the discontinued product sheets at: User Guides and Spec Sheets
+	
+	Using the information on these sheets, wire to the 3 pin XLR as follows:
+	
+	XLR pin 1 = shield, Amphenol pin 1
+	XLR pin 2 = low impedance audio hot (Amphenol pin 4, white wire, typically)
+	XLR pin 3 = low impedance audio return (Amphenol pin 3, black wire, typically)
+	
+	Note: On the four pin Amphenol, pin 2 is a high impedance, unbalanced output.
+	
+	Or buy pre-made cables for vintage Shure mics from: tomsmics@flexcomp.com
+	
+	Also, search this onlineFind An Answerdatabase using the word amphenol.
+

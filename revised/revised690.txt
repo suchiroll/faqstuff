@@ -1,0 +1,17 @@
+Title: Changing Wireless Frequencies
+Id: 690
+Legacy Id: 707
+
+Question:
+I have a Marcad Diversity/Shure guitar and microphone wireless system that have the same exact frequency (192.200). Can one of these be changed?  I had never tried to use them at the same time before, but when I did, it didn't work. Please help me.
+
+Answer:
+
+	For older single frequency wireless systems, the following company might be able to change the frequency:
+	
+	Delta Audio
+	7054 N Clark St
+	Chicago IL 60626
+	877-764-3634
+	773-764-3634
+

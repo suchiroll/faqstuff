@@ -1,0 +1,12 @@
+Title: Noise or static when using my earphones with my PC loudspeakers
+Id: 3195
+Legacy Id: 3338
+
+Question:
+I occasionally hear noise or static when using my Shure earphones with my PC loudspeakers. Why?
+
+
+Answer:
+
+	Shure has received a small number of comments from customers connecting our earphones to PC loudspeakers. Typically the earphones connect to a headphone jack on one of the loudspeakers, and the loudspeakers connect to the headphone jack on the front or rear of the PC. Connecting the earphones disables the loudspeakers, and the volume control on one of the speakers controls the level of the earphones. In some cases, a buzz or hum is audible in one or both of the earphones. This is likely caused by electronic noise radiated from the computer being picked up by the headphone circuitry inside the speaker. Turning the volume down does not eliminate the buzz, but turning the volume up high may allow the music to obscure it. This may result in uncomfortably high listening levels through the earphones, however. One solution is to use the ShureEA650 Level Attenuator or an equivalent device. This is a small in-line volume control that allows you to turn the speaker volume up high (covering up the noise) and then turn the earphone volume down to a comfortable listening level. The attenuator reduces the level of the buzz along with the music.
+

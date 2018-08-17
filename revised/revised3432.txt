@@ -1,0 +1,15 @@
+Title: Earphones and Heart Rate Monitor
+Id: 3432
+Legacy Id: 3623
+
+Question:
+I hear interference in my earphones from a heart rate monitors. The connection between the cord and headphones is at exactly the same position as the heart rate monitor, so I can hear the signal it emits over top of the music I'm listening to. Comments?
+
+
+Answer:
+
+	Earbuds work on an electro-magnetic principle.   The heart-rate monitor likely produces an electro-magnetic pulse that radiates outward and is picked up by the earbud cable, acting as an antenna.  The pulse is transduced into audible interference by the earbud driver.
+	
+	It is feasible that any earbud will act the same: some will be worse, others will be better.  But as earbuds are electro-magnetic in nature, they will react to an electro-magnetic pulse in an audible manner.
+	
+	Sorry, we do not have a solution to this interaction between the heart-rate monitor and the earbuds.

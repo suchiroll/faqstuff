@@ -1,0 +1,11 @@
+Title: T4N into AUX of general amplifier - very low sound levels
+Id: 734
+Legacy Id: 753
+
+Question:
+When I take the output through a splitter to get into both channels of a regular home amplifier, the sound levels are really low. All the gains are set high, and the audio peak flashes occasionally. Should I be putting it through some pre-amp to use the AUX input?
+
+Answer:
+
+	The T4N has a microphone level output. It must be plugged into a microphone input. To plug the T4N into a hi fi amplifier, you must go through some type of mic-to-line preamp.
+

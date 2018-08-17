@@ -1,0 +1,12 @@
+Title: Purchase headset to go with current wireless system?
+Id: 784
+Legacy Id: 806
+
+Question:
+Could you answer a question for us? If you have the Shure diversity wirelees hand held, and you want a head set also, is it possible to by only the head set? Would the head set work with the receiver from the diversity? Do you have to have two different systems?
+
+
+Answer:
+
+	It is possible to purchase just the headset and bodypack on the same frequency as your current receiver. You would not be able to use both the headset and handheld at the same time. If you need to use both at the same time, then you will need two complete systems on different frequencies.
+

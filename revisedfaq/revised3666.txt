@@ -1,0 +1,12 @@
+Title: Quietspot Discontinued
+Id: 3666
+Legacy Id: 3874
+
+Question:
+Why were the Quietspot headsets discontinued? Is there a replacement for it?
+
+
+Answer:
+
+	The Quietspot was discontinued because cell phone manufacturers constantly change the electrical characteristics and connection configurations of the microphone/earphone jacks.   Shure decided to exit the cell phone headset market due to this lack of standardization. Shure customers were being inconvenience whenever they changed/updated their cell phone, only to discover that the Quietspot did not work as it had before.
+	 

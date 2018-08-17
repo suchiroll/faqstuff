@@ -1,0 +1,11 @@
+Title: Submixer with 4-inputs and 1 out?
+Id: 720
+Legacy Id: 738
+
+Question:
+I used one of these back in the early 80's for miking drums. This would allow me to still control signal strength going to the console without taking up 4 channels. Do you still make this or what do you advise?
+
+Answer:
+
+	Yes, Shure does make such a sub-mixer. Check out the Shure SCM268 mixer.
+

@@ -1,0 +1,16 @@
+Title: MX391/O into a Behringer Feedback Destroyer
+Id: 2298
+Legacy Id: 2383
+
+Question:
+With the MX391/O, and using a feedback destroyer by Behringer, does it go in at mic level or line level?
+
+
+Answer:
+
+	1. The MX391/O provides a mic level output, not a line level output.
+	
+	2. The MX391/O must be connected to a device that provides 11 to 52 volts of phantom power.
+	
+	3. Behringer is a competitor to Shure. It is highly unlikely that its Feedback Destroyer has a mic level input that also provides phantom power. Please check with Behringer.
+

@@ -1,0 +1,12 @@
+Title: I need more inputs than the P4M provides, can I use another mixer
+Id: 1076
+Legacy Id: 1111
+
+Question:
+Can I use a regular mixer instead of P4M Personal Monitor Mixer for In-ear Monitor system? I need more inputs. Is there any reason to use P4M mixer?
+
+
+Answer:
+
+	Another mixer can be used. But multiple P4M mixers can be used to provide more inputs. Check the P4M Mixer user guide for different configurations.
+

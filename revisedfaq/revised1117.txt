@@ -1,0 +1,12 @@
+Title: Need power amp for PSM systems?
+Id: 1117
+Legacy Id: 1153
+
+Question:
+I'm using a small mackie mixer non powered for my sound system. Does the PSM 400 need an additional power amp to power the ear monitor?
+
+
+Answer:
+
+	No, the PSM400 system does not need any power amp. With in-the-ear monitors, you are no longer using a loudspeaker, so a power amp is not needed.
+

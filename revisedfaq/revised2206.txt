@@ -1,0 +1,12 @@
+Title: Impedance of HW505
+Id: 2206
+Legacy Id: 2282
+
+Question:
+What is the output impedance of the HW505?
+
+
+Answer:
+
+	The nominal impedance is 600 ohms. The maximum impedance is 680 ohms.
+

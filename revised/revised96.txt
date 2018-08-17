@@ -1,0 +1,12 @@
+Title: SM58 and an electric shock
+Id: 96
+Legacy Id: 96
+
+Question:
+I have an SM58 that is about a year old. It seems to work fine but I get an electric shock every time I use it and touch it with my lips. I don't use it very often (about 10 times so far) and today I took the time to swap mic cables, switched inputs on the P.A ... trying to find the source of the problem. The only thing that eliminates the shock is using a different SM58 hence I think it's my mic. Any suggestions would be appreciated.
+
+
+Answer:
+
+	You indicated that using another SM58 cures this problem, so well use that as part of the troubleshooting. Our initial guess is that the microphone is not being properly grounded. Either, pin 1 of the XLR is not connecting clear through to the shell of the microphone, or the grill is not making good metal to metal contact with the shell of the microphone. If you have something that will measure resistance, you can check the continuity between pin 1 of the XLR and the shell and grill of the microphone. They should all be electrically connected. If you cant check this, or you cant find the problem, send the microphone to Shure Service department to have our technicians look at it.
+

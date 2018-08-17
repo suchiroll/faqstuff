@@ -1,0 +1,34 @@
+Title: DP11EQ, LED readouts
+Id: 837
+Legacy Id: 860
+
+Question:
+When a unit is activated, does a particular LED light up?
+
+When a low speaker starts speaking, which LED's light up and what happens as the unit reponds?
+
+What happens a loud speaker starts speaking, which LED lights up and then what happens as the unit reponds.
+
+I understand the process that the unit completes but I'm trying to determine if the LED tells me what is happening.
+
+
+Answer:
+
+	The LED action all depends on what features of the DP11EQ you are using.
+	
+	The BYPASS LED lights only when the DP11EQ is in bypass mode.
+	
+	The SIGNAL LED lights (and varies in intensity) when an input signal is present.
+	
+	The CLIP LED lights only when the input signal nears the distortion point.
+	
+	The DYNAMIC GAIN LEDs light only when the signal level is being reduced or boosted. This means at least one of the DP11EQ dynamics processors is being used (limiter, compressor, AGC). If none of the dynamics processors are selected, this string of LEDs will not light up.
+	
+	The DATA LED lights only when the DP11EQ receives data from a computer.
+	
+	The POWER LED lights when the DP11EQ receives AC power.
+	
+	All these functions are described in page 3 of the DP11EQ manual: Overview - Front Panel.
+	
+	Please read the manual carefully. The DP11EQ is a very complicated product and can only be understood by reading the manual.
+

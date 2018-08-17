@@ -1,0 +1,13 @@
+Title: Using the WCE6B or WCE6T as a wired microphone
+Id: 2931
+Legacy Id: 3057
+
+Question:
+How may I use the Countryman WCE6B or WCE6T as a wired microphone? Do I need a preamp?
+
+
+Answer:
+
+	The Countryman WCE6B and WCE6T will operate as a wired microphone, provided that the mic is connected to a Shure MX1BP preamp or the Shure RK183PK preamp.
+	
+	Though the MX1BP has a slightly lower output level than the RK183PK, the MX1BP can operate from phantom power or from an internal 9 volt battery, and has a mute switch.

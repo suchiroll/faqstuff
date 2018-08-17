@@ -1,0 +1,14 @@
+Title: Mic needed for oil rig - sparks from a mic?
+Id: 1553
+Legacy Id: 1607
+
+Question:
+We require a microphone to be used on a oil-rig that has to be sealed so that it is not possible to generate a spark. Do you do such a mic and to what standard is it constructed?
+
+
+Answer:
+
+	If a mic is completed sealed, no air could hit the diaphragm and the mic would not operate.
+	
+	Can a microphone generate a spark?
+

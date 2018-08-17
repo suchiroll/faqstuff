@@ -1,0 +1,20 @@
+Title: How the SM57 works
+Id: 335
+Legacy Id: 342
+
+Question:
+What is the design of the SM57 and how does it work?
+
+
+Answer:
+
+	The SM57 is a dynamic microphone. The complete specifications can be found in the User Guide at:
+	
+	http://www.shure.com/stellent/groups/public/@gms_gmi_web_ug/documents/web_resource/us_pro_sm57_ug.pdf
+	
+	For education on how microphones work, read our online educational publications at:
+	
+	http://www.shure.com/ProAudio/TechLibrary/EducationalArticles/index.htm
+	
+	We suggest starting with Microphone Techniques for Music - Sound Reinforcement.
+

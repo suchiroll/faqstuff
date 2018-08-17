@@ -1,0 +1,54 @@
+Title: UT frequencies for Sioux Falls, South Dakota
+Id: 1007
+Legacy Id: 1036
+
+Question:
+I am about to purchase a UT series wireless for use in Sioux Falls, and Eastern SD. There are two frequencies to choose from in stock, operating on 624.3 and 617.1MHz.
+
+
+I have not been able to find a chart that crosses over your UT frequencies with the TV Stations in Sioux Falls SD.
+
+
+Sioux Falls has the following TV stations:
+
+
+17 KTTW FOX/UPN
+
+23 KCSD-TV SDPTV
+
+24 KCSD-DT SDPTV
+
+26 KCPO-LP UPN
+
+29 KSFY-DT ABC
+
+32 KELO-DT CBS
+
+36 KAUN
+
+42 K42CC A1
+
+44 KBNW-LP BLOOMBERG
+
+46 KDLT NBC
+
+47 KDLT-DT NBC
+
+56 K56GF
+
+66 K66.. TBN
+
+
+In addition, I will want to use the UT wireless in Brookings SD where SDPTV has an application in for 18 KESD-DT.
+
+
+Answer:
+
+	Check this link: Which UHF frequencies did Shure use in the U.S. for the UA and UB bands?
+	
+	Scroll down to the bottom of the page.
+	
+	The frequencies indicated are on TV channels 39 and 38, respectively.
+	
+	For a complete map of U.S. Television stations on Shure frequencies, click on the following link: Which television stations should I avoid when using a wireless microphone?
+

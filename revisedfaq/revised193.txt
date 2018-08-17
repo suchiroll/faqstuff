@@ -1,0 +1,20 @@
+Title: Recording a talker within a group.
+Id: 193
+Legacy Id: 194
+
+Question:
+Situation: 100-150 ft area. 100-200 people. Speaker is already using lavalier.
+
+Problem: We would like to record a single individual within the listening audience, when called upon to speak or answer a question. Currently, we are passing around a MX184 when each people is speaking, which is becoming a problem. Any suggestions?  Would a parabolic be over-kill? A boom mic might work, but would be intrusive is we continued to move it over everyone's head.
+
+
+Answer:
+
+	A parabolic might work if only one person is speaking. But to be effective, the parabolic reflector should be about 3 feet in diameter, like used at football games. Also, the resultant audio will be lacking in bass as the reflector is only effective down to about 500 Hz. Expect to pay around $1,000 for a parabolic reflector of this size and quality.
+	
+	Passing a handheld wireless mic is the best solution as the mic will then be close to the talker. The boom mic is also a good idea; this is how reporters are recorded during a White House press conference.
+	
+	Or consider multiple mics on stands connected to a voice activated (automatic) mixer.
+	
+	There is no magic solution for this problem, which is why every TV talk show host walks to each audience member with a question and holds the mic up to the talkers mouth.
+

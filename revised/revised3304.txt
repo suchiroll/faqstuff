@@ -1,0 +1,13 @@
+Title: Low level input of 8900WD microphone on Mac Computers
+Id: 3304
+Legacy Id: 3470
+
+Question:
+I just bought the 8900WD for my computer as I heard it was a great microphone.  I have a G5 Mac and with every audio program I have, the levels of this microphone are very low.  Is there something defective with the one I bought?  Is this a common problem?
+
+Answer:
+
+	See the following link for information on connecting a mic to a computer:
+	
+	Professional microphone connected to a computer sound card
+

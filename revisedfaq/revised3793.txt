@@ -1,0 +1,15 @@
+Title: Can a custom ear mold be used with a different earphone driver?
+Id: 3793
+Legacy Id: 4031
+
+Question:
+I have a pair of custom ear molds for the Shure SCL4 earphone drivers. Can I re-use the custom molds on the new Shure SE425?
+
+
+Answer:
+
+	Sorry, in almost all cases, the answer is "No." 
+	
+	A custom mold is fitted to your ear canal and to a specific earphone driver.  Just as your custom mold will not fit your band mate's ear canal, your custom mold will not fit a different earphone driver.
+	
+	The same is true if a person has custom molded earphones with interchangeable attenuation discs for hearing protection.  The "hole" in the mold for the attenuation disc will not properly fit an earphone driver.

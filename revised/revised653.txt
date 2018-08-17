@@ -1,0 +1,26 @@
+Title: Mic level output of SCM268
+Id: 653
+Legacy Id: 670
+
+Question:
+I want to use your mic mixer product in my videoconferencing system. My VC system has only one mic input and their specifications is so:
+
+
+Line impedance:3.2 K
+
+Amplification : 40 db(X100)
+
+Max. signal Level : 30 mV
+
+
+My question is so: Can SCM268 mic level output work with this mic level input specifications?
+
+
+Answer:
+
+	The SCM268 will work fine with your system. Make certain the connecting cable between the two units is wired properly. The following paragraph will help you understand why.
+	
+	A very important specification is the type of audio input connector on your VC system, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper connecting cable wiring can be determined.
+	
+	There are many wiring schemes available depending on the product. If the connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the Shure product might be damaged if there is an unknown voltage appearing on your devices connection points.
+

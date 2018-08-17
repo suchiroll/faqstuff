@@ -1,0 +1,13 @@
+Title: Methods to interconnect audio devices
+Id: 3605
+Legacy Id: 3811
+
+Question:
+Is there a recommended resource that describes the many different methods to interconnect balanced and unbalanced lines?
+
+
+Answer:
+
+	Here is an excellent document produced by Rane:
+	http://www.rane.com/note110.html
+

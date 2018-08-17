@@ -1,0 +1,12 @@
+Title: UR4D Transmitter Status Display
+Id: 3553
+Legacy Id: 3759
+
+Question:
+I just saw something that I've never seen before.The transmitter status display on the UR4D receiver displayed "EXT" in the battery indicator.It flashed up for a moment, and then disappeared.I can't seem to find what that means in the user guide.Can you help?
+
+
+Answer:
+
+	The alert EXT means that the transmitter is being powered by an external power source (like an AC to DC converter) and not by internal batteries.Assuming the UR1 transmitter was using internal batteries, this is couldindicate that something is awry in the UR transmitter or receiver.
+

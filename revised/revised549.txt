@@ -1,0 +1,13 @@
+Title: Replacement stylus for M95ED
+Id: 549
+Legacy Id: 560
+
+Question:
+I have an M95ED cartridge for which I need a replacement stylus; is this model still supported; can you specify a solution for this particular cartridge?
+
+Answer:
+
+	Sorry, M95ED is no longer available from Shure. The following companies might still have stock:
+	
+	Sources for Discontinued Styli and Phono Cartridges
+

@@ -1,0 +1,15 @@
+Title: How many custom monitor mixes can be accommodated by the PSM600?
+Id: 245
+Legacy Id: 251
+
+Question:
+How many custom mixes the PSM600 can handle? I did see in the product description where it broadcasts on two frequencies, which seems to me (pardon my ignorance) to allow only two mixes. 
+
+
+Answer:
+
+	You could certainly use the PSM600. Essentially you will need a separate transmitter and separate receiver for each stereo mix that you want. So for you, that would mean 4 complete PSM systems, each on its own frequency.
+	
+	The PSM600 system is available on 5 different pairs of frequencies (10 total frequencies). So, (1) your 4 systems could take up the first 2 pairs of frequencies, or (2) your 4 systems could each have a different frequency set. Either way, you would still be operating on 4 separate frequencies. Obviously, the second method is a little better, because you have the capability to switch frequencies on any system if there is interference.
+	
+

@@ -1,0 +1,11 @@
+Title: Delay when using my wireless mic system
+Id: 3757
+Legacy Id: 3993
+
+Question:
+Why do I hear an delay when I am using my Shure wireless system on my guitar? It does not happen onstage. It only happens when I go out into the audience to play. It gets worse as I get farther from the stage.
+
+
+Answer:
+
+	It is not the wireless guitar system.  It is the laws of physics causing the delay.The signal from the wireless transmitter travels to the wireless receiver at nearly the speed of light: 186,282 miles per second or 1,084,161,240 feet per second. The average human perceives delay in an audio signal when the original sound is delayed by 0.05 second or more.  For there to be a perceiveable audio delay from the wireless transmission, you would have to be 9,314 miles from the stage.  Highly unlikely.But sound travels much slower than light.  The speed of sound is about 1,100 feet per second.  In 0.05 second, a sound wave travels about 55 feet.  So if you are 55 feet from the main PA loudspeakers, you may perceive a delay.   A guitarist may be even more sensitive to acoustic delay because he can perceive the difference between when a string was picked and when the sound was heard.Here is another way to look at this situation.   An audience member that is 55 feet from the stage will hear your guitar delayed by 0.05 second because that is the time that the sound wave takes to travel from the stage to the audience member's ear.   Place yourself next to that audience member and you will hear your guitar delayed by 0.05 second...even if you use a 55 foot long cable in place of the Shure wireless system.

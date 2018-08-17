@@ -1,0 +1,12 @@
+Title: Wiring of an XLR connector
+Id: 1509
+Legacy Id: 1563
+
+Question:
+We are a manufacturer of remote drive-thru systems. Each system has an intercom. I have some microphones that I am evaluating. What are the electrical connections of the three pin jack (XLR)on the balanced version of a professional mic?
+
+
+Answer:
+
+	XLR pin 1 = shield; XLR pin 2 = audio +; XLR pin 3 = audio -
+

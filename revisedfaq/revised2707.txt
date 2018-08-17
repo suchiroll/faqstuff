@@ -1,0 +1,20 @@
+Title: M104E Phono Cartridge
+Id: 2707
+Legacy Id: 2811
+
+Question:
+(1) What is the recommended tracking force?
+
+(2) What kind of stylus tip does the N104E have: conical or elliptical?
+
+(3) What is the tip radius of the N104E stylus?
+
+
+Answer:
+
+	1. 0.75 to 1.5 grams
+	
+	2. elliptical
+	
+	3. 0.2 x 0.7 mils.
+

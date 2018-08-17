@@ -1,0 +1,13 @@
+Title: Life span of V-15 III L-M
+Id: 926
+Legacy Id: 954
+
+Question:
+I own a V-15 III L-M for about 25 years (yes a long time). I wonder what the maximum life time is of the cartridge and the stylus assembly. Is it still useable or should I buy a new stylus. I did not used it from 1983 until now, it still works, but I can imagine that it is not in a top condition. I found out from the other questions that the replacement stylus is VN35MR.
+
+Answer:
+
+	The diamond tip on a stylus wears out after 500 to 1,000 hours of playing time. The amount of wear can only be determined by using a microscope designed to examine styli.
+	
+	There is a rubber bushing in the stylus assembly that ages and becomes brittle with time. After 25 years, this bushing is likely not as pliable as it should be. We suggest that you replace the stylus.
+

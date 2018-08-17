@@ -1,0 +1,19 @@
+Title: Multi use of MX393/C mute on/off
+Id: 2080
+Legacy Id: 2146
+
+Question:
+We have a client who requires 8 microphone attached to a Gentner conference system. He wishes to press any microphone to mute system, and then press any microphone to un-mute system, giving LED indication.
+
+I propose the microphone TTL o/p from each microphone is connected to a Crestron control system I/O port to sense contact closure, and a relay o/p closure to light the LED, asumming the microphone has onboard electronics to drive the LED, and only requires close contact. The Crestron will tell the Gentner via RS232 to mute/un-mute the system
+
+Please confirm this will work.
+
+
+Answer:
+
+	You are correct, except you require the MX392/C, NOT the MX393/C. The MX392 has three additional wires in the cable: 1) Logic Common/Ground; 2) LED control; 3) Switch status.
+	
+	The status of the LED on the MX392 can be controlled via an external closure. Connecting the LED Control wire to the Logic Common wire will illuminate the LED. (This assumes that the internal DIP switches of the MX392 have been properly configured.) The voltage used to illuminate the LED is a portion of the phantom power supplied to the mic.
+	
+	The Switch status is TTL. When the mic switch is depressed, the Switch Status wires changes from +5 volts to 0 volts (in relation to the Logic Common wire).

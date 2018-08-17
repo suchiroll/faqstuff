@@ -1,0 +1,14 @@
+Title: Which microphone should I choose?
+Id: 1555
+Legacy Id: 1609
+
+Question:
+I am a lead vocalist who needs to carry a wide range of notes over a very loud rock band. I am currently using a condenser mike with a powered mixer that has phantom power. I am experiencing problems with feed back and getting my upper range loud enough to be audible over the full band. I am looking for a mic to be used for live application only (with floor monitors) and need something very sensitive. I have been considering the Beta 58 and the Beta 87A. Which way should I go?
+
+
+Answer:
+
+	Microphone choice is very personal. Different people like different things. We recommend that you visit your local Shure dealer to try out the different microphones to see which one you like the sound of your voice on. It may help to record your voice on the different microphones so that you can listen back to the sound of each.
+	
+	Difference between a dynamic and condenser microphone
+

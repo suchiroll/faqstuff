@@ -1,0 +1,11 @@
+Title: Are Shure earphones available with a white cable?
+Id: 3196
+Legacy Id: 3339
+
+Question:
+Are Shure earphones available with a white cable?
+
+Answer:
+
+	No. We have tested white cables from a number of suppliers, but none were able to pass our quality tests. Some failed because they were not rugged enough; others did not provide sufficient electrical performance; many failed for reasons related to appearance. Our E4C is an off white cable...not a pure white cable. In general, the white jacket turned yellow or brown following exposure to heat, ultraviolet light, or during some other environmental test. We appreciate knowing that you consider a white cable to be a desirable feature. We are continuing to search for a white cable that meets the quality requirements that Shure is known for.
+

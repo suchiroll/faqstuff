@@ -1,0 +1,11 @@
+Title: Using rechargeable batteries with ULX wireless
+Id: 2935
+Legacy Id: 3061
+
+Question:
+Is it ok to use rechargeable batteries with ULX wireless?
+
+
+Answer:
+
+	When using rechargeable batteries with the ULX, the 8.4 volt (7 cell) variety batteries should be used. The 9.6 volt (8 cell) variety should NOT be used with the ULX. The ULX transmitters will not work correctly with the 9.6 volt type of battery.

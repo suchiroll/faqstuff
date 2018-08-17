@@ -1,0 +1,100 @@
+Title: Removing DC voltage from ULX receiver antenna jack
+Id: 2361
+Legacy Id: 2451
+
+Question:
+I want to use multiple ULX receivers with a passive antenna splitter. Is there anything special that needs to be done?
+
+
+Answer:
+
+	NOTE: This modification is no longer needed when using the UA221. The UA221 includes an internal capacitor to block the DC voltage traveling from one receiver to the other.
+	When the antenna inputs for ULX receivers are combined using a passive splitter such as the UA220, the DC voltage on the antenna inputs must be disabled for all receivers, except one. That is, if the UA220 is being used, the voltage must be disabled on one of the receivers. If a 4-way passive combiner is being used, the DC voltage must be disabled on at least three of the receivers, in some cases, on all four receivers. It depends upon the internal design of the passive spiltter. Follow these instructions to disable the DC voltage.
+	
+		
+			
+				
+					
+						Remove the 4 screws on the corners of the front panel. Remove the 4 screws on the corners of the rear panel.
+				
+			
+		
+		
+			
+				
+					
+						Gently pull at the front and rear panels. Once the front panel is loose, disconnect the ribbon cable from the front panel. It is just friction fit, so grab near the blue portion of the ribbon and pull.
+				
+			
+		
+		
+			
+				
+					
+						Once the rear panel is loose, use a screw driver to disconnect the connector that has two white wires going to it.
+				
+				
+					
+						
+							
+								
+									
+							
+							
+								
+									
+							
+						
+					
+				
+			
+		
+		
+			
+				
+					
+						Slide the rear panel with the PC board attached out of the housing. Locate the two components near the antenna inputs. They will have purple colored band around them. Remove these two components using a soldering iron. It may be useful to grab the components with a tweezers while you apply heat with the soldering iron.
+				
+				
+					
+						
+							
+								
+									
+							
+							
+								
+									
+							
+						
+					
+				
+				
+			
+		
+		
+			
+				
+					
+						To reassemble the receiver, slide the PC board back into the chassis. Make certain the PC board is in the channel as shown in the picture.
+				
+			
+		
+		
+			
+				
+					
+						Connect the connector with the two white wires using a pair of needle nose pliers.
+				
+			
+		
+		
+			
+				
+					
+						Reconnect the ribbon cable on the front panel and replace the 8 screws to bolt the front and rear panels back to the chassis.
+				
+			
+		
+	
+

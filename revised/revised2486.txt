@@ -1,0 +1,32 @@
+Title: Lavalier mike for acoustic guitar?
+Id: 2486
+Legacy Id: 2581
+
+Question:
+I am looking at different possibilities to amplify my acoustic guitar, with the main criteria being that the miking...
+
+
+a) is unobtrusive and as small as possible,
+
+
+b) requires no permanent alteration of or installation in the guitar,
+
+
+c) amplifies but does not alter the natural acoustic sound,
+
+
+d) attaches to the guitar, thus giving more freedom of movement.
+
+
+I have seen several guitarists using what from a distance looked like lavalier microphones, simply clipping it to the edge of the soundhole of the guitar with some sort of tie or lapel clip mount. The resulting sound was excellent!
+
+
+What I would like to know is thus whether, in your opinion, any of your lavalier microphones would be suitable for the purpose of amplifying an acoustic guitar, and if "yes", which one(s) in which configuration(s).
+
+
+Answer:
+
+	TheMX150 microphone is often used in this manner.
+	
+	Clipping the mic on the soundhole is fine, but many players clip the mic on their shirt, just above the guitar. Experimentation with placement is the key to finding your sound.
+

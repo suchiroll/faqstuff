@@ -1,0 +1,12 @@
+Title: Microphone placement and polar patterns
+Id: 467
+Legacy Id: 476
+
+Question:
+When using a directional microphone is there a front and back? What is the way to place the microphone so the pattern is correct. Meaning the talker is in the zone while the audience is out of the zone? This sounds dumb I know, I understand cardioid, omni, hyper, and super but was just wondering how the microphone knows where the pattern should be or how I need to place the mic so the pattern is facing the speaker.
+
+
+Answer:
+
+	Yes, it is the nature of a directional microphone to have a front and back. The microphone does not follow the direction the sound is coming from, but has a static pickup area at the front of the microphone. Therefore, proper positioning is very important. The polar plot shown in the microphone data sheet will show the pick up area of the microphone on a 360 degree graph, with 0 being the front. As far as which side of the microphone is the front, that depends on the individual microphone.
+

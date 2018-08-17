@@ -1,0 +1,25 @@
+Title: What is Audio Reference Companding?
+Id: 3183
+Legacy Id: 3323
+
+Question:
+What is Audio Reference Companding?
+
+
+Answer:
+
+	To understand Audio Reference Companding, it is best to explain the forerunner scheme:
+	
+	What is a fixed-ratio companding or a compander?
+	
+	Compander is a contraction of the words compressor and expander, which describe contrary (and in a wireless sense, complementary) dynamics processors. A compressor is employed to reduce the dynamic range of a signal, while an expander increases the dynamic range. In a wireless microphone system, compression takes place in the transmitter, while expansion occurs in the receiver. Both the compression and expansion are performed by a voltage-controlled-amplifier (VCA). Most wireless microphone systems use a fixed 2:1 compression ratio in the transmitter. A 2 dB increase in the compressor input level, for example, gives a 1 dB increase in the compressor output level. An equal but opposite expansion (1:2) occurs in the receiver, restoring the original dynamic range of the system input signal.
+	
+	Fixed-ratio companders apply continuous signal processing, regardless of signal level. When companding is applied to low signal levels, the noise floor of the radio signal becomes dynamic and audible. Most wireless users will recognize these low-level artifacts as breathing or pumping. The breathing sound results from the suddenly increased level of the noise floor and tends to be masked at higher signal levels. With good design these artifacts can be minimized, but not eliminated.
+	
+	
+	What is Audio Reference Companding?
+	
+	The Audio Reference Companding scheme is a level-dependent companding scheme based on the principle that no companding is the best companding. At low signal levels, no companding is applied, which means no artifacts. Audio Reference Companding utilizes a soft-knee type of compression, where the onset of compression occurs gradually, allowing the wireless system to avoid companding until it is absolutely necessary. The net result is not only elimination of low level artifacts, but a reduction in system distortion, improved transient response, and a more natural and faithful reproduction overall.
+	
+	The success of level-dependent companding relies on a high-quality VCA and precise tracking between the audio sections of the transmitters and receivers. Properly implemented, level-dependent companding results in fewer artifacts (breathing), lower distortion, lower noise floor, and increased headroom. Sound quality, in general, is improved at any signal level. The action of the compander overall is less noticeable, which may be of particular interest to guitarists who have shied away from wireless systems because of the constant action of fixed-ratio companders. The lower noise floor of Audio Reference Companding also provides a less fatiguing listening experience for users of personal (in-ear) monitor systems, where artifacts are even more noticeable due to the closed listening environment. For performers and presenters who have remained tethered to a cable because they just cant accept the artifacts common to most wireless systems, Audio Reference Companding provides a sonically transparent wireless alternative to that cable.
+

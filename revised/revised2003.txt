@@ -1,0 +1,43 @@
+Title: Mute switch with phantom power
+Id: 2003
+Legacy Id: 2066
+
+Question:
+I need to get rid of the popping noise when hooking up an electret type microphone. I assume it is the phantom power that is making the noise. It is currently wired as a Push-to-Talk. Any suggestions?
+
+
+Answer:
+
+	Two different circuits for mic muting when phantom voltage is present. Either one will work. Note that neither circuit provides infinite muting (complete elemination of the mic signal), but does reduce the mic signal level substantially, typically greater than 50 dB.
+
+	
+
+	
+
+	
+		
+			
+				Circuit must be in metal box with box grounded to pin 1
+				
+				Switch shorts mic audio. Adjust potentiometer for minimum thump when switch is closed.
+				R1  100kohm (exact value not critical)
+		
+	
+
+
+	
+
+
+	
+		
+			
+				
+				C1=2200uF, 6Vdc for 150 ohm mic
+				C1=1000uF, 6Vdc for 600 ohm mic
+				This circuit must be in a shielded enclosure.
+		
+	
+
+
+	
+

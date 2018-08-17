@@ -1,0 +1,22 @@
+Title: Shure TR21C Tape Recorder Head Specifications
+Id: 2850
+Legacy Id: 2962
+
+Question:
+I'm looking for technical specifications regarding a Shure TR21C magnetic tape recording head. The head was used in a Voice-Of-Music model 714 reel-to-reel tape recorder that was built in the late 1950s. I am particularly interested in knowing the inductance of the head, and the recommended recording bias voltage and current. This information is important to me since my goal is to replace the electronics in the tape recorder with modern solid-state devices and circuitry of my own design.
+
+
+Answer:
+
+	7.5 per second - recording speed
+	
+	75,000 Hz - bias and erase frequency
+	
+	0.040 ma - standard recording level
+	
+	1.0 ma - operating bias current
+	
+	4,000 ohms at 1,000 Hz - coil impedance
+	
+	These specifications are from the Shure catalog of 1958.
+

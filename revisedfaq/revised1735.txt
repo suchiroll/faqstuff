@@ -1,0 +1,14 @@
+Title: Cable for SM98A to a wireless transmitter
+Id: 1735
+Legacy Id: 1794
+
+Question:
+The SM98A has 3-pin connector, and transmitters like the UT1 have a 4-pin. Are there any cables to connect them? adapter?
+
+Answer:
+
+	To connect the SM98A mic directly to a Shure wireless transmitter, use the Shure cable 90A4039. In this set-up, do not use the SM98 in-line preamp.
+	
+	For parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/service

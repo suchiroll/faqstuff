@@ -1,0 +1,11 @@
+Title: Position of VP88 Mic
+Id: 1887
+Legacy Id: 1947
+
+Question:
+Our TV station has a Shure VP88 Stereo mic and there is some question here about how to position the mic facing the sound source. Do you aim it at the source like you would a SM58 or is it positioned straight up and down like a side address mic?
+
+
+Answer:
+
+	Aim the VP88 like an SM58. The VP88 is not a side address microphone. The circular end of the VP88 is the entry for the sound.

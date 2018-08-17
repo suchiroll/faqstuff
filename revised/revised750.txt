@@ -1,0 +1,13 @@
+Title: 885TT and 890TT Battery
+Id: 750
+Legacy Id: 769
+
+Question:
+I have a model 890TT microphone that needs a new battery.  Are these still available and can I get them from a electronic parts house?  Any information that you can supply me with would be appreciated. 
+
+Answer:
+
+	The Shure part number for this battery is 80A455. As of March 2001, Shure Parts has this item in stock. Call 800-516-2525 to purchase this battery.
+	
+	If you prefer a commercial alternative, the battery is made by Sanyo, part number CR2032-P5-1. It is a 3 volt lithium battery rated at 180mA hours or greater. It has two leads and is designed to be soldered onto a circuit board.
+

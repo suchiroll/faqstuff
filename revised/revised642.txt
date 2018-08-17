@@ -1,0 +1,12 @@
+Title: Can I use a 100' cable with an SM57?
+Id: 642
+Legacy Id: 659
+
+Question:
+Can I use an 100 foot cable with a SM57 without losses or distortion?
+
+
+Answer:
+
+	Yes. This assumes the SM57 is being connected to a balanced, low impedance input. In that case, you can run over 1,000 feet if necessary.
+

@@ -1,0 +1,30 @@
+Title: In-Line Attenuation of Mic Capsule of U2 Transmitter
+Id: 1340
+Legacy Id: 1392
+
+Question:
+I am doing alot of Gospel shows with Beta 87's, and am finding that some singers are "blowing out" the capsules or transmitter preamp. Short of a week long class for them in mic technique, I can't think of a better solution to the problem than an in-line pad between the capsule and the transmitter pre-amp that could also be removed if need be. I have the gain on the TX all the way down, and they are still distorting the capsule (or TX). The problem with this as well, it that there is usually an active mic split for a TV truck. I have the TV guys always complaining about the distortion.
+
+Have you guys got a solution? Also, if so, could it be something that is built in to a Beta58-length barrel?
+
+
+Answer:
+
+	U2 Input Attenuation / Pad
+	
+	When an extremely loud singer uses the U2 handheld transmitter, additional input attenuation may be necessary, though highly unlikely. However, if deemed necessary, a 6 dB pad may be added between the output of the microphone element and the input of the transmitter preamp.
+	
+	Note: This modification requires the removal and replacement of surface mount components. This modification should only be attempted by a skilled technician with surface mount soldering experience. Unless performed by an authorized Shure Service Center, this modification will void the U2 warranty.
+	
+	Some components on the U2 circuit board are sensitive to both static electricity and heat. If static electricity discharges through these components, they will be destroyed. A low temperature soldering iron must be used so as not to damage heat sensitive components.
+	
+	To disassemble the U2, remove the microphone head. Next, remove the battery sleeve. Remove the single Phillips head screw located by the antenna. At the top of the U2, remove the snap ring using needle nose pliers. Remove the circuit boards by pushing at the base of the antenna. The board to be modified is opposite of the battery and LCD display. The two resistors to be changed are located quite near the microphone end of the board. The attached drawing shows the pertinent section of the printed circuit board and the location of the two resistors.
+	
+	Make the following changes.
+	
+	6dB Input Pad:
+	Remove R203 and replace with a 4.99kohm resistor.
+	Remove R238 and replace with a 4.99kohm resistor.
+	
+	Reverse the procedure above to reassemble the U2.
+

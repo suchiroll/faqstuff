@@ -1,0 +1,37 @@
+Title: DFR11EQ use in a church
+Id: 1746
+Legacy Id: 1805
+
+Question:
+I have the DFR11eq in my system only to add notch filters while ringing out. There is no eq in the system! Should I get a computer and get into the graphic or parametric eq in the dfr11eq? Its a church system with plenty of feedback every Sunday. I have a 24 channel micing board. There is no gain to be had--not loud enough. Is the graphic eq being used automatically even if it is not setup? Which setup is easier and less maintenance-graphic or parametric? I called the man who setup the system--he has little clue and only rings out the system again. There are high feedback sounds while putting volume levels up high.
+
+
+Ringing out? Do I put the volume slider for that channel up in the highest position while I increase the gain until feedback-then reduce the gain? Then pull the volume slider back to zero level--while the main master slider is at zero level?
+
+
+While using 10 mics and 3 guitars the "notches" light up. Does that replace the notches already there? Should I move from scene to scene?
+
+
+Answer:
+
+	Should I get a computer and get into the graphic or parametric eq in the dfr11eq?
+	* Yes. However, proper equalization of a sound system requires external test equipment called audio spectrum analyzers. To learn about this test equipment, visit: http://www.gold-line.com
+	
+	Is the graphic eq being used automatically even if it is not setup?
+	* No.
+	
+	Which setup is easier and less maintenance-graphic or parametric?
+	* Graphic is easier, but not as precise.
+	
+	There are high feedback sounds while putting volume levels up high.
+	* Every sound system has a volume limit. Additional equalization may not help.
+	
+	Do I put the volume slider for that channel up in the highest position while I increase the gain until feedback-then reduce the gain?
+	* Set all input levels to their normal position. Then slowly increase the Master control until the system begins to feedback.
+	
+	Does that replace the notches already there?
+	* It depends upon how the DFR11EQ was originally set up. Please read the manual.
+	
+	Should I move from scene to scene?
+	* Scenes are different configuations of the DFR11EQ stored inside. Scene #1 might be the setting for a wedding (very few mics); Scene #2 might be the setting for Sunday morning services (lots of mics); etc. Again, read the manual completely.
+

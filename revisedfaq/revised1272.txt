@@ -1,0 +1,33 @@
+Title: SR105 power amp input sensitivity
+Id: 1272
+Legacy Id: 1320
+
+Question:
+According to the spec for the SR105, it needs 1.2v to drive it to 200 watts. I am assuming this can be reduced by changing the value of the input resistor. I need to drop it to about a half a volt. Can you tell me which resister I should change and to what value? Looking at the circuit diagram, I am guessing it would be the 22k R8 resistor, but I'd prefer your input (input...Ha! sorry).
+
+
+---- 06/27/2001 03:50 PM ----------------------------------------------
+
+Well, it was nice of you to reply, but the Henry box is only 6 times more than I paid for the amp so I don't think I'll go that way.
+
+
+---- 06/28/2001 08:18 AM ----------------------------------------------
+
+It's 2.2K
+
+
+---- 06/28/2001 09:30 AM ----------------------------------------------
+
+OK, thanks a lot
+
+
+Answer:
+
+	Not feasible. The first stage of the SR105 is a unity gain stage for impedance matching. It should not be modified. The following stages are already at peak amplification.
+	
+	We suggest you purchase a -10dBV to +4dBV preamplifer. This will boost your 0.5 volt signal to the required 1.2 volt signal. Try Henry Engineering for such a device: http://www.henryeng.com/hemb2.html
+	
+	At 06/27/2001 03:58 PM we wrote - A step-up transformer might also work. What is the output impedance of the device driving the SR105? We assume its maximum signal level is 0.5 volts.
+	
+	At 06/28/2001 09:07 AM we wrote - The transformer wont work. The 2.2k ohm source impedance it too close to the SR105 25.0k ohm input impedance. The best a transformer can do is a -1.5 dB loss. The Henry device (or an alternative) is the answer. You need a preamplifier that will raise your signal level 8 to 10 dB.
+

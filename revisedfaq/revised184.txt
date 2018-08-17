@@ -1,0 +1,15 @@
+Title: What lavalier mic to use: cardioid, supercardioid?
+Id: 184
+Legacy Id: 185
+
+Question:
+I am looking for a lavalier microphone and think the MX184 would work but am not knowledgeable enough to know for sure if it is the best choice. We need a lavalier because our minister keeps hitting the boom mounted mic with his hands and I can not get him to keep it close enough to his mouth. He does not feel comfortable with it closer than two feet. I also am having a lot of trouble with picking up traffic noise as the building is close to a road. In addition, our minister sits in a chair and the mic is picking up the sound of his sleeve buttons and arms hitting the chair arms so I get a clicking noise along with thumps on the recordings. I use a Peavey 12 channel mixer and do have phantom power available. What mic would work best to reject all extraneous noise?
+
+
+
+Answer:
+
+	Of our lavalier microphones, the MX184 (supercardioid) has the most rejection of ambient noise. Whether it will reject everything you want it to, we dont know. Unfortunately, a microphone cannot tell the difference between your ministers voice, the traffic, or the click of buttons, so it will pick up anything it hears.
+	
+	We suggest you try the MX184 and also try the R185B (cardioid element) on the MX184 body. If neither of these work for you, the final solution would be a headworn microphone like the WCE6. Putting the mic within one inch of the mouth will solve your problems, but we cannot predict if the minister will like the appearance of a headworn mic.
+

@@ -1,0 +1,13 @@
+Title: Using the SM98 wireless
+Id: 2287
+Legacy Id: 2369
+
+Question:
+I have an awesome SM98 with which I'd like to go wireless. I understand that other mics can be connected directly to the transmitter without the preamp (mine's the ILP1) . However, the SM98 uses, what appears to be a mini XLR connector, not the four-pin type.
+
+
+Answer:
+
+	Shure has a cable that is three pin on the mic end, and four pin on the transmitter end. The part number is: 90A4039. Call Shure Parts at 800-516-2525 to purchase.
+	
+	Do not use the SM98 preamp when going wireless.

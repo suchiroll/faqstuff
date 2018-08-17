@@ -1,0 +1,13 @@
+Title: SHA900 and MQA decoding
+Id: 4971
+Legacy Id: 6236
+
+Question:
+Does the new SHA900 decode MQA audio?
+
+
+
+Answer:
+
+	Sorry, it does not.
+

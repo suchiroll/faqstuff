@@ -1,0 +1,16 @@
+Title: Microphone Impedance: Actual versus Rated
+Id: 2989
+Legacy Id: 3117
+
+Question:
+I have recently purchased a mic preamp with variable input impedance for my studio. So as to correctly understand and use this feature I am logging the impedance of all mics I currently own, many of which are Shure. The question is...What is the deal with rated, and actual, impedances?
+
+
+Answer:
+
+	Rated impedance is an obsolete concept, but still widespread. It lumps all mics into: low impedance (150 ohms rating); medium impedance (600 ohms rating); high impedance (15,000 ohms rating). The rating is the typical impedance for a mic in that category.
+	
+	Actual impedance is what is says: the actual measured impedance of the microphone.
+	
+	As a general rule, the impedance setting of a mic preamp should be about 10 times the actual impedance of the microphone.
+

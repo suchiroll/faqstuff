@@ -1,0 +1,27 @@
+Title: Mic selection for new recording studio
+Id: 2169
+Legacy Id: 2242
+
+Question:
+Hello. I am currently building a home recording studio and basically know nothing about mics (other than Shure products are surely the mics to buy. Anyway, I would like your opinion on mic product selection for the following applications:
+
+
+1. Drum miking- We plan to use 6 to 8 mics to record a drum kit. Which models would you recommend for a mid price, high quality recording. Please explain which model should record which drum(s).
+
+
+2. Vocal mic- We have a female singer need to make sure that her beautiful voice is transferred to the recording equipment properly. Which mic(s) would you recommend?
+
+
+3. Guitar amp- Our guitars plays a wide range of styles in our music...from crunchy heavy nonsense to sweet melodic melodies to funked up funkin funk. Please advise.
+
+
+Answer:
+
+	All three questions are answered in the following booklet:Microphone Techniques for Music - Studio Recording
+	
+	This booklet was written specifically to answer questions about studio recordings.
+	
+	To see which microphones we recommend for different applications, see our blog post on mic selection:
+	
+	http://blog.shure.com/shure-notes/live-sound/choosing-the-right-mic/
+

@@ -1,0 +1,176 @@
+Title: Understanding Earphone / Headphone Specifications
+Id: 5081
+Legacy Id: 2991
+
+Question:
+Please explain earphone and headphone specifications.
+
+
+Answer:
+
+	Understanding Earphone/Headphone Specifications
+
+	Though one of the most common items in the audio chain, earphones or headphones may not always work properly. Common problems are distorted audio, low level with the volume at maximum, or high level with the volume at minimum. This bulletin will explain earphone/headphone specifications, which ones are important, and how to choose earphones for an audio system.
+	
+	Lets differentiate between headphones and earphones. A headphone consists of one or two transducers (usually miniature speakers) that are attached to a metal or plastic headband. This headband provides proper placement of the transducers over the ear; the headband rests on top or behind the head. There are two common types: open-back and closed-back. The open-back type has acoustic ports on the outside that increase bass response, but has the downside of allowing background noise to bleed through into the ear. The closed type completely covers the ear, thus reducing background noise. A secondary advantage is that sound originating from the headphones will not radiate outward. Closed-back are preferred for applications such as studio recording where noise must be minimized.
+	
+	Earphones are also transducers but with no headband. They can be placed on the pinna (earflap) or inside the ear canal. The former, known as earbuds, are usually the open-air type, since small transducers can not generate low frequencies without acoustic ports. The latter, known as in ear earphones, use a foam or other soft material to hold the earphone in the ear canal, thus isolating it from ambient noise. Forming an acoustic seal makes the ear canal part of the earphone system and modifies its frequency response. The advantages are that less volume is required, and audio quality is typically better.
+	
+	Most headphone and earphone specifications show actual impedance and sensitivity. Some others go a step further and show maximum/clipping level and frequency response. These specifications define how each unit will work with an audio system. On the audio system side, pertinent specifications are output impedance, power output, and/or clipping level.
+	
+	
+
+	Impedance
+
+	
+	Impedance is opposition to the flow of current. The higher impedance, the less current will flow. Impedance is measured in Ohms, indicated by the Greek sign Omega (). Earphones and headphones range from 8 Ohms to 600 Ohms or higher. The audio source (the headphone output) also has an impedance rating. To obtain maximum power transfer (all usable power from the source reaches the earphones) impedances should match. However, thats rarely the case. When impedances dont match, there is either a loss of voltage or of current, in other words, a loss of power. This power loss can be calculated with the following formula:
+
+	
+
+	
+
+	
+
+	Where
+	- RS: Source impedance (the impedance of the audio systems headphone output)
+	- RL: Load impedance (the impedance of the earphones or headphones)
+
+	
+
+	Lets assume we want to use earphones with an impedance of 110 Ohms. If connected to a source that matches this impedance, the above formula shows a loss of -6.0 dB. Even though there is maximum power transfer, there is a loss. This is called load loss and theres no way to avoid it. For example, using a higher source impedance, say 600 Ohms, the power loss becomes -8.8 dB. This is nearly 3 dB lower than before; -3 dB represents half the power. Using a lower source impedance, say 16 Ohms, the power loss is 9.5 dB. Note that the load loss increases if the source impedance is higher or is lower than the exact earphone impedance. Figure #1 shows the power loss for different earphones driven by different source impedances.
+	
+	In most cases, load loss is not critical. A headphone amplifier typically can deliver far more power than needed, thus overcoming the effect of unmatched impedances.
+
+	
+		
+			
+				
+					
+						
+						Figure #1. Power loss at different source impedances for different earphones.
+				
+			
+		
+	
+
+
+	
+	Sensitivity
+
+	
+	Sensitivity is how effectively an earphone converts an electrical signal into an acoustical signal. Sensitivity indicates how loud the earphones will be for a given level from the source. This measurement is given in decibels of Sound Pressure Level per milliwatt, or dB SPL/mW. In some cases it might be shown as dB/mW and is based on a 1 mW input signal. One mW is one thousandths of a Watt, or 0.001 Watts. The sensitivity of earphones is usually in the range of 80 to 125 dB SPL/mW. Here is an example.An earphonessensitivity is 122 dB SPL/mW. This means 1 mW of power will generate 122 dB SPL. This SPL level is over the threshold of pain and can cause permanent hearing damage in a short amount of time. Figure #2 shows different levels in dB SPL and the exposure time before hearing damage may occur. A typical headphone output could provide this level. Note that dB SPL do not sum in a linear manner; 2 mW into theearphone will not generate 244 dB SPL. Doubling or halving the input power increases or decreases the SPL by 3 dB. A .5 mW input into the earphone will generate 119 dB SPL. A sensitivity rating doesnt mean much until it is matched with the output capabilities of an audio system. If a system has low output level, using a low sensitivity earphone will result in low SPL. Increasing the amplifier level in this configuration will lead to distorted audio due to amplifier clipping. On the other hand, a high sensitivity earphone coupled with a high power headphone amplifier will force a low volume setting, and than can result in more noise. A classic case of this problem is connecting a pair ofefficient earhonesto an airplane sound system. Setting the volume at the first position, right above zero, gives enough level but is noisy. Increasing the volume makes it too loud to use. A simple, passive headphone attenuator solves this problem by reducing the level being delivered to the headphones, allowing you to raise the volume of the headphone amplifier to a setting that produces less noise. The following table shows the SPL output level for the different earphones at different source levels.
+	
+
+	
+		
+			
+				
+					
+						Input power (mW)
+					
+						
+							Earphone #1
+							113.5 dB SPL/mW
+					
+					
+						
+							Earphone #2
+							105 dB SPL/mW
+					
+					
+						
+							Earphone #3
+							122 dB SPL/mW
+					
+				
+				
+					
+						0.1
+					
+						103.5
+					
+						95.0
+					
+						112.0
+				
+				
+					
+						0.2
+					
+						106.5
+					
+						98.0
+					
+						115.0
+				
+				
+					
+						0.5
+					
+						110.5
+					
+						102.0
+					
+						119.0
+				
+				
+					
+						0.8
+					
+						112.5
+					
+						104.0
+					
+						121.0
+				
+				
+					
+						1.0
+					
+						113.5
+					
+						105.0
+					
+						122.0
+				
+				
+					
+						1.2
+					
+						114.3
+					
+						105.8
+					
+						122.8
+				
+				
+					
+						1.5
+					
+						115.3
+					
+						106.8
+					
+						123.8
+				
+			
+		
+	
+
+
+	
+
+	Frequency Response
+
+	
+	When the frequency response is given as a graph, it indicates two different measurements. One, it shows the range of frequencies, lowest to highest, reproduced by the earphone. Two, it shows the relative output level of the earphone at each frequency. Frequency response is measured in Hertz (Hz) and covers the audible range between 20 Hz and 20,000 Hz. Measuring frequency response in earphones is not a simple task. It requires the use of a dummy head. The dummy head resembles a human head and has a measurement microphone inside each ear canal. Proper measurement of headphone frequency response is straightforward as the headphones are placed over the dummy ears. Measuring earphones is a different matter. When proper earphone placement is achieved, the ear canal becomes part of the earphone and affects the frequency response. Since each person has a different ear canal (depth, diameter, curvature, etc.) the frequency response will vary. In fact, it is likely that frequency response will vary between both ears of the same person. Therefore, a frequency response graph for earphones created using a dummy head is not a meaningful measurement.
+	
+	
+
+	Clipping Level or Maximum Level
+
+	
+	Earphone specifications rarely show clipping level or maximum input level. However, the audio source equipment might show this specification for the headphone output. In this case it will indicate the level at which the headphone amplifier begins to clip and the audio signal becomes noticeably distorted. Depending on the impedance and sensitivity of the earphones connected, this might be important. If sensitivity is low and/or the earphone impedance is significantly different than the source impedance, a high level output might be needed to compensate for the load loss and to get usable sound pressure level. If the required level is above the maximum output level of the headphone amplifier, the audio signal will be distorted and may cause damage to the earphones. Using an external battery operated headphone amplifier may solve this problem.
+	
+	
+

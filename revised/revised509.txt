@@ -1,0 +1,23 @@
+Title: M95ED cartridge/stylus -- alternates for 33 rpm mono and 78 rpm
+Id: 509
+Legacy Id: 519
+
+Question:
+I have the M95ED on a Dual 1249 turntable. I'm making CD recordings from 33 rpm mono records (not stereo). Should I be using a conical stylus as opposed to the elliptical stylus in the M95ED cartridge? Do you have an alternate stylus for the cartridge, or must I replace the entire cartridge?
+
+
+Later, I'll be recording CDs from old 78 rpm records using a Dual 1019 turntable that has NO cartridge/stylus. What do you recommend?
+
+
+Is there a single cartridge/stylus that would work on both turntables and both 33rpm/mono and/or 78rpm records?
+
+
+Answer:
+
+	1. A spherical (conical) tip would likely work better, but you would have to try it and hear the results. There is no spherical replacement stylus for the M95ED.
+	
+	2. A replacement cartridge with a spherical tip would be the M44G.
+	
+	3. We offer a M78S cartridge designed specifically for 78 RPM records. Or you can insert a N78S stylus into the M35X cartridge body.
+	
+	4. No stylus will properly play 33 rpm and 78 rpm. The stylus radius must be much larger for the 78 rpm groove. The simplest solution is the M35X with spherical stylus for 33 rpm and the N78S stylus for use with 78 rpm.

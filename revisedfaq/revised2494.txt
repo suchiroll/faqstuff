@@ -1,0 +1,24 @@
+Title: P4800 volume control potentiometer
+Id: 2494
+Legacy Id: 2589
+
+Question:
+I noticed that your literature says that a 20K pot should be used when
+
+controlling a level via the control pins on the P4800. My question is
+
+this: what happens if you use the more widely accepted (and therefore
+
+available in nifty decora faceplates) 10K linear pot? Will it work?
+
+
+I was hoping to get away from a custom-made panel, but I can't seem to find
+
+an off-the-shelf thing with a 20K pot.
+
+
+Answer:
+
+	At the time, a 20k audio taper pot was a stock item for Radio Shack. Shortly thereafter, Radio Shack stopped carrying that pot. A 100K Audio Taper Pot with a tolerance 5% can be substituted.
+	
+	Most commonly available potentiometers have a tolerance of 10% or 20%. If the open resistance of the pot is below 95K Ohms (greater than -5% tolerance), it will not be able to raise the level of the P4800 to the upper end of the range.

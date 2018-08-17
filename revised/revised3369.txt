@@ -1,0 +1,26 @@
+Title: FP16A discontinuation and replacement
+Id: 3369
+Legacy Id: 3556
+
+Question:
+When was the FP16A audio distribution amp discontinued? What can I use in its place?
+
+
+Answer:
+
+	The Shure FP16A was discontinued in autumn 2007; all remaining inventory was depleted by December 2007.
+	
+	The final U.S. retail price for the FP16A was $684.22. The FP16A rack mount kit, A16R, was $37.13.
+	
+	The FP16 was introduced in 1985 at a U.S. retail price of $350. The FP16A replaced the FP16 (features remained the same; Shure changed to a different supplier) in 1989 and had a U.S. retail price of $570.
+	Below are products similar to the FP16A:
+	Rane model DA216S 1x16 monaural; can be also configured as a stereo unit
+	Kramer Electronics model VM-1110XL - 1x10 monaural (or 2x5 stereo) Distribution Amplifier
+	Kramer Electronics model VM-1120XL - 2x10 stereo (or 1x20 monaural) Distribution Amplifier
+	Aphex model 120A - 1x4 Distribution Amplifier
+	RDL (Radio Design Labs) model RU-MLDT4 - 1x4 monaural Distribution Amplifier
+	RDL (Radio Design Labs) model RU-MLDT4/T - 1x4 monaural Distribution Amplifier (w/output transformers)
+	RDL (Radio Design Labs) model RU-DA4D - 1x8 monaural or 2x4 stereo Distribution Amplifier (w/screw terminals)
+	RDL (Radio Design Labs) model ST-DA3 - 1x3 monaural Distribution Amplifier (w/screw terminals)
+	Rolls model RA143 - 4x2 stereo Distribution Amplifier
+	Switchcraft model RMAS8 - 8x24 Mic/Line Distribution Splitter

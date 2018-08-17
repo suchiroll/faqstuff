@@ -1,0 +1,16 @@
+Title: Does the SE112m+ work with Android phones?
+Id: 4658
+Legacy Id: 5823
+
+Question:
+Does the SE112m+ work with Android phones?
+
+
+Answer:
+
+	Sorry, no.
+	
+	Phones that operate on the Android OSdo not contain the chip that can communicate with the volume control buttons on the SE112m+. Only Apple has includedthe necessary chipin their products.
+	
+	If you have a Samsung or other phone that uses the Android OS, the CBL-M-K mobile cable along with the SE215, SE315, SE425, or SE535 earphones should work well.
+

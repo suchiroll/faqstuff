@@ -1,0 +1,19 @@
+Title: Mic for bluegrass band - SM94?
+Id: 514
+Legacy Id: 525
+
+Question:
+I have a 4 piece bluegrass band and want to use 1 microphone to sing and play. Is the SM94 a good choice?
+
+
+Answer:
+
+	The SM94 is a very good choice. Here are some hints about using it correctly.
+	
+	1. The SM94 needs power to operate. You can put one AA battery into the handle. Or your can power the microphone from your PA system if the PA mixer has "Phantom Power". You do not need the battery if your PA mixer supplies phantom power. Read the SM94 User Guide for more information.
+	
+	2. The pick up angle of the microphone is about 130 degrees. Make certain that all players and singers are within this 130 degree angle. Also make certain that everyone is the same distance from the mic. If someone sings softer than the others, move him a little closer to the mic. Keep everyone at least 6 inches away from the SM94. It is not designed to be used very close to the mouth.
+	
+	3. Using one mic to pick up four players is fine. However, if you need to be much louder, you will have to get one mic for every player. Using one mic, each of you will probably be two feet away from the SM94. If you each had your own mic, each of you would probably be within inches of your mic. Closer is louder when using any type of mic.
+	
+	I also suggest you read a booklet we have on our web site: Microphone Techniques for Music - Live Sound Reinforcement

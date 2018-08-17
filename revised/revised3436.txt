@@ -1,0 +1,20 @@
+Title: Mix mode impacts volume significantly
+Id: 3436
+Legacy Id: 3628
+
+Question:
+I just bumped up to a PSM 400 from the 200. I really wanted to try running my in ears with the band in L and my guitar in R in stereo mode. But when I do this I seem to loose a lot of headroom on the signals. If I run in mix mode (basically my psm 200 setup) I have a very clean and loud signal. But when I switch to Stereo I loose alot of volume. And if I bump it up on the receiver I distort very quickly. The input isn't too hot because if I just switch back to mono mix (I don't change the input or headset volumes) I get a clean and much louder (maybe twice as loud) signal. My stereo mode is ok for practice but this will never be loud enough to get over the top of a PA and loud crowded bar gig.
+
+Am I doing something wrong? Does everyone loose a lot of volume and headroom when running in stereo mode?
+
+
+Answer:
+
+	Stereo Mode, if operating properly, should not cause a significant drop in level.  However, there is a psycho-acoustic effect.   In Mix Mode, you hear the same signal in both ears, thus it will sound louder as the signal from both ears "add together" in your brain.  This is called "Center Channel Build-Up"   In Stereo, each signal is heard only "once", and the summing does not occur.
+	
+	Here is a quote from a site not affiliated with Shure:
+	
+	"Each DORROUGH Loudness Monitor features Right and Left inputs for use in stereo mixing applications. With one instrument, the operator can easily see the stereo mix and avoid the classic in-phase/out-of-phase problem. “Center channel build-up,” the addition of in-phase or monophonic material which causes the mix to be perceived as louder, will appear as a sudden increase in level. This is especially important in preparing stereo program material for broadcast, while still being able to maintain monaural compatibility. "
+	
+	
+	Is your system operating properly?  We think yes, but this cannot be determined via email.   If your PSM400 is less than two years old, it will be repaired under warranty if it is defective.  If it meets all specs, it will be returned without repair.  Call Shure Service at 800-516-2525 for details.

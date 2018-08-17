@@ -1,0 +1,12 @@
+Title: Replacement cartridge for Technics SL-B200 turntable
+Id: 950
+Legacy Id: 979
+
+Question:
+I have a Technics SL-B200 turntable with a Shure DT15 P cartridge. Which replacement cartridge do you suggest?
+
+
+Answer:
+
+	The M92E.
+

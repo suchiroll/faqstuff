@@ -1,0 +1,13 @@
+Title: M78 mono cartridge: will it play hill and dale 80 rpm Pathé discs?
+Id: 1344
+Legacy Id: 1396
+
+Question:
+Is it designed for lateral cut 78 rpm or can it be used for vertical response records?
+
+
+
+Answer:
+
+	The M78S is designed to play all wide groove 78 rpm records. It has a stylus radius of 2.5 mils. It should work with lateral cut as well as vertical cut records.
+

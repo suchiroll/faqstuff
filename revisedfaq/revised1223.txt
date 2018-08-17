@@ -1,0 +1,13 @@
+Title: Mounting an SC4 and P6T in the same rack space
+Id: 1223
+Legacy Id: 1267
+
+Question:
+I have an older model SC4 receiver. I'm using it with a wireless Beta 58. I want to rack mount the receiver next to (side by side) my PSM 600 transmitter. Do you have a cable kit compatible with this model so the antenna cable can run back to front for front mounting the antennas? & would you also have the mounting hardware for the SC4. I bought it so long ago, I never keep track of the hardware etc.
+
+Answer:
+
+	In order to bring the SC4 antennas to the front, you would need another rack panel called the WA440. But since this would require another rack space anyway, your best solution is to mount the SC receiver in one rack space (the antennas can then be brought to the front in that rack space) and mount the P6T in its own rack space (the P6T antennas can also be brought to the front in that same rack space).
+	
+	To purchase the rack mount hardware for the SC4 receiver, please call our Parts Department at 847-600-2000 or 800-516-2525.
+

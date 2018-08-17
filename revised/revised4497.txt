@@ -1,0 +1,14 @@
+Title: QLXD4 receiver mounted next to SCM268 or SCM262
+Id: 4497
+Legacy Id: 5611
+
+Question:
+Will a QLXD4 receiver mount next to the SCM268 or SCM262 in the same rack space?
+
+
+Answer:
+
+	Sorry, the answer is no. The QLX-D rack hardware only works with other QLX-D rack hardware and cannot be cross-linked to SCM262 / 268 hardware.
+	
+	It is feasible to use a rack tray to hold the QLX-D receiver and the SCM mixer. Shure has a rack tray model URT2.
+

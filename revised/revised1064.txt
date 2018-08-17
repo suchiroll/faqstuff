@@ -1,0 +1,17 @@
+Title: MC1F to 1/4" phone jack adapter
+Id: 1064
+Legacy Id: 1098
+
+Question:
+I am looking for a 1/4 inch to 1/2 inch adapter as shown in your current product A95UF.
+
+This used to be manufactured by switchcraft. If you do not sell it separately, do you know a source where I could purchase about 100 of these?
+
+
+Answer:
+
+	The 1/2 inch connector on that adapter was made by Amphenol and called a model MC1F.
+	
+	The complete adapter was offered by Switchcraft as part 332A.
+	http://www.switchcraft.com
+

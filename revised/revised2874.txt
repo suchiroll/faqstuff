@@ -1,0 +1,97 @@
+Title: Output Specifications for PSM receivers
+Id: 2874
+Legacy Id: 2989
+
+Question:
+What is the output specifications for the headphone jack on the PSM bodypacks?
+
+Answer:
+
+	
+		
+			
+				Model
+			
+				Output Z
+			
+				Max Out (Voltage)
+			
+				Max Out (Power)
+			
+				Z Load
+		
+		
+			
+				P2R
+			
+				4 ohms
+			
+				-3dBV (0.7V)
+			
+				62 mW
+			
+				8 ohms (E2)
+		
+		
+			
+				P4R
+			
+				1 ohm
+			
+				0dBV (1.0V)
+			
+				62 mW
+			
+				16 ohms (E2)
+		
+		
+			
+				P4HW
+			
+				1 ohm
+			
+				4dBV (1.6V)
+			
+				86 mW
+			
+				29 ohms (E1)
+		
+		
+			
+				P6R
+			
+				1 ohm
+			
+				4dBV (1.6V)
+			
+				86 mW
+			
+				29 ohms (E1)
+		
+		
+			
+				P6HW
+			
+				1 ohm
+			
+				4dBV (1.6V)
+			
+				86 mW
+			
+				29 ohms (E1)
+		
+		
+			
+				P7R
+			
+				1 ohm
+			
+				4dBV (1.6V)
+			
+				86 mW
+			
+				29 ohms (E1)
+		
+	
+
+	All tests done with 1 kHz tone and limiters off

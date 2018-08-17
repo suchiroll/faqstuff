@@ -1,0 +1,22 @@
+Title: Pop rejection for WL185
+Id: 3283
+Legacy Id: 3446
+
+Question:
+What is the best way to enhance the pop rejection of the WL185? The specifications for the foam windscreen and the snap-fit windscreen seem to have different specifications for pop-rejection and I'd like to know which I should be using.
+
+
+Answer:
+
+	All miniature directional mics, like the WL185, are extremely sensitive to popping. This is true of all manufacturers' mics because of the physics underlying a directional mic.
+	 
+	
+		The BEST way to reduce popping to change the mic element, making the mic omnidirectional. The omni element is the R183B. Omni elements are very resistive to popping, wind noise, and handling noise. Why should I use an omnidirectional microphone?
+		 
+	
+		If you need the mic to be directional due to acoustic feedback or high background noise, try relocating the WL185 so that it is not directly below the nose. Popping blasts tend to travel directly downward from the mouth/nose.
+		 
+	
+		The snap-fit windscreen will likely be a little bit better than the foam windscreen because its fit provides an air gap between the mic element and the top of the foam.
+
+	The unfortunate physics of any windscreen is that the larger it is, the better it works. A windscreen with a 2 inch diameter will work very well on the WL185, but no one would use it because of the size.

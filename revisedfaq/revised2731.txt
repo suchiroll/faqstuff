@@ -1,0 +1,16 @@
+Title: Ultra 400 and Ultra 300 Phono Cartridge
+Id: 2731
+Legacy Id: 2837
+
+Question:
+I have a V15 III and the Shure cartridge I replaced it with. I can't find any model number either on it or on/in the fancy wood box it came in. It looks completely different from the Type III; much slimmer in profile, coming to a point when the stylus is removed. The stylus has a little brush in front. How can I tell what it is?
+
+
+Answer:
+
+	Your product is the Shure Ultra 400 or 300; the only difference was the outer packaging. The Ultra line was introduced in 1984 and quickly discontinued due to the introduction of the Compact Disc.
+	
+	The replacement stylus is the Ultra 400S or the Ultra 300S.
+	
+	If you cannot find an Ultra stylus, replace the entire cartridge with the M97xE.
+

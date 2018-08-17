@@ -1,0 +1,21 @@
+Title: Cable repair on a MX202
+Id: 2197
+Legacy Id: 2273
+
+Question:
+I have a MX202 with a damaged cable (an overzealous janitor with vacuum cleaner). What is the best way to repair the cable?
+
+
+
+Answer:
+
+	The MX202 cable is permanently attached at the microphone end. Therefore, it cannot be removed.
+	
+	We do not recommend splicing due to the possibility of RF interference.
+	
+	We suggest the MX202 be returned to Shure Service where it will likely be replaced for a service fee.
+	
+	Contact our Service Department at 800-516-2525 or 847-600-2000. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

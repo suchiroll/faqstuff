@@ -1,0 +1,12 @@
+Title: Beta 58 - safe removal of grille?
+Id: 203
+Legacy Id: 204
+
+Question:
+I have a Beta 58 that I love. I cleaned the grille and foam insert thanks to the FAQ topic on this. I'm a little concerned though. When I remove the grille (and I'm very careful!) its hard not to get the cartridge (I think thats what its called?) to move forward a little. It seems to be on a spring loaded mount with about 1/8th of an inch play in it. This is partly due to the tight tolerance of fit and the strong magnetic force acting on the grille. I've reassembled the mic and it sounds as good as ever....but, am I damaging the mic in any way? The bass player in my band says I'm just paranoid!
+
+
+Answer:
+
+	The movement you see is normal due to the shock isolation mounting of the cartridge. Continue to be careful during assembly and re-assembly, and ignore the small movement. As much as I hate to say this, your bass player is right!
+

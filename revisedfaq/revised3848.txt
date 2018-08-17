@@ -1,0 +1,15 @@
+Title: Other routers with Axient system?
+Id: 3848
+Legacy Id: 4088
+
+Question:
+Can I use other Ethernet routers with the Axient system or must I use the AXT620 Ethernet switch?
+
+
+Answer:
+
+	Other manufacturers' Ethernet routers and switches can be used with the Axient system. For easiest setup, make certain the router/switch has a DHCP server built in.
+	
+	Also, the AXT610 requires either POE (Power over Ethernet) or external power. Most people will use POE. Most inexpensive routers do not have POE. Make certain to plug the AXT610 into a port with POE.  If needed, connect the AXT610 to another Axient device, as they have POE.
+	
+	Thus, if you want to use an inexpensive router from Best Buy, just make certain the AXT610 is connected directly to the Ethernet port of another Axient device (such as a receiver or spectrum manager).

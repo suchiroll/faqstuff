@@ -1,0 +1,18 @@
+Title: How do you use effects with wireless guitar system.
+Id: 427
+Legacy Id: 434
+
+Question:
+I'am looking into possibly buying Shure's wireless guitar system (since I play electric guitar). But one thought really bothers me. How do I use my effects with this guitar system? I use 9 effect pedals (mainly Boss pedals) and I was wondering how this whole system works. How do I get my pedals to turn on when I want them to and what not? Can you help me out?
+
+
+Answer:
+
+	This is an excellent question. The typical connection scheme is: Guitar output to wireless transmitter input; RF connection from transmitter to wireless receiver; receiver output to first effects pedal input; last effect pedal output to guitar amp input. Most touring players use rack mount effects instead of floor pedals.
+	
+	There is a possible problem with this arrangement: the audio output of the receiver has different electronic characteristics than the audio output of the guitar. Therefore, the effects pedals may sound different with a wireless guitar connection than with a cabled guitar connection.
+	
+	Do not put effects before the transmitter. Though the transmitter will not be damaged, the transmitted audio will likely be unacceptable.
+	
+	Our advice: Take your complete guitar set up, including your amp, to a Shure dealer and compare the sound of a wireless connection to a cabled connection. This is the only way you will know if wireless is for you.
+

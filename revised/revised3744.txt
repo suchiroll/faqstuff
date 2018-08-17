@@ -1,0 +1,14 @@
+Title: UA820 ½ wave antenna that sags at the hinge point
+Id: 3744
+Legacy Id: 3980
+
+Question:
+I have an out-of-warranty UA820 UHF 1/2 wave antenna that will no longer stand up straight. The hinge appears to have loosened. Besides buying a new antenna, is there a quick and cheap fix?
+
+
+Answer:
+
+	Obtain a wire twist tie that is used to close a plastic garbage bag.   Fold the twist tie in half.   With the antenna bent at a 90 degree angle, insert the twist tie into the gap at the hinge. 
+	
+	The remainder of the twist tie can be wrapped around the base of the antenna or cut off.  
+	

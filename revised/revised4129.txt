@@ -1,0 +1,33 @@
+Title: ULX-D Crestron/AMX Control Strings
+Id: 4129
+Legacy Id: 4976
+
+Question:
+I want to control the ULX-D receiver with a Crestron touchscreen. What are the control strings?
+
+
+
+Answer:
+
+	The ULXD6, ULXD8, SBC850, SBC450, ULXD4, ULXD4D, and ULXD4Q can be monitored and controlled via a control system, such as AMX, Crestron, or Extron.
+	
+	Below is a PDF of the command strings.
+	
+	The AMX/Crestron can control and/or monitor the following items:
+	
+		Mute
+	
+		Volume
+	
+		Names
+	
+		Frequency
+	
+		Battery Usage Information
+	
+		Interference Detection
+	
+		Audio & RF Meters
+	
+		Encryption
+

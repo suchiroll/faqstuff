@@ -1,0 +1,11 @@
+Title: P4R with P7T
+Id: 797
+Legacy Id: 819
+
+Question:
+Since the PSM400 system uses the Group 1 frequencies of the PSM700, can you use P4Rs with P7Ts if you use them in MixMode with one channel going to the P4Rs and the other going to the P7Rs?
+
+Answer:
+
+	Yes, the P4R receivers will work with the P7T transmitter if they are in the same frequency band. The MixMode concept you described will work as well.
+

@@ -1,0 +1,22 @@
+Title: Front mounting the P4T antenna
+Id: 2993
+Legacy Id: 3121
+
+Question:
+Is there a kit or method for front mounting the antenna for the PSM400/P4t?
+I have it racked with the P4M mixer using the rack mounting kit included with the P4MTRE3.
+
+
+
+Answer:
+
+	If you have the P4T and the P4M racked next to each other, then you can't front-mount the antenna. There is not enough space. If you wish to front mount the antenna, you have two choices, both of which will require another rack space.
+	
+	1) Rack the P4M and the P4T separately, on top of one another. This will allow you to mount the antenna on the long rack ear next to the P4T. You will need the following parts:
+	53C8484 - Long rack ear (you will need two, one for the P4T and one for the P4M)
+	95A8994 - BNC Bulkhead Adapter
+	95A2035 - BNC Cable
+	
+	These parts can be purchased from our Service Dept. by calling 1-800-516-2525.
+	
+	2) Use the UA440 rack panel (a blank panel with holes for BNC connectors) to front mount the antenna. This panel includes four connectors and cables, more than you need.

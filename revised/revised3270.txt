@@ -1,0 +1,15 @@
+Title: Using the FP33 with a Sony HD camera
+Id: 3270
+Legacy Id: 3425
+
+Question:
+When I use the FP33 for my Sony HDW750 camera, I adjust sound level on FP33 properly, then look at the meter of the camera. It shows much louder than the sound level which FP33 shows. Does that means FP33 is not for HDW750?
+
+
+Answer:
+
+	The FP33 has VU meters. The Sony likely has PPM (peak) meters. Both meters measure signal level, but in different ways. These two types of meters will never match.
+	
+	Here is a setting that will work: when the FP33 meter reads 0, the Sony meter should read -10.
+	
+

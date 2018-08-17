@@ -1,0 +1,12 @@
+Title: Can I use a Lightning extension cable with a Motiv device?
+Id: 4711
+Legacy Id: 5881
+
+Question:
+Can I use a Lightning extension cable with a Motiv device?
+
+
+Answer:
+
+	Many accessory cables are designed for charging only and will not work. It should be ok to use a USB Micro-B extension cable.
+

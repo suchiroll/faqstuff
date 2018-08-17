@@ -1,0 +1,26 @@
+Title: Manufacturing info about mic grills
+Id: 2006
+Legacy Id: 2069
+
+Question:
+I realize that this is a very unusual query, but I’m curious nonetheless:
+
+
+How is the grille of the Beta 58A made: i.e. how is the mesh attached to the grill-rings? I presume it is welded to the rings by means of a resistance welding or similar process. I see that apparently not all of the wires have formed a successful bond with the middle and base rings, where they meet. Is this normal, and what percentage of successful mesh-wire to ring welds would be considered acceptable during manufacturing? Have you ever come across a grill failure (i.e. coming apart) due to impact to a microphone, e.g. falling?
+
+
+You’re response would be greatly appreciated!
+
+
+Answer:
+
+	Sorry, but our manufacturing techniques are trade secrets. We do not reveal techniques nor component suppliers.
+	
+	If you have a grill that has failed, please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+
+	
+
+	http://www.shure.com/americas/legal/warranty
+

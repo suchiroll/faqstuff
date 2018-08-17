@@ -1,0 +1,22 @@
+Title: VP83 Rycote Windjammer Installation
+Id: 4354
+Legacy Id: 5439
+
+Question:
+What's the best way to put the Rycote windjammer onto the Shure VP83 or VP83F?
+
+
+Answer:
+
+	
+		The VP83 foam windscreen remains in place.
+	
+		The Rycote is a snug fit and is designed to be snug.
+	
+		Place the Rycote over the front of the mic. Have the flat area (without fur) downward as it slips between the foam windscreen and the metal mic base.
+	
+		Gently pull one side of the Rycote and then the other. Alternate this pulling action - pulling the Rycote toward the Shure logo printed on the VP83. When properly fitted, the Rycote will partially cover the Shure logo.
+	
+		The elastic band, with the snap, fits around the bottom of the mic...but NOT touching any part of the shock mount or the shock mount elastic bands.
+
+

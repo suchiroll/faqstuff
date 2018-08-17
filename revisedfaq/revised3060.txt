@@ -1,0 +1,20 @@
+Title: Making Beta 98H/C  wireless
+Id: 3060
+Legacy Id: 3191
+
+Question:
+Can I use my Beta 98H/C mic (non-wireless model) on a wireless system?
+
+
+Answer:
+
+	1) From www.mouser.com, purchase 1 - Switchcraft TA4F connector and 1 - Switchcraft TA4M connector.
+	
+	2) Cut the cable that connects the mic to the preamp. On the preamp end, leave a cable pig-tail of about 3 inches.
+	
+	3) Solder the Switchcraft TA4F connector to the end of the mic cable: shield to pin 1, red to pin 2, black to pin 3 and pin 4.
+	
+	4) Solder the Switchcraft TA4M connector to the end of the preamp cable: shield to pin 1, red to pin 2, black to pin 3 and pin 4.
+	
+	Now the mic can be connected to any Shure transmitter with a TA4M input, and the mic can also be connected to the preamp via the new TA4M connector.
+

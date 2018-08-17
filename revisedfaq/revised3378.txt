@@ -1,0 +1,20 @@
+Title: Can a PGX transmitter be used with an SLX receiver? And vice versa?
+Id: 3378
+Legacy Id: 3565
+
+Question:
+I have SLX receivers with lavaliers and recently purchased PGX handheld mics. Are these items compatible?
+
+
+Answer:
+
+	Here is how to do this, but it is cumbersome.
+	
+	1) You need a SLX4, a PGX4, and a PGX2. All must be in the same frequency range, like a SLX4-H5, a PGX4-H6, a PGX2-H6. H6 is a subset of H5.
+	2) Use the PGX4 to find an open frequency.
+	3) Use the PGX4 to set the PGX2 frequency using the SYNC function. (The SLX4 cannot SYNC a PGX2.)
+	4) Using a PGX reference table, translate the PGX4 CHANNEL setting into the frequency in MHz, e.g., 540.150 MHz.
+	5) Using a SLX reference table, manually tune the SLX4 to 540.150 MHz.
+	
+	
+	The reverse will not work:  PGX receiver with SLX transmitter.  Why? There is no method to retune the SLX transmitter except for the SYNC function, and SYNC does not work between a PGX model and an SLX model.

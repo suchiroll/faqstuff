@@ -1,0 +1,12 @@
+Title: Miking Grand Piano
+Id: 1906
+Legacy Id: 1967
+
+Question:
+I looked though your material and didn't seem to find any mics. specifically for grand pianos. Could you recommend something for me.
+
+
+Answer:
+
+	To read about mic placement, see: http://www.shure.com/publications/microphone_techniques_for_recording_english.pdf
+	To see what microphones we recommend for piano, check out our blog post on mic selection:http://blog.shure.com/shure-notes/live-sound/choosing-the-right-mic/

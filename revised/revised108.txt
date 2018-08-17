@@ -1,0 +1,15 @@
+Title: What are the advantages/disadvantages of transformerless microphone designs?
+Id: 108
+Legacy Id: 108
+
+Question:
+What are the advantages/disadvantages of transformerless microphone designs like the KSM32?
+
+Answer:
+
+	Historically transformers were used when the vacuum tube was the only available active component in circuit design. Transformers were necessary to provide output and often input coupling. With careful design, solid state technology can benefit from transformers by providing improved RFI/electrostatic immunity, excellent common-mode rejection ratio, solutions for ground-loop problems, and induced common mode power line interference.
+	
+	However, the penalty of using transformers can be costly. High quality transformers tend to be expensive and have large footprints. Primarily due to cost and design space constraints, inexpensive, smaller transformers are often used resulting in limited dynamic range and unpleasant distortion at usable levels, especially in the low-frequency range. These transformers typically do not provide the expected benefits. High parasitic capacitance, unbalanced windings, and poor construction of transformers make the device susceptible to hum from power lines. Furthermore, all transformers saturate at some point resulting in undesirably harsh sound. Using high quality transformers is often avoided, due to their high cost and large size.
+	
+	The KSM32 uses transformerless circuit design. Shure has developed a balanced solid state preamplifier circuit that has virtually all the benefits of a high-quality transformed design without the drawbacks associated with smaller, cost effective transformers. The interface of the microphone is equipped with RFI protective ferrite beads and chokes. These parts prevent leakage of a wide range of radio frequency signals into the microphones circuitry, but are transparent to differential audio signals coming from microphone. As a result of careful attention to the interface design, the immunity of the KSM32 to interference and electrostatic shock is better or as good as the best microphones that use high quality transformers.
+

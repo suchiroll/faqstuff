@@ -1,0 +1,11 @@
+Title: Microphone for home karaoke
+Id: 59
+Legacy Id: 59
+
+Question:
+I would like to get a Shure mic for karaoke at home but I have a pro mixer and I also want to use it pro live performing too. Which one should I buy?
+
+Answer:
+
+	There are many different microphones that would work. Microphones from a PGA48 microphone to a BETA 58A and everything in between would likely work for your application. A good all around general purpose microphone would be the SM58.
+

@@ -1,0 +1,11 @@
+Title: M267 headphone jack configuration
+Id: 2682
+Legacy Id: 2786
+
+Question:
+I am using a M-267 for remote broadcasts of an AM talk show, should I be able to hear in both sides of the headphones?
+
+
+Answer:
+
+	The headphone jack on the M267 sends the signal to the tip and ring of the headphone jack. If your headphones are wired as standard stereo phones, you will hear signal on both sides of the headphones.

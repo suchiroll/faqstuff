@@ -1,0 +1,17 @@
+Title: PGA98H-TQG used as a wired mic
+Id: 4691
+Legacy Id: 5861
+
+Question:
+Is it possible to convert Shure PGA98H-TQG wireless to wired XLR?
+
+
+
+Answer:
+
+	
+		Obtain the Shure RPM626 preamp and connect the PGA98H-TQG to it. To operate, this preamp requires phantom power.
+
+
+
+

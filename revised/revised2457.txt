@@ -1,0 +1,14 @@
+Title: Theory of condenser microphones.
+Id: 2457
+Legacy Id: 2552
+
+Question:
+I am a physics student studying the polar response of cardioid microphones. Do you have any information you could send me? I have looked at your downloadable booklets but none of them look at it in enough detail. I am particularly interested as to why, at higher frequencies, a cardioid mic behaves like a hyper cardioid mic. Why, at around 180 degrees, is there a peak in microphones response.
+
+
+Answer:
+
+	All of this research information can be found in a book: Microphone Engineering Handbook; edited by Michael Gayford; ISBN 0-7506-1199-5.
+	
+	You can also research this at: http://www.aes.org
+

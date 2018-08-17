@@ -1,0 +1,71 @@
+Title: Difference between bias (plug-in power) and phantom power?
+Id: 1672
+Legacy Id: 1729
+
+Question:
+This may sound silly, but I'm just getting started in this microphone business. I'd like to know the difference between phantom and plug-in power. I know they're different somehow but I'd like to know, for instance, if I could use a condenser microphone with plug-in power alone.
+
+Also, I read that in order to use a dynamic microphone (say, a SM58) with plug-in power there's a need for a transformer, but I have used both the SM58 and the Beta 58A with my cheap (full auto, mono, no manual sound adjustments whatsoever) Sony camcorder with no problems at all, just with a cable with XLR in one end and a minijack in the other.
+
+Finally, I'd like to know what balanced output means and what is its relation with condenser/dynamic microphones.
+
+Thank a lot.
+
+--------------------------------------------------
+Thanks, I think I fairly understood this, now I know phantom and plug-in power (or bias) are different, but I still don't know how are they different, so, what is the basic difference between phantom and plug-in? From what I understood I could get that phantom is used to power electret condenser microphones (if they are not self powered by batteries), but what type of mic does plug-in power manages then?
+
+Also, about the SM58/Beta 58 and camcorder issue, if my cable is wired in an incorrect way, shouldn't I expect hum or interference noise due to the plug-in power bias? Or some frequency response issues? Because none of this really happens, and the sound is actually better than the one recorded with the camcorder microphone.
+
+I think the cable is wired like this: the minijack is mono, so there are two cable ends, positive and ground, which are connected to the respective positive and ground in the XLR output, leaving one pin disconnected. I think this makes an unbalanced output, right? Is this configuration dangerous to my microphones?
+
+Thanks again.
+
+--------------------------------------------------
+Hello again, thanks for your quick reply.
+
+I have another question about the SM58/beta 58 issue. I have a small, powered Boss 6-channel stereo mixer/preamp with only unbalanced 1/4" jacks (the bigger ones, right?) for inputs/outputs. This mixer only has gain, effect return level, panpot and volume controls for each channel, and volume and effect return level for each of the two outputs (stereo). No phantom power or any sort of bias as you could have deduced.
+
+So my question is: If I connect my SM58/Beta 58 (or any other dynamic mic for what is worth) through this mixer to a plug-in power mic input, the mixer/preamp should block the plug-in power, right? Meaning the mics will be safe from this bias voltage? Could I use then the cable described in my last message, no matter what the internal configuration of the cable is (except, of course, that the polarity should match)?
+
+I think I'm buying the A96F anyway, for practical purposes, but I'd like sometimes to record with more than one mic.
+
+Thanks.
+
+--------------------------------------------------
+Does the A96F require batteries or something like that?
+
+
+Answer:
+
+	Please see the following links to our online FAQ:
+	
+	Condenser mic for minidisc recorder w/ Plug-in-Power
+	Difference between balanced and unbalanced
+	
+	As for the SM58, it depends on how the adapter cable that you have is wired. If the cable is wired in an incorrect way you could damage the SM58.
+	
+	Read our online Shure Educational Booklets.
+	
+	What books are recommend to learn about audio?
+	
+	_____________________________________
+	Phantom power is used to power up the electronic preamp (also called an impedance converter) for professional condenser microphones. It is 11 to 52 volts of dc power that rides on the same wires as the balanced audio signal.
+	
+	Plug in power is typically 5 volts of dc used to power up the JFET of inexpensive condenser microphones. The voltage can be on a separate conductor from the audio or ride on the same conductor as the audio.
+	
+	Also, about the SM58/Beta 58 and camcorder issue, if my cable is wired in an incorrect way, shouldnt I expect hum or interference noise due to the plug-in power bias? It depends. Sometimes yes, sometimes no, depending the design of the audio input circuit, how much current is flowing, how its wired, etc.
+	
+	I think this makes an unbalanced output, right? Yes, that unbalances it, but pin 1 should also be connected to the ground of the audio circuit of the camcorder. Also, this still does not block the plug-in power. The plug-in power could be on the ring, the tip, or any combination there of. There is no standard.
+	
+	Is this configuration dangerous to my microphones? Possibly. It depends on how the microphone input of the camcorder is designed. There is no standard. If you want to be absolutely safe, use the A96F. It will block any dc voltage that is on the microphone input connector.
+	
+	________________________________________
+	we wrote - ...the mixer/preamp should block the plug-in power, right? * Correct.
+	
+	Meaning the mics will be safe from this bias voltage? * Correct.
+	
+	Could I use then the cable described in my last message, no matter what the internal configuration of the cable is (except, of course, that the polarity should match)? * Cable configuration must be decided on a case by case basis. There is no universal cable wiring. You must know the output wiring of the mic and the input wiring of the mixer or recording device. With this information, the cable wiring can be determined. NEVER ASSUME THE CABLE IS WIRED CORRECTLY!
+	
+	_________________________________________
+	No. The A96F is a passive device and does not require any battery or power.
+

@@ -1,0 +1,54 @@
+Title: Is my microphone causing distortion at my recorder inputs?
+Id: 94
+Legacy Id: 94
+
+Question:
+Is my microphone causing distortion at my recorder inputs?
+
+Answer:
+
+	When recording loud sounds, the output level of a microphone may distort the input circuit of a recorder. This bulletin describes the situation and how to solve it.
+
+	What is microphone output level (sensitivity)?
+
+	A microphones output level (sensitivity) specification tells how much electrical output (in millivolts or dBV) a microphone produces for a certain sound pressure level input (in dB SPL).
+
+	What is dB SPL?
+
+	The term dB SPL is a measurement of Sound Pressure Level (SPL) which is the force that acoustical sound waves apply to air particles. As reference levels, 0 dB SPL is the quietest sound a human can normally hear and 1 dB is the smallest change in level that the human ear can detect. At three feet, speech conversation level is about 60 dB SPL and a jackhammers noise level is about 120 dB SPL.
+
+	What dB SPL input level is used for microphone specifications?
+
+	Microphone manufacturers normally specify one of two dB SPL input levels: 74 dB SPL or 94 dB SPL. Shure uses 94 dB SPL unless indicated otherwise on the data sheet. 74 dB SPL is typical of the sound intensity twelve inches away from a talker. 74 dB SPL can also be written several other ways:
+
+	74 dB SPL = 0.1 Pascal = 1 microbar = 1 dyne/cm2
+
+
+	As an example, the output level of the SM58 with a 74 dB SPL sound source is -75.5 dBV = 0.17mV = 0.00017V.
+
+	
+
+	How does the output level of the microphone vary with dB SPL?
+
+	For professional microphones, the relationship between the dB SPL input and the microphones output is linear. That is, if the dB SPL input level is 104dB SPL (+30dB above 74dB SPL), the output of the microphone also increases 30dB. Using the SM58 as an example, -75.5 dBV + 30 dB = -45.5 dBV output with 104 dB SPL input. To determine the output level of a microphone at any dB SPL, two pieces of information are necessary:
+
+	
+		The output level specification of the microphone listed on its data sheet.
+	
+		The dB SPL of the desired sound source as measured with a sound level meter.*
+		
+			* Radio Shack sells a sound level meter for about $35.
+		
+	
+
+
+	Will the microphones output distort the recorders input circuitry?
+
+	First, check the recorders data sheet and find the clipping (distortion) level of the mic input. This should be specified in dBV. If it is specified in millivolts, convert to dBV. (See instructions in italics below.) Next, calculate the output level of the microphone at the desired dB SPL using the information above. Now compare the dBV output level of the microphone to the dBV input clipping level of the recorder. If the microphone output level is 15dB to 25dB less than the input clipping level of the recorder, all should be fine. If the microphone output level is 5dB to 15dB less than the input clipping level of the recorder, clipping could occur on loud sounds or peaks. If the microphone output level is 5dB or less than the input clipping level of the recorder, clipping will definitely occur.
+
+	What if the microphone output level is too great for the recorder input?
+
+	Insert an in-line attenuator (also called a pad) between the microphone output and the recorder input. This device reduces the output level of the microphone before it reaches the recorders input. Shure offers such a product, called the A15AS, which reduces the microphone output level by 15, 20, or 25 dB. Or the recorder may have a switchable attenuator as part of its input circuitry.
+
+	Converting millivolts to dBV using a calculator: Divide millivolts by 1,000 - press LOG - multiply by 20.
+

@@ -1,0 +1,17 @@
+Title: PSM400 - P4R Scanning Function
+Id: 2884
+Legacy Id: 3006
+
+Question:
+How do I use the scanning function of the P4R receiver?
+
+
+Answer:
+
+	USING SCANNER MODE ON PSM400 RECEIVERSThe receiver for the PSM400 systems, model P4R, has a built in scanner mode that is not explained in the user guide. To use scanner mode to find usable frequencies, follow the following steps:1. With power off, depress both the SCROLL and SELECT buttons simultaneously.
+	2. While pressing buttons, turn receiver on by turning volume knob past the click.
+	3. You will see the bars above the battery on the LCD display collapsing inward, this indicates that you are now in scanner mode. Release the SCROLL and SELECT buttons.
+	4. Press and hold the SCROLL button down until the cursor on the screen is below FREQ.
+	5. Use the select button to scroll through each frequency while the cursor is still visible.
+	6. With each frequency, listen for uninterrupted white noise. This indicates an unoccupied frequency. Use these frequencies for your set-up. Anything other than white noise, even complete silence, indicates the frequency is occupied. Do not use those frequencies.
+	7. Turn receiver power off to exit scanner mode.Make sure all PSM400 or PSM700 transmitters (P4T or P7T) are off. You must use either your earpieces or a set of headphones for this procedure. Listen at a low level during scan mode. Scan mode does not need to be repeated on every receiver in your set-up, one receiver scans for all unoccupied frequencies in the PSM400 frequency band.There are factors that may affect the accuracy of this scan function in troubleshooting RF issues, and there are other factors that can affect PSM system performance. For further help visit www.shure.com/faq or contact Shure’s Applications Engineering Department at 847-600-8440.

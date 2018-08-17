@@ -1,0 +1,13 @@
+Title: Power Consumption for U4S
+Id: 1582
+Legacy Id: 1638
+
+Question:
+What is the power usage on the U4S receiver?
+
+
+Answer:
+
+	The power consumption for the U4S is 9.6 watts minimum and 13.2 watt maximum.
+	
+	For complete specifications, please see the User Guide Supplement.

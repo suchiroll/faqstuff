@@ -1,0 +1,12 @@
+Title: Microphone to use for Room Acoustics Equalization
+Id: 1830
+Legacy Id: 1890
+
+Question:
+I am using a Computer Controlled Graphic Eq to set the room acoustics. The unit requires the use of a wide, smooth response omnidirectional mic. I would also need the mic's frequency response curve for the mics you recommend
+
+
+Answer:
+
+	We suggest you check with measurement mic manufacturers. Measurement Microphones for below 20Hz
+

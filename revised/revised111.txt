@@ -1,0 +1,32 @@
+Title: Where can I get a thermistor for my Vocal Master?
+Id: 111
+Legacy Id: 111
+
+Question:
+The thermistor in my Vocal Master failed. Does Shure still have these parts?
+
+
+Answer:
+
+	What is the problem?
+	In the Vocal Master, part number R23, a thermistor located in the ac power supply, is likely to fail after a period of time. This thermistor is no longer available from Shure.
+	
+	Where can a substitute part be purchased?
+	We recommend a CL-90 thermistor manufactured by Keystone Carbon Company. It is described as a negative temperature coefficient (NTC) inrush current limiter. It can be purchased from either Mouser Electronics or Digi-Key Electronics Catalogs.
+
+	
+		Mouser Electronics-1-800-346-6873--Mouser Part No. 527-CL90
+	
+		Digi-Key Electronics-1-800-344-4539--Digi-Key Part No. KC009L-ND
+
+
+	What are the basic specifications of the thermistor?
+	The cold resistance is 120 ohms at 75F. The steady state current capacity is 2 amps.
+	
+	What is the purpose of the thermistor in the Vocal Master?
+	When the unit is first powered up, the thermistor limits the current that can flow in the power supply. This prevents possible damage to the loudspeakers by eliminating a turn-on transient (loud pop).
+	
+	Can the thermistor be eliminated from the Vocal Master?
+	Yes, if the user keeps the Vocal Master Master volume control set to zero when powering up the unit. This will prevent any turn-on transient from damaging the loudspeakers. Replace R23 with a piece of 20 gauge wire.
+
+

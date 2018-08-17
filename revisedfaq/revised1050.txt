@@ -1,0 +1,20 @@
+Title: Buzz or hum on my phonograph
+Id: 1050
+Legacy Id: 1083
+
+Question:
+I have BIC turntable - probably 20 years old with a SHURE RS 5T cartridge mounted under a R47 EDT.
+
+
+My amplifer - Denon - gives no feedback or buzz when it is on the tuner, CD or VCR modes but when it is on PHONO mode there is a very noticable buzzing.
+
+
+Is this caused by an old or worn out cartridge?
+
+
+Answer:
+
+	It sounds like the turntable is not grounded to the receiver. Turntables usually have a separate ground wire that attaches to the chassis of the receiver. Make certain that it is attached.
+	
+	One other way to verify if the problem is the cartridge or not, is to unplug the left and the right channel audio from the turntable separately to see if the hum/buzz goes away. If the hum/buzz is there no matter which side is unplugged then it is not the cartridge. If it does go away, when one side is unplugged, then there may be a broken wire in the tone arm.
+

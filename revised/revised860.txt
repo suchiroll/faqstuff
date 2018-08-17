@@ -1,0 +1,12 @@
+Title: How do I mic a Hammond Organ leslie?
+Id: 860
+Legacy Id: 887
+
+Question:
+I need to mic a Hammond Organ leslie in a church that is installing a much larger sound system to support their "Contemporary Music" service.  The current system for the leslie will not provide enough volume so they would like to mic the existing leslie and route it through their new sound system.
+I would appreciate any suggestions on microphone selection and proper locations for the microphones to provide accurate reproduction.
+
+Answer:
+
+	Download our online publications Microphone Techniques for Music--Sound Reinforcement. Page 28 of this publication describes different techniques for miking a Leslie organ speaker.
+

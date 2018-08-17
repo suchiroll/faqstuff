@@ -1,0 +1,26 @@
+Title: ULXD Frequency Bands in United States
+Id: 4101
+Legacy Id: 4737
+
+Question:
+What isthe megahertz listingfor each frequency band?
+
+
+Answer:
+
+	G50 = 470 to 534 MHz(TV 14 -24)
+
+	NOTE: TV 24 extends to 536 MHz. G50 ends at 534 MHz.
+
+	
+
+	J50 = 572 to 608 MHz;614 to 636 MHz(TV 31 - 36;TV 38 - 41)
+
+	Note: 608 to 614 MHz (TV 37) is omitted. TV 41 extends to 638 MHz. J50 ends at 636 MHz.
+
+	
+
+	L50 = 632 to 696 MHz(TV 41 -51) (Discontinued)
+
+	NOTE: TV51 extends to698 MHz. L50 ends at696 MHz.
+

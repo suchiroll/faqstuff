@@ -1,0 +1,10 @@
+Title: Is the part I need for my SM58 called a 'Cartridge'
+Id: 527
+Legacy Id: 538
+
+Question:
+I have an SM58 wireless mic that does not operate.  I also have a SM58 that does work.  The battery is good and the power and muting switches are working.  When I unscrew the top portion where the screen and mic element is held, and swap that with the working unit, the mic works great.  Is that top assembly that unscrews from the body called the "Cartridge" (Part number R158).  If not is that portion available?
+
+Answer:
+
+	Yes, the replacement cartridge is part number RPW112. You can order one from our Parts Department at 800-516-2525 or 847-600-8699.

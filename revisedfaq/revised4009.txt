@@ -1,0 +1,13 @@
+Title: Location of User Defined Series file Mac OS X
+Id: 4009
+Legacy Id: 4416
+
+Question:
+I recently replaced a hard drive in my primary Mac computer and have been unable to locate the file that contains the User Defined Series for Wireless Workbench 5.0.5.2. As there were many non-Shure products entered, I would love to recover the old file(s). Could you please tell me where to find them?
+
+
+
+Answer:
+
+	From the Finder, navigate to Applications-Shure-Shure Wireless Workbench Software-5.0-Compatibility. That folder contains a file called FCUserDefined.txt. All User Defined series data is contained in this file.
+

@@ -1,0 +1,16 @@
+Title: SM57 - no 3 pin XLR connector on my mixer
+Id: 571
+Legacy Id: 582
+
+Question:
+I record at my home using just my computer and a very simple panasonic audio/video mixer. It has one mic plug in which is a normal one inch single connector. The cable that was sent with my SM57 is three pinned. Is there a transfer I can use to make it into a one inch prong, or do I need a new cable. Which kind of transfer or cable do I need?
+
+
+Answer:
+
+	The 3 pin connector on the SM57 is called an XLR connector. Depending on the sensitivity of the Panasonic mixer, one of the following 2 solutions should work:
+	
+	(1) An XLR to 1/4 cable. Model #C15AHZ (15 foot) or #C20AHZ (20 foot).
+	
+	(2) A transformer such as the model #A85F. This transformer has an XLR connector on one end and a 1/4 connector on the other end. You would use the cable that was sent with your SM57 to complete the connection.
+

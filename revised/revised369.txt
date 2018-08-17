@@ -1,0 +1,11 @@
+Title: Shure cartridge "PRESENCE 8"
+Id: 369
+Legacy Id: 376
+
+Question:
+I acquired a used turntable with a Shure "PRESENCE 8" cartridge installed.  Could you please provide me with specifications and needle replacement information for this cartridge?  I have a spare M91ED and am wondering if I should use this cartridge instead, if it is better than the PRESENCE 8.
+
+Answer:
+
+	The Presence 8 is a better performer than the M91ED. The Presence 8 uses the N96LT stylus which is an elliptical tip (0.2 x 0.7 mils) and tracks from 1 to 1.5 grams. The N96LT stylus is a discontinued model, however Shure Parts still has a small supply left. In the U.S., call Shure Parts at 847-600-8699 for pricing and availability.
+

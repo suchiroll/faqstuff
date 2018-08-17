@@ -1,0 +1,13 @@
+Title: Dimensions of R103 / 514B Element
+Id: 4811
+Legacy Id: 5997
+
+Question:
+I am looking for a replacement Dynamic Mic for a console in the County Jail. Can you provide we with the datasheets/specifications for your replacement cartridges R103? The form factor I am replacing has a face of 1-1/4" diameter and body of 1" diameter x 1/2" depth.
+
+
+
+Answer:
+
+	R103 replacement mic element for the 514B: diameter: 42 mm; depth: 18 mm
+

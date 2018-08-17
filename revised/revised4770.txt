@@ -1,0 +1,13 @@
+Title: Multitrack with Motiv MVi
+Id: 4770
+Legacy Id: 5952
+
+Question:
+In the Shure demo video of the MVi, it is shown doing multitrack recording. What app is used to do the multitracking in iPhone?
+
+
+Answer:
+
+	In the MVi demo video, multitrack recording is done using "Garageband,"  a free download for any iPhone. (The Shure app does not have multitrack functionality.)
+	
+	When connected through the iPhone Lightning port, the MVi will be the active audio device. Garageband (or any other app you choose) will record whatever device is plugged into the MVi - be it a microphone using the XLR input or an instrument using the 1/4" female phone jack input.

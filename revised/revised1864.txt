@@ -1,0 +1,18 @@
+Title: SM81 to use for general and specific use?
+Id: 1864
+Legacy Id: 1924
+
+Question:
+We are in need of a condenser type mic to use for several things. (1) We have a stage (25' by 25') that needs mic'd for plays. (2) 3-vocalist that are spaced about 2'-3' apart. (3) Piano and woodwinds, sax, flute. I know that is a general field to cover. Would the SM81 be a good choice for that?
+
+
+Answer:
+
+	Yes, the SM81 would be a superb choice.
+	1. Make certain the vocalists do not hold the SM81; it is designed for stand mount use.
+	2. Consider mounting the SM81 with an A53M shock mount to reduce vibrational noise.
+	3. The SM81 requires phantom power from the mixing board; make certain the board has phantom.
+	
+	Also consider the new Beta 27 in the same price range.
+	
+	In a lower price range, consider the SM94 and PG81.

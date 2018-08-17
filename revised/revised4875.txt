@@ -1,0 +1,13 @@
+Title: Motiv MV88 as Monaural Microphone
+Id: 4875
+Legacy Id: 6064
+
+Question:
+How can I set the MV88 to record in mono using only the Mid mic?
+
+
+Answer:
+
+	1) Go to 'Motiv Settings' in the MV88 app
+	
+	2) Swipe right on the polar pattern options to choose: stereo (the default); mono cardioid; mono bidirectional, or raw mid-side.

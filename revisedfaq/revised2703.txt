@@ -1,0 +1,16 @@
+Title: SM11 mic - Do I need a mixer with more gain (amplification)?
+Id: 2703
+Legacy Id: 2807
+
+Question:
+We are doing Legal depositions mostly in small conference rooms (15 x 25). We have tried to use the SM11 lavalier on the witness and the questioning attorney and the SM57 stand Mic for the oposite side attorney(s). We are using 20ft Lo-Z cables attached to the balanced side (XLR) of a Behringer UB1204FX-Pro. We use the tape out (RCA) to a VCR for recording the audio (would like to find XLR to RCA cables to use the main output)and the video is coming from a Canon XL-1. We are not satisfied with the audio output...the gain is turned almost all the way up and the audio is not crisp and loud as we would like. Do you have any suggestions for a better set up or a different mixer?
+
+
+Answer:
+
+	The following Shure mixers will likely work better as each has more gain than the Behringer mixer: SCM268; M367; SCM410; FP410
+	
+	The SM11 has a very low output and requires a mixer with lots of gain, typically 80dB or more.
+	
+	The Behringer mixer is made for the music recording market where lots of gain is not needed as the mics are placed close to very loud instruments, amplifiers, or singers. An SM11 used for speech will not amplified adequately by the Behringer...but you already know that!
+

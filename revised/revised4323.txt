@@ -1,0 +1,26 @@
+Title: UA844SWB/LC Supplied Accessories
+Id: 4323
+Legacy Id: 5401
+
+Question:
+What accessories are supplied with the UA844SWB/LC?
+
+
+Answer:
+
+	One: UA844SWB RF distribution amplifier
+	
+	One: PS45US power supply
+	
+	Two: BNC to BNC cables (72 inches / 183 cm)
+	
+	Four: DC power cables (24 inches / 61 cm)with push-on coaxial connectors (for use with BLXR, SLX, QLX-D)
+	
+	One: hardware kit containing - four rack mounting screws; four nylon panel washers; four rubber feet,  inch in diameter with adhesive, to stick on the bottom of the receiver chassis; two plastic hole-plugs to cover the two BNC bulkhead openings on the front rack panel.
+	
+	NOTE 1: To connect the receiver antenna ports to the UA844SWB, use the BNC-BNC antenna cables supplied with each BLXR, SLX, QLX-D.
+	
+	NOTE 2: To attach antennas to the front of the UA844SWB, use thebulkhead BNC connectors supplied with each BLXR, SLX, QLX-D.
+
+	
+

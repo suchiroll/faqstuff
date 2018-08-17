@@ -1,0 +1,12 @@
+Title: BLX4R Hardware for Front Mount of the Antennas
+Id: 4302
+Legacy Id: 5371
+
+Question:
+When I purchase a BLX4R system, will I get the hardware required to mount the antennas on the front rack panel?
+
+
+Answer:
+
+	Yes, the BLXR is supplied with rack hardware that is similar to that supplied with SLX wireless.
+

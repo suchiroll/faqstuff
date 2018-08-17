@@ -1,0 +1,19 @@
+Title: Internal wiring of the Beta 58A XLR connector
+Id: 4
+Legacy Id: 4
+
+Question:
+
+Beta 58A, XLR connector, pulled out came off. What is the correct internal wiring of the Beta 58A XLR connector?
+
+
+Answer:
+
+	The Beta 58A XLR connector should be wired as follows:
+	
+	Pin 1 -- Shield/Chassis
+	Pin 2 -- Blue
+	Pin 3 -- Yellow
+	
+	The pin numbers should be displayed in the connector itself.
+

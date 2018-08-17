@@ -1,0 +1,31 @@
+Title: UHF-R receiver is offline in Wireless Workbench
+Id: 3547
+Legacy Id: 3753
+
+Question:
+I have 4 UHF-R receivers connected via ethernet to my computer. When I go to live mode one of the receivers always says it is off line. What can be the problem?
+
+
+Answer:
+
+	Typically, a receiver will show offline when Wireless Workbench had connected properly to the receiver and then a cable comes unplugged or the receiver is turned off.
+
+
+	Here are other items to check:
+
+	
+		Make certain each receiver and the computer do not have duplicate IP addresses. (Shown in the Network menu).
+	
+		Make certain the receivers do not have a duplicate Device ID. (Shown in the Network menu).
+	
+		Make certain the subnet mask is exactly the same between all receivers and the computer.
+	
+		Make certain you are using the latest version of Wireless Workbench.
+	
+		Make certain the receivers have the latest firmware.
+	
+		If using USB to connect the computer to a receiver, there should be 4 receivers or less.
+	
+		Make certain Monitor Only is not selected in the File menu.
+
+

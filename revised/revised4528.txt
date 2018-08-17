@@ -1,0 +1,15 @@
+Title: UHF-R, WWB and Mac - App Nap
+Id: 4528
+Legacy Id: 5646
+
+Question:
+I have a quick question regarding UHF-R wireless receivers, Wireless Workbench 6, and a Mac Laptop. I currently have (5) UR4D receivers. These are all connected via Cat5 into our network. I then monitor them from my Mac Laptop at FOH. I just updated my computer to a new MacBook Pro. I'm running OSX 10.9.4. It took me a little be to get the receivers connected and working with WWB6, but that's all up and running now. The current issue I have is with using multiple desktops on the Mac. I will typically have more then one running. I have an RTA style program running on one desktop and WWB6 on another. At times there will be other programs running on additional desktops as well. If I stay on the desktop running WWB6 it works get. If I switch away to another desktop, when I come back, I have lost connection with the receivers. The only way I have found to reconnect is to reopen the show profile. Is there away to keep them connected while on another desktop, or at least easily reconnect them?
+
+Answer:
+
+	It is likely that WWB is being "put to sleep" by the App Nap that is built into Mavericks.  When you switch away from the Desktop containing WWB6 for awhile, the OS thinks you aren't using it and therefore WWB6 goes into a standby mode and the connection is lost. The recommended action thing is to disable App Nap for your Wireless Workbench 6 application. See the following article:
+	
+	http://reviews.cnet.com/8301-13727_7-57612009-263/how-to-disable-app-nap-in-os-x-mavericks/
+	
+	We tested the same setup with and without App Nap disabled. We were able to reproduce this issue with "Prevent App Nap" UNCHECKED.  But once we checked that box, the WWB6 remained connected.
+

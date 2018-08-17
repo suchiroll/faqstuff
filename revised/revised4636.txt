@@ -1,0 +1,20 @@
+Title: Motiv MV88 User Guide and Best Practices
+Id: 4636
+Legacy Id: 5795
+
+Question:
+Please provide a User Guide link and recommendations on using the MV88.
+
+
+Answer:
+
+	#1: Put the phone in airplane mode.
+	We’ve all heard it before: that weird electronic pulse that happens sometimes when your phone is near a loudspeaker. When your mobile device transmits and receives data, it can create RF interference. A mic attached to your phone can be susceptible to this interference and can create audible artifacts in your recordings. Put your phone in airplane mode before you record to avoid this interference.
+	
+	#2: Make sure to have the correct wind protection.
+	The MV88 comes standard with a foam windscreen, and the ShurePlus™ MOTIV app has a wind reduction setting.  But if you are going to be recording in an area susceptible to a lot of wind (the deck of a cruise ship or the highest point on a tropical island), consider adding a Rycote® Windjammer®. This furry accessory will attenuate wind noise and is made by the company famous for windscreens used by professional filmmakers.
+	
+	#3: Make sure the phone case is compatible.
+	The MV88 connects directly into the base of your phone. Many cases will not accommodate it. Either remove the phone from the case or find a case that allows space for the MV88 to connect.
+	
+	MV88 User Guide: http://pubs.shure.com/guide/mv88

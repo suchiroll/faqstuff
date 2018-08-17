@@ -1,0 +1,11 @@
+Title: How are frequency ranges executed in the AXT400 and AXT630?
+Id: 3850
+Legacy Id: 4090
+
+Question:
+I see that in the software, the AXT400 receiver and AXT610 antenna distro can be set to operate in different frequency bands. How is this executed?
+
+
+Answer:
+
+	The AXT400 and AXT630 have multiple signal paths for the various frequency ranges.  When a paticular range is selected in the menu, the AXT400/AXT630 switches the incoming RF signal to follow the appropriate path on the circuit board.

@@ -1,0 +1,15 @@
+Title: Antenna for U1 body-packs - which are best?
+Id: 1308
+Legacy Id: 1358
+
+Question:
+My group uses several U1 body-packs. Most are fitted with the solid-style antenna (you can't bend it). We just bought two more which came with a very flexible antenna (you could tie it in a knot).
+
+
+Are there any performance differences between the two antenna styles?
+
+
+Answer:
+
+	There will be negligible performance differences.
+

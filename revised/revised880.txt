@@ -1,0 +1,13 @@
+Title: M33 and the M3D
+Id: 880
+Legacy Id: 907
+
+Question:
+I have an N78 stylus that I would like to use to record some old 78-rpm discs. The data sheet included with the stylus says that it fits the M33 and M77 cartridges. The cartridge that I bought the stylus for was stolen years ago, but it must have been an M33. I find nothing on your web site to indicate that such a cartridge ever existed; however, the M3D is listed there as a vintage cartridge no longer in production. Can you confirm that the M33 and M3 are indeed different beasts? In particular, can you confirm that the N78 will not fit the M3?
+
+Thanks
+
+Answer:
+
+	There was a M33-5 and a M33-7. Probably from the early 70s. The M3D existed up until the mid-1980s. They were not the same cartridge. The M3D was an entry level cartridge. The N78 will not fit in the M3D.
+

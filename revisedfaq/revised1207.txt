@@ -1,0 +1,87 @@
+Title: Remote Antennas for UHF-R, BLX4R, SLX, ULX, QLX-D or ULX-D Receivers
+Id: 1207
+Legacy Id: 1251
+
+Question:
+How do I set up remote antennas for my UHF-R, BLX4R, ULX, QLXD, ULXD or SLX wireless system?
+
+
+Answer:
+
+	Remote Antennas for UHF Wireless Microphones
+
+	
+		
+			Click here for an online remote antenna tool.
+	
+	
+		Antennas aredescribed in terms of the signal wavelength they are designed to pick up. The antenna supplied with Shure QLX-D, ULX-D, ULX Professionaland UHF-R wireless systems is a 1/2-wave, meaning that it is about 1/2 of the length of the radio wave being received.TheBLX4R, SLX and ULX Standard system comes with 1/4-wave antennas. A 1/4 wave antenna uses the receiverchassis as part of the antenna; therefore a 1/4 wave antennamust not be remote mounted.
+
+
+	For good performance, the following guidelines should be observed when remote mounting antennas:
+
+	
+		Place antennas properly. Antennas should be mounted away from large metal objects or surfaces, which cause reflections that can reduce signal strength. Antennas should also be kept away from sources of RF energy, such as computers, digital devices, AC power equipment, etc. For best diversity performance, antennas should by placed from 1/2-wavelength to 1 full wavelength apart (1 to 2 feet for UHF). Wider separation between antennas does not offer significant benefit, except when mounting at opposite sides of a very large stage, for example. For diversity wireless systems, both antennas must be located in the performance area, and connected to the receiver via separate coaxial cables.
+	
+		Use the appropriate antenna cable. For proper performance, the impedance of the cable should match the impedance of the antenna input on the receiver (50 ohms for Shure receivers). An impedance mismatch causes some of the signal to be reflected back into the cable, resulting in a reduction of signal level. Different types of cable are rated according to the amount of signal loss over a specified length (usually 100 feet). These ratings are specific to the frequency range of the signal being passed (VHF or UHF). The maximum length of cable is dictated by how much the antenna amplifier can boost the signal. See the section on antenna amplifiers. It is not necessary for both antennas on a diversity receiver to be connected to identical lengths of cable; ideally, each antenna should be connected to the minimum length of cable necessary to reach the receiver. The following table describes the maximum length of cable that should be used between a UHF antenna and a receiver input. If antenna boosters are used, the cable length can usually be longer depending on how much gain the booster provides. For example, using a booster that provides 10dB of gain, and following the cable loses specified on the table, you could run108 ft. of RG8X/U. Note: the UA834 antenna amplifier can only be connected to the UR4S, UR4D, U4S, U4D, ULXS4, ULXP4, ULXD4, ULXD4D, ULXD4Q, UA844 or UA845. The UA834 will not work connected directly to a BLX4R, a QLXD4,or a SLX4 receiver.
+
+
+	UHF Antenna Cable Loss Over 100 Feet?
+
+	
+		
+			
+				Cable Length from Antenna to Receiver
+			
+				Cable Type
+			
+				Signal Loss @ 800 MHz per 100 ft.
+		
+		
+		
+			
+				Up to 25 feet
+			
+				
+					RG-8X/U
+					(Belden 9258 or similar)
+					(Plenum: Times Microwave LMT-240-LLPL)
+			
+			
+				12 dB per 100 ft.
+		
+		
+			
+				Up to 40 feet
+			
+				RG-213/U
+				(Belden 8367 or similar)
+			
+				7 dB per 100 ft.
+		
+		
+			
+				Up to 75 feet
+			
+				
+					RG-8/U
+					(Belden 7810A, 9913 or similar)
+					(Plenum: Belden 89913, Times Microwave LMT-400-LLPL)
+					for permanent installation only
+			
+			
+				3.9 dB per 100 ft.
+		
+	
+
+
+	
+		Minimize the number of connection points. Each connection between two sections of cable results in some additional signal loss. Use one continuous length of cable to go from the antenna to the receiver. If antenna amplifiers are being used, mount the antenna directly on the input of the first amplifier, use one length of cable to go from the amplifier to a second antenna amplifier (if needed), and from the second antenna amplifier to the receiver.
+	
+		Use an antenna amplifier to compensate for cable losses. For long cable runs, an antenna amplifier such as the UA834 can be used at the antenna to boost signal level. Up to two UA834s may be used (one located at the antenna, and one in the middle of the cable run) permitting total cable runs of up to 500 feet when the appropriate type of coaxial cable is used. If a cable run longer than 500 feet is called for, it is better to locate the entire receiver closer to the performance area, and run a long audio cable to the mixing console. A long audio cable (balanced and line level) is much less likely to pick up interference than a long antenna cable. (Note: the BLX4R, QLXD4,and the SLX4 receiver do not supply DC power to operate the UA834 or UA874.)
+	
+		No more than two UA834 antenna amplifiers can be used in one antenna line. This restriction is due to increasing noise due to the amount of gain been added to the signal, and to the limited amount of current that the receivers or antenna distribution amplifier can supply at their antenna inputs. This current is used to power the UA834, eliminating the need for a separate power supply.
+
+
+	
+

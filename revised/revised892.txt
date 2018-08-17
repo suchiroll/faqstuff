@@ -1,0 +1,11 @@
+Title: LX4 power adapter
+Id: 892
+Legacy Id: 920
+
+Question:
+I have a "SHURE LX4 WIRELESS SYSTEM." My power adapter has a bad connection on it. I need to get a new one and would like to have an extra for a backup. Can you tell me if I can order these items online or do I have to go to a music store? Thank you.
+
+Answer:
+
+	The LX4 uses the PS41 power adapter. You can purchase a replacement PS41 from our Parts Department at 800-516-2525 or 847-600-8699.
+

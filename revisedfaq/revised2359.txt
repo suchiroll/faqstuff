@@ -1,0 +1,29 @@
+Title: Testing a phono cartridge body
+Id: 2359
+Legacy Id: 2448
+
+Question:
+I have a question regarding a Shure phono cartridge. I can't seem to get a strong output to my hi-fi receiver. I tried cleaning the stylus numerous times and replacing the headshell wires (blue, green, white, & red). I even replaced the stylus with a new one and unfortunately there is still no sound. I plan on cleaning the contacts on the headshell and maybe switching the cartridge with an older model that I still have. Any ideas? 
+
+
+Answer:
+
+	Using an ohmmeter, you can check the continuity of a Shure phono cartridge body.
+	
+	1. Remove any wires connected to the cartridge. You will test at the pins on the rear of the cartridge.
+	
+	2. Set the ohmmeter so it can read up to 10,000 ohms.
+	
+	3. Connect the ohmmeter leads to the white pin (L) and the blue pin (LG). The meter should read above 100 ohms and below 10,000 ohms.
+	
+	4. Connect the ohmmeter leads to the red pin (R) and the green pin (RG). The meter should read between 100 ohms and below 10,000 ohms. The ohm reading should be the about the same as step #3 above.
+	
+	5. Connect the ohmmeter leads to the white pin and the red pin. The meter should read "infinity" or "open".
+	
+	6. Connect the ohmmeter leads to the blue pin and the green pin. The meter should read "infinity" or "open".
+	 
+	If you get different results, the cartridge might have an internal defect.   If you get similar results to the the numbers listed above, the cartridge is OK and the problem lies after the cartridge output. 
+	
+	By far the most common reason for low output is connecting the cartridge into an input that is NOT designed for a phono cartridge.  The input MUST be labelled PHONO.  If the input is labelled AUX, TAPE, CD, TUNER, VCR, or DVD, it will not provide the amplification and frequency equalization required for a phono cartridge.  The solution is to add a phono preamp between the cartridge output and the hi-fi system input.
+	
+	The second most common reason is oxidation on the cartridge pins and the associated connectors.  Be certain these connection points are clean and free of oxidation.

@@ -1,0 +1,12 @@
+Title: SLX compatibility with the FP wireless series
+Id: 4286
+Legacy Id: 5354
+
+Question:
+We have a customer who currently has SLX series mics installed in a room. They want to purchase an FP wireless system to use with a video camera. When they use the video camera in the room with the SLX mics installed, they would like it if the SLX transmitter could be received by the FP receiver. Are the SLX and FP series of wireless products compatible with each so that the equipment could be used in this manner? Thanks.
+
+
+Answer:
+
+	Yes, the FP and SLX systems are compatible.Make certain they share the same operating frequency band.
+

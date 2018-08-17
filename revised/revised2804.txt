@@ -1,0 +1,13 @@
+Title: Using In-Ear Monitors - Effect of Bone Conduction
+Id: 2804
+Legacy Id: 2914
+
+Question:
+We have just stared using in-ear monitors in a music theater environment. We use Shure earphones. Is it just inherent to in-ear monitors that you get the "echo-like" sound of your own voice (i.e. like putting you fingers in your ears and singing) or is there any particular/mix/effect etc. to get a more "normal" sound to your own voice?
+
+Answer:
+
+	* Yes, it is normal. Your voice is brought to your ear by two paths: the in-ear monitors, and bone conduction. These two paths are not perfectly in-sync and thus the aural effect you experienced.
+	
+	*Try placing a mic over the stage or audience, and mixing that signal into the in-ear mix for ambience. This can overcome some of the bone conduction effect.
+

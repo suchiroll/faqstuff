@@ -1,0 +1,17 @@
+Title: Wireless headset like SM10A for auto race announce
+Id: 293
+Legacy Id: 300
+
+Question:
+I presently have 2 SM10A's that I use for broadcasting auto races from the booth. I LOVE THEM! Now, I need a headset wireless similar and of similar quality to the SM10A style and type. A different headband is ok. What can you recommend?
+
+
+At 01/23/2001 06:44 PM you wrote - Great! Now I have a Samson Concert Series wireless system. What do I need to adapt to that? Or must I buy a new system? If I do what do you recommend?
+
+
+Answer:
+
+	The WH20 headset is offered with all of our wireless systems. The WH20 uses the exact same microphone cartridge as the SM10A and thus sounds exactly like the SM10A. The WH20 headband goes behind the head instead of over the head.
+	
+	At 01/23/2001 09:36 PM we wrote - You would simply need to cut off the connector that comes on the headset and solder on a new connector that is appropriate for the Samson system. The User Guide for the WH20 shows the wiring diagram of the WH20. You will need to adapt this to the Samson unit. Contact Samson for the input wiring of their transmitter.
+

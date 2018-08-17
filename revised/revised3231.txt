@@ -1,0 +1,21 @@
+Title: Defeating 12 vdc bias on UR4 receiver antenna inputs
+Id: 3231
+Legacy Id: 3381
+
+Question:
+How do I remove the 12 vdc bias on the UR4 receiver antenna inputs?
+
+Answer:
+
+	
+		Disconnect the UR4 receiver from its AC power source.
+	
+		Remove the top panel of the UR4 receiver.
+	
+		Move the two ANT PWR jumpers to the off position. These jumpers are near the front of the UR4.
+	
+		Replace the top panel of the UR4 receiver.
+
+
+	
+

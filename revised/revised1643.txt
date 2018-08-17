@@ -1,0 +1,12 @@
+Title: Stylus for model 8X (R8X)
+Id: 1643
+Legacy Id: 1700
+
+Question:
+I have a Shure 8x that needs replacing, what do you recommend?
+
+
+Answer:
+
+	Is your cartridge model the R8X made for Radio Shack? If it is, the replacement stylus is the N75ED TYPE 2.
+

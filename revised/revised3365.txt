@@ -1,0 +1,22 @@
+Title: RFI when using a Shure mic and a Korg recorder
+Id: 3365
+Legacy Id: 3552
+
+Question:
+I am recording on a KORG D3200 with a SM7B mic, and am picking up RFI(radio/TV station interference.) Suggestions?
+
+
+Answer:
+
+	The sources and causes of RFI are numerous, enough so that there are entire books written on the subject.
+	
+	As a place to start, go to the link below and use "RFI" as a search term:
+	shure.com/faq
+	
+	Also, here are several papers on RFI causes and solutions:
+	http://www.audiosystemsgroup.com/publish.htm
+	
+	Shure sells an in-line filter that might help: A15RF
+	
+	Adding an isolation transformer at the input of the Korg might help: ProCo makes a 1:1 isolation transformer - model ITX.
+

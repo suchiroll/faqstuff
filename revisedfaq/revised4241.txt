@@ -1,0 +1,14 @@
+Title: Rechargeable Battery Pack for DIS Infrared Receivers
+Id: 4241
+Legacy Id: 5274
+
+Question:
+What is the model number for the rechargeable battery pack used in the DIS Infrared receiver?
+
+
+Answer:
+
+	There are different IR receivers, depending on how many channels of reception are needed - DR6004, DR6008, or DR6032. The model number is printed on the battery door on the back of the receiver.
+	
+	The NiMH rechargeable battery pack used for the infrared receivers is BP6001.
+

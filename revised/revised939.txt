@@ -1,0 +1,15 @@
+Title: Which wireless has the greatest range?
+Id: 939
+Legacy Id: 967
+
+Question:
+Which of your wireless microphones have the greatest range & how far can it reach?
+
+Answer:
+
+	Typically, the UHF-R Series high power bodypack transmitterhas the greatest range when used with directional receiving antennas. Transmission range is greatly affected by the local RF environment, e.g., range in New York City is short; range in the Sahara Desert is long.
+	
+	Typical range for a professional wireless mic is up to 300 feet (100 meters).
+	
+	Please read this link to help you better understand the range question: Introduction to Wireless Microphone Systems
+

@@ -1,0 +1,15 @@
+Title: EAC45GR 45" earphone cable
+Id: 4220
+Legacy Id: 5200
+
+Question:
+Is there a shorter cable available for the SE earphones with the detachable cable feature?
+
+
+Answer:
+
+	As of December 2012:
+	The cable part number is EAC45GR.
+	The color is gray. The length is 45 inches.
+	Available from Shure Parts: 800-516-2525.
+

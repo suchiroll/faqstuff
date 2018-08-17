@@ -1,0 +1,12 @@
+Title: Wireless system for Countryman Mic for flute
+Id: 1365
+Legacy Id: 1417
+
+Question:
+I'm trying to decide on which transmitter would be the best with a Countryman Isomax Hypercaroid wireless mic.
+
+
+Answer:
+
+	Any Shure transmitter with a four pin Tini QG input connector should work with the Countryman.
+

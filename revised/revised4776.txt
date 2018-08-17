@@ -1,0 +1,11 @@
+Title: Motiv MV88 Frequency Response Graphs
+Id: 4776
+Legacy Id: 5960
+
+Question:
+Please provide frequency response graphs for the MV88 mic elements.
+
+
+Answer:
+
+	See below.

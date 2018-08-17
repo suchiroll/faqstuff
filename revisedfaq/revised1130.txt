@@ -1,0 +1,12 @@
+Title: M99E Replacement Stylus
+Id: 1130
+Legacy Id: 1168
+
+Question:
+I have a M99E that needs a replacement stylus. What would be the most compatible?
+
+
+Answer:
+
+	Please refer to our online stylus cross reference.
+

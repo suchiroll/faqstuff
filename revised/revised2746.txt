@@ -1,0 +1,27 @@
+Title: Line level output to wireless bodypack input - cable fabrication
+Id: 2746
+Legacy Id: 2852
+
+Question:
+I have a customer that would like to send a balanced line level signal to the belt pack transmitter. The output of his device is 1/4" TRS.
+
+
+Can this be done, and how should I wire the connectors?
+
+
+I will obviously have to pad the signal to match mic level.
+
+
+Answer:
+
+	Here is a pad and the cable combined:
+	
+	1) 1/4 tip to 47,000 ohm resistor
+	2) Other end of 47,000 ohm resistor to 150 ohm resistor AND to pin 3 of Tini-QG connector.
+	3) 1/4 ring to 1/4 sleeve
+	4) 1/4 sleeve to other end of 150 ohm resistor AND to pin 1 of Tini-QG connector.
+	
+	* Pins 2 and 4 of the Tini-QG are unused.
+	
+	Both resistors can be 1/4W or 1/8 W.
+

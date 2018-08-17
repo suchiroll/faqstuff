@@ -1,0 +1,12 @@
+Title: Wireless mic for race track and interviews in the pit area
+Id: 3594
+Legacy Id: 3800
+
+Question:
+I want to use a wireless mic at a racetrack to interview drives in the pit area. I need a wireless mic that can transmit 1,000 feet or more, and transmit through metal fencing. What do you recommend?
+
+
+
+Answer:
+
+	A wireless mic will not work for this application because of the:  1) low output power that is regulated Federal Law;  2) The absorption of the RF signal by the human bodies in the pit;  3) The reflection of the RF signals by the metal objects and fencing.Certain external TV antennas can be connected to Shure receivers to increase the range, but that is not the solution.The proper way to do this is by using a wireless mic to transmit a short distance (under 50 feet) to a microwave link transmitter located in the pits.   The microwave transmitter covers the long distance to the press box.  This is how FOX, ABC, and others do pit interviews.

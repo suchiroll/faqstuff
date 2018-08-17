@@ -1,0 +1,16 @@
+Title: Another church is using the same frequency
+Id: 985
+Legacy Id: 1014
+
+Question:
+We have purchased a handheld wireless microphone. Another church located one block away has a wireless mic with the same frequency. We can hear them, and they can hear us. What can we do to correct this situation without having to purchase another wireless system.
+
+Thanks for your help.
+
+
+Answer:
+
+	Assuming this is one of Shures fixed frequency systems, it will have to be sent to the Shure Service Department to be changed. When the system is returned, please advise the Shure Service Department of any other wireless systems the church may have and what frequencies they are.
+	
+	Contact Shure Service at 800-516-2525 or 847-866-2699.
+

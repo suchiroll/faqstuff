@@ -1,0 +1,11 @@
+Title: Model 55 with condenser element similar to an SM86
+Id: 3097
+Legacy Id: 3230
+
+Question:
+Where can I obtain an model 55 that has a modern condenser element inside?
+
+
+Answer:
+
+	As of August 2005: In the United States, Mr. Ken Rothfield fabricates a custom hybrid version of the Shure model 55 (current model or vintage) featuring a condenser element.Using all Shure components, this hybrid mic features an element similar to the Shure SM86, and operates via an internal battery or phantom power. The on/off switch on the 55 remains functional. The unique orientation of the cartridge provides voice pickup near the top of the mic, i.e., the mic is held at chin level, so the audience can see the face of the performer.Contact: Ken Rothfield; phone 301-481-7939; email: kenrothfield@aol.comNote: Shure provides this information solely as a service to our customers. This information is not to be considered as an endorsement from Shure.

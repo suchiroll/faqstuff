@@ -1,0 +1,11 @@
+Title: Can a P4M output to headphones without an amplifier?
+Id: 1581
+Legacy Id: 1637
+
+Question:
+We are moving our worship band from wedge monitors to headphones (Sony 7506's) and want them to be able to control their own monitor mix. I want to send 4 sub-groups to the stage that they could mix in the P4M, along with their own instrument's direct input. I know it's for PSM's, but can you plug headphones into the P4M?
+
+
+Answer:
+
+	You would need a multiple user headphone amp or distribution amplifier. You can not use the headphones directly with the P4M.

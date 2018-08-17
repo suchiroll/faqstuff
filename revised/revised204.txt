@@ -1,0 +1,16 @@
+Title: Miking a church choir
+Id: 204
+Legacy Id: 205
+
+Question:
+I am in charge of miking my church for a choir presentation. Our chapel that the choir is in has wonderful accoustics, but does not hold enough people. We have people in different rooms in my church and so that is why we use mics. the ceiling in our chapel is about 30 feet and 3 walls are concrete and the 4th goes to an overflow(so it is open) I was wondering how best to mic my choir. My thought was to hang two mics from the ceiling so they would hang about 15 feet from the ground and about 10 feet from the choir. Would that pick up a good blend, or is it better to have to boom stands on the ground that reach about 10 feet in the air? Thank you for your help.
+
+
+Answer:
+
+	First, visit our FAQ and search for the word choir. This will call up bulletins written on this subject.
+	
+	Second, it is impossible to tell which position will sound better. There are so many acoustical variables that experimentation with placement is the best method.
+	
+	If you decide to hang mics, consider the Shure MX202 series. If you want mics on a stand, consider the Shure SM137, KSM137, or PGA81. In either case, two mics should be just fine. You might even try just one mic and if that provides adequate sound, do not add another.
+

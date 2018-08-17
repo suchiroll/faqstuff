@@ -1,0 +1,22 @@
+Title: Mics for Home Digital Recording Studio
+Id: 2265
+Legacy Id: 2346
+
+Question:
+I have a 8-track hard disk recorder which specifications are 1/4" balanced phone jacks, nominal level -50 dBu, nominal impedance 4.0k.
+
+
+I'm recording Hip-Hop music (Rap and RB)and burning it to CD. The SM57 seemed like a good choice because of its reputation and ability to focus on the main sound source and not pick up background noises. Also the SM7B seems like a good choice because it can handle close up use. Or do I need a mic like the KSM27 or KSM32? I thank you for your help and knowledge on this mater.
+
+
+Answer:
+
+	We see no reason to start out with the SM7, the KSM27 or the KSM32.
+
+	
+	Start with the SM57 and the A2WS windscreen, or the SM58. Either can be obtained for under $150 and are great all-around mics.
+	
+	Consider upgrading to the SM7 or KSM mics IF you become dissatisifed with the SM57 or SM58, or want a different sound. But that may not happen; many great albums have been recorded using just the SM57 and SM58.
+	
+	Since your 1/4 inputs are balanced, make certain that the mic cables you buy are also wired balanced.
+

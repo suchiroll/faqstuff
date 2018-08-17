@@ -1,0 +1,11 @@
+Title: SRH550DJ Ear Pad Dimensions
+Id: 4633
+Legacy Id: 5792
+
+Question:
+What are the dimensions of these ear pads?
+
+Answer:
+
+	SRH550DJ pads:Diameter9 cm;Thickness 1.7 cm
+

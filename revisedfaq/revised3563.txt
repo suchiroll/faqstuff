@@ -1,0 +1,11 @@
+Title: SM89 Shotgun Mic Slot Details and Lengths
+Id: 3563
+Legacy Id: 3769
+
+Question:
+We manufacture windscreens for shotgun microphones including Shure's line. Would it be possible to get some detailed current measurements of the actual slot length from the tip of the microphone to end of the slots for the current microphones. Also the length and diameter of the supplied stock foam windscreen.
+
+Answer:
+
+	361 mm from tip of mic to end of final slot.395 mm is length of supplied windscreen.45 mm is foam diameter at tip end;  60 mm diameter at mic handle end.
+	 

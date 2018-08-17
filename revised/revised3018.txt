@@ -1,0 +1,12 @@
+Title: Thumping noise when walking and using the E3c earphones
+Id: 3018
+Legacy Id: 3147
+
+Question:
+I have purchased the E3c earphones. When I am walking while using these sound-isolating earphones, I can hear a 'thumping' sound with every step I take just as my heel strikes the ground (the same thumping sound I get when I walk with a finger in each ear). Is there any way to avoid this annoying sound effect? I really would like to be able to use the E3c earphones while walking outside.
+
+Answer:
+
+	Is there any way to avoid this annoying sound effect?
+	* Sorry, there is not. You are hearing the effect of bone conduction. Vibrations from walking travel through your bones and excite the inner ear. Without the earphones inserted, these sounds are masked by the noises around you. With the ear canals sealed, this bone conduction noise becomes apparent. This effect will happen with any earphone that seals the ear canal.
+

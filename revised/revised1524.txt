@@ -1,0 +1,13 @@
+Title: Mic element on SM10A-CN and mic element on SM2
+Id: 1524
+Legacy Id: 1578
+
+Question:
+How does the microphone on the SM10A-CN compare to the microphone on the SM2? I am wondering if they are the same microphone or what the differences are. I would like to use the SM2 as a vocal mike for singing and the headphones for a monitor. I realize the frequency response of the headphones are not as wide as could be for music but am more curious about the mike.
+
+
+
+
+Answer:
+
+	The mic element is the same on the SM10-CN and the SM2. The same element is also used on the models 512 and the WH20.

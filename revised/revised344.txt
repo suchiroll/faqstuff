@@ -1,0 +1,138 @@
+Title: What books are recommend to learn about audio?
+Id: 344
+Legacy Id: 351
+
+Question:
+Where can I find more educational material about audio?
+
+
+
+Answer:
+
+	The Audio Library
+
+	Essential Reading for Audio Professionals, Weekend Warriors, and the Just Plain Curious
+
+	
+
+	The following bibliography contains Shure publications as well as books from the Shure Applications Engineering library. All are highly recommended, and we have divided the selections into three categories: Beginner, Intermediate, Advanced; each with short reviews to help you select your area of interest. As of this writing, all non-Shure titles are available at amazon.com. A good selection can also be found at Music Books Plus (1-800-265-8481) and Music Dispatch (1-800-637-2852). Beginner books are good for those individuals starting out, such as musicians who want to know what that strange guy is doing at the back of the club, volunteers who operate run sound at their house of worship, and students just getting into the audio field. Intermediate books apply to those who are serious about sound as a vocation, and are interested in the more technical aspects of sound reinforcement and recording. Advanced books delve deeper into the technical side, covering more advanced topics such as microphone design, power and grounding, and room acoustics. The Sure publications can be downloaded from our Shure Educational Articles page.
+
+	
+	BEGINNER
+
+	Live Sound for Musicians, by Rudy Trubitt, ISBN: 0-7935-6852-8
+	A math-free, step-by-step guide to getting a basic sound system up and running. This book contains a plethora of troubleshooting tips and set-up hints. Everything is explained in plain English with as little technical mumbo-jumbo as possible. Especially recommended for do-it-yourself musicians and volunteer sound people at churches.
+
+	
+
+	Sound Check: The Basics of Sound and Sound Systems, by Tony Moscal, ISBN: 0-7935-3559-X
+	An excellent primer that covers all the essential components of a sound system, as well as basic electricity, the nature of sound, and a working example of a sound system. Includes basic explanations of audio component specifications.
+
+	
+	INTERMEDIATE
+
+	The Audio Dictionary, Glenn D. White, ISBN: 0-295-97088-X
+	An alphabetical listing of audio terms and concepts, from A battery to Zener diode. The definitions are concise and easy to understand, yet topics that require deeper explanation are given adequate coverage. Several appendices are also included that cover topics such as Audio Measurements, Good Acoustics, and more.
+
+	
+
+	Concert Sound, by David Trubitt, ISBN: 0-7935-2073-8
+	An anecdotal book that covers all aspects of professional, big-time sound reinforcement. Profiles are included of major tours like U2 and the Rolling Stones, club tours by Tori Amos and Poi Dog Pondering, and major rock festivals. Topics range from drum miking techniques to computer control of sound systems.
+
+	
+
+	Handbook for Sound Engineers, Glen Ballou, ed., ISBN: 0-672-21983-2
+	The ultimate reference work for audio professionals, this weighty tome contains detailed, comprehensive information on every aspect of sound propagation, reinforcement, and reproduction. At over a thousand pages, you may not read it cover to cover, but this book probably contains almost everything you would need to know about audio.
+
+	
+
+	The Home Studio Guide to Microphones, by Loren Alldrin, ISBN: 0-918371-22-8
+	For anyone who has, or wants to have, a home recording studio. This book contains a wealth of detailed technical information on microphones, as well as microphone techniques for a variety of instruments, and a microphone selection guide that covers nearly every microphone you might consider for your home studio.
+
+	
+
+	Live Sound Reinforcement, by Scott Hunter Stark, ISBN: 0-918371-07-4
+	A comprehensive guide to everything related to live sound. Extensive discussions of hearing, psychoacoustics, and the behavior of sound waves are included. Separate chapters are devoted to the differences between speech reinforcement systems and music systems.
+
+	
+
+	Sound Design in the Theatre, John L. Bracewell, ISBN: 0-13-825167-3
+	This easy to read volume includes the usual descriptions of sound reinforcement components, with additional sections focusing on playback systems (both analog and digital), synthesis and samplers, MIDI, and the creative aspects of theater mixing. The basic electronics explanations are among the most understandable of any of these books. The book concludes with a detailed account of system design and implementation for an actual production.
+
+	
+
+	Sound Recording Practice, John Borwick, ed., ISBN: 0-19-816381-9
+	A comprehensive guide to professional recording. All aspects of the recording chain are covered, from studio planning and acoustics to compact disc processing. The section on recording techniques is a good complement to the Shure recording book (see below) for those seeking more detailed information.
+
+	
+
+	Stereo Microphone Techniques, Bruce Bartlett, ISBN: 0-240-80076-1
+	This complete guide to stereo miking includes discussions of many types of stereo miking, such as X-Y, M-S, and ORTF, as well as more obscure techniques like OSS and the Calrec Soundfield microphone. Also included are discussions of how we localize sound in real life and between loudspeakers, how stereo sound is accomplished, stereo recording with boundary microphones, and a procedure guide for stereo recording.
+
+	
+
+	Yamaha Sound Reinforcement Handbook, Gary Davis  Ralph Jones, ISBN: 0-88188-900-8
+	Referred to by some industry professionals as the Bible, this book is everything you ever wanted to know about sound reinforcement but were afraid to ask. Hundreds of charts, graphs, and pictures and clear, concise definitions are among the highlights of this book. Required reading for members of Shure Applications Engineering.
+
+	
+	ADVANCED
+
+	AIP Handbook of Condenser Microphones, George S.K. Wong, and Tony F.W. Embleton, ed., ISBN: 1-56396-284-5
+	Written for engineers, technicians, and scientists, this math-intensive book is the most comprehensive guide to condenser microphones ever written. Covered topics include the history of the condenser microphone, principles of operation, calibration methods, and phase matching. For serious tech-heads only.
+
+	
+
+	Architectural Acoustics, M. David Egan, ISBN: 0-07-019111-5
+	This book is as an excellent guide to the nature of acoustics. In-depth discussions of sound absorption, room acoustics, and sound isolation are of particular interest to sound contractors, installers, and consultants. A chapter on sound systems is also included, with real life case studies and excellent diagrams of loudspeaker placement.
+
+	
+
+	Audio System Design and Installation, Phillip Giddings, ISBN: 0-672-22672-3
+	Of particular interest to installers, this book is aimed at anyone involved in the design and implementation of audio systems. Divided into four sections that cover power and ground systems, interconnection, cables and connectors, and housing electronic equipment, here is all the information you need to properly install a safe and quiet sound system.
+
+	
+
+	Electroacoustical Reference Data, John M. Eargle, ISBN: 0-442-01397-3
+	This book contains close to two hundred charts, graphs, and tables relating to all areas of audio. Everything from acoustics to microphones to magnetic recording is covered, in an easy to follow format. The right-hand page shows the graphical data, and the left contains related text and examples.
+
+	
+
+	Microphone Engineering Handbook, Michael Gayford, ed., ISBN: 0-7506-1199-5
+	For those interested in the technical aspects of microphone design and engineering, this book contains a wealth of information ranging from the operating theory of popular microphones types such as condenser, carbon, and ribbon mics, to more obscure types like optical microphones and RF condensers (not wireless). Also included are chapters on wireless mics, testing and measurement, and stereo miking techniques.
+
+	
+
+	Shure Publications
+
+	
+	BEGINNER
+
+	Microphone Techniques for Music: Sound Reinforcement, Rick Waller, John Boudreau, and Tim Vear.
+	This book contains two sections, one that details microphone characteristics, acoustics, and musical instrument characteristics, and a second that details microphone placement for a variety of instruments. Also includes a section on stereo miking and a Shure microphone selection guide.
+
+	
+
+	Microphone Techniques for Music: Studio Recording, John Boudreau, Rick Frank, Tim Vear, and Rick Waller.
+	Similar in scope to the Sound Reinforcement guide, but with an emphasis on recording studio applications.
+
+	
+
+	Shure Guide to Audio Systems for Houses of Worship, Tim Vear.
+	Topics covered in this newly revised book include the selection and application of wired microphones, wireless microphones, and microphone mixers for houses of worship. An entire section is devoted to equalization and feedback control, and assistive listening systems are also discussed.
+
+	
+
+	Shure Guide to Audio Systems for Meeting Facilities, Chris Lyons, Tim Vear, Michael Pettersen.
+	The information contained in this book is very similar to that of the Houses of Worship book, with an emphasis on meeting facility sound systems. The applications section contains a plethora of good technique tips for the different types of mics that may be used in a meeting room.
+
+	
+
+	Shure Guide to Audio Systems for Video Production, Christopher Lyons.
+	An excellent primer in basic audio concepts. Topics unique to this book include a section on VU meters and setting levels, connecting to a camcorder, and common miking applications in video, such as panel discussions and product demo shots.
+
+	
+	INTERMEDIATE
+
+	Selection and Operation of Wireless Microphone Systems, Tim Vear.
+	The ultimate guide to wireless microphones, this book contains detailed information on how wireless systems work, the behavior of radio waves, and frequency selection and compatibility. The second half of the book focuses on practical information for set-up and optimization of your wireless systems. Also included are an extensive troubleshooting guide, and application notes.
+

@@ -1,0 +1,14 @@
+Title: Regluing a cartridge body to a mounting shell
+Id: 2272
+Legacy Id: 2353
+
+Question:
+After 16 years or so my V15 type V has slightly fallen apart. The adhesive which held the cartridge body onto the mounting hardware has come loose. I believe the cartridge is still in fine shape, unfortunately it's no longer usable. How can I reglue it?
+
+
+Answer:
+
+	We suggest a clear epoxy. Nothing special - just go to your local hardware store.
+
+	Clean off the old adhesive for the metal body and the plastic shell. Slightly roughen each surface with fine sandpaper so the epoxy can grip. Apply a small amount of epoxy to both surfaces. Clamp it and let set for 24 hours.
+

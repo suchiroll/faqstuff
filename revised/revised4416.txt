@@ -1,0 +1,14 @@
+Title: S15A - hollow tubes?
+Id: 4416
+Legacy Id: 5513
+
+Question:
+I'm interested in the S15A. Can you tell me if the center is hollow for cords to go in, and if so, how big is the hole? We would be using these for thermocouple stands in our test cells; the coiled TC wire would hopefully fit inside.
+
+
+Answer:
+
+	1) Yes, the tubes are hollow.
+	
+	2) The smallest tube I.D. is 12 mm diameter.
+

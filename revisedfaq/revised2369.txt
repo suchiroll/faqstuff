@@ -1,0 +1,18 @@
+Title: Mic for recording piano
+Id: 2369
+Legacy Id: 2460
+
+Question:
+I am trying to choose a Shure microphone to record on my CD recorder. I have JVC XL-R 5010BK. The requirements for the microphone are:
+
+Minimum input level: 3Mv(full scale -12Db)
+
+Output impendance: 600 ohm- 10 Kohm
+
+I need to record live piano sound- (I am a classical pianist),with the highest possible quality. I can't spend more than $250-300 on my mic.Which mic would you recommend me to buy? I believe that my mic should work from battery (not Phantom type). I have browsed the microphonesolutions.com website and found that ShurePG81 might be my best choice. How good is it for my case?
+
+
+Answer:
+
+	ThePG81 is a good choice. You might consider using two mics of the same model and the Shure A27M. Then you can make a stereo recording.
+

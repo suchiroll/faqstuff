@@ -1,0 +1,18 @@
+Title: SM57 and SM81 with a UT Transmitter
+Id: 2299
+Legacy Id: 2384
+
+Question:
+Is it possible to use my wired SM57 and my wired SM81 with my UT bodypack transmitter? I realize that the transmitter probably does not supply enough operating voltage for the SM81, but is there a supply I can use to make this work?
+
+
+Answer:
+
+	Is it possible to use my wired SM57 with my UT bodypack transmitter?
+	* Yes. Use the WA310 adapter cable.
+	
+	Is it possible to use wired SM81 with my UT bodypack transmitter?
+	* No. The transmitter does not provide phantom power.
+	
+	I realize that the transmitter probably does not supply enough operating voltage for the SM81, but is there a supply I can use to make this work?
+	* Yes. Get the MicPower from Whirlwind Audio. You will still need the WA310.

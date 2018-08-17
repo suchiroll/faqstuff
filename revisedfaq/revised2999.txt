@@ -1,0 +1,52 @@
+Title: Combining Multiple UA874 Antennas
+Id: 2999
+Legacy Id: 3127
+
+Question:
+We have a 4 channel UR4D receiver system fed by two UA874 antennas (diversity). The two antennas are distributed to the 4 receivers with a UA845 antenna distribution box.
+
+
+The antennas are mounted outside the control room in the main arena, and provide flawless performance throughout most of the building, which is of concrete and steel construction. However, we have two meeting room locations where we would like to augment the somewhat spotty reception.
+
+
+I would like to mount additional pairs of UA874's in each of these locations, and then combine them with the main antennas. The main antennas are about 20 feet from the receivers; one additional set would be about 100 feet, and the other additional set would be around 300 feet away.
+
+
+Could this be done with UA221 combiners (modified to pass DC on both legs)? I could combine the two remote locations into one feed on the way to the control room, and then combine the total away feeds with the main antennas at the control room. We would, of course, maintain the correct pairs in each location for diversity.
+
+
+Questions:
+
+
+1) Would this proposed system be the best way to do this?
+
+
+2) Can the UA845 supply sufficient power for 3 pairs of antennas, or should I plan of using local DC supplies for the antennas?
+
+
+Thanks for any input you can give me on this subject.
+
+
+Answer:
+
+	It is possible to connect multiple antennae to a single receiver or distribution amplifier.The primary goal is to maintain adequate signal strength along the antenna lines.Using in-line amplifiers and/or amplified antenna will usually allow this to be done as long as there is sufficient amplification to compensate for losses in the coaxial antenna cables.
+	
+	You are correct in your suggestion of the UA221 as a suitable passive combining device for introducing the additional antennae to the system.
+	
+	Also, you note that the UA221 must be modified to pass DC on both legs.
+	
+	Essentially, the topology of the antenna system can be in a star format or daisy chain format depending on the relative locations of the antennae and the physical routing options for the antenna cables.The star format should be used if the proposed antenna locations are in different directions from the receiver locations.When three or more antennas are used, a combination of star and daisy chain topologies may be an option.
+	
+	Finally, your question about the powering capability of the UA845 is this: the antenna inputs on the UA845 (and similarly, the antenna inputs on the ULX, ULX-D, or UR4 receivers themselves) can only provide enough current for two amplifiers per line.If more than two in-line amplifiers and amplified antennae are used on an antenna line, it will be necessary to provide additional power to the antenna lines.
+	
+	This can be accomplished by using a Bias-Tee through which a DC voltage can be placed on a coaxial antenna line to power remote amplifiers.It allows the radio signal to pass through the device, while simultaneously allowing injection of DC current into the coaxial cable in one direction only to power remote antenna amplifiers.The Bias-Tee is typically inserted in-line on the coaxial cable near the inputs of the UA845 and powers all of the devices on the line up to the current limit of a user-supplied power source.For planning and calculation purposes, each UA874 and/or UA834 amplifier draws about 75mA.
+	
+	A suitable Bias-Tee is the Shure UABIAST.It comes with the power supply, delivering 400 mA.
+	
+	In order to calculate the amount of amplification needed you need to multiply the length of cable by the loss per unit length of the cable at the operating frequency (~500MHz).This information is available from the manufacturer of the cable.Typical RG-213 about 7 dB loss per 100 ft., etc.There are low-loss cables for permanent installations from Belden (part # 9913, 7810) and Times Microwave (part # LMR-400) that exhibit about 4dB loss per 100 ft.Note that the low-loss cables are about 0.4 inch in diameter and are somewhat stiff.If more flexibility is required, check the following cables: Belden 9913F7 and Times-Microwave LMR-400-UF.
+	
+	Once the cable is chosen and the loss calculated, you must add 3dB of loss for each UA221 that is in the line.Ultimately you must add enough gain so that the total loss is no more than about 5dB at the inputs to the UA845.
+	
+	For more information, an excellent tutorial titled Antenna Set-up for Wireless Systems is available on the Shure website.
+	
+

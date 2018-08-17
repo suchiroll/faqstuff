@@ -1,0 +1,12 @@
+Title: Motiv MV88 signal heard via earphone jack on iPhone
+Id: 4791
+Legacy Id: 5976
+
+Question:
+If I have the MV88 plugged into my phone, can I listen to the signal with the earphone jack on the phone?
+
+
+
+Answer:
+
+	Yes.  You will need to turn on "Input Monitor" on the Motiv App. In the menu, select the INFO menu. Turn on "Input Monitor."

@@ -1,0 +1,16 @@
+Title: Super 55 Foam Color
+Id: 3676
+Legacy Id: 3885
+
+Question:
+I just bought a Shure Super 55 deluxe vocal microphone. I like it very much, but blue is not my favorite color. I was wondering if the blue foam is replaceable?
+
+
+Answer:
+
+	The blue foam was chosen as it matches the original blue fabric in the model 55 when it was introduced in 1951.Thus, the blue color is historically accurate.
+	
+	Black/gray foam is used in the model 55SH Series II.However, the foam (blue or black) is glued into the case and is not easy to remove or to replace. To inquire about purchasing the black foam, contact Shure Parts in the U.S. at: 800-516-2525.
+	
+	Or purchase the 55SH Series II, then replace the mic element with the Super 55 element, sold as the R115S upgrade kit.
+

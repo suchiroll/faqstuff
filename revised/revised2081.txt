@@ -1,0 +1,12 @@
+Title: Tone Oscillator
+Id: 2081
+Legacy Id: 2147
+
+Question:
+Do you still make a microphone-like oscillator? I used to have a Shure oscillator that had a male XLR connector, looked like a small consdenser mike, and had a single tone, mic level audio output. Good for checking mike lines and VU meter levels. I lost mine, and wonder if you still make one like it.
+
+
+Answer:
+
+	Yes. It is the A15TG.
+

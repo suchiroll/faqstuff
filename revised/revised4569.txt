@@ -1,0 +1,13 @@
+Title: PSM300 Channel Separation
+Id: 4569
+Legacy Id: 5695
+
+Question:
+What is the channel to channel separation in Mix Mode for the P3R and also the P3RA?
+
+Answer:
+
+	The PSM300 separation test: Both channels are driven and the separation between the two channels is measure.
+	
+	Using this method, the separation is 30 dB.
+

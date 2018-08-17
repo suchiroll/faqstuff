@@ -1,0 +1,14 @@
+Title: 48V phantom phantom power supply for KSM mics
+Id: 2253
+Legacy Id: 2334
+
+Question:
+Is there any particular phantom power supply that Shure would recommended to be used with the KSM27? And what kind of mic cable should I use with the KSM27 to obtain the best possible recording quality?
+
+
+Answer:
+
+	1. 48 V phantom supply. Here is an example: http://www.stewartaudio.com
+	
+	2. Cable: Shure C25F or equivalent. Also, check: http://www.gepco.com
+

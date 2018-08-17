@@ -1,0 +1,28 @@
+Title: Connecting two (2) mics into one input of a mixer.
+Id: 915
+Legacy Id: 943
+
+Question:
+I'd like to connect two mics with 1/4" phono plugs into my mixer but the mixer only has one 1/4" mic input. How can I do this safely? I don't mind not having separate volume controls for each mic. Is there anything made that will accomadate this setup?
+
+
+04/03/2001 08:42 AM -
+
+
+The Shure wireless UT24/31  the Shure wired SM58. As far as the mixer it's a Gemini 525 pro with only one (1) 1/4" phono mic input. I do however have an extra line-level channel with rca inputs. Any chance I can put a mic there?
+
+
+Bottom line is I want to use the wired and wireless mics at the same time if needed without swapping wires. THe DJ case is extremely small and compact. So, any additional mixing equipment won't fit.
+
+
+Please help.
+
+
+Answer:
+
+	Please advise the model number of the Shure mics and Shure mixer involved.
+	
+	At 04/03/2001 11:29 AM we wrote - 1) Connect the wired SM58 into the 1/4 mic input. 2) Connect the UT receiver to the line level RCA input. Use the 1/4 output; set the UT gain control to maximum; get an appropriate connecting cable from Radio Shack.
+	
+	This is a much better scheme for connecting the wired mic and wireless mic than using a Y cable that combines both signals.
+

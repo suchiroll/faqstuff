@@ -1,0 +1,12 @@
+Title: DIS-CCU connected to DCS 6000-series conference units doesn't work
+Id: 4831
+Legacy Id: 6017
+
+Question:
+I connected some DC 6990 P, DM 6680 P, or DC 6190 P conference units to the DIS-CCU central control unit and it doesn't work. In the web browser interface in the "State" field it says "Locked-Incomp". What's wrong?
+
+
+Answer:
+
+	That message shows that the microphone unit youve connected is not being recognized by the CCU.The DIS-CCU requires the FL6000 Feature License to enable DCS 6000 Conference System mode for use with 6000-series components.The Feature License is an XML file generated specifically for the serial number of your DIS-CCU.Your local Shure Distribution Center or Sales Representative can assist with this purchase.
+

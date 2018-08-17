@@ -1,0 +1,44 @@
+Title: FP410 Input gain reduction
+Id: 2745
+Legacy Id: 2851
+
+Question:
+I have a few Shure FP410 Automixers that I recently purchased and the input gain is very high. I have a Shure MX184 wired lav into the mic level input and need to set the input knob on the FP410 to 1/2. A setting of One is too high! Similarly, a Beta 57 at normal speaking distance is set to around 2. Much different when compared side by side with the SCM810 Automixer. Do you have a modification for the phenomena?
+
+
+Answer:
+
+	The FP410 does have about 13 dB more gain than the SCM810.  Here are instructions on how to reduce the input gain of the FP410:
+	
+	What is the purpose of this modification?
+	It reduces the gain of the initial input stage. This allows the input control to be set higher when using a microphone with a "hot" output. From the factory, this stage produces 14dB of gain.
+	
+	How is the FP410 modified?
+	For channel one, resistor R140 (3kohm) is replaced with a new value.
+	To reduce the gain by 6dB, use a 8.2kohm resistor. To reduce the gain by 8dB, use a 12kohm resistor.
+	To reduce the gain by 10dB, use a 22kohm resistor. NOTE: The input stage could become unstable and oscillate when R140 is replaced. If this happens, try a resistor with a smaller value. Results will vary from mixer to mixer because of component tolerance. Experimentation will be necessary when modifying this gain stage.
+	
+	What are the steps?
+	
+		Remove the four screws which secure the FP410 cover.
+	
+		Look near the channel one XLR connector and locate R140 (3kohm).
+	
+		Remove R140. Replace it with the new value selected above.
+	
+		For input two, replace R146.
+	
+		For input three, replace R152.
+	
+		For input four, replace R158.
+	
+		Reassemble the FP410.
+
+	Will Shure modify the mixer for me?
+	Yes, for a nominal charge.
+	Return the FP410 to the Shure Service Department
+	Telephone: 800-516-2525.
+	Please include a copy of this bulletin.
+	
+	Is there another way?
+	A Shure A15AS in-line attenuator may be inserted between the microphone and the FP410 input. The A15AS will provide 15, 20, or 25 dB of attenuation and will pass phantom power.

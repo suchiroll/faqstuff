@@ -1,0 +1,28 @@
+Title: Theater Audio - Overhead Microphones
+Id: 2729
+Legacy Id: 2835
+
+Question:
+How are overhead microphones employed in theater audio?
+
+
+Answer:
+
+	Overhead microphones hang down from above the stage. These mics usually are comprised of a condenser element mounted on a short gooseneck, which then leads to a thin cable. The length of cable can be 20-30 feet long, and ends in the necessary pre-amplifier assembly.
+	
+	Overhead microphones can be found in various colors and polar patterns. A high quality probe style condenser microphone can also be used as an overhead, although they are quite a bit larger. There are adapters available that will suspend these more traditional microphones by the cable for overhead use and maintain their position.
+	
+	Using overhead microphones to capture sound from above can provide decent sound reinforcement, but you must be realistic as to what to expect. These microphones are further away from the sound source than even a microphone on a floor stand would be, and will pick up more ambient sound than preferred. This, in addition to the possibility of these mics actually being closer to loudspeakers than to the sound source, can lead to significantly reduced gain before feedback.
+	
+	Another factor contributing to feedback is the number of open microphones being used. The more open microphones in a sound reinforcement system, the less potential gain before feedback. Therefore, the idea to put in more mics to cover the area better or to make it louder will in fact worsen the situation. It is imperative to use as few overhead microphones as necessary.
+	
+	Remember the following when using overhead microphones:
+
+	
+		Placement of these microphones is often dictated by the constraints of the stage set. Take into consideration when possible, the position of the actors on stage and install mics accordingly. Planned scenery for a production may make installed overheads unusable due to space limitations or reflection of sound.
+	
+		Remember that actors project their voice to the audience. An overhead microphone, if pointed straight down, is pointed at the top of someones head. Speech is not as intelligible from that vantage point as much of the high frequency content is lost. At the same time, the microphone can be picking up both the reflected sounds off the surface of the stage, as well as mechanical or air handling noise from above. When combined with direct sound, this will provide poor audio quality.
+	
+		For most reinforcement applications, stick with a unidirectional polar pattern. The mic should be hung with the element aimed back at the actors position on stage. How far above can be determined by the amount of visibility you are willing to accept, although these mics work best 2 to 4 feet above head level. Remember these mics will not give you the same performance as a headworn mic or lavalier mic.
+
+

@@ -1,0 +1,12 @@
+Title: Theater Audio - Boundary mics to supply sound to dressing rooms
+Id: 1684
+Legacy Id: 1741
+
+Question:
+I work for a high school and we are looking to purchase mics for our theater. We are looking for boundary mics that will be used to pump the sound from the theater into the dressing rooms. The stage is 45 feet wide and 30 feet deep. What type if microphone could you recommed that we purchase? Thank you for your time.
+
+
+Answer:
+
+	Consider the MX391/O. It does require phantom power to operate. One mic placed in the center of the stage should suffice.
+

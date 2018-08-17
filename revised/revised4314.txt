@@ -1,0 +1,12 @@
+Title: Noise specification on KSM353
+Id: 4314
+Legacy Id: 5388
+
+Question:
+What is the self noise spec on the KSM353 ribbon microphone?
+
+
+Answer:
+
+	As there are no active electronics in the KSM353, the Self-Noise is the thermal noise of the electrons bouncing around in the electrical conductors.Dynamic mics and ribbon mics are not typically given noise specs because the noise floor is insignificant, and varies depending upon the temperature, i.e., the colder the mic, the lower the noise floor,
+

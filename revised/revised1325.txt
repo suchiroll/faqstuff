@@ -1,0 +1,12 @@
+Title: Replacement Mic for DY88Y
+Id: 1325
+Legacy Id: 1376
+
+Question:
+We need to replace the microphone used as the voice input channel for a Honeywell recorder. The old microphone is a Shure DY88Y. We do not have any specs on this mic. What do you have that replaces that model?
+
+
+Answer:
+
+	The DY88Y was similar to the Shure 575S. The 575 model is discontinued. A Shure VP64 will have similar specifications to the 575.
+

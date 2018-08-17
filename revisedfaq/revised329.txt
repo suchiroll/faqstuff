@@ -1,0 +1,37 @@
+Title: How do I connect a Tram microphone to a Shure bodypack?
+Id: 329
+Legacy Id: 336
+
+Question:
+How do I connect a Tram microphone to the TA4 connector on a Shure bodypack?
+
+
+Answer:
+
+	As of March 1997, TRAM microphones are available exclusively from Micron Audio, phone (973) 857-8150; fax (973) 857-3756. The wiring scheme below is based on information from Micron and has not been tested by Shure. Contact Mr. Paul Tepper at Micron if additional information on TRAM product is required.
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+	
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+
+

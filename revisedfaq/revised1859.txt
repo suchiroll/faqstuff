@@ -1,0 +1,16 @@
+Title: Aux Send and Aux Return for Promaster 700
+Id: 1859
+Legacy Id: 1919
+
+Question:
+Can you tell me how to aux send and aux return effects on this unit?
+
+
+
+
+Answer:
+
+	A post-Master/pre-EQ aux send can be obtained at the Mix Output (Com Mix) jack.
+	
+	The Aux Return can be inserted into the EQ Input jack. Note this is a switching jack and disconnects the internal signal path when a phone plug is inserted.
+

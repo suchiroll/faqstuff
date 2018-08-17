@@ -1,0 +1,12 @@
+Title: Installing the MXA910 in a 2x4 ceiling grid.
+Id: 4995
+Legacy Id: 6263
+
+Question:
+How do I install the MXA910 in a ceiling with 2x4 ceiling grids?
+
+
+Answer:
+
+	Use a 2x2 tile and T-bar to fill in the empty space.
+

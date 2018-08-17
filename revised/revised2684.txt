@@ -1,0 +1,12 @@
+Title: Current drain of Shure wireless mic capsules
+Id: 2684
+Legacy Id: 2788
+
+Question:
+I was thinking about switching the head on my LX wireless from an SM58 to a Beta 87A. Since the wired version of this mic uses phantom power, what powers the wireless version. In other words. Will it eat batteries faster?
+
+
+Answer:
+
+	The Beta 87A will not increase the battery drain. The interchangable mic capsules in the Shure wireless line all draw the same battery current....that is why they are interchangable!
+

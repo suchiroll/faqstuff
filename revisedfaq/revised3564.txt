@@ -1,0 +1,42 @@
+Title: Which wireless is affected by the June 2010 wireless microphone regulations?
+Id: 3564
+Legacy Id: 3770
+
+Question:
+Which Shure wireless systems are affected by the FCC reallocation that I am hearing about? I'm afraid that I might need to get a new wireless system.
+
+
+Answer:
+
+	The systems that are most affected are:
+	
+	UHF Series (U4S, U4D) - UA and UB band only
+	UC Series
+	UP Series
+	UT Series (only frequencies above 700 MHz)
+	MX692
+	PSM400 - HF band only
+	PSM700 - HF band only
+	
+	The above systems operate in the 700 MHz band (actually 698-806 MHz). If you have one of the above systems and it operates between 698 to 806 MHz, you should make plans to replace that wireless system. The FCC has reallocated these frequencies to public safety and to auction winners. The majority of the auction winners are cell phone companies.After June 12, 2009, these cell phone companiescan begin using these frequencies and that will probably be problematic to wireless microphones in this spectrum. The wireless microphone will begin having frequent dropouts or other problems. After June 12, 2010 it will be illegal to use wireless systems in the 700 MHz band. Additionally, the federal government has dictated that Shure can no longer repair 700 MHz wireless systems.
+	
+	The antennas and antenna distribution systems are not affected by this regulation. However, if you have narrow band antennas or antenna distribution, you might need to change them out for wide band devices or devices in a different band.
+	
+	The following systems will still be fine:
+	
+	T Series
+	LX
+	SC
+	PG (Performance Gear)
+	PGX
+	SLX
+	ULX
+	UHF Series (U4S, U4D) - M4 and J4 band only
+	UT Series (frequencies below 698 MHz)
+	PSM200
+	PSM400 - X1 band\
+	PSM600]
+	PSM700 - H3 and L2 bands
+	
+	On June 12, 2009, some television stations moved to a different channel. Thus, on the above systems, it might be necessary to adjust your system to a new frequency. See the User Guide as many wireless systems can scan for a clean frequency.
+

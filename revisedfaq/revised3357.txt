@@ -1,0 +1,16 @@
+Title: Which leg of UA221 passes DC voltage?
+Id: 3357
+Legacy Id: 3541
+
+Question:
+How can I tell which UA221 leg passes DC?
+
+
+Answer:
+
+	One side of the UA221 splitter is marked with a Shure logo, arrows, ANT, R1, and R2.
+	
+	The R1 - ANT path passes DC.
+	
+	The R2 - ANT path blocks DC, as does the R1 - R2 path.
+

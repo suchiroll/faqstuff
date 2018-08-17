@@ -1,0 +1,14 @@
+Title: Shure Crystal Phono Cartridge
+Id: 2388
+Legacy Id: 2480
+
+Question:
+I have a 1946 Philco Radio/Phono model 46-1203 which has, I believe, a D10 changer. It appears the crystal cartridge is in need of replacement. I'm not sure of the model number, however on the
+
+Shure manufacture sticker, only one number is printed: 28-105. The label doesn't indicate that the number is a model number. Can you cross refrence this, replace it, or repair it?
+
+
+Answer:
+
+	Shure no longer makes crystal phono cartridges. See the following link: Replacement Styli for ceramic or crystal cartridges
+

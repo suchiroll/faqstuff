@@ -1,0 +1,26 @@
+Title: SC Wireless Systems - Discontinuation
+Id: 2580
+Legacy Id: 2679
+
+Question:
+I personally own two SC wireless systems and the church I work with owns six. Now that the SC series is discontinued, how long will accessories be available for those systems. Almost all of the above systems are only lavalier equipped, however I would like to purchase at least two SM58 handheld transmitters for use with my two systems. Will Shure continue to produce these products or do I need to make these purchases right now? For how long can I safely assume that these transmitters will be available? I will probably want to add several more in the future, but as usual available budget is an issue at this time. I am certainly hoping that Shure hasn't made a decision to totally discontinue all production immediately! I do know first-hand that there are MANY, MANY of these systems installed/in use in the local churches here. I also have a second question. With more and more digital television stations popping up that may eventually render several of these frequencies virtually unusable, will Shure recrystalize these units so that we don't have to make large reinvestments in new wireless systems? Thanks in advance for your response.
+
+
+Answer:
+
+	How long will accessories be available for the SC systems?
+	* Please define "accessories". This word can refer to many different products: mic clips, windscreens, transmitters, etc.
+	
+	Will Shure continue to produce these products or do I need to make these purchases right now?
+	* All SC production has ceased. Some product does remain in our inventory. When it is gone, there is no more.
+	
+	For how long can I safely assume that these transmitters will be available?
+	* We cannot predict when inventory will be depleted. But likely before the end of 2002.
+	
+	I am certainly hoping that Shure hasn't made a decision to totally discontinue all production immediately!
+	* All production ceased in June 2002.
+	
+	Will Shure recrystalize these units so that we don't have to make large reinvestments in new wireless systems?
+	* SC systems do not use crystals. They use electronic synthesis of the carrier frequency. Changing the entire circuit board is the method used to change the frequency band. As long as repair parts remain in Shure Service, SC receivers will be repaired and modified.
+	
+	Shure Service may be contacted at: 800-516-2525.

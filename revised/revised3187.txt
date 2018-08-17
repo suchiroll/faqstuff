@@ -1,0 +1,20 @@
+Title: What is sensitivity, frequency response, and impedance of earphones?
+Id: 3187
+Legacy Id: 3329
+
+Question:
+How do impedance, sensitivity and frequency range differentiate one earphone from another?
+
+
+Answer:
+
+	This data can give you some information, but most important to these earphones, and their differentiations, would be the acoustical drivers used.
+	
+	The impedance refers to the electrical resistance, or load, that the earphones will have on the audio device you are listening through. It is measured in ohms. Each of these earphones will perform very well with just about any portable on the market without any problems.
+	
+	The sensitivity refers to the loudness of the earphones. This is important, as most portable devices need high sensitivity earphones/headphones/earbuds, as their headphone amps inside are not that powerful.
+	
+	A sensitivity of at least 100 is good. All of our earphones will be able to produce more than your ears can handle, so dont worry about that. The least of our earphones produce more than enough sound to cover any device. Since we block out anywhere between 29 and 37 dB of ambient sound before you even start listening you should never need to turn up your iPod or laptop or iPhone or whatever past a normal output level, even if you need it loud.
+	
+	The frequency range can tell you a bit about how an earphone speaker sounds, but in some cases we choose not to publish our response or range of our earphones. We have found that the response, with this type of product is extremely dependent on the user. Since the earphones use the aural canal to help reproduce sound, the frequency response can vary from one user to another too much to get what we feel is a consistent graph or range. The type of sleeve, and fit, can drastically change the perceived frequency response of any in ear earphone.
+

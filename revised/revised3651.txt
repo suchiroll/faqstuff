@@ -1,0 +1,13 @@
+Title: 3.5mm male TRS to 3.5mm female TRRS Adapter
+Id: 3651
+Legacy Id: 3859
+
+Question:
+I have the Shure SE115M and I want to use it with my laptop computer for listening to music. The SE115M's 3.5 mm male connector has a tip, a ring 1, a ring 2, and a sleeve. The computer's 3.5 mm female connector has a tip, a ring, and a sleeve. On the SE115M, it is ring 2 that is the common ground for earphone audio. On the computer, it is the sleeve that is the common ground for earphone audio. Thus the SE115M will not work with the computer. Is there an adapter for this situation?
+
+
+
+Answer:
+
+	This adapter should work for your applicationhttp://www.kvconnection.com/ProductDetails.asp?ProductCode=K-AD35M35F4=4101
+

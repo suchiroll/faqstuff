@@ -1,0 +1,12 @@
+Title: Effects of Capacitive / Resistive Loading
+Id: 4411
+Legacy Id: 5508
+
+Question:
+Is there a website that explains and illustrates how different capacitive loading and resistive loading affect a phono cartridge?
+
+
+Answer:
+
+	http://www.hagtech.com/loading.html
+

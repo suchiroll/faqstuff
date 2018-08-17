@@ -1,0 +1,30 @@
+Title: Adding a volume control to a 520D Green Bullet
+Id: 1216
+Legacy Id: 1260
+
+Question:
+About 7-8 years ago I purchased a Shure Green Bullet Microphone for use playing my harmonicas. That version does not have a volume control on the mic. Can one be added or is my only option buying a new mic with the control. I love the sound I get with my current mic and hate to give it up. Thanks.
+
+
+Answer:
+
+	Adding on/off Switch and Potentiometer to 520D - Green Bullet Microphone
+
+	Many harmonica players wish to control the output volume of the 520D Green Bullet microphone. Additionally, an on/off switch may be added.
+
+	When adding an on/off switch and potentiometer to the 520D Green Bullet microphone follow these procedures using the included drawing (high impedance output).
+
+	
+		Red will remain the same.
+	
+		Connect both the switch and the potentiometer across the blue and black wires inside the microphone housing.
+	
+		The switch should be connected closest to the microphone element, and the potentiometer should be connected after the switch in the circuit (nearer the plug).
+	
+		Connections at the plug should remain the same.
+
+
+	Note: If the potentiometer is placed before the switch in the circuit, the switch will not work.
+
+	Note: For low impedance applications substitute a five (5) kilohm potentiometer for the 100 kilohm potentiometer.
+

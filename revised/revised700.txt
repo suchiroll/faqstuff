@@ -1,0 +1,13 @@
+Title: FP33 Fuse
+Id: 700
+Legacy Id: 717
+
+Question:
+What is the fuse for the FP33? Where can it be purchased?
+
+Answer:
+
+	An FP33 replacement fuse is available from Shure Parts at 800-516-2525. The Shure part number is 187AJ06A.
+	
+	The fuse is made by Littelfuse, part number R451.002. This surface mount fuse is rated at 2A at 125V. The fuse is also available from Mouser Electronics at 800-346-6873. The Mouser part number is 5762-451002.
+

@@ -1,0 +1,14 @@
+Title: Banjo miking
+Id: 2443
+Legacy Id: 2538
+
+Question:
+Do you have a small light mic [not contact 'button type'] dynamic or cardioid, that could be attached via a 'goose neck' arrangement to my banjo?
+
+
+Answer:
+
+	The SM11 mic is often used on banjo. It can be attached to the tailpiece using Velcro.
+	
+	Or consider the Beta 98H/C. It has a clip that will attached to the rims of many banjos, even though the clip was designed primarily for the bell of a horn.
+

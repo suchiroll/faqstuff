@@ -1,0 +1,17 @@
+Title: Replacement for MX202B/O?
+Id: 823
+Legacy Id: 845
+
+Question:
+My supplier advised that above choir mic has been discontinued.
+Reference to your web site confirms in that it is not listed along with the cardioids.
+
+This shatters my plans for ambience recording of  our two organs.
+Can you provide two omnis on special order?  Can recommend an omni that could be used for the purpose?
+
+Answer:
+
+	Because Shure did not sell very many of the omnidirectional versions of the MX202, the marketing department decided to drop that model number.
+	
+	Order the MX202B/N and the R183B Omnidirectional cartridge to get the equivalent of the MX202B/O.
+

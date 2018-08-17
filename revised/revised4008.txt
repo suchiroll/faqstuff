@@ -1,0 +1,124 @@
+Title: Intermixing ULX and UHF-R Transmitters and Receivers
+Id: 4008
+Legacy Id: 4415
+
+Question:
+Can I use a ULX transmitter with a UHF-R receiver and vice versa?
+
+
+Answer:
+
+	The question is occasionally asked whether it is possible to use a ULX wireless microphone transmitter with a UHF-R wireless receiver. Similarly, can a UHF-R transmitter be used with a ULX receiver? This bulletin will address the associated issues.
+	
+	A quick system level review of a typical wireless microphone system is in order. The major components of a wireless microphone system are:
+
+	
+		Microphone - converts acoustic sound pressure to an electrical audio signal
+	
+		Transmitter - converts the electrical audio signal to a radio signal (electromagnetic wave)
+	
+		Receiver - converts a radio signal back to an electrical audio signal for feeding a sound system mixer or recording device.
+
+
+	The most complex part of a wireless microphone system is the radio transmitter and receiver, which interface to each other with invisible radio waves. Most wireless microphone systems use frequency modulation techniques (FM) to impress the audio signal onto the radio signal. The radio channels used in wireless microphones, typically in the UHF television band, are relatively narrow for sending high quality audio. The receiver converts the weak radio signals back to the audio domain. Sophisticated algorithms are used to compress the audio signal onto a radio channel, followed by restoration of the audio signal in the receiver to its original dynamic range.
+	
+
+	
+
+	
+	For best performance and audio reproduction, it is important to match the operational parameters of the transmitters and receivers. A list of the parameters is shown in the above figure. Following is an explanation of the operational parameters:
+	
+	Frequency - Besides being the most obvious, this is probably the most important parameter of all. For a wireless microphone transmitter to work with a specific receiver, both must be capable of tuning to the same frequency. Inability to tune both the transmitter and receiver to the same frequency will result in transmission failure.
+	
+	Frequency Compatibility - For successful operation, it is important to select a frequency that has no other competing signals already in operation. Typically, wireless microphones operate in the UHF television band. The key is to select a frequency associated with a vacant TV channel. When multiple wireless channels are used simultaneously at the same venue, channel separation and intermodulation interference considerations also come into play. Channel separation is related to the quality of the receivers selectivity, which defines how well undesired signals on nearby frequencies are filtered out. When operating three or more wireless microphones, intermodulation interference frequencies can occur due to mixing of the radio signals from the various transmitters. The intermod frequencies can land on operational wireless microphone frequencies and cause interference. Fortunately, computer programs, such as the Shure Wireless Workbench, are available to calculate and identify compatible frequencies to eliminate any possible interference problems.
+	
+	Modulation - Most wireless microphones in use today use Frequency Modulation (FM) as the radio transmission protocol. In simple terms, the frequency modulation method for sending an audio signal over radio waves involves varying the frequency of the radio signal carrier based on the intensity or volume of the audio signal, while the rate of frequency change is related to the frequency of the audio signal. One other important parameter of FM is called deviation, which is the maximum amount of radio frequency change of the radio carrier as driven by the audio signal. Typical deviation values for Shure products are 38 kHz and 45 kHz.
+	
+	Companding - Shure Audio Reference Companding is used in both the ULX and UHF-R wireless model lines. The term companding comes from the words compression and expansion. In basic terms, the transmitter compresses the audio signal dynamics and the receiver expands the audio signal back to its original dynamic range. The companding algorithms allow sending an audio signal with a very wide dynamic range over a radio channel that can support a limited dynamic range.
+	
+	Tone Key - Many wireless microphone systems employ a scheme where the transmitter sends a specific audio tone that identifies itself to the receiver. The tone is usually in the ultrasonic range (~32kHz), and does not appear at the receiver audio output jack. The receiver senses the tone key to provide a second opinion squelch mechanism that provides additional protection against extraneous and undesired noise from interfering signals.
+	
+	Telemetry - Battery Status, etc. - Mid- and high-tier wireless microphone systems often feature displays of the microphone transmitter status at the receiver. The most common status is a battery fuel gauge, which informs the sound technician of the approximate amount of time left before a battery change is required. An example of another status item is the transmitter gain structure settings. Some wireless microphone systems use a special infrared data link to pass programming information (frequency, gain structure, name parameters, etc.) from the receiver to the transmitter - further simplifying setup for the technicians.
+	
+	Now, back to the original question. Are the UHF-R and ULX wireless microphone model lines compatible with each other? Following is a matrix that addresses the major compatibility topics.
+	
+
+	
+		
+			
+				Compatibility Criteria
+			
+				ULX Transmitter and UHF-R Receiver
+			
+				UHF-R Transmitter and ULX Receiver
+		
+		
+			
+				Frequency
+			
+				ULX: 470-506 MHz (G3), 554 - 590 MHz (J1), and 662 - 698 MHz (M1). G3 overlaps with UHF-R G1 range. J1 overlaps with both UHF-R H4 and J5 ranges. M1 overlaps with UHF-R L3. Manual frequency selection and coordination is required.
+			
+				Must manually select frequencies on UHF-R transmitters to work on more limited ULX frequencies. UHF-R G1 to ULX-G3 (36 MHz); UHF-R H4 to ULX-J1 (24 MHz range); UHF-R J5 to ULX-J1 (12 MHz); UHF-R L3 to ULX-M1 (36 MHz).
+		
+		
+			
+				Frequency Compatibility
+			
+				Manual frequency selection and coordination required. Programmed frequencies, using group and channel designations, are not compatible.
+			
+				Manual frequency selection and coordination required. Programmed frequencies, using group and channel designations, are not compatible.
+		
+		
+			
+				Modulation Type
+			
+				Compatible - FM
+			
+				Compatible - FM
+		
+		
+			
+				Modulation Level
+			
+				Conditionally compatible. ULX FM deviation ~38 kHz. UR4 receiver audio signal strength meter not calibrated for use with ULX transmitters.
+			
+				Conditionally compatible. UHF-R FM deviation ~45 kHz. ULX receiver audio signal strength meter not calibrated for use with UHF-R transmitters.
+		
+		
+			
+				Companding
+			
+				Compatible - SHURE Audio Reference Companding
+			
+				Compatible -SHURE Audio Reference Companding
+		
+		
+			
+				Tone Key
+			
+				Not compatible. Tone key must be disable on the UR4 receiver (front panel setting) to receive the ULX transmitter signals.
+			
+				Not compatible. Tone key can be disabled on the ULX receiver upon power on. Tone key reverts to active upon power cycling; will need to be disabled each time receiver is powered up. Contact Shure Applications Engineering for information and other options.
+		
+		
+			
+				Telemetry
+			
+				Not compatible - Battery status not displayed on receiver. Infrared link transmitter programming not available on ULX transmitters.
+			
+				Not compatible - Correct status information is not displayed on receiver. Infrared link transmitter programming not available.
+		
+	
+
+
+	
+	
+	Summary
+	
+	While it is possible to intermix transmitters and receivers between the ULX and UHF-R product lines and actually attain fairly good performance, the issues related to ongoing set-up and live operation will require nearly full-time technical attention. The technicians and system operators will need to understand all of the behind-the-scenes technology that makes a wireless microphone system work in order to keep the system running smoothly.
+
+	One of the advantages of current wireless microphones is their ease of set-up and use. This is made possible through designs that intentionally make set-up and operation of wireless microphone systems as user friendly as possible. Extensive design effort is put into simplification of frequency planning and coordination for the user, as well as easy setup procedures. Once setup, wireless microphone systems can often be used for years without further technical attention. Intermixing transmitters and receivers from multiple product lines compromises the user friendliness of wireless microphone systems.
+	
+	In summary, Shure Applications Engineering does not recommend intermixing wireless microphone transmitters and receivers due to the mismatch between design parameters that lead to operational complexities.
+	
+

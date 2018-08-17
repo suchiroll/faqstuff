@@ -1,0 +1,34 @@
+Title: Transmitting MIDI over U1/U4D
+Id: 1731
+Legacy Id: 1790
+
+Question:
+I would like to connect a MIDI controller (a keyboard) to a MIDI sampler. I would like to use a Shure wireless system U or SC to transmit MIDI, is that possible?
+
+
+I read a FAQ answer on your site where you say "Shure does not make a wireless system that will transmit MIDI without a cable ("thread"). Try Aquila Systems in Hatboro, Pennsylvania, USA. Phone number: 215-957-5450. Unfortunately I do not speak such good English and I am in Europe, could you kindly send to me web site or e-mail address or fax number of Aquila systems if you continue not to handle MIDI wireless transmissions?
+
+
+---- 09/19/2001 06:09 PM ----------------------------------------------
+
+I contacted midi-classics as suggested but I received the following e-mail from Phil Sabatine of Midi-classics:
+
+"We have been unable to contact Aquila. These pages are marked obsolete. They have not shipped anything for us in over a year. MIDIMan/MAudio will soon release a wireless MIDI system called Blue Tooth. I recommend you watch our site or MIDIMan for news on this exciting new product."
+
+
+I would need soon this MIDI wireless connection, do you know any other brand producing it now?
+
+
+Thanks for what you will still do for helping me.
+
+
+Answer:
+
+	At 09/19/2001 08:59 AM we wrote - http://www.midi-classics.com/p13915.htm
+	
+	Shure wireless will not transmit MIDI signals.
+	
+	For other ideas, email Shure Europe: support@shure.de English and German are the main languages at Shure Europe.
+	
+	At 09/19/2001 06:46 PM we wrote - We are not aware of anyone else.
+

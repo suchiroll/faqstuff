@@ -1,0 +1,12 @@
+Title: Schematic diagram for SM81 microphone.
+Id: 1334
+Legacy Id: 1386
+
+Question:
+I'd like to know about the schematic diagram for the SM81 microphone. Please answer as soon as possible in this matter.
+Thanks.
+
+Answer:
+
+	As there are no user serviceable parts inside of the SM81, the schematic is not available to the public. If you require service for an SM81, please contact Shure service: http://www.shure.com/americas/support/service-repair
+

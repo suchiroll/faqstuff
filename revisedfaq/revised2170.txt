@@ -1,0 +1,34 @@
+Title: Home studio - getting started
+Id: 2170
+Legacy Id: 2243
+
+Question:
+I would like to start a home studio using a upper-end condensor microphone to mic vocals and strings. I am interested in the KSM44 condensor microphone or possibly the KSM27 for studio and live performances.
+
+
+1. I have a very powerful computer at home and I am wondering what I need to run a home studio besides a nice condensor microphone and computer?
+
+
+2. What software do I need to run?
+
+
+3. Do I need a mixer if I am running a condenser for vocals and instruments?
+
+
+4. Are there home studio packages for sale with software and condensor microphone?
+
+
+Answer:
+
+	1. You will require a high quality microphone preamp with phantom power, like: http://www.rane.com/ms1b.html
+	
+	2. Shure does not make software for home recording. We do know that ProTools is a very popular program.
+	
+	3. You will need a mixer if you plan to use more than one microphone at a time.
+	
+	4. Cannot recommend package sales of home studios. Pick and choose the best equipment.
+	
+	Also read: Microphones and Multitracks; Microphone Techniques for Music - Studio Recording MP3: Getting Your Music from the Garage to the Web
+
+	Available at: Educational Articles - Online Booklets and Bulletins
+

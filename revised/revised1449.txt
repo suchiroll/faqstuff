@@ -1,0 +1,14 @@
+Title: Tonearm effective mass for V15 Type V phono cartridge?
+Id: 1449
+Legacy Id: 1502
+
+Question:
+What is recommended (for best performance) tonearm effective mass (in grams) for Shure V15 Type V cartridges?
+
+
+
+
+Answer:
+
+	We suggest an effective tonearm mass of 6 to 12 grams.
+

@@ -1,0 +1,13 @@
+Title: Will a P9R or P10T work with a P7T transmitter?
+Id: 4701
+Legacy Id: 5871
+
+Question:
+Can I make a P9R or P10R receiver work with a P7T transmitter if the frequency bands overlap?
+
+
+
+Answer:
+
+	Sorry, the answer is No. The individual frequencies in the PSM700 H3 band do not match the frequencies in the PSM900 G7 band or in the PSM1000 G10 band.dont line up.
+

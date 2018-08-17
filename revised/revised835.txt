@@ -1,0 +1,11 @@
+Title: Instructions on setting up DP11EQ
+Id: 835
+Legacy Id: 858
+
+Question:
+Can you e-mail the instructions on the proper procedure for setting the parameters on our DP11EQ.
+
+Answer:
+
+	You can download the operating software or the user guide from the Shure web site.
+

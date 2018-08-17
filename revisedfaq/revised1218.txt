@@ -1,0 +1,13 @@
+Title: Ear molds for E5 drivers
+Id: 1218
+Legacy Id: 1262
+
+Question:
+I have a set of ear molds manufactured by Westone laboratories. They are style #49 and were manufactured to insert ER15 attenuators. (They have a round hole in the end!) Can these be retrofitted to hold a pair of E5's and who could I contact to have this done?
+
+Answer:
+
+	It is highly doubtful. The E5s use a unique mold. Since the ear molds are made by Westone, contact them to see if they can help you. Please see the following link to our online FAQ:
+	
+	Custom molds for earphones: how to, what, and where?
+

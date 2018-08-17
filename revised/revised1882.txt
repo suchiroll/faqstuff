@@ -1,0 +1,19 @@
+Title: Mic elements in WH20, WCM16, WL185.
+Id: 1882
+Legacy Id: 1942
+
+Question:
+What is the microphone element used in the WH20 series microphones? What is the microphone element used in the WCM16 microphone? How does each compare with the element used in the WL185 microphone?
+
+
+Answer:
+
+	What is the microphone element used in the WH20 series microphones?
+	* It is a dynamic cardioid. It is the same element used in the SM10A and 512.
+	
+	What is the microphone element used in the WCM16 microphone?
+	* It is a condenser hypercardioid. It is not used elsewhere.
+	
+	How does each compare with the element used in the WL185 microphone?
+	* The WL185 is a condenser cardioid. It will sound more similar to the WCM16.
+

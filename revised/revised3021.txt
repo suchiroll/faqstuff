@@ -1,0 +1,14 @@
+Title: USB to Serial Adapter does not work with Shure DSP device
+Id: 3021
+Legacy Id: 3150
+
+Question:
+My USB to Serial adapter will not connect to the Shure DSP device. Any hints?
+
+
+Answer:
+
+	In the event the converter does not allow you to connect to the processor, chance are good that it was assigned a COM port of 5 or greater. Most Shure software only communicates through one of the first four COM ports.
+	
+	To make the converter work, you must manually reassign it to either COM 1, 2, 3, or 4. This process will be different depending on the model of converter, so check with the manufacturer of the USB-to-serial adapter for the proper instructions.
+

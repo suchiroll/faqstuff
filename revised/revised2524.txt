@@ -1,0 +1,15 @@
+Title: N55E stylus for V15V cartridge
+Id: 2524
+Legacy Id: 2621
+
+Question:
+I have a V15V cartridge purchased in the early 1980s. The stylus is missing. There is a stylus box, however, for a model N55E stylus packed with the original box for the cartridge. I think I used that stylus in the V15V, but am not sure.
+
+
+Since the N55E is still available, and not as expensive as the VN5MR, will the N55E work in the V15V cartridge?
+
+
+Answer:
+
+	Our sample N55E did not fit into the V15V body.
+

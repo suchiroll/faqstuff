@@ -1,0 +1,22 @@
+Title: Acoustics of Teleconference Rooms
+Id: 3835
+Legacy Id: 4074
+
+Question:
+Please provide a reference paper about the required acoustics for a room used for teleconferencing.
+
+
+Answer:
+
+	Attached is a superb paper by Bell Labs concerning the Acoustics of Teleconference Rooms. Written in 1977, the principles still apply as the laws of acoustics, being laws of physics, do not change.
+
+	Note well this paragraph from page 3: In principle, any room is suitable for teleconferencing if the Guidelines (from the paper) are followed. However, the Guidelines dictate that in a noisy or reverberant room, talkers must speak so close to the microphones that they might as well use (telephone) handsets. The user requesting the installation must then choose one of the following options:
+
+	1) Select another room, or
+
+	2) Acoustically treat the chosen room, or
+
+	3) Accept the close talker-to-microphone distances dictated by the Guidelines.
+
+	If all these solutions are unacceptable, a (teleconference) system should not be installed.
+

@@ -1,0 +1,29 @@
+Title: AXT610 external DC power supply
+Id: 4103
+Legacy Id: 4741
+
+Question:
+What is a recommended external DC power supply for the AXT610 Access Point?
+
+
+Answer:
+
+	External AC Power Supply Specifications for SHURE AXT610 AXIENT Access Point
+	
+	Output Voltage:15 Vdc
+	Current:600 mA (minimum)
+	DC Output Connector:2.1 x 5.5 mm barrel (coaxial), center pin positive, preferably with locking collar
+	Note: The AXT610 is equipped with a locking collar to prevent the DC connector from falling out.It is not required to use a locking collar connector, but if a non-locking connector is used the cable should be secured to prevent a DC power failure.
+	AC Input:120 Vac for North American applications
+	AC Input Type:3-wire grounded cord preferred
+	
+	Suggested Power Supply Models - available from Mouser Electronics, www.mouser.com, and other electronics suppliers
+	
+	Triad Magnetics model WDU15-600 - unregulated 15 Vdc, 600 ma linear power supply, 120 Vac input, non-locking barrel connector, wall mount, 2 prong AC connector
+	
+	Mean Well model GS18A15-P1J - regulated 15 Vdc, 1.2 A switching power supply, three wire line cord (obtain separately), 90 - 264 Vac input, in-line module, non-locking barrel connector, LED power indicator
+	
+	Phihong model PSA-A18U-150-R - regulated 15 Vdc, 1.2 A switching power supply, three wire line cord (obtain separately), 90 - 264 Vac input, in-line module, non-locking barrel connector
+	
+	Note:Optional DC barrel connector with locking collar available for retrofit - Switchcraft model S760K
+

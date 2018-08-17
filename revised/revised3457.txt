@@ -1,0 +1,12 @@
+Title: What determines vertical tracking force (VTF)?
+Id: 3457
+Legacy Id: 3651
+
+Question:
+For phono cartridges with replaceable stylus assemblies, I was wondering if the VTF is determined by the stylus assembly, the cartridge body or a combination of the two.In other words, assuming that a cartridge can accept a stylus different from the original stylus, do you keep the tracking force of the original stylus-cartridge combination or do you use the tracking force that the new stylus requires when used with the cartridge it was designed for?
+
+
+Answer:
+
+	The VTF is determined by the elastic bushing that supports the stylus shank.If one changes the stylus, the VTF needs to be reset based on the specification for the new stylus.
+

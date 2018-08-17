@@ -1,0 +1,15 @@
+Title: Wired SM58 performance through a 100 foot cable snake
+Id: 3936
+Legacy Id: 4185
+
+Question:
+I have 5 wired SM58 mics going thru a 100 ft mic snake. Does the 100 ft snake affect the performance of a wired mic?
+
+
+Answer:
+
+	It can, depending upon the capacitance of the cable. The effect of cable capacitance on microphone response is well documented, but not widely known. ThePDF article, attached below,by Jim Brown explains it.
+	
+	The cable specs of better manufacturers, like Belden, will list a capacitance per foot rating.
+	
+

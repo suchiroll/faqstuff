@@ -1,0 +1,14 @@
+Title: VP83F Date and Time Issue
+Id: 4345
+Legacy Id: 5430
+
+Question:
+I have an new VP83F. I set the date and time, but when I power off the VP83F and then power it back on, it forgets the date and time. What is the solution?
+
+
+Answer:
+
+	Install new AA cells. Power on the VP83F and leave it powered on for 30 minutes. This will recharge the internal battery that runs the clock and this problem should be resolved.
+	
+	Once the internal battery has been properly recharged, the issue should not reappear unless the VP83F is left in storage for many months.
+

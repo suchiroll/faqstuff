@@ -1,0 +1,12 @@
+Title: Clip on mic for acoustic guitar?
+Id: 770
+Legacy Id: 791
+
+Question:
+Which of your mics is best for amplifying an acoustic guitar? Is there a small model which clips onto the side of the soundhole instead of using a hand-held and mic stand?
+
+
+Answer:
+
+	The SM11 is available with mounting hardware to clip to the soundhole. You might also want to look at the Beta 98. You would have to come up with your own mounting configuration for the Beta 98, but it is a small, condenser instrument microphone.
+

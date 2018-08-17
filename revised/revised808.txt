@@ -1,0 +1,14 @@
+Title: Antennas inside rack on LX14 Wireless
+Id: 808
+Legacy Id: 830
+
+Question:
+I have the Shure LX14 Wireless Guitar System. It comes with the rackmount kit to put it in a rack. But the thing that concerns me is that once the unit is put on a rack, the antennas end up in the back of the rack!  While I'll be standing in front of the rack in performance!  Will I still get as good a reception as if the antennas were located in the front of the unit facing me? What do you recommend?
+
+
+Answer:
+
+	Bringing the antennas to the front of the rack will provide better RF reception. You can get a front rack mount kit so that you can bring to the front of the rack. It comes with the appropriate cables and connectors to do that. The part number is WA503.
+	
+	You can buy them through your dealer or call us directly at 1-800-257-4873.
+

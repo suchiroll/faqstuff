@@ -1,0 +1,12 @@
+Title: SRH840 impedance curve
+Id: 3770
+Legacy Id: 4006
+
+Question:
+What is the impedance curve of the SRH840?
+
+
+Answer:
+
+	This is the typical impedance curve:
+	

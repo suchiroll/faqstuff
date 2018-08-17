@@ -1,0 +1,12 @@
+Title: SM81 SPL rating
+Id: 1119
+Legacy Id: 1155
+
+Question:
+I've been looking all over, and I can't seem to find a specific published SPL rating for the SM81. I'm using a pair of them now for drum overheads as well as stereo live recording. Although I've never had distortion problems, I'm wondering what that number is.
+
+
+Answer:
+
+	146dB SPL with 10 dB pad used.
+

@@ -1,0 +1,14 @@
+Title: V15 Type IV tracking force
+Id: 831
+Legacy Id: 854
+
+Question:
+I have the Shure V 15 Type IV cartridge with the original stylus. Please confirm the proper tracking force.
+
+
+Answer:
+
+	Tracking force: minimum - 1.25 grams maximum - 1.75 (With Dynamic Stabilizer operating)
+	
+	The V15 Type IV was discontinued in 1982 with the introduction of the V15 Type V.
+

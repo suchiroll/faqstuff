@@ -1,0 +1,16 @@
+Title: KSE1500 Loudness Settings
+Id: 4807
+Legacy Id: 5993
+
+Question:
+Please provide details about setting the loudness / volume control on the KSE1500.
+
+
+Answer:
+
+	The KSE1500 earphones must be used with the provide amplifier / electronics package. The KSE15000 maximum SPL (sound pressure level)is around 113dBSPL; this is the overall loudness of the system before distortion occurs. The total obtainable SPL is a function of the input level of the signal provided to the KSE1500 and of the amplification provided within the KSE1500.
+	
+	If an audio track is quiet, one might increasethe volume toward the maximum settingof 25. If an audiotrack provides a robust signal on the KSE1500 input meter, one will likely be using a setting of around 17 or 18.
+	
+	Note that it is not recommended to drive the KSM1500 from another headphone amplifier.
+

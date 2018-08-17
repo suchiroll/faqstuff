@@ -1,0 +1,13 @@
+Title: Bulkhead BNC connector
+Id: 2082
+Legacy Id: 2148
+
+Question:
+I have a UC wireless system with the rackmount and have one side so that I  can put the antennae on the front mount.  I didn't receive the other bracket with a kit that I purchased used.  Since I have all the required mounting and cabling, I wanted to see how much just the bulkhead BNC connector would cost or where I could purchase one of those.  Thanks.
+
+Answer:
+
+	For parts, please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

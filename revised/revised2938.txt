@@ -1,0 +1,50 @@
+Title: Bi-color LED indication on Logic Outputs of P4800, DFR22, SLX4L, SCM820, SCM810, SCM410
+Id: 2938
+Legacy Id: 3064
+
+Question:
+Instead of using a simple single color LED to indicate the status of the logic output on the P4800, I want to use a bi-color LED that switches between red and green. A bi-color LED is easier to see in bright lights than just an LED that goes on and off. How can I connect a bi-color LED to the logic outputs?
+
+
+Answer:
+
+	The following diagrams show how the circuit is made for a bi-color LED. This can be used with any Shure product that has Logic Outputs on it.
+	 
+	
+	
+	The 7400N chip actually has 4 NAND circuits in it. Thus, only one 7400N is necessary for 4 LED's. Likewise, the 7404N has 6 inverters in it and only one 7404N is needed per 3 LED's.
+	When wiring the bi-color LED in place, if the colors are opposite of what you were expecting, simply swap the leads of the LED.
+	
+		
+			
+				Parts Information
+		
+		
+			
+				 
+			
+				Digikey Part Number
+		
+		
+			
+				7400N
+			
+				296-14641-5-ND
+		
+		
+			
+				7404N
+			
+				296-14642-5-ND
+		
+		
+			
+				470 ohm resistor
+			
+				470QBK-ND
+		
+	
+
+	All electronic components needed for this project can be ordered from Digikey (1-800-DIGI-KEY). Many different bi-color LED's are available with various sizes, mounting, and colors. Notice that this circuit uses a two conductor bi-color LED, not a three conductor bi-color LED. When you are looking at purchasing the bi-color LED, make certain it only has two leads coming off of it. Digikey offers a good selection of bi-color LED's.
+	
+	NKK Switches manufacturers switches that have bi-color LED's built in. Thus, when using the control inputs and logic outputs of the P4800 together, you can have a switch that lights up two different colors depending on the state. Digikey sells NKK switches.

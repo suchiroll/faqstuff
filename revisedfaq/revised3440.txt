@@ -1,0 +1,14 @@
+Title: Hum / Buzz when PTT Paging Mic is Off
+Id: 3440
+Legacy Id: 3632
+
+Question:
+I have a Shure 514B connected to a Bogen mixer/amp. It is a paging system for a store. The 514B has a cable run of about 200 feet. The run is balanced and the Bogen input is balanced. When the PTT switch on the mic is depressed, activating the mic element, the system works fine. When the PTT switch is up, there is hum and buzz in the system. Any ideas?
+
+
+Answer:
+
+	Obtain an 1/8 watt resistor with a value from 800 to 1200 ohms.Install the resistoracross pin 2 and pin 3 on the Bogen XLR input. In the Bogen micinput hasscrew terminals, use the PLUS terminal and the MINUS terminal.
+
+	When the PTT button on the 514Bis up, the Bogen input is not loaded by the mic element, so any interference being picked on the 200 foot cable run is being amplified. Loading the Bogen mic input with the resistor will greatly reducethe hum and buzz when the 514B is not in use for a page.
+

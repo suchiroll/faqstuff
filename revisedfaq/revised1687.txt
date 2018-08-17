@@ -1,0 +1,42 @@
+Title: Phantom mics and FP22
+Id: 1687
+Legacy Id: 1744
+
+Question:
+will phantom power shoved up the mic input hurt my FP22? ie for when I want to troubleshoot a condensor mic etc.
+Is the transformer capacitively coupled to the xlr sockets?
+
+---- 09/10/2001 08:32 PM ----------------------------------------------
+I was thinking also perhaps building a phantom power circuit into mine… (yes
+I know the warranty would be void…)
+What I am really asking for is where I can see a FP22 circuit diagram?
+
+
+---- 09/11/2001 12:20 PM ----------------------------------------------
+yes, I do mean the FP22. It is the xlr socket I am talking about that
+operates at mic (or line) level. Where I come from I’d call that a mic
+input. Among other things, I use it for listening to microphones. All I want
+from you is the information requested please
+
+
+---- 09/12/2001 08:00 AM ----------------------------------------------
+Thankyou for this.
+By the way, I just found that I had got the circuit diagram all along! in
+the user guide included with the unit… duh
+
+
+Answer:
+
+	Are you certain you mean the FP22. The FP22 is a stereo headphone amplifier. It has no microphone input. It has an XLR loop-through for mic or line level signals. But its no microphone preamp.
+	
+	At 09/11/2001 01:01 PM we wrote - OK, let's try again.
+	
+	"will phantom power shoved up the mic input hurt my FP22?" * Phantom power will not harm the FP22. Phantom power applied to the FP22 XLR male connector will also appear at the FP22 female XLR. The FP22 may be used "for listening to microphones".
+	
+	Is the transformer capacitively coupled to the xlr sockets? * No. The input transformer is connected directly to the FP22 XLR connectors.
+	
+	What I am really asking for is where I can see a FP22 circuit diagram? A service manual may be obtained from Shure Europe Service. There may be a charge. Contact Shure Europe at: support@shure.de
+	
+	I hope this answers all your questions.
+	
+	At 09/12/2001 08:12 AM we wrote - You are welcome. Good luck with your project.

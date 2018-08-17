@@ -1,0 +1,68 @@
+Title: Interchangable Wireless Mic Elements - Model Numbers and Dimensions
+Id: 3081
+Legacy Id: 3212
+
+Question:
+Many, but not all Shure handheld transmitters feature user interchangable elements (capsules). What are the model numbers for the mic elements?
+
+
+Answer:
+
+	As of January 2016, here are the Shure Interchangable capsules:
+	
+	RPW110 - PG58 Cardioid
+	Length: 3.2 inches (81mm)
+	Maximum Diameter: 2.0 inches (51mm)
+
+	RPW112 - SM58 Cardioid
+	Length: 3.2 inches (81mm)
+	Maximum Diameter: 2.0 inches (51mm)
+
+	RPW114 - SM86 Cardioid
+	Length: 3.1 inches (80mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW116 - SM87A Supercardioid
+	Length: 3.1 inches (80mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW118 - Beta58A Supercardioid
+	Length: 3.2 inches (81mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW120 - Beta87A Supercardioid
+	Length: 3.1 inches (80mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW122 - Beta87C Cardioid
+	Length: 3.1 inches (80mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW124 - VP68 Omnidirectional
+	Length: 3.1 inches (80mm)
+	Maximum Diameter: 2.1 inches (52mm)
+
+	RPW170 -KSM8Cardioid(nickel)
+	Length: 3.25 inches (83 mm)
+	Maximum Diameter: 1.9 inches (49 mm)
+
+	RPW174 - KSM8 Cardioid(black)
+	Length: 3.25 inches (83 mm)
+	Maximum Diameter: 1.9 inches (49 mm)
+
+	RPW180 - KSM9 Cardioid/Supercardioid(champagne)
+	Length: 3.25 inches (83mm)
+	Maximum Diameter: 1.9 inches (49mm)
+
+	RPW182 - KSM9HS Hypercardioid/Subcardioid(champagne)
+	Length: 3.25 inches (83mm)
+	Maximum Diameter: 1.9 inches (49mm)
+
+	RPW184 - KSM9 Cardioid/Supercardioid(black)
+	Length: 3.25 inches (83mm)
+	Maximum Diameter: 1.9 inches (49mm)
+
+	RPW186 - KSM9HS Hypercardioid/Subcardioid(black)
+	Length: 3.25 inches (83mm)
+	Maximum Diameter: 1.9 inches (49mm)
+

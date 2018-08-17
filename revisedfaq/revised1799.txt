@@ -1,0 +1,18 @@
+Title: Meeting system for the hearing impaired
+Id: 1799
+Legacy Id: 1859
+
+Question:
+I have a customer who has monthly school board meetings. They would like each of the board memebers to have a wired mic 6-8. They would also like a wireless headset mic along with a lavalier that will work simultaneously. They need a mixer and I was thinking the SCM810 as it has the IntelliMix so one person at a time can speak? The only other catch, is they would like the hearing impaired to be able to hear the proceedings. They have FM receivers with a transmitter that has a 1/4" plug. Any suggestions?
+
+
+Answer:
+
+	The SCM810 is a fine choice, but it does not limit the number of talkers to only one. It turns off any mic not being spoken into. This keeps the number of open mics equal to the number of talkers at any moment.
+	
+	The headphone output jack of the front of the SCM810 would be a perfect match for the FM transmitter input.
+	
+	For mics, consider the Microflex series.
+	
+	For the wireless, consider the ULX series.
+

@@ -1,0 +1,17 @@
+Title: Shure earphones with 3rd gen iPod Shuffle
+Id: 3538
+Legacy Id: 3742
+
+Question:
+Can I use Shure earphones with the third generation iPod Shuffle?
+
+
+
+Answer:
+
+	The 3rd-generation iPod Shuffle is controlled exclusively by buttons on the earphone cord; there is only a power switch on the player itself.This means that Shure earphones - even when equipped with the MPA Music Phone Adapter - are not directly compatible with this player.The MPAs control button does allow you to control Play/Pause, Track Forward/Previous, and the new VoiceOver track ID feature, but you cannot adjust the volume.
+
+	
+
+	A control accessory for the iPod Shuffle is available from: http://www.scosche.com/
+

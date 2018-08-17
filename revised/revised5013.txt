@@ -1,0 +1,79 @@
+Title: The IT Professional’s Guide to Great Corporate Sound
+Id: 5013
+Legacy Id: 6305
+
+Question:
+Please provide a primer regarding speech audio in the corporate environment.
+
+
+Answer:
+
+	Author: Criss Niemann
+	October 2016
+	
+	Communication ceases with unintelligible audio. From the boardroom to the training center to the huddle rooms scattered across a facility, poor corporate sound is a common source of complaints and frustration. While malfunctioning hardware and user error can be addressed, muddy, indistinct sound is a much more vexing problem for the IT department responsible.
+	
+	Lets start by clarifying what we mean by great sound in typical situations like phone conferences and meetings. Intuition suggests that a WYSIWYG approach should work. Capture and reproduce corporate sound sources accurately, and everything should be fine, right? Sadly, no.
+	
+	Great Corporate Sound vs Great Live Music Sound
+	
+	What defines great sound depends on the situation and context. For example, music and speech have very different requirements. In music, great sound is about fidelity, but great sound for the spoken word is about ease of understanding, or intelligibility. A sound system designed to maximize one will often be problematic for the other.
+	
+	In a corporate environment, speech intelligibility is mission critical. If the listeners cant understand the talker, the meeting or teleconference becomes inefficient and ineffective.
+	
+	Weve all experienced poor speech intelligibility. The most common example is talking in a noisy room, like a crowded restaurant with background music, or a highly reverberant house of worship with lofty ceilings and reflective walls. Its very common for meeting and conference rooms to have extremely reflective surfaces like concrete, glass and whiteboards, creating a lot of reverberation and reducing clarity. Similarly, unwanted ambient sound within the room can be a problem.
+	
+	Speech intelligibilitythe listeners ability to easily understand the talkerrequires direct sound, spoken word in this case, to overpower both unwanted ambience (HVAC, projector noise, etc.) and reflected sound (room reverberation). The good news is that knowing how to optimize the deployment of system elements like microphones can be a big help.
+	
+	Conferencing Microphone Basics
+	
+	Lets focus on one of the more difficult situations: audio and video conferencing, where the sound in your local room is heard by distant participants. Most teleconferencing systems, whether a single-mic, computer-based solution like Skype For Business, Webex, or LinkedIn, or a multi-input system for joining multiple locations, incorporate a digital audio codec, usually with an external digital signal processer (DSP) that includes acoustical echo cancellation (AEC) to ensure smooth communication. Even with these mitigating factors, teleconferencing systems are still subject to audio issues like room noise and reverberation.
+	
+	At the beginning of your teleconference, check with distant participants to see if they can hear your location clearly. If the overall sound quality is hollow, muffled, or indistinct, unwanted sound is likely the problem. Fortunately, there are things you can do to help.
+	
+	Critical Distance
+	
+	Lets start with the concept of critical distance, which is the distance between the sound source and the microphone at which the direct sound (the talker) and ambient noise are at the same volume level. For good intelligibility, it is key for talkers to be significantly closer to the microphone than the distance at which critical distance is achieved. The more unwanted ambient sound in the room, the shorter the critical distance. For more details on critical distance, check out Shures FAQ database: Critical Distance
+	
+	Unidirectional Polar Patterns
+	
+	One of the most effective ways of reducing unwanted sound is to use microphones with a unidirectional polar pattern. Types of unidirectional patterns include cardioid (heart-shaped) and supercardioid. These mics are most sensitive to sound from the front and least sensitive to sound from the rear.
+	
+	If you talk into a unidirectional microphone from the front, then slowly rotate the mic 180 degrees, you will notice that it picks up less and less of your voice. This is by design. Properly aimed, unidirectional mics can help reduce ambient noise pickup of room reflections as well as environmental buzz, hum and fan noise. In general, look for tighter polar patterns in difficult acoustic spaces. Omnidirectional microphones are not recommended for difficult acoustic spaces.
+	
+	Microphone Form Factor
+	
+	Once youve chosen an appropriate polar pattern, its about choosing the most effective form factor. For the greatest intelligibility, you want to get the mic as close to the talkers mouth as possible. Headworn microphones are perfect for this task, but some people find them distracting to wear. The next best alternative is a lapel, or lavalier, microphone clipped to the clothing. Unfortunately, most people prefer not to wear their microphones, though broadcasting professionals do and their sound is typically great.
+	
+	This brings us to the realm of tabletop microphones. These could be low-profile boundary microphones like the MX395 or gooseneck microphones like the MX405 and MX412. Gooseneck microphones (again, with a cardioid or supercardioid polar pattern) have an advantage over boundary microphones in that theyre positioned closer to the talker and farther from table noise like shuffling papers. When using flat, surface-mount boundary microphones, be sure the mics are not blocked by laptops or papers, and remind conference participants to sit close to the table.
+	
+	The challenge in system design is to maximize direct sound while minimizing unwanted reflections and environmental noise. A basic knowledge of microphone types and polar patterns can help you improve the sound quality in existing systems. For more information on this topic,please readthe Shure Audio Systems Guide for Meetings  Conferences, a free educational booklet.
+	
+	The Benefits of Wireless Conferencing Microphones
+	
+	Wireless versions, while more expensive initially, do have major benefits. They eliminate the clutter and annoyance of being tethered by cables. They also make it easy to use systems in locations where cable runs cannot easily be accommodated. In addition, many purpose-built systems are turnkey designs that can find their own open frequencies and have rechargeable battery systems that reduce cost of ownership over time.
+	
+	Wireless systems like Shure Microflex Wireless are available with compact bodypack transmitters that accommodate both headworn and lavalier microphones, which increase the ratio of direct to ambient sound by moving the microphone closer to the sound source. Many gooseneck and boundary table mics are now available in wireless, which allows for much more flexibility in seating configurations.
+	
+	A big advantage of modern wireless is the availability of networkable systems. Shure Microflex Wireless systems utilize Audinates Dante networking protocol, which offers convenient accessibility on the corporate network.
+	
+	The only downside is keeping the batteries charged. At the end of each meeting, participants must return their transmitters to the systems charging rack. Its a small price to pay for the convenience and sonic benefits of a wireless microphone solution, but its something to keep in mind.
+	
+	Table and Ceiling Array Microphones
+	
+	One of the biggest challenges in corporate sound is the desire to minimize the visual intrusion of technology in general, and the microphone system in particular. Many organizations want their technology to be effective, transparent and, if possible, invisible. That means that several of the microphone solutions already described will be unacceptable.
+	
+	Fortunately, technology developments in the form of Microflex Advance are here to help. Welcome to the brave new world of array microphones.
+	
+	Array microphones combine multiple internal microphone elements with intelligent DSP and browser-based control to enable steerable and definable pickup patterns. And better yet, they are available in low-profile table and ceiling mic designs that wont interfere with room aesthetics.
+	
+	Shure announced two such products, both Dante-networkable via standard Ethernet connections, at the 2016 InfoComm show: the MXA310 Table Array Microphone and MXA910 Ceiling Array Microphone. With these array mics, intelligibility is enhanced by aiming the multiple pickup zones via software. This accommodates a wide variety of seating configurations.
+	
+	The MXA310 array is shaped like a low-profile disc. It offers up to four steerable polar patterns, including a unique new toroid polar pattern that can pick up everyone around a table. The exciting thing about the donut-shaped toroid pattern is that it rejects overhead noise while optimizing the intelligibility of meeting participants. The MXA310 is also useful in reducing acoustic echo in teleconferences, making it very effective to use with single-channel systems like Webex and Skype.
+	
+	The MXA910 array represents a significant advance in ceiling microphone technology. Traditionally, ceiling microphones have been ineffective in terms of intelligibility due to their distance from the talker. The MXA910 solves that problem by using over 100 microphone elements and powerful digital signal processing to create Steerable Coverage that can be mapped to capture all participants, wherever they may be seated, while avoiding much of the noise from rustling papers on the table. The MXA910 is conveniently packaged in an enclosure that fits into a standard ceiling grid. Alternatively, it can be suspended from the ceiling. Either way, the result is invisible audio that delivers great corporate sound without marring room aesthetics.
+	
+	How-To Resource for Corporate Sound
+	
+	In todays world, IT professionals are usually responsible for audio and video systems in the corporate environment. The latest technology does indeed offer some outstanding solutions for corporate conferencing in a variety of spaces, including small huddle rooms, larger meeting and conference spaces, boardrooms and lecture halls. Still, the practical AV operator can benefit from knowing basic microphone selection and deployment techniques that can reduce complaints about muddy, indistinct audio, even in older legacy systems. The free Shure Audio Systems Guide for Meeting  Conferences contains the kind of knowledge that can put you a step ahead of the rest in providing highly intelligible, easy-to-use audio for your organization.
+

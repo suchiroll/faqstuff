@@ -1,0 +1,11 @@
+Title: Can the P6HW be turned into a wireless system?
+Id: 2038
+Legacy Id: 2103
+
+Question:
+I already have the shure PSM600 hard wired system. Is there a way to turn it into a wireless system without having to re-buy the belt pack? For instance, can I just buy the transmitter and an antenna for my beltpack and be set?
+
+
+Answer:
+
+	Unfortunately, no. They are completely different.

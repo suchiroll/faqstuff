@@ -1,0 +1,16 @@
+Title: Stereo signals from a phono cartridge?
+Id: 1977
+Legacy Id: 2040
+
+Question:
+I think I understand the description of how a phono cartridge works, as described here on your website. But how does the stylus tip/cantilever/magnet assembly transmit stereo information to the cartridge coils? Does the stylus tip/cantilever/magnet assembly have two independent halves so that left/right channel information is transmitted independently? Or is there some kind of left+right/left-right decoding done in the phone preamp?
+
+Also, what is the typical level of left/right stereo signal separation achievable with your cartridges?
+
+
+Answer:
+
+	The stereo information is encoded in a V-shaped groove on the record. One wall of the groove is the left channel; one wall the right channel. Inside of the cartridge are two wire coils; one for the left channel and one for the right channel. The coils are positioned nearly parallel to the record grooves. At the end of the stylus shank is a tiny magnet that moves when the diamond tip is modulated by the record grooves. The motion of this magnet induces electric fields in the wire coils. There is no decoding in the phono preamp. It is simply an amplifier.
+	
+	The maximum left/right separation available is with the V15VxMR. At 1 kHz, the separation is 25dB or greater.
+

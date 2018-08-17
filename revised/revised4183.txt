@@ -1,0 +1,21 @@
+Title: WA661 and WA662 Referee Switch
+Id: 4183
+Legacy Id: 5134
+
+Question:
+We need a switch for our football referee. This needs to be a large switch that goes between the lav mic and the bodypack.
+
+Answer:
+
+	Shure offers the WA661 and the WA662 referee mute switches. Both feature a machined metal housing. The WA661 is used with with one mic and one bodypack transmitter. The WA662 is used with one mic and two bodypack transmitters. The WA661 or WA662 works with bodypack transmitters from these Shure wireless lines: Axient, UR, ULX-D, ULX, SLX, QLX-D, PGX, PG, BLX.
+
+	
+	
+	WA661
+	
+	
+	WA662
+	
+
+	
+

@@ -1,0 +1,11 @@
+Title: Is the P4M compatible with the PSM600
+Id: 2385
+Legacy Id: 2476
+
+Question:
+I am in a group of eight people. Is the P4M (Mixer) compatible with the PSM600 system (if I want eight different mixes) or is the system designed to be able to give different mixes without a mixer? Also, If I get just one transmitter, will each person be able to make their own mix?
+
+
+Answer:
+
+	The P4M mixer is compatible with the PSM600 system, but it will only create one mix.  Each PSM transmitter can transmit one stereo mix, or two mono mixes (by using the MixMode feature).

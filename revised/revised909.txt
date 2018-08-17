@@ -1,0 +1,16 @@
+Title: Prologue microphone specification 10L or 10H
+Id: 909
+Legacy Id: 937
+
+Question:
+I found a used Shure Prologue mic that I might buy, I think on the side where it had the name, it also had 10z printed next to it. It looked a possible very early base model for the SM57. Is it possible you can send me the statistics on this microphone and what the going rate for this mic might be right now?
+
+Thanks...
+
+
+Answer:
+
+	There was a Prologue 10L and a Prologue 10H microphone. There was never a Prologue 10z. The Prologue 10L-LC was a low impedance dynamic microphone. The Prologue 10H-LC was a high impedance microphone. These were entry-level microphones that could be used for miking musical instruments such as drums, horns, and instrument amplifiers.
+
+	They were discontinued in 1997. Last listing of U.S. suggested retail price was $42.50 for the 10H and $37.65 for the 10L.
+

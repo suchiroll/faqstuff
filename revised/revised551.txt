@@ -1,0 +1,16 @@
+Title: MX412S / MX418S Mute Switch Function and Status
+Id: 551
+Legacy Id: 562
+
+Question:
+I would like to have the switch function on my MX418S/C microphones be momentary (only muted while switch is depressed). Is this possible?
+
+
+Answer:
+
+	Sorry, the switch can only be a latching (push on/push off) switch. The circuitry does not support a momentary action. Note that the MX412D and MX418D models do have the momentary function desired.
+	
+	The MX412S or MX418S has the switch on the side. It is located near agreen LED, and nearthe location where theflexible gooseneck enters into the solid metal black preamp housing. The switch button isplastic and light gray in color.
+	
+	Note: There is no option for the mic to change operational state (muted to unmuted or unmuted to muted) upon system power down or power up. The mic switch mustbe pressed for the mic tochange its operational state.
+

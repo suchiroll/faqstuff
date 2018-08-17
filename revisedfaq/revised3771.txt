@@ -1,0 +1,15 @@
+Title: WL93 versions
+Id: 3771
+Legacy Id: 4007
+
+Question:
+I have a collection of WL93 mics of different vintage. Is there a method to tell the older ones from the newer ones?
+
+
+Answer:
+
+	To determine the WL93 version, measure the resistance between the red wire and the black wire.  Connect the red wire to the + lead on ohm meter; the black wire to the - lead on ohm meter.
+	
+	1) Measurement result = Approximately 700 to 800 ohms - older version of WL93.
+	
+	2) Measurement result = Approximately 18.6k ohms - newer version of WL93.

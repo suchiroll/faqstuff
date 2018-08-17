@@ -1,0 +1,23 @@
+Title: BLX4R Receiver - What is included in the box?
+Id: 5381
+Legacy Id: 5445
+
+Question:
+BLX4R Receiver - What is included in the box?
+
+Answer:
+
+	1 - BLX4R rack mount receiver
+	1 - External power supply
+	2 - 22 inch BNC to BNC cables
+	2 - BNC bulkhead adapters
+	1 - Link bracket - used to fasten two units together in the middle
+	1 - Long rack ear
+	1 - Short rack ear
+	2 - Quarter wave antennas
+	Hardware kit contains:
+	8 - Flat head #6-32 screws to secure the rack ears to the BLX4R
+	4 - Pan head #10-32 screws to secure the BLX4R to the rack
+	2- Plastic plugs to cover the antenna holes in the rack ears
+	
+

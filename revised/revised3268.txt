@@ -1,0 +1,17 @@
+Title: V15VxMR, M97xE replacement stylus and M92E version for 78rpm records
+Id: 3268
+Legacy Id: 3423
+
+Question:
+I purchased the latest version of the V15 cartridge in 1997 and since then it has perfectly met all my phono demands. However, since the VN5xMR has been discontinued, I wonder whether I can use the M97xE replacement stylus instead. Also, I'm interested in purchasing the M92E cartridge to be used on an old turntable I have. Since I have many old 78rpm shellacs I wonder whether there's a 78 rpm stylus version for this cartridge. If not, could you please provide any suggestions?
+
+
+Answer:
+
+	The M97xE stylus will fit the V15VxMR body, but will NOT fit in the V15VMR body.
+
+	Also, see the following link:
+	Stylus Re-tipping
+
+	The N78S Stylus (for 78 RPM playback) will fit into the M92E Cartridge. Buy the M92E cartridge and the N78S Stylus and youre set. Or you can just buy the M78S Cartridge for 78 RPM playback only.
+

@@ -1,0 +1,12 @@
+Title: Anti-skate force for V15xmr
+Id: 1287
+Legacy Id: 1335
+
+Question:
+Is the proper force set to the 1.5 gram vtf or final tip force of 1gram?
+
+
+Answer:
+
+	Anti-skate should always equal the actual force applied to the stylus tip. In your case, anti-skate should be set to 1 gram.
+

@@ -1,0 +1,14 @@
+Title: Ultra 500 stylus
+Id: 2787
+Legacy Id: 2895
+
+Question:
+Will the replacement stylus of the Shure phono cartridge V15xMR fit the phono cartridge Shure ULTRA 500?
+
+
+Answer:
+
+	The correct replacement stylus for the Ultra 500 is the VN5MR.
+	
+	The VN5xMR does NOT work properly with the Ultra 500. The magnet in this stylus assembly does not align properly with the Ultra 500 pole pieces.
+

@@ -1,0 +1,12 @@
+Title: Parts for  Shure Promaster Speakers
+Id: 2588
+Legacy Id: 2687
+
+Question:
+Hello Shure, I am the proud owner of a very old (+20 Years) Shure P.A. system. I play in a local band and this system is ideal for our band practices. It consist of a Shure 6 channel (+ 2 aux.) Pro Master Power Console and 2 speaker cabinets (1 x 15" and 1 horn in each). The trouble is with the horns. I recently loaned the system out and it came back with both voice coils not working. I have taken it to a local electronics shop however they said they could not find replacement parts. The only marking I can see on the cabinet is the word SHURE and the logo, boxed in on the top left, and just the logo (larger) on the bottom right. There is also number on the voice coil 90A2650. I know this is very little to work with however any help you could offer would be deeply appreciated.
+
+
+Answer:
+
+	Sorry, but all Promaster products were discontinued in 1981/1982. Shure ran out of replacement parts around 1995. Perhaps you can find persent-day horns in their own cabinets to sit on top of the Promaster speakers. Or try e-bay - Promaster shows up there regularly.
+

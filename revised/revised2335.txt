@@ -1,0 +1,15 @@
+Title: User Guide for Shure Mixer 200M
+Id: 2335
+Legacy Id: 2421
+
+Question:
+Please advise me of the cost of a schematic diagram for the Shure 200M audio mixer; likewise the operators manual.
+
+
+Answer:
+
+	Seethe User Guide section of the Shure website.
+
+	
+	This is all the printed information available for the 200M audio mixer.
+

@@ -1,0 +1,11 @@
+Title: Desk stand for AMS24
+Id: 2516
+Legacy Id: 2612
+
+Question:
+Client with AMS system in place wants slim gooseneck for use on council dais. What (heavy/shock mount?) desk stand will work with the small diameter threaded base of the AMS24.
+
+
+Answer:
+
+	Use the Shure S39A. Mount the AMS24 flange on the top of the S39A. Thread the AMS24 into the flange. The cable will exit on the underside of the S39A.

@@ -1,0 +1,42 @@
+Title: Purchasing a SystemOn Subscription
+Id: 5026
+Legacy Id: 6318
+
+Question:
+How do I purchase SystemOn? Is it free?
+
+
+Answer:
+
+	End users have to purchase a subscription in order to utilize the features of SystemOn. There are a few basic utilities which are available for free, however these are purely in service of the licensed features.
+	
+	SystemOn is sold through a subscription model, similar many to other consumer and professional software applications. A license is required for each IP addressable device that the user wishes to monitor/control through the software. Shure offers the following subscription options:
+
+	
+		Standard Subscription
+	
+		
+			
+				Covers a period of one to five years. Can be extended with renewal licenses thereafter.
+			
+				One subscription license is required for each IP addressable device.
+			
+				Includes software updates or revisions made during that time period (= maintenance)
+		
+	
+	
+		Enterprise Subscription
+	
+		
+			
+				Valid for a period of one year. Can be extended with another 1-year subscription.
+			
+				Covers an unlimited number of IP addressable devices
+			
+				Includes software updates or revisions made during that time period
+		
+	
+
+
+	The software will launch in-app notifications 60 days, 30 days, and 1 day before the expiration to remind the user that their subscription is about to expire.
+

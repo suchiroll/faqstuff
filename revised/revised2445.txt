@@ -1,0 +1,12 @@
+Title: Tracking force of N78S stylus with a M97xE cartridge?
+Id: 2445
+Legacy Id: 2540
+
+Question:
+When using this combination, is it wise to increase the tracking weight to three or four grams, or will this effect the cartridge's performance?
+
+Answer:
+
+	The N78S is designed to track from 1.5 grams to 3 grams. Experiment in this range. A heavier tracking weight can cause the stylus bearing to collapse.
+	
+	The tracking weight has no effect on the M97xE cartridge body.

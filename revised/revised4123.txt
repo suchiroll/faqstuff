@@ -1,0 +1,19 @@
+Title: Li-Polymer Battery Not Showing Full Bars on Transmitter
+Id: 4123
+Legacy Id: 4960
+
+Question:
+I bought rechargeable Li-Polymer 9V batteries from iPowerUS. These are marked as the Professional 9V. I fully charged the batteries but when I inserted in my ULX1-M1 beltpack it only showed the battery life as 1 bar which is very scary when you want to make sure it's going to last with a presenter on stage. Can you tell me why this is? I did make sure that the battery charger was on Li so it charged properly.
+
+
+Answer:
+
+	It is likely that the ipower batteries only charge up to 8.4 V.Please check with ipower. FYI - 9.6 v batteries are not recommended for ULX.
+	ULX and 9.6 V rechargeable batteries
+
+	The battery fuel gauge on the ULX is designed to work properly with alkaline batteries.An alkaline battery that has fallen to 8.4 volts is near the end of its life, thus the low battery warning.Sorry, there is no method to recalibrate the ULX battery gauge to accurately reflect the health of an 8.4 volt battery.We recommend that you test a fully charged 8.4 v battery to see how long it will power the ULX transmitter.
+
+	You may also measure the current draw of the ULX transmitter (it will be in the range of 60 to 80 mA) and divide that number into the mA/Hr rating of the 8.4 v battery to get an estimate of operating time.
+
+	Measuring current draw of battery powered transmitter or receiver
+

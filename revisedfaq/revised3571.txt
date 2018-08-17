@@ -1,0 +1,15 @@
+Title: Microphone model MK-0031
+Id: 3571
+Legacy Id: 3777
+
+Question:
+I know the MK-0031 was a custom for Harris Corp ( RF Communications) but is there any info available for it? What I want to do is wire one to a Navy standard MS3106A14S5P connector for use with URT-23 transmitters ( T-827 series exciters) or C-1138 Radio Set Control for use in place of an H-169 handset.
+
+
+Answer:
+
+	Like nearly all Shure mics made for an OEM use, we have no records of the MK-0031.  Once an OEM model is discontinued, the records are sent to the company that was buying the mic, Harris in this case. 
+	
+	Based on the photos, it looks like the model 527C.
+	
+	It was extremely rare for Shure to alter a circuit for an OEM mic.   Typically, all Shure did was change a model number, the external package, or add a connector.   My bet is that the 527C circuit is identical to the MK-0031.

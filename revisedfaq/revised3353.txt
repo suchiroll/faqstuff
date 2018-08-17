@@ -1,0 +1,10 @@
+Title: Will Beta 87A Grille fit on Beta 58A?
+Id: 3353
+Legacy Id: 3537
+
+Question:
+Is it possible to put a Beta 87A grille on a Beta 58A mic?  I want to get the benefits of the 87A 3-stage pop filter, plus I believe the 87A grille is slightly longer, which will benefit me since I tend to eat the mic a bit when I sing.
+
+Answer:
+
+	Sorry, this does not work. The Beta 87 grill has a smaller inner diameter and it will not fit over the Beta 58 mic cartridge.

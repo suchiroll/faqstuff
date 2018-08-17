@@ -1,0 +1,12 @@
+Title: Will a PGX1 or PGX2 work with a BLX receiver?
+Id: 4334
+Legacy Id: 5417
+
+Question:
+I have lost my PGX4 analog receiver. Can I substitute the BLX4, BLX88, or BLX4R receiver?
+
+
+Answer:
+
+	Sorry, the answer is no. The PGX1 bodypack transmitter and the PGX2 handheld transmitter use an infrared sync signal from the PGX4 receiver to select the operating frequency. The BLX receivers do not provide the infrared sync function. This means that the PGX1 or PGX2 cannot be tuned to the operating frequency of the BLX receiver.
+

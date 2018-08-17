@@ -1,0 +1,23 @@
+Title: DDS 5900 - using a router?  Cabling?
+Id: 4567
+Legacy Id: 5692
+
+Question:
+I have been tasked with the wiring plan of our local Emergency Management Agency’s conference system. They want to use the DDS5905 main controller along with 45 of the DC 5980 P Discussion units. My dilemma is that they have 77 stations that not all will be in use at any one time, so they want the 45 units to be portable and be able to be placed where they are needed. I have to wire each station to be able to be used when necessary. Can I use a router and run a home run to the router or do I have to have the incoming and outgoing wires daisy chained and have some sort of jumper wire when the unit is not in place? A router would be ideal if it is compatible with this system. Please advise.
+
+Answer:
+
+	The method that the DDS 5900 systems use for data and audio transmission over Cat 5e is actually a proprietary protocol called DCS-LAN and is not compatible with standard networking equipment.Therefore, you can not use a router or network switch anywhere on the DCS-LAN chain connections between the Central Unit (CU 5905) and any of the delegate/chairman units (DC 5980 P).
+	
+	The most straight forward(and usually recommended) method is to daisy chain the units together back to the Central Unit.There are accessories available from us that allow for splitting off to multiple chains.These are the RP 6004 repeater box (has a DCS-LAN loop through as well as 4 chain outputs).This can be used to split one chain into up to four chains but be careful because the power supplied on that chain for the units is still coming from only one chain...therefore the number of units you can power that are connected to that repeater box does not increase.If you wish to split one chain into four without worrying as much about the power requirements, the other accessory worth looking at is the EX 6010 Extension Box.This is essentially a repeater with a separate power supply for each chain output.
+	
+	Important notes regarding the DCS-LAN wiring for the DDS 5900 system:
+
+	
+		You MUST use fully shielded Cat 5e or better cabling throughout the entire installation.This shield should NOT be tied to earth ground as it serves as a reference ground for the DCS-LAN.The shielding requirement also holds for any RJ45 connectors including any Ethernet patch bays or floor boxes.We highly recommend using the cables sold by us as they are completely verified out of the factory for this application.If you decide or are required to go with cable from some other source, make certain that this cable is certified to adhere to the EIA 568-B wiring and meets the TIA/EIA-568 standard.This can be accomplished using products such as the Fluke Cable IQ series cable testers or other similar meters.Just checking continuity on the shield is not enough.
+	
+		It is recommended that you do NOT hot swap any units from the system, particularly at points closest to the Central unit as the sudden current draw on the DCS-LAN line can damage units.The recommended practice for making changes to the system layout is to power down the CU 5905 prior to plugging in or unplugging any units and then powering the system on after all changes have been made and waiting until the reboot cycle is completely finished.
+	
+		The number of delegate and/or chairman units that you can connect to the DCS-LAN chain outputs depends a lot on cable length.I have attached an image file that shows the estimated number of units that can be done using just one chain or using both chains before needing additional in-line DCS-LAN power sources.Assuming you the cable lengths you are using arent too long, doing 45 units on a chain looks doable assuming the cable going from the CU to the first unit is under 20 meters or so and the cables between most units are under 2 meters.If they did need to connect all 77 units, though, it is likely that you will need either the EX 6010 or actually just one PS 6001 (in-line DCS-LAN power kit).
+
+

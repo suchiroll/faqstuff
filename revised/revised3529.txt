@@ -1,0 +1,12 @@
+Title: P4800 Audio Distortion When Using Delay
+Id: 3529
+Legacy Id: 3733
+
+Question:
+I have a P4800 in an installation. It works fine until I try to add signal delay; then the audio distorts. Any ideas?
+
+
+Answer:
+
+	It is likely that one of the two RAM chips that control the signal delay are defective or need to be re-soldered to the pc board. Please contact Shure Service to have the unit repaired.
+

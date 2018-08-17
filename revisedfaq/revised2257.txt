@@ -1,0 +1,15 @@
+Title: PS20 AC Adapter - output voltage
+Id: 2257
+Legacy Id: 2338
+
+Question:
+My power supply wire broke and I've carefully spliced it back together. But I have question about the power output of the PS20:
+
+
+On the two meters I've tried, it shows an output of 16v or so. Is this correct? It worked fine before the repair but I'm want to be sure before I plug it back in - I'd feel more comfortable ith some input from you.
+
+
+Answer:
+
+	The 16 V reading is correct if the PS20 is unloaded (not doing any work). When it is connected to a Shure product, the voltage will drop to around 12 volts.
+

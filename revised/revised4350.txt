@@ -1,0 +1,22 @@
+Title: BLX Maximum Number of Compatible Systems
+Id: 4350
+Legacy Id: 5435
+
+Question:
+Under ideal circumstances, with no local RF interference, how many BLX systems could be used in the same venue?
+
+
+Answer:
+
+	Using WWB6 as the analysis tool and making the following assumptions:
+
+	
+		No TV broadcast stations operating, or conversely all TV channels vacant
+	
+		Using all four BLX U.S. frequency bands - H8, J10, K12, M15
+	
+		Using standard criteria for analysis
+
+
+	Up to 22 to 23 BLX channels can be operated at the same time. However, we do not recommend pushing the envelope for large numbers of BLX channels. The RF performance is similar to PGX or SLX, and these systems often became problematic when large numbers of channels are deployed, especially in a noisy/very active RF environment.
+

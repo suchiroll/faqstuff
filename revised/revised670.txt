@@ -1,0 +1,15 @@
+Title: M95HE compatible with Realistic R5X stylus?
+Id: 670
+Legacy Id: 687
+
+Question:
+My kids broke the stylus on my M95HE cartridge.  Radio Shack had a cartridge in stock (cat. no. 42-2781) called R5X and billed as a replacement for Shure cartridges.  It appears to fit, but I wonder if it will cause any degradation in performance using this stylus?  
+
+Also, what is the overhang measurement for my cartridge?  I cannot find original instructions to be sure I have it correctly aligned on my tone arm.  Thanks!  Van
+
+Answer:
+
+	The R5X is a step backward in performance. We suggest you replace the M95 stylus. The N95ED replacement stylus is available from Shure Parts. Call 800-516-2525 to order.
+	
+	Regarding overhang, if the tonearm head has two slots which allow overhang adjustment, position the screw heads in the middle of the slots. More important than overhang is to make certain the stylus grip is parallel to the record surface. Place a small mirror on the turntable and gently place the stylus/tonearm on the mirror. The stylus should be parallel to its reflection. If not, use small spacer washers in the headshell to reposition the cartridge.
+

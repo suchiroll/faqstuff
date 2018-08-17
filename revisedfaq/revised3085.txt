@@ -1,0 +1,16 @@
+Title: MicroFlex - problem with popping when speaking
+Id: 3085
+Legacy Id: 3217
+
+Question:
+We use your Microflex condencer Microphones in the church that I go to and whenever our preacher speaks a word with the letter 'P' in it, you can hear the POP all through the church. We have tried using a winscreen but it doese'nt seem to work. Do you make a Popper Stopper for them?
+
+
+Answer:
+
+	1) The best solution is to use the R183B omnidirectional element in place of the element currently in use. An omnidirectional element is nearly impossible to pop. However, this solution may not be useful for your situation depending on how easily your current system feeds back.
+	
+	2) If the R183B cannot be used, then the try the A99WS foam ball windscreen. Make certain that the A99WS is NOT pushed all the way against the mic grill; there should be an air space between the foam and the grill.
+	
+	3) Also, reposition the mic so that it aims at the corner of the preachers mouth and NOT aimed at his nose. The worst pop comes out from the center of mouth, directly below the nose.
+

@@ -1,0 +1,11 @@
+Title: One In Four Out DC coaxial power connector cable
+Id: 3780
+Legacy Id: 4016
+
+Question:
+I want to power four wireless receivers from one external AC/DC power supply. I have an appropriate power supply but I need a 1 in to 4 out cable with DC coaxial power plugs. Do you have a source?
+
+
+Answer:
+
+	We offer the PS124 and PS124L

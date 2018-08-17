@@ -1,0 +1,11 @@
+Title: Number of inputs on P7T transmitter
+Id: 2147
+Legacy Id: 2218
+
+Question:
+I want to clarify how many audio inputs are on the 700 series, two for stereo or mixmode?
+
+
+Answer:
+
+	The PSM 700 tranmitter has two inputs - left channel and right channel. The P7T transmitter can send one stereo signal, or two monaural signals. The P7R receiver can receive one stereo signal or two monoaural signals.

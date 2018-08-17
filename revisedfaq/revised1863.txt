@@ -1,0 +1,29 @@
+Title: Difference between V15 III, V15 IV, V15 V
+Id: 1863
+Legacy Id: 1923
+
+Question:
+I have a V15 type IV that I purchased in the late 70s. The diamond fell off of the stylus arm. Until I could afford a new stylus, I replaced the whole cartridge with an old one and packed the V15 away. Now many years later I found it again. Is a replacment stylus available? And what is the difference between the one I have and the type III and type V? Is the type IV still being sold today? Many thanks!!!
+
+
+---- 10/15/2001 09:32 AM ----------------------------------------------
+
+Thanks very much!!! Since the exact type IV stylus is no longer available, will a type III or type V stylus fit in my type IV cartridge? Will I be losing much by not using the original stylus part number?
+
+
+Answer:
+
+	Is a replacment stylus available for the V15 IV?
+	* Shure no longer sell a V15 IV stylus. Check Radio Shack; and Record King in New Jersey: phone 201-488-4232. Also do a web search using phonograph stylus.
+	
+	And what is the difference between the models?
+	* The V15 III did not have the dynamic stabilizer/brush. The V15 V has the dynamic stabilizer/brush and has better trackability than the V15 IV.
+	
+	Is the V15 IV still being sold today?
+	* No. It was last sold in the late 1980s.
+	
+	At 10/15/2001 12:15 PM we wrote - Will a type III or type V stylus fit in my type IV cartridge?
+	* The VN35MR will fit the V15 IV body.
+	
+	A nice upgrade from the V15IV without spending too much is the M97xE cartridge.
+

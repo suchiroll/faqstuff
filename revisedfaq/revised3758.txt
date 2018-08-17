@@ -1,0 +1,19 @@
+Title: DFR22 Hard Reset
+Id: 3758
+Legacy Id: 3994
+
+Question:
+How to I reset the DFR22 back to the factory supplied settings?
+
+
+Answer:
+
+	NOTE: This procedure will clear all the presets programmed by the user. It is recommended to save the presets onto a computer before initiating the hard reset.
+	
+	To perform a hard reset:
+
+	Power off the DFR22.
+	Hold down the following front panel buttons in "Row A": [Press to Lock/Hold to Clear] and [Bypass DFR Filters] - then power up the DFR22.
+	The preset indicator will count down as the reset takes place.
+	Release the buttons once countdown begins.
+

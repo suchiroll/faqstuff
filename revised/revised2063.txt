@@ -1,0 +1,11 @@
+Title: KSM27 Mount to studio boom
+Id: 2063
+Legacy Id: 2129
+
+Question:
+Does the Shurelock Rubber Isolated Shock Mount provide for attachment to common thread mic boom/adapters/etc? If not, please suggest mounting specifications. Would like to know before I place my order.
+
+
+Answer:
+
+	Yes, the shock mount has a standard 5/8"-27 female thread that is standard in the United States.

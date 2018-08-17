@@ -1,0 +1,14 @@
+Title: PSM transmitter antenna orientation
+Id: 2751
+Legacy Id: 2858
+
+Question:
+I noticed in the diagrams in the manual that the antenna on the transmitter is at an angle. Does it matter, and if so, what is the angle?
+
+
+Answer:
+
+	The angle of the transmitting antenna should match the angle of the receiving antenna.
+	
+	If you dont know the angle of the receiving antenna, place the transmitting antenna up 45 degrees from horizontal; it is a good compromise.
+

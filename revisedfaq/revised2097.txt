@@ -1,0 +1,14 @@
+Title: FP32A tied to another FP32A or FP33
+Id: 2097
+Legacy Id: 2164
+
+Question:
+I followed the discussion regarding attaching the FP24 to the FP33. My questions are: if I attach another FP32A (or FP33) to my FP32A via the cable offered by Shure will everything be in phase? And, will the audio signal be degraded in any kind of way be attaching those 2 units?
+
+
+Answer:
+
+	If I attach another FP32A (or FP33) to my FP32A via the cable offered by Shure will everything be in phase? * Yes.
+	
+	And, will the audio signal be degraded in any kind of way be attaching those 2 units. * No.
+

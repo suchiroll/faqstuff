@@ -1,0 +1,22 @@
+Title: Tracking Force for M111HE Cartridge
+Id: 2834
+Legacy Id: 2946
+
+Question:
+I have resurrected my old Techniques turntable to copy my LPs to CD using
+
+my computer. I am using a Shure M111HE P-mount cartridge and would like to
+
+know what the recommended tracking force is when the brush is used. Also
+
+should the same tracking force be used for anti-skating when the brush is
+
+used? Thanks.
+
+
+Answer:
+
+	The tracking range is 0.75 to 1.5 grams when the brush is not used. Increase the tracking force set on the tonearm by 0.5 grams if the brush is used.
+	
+	The anti-skate should equal the actual force applied on the stylus tip. As an example, if the tracking force is set to 1.5 grams and the brush is used, the actual force on the tip is 1 gram. Set the anti-skate to 1 gram.
+

@@ -1,0 +1,33 @@
+Title: KSM353/ED and KSM313/NE - what is new?
+Id: 3937
+Legacy Id: 4186
+
+Question:
+The KSM353 has been replaced by the KSM353/ED, and the KSM313 has been replaced by the KSM313/NE. What has been changed?
+
+
+
+Answer:
+
+	As of October 2011, the KSM353 was replaced by the KSM353/ED:
+	1) An internal thread was added that surrounds the KSM353 XLR connector.  This thread interlocks with the new A300SM Wire Rope Shock Mount with ShureLock®.
+	2) The new A300SM is supplied with the KSM353/ED.
+	3) The new A353SC aluminum carrying case is supplied with the KSM353/ED.
+	4) The new A300PC polishing cloth with Shure logo is supplied with the KSM353/ED.
+	5) The A353VB velveteen pouch is supplied with the KSM353/ED.
+	
+	As of October 2011, the KSM313 was replaced by the KSM313/NE:
+	1) The KSM313 microphone has not been changed.
+	2) The new A300M Stand Mount with ShureLock® is supplied with the KSM313/NE.  The A300M replaces the discontinued A313M monocle mount.
+	3) The new A313SC aluminum carrying case is supplied with the KSM313/NE.
+	4) The A313VB velveteen pouch is supplied with the KSM313/NE.
+	
+	As of October 2011, these KSM ribbon microphone accessories are discontinued:
+	1) A313M monocle mount - for KSM313
+	2) A353SM shock mount - for original KSM353.  If a new shock mount is required for an original KSM353, consider the Rycote Invision USM Shock Mount (part # 044901). http://www.rycote.com/products/invision_studio_kit/
+	3) Wooden box storage case.
+	
+	Notes:
+	1) The original KSM353 microphone does not fit the new A300SM.
+	2) The KSM313 does fit the new A300SM, but the appearance is odd.  A313SM is recommended.
+

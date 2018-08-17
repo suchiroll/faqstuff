@@ -1,0 +1,27 @@
+Title: Mixer output through wireless system to camcorder
+Id: 1196
+Legacy Id: 1240
+
+Question:
+I am a videographer and would like information on a (small) wireless system that I can plug (transmitter) into the live band's output on the mixer and then with a receiving unit (either self-powered or one which I can plug into the powered jack location provided on my Sony TRV 87 - HI 8 camcorder).
+
+
+What I am looking for is a small but effective unit with good range. Any information or thoughts you can provide me on this is most appreciated. I am tired of being tethered ! ... but I also want to eliminate background noise by etting my signal directly from the mixer.
+
+
+In the most recent issue of Videography they did an article on "Audio" and the article showed a wireless transmitter plugged into the mixer sending the signal to the receiver plugged into the camera's mic input. I believe that the picture in the article showed a product of yours since I believe the name on it is SHURE. I will double check.
+
+
+Thanks for your help.
+
+
+
+Answer:
+
+	At 05/30/2001 01:51 PM we wrote - The VP wireless system would be an excellent choice.
+	
+	
+	The bodypack of the wireless system can be wired to the output of the mixer. But be careful, because the mixer could easily clip the bodypack. Our bodypacks are designed for microphone level signals, so you might need to pad the signal down before going into the bodypack.
+	
+	Most of our bodypacks use a TA4 connector. Connecting cables can be purchased as follows: WA302 (1/4 to TA4F); WA310 (XLR-F to TA4F).
+

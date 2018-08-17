@@ -1,0 +1,12 @@
+Title: Loud hum with Marshall TSL100 amp using XLR out to PSM400 P4M
+Id: 1074
+Legacy Id: 1109
+
+Question:
+I have a Marshall TSL100 guitar amp that has an XLR out. When connected to the P4M, I get a loud hum. Playing live I will mic the amp and run the mic into the P4M. During practice, I want to use the XLR out on the amp. Any ideas why I get the hum?
+
+
+Answer:
+
+	This sounds like a ground loop hum. Unsolder the shield connection on Pin 1 and the ground lug of the male XLR that is plugged into the P4M mixer input. Make certain to mark this cable as it will not be useful for use with a microphone after this modification.
+

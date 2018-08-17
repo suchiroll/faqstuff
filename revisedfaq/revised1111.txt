@@ -1,0 +1,13 @@
+Title: Trouble with M267 VU meter
+Id: 1111
+Legacy Id: 1147
+
+Question:
+I have an M267 mixer and I'm having trouble with the VU meter... The meter itself lights up and works when using the batt check feature... But when a microphone itself is attach the meter does not work... Any help would be greatly appreciated.. Thanks!!!
+
+Answer:
+
+	For repair or parts information please contact our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

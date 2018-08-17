@@ -1,0 +1,21 @@
+Title: Microphone Design, Concepts, Construction, Do It Yourself
+Id: 5037
+Legacy Id: 6329
+
+Question:
+I want to build my own microphone just for the learning part of it. Where do I start?
+
+
+
+Answer:
+
+	As a starting point to understand the concepts, we recommend two books:
+	
+	Eargles Microphone Book
+	ISBN 978-0-240-82075-0
+	
+	Microphone Engineering Handbook
+	ISBN 0-7506-1199-5
+	
+	Next, do an Internet search on: microphone build it yourself.
+

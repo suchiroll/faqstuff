@@ -1,0 +1,14 @@
+Title: Problem with SM58
+Id: 396
+Legacy Id: 403
+
+Question:
+When using a SM58 it reads on the channel display, however, I must talk very loudly to get the mic to "turn-on" or kick in to the speakers. Can you help?
+
+
+Answer:
+
+	Please provide complete technical details of the PA mixer into which you have plugged the SM58. This information is critical for us to have in order to solve your problem
+	
+	Our guess is that your PA mixer has high impedance inputs using 1/4 female phone jack inputs. If that is the case, you need to add a Shure A85F low-to-high impedance transformer to the end of your SM58 cable. Or you might have a problem in the mic cable.
+

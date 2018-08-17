@@ -1,0 +1,14 @@
+Title: Phantom vs. internal battery power with BG4.1
+Id: 420
+Legacy Id: 427
+
+Question:
+I've been using my BG4.1 with batteries as an unbalanced mic (XLR to 1/4" mono cable).  I have a new mixer that accepts XLR balanced mics and also has 48 volt phantom supply.  How do I use this mic in this configuration:  (1) Do I remove the internal battery to utilize the phantom supply?  (2) If I don't use the phantom supply and continue to use battery instead, does the mic still produce a balanced signal? (3) I've seen mic cables advertised that are 2 conductor but have XLR on both ends - how do these carry balanced signals (I thought you needed 3 conductors).  How do I identify proper cables?
+
+Thanks.
+
+Answer:
+
+	The BG4.1 always has a balanced output, regardless of power source. It is the cable that unbalances the signal. Anytime the BG4.1 receives phantom power, it will use it instead of the battery. You do not need to remove the battery when using phantom. Nor does the battery need to be installed when phantom power is present.
+	
+	Phantom power does require 3 conductors. If a cable is labeled as 2 conductor, shielded, that actually means it has 3 conductors. Any properly designed XLR to XLR cable will have 3 conductors: two twisted inner conductors surrounded by a shield.

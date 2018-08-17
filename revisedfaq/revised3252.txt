@@ -1,0 +1,14 @@
+Title: WiNRADiO with Wireless Work Bench version 4 (WWB4)
+Id: 3252
+Legacy Id: 3405
+
+Question:
+Are there any quirks when using WiNRADiO with Wireless Work Bench version 4?
+
+Answer:
+
+	1) You dont have to be in Live Mode to run a frequency plot with WiNRADiO. As long as the WiNRADiO is connected to a serial port on the computer, in Design Mode, click the Frequency Plot button and you can start a scan.
+	
+	2) If you choose to enter Live Mode and then do a WiNRADiO scan, make certain WWB is not looking for a Shure device on the same COM port where the WiNRADiO is connected. Otherwise, you get The WiNRADiO is not available error message. If you get this message, go back the Design Mode, open the Configure Connections window (Devices  Configure Connections), select the COM port where the WiNRADiO is connected, and click Remove.
+	
+

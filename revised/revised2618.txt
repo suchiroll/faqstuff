@@ -1,0 +1,18 @@
+Title: Preamp Specs for the V15 Type III
+Id: 2618
+Legacy Id: 2720
+
+Question:
+I am interested in buying either a Graham Slee or KAB audiophile quality phono preamp for use with my Shure V15 Type III cartridge and Thorens TD145 turntable, however I am concerned about load requirements. The V15 requires 47khz and 400-500pf, whereas both preamps are rated at 47khz and 115pf. What problems, if any will this cause me? Will sonic quality be compromised?
+
+
+Answer:
+
+	What problems, if any will this cause me?
+	* No problems, but the high end will be brighter.
+	
+	Will sonic quality be compromised?
+	* Only if you find the sound too bright.
+	
+	You can add a 250 pF capacitor in parallel with each preamp input thus changing the input capacitance to 365 pF.
+

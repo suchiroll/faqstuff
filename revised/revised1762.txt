@@ -1,0 +1,34 @@
+Title: Radio frequency interference on karaoke microphone
+Id: 1762
+Legacy Id: 1822
+
+Question:
+I recently purchased a Shure SM10A-CN for my son to use on his Karaoke player.  The karaoke player has the single female connection where the mic has the three prong.  I purchased an adapter (HOSA GXP143 XLR - 1/2" m - not a transformer) and when we plugged the mic in we picked up a radio station. Should I have used a different adaptor, or is there some way I can alleviate this problem.  Any help would be greatly appreciated.
+
+Answer:
+
+	At 09/24/2001 12:02 PM we wrote - The unscientific approach is to buy a Shure A85F transformer (or equivalent) and see if that solves the problem.
+	
+	The scientific approach is to get technical details about the karaoke players mic input. Then send that information to Shure and receive our suggestions.
+	
+	The following lists the information we require:
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your tape recorder or your karoke player or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+

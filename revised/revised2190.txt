@@ -1,0 +1,13 @@
+Title: Will the WA490 antenna work with the WA470 splitter?
+Id: 2190
+Legacy Id: 2265
+
+Question:
+The manual for this recomends the WA380 type antenna for this unit. Will the WA490 type antenna work as well?
+
+
+
+Answer:
+
+	Yes, the WA490 will work fine with the WA470.
+

@@ -1,0 +1,17 @@
+Title: How far can a UHF-R transmitter (U.S. version), set to high power, be from the UHF-R receiver?
+Id: 3272
+Legacy Id: 3427
+
+Question:
+How far can a UHF-R transmitter (U.S. version), set to high power, be from the UHF-R receiver?
+
+
+Answer:
+
+	Here are test results from Shure Engineering:
+	
+	UR1 bodypack transmitter at 100 mW setting: 3,100 feet maximum
+	
+	UR2 handheld transmitter at 50 mW setting: 2,500 feet maximum
+	
+	The test was made with 1/2 wave, passive antennas; outdoors; clear line-of-sight from transmitter to receiver. These distances can vary dramatically based on local RF conditions. Shure does not guarantee the transmission distances listed above.

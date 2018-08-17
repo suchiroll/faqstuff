@@ -1,0 +1,22 @@
+Title: RadioShack Microphone 33-984E Specifications
+Id: 1915
+Legacy Id: 1976
+
+Question:
+Can you please tell me what are the specifications of Shure microphone sold by RadioShack?
+
+"Highball Unidirectional Dynamic Microphone" its RadioShack Cat. No. is 33-984E.
+
+
+Answer:
+
+	Type: Dynamic
+	Polar pattern: Cardioid
+	Frequency Response: 50 Hz to 16,000 Hz
+	Impedance: 260 ohms or 25,000 ohms
+	Output level: -55.5 dBV at 1 Pascal (94 dBSPL)
+	Connector: male 3 pin XLR
+	Case: Die cast zinc
+	Dimensions: 161mm x 56mm
+	Weight: 315 g
+

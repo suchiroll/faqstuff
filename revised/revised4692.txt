@@ -1,0 +1,22 @@
+Title: AA Cell Dimensions
+Id: 4692
+Legacy Id: 5862
+
+Question:
+What dimensions of AA batteries will fit Shure products?
+
+
+Answer:
+
+	For AA size, IEC 60086-2 LR6 and ANSI C18.1M 15A are the preferred standards.These specify a diameter range of 13.5 - 14.5mm (.531-.571); the overall length is not problematic, typically, since Shure commonlyemploys a coil spring at the flat (usually negative polarity) end, and it compresses to accommodate length variations.On products, Shure uses a compliant contact at the positive end, so theres additional length compliance as a result.
+	
+	Present (August 2015)handheldtransmitters cantake AA cells of this diameter:
+	UR2:14.78mm (.574) nominal
+	BLX2:14.78mm (.570) nominal
+	ULXD2 / QLXD2:14.38mm (.566) nominal
+	Please note, ULXD2 / QLXD2 (and ULXD1 / QLXD1) can also accommodate the Shure SB900 Li battery pack
+	
+	For present (August 2015)body pack transmitters, there isnt as well-defined information.The suggestion for AA cell diameter to fit into UR1, BLX1 and ULXD1 / QLXD1 is to be below, or just at, nominal of the specification (13.5-14.0mm).
+	
+	Forthcoming handheld mics and body packs are being designed to accommodate AA cells per the ISO and ANSI standards.
+

@@ -1,0 +1,13 @@
+Title: Cardioid meaning
+Id: 732
+Legacy Id: 751
+
+Question:
+What does the term "Cardioid" in microphone features mean? How does that compare to "Omni" or "cardioid polar"?
+Thanks.
+
+
+Answer:
+
+	Explanations of polar patterns can be found in our online publication, Microphone Techniques for Music -- Sound Reinforcement.
+

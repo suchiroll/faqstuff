@@ -1,0 +1,14 @@
+Title: Noise in a Distance Learning Classroom
+Id: 2331
+Legacy Id: 2417
+
+Question:
+I work in a Internet broadcasting distance learning center. I've read your technical bulliten on distance learning. Do you have any suggestions on how to filter out the noise of a projector that hangs on a ceiling?
+
+
+Answer:
+
+	Sorry, the noise from the projector is acoustical. A microphone cannot sort out the acoustical noise you do want (speech) from the acoustical noise you do not want (the projector).
+	
+	A unidirectional microphone might be useful if the rear of the mic can be pointed at the projector.
+

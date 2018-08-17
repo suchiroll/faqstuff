@@ -1,0 +1,12 @@
+Title: Using instrument and headset wireless at the same time
+Id: 1200
+Legacy Id: 1244
+
+Question:
+Can you use the UT Guitarist and another UT wireless headset mike at the same time as long as they are on the different channels or freqencies? Is there a combination that you would recommend?
+
+
+Answer:
+
+	Yes, you can use up to 8 UT systems simultaneously.
+

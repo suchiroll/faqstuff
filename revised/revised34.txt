@@ -1,0 +1,13 @@
+Title: Wiring of 520 mic cable
+Id: 34
+Legacy Id: 34
+
+Question:
+I have an old 520 mic and it has a strange connector on the end of the cable. I was wondering if there is an adaptor that I could use to make it a 1/4" phone plug, high impedance connection.
+
+Answer:
+
+	The 520 was only available with an unterminated cable, i.e. there was no connector on the end of the cable. So, we have no idea what connector is currently on your microphone.
+	
+	If you want a 1/4 inch connector on it, the best solution is to cut off the old connector and solder on a new 1/4 inch connector. The BLACK cable goes to the tip of the 1/4 inch and the SHIELD goes to the sleeve of the 1/4 inch plug. The 520 is a high impedance model, so you do not need to change anything for a high impedance output.
+

@@ -1,0 +1,13 @@
+Title: AXT600 Spectrum Manager used alone?
+Id: 3957
+Legacy Id: 4206
+
+Question:
+Is the AXT600 Spectrum Manager useful without any other Axient devices?
+
+
+
+Answer:
+
+	Yes, the AXT600 along with the Wireless Workbench software can be used for scanning and frequency coordination.
+

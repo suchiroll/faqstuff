@@ -1,0 +1,14 @@
+Title: P9R "No Pilot Tone / No Noise Squelch" Icon on LCD display
+Id: 3720
+Legacy Id: 3953
+
+Question:
+On the P9R receiver LCD screen, there is a small symbol in the upper right hand corner. It is a circle with an "X" in the middle. What does this mean? How can I remove this icon?
+
+
+Answer:
+
+	This icon indicates that the Pilot Tone (also known as Tone Key) Squelch feature and the Noise Squelch feature areturned off. To remove this icon, activate thePilot ToneSquelchand the Noise Squelchon the P9R via the LCD menu: RADIOSQUELCH.
+	
+	For details on the different P9R squelch settings and how to use each, please see the PSM900 User Guide.
+

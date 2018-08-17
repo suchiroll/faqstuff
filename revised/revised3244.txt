@@ -1,0 +1,18 @@
+Title: Preamp for condenser mic - do I have to use it?
+Id: 3244
+Legacy Id: 3394
+
+Question:
+Will my MX391 microphone work without the supplied external preamplifier? What is its function? I would like to solder an XLR directly onto the cable from the mic and connect it to a mixer with phantom power.
+
+
+Answer:
+
+	A condenser microphone preamp is part of the complete microphone design, not an optional accessory. The only reason a condenser mic model is available without the preamp is for use with a wireless transmitter. In that case, the microphone element is powered from bias voltage provided by the transmitter. Phantom power applied directly to the microphone element will damage it.
+	
+	The preamp takes the signal from the mic element, which is medium impedance and unbalanced, and converts it to a low impedance, balanced signal - suitable for connection to standard professional XLR microphone inputs with phantom power. The preamp also converts phantom power to bias power to operate the mic element.
+	
+	All condenser microphones have a preamp; this includes headworn condenser mics and lavalier condenser mics. Withhandheld condenser microphones and studio condenser microphones the preamp is not as obvious, because the preamp circuity is containedwithin the mic handle/housing.
+	
+	Preamp is perhaps not the best term to use, as rarely is signal amplification a function of this type of device. A better term would be Impedance convertor, unbalanced-to-balanced convertor,and phantom power-to-bias convertor, but preamp is simpler.
+

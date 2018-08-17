@@ -1,0 +1,12 @@
+Title: Audio signal attenuator (pad) - build-it-yourself
+Id: 3094
+Legacy Id: 3226
+
+Question:
+How do I build an audio pad that meets my exact needs?
+
+
+Answer:
+
+	http://www.uneeda-audio.com/pads/
+

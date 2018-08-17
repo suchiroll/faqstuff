@@ -1,0 +1,14 @@
+Title: A2WS set screw
+Id: 4223
+Legacy Id: 5205
+
+Question:
+I lost the set screw for the A2WS windscreen. What is the Shure part number? What is the sizing of the screw?
+
+
+Answer:
+
+	Shure part: 30A868 (December 2012)
+	
+	Sizing: #8-32 UNC-2B; length 0.187(4.75 mm); oval point; steel; black oxide finish
+

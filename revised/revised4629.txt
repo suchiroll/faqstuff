@@ -1,0 +1,11 @@
+Title: SM27 Mic Stand Adapter
+Id: 4629
+Legacy Id: 5788
+
+Question:
+What stand adapter (not a shock mount) fits the SM27?
+
+Answer:
+
+	A32M
+

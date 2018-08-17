@@ -1,0 +1,17 @@
+Title: Converting a 520DX to low impedance using a A95U
+Id: 2246
+Legacy Id: 2327
+
+Question:
+I recently bought a 520DX mic for playing harmonica and love it. The manual says I may need an A95U to convert to low impedance.
+1) Is the A95U a simple to use small part I can plug in, carry in my gig bag?
+2) Using this part will I still be able to use the volume control on the 520DX mic?
+3) I've been playing thru a keyboard amp that also works for acoustic guitar and vocals and it sounds fine. Is a keyboard amp generally low or high impedance amp?
+
+
+Answer:
+
+	1. Yes, it is small enough for your gig bag.
+	2. Yes, you can still use the volume control.
+	3. A keyboard amp is likely high impedance. Check with the manufacturer.
+

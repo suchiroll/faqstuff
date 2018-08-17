@@ -1,0 +1,14 @@
+Title: I need a connector (audio) for my old model 51 microphone.
+Id: 374
+Legacy Id: 381
+
+Question:
+Where can I get a connector for my old model 51 microphone?
+
+
+Answer:
+
+	The connector on the 51 is an Amphenol MC3M. We do not carry these connectors,
+	
+	You can get pre-wired cables from Tom Ellis(214-328-3225).
+

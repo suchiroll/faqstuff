@@ -1,0 +1,14 @@
+Title: Setting the anti-skate force on a tonearm
+Id: 3492
+Legacy Id: 3691
+
+Question:
+What should the anti-skate setting be on a tonearm?
+
+
+Answer:
+
+	As a general rule, the anti-skate setting should equal the tracking force applied to the stylus tip.
+	
+	If using a Shure cartridge with a dynamic stabilizer, like the M97xE model, remember that the dynamic stabilizer reduces the tracking force by 0.5 grams. Therefore, a tone arm setting of 1.75 grams of tracking force results in 1.25 grams of force being applied to the stylus tip; thus the anti-skate should be set to 1.25 grams.
+

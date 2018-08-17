@@ -1,0 +1,18 @@
+Title: What does "NEF" stand for in E3CNEFS?
+Id: 3355
+Legacy Id: 3539
+
+Question:
+What is the NEF designation ?
+
+
+
+Answer:
+
+	E3 = model of the transducer
+	C = sold via Consumer outlets
+	N = black plastic (to match the Nano iPod)
+	EFS = English/French/Spanish on the package
+	
+	Basically, E3 earbuds in black.
+

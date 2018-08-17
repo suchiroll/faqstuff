@@ -1,0 +1,13 @@
+Title: PSM - Operation and storage temperature
+Id: 2695
+Legacy Id: 2799
+
+Question:
+I live in Canada and store PA equipment in a trailer outside.  During winter, the temperature gets well below freezing.  I am wondering if it is unwise to leave our wireless PSM 600's exposed to these very cold temperatures.  I know that our amplifiers and speakers are OK in these temps, but I am not sure about the wireless systems.  Are there tests that have been done to assure me that they should be OK in the cold or should I bring them inside during the winter months?
+
+Answer:
+
+	Cold weather should not affect the PSM electronics. However, subjecting any type of electronic equipment to extreme temperature changes in a brief period of time will cause expansion/contraction, and this can cause weak solder joints to fail.
+	
+	But the PSM earpieces should be kept indoors because condensation can affect their performance. Condensation can form if the earpiece is quickly moved from a cold environment to a warm, humid environment. The acoustical openings are so small that a tiny drop of water can clog the openings, be it condensation or sweat.
+

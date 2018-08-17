@@ -1,0 +1,16 @@
+Title: Connecting Cassette Deck to Promaster 700 for recording
+Id: 1433
+Legacy Id: 1486
+
+Question:
+Our Church has a Shure Promaster Model 700, with a JVC Stereo Cassette Deck and Peavey Series 200 Mixer. We are trying to connect the JVC Stereo Cassette Deck up to the Shure Promaster and Peavey Mixer to be able to record the singing or preaching. We have the cassette deck connected to where we can play tapes and you can sing with tapes, but we cannot get the connection hooked up correctly to be able to record the singing or preaching. Can you give us an idea as to how this should be connected?
+
+
+Answer:
+
+	We cannot comment of the Peavey mixer.
+	
+	The Record Output jacks on the ProMaster 700 are labeled: A Mix Output for the left channel and B Mix Output for the right channel. If you want a mono recording, use A+B Aux Output. All three of these outputs are after the 700s Master Volume control, so it must be turned up.
+	
+	We are puzzled on how you intend to use the same cassette deck to play back a tape and record a tape at the same time. That is not possible. Check with JVC if this statement confuses you.
+

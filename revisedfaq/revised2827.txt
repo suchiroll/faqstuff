@@ -1,0 +1,19 @@
+Title: From FP410E to FP410 configuration - operating voltage
+Id: 2827
+Legacy Id: 2937
+
+Question:
+How do I change the wiring from a FP410E(220v) to a FP410(110v)?
+
+
+Answer:
+
+	1) Remove jumper X113 from the main printed circuit board.
+	
+	2) At selector switch S108, solder a jumper wire between holes 1 and 2.
+	
+	3) At selector switch S108, solder a jumper wire between holes 3 and 4.
+	
+	4) Replace the 50 mA fuse with a 100 mA slow blow fuse.
+	
+	5) Replace the external AC power cord with the proper cord for 110 VAC operation.

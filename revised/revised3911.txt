@@ -1,0 +1,14 @@
+Title: SM89 Discontinuation and Replacement
+Id: 3911
+Legacy Id: 4157
+
+Question:
+When was the SM89 discontinued? What was the final price? What replaced the SM89?
+
+
+Answer:
+
+	The SM89 shotgun mic was introduced in 1987 with a U.S. retail price of $900. It was discontinued in August 2011 with a U.S. retail price of $932.
+	
+	The SM89 was replaced by the VP89L.
+

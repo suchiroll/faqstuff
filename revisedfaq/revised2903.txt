@@ -1,0 +1,35 @@
+Title: U1L Transmitter - Lemo Connector Information
+Id: 2903
+Legacy Id: 3027
+
+Question:
+I need to know if it is possible to change A TA4F connector on a Shure U1 beltpack transmitter to a Lemo Connector? What is the wiring for the Lemo plug?
+
+
+Answer:
+
+	I need to know if it is possible to change A TA4F connector on a shure U1 beltpack transmitter to a Lemo Connector?
+	* No. The internal circuit board is different for the Lemo connector version.
+	
+	What is the wiring for the Lemo plug?
+	PIN 1 = AUDIO
+	PIN 2 = BIAS +5VDC
+	PIN 3 = 10k ohm LOADING RESISTOR TO GROUND
+	PIN 4 = SHIELD / GROUND
+	
+	
+	THE LEMO PART NUMBER FOR THE CONNECTOR WHICH MATES TO THE UHF BODY PACK CONNECTOR IS: FFA.OS.304.CLAC42.
+	
+	THIS CONNECTOR MAY BE ORDERED IN SMALL QUANTITIES FROM:
+	DAMAR ELECTRONICS
+	310 MELVIN DRIVE, SUITE 310
+	NORTHBROOK IL 60062
+	VOICE: 847-272-5676
+	FAX: 847-498-6195
+	
+	THE ADDRESS OF LEMO IS:
+	LEMO USA INC.
+	335 TESCONI CIRCLE
+	SANTA ROSA CA 95406
+	VOICE: 707-578-8811
+	FAX: 707-578-0869

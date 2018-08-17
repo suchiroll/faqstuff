@@ -1,0 +1,88 @@
+Title: Use UA830A or UA830UB with different frequency bands?
+Id: 3584
+Legacy Id: 3790
+
+Question:
+Is it possible to re-use the UA830A and UA830UB inline antenna amplifiers for new wireless microphone gear operating in the 470-698 MHz core TV broadcast band?What is the usable bandwidth of the UA830A and UA830UB inline antenna amplifiers?
+
+
+Answer:
+
+	Following is the operating bandwidth information for the UA830A and UA830UB inline antenna amplifiers:
+	 
+	
+		
+			
+				UA830A
+			
+				Frequency - Low (MHz)
+			
+				Frequency - High (MHz)
+		
+		
+			
+				Specified Bandwidth
+			
+				782
+			
+				806
+		
+		
+			
+				Measured 3 dB Bandwidth
+			
+				781
+			
+				818
+		
+		
+			
+				Measured 10 dB Bandwidth
+			
+				775
+			
+				824
+		
+		
+			
+				 
+			
+				 
+			
+				 
+		
+		
+			
+				UA830UB
+			
+				 
+			
+				 
+		
+		
+			
+				Specified Bandwidth
+			
+				692
+			
+				716
+		
+		
+			
+				Measured 3 dB Bandwidth
+			
+				692
+			
+				722
+		
+		
+			
+				Measured 10 dB Bandwidth
+			
+				685
+			
+				728
+		
+	
+
+	The UA830A and UA830UB in-line antenna amplifiers feature bandpass filters with relatively sharp cutoffs.  Consequently, they will need to be replaced with new wideband in-line amplifiers, model UA830USTV, when changing out "700 MHz band" wireless microphone equipment.  The UA830A and UA830UB inline amplifiers will substantially attenuate any signals outside of their filter passbands.

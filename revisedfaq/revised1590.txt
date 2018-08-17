@@ -1,0 +1,16 @@
+Title: Permanently biased condenser life span
+Id: 1590
+Legacy Id: 1646
+
+Question:
+It is said that permanently biased condenser mics will lose voltage on the charged backplate over the year and thus lose sensitivity. What about a mic like the SM94, which can also be phantom-powered? Will that effect also be there when the mic is connected to 48V? What lifespan do these mics have generally, provided they are kept in a cool place?
+
+
+Answer:
+
+	Electret (permanently biased) condenser elements use phantom power to supply power to its impedance converter. Externally biased condenser elements use phantom power to power the impedance converter and convert the phantom power to bias for the element. It does not matter if the microphone is connected to phantom power or used with a battery. The electret element will still age the same.
+	
+	The 10 year old electret microphones that we have, have lost less than 1 dB of sensitivity during that time. Thus, a lifespan of 30-40 years or more can be expected.
+	
+	More information: Difference between electret condenser and true condenser microphones
+

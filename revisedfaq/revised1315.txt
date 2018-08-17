@@ -1,0 +1,18 @@
+Title: Radio Frequency Interference
+Id: 1315
+Legacy Id: 1366
+
+Question:
+Our church has installed a new sound system using many types of Shure microphones (Wired, wireless, resister, and condenser styles). The problem we are having is that we pull the AM radio station on some of the microphones. We even get the station on lines that do not have a microphone plugged into and can be heard over the prefade. The installer has placed a transformer on one of the overhead condensing microphones to resolve the problem. I was wondering if we should place a transformer on each line to prevent problems system wide? If we did this and changed microphones at times, could the same transformer for that line be used for each type of microphone? Do you have transformers that plug into the bottom of the microphone before placing the cable to the microphone for such issues? The installer insist the RFI issue will be a problem whenever we use the condenser microphones. What is the best way to tackle this issue knowing that we move these microphones around? I have asked is we could place transformers on each line of the board. The installer will not do this. The sermon just does not sound right with talk radio in the background.
+
+
+Answer:
+
+	I was wondering if we should place a transformer on each line to prevent problems system wide? * Yes. Transformers are very good at controlling radio frequency interference (RFI).
+	
+	If we did this and changed microphones at times, could the same transformer for that line be used for each type of microphone? * Perhaps. The transformer manufacturer can answer this question better.
+	
+	What is the best way to tackle this issue knowing that we move these microphones around? * A transformer at each input is the best solution.
+	
+	We suggest you contact: www.jensen-transformers.com
+

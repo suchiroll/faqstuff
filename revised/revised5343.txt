@@ -1,0 +1,33 @@
+Title: PA214 Cable Information
+Id: 5343
+Legacy Id: 3939
+
+Question:
+PA214 Cable Information
+
+Answer:
+
+	PA214: This cable is designed for the guitarist who is completely wireless and uses a P2R for their monitor and a body pack transmitter that takes a TA4F jack as input. Pins 3 and 4 of the TA4F jack are not connected just as in the WA302 cable. This cable allows a guitarist to control their own level in their monitor mix and still have a wireless transmitter split. The cable assembly is designed to allow a guitarist to split their guitar output into two separate signals that would feed the P2R Aux Input and a body pack transmitter as well. The cable assembly consists of 1 male mono 1/4 connector, 1 male 1/4 TRS connector, 1 TA4F connector, a preamp and a splitter board. The split that feeds the P2R Aux input passes through the inline preamp. This provides the user with a 6dB gain with adjustable output level through a thumbwheel potentiometer. This allows the performer to control how much of their guitar signal is fed into the P2R Aux input. The preamp also provides a 3dB down point at 52Hz. The input impedance is approximately 500Kohms.
+
+	
+
+	
+
+	
+		Provides split for guitar signal to feed P2R Aux input and 1/4 input body pack transmitter.
+	
+		Preamp provides 6dB gain, output level adjusted through thumbwheel control, to split fed into P2R Aux input.
+	
+		Zero Position on Preamp will not pass any audio to P2R.
+	
+		Provides 52Hz 3dB down point.
+	
+		Preamp input impedance is approximately 500kohms.
+	
+		Cable lengths provide convenient cable management for performers.
+	
+		Over molding of Splitter PCB provide rugged Y Junction.
+	
+		Provides TA4F jack to feed body back transmitter.
+
+

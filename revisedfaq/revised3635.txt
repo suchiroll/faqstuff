@@ -1,0 +1,12 @@
+Title: Low Temperature Operating Limits of Dynamic Microphones
+Id: 3635
+Legacy Id: 3842
+
+Question:
+Is there a low temperature operating limit for a dynamic microphone?
+
+
+Answer:
+
+	Shure dynamic microphones have a tested lower operating limit of minus 30 degrees Celsius (-30 C).As mostdynamic microphones do not contain active electronic components, the operating limit is likely much lower; feasibly lower than any human can endure.
+

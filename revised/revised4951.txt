@@ -1,0 +1,17 @@
+Title: KSM8 Handle Material
+Id: 4951
+Legacy Id: 6216
+
+Question:
+What is the outer case/handle made of on the KSM8? I know the color is "black" and "nickel" but what is the metal?
+
+
+
+Answer:
+
+	
+		The case/handle is die-cast aluminum.
+
+
+
+

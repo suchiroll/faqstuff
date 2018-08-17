@@ -1,0 +1,11 @@
+Title: UB band antenna on a UA band receiver?
+Id: 2943
+Legacy Id: 3070
+
+Question:
+Is it OK to use a UB band antenna on a UA band receiver?
+
+
+Answer:
+
+	The UB band antenna on a UA band receiver will provide RF performance that is nearly identical to a UA band antenna on a UA band receiver.

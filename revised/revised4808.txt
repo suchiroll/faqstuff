@@ -1,0 +1,35 @@
+Title: KSM8 Questions and Answers
+Id: 4808
+Legacy Id: 5994
+
+Question:
+Please provide a list of common KSM8 questions and answers.
+
+
+Answer:
+
+	The KSM8 has a wide sweet spot. What is asweet spot?
+	The sweet spot is an audio term that refers to the placement of a microphone, in reference to the vocal artist, for the most natural and balanced sound.For a vocal microphone, this iscritical as the sound quality will vary dependent on how the artist is holding the microphone.If the artist is holding the mic too close, the audio can sound more muddy or unclear.Conversely, if the microphone is too far away, the audio can sound thin and distant.Proper microphone technique is a key element of good sound.An artist can be inconsistent with microphone placement, and this may mean the sound engineer is required to process the microphone signal for better clarity or fidelity.
+	
+	The KSM8 has a wide sweet spot, due to the design of the Dualdyne element and its ability to control proximity effect.Additionally, the neutral mid/high frequency response of the KSM8 requires little-or-no external signal processing - resulting in consistent, natural-sounding audio, regardless of the artists mic technique.
+	
+	
+	How does the KSM8 compare to the SM58 or Beta 58A?
+	No one microphone is the solution to every problem.Even withthe KSM8 introduction, it is important to remember that the SM58 is still consistently chosen for a wide variety of vocal applications, from beginners to touring professionals, as the standard by which other microphones are measured.The Beta 58A, designed for increased gain-before-feedback due to its supercardioid polar pattern, offers a higher output level and hardened grille.In a sound reinforcement system, the KSM8 addresses proximity effect (the build-upof bass frequencies)in a manner unique for dynamic microphones.
+	
+	
+	What about the KSM8 polar pattern?
+	A consistent, uniformpolar pattern provides better gain-before-feedback during live stage use.Shure microphonesare thebenchmark for accurate polar patterns, resulting in exceptional consistency during performance. The design of the KSM8 Dualdyne cartridge creates a new standard for polar pattern uniformity.This can be heard when one monitors the off-axis sound (stage-bleed) as picked up by the KSM8 cardioid polar pattern. The off-axis sound is uncolored and natural sounding.
+	
+	
+	Why doesnt the KSM8 have switchable polar patterns like the KSM9?Dont they both use dual diaphragm capsules?
+	The KSM8 is a dynamic microphone; the KSM9 is a condenser microphone. A dynamic microphone process sound waves mechanically whereas acondenser microphone does so electronically.For a condenser, different polar patterns are achieved by changing the backplate voltage, shifting the capacitance,etc., - these manipulations are essentially electrical in nature.Currently, there are no such equivalent mechanical processes for a dynamic microphone.
+	
+	
+	Will there be other dynamic microphones with the Dualdyne cartridge technology?
+	At this time, there are no plans for additional Dualdyne models.
+	
+	
+	Is the KSM8 grill interchangeable with the KSM9 grill?
+	No, the two grills have different dimensions and cannot be interchanged.
+

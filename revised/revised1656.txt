@@ -1,0 +1,42 @@
+Title: Wireless Microphone for Training Seminars
+Id: 1656
+Legacy Id: 1713
+
+Question:
+Hoping you have some advice... I am a trainer with an international company and am looking for a wireless microphone option that will suit my needs. I will be presenting mostly in hotels --
+
+conference room or auditorium seating set ups with anywhere from 20-300 people. In talking with local dealers, I am getting confused on the following issues...
+
+* Single vs. Dual Antennaes
+
+* Single vs. Multiple Frequencies
+
+* Line vs. VHL (or whatever the hotel hookup is called) Jacks
+
+* Nationwide coverage with possible international coverage
+
+I'm not sure exactly what is the best option for me, however, I am wanting to keep the cost way down, as I will only be using it on occasion -- my voice carries well, but company policy
+
+requires that we carry equipment with us -- which brings up another issue... not much carry-on space for a lot of bells and whistles!
+
+
+Any words of wisdom? Thanks a bunch. Look forward to hearing from you soon.
+
+
+
+Answer:
+
+	At 09/06/2001 08:20 AM we wrote - First, read:
+	These booklets will give you a base of knowledge. Now, here are brief answers to your questions:
+	
+	* Single vs. Dual Antennas: Definitely buy a system with a diversity receiver. It will have two antennas. But be careful! Not all two antenna receivers are diversity. Diversity is the key word.
+	
+	* Single vs. Multiple Frequencies: Definitely buy a system with multiple (selectable) frequencies. As you travel from city to city, it will be imperative that you can select a clear frequency for each locale.
+	
+	* Line vs. VHL (or whatever the hotel hookup is called) Jacks: I think you mean XLR jacks. Buy a system which has an XLR output on the receiver that is switchable between MIC and LINE level.
+	
+	* Nationwide coverage with possible international coverage: The western hemisphere is consistent. You can get a wireless system for this area. But Europe and Asia have different wireless mic laws. Leave your wireless home when traveling over the ocean, and rent a system in each country.
+	
+	For your needs, we suggest the Shure UC system:
+	Other questions? Call us at 800-516-2525, then press 4.
+

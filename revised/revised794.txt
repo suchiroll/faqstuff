@@ -1,0 +1,16 @@
+Title: Model 51 - cable and connector
+Id: 794
+Legacy Id: 816
+
+Question:
+I am looking to find a cable and plug assembly for a Shure 51 vintage mic. Do you know where I could find a replacement?
+
+
+Answer:
+
+	Shure no longer has parts for these mics, including cables and connectors.
+	
+	The connectors were called Amphenol connectors. If its a 3 pin connector you need, the model number was MC3M. If its a 4 pin connector you need, the model number was MC4M.
+	
+	If you are looking for a cable, such as Amphenol to XLR connector, there is a person in Dallas, TX who will make them. His name is Tom Ellis. His phone number is 214-328-3225. His fax number is 214-328-4217.
+

@@ -1,0 +1,20 @@
+Title: Difference - Beta 52 vs Beta 52A; Beta 56 vs Beta 56A
+Id: 2697
+Legacy Id: 2801
+
+Question:
+What is the difference between a Beta 52 and 52A? And the Beta 56 and 56A?
+
+
+Answer:
+
+	As of October 2002, the Beta 52 and Beta 56 are being replaced by the Beta 52A and Beta 56A.
+	
+	1) The sound of the microphones are the exact same.
+	
+	2) The knob and tightening mechansim have been redesigned to be more durable.
+	
+	3) The mounting base is wider to accommodate a larger range of mic stands. The Beta 56A will work with the Latin Percussion Claw.
+
+	Note: The friction for the pivot point on the original Beta 52/56 was provided by a rubber washer that could become stuck under the compression washers. When this happened, the required friction disappeared. The rubber washer part number was 36A660.Some customers have fixed this issue by using a folded piece of cloth backed sandpaper and punching out the center to allow the set screw to pass through.
+

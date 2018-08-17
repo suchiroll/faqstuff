@@ -1,0 +1,28 @@
+Title: ANI4IN Crestron/AMX Control Strings
+Id: 4873
+Legacy Id: 6061
+
+Question:
+I want to control the ANI4IN with a Crestron touchscreen. What are the API control strings?
+
+
+Answer:
+
+	The ANI4IN can be controlled by AMX, Crestron, Extron, etc.
+	
+	The touch screen can control/monitor:
+
+	
+		Volume Controls
+	
+		Mute
+	
+		Metering
+	
+		Channel and Device Names
+	
+		More ...
+
+
+	The control strings can be found in the ANI4IN User Guide.
+

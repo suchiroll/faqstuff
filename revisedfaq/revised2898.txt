@@ -1,0 +1,12 @@
+Title: Mic Element 99D668D - Diver Mask Mic
+Id: 2898
+Legacy Id: 3022
+
+Question:
+I have a mic and I'm looking to replace it. The model number is 99D668B and says SHURE QE MEXICO on the side.
+
+
+Answer:
+
+	The 99D668D is an 8 ohm microphone element used in underwater applications. Sorry, Shure no longer makes this mic element.
+

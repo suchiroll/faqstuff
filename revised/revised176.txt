@@ -1,0 +1,42 @@
+Title: How do I make a wireless boundary microphone using the MX391?
+Id: 176
+Legacy Id: 177
+
+Question:
+How do I make a wireless boundary microphone using the MX391?
+
+
+Answer:
+
+	Building a Wireless Desktop Microphone Using the MX391
+
+	Procedure
+
+	
+		Prepare the MX391 to connect to a Shure bodypack wireless transmitter.
+		
+			
+				Unplug the microphone from its in-line preamplifier tube.Set the tube aside, as it is not needed for the wireless application.However, the preamplifier tube can be used later should the MX391 be needed in a wired configuration.
+			
+				Cut the factory installed TA4F connector from the cable.If needed, trim the microphone cable to the desired length.
+			
+				Install a new TA4F connector.The connector can be obtained from most electronics suppliers (Switchcraft TA4F) or from the Shure parts department (part number WA330).The Shield (ground) must be connected to both Pin 1 and the metal body of the connector.To connect to the body, solder a short jumper wire from pin 1 to the connectors internal metal cable grip.The Red wire (bias voltage) connects to Pin 2, and the Black wire (audio) connects to both Pin 3 and Pin 4.
+		
+	
+
+
+	Note: If the Shure transmitter body pack is metal (and not plastic), a new TA4F connector does NOT need to be installed.
+	
+	Parts Needed
+
+	
+		1 MX391 boundary microphone
+	
+		1 Shure wireless system with bodypack transmitter (almost all Shure bodypacks use the TA4F connector).
+	
+		1 Switchcraft (or equivalent) TA4F Connector (available from the Shure Parts Department - WA330).
+
+
+	
+
+

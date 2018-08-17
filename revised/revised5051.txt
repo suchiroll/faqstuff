@@ -1,0 +1,14 @@
+Title: WA653 Mic Flag Extender Kit
+Id: 5051
+Legacy Id: 6348
+
+Question:
+What is the WA653 accessory?
+
+
+Answer:
+
+	WA653 Mic Flag Extender Kit
+	
+	Introduced in January 2017, the WA653 Microphone Flag Kit extends a Shure wireless transmitter handle to accommodate the length of a microphone station ID flag.The kit consists of a 1 inch microphone flag extender and a 1.5 inch microphone flag extender. The most common applications include Axient and UHF-R wireless systems. Microphone station ID flags are not included in the WA653 kit.
+

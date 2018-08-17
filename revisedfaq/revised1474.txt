@@ -1,0 +1,88 @@
+Title: RS-422 control of P4800
+Id: 1474
+Legacy Id: 1527
+
+Question:
+---- 08/02/2001 05:41 AM ---------------------------------------------
+
+I am trying to use the the RS 422 port of the P4800 but am having difficulty. At first the software was saying there was a network error, but after changing the connector pinout it stopped giving me a network error but did not show any device's connected. The RS 232 ports work fine but my amp room is 2 floors away. Can you give me the pinout for the 422 port and/or any other help. I am using a 422 converter to RJ45 then an adaptor at the 422 port. Thank's in advance.
+
+
+---- 08/13/2001 12:18 PM ----------------------------------------------
+
+The pinout helps, but I'm not quite there yet. I am using an RS-232(Dsub) to RS-422(RJ45) converter at the copmputer. The RJ45 is as follows: Pin 3 R+, Pin 4 T-, Pin 5 T+, Pin6 R-. Then Cat 5 to the P4800.
+
+I have an adaptor from RJ45 to 9 Pin into the RS-422. I have changed the pinout on the adaptor to match but I still am getting a network error. I tried every pin config I could think of but still nothing.
+
+Any help would be greatly appreciated.
+
+
+Answer:
+
+	The RS-422 port on the P4800 is set up as a slave device and has the following pin out:
+	
+		
+			
+				
+					Pin
+				
+					Function
+			
+			
+				
+					1
+				
+					Not Used
+			
+			
+				
+					2
+				
+					TX-
+			
+			
+				
+					3
+				
+					RX+
+			
+			
+				
+					4
+				
+					GND
+			
+			
+				
+					5
+				
+					Not Used
+			
+			
+				
+					6
+				
+					GND
+			
+			
+				
+					7
+				
+					TX+
+			
+			
+				
+					8
+				
+					RX-
+			
+			
+				
+					9
+				
+					Not Used
+			
+		
+	
+
+	At 08/13/2001 01:18 PM we wrote - First, try moving the computer close to the P4800 and try connecting with RS232 port. If this works, you know the Shure software and hardware are working correctly. Then, check the wiring and adapter for the RS422. We have successfully used RS-232 to RS-422 converters from B Electronics. Converter #422LP9R should work well for a few hundred feet of cable. Converter #422LP9TB (requires power supply #422PS2) should work well up to 2000 feet of cable. B also caries the 2 twisted pair (plus ground) cable needed for the RS-422.

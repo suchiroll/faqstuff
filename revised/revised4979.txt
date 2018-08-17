@@ -1,0 +1,12 @@
+Title: DuKane Microphones made by Shure
+Id: 4979
+Legacy Id: 6244
+
+Question:
+Did Shure make OEM microphones for DuKane?
+
+
+Answer:
+
+	Yes. The model 7A760 was the equivalent of the Shure model 533. The model 7A65 was the equivalent of the Shure model 556S.
+

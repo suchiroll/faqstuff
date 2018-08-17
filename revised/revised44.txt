@@ -1,0 +1,20 @@
+Title: Microphone for violin
+Id: 44
+Legacy Id: 44
+
+Question:
+I recently bought a PG81 mike to record piano and violin. I'm very happy with the sound when recording the piano. However, it seems to lose a lot of bass when I use it to record the violin. I noticed on the frequency response chart that the low frequency is lost when the mike is more than 3" from the source. Unfortunately, I have to keep the mike a couple of feet from the violin, because the performer moves the violin too much. Since there's so much loss in bass, the violin sounds very thin when I record with the PG81. It doesn't sound as rich as the real thing.
+
+Can you suggest a better microphone for recording the violin?
+
+
+Answer:
+
+	The reduction in bass response you are experiencing is due to proximity effect. This effect is common to all unidirectional microphones (cardioid, supercardioid, etc.), and results in increased bass response as you get closer to the microphone. Consequently, as you increase distance from the microphone, you lose this additional bass response. Therefore, switching to another microphone that is positioned the same as thePG81 will not cure this problem. The possible solutions are:
+	
+	1. Move the microphone closer to the sound source.
+	2. Attach a miniature microphone to the instrument. (This technique tends to pick-up a good deal of mechanical noise from the instrument.)
+	3. Use an omni-directional lavalier microphone on the player, either attached to the collar or tie. The Shure MX150 would work for this application.
+	
+	As you seem to prefer a close miked sound, you need to get the mic close!
+

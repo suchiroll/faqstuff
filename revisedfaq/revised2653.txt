@@ -1,0 +1,120 @@
+Title: P4800 Wall Control - Volume, Presets, Routing, etc using Extron CTL208CM
+Id: 2653
+Legacy Id: 2757
+
+Question:
+Is there any multi-button wall panel that will control the P4800?
+
+
+Answer:
+
+	The control pin inputs on the back of the P4800 allow control of the presets, input/output volume and input/output muting. If you need more control, then Extron (www.extron.com) makes a CTL208CM 8 button wall panel. Pressing a button on the CTL208CM will send a serial string to the P4800's RS422 port. These buttons can be used to:
+	
+		Change Presets
+	
+		Volume up/down (inputs, outputs, and matrix mixer points)
+	
+		Mute channels (including matrix mixer points)
+	
+		Route inputs to outputs
+	
+		Control scaling, 20 dB pads, polarity
+
+	As a comparison, the control inputs on the back of the P4800 will allow switches to control input/output volume, input/output muting, and preset selection. The CTL208CM will do all that, plus allow full control of the matrix mixer section of the P4800. The CTL208CM will also allow volume control from multiple locations.
+	Instructions for programming the CTL208CM.
+	
+		Follow the instructions in the CTL208CM Operation Manual to connect it to your computer.
+	
+		Program Buttons.
+		
+			
+				Scene Selection. Assign the buttons you want to use for scene selection to a group. This will make the scene buttons mutually exclusive. Start with a timeout of "0". If the scenes do not change properly, try a timeout of "5". See the following example:
+		
+	
+
+	
+	
+		
+			See the P4800 Serial String document for the P4800 command strings. P4800 RS232 Codes - AMX / Crestron Subprograms
+	
+
+		
+			Volume Up/Down. For Volume Up/Down, select "Continuous" as the button mode. The code would look like this example:
+	
+	
+	
+		
+			See the P4800 Serial String document for the P4800 command strings. P4800 RS232 Codes - AMX / Crestron Subprograms. If you wish to control the volume of multiple inputs/outputs/mixpoints with the same buttons, LINK those inputs/outputs/mixpoints in the Shure P4800 software.
+	
+
+		
+			Mute, Polarity, Scaling, Pad, Activation Point. Button mode should be "Toggle". Do not use the serial "toggle" command for the P4800. Instead, use the "Force On" and "Force Off" commands. By using Force On and Force Off the LED on the CTL208CM will track better. Use a timeout of "0". The code would look like this example:
+	
+	
+	
+		
+			See the P4800 Serial String document for the P4800 command strings. P4800 RS232 Codes - AMX / Crestron Subprograms. If you wish to mute multiple inputs/outputs with the same button, LINK those inputs/outputs in the Shure P4800 software.
+	
+
+	
+		Change the settings for the CTL208CM to match the P4800 settings. This is done in the Communications | Comm Port menu.
+
+	
+		
+			Baud Rate: 19,200
+			Parity: None
+			Stop Bits: 1
+			Flow Control: None
+			Duplex: Half Duplex
+	
+
+	
+		Connect the CTL208CM to the P4800. Since the P4800 uses 7 wire RS-232, we have found it easier to use RS422. Flip DIP switch 1 (on the CTL208CM) to setting 1 (up). If only using one CTL208CM, flip DIP switches 2 and 3 up to setting 1. Connect the wires as follows:
+
+	
+		
+			
+				
+					
+						CTL208CM
+					
+						P4800 RS422 Port
+				
+				
+					
+						GND
+					
+						Pin 4
+				
+				
+					
+						TX -
+					
+						Pin 3
+				
+				
+					
+						TX +
+					
+						Pin 8
+				
+				
+					
+						RX -
+					
+						Pin 7
+				
+				
+					
+						RX +
+					
+						Pin 2
+				
+			
+		
+	
+	
+		Make certain to unplug the CTL208CM's power and plug it back in after you have made the configuration and wiring changes.
+
+	Notes: It is possible to parallel multiple (up to 15) CTL208CM’s on the same RS-422 bus. This means you could have two panels right next to each other for 16 total buttons. You could also place a panel at each entrance to a room; both of them programmed the same. When using multiple CTL208CM’s, follow the instructions in the Operation Manual for setting DIP switches 2 and 3.
+	Plugging a computer into the front RS232 port of the P4800 disables the rear serial ports.

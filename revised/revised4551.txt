@@ -1,0 +1,11 @@
+Title: Low output or poor tracking phono cartridge
+Id: 4551
+Legacy Id: 5674
+
+Question:
+Any idea why a phono cartridge might exhibit a low output level or poor tracking?
+
+Answer:
+
+	Here is one often overlooked reason: the stylus assembly is not properly seated into the phono cartridge body. If the stylus is pulled out slightly or dislodged, the result is low output and/or poor tracking. Make certain the stylus is fully inserted into the cartridge body.
+

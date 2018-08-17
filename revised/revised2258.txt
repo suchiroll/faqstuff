@@ -1,0 +1,12 @@
+Title: WL93 versus WL183
+Id: 2258
+Legacy Id: 2339
+
+Question:
+I would like to see the difference on the response graph for the WL93 mic and the WL183. Seeing these two graphs would be very helpful.
+
+
+Answer:
+
+	The graphs are in the User Guides for the two products.
+

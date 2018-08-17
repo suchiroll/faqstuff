@@ -1,0 +1,30 @@
+Title: LX1 Body pack transmitter price
+Id: 1236
+Legacy Id: 1282
+
+Question:
+What is the current average price for a LX1 Body Pack Transmitter, we are looking to by at least 16 (4 sets of 4)..and also the price for a WL93 Series Subminiature Condenser Lavalier Microphone
+
+
+Also a compatibility question, we currently use VEGA VHF Packs..and were wondering if the mics were compatible with those packs. Thanks for all your help.
+
+
+
+
+---- 06/19/2001 08:21 AM ----------------------------------------------
+
+well. Thanks so much.
+
+
+
+
+Answer:
+
+	Shures U.S. retail price list can be found at the following link:
+	
+	
+	
+	The wiring of the Vega VHF transmitter is not the same as the Shure transmitter. Though the audio connectors are the same, a mic wired for Vega will not work when connected to a Shure LX transmitter.
+	
+	At 06/19/2001 08:59 AM we wrote - You are welcome. Thank you for being a Shure customer.
+

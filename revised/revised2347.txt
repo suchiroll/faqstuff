@@ -1,0 +1,14 @@
+Title: U.S. wireless systems going to Australia
+Id: 2347
+Legacy Id: 2434
+
+Question:
+I recently found out I'm going to Australia and wanted to know if I can use an alternate power supply with my UC4-UB and my PSM 600 in ear monitor?
+
+
+Answer:
+
+	1) Simply use a 220V to 110V step-down transformer, and then connect your existing power supplies to it.
+	
+	2) The frequencies of your systems may not be legal in Austrialia. Send an email to the Shure agent in Australia listing the frequencies of your systems; they will advise you of the legality.
+

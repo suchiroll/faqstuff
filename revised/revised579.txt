@@ -1,0 +1,15 @@
+Title: What is the difference between hi-z and lo-z?
+Id: 579
+Legacy Id: 591
+
+Question:
+What is the best cord for the SM58 and Prologue 12H?
+
+Answer:
+
+	This is an excerpt from:Microphone Techniques for Music - Sound Reinforcement
+
+	The output impedance of a microphone is roughly equal tothe electrical resistance of its output: 150-600 ohms forlow impedance (low-Z) and 10,000 ohms or more for highimpedance.(high-Z). The practical concern is that lowimpedance microphones can be used with cable lengthsof 1000 feet or more with no loss of quality while highimpedance types exhibit noticeable high frequency losswith cable lengths greater than about 20 feet.
+
+	The proper cable for an SM58 or Prologue 12H will be based on the type of equipment to which you are connecting the microphone.
+

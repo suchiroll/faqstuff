@@ -1,0 +1,14 @@
+Title: Damping fluid replacement in the dynamic stabilizer bushings
+Id: 3233
+Legacy Id: 3383
+
+Question:
+Can I replace the damping fluid in the dynamic stabilizer bushings on my Shure phono cartridge?
+
+
+Answer:
+
+	The stabilizer bearing lubricant is a proprietary grease with special damping characteristics. It is no longer being manufactured by Shures supplier. In early 2006, Shure purchased the remaining inventory of this grease.
+	
+	The grease amount in the bearing and method of insertion is critical. Sorry to report that this is not a do-it-at-home repair.
+

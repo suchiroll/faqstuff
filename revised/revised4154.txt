@@ -1,0 +1,32 @@
+Title: Connecting Cables for DDS 5900
+Id: 4154
+Legacy Id: 5060
+
+Question:
+What type of cables are required for connections between DDS 5900 components?
+
+
+Answer:
+
+	Shielded/screened CAT 5e (e = enhanced) cable is required. Or Shielded/screened CAT 6 cable may also be used.
+	
+	It is essential that shielded CAT 5e cable be used as the shield: 1) Confines the electro-magnetic emissions being created as the DDS 5900 data flows between units. If these emissions were not confined, they could create interference in other nearby devices and cables. 2) Protects the DDS 5900 data from being polluted by electro-magnetic emissions from other devices. This could cause loss of DDS 5900 data or corruption of the data. And this could translate into no audio, distorted audio, poor quality audio, or loss of DDS 5900 functions.
+	
+	The shielded CAT 5e cable must also have a shielded RJ-45 connector at each end. The cable consists of twisted pairs of wire; each wire has a gauge of 24 AWG or 26 AWG.
+	
+	CAT 5e cable and CAT 5 cable differ as follows:
+	
+	Less cross talk - Cross talk is electrical interference that happens when one wires signal adversely affects another wires signal. Cross talk in CAT 5e cable has been substantially reduced.
+	
+	Network support - CAT 5 cable supports 10/100 Ethernet, i.e., Ethernet and Fast Ethernet. CAT 5e cable supports Ethernet, Fast Ethernet, and Gigabit Ethernet. CAT 5e cable can be substituted for CAT 5 cable.
+	
+	Bandwidth - Bandwidth is the information-carrying capacity of a system. Greater bandwidth equals greater information-carrying capacity in a period of time. CAT 5e cable is rated at 350 MHz. This increased bandwidth of CAT 5e allows it to support Gigabit Ethernet.
+	
+	Improved durability - CAT 5e cable is more rugged due to the quality and thickness of the PVC protective jacket.
+	
+	What if shielded cable or shielded connectors are not used? The main failure mode that will be experienced is delegate units not registering properly with the main Control Unit, i.e. communication errors. One symptom is that all LEDs on the delegate units will flash on and off repeatedly.
+	
+	Definition of acronymns used for CAT cable:
+	F/UTP = Foil over Unshielded Twisted Pairs
+	U/FTP = Unshielded, Foil Twisted Pairs (each pair is foil shielded, but theres no shield surrounding the whole bundle)
+

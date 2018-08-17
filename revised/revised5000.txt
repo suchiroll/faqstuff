@@ -1,0 +1,26 @@
+Title: Cleaning KSM8 grill
+Id: 5000
+Legacy Id: 6268
+
+Question:
+How do I clean the KSM8 grill?
+
+
+Answer:
+
+	Cleaning a Shure KSM8 is slightly different than cleaning other Shure microphones. While the KSM8 does not need any special cleaning supplies, its construction calls for a specific cleaning method. Here are the steps to properly cleaning a KSM8 grille.
+	
+	Step 1: Remove grille from the microphone body. The KSM8 grille as a permanent cloth liner that is glued into the grille. Do not attempt to remove the windscreen/liner on the inside of the microphone. If this has been removed, the grille needs to be replaced as it affects the acoustics and wind/pop performance of the microphone.
+	
+	Step 2: Mix a small amount of dish soap and warm water in a dish.
+	
+	Step 3: Use a toothbrush and soapy water to scrub the mic grille from the outside only. Scrubbing for a minute or two should be enough for most cases.
+	
+	Step 4: Run the outside of the mic grille underneath a stream of warm water. Do not try to clean the inside of the mic grille, as there is a waterproof coating that will prevent water from leaving the grille. Do not immerse the grille in water.
+	
+	Step 5: Let the grille dry for two hours before putting it back onto the KSM8 body.
+	
+	The grille can be replaced if it becomes damaged or if the inside cloth liner was removed.
+	RPM266: Replacement KSM8 Grille, Black
+	RPM268: Replacement KSM8 Grille, Nickel
+

@@ -1,0 +1,14 @@
+Title: Rechargeable 9 Volt Battery for Body-Pack Transmitter
+Id: 2716
+Legacy Id: 2820
+
+Question:
+Are rechargeable batteries useable? Is there a brand recommendation?
+
+
+Answer:
+
+	1. Yes, if 1 to 2 hours of operation is acceptable.
+	
+	2. Plainview Batteries - http://www.plainviewbatteries.com 800-642-2354
+

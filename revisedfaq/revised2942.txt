@@ -1,0 +1,11 @@
+Title: U1 Transmitter - Flexible or stiff antenna?
+Id: 2942
+Legacy Id: 3069
+
+Question:
+The U1 transmitter has been offered with a flexible antenna and with a stiff antenna. Which is better for RF performance?
+
+
+Answer:
+
+	The stiff antenna has about a 2 dB advantage over the flexible antenna. In most situations, this performance difference is not important.

@@ -1,0 +1,13 @@
+Title: Preamp for WL183
+Id: 2643
+Legacy Id: 2745
+
+Question:
+I recently acquired a WL183 mic without any type of pre-amp. I believe this mic is commonly used with the wireless pre-amp. What I am trying to find out is if there is another hard wired pre-amp that this mic can be connected to make it work as a wired mic. I know it will need phantom power and wondered if the same pre-amp used for the MX series can be used with this WL183?
+
+
+Answer:
+
+	I know it will need phantom power and wondered if the same pre-amp used for the MX series can be used with this WL183?
+	* Yes. Use either the MX1BP (phantom or battery) or RK183PK (phantom only).
+

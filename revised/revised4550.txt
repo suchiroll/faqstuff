@@ -1,0 +1,39 @@
+Title: High school football stadium wireless mic
+Id: 4550
+Legacy Id: 5673
+
+Question:
+We are needing to put a wireless mic into a high school football stadium. The receiver will be in the press box. What are your recommendations?
+
+
+Answer:
+
+	Installing a wireless mic for a high school football stadium has some challenges, but following recommended guidelines, most installations are successful.
+	
+	First is the choice of wireless system. The receiver that is selected will need to have removable antennas. Common choices are BLX14R/W93 (lavalier), BLX24R/SM58 (handheld), SLX14/93 (lavalier), SLX24/SM58 (handheld), QLXD14/93 (lavalier), or QLXD24/SM58 (handheld). Systems with headworn /earworn microphone are even better as this type of design keeps the mic close to the officials mouth.
+	
+	Next is antenna selection and placement. The antennas should be mounted on the outside of the press box. Many press boxes have a significant amount of metal in their construction. This metal reflects or blocks the RF signal and poses reception issues. Thus, the antennas need to be installed outside of the press box and away from reflective metal surfaces. Outside antennas need to be weather proof. Shure suggests the Winegard Flatwave Air antenna. This antenna has the proper characteristics to work with wireless mic systems. Please check Winegards website for up-to-date information about this antenna, recent improvements, or recent changes to the model number.
+	
+
+	
+
+
+
+	Place the antennas on the top of the press box, so the antennas are out in the open as much as possible. The antennas can be splayed outward to increase the width of coverage across the field. Experiment by aiming the antennas toward the 40 or 35 yard line.
+	
+
+	
+
+
+	Install coax cable from the antenna location to the receiver location inside the press box. With most press boxes, the cable length will be about 25 to 50 feet. Since the Flatwave Air antenna uses F connectors and is 75 ohm, good quality RG6 cable can be used for this application and these distances. The Flatwave Air antenna has a built in amplifier to compensate for the cable loss. Ifthe particular installation requires a longer coax cable run, it might be necessary to use extremely low loss cable, such as Belden 9913.
+	
+	The Flatwave Air antenna comes with its own power injector. This power injector powers up the amplifier built into the antenna. Place the power injector at the receiver location and inline with the coax that runs to the antenna. Shure receivers and antenna distribution amplifiers cannot power up the Flatwave Air, as they use different voltages. The power injector that comes with the Flatwave Air is essential.
+	
+	Note: Shure branded antennas are not designed to withstand long-term installation out-of-doors.
+	
+	If more than one receiver is being used, use the UA221 passive splitter or UA844 antenna distribution to split the antennas to multiple receivers. These devices are installed on the non-antenna side of the Flatwave Air power injector.
+	
+	Mount the receiver(s) where the front panel can be easily viewed for monitoring purposes.
+	
+	With antennas properly placed outside of the press box, the wireless system has the best chance of satisfactory operation, be it the referee or the national anthem singer.
+

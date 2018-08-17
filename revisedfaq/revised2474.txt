@@ -1,0 +1,29 @@
+Title: LX, U, ULX current draw
+Id: 2474
+Legacy Id: 2569
+
+Question:
+How can I find out what the current draw of
+
+
+(a) the handheld transmitters
+
+
+and
+
+
+(b) the beltback transmitters
+
+
+of the following systems is: LX, ULX, UHF?
+
+
+
+Answer:
+
+	The handheld and bodypack transmitters of individual systems have the same current draw.
+	
+	LX: 35 mA maximum
+	ULX: 65 mA maximum
+	UHF: 120-130 mA
+

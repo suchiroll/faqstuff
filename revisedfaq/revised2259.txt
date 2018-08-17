@@ -1,0 +1,21 @@
+Title: Model 8700 microphone for choir?
+Id: 2259
+Legacy Id: 2340
+
+Question:
+I need to specify a microphone to be used in a church for a chorus located on one of its side and with no more than 7 singers.
+
+
+I have seen a Shure mic Model 8700, that is not listed on your web page info, any recommendation about it.
+
+
+Answer:
+
+	The User Guide for the 8700 can be found at the following link, under C Series:
+	
+	http://www.shure.com/ProAudio/Downloads/UserGuidesAndTechSpecs/index.htm?ssProductCategory=Microphones
+	
+	We do not recommend the 8700 for choir. To see what microphones we recommend for choir, please see our online Selection Guide at:
+	
+	http://www.shure.com/ProAudio/Solutions/index.htm
+

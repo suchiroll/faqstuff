@@ -1,0 +1,13 @@
+Title: MXW Troubleshooting
+Id: 5042
+Legacy Id: 6334
+
+Question:
+I'm having problems installing an MXWAPT. How do I troubleshoot?
+
+
+Answer:
+
+	The following video steps through many of the typical troubleshooting techniques for the MXW system.
+	
+

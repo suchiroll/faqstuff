@@ -1,0 +1,13 @@
+Title: P10T - No RF combiner inside?
+Id: 4262
+Legacy Id: 5319
+
+Question:
+The P10T transmitter has two antenna outputs. Why were these not combined into one antenna output?
+
+
+
+Answer:
+
+	A passive 2:1 combiner inside the P10T would reduce the RF output power by 3dB. An active combiner would have raised the price substantially and added excessive heat inside the chassis.
+

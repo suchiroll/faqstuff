@@ -1,0 +1,24 @@
+Title: MXA Devices and Powering by an Ethernet Switch
+Id: 4889
+Legacy Id: 6147
+
+Question:
+How many MXA devices can be powered by an Ethernet switch?
+
+
+Answer:
+
+	Shure's network components utilize Power-over-Ethernet, and most are registered as Class 0 powered devices. Any network switch that supports Class 0 will power most Shure network devices. However, the number of devices that a single PoE switch can support varies, based on the switch's power supply. Below is the power consumption for each Shure network device:
+	ANI22: 11 Watts, Class 0
+	ANI4IN: 10 Watts, Class 0
+	ANI4OUT: 10 Watts, Class 0
+	ANIUSB: 6.5 Watts, Class 0
+	MXA310: 4 Watts, Class 0
+	MXA910: 9 Watts, Class 0
+	P300: 14 Watts (requires PoE+)
+	
+	Simply add up the total power usage for all devices connected to the switch, and compare that to the available power from the switch.
+	
+	Example: Four MXA310 table array microphones are connected to a network switch with a 32 Watt power supply. Each MXA310 draws 4 Watts, for a total of 16 Watts. This will work fine.
+	
+	Note that there must be at least 15.4 Watts of power available when a device is connected, or power will be denied. In the above example, with five MXA310 microphones connected to the switch, the total power usage goes up to 20 Watts, leaving only 12 Watts available. If a sixth MXA310 is connected, the switch will deny power to the device, even though the microphone only draws 4 Watts.

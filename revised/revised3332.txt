@@ -1,0 +1,19 @@
+Title: What is Tuned Bassport?
+Id: 3332
+Legacy Id: 3509
+
+Question:
+What is Tuned Bassport that is used in the SE310?
+
+Answer:
+
+	Tuned BassPort Technology: More Boom In Less Room
+	
+	All speakers are designed to do just one thing: move air. In general, the easier it is for the speaker to move back and forth, the more air it can move. This is especially important at lower frequencies (perceived as bass), which require more extreme movements of the speaker.
+	
+	To make it easier for the speaker to move, headphones and earbuds have small vent holes or ports on the outside. The ports allow air to move in behind the speaker when it pushes air toward your ear, and they allow air to move back out when the speaker moves away from your ear. By making it easier for the speaker to move, the ports improve sound quality. Unfortunately, the ports also allow outside noise to get in. No matter how well an earbud fits your ear, you will still hear a significant amount of background noise leaking through the ports.
+	
+	To keep background noise out, sound isolating earphones are completely sealed -- there are no ports on the outside. This makes it harder for the speaker to move back and forth, however. To solve this problem, Shure developed Tuned BassPort Technology. The Tuned BassPort is an internal vent in the speaker assembly, which improves airflow around the speaker. The additional airflow allows the speaker to perform as if it were in a larger enclosure, thus improving bass response with no increase in overall size. Because the outer case of the earphone is still sealed, noise is kept out of the ear.
+	
+	Tuned BassPorts are used on Shure SE310, SE530/SE530PTH, E4c, and E500PTH earphone models.
+

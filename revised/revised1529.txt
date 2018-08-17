@@ -1,0 +1,18 @@
+Title: Wireless for harmonica
+Id: 1529
+Legacy Id: 1583
+
+Question:
+I'm looking for a harmonica mic and wireless system for live shows. I play through a amp, with tubes (Fender).
+
+
+Answer:
+
+	Most harmonica players use the Shure 520DX. However, the 520DX is not used wireless; it is always connected to the amplifier by a cable.
+	
+	If you must have wireless, try any Shure wireless system that uses the SM58 mic element.
+	
+	Before you buy, we strongly recommend you try out any wireless system first. Make certain to bring your harmonica and your amplifer to the music store as it is very important to hear how your complete set-up sounds through a wireless mic.
+	
+	Again, most harmonica players prefer the sound of a wired mic over a wireless mic.
+

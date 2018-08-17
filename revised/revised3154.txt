@@ -1,0 +1,11 @@
+Title: Earphone cable is turning green
+Id: 3154
+Legacy Id: 3292
+
+Question:
+The wiring within the clear cable on my arphones appears to be turning green. What's happening?
+
+Answer:
+
+	In some cases, moistureand/or other contaminants can become trapped under the clear plastic jacket that surrounds the cable. Over time, this can cause corrosion that appears dark green. This does not effect the performance or sound quality of the earphones; therefore this is not covered under warranty.
+

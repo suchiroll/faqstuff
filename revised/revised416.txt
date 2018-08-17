@@ -1,0 +1,12 @@
+Title: ST6000 Information
+Id: 416
+Legacy Id: 423
+
+Question:
+Please provide information about the ST6000.
+
+
+
+Answer:
+
+	In brief, the ST6000 (discontinued in the early 1990's) is a teleconferencing mixer that requires for proper operation: an analog phone line connection and special two-element microphones. The ST6000 is only useful for teleconferencing, and not any other type of audio mixing.

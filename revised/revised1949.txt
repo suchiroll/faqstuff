@@ -1,0 +1,18 @@
+Title: Battery Life for FP24
+Id: 1949
+Legacy Id: 2012
+
+Question:
+We recently purchased an FP24 for use in our department.
+It seems that the battery life in the device awfully short, especially for our purposes. On one recent event, we found ourselves having to swap batteries every 20 minutes! Not the best situation for a live recording. We love the device, but our idea in purchasing something that could operate on batteries was to save the trouble of hooking into what (as I'm sure you can imagine in a 300 year-old institution) are often antiquated electrical systems. We have ordered a power supply, but that creates the very problem we were seeking to avoid.
+Are we experiencing normal battery wear here, or might there be something wrong with our FP24? We're using Duracell Procell batteries, and our most recent job involved a pair of Earthworks SR69 condenser mics. The pre-amps were feeding a pair of Tascam DAT's via a set of line-level passive splitters.
+
+
+Answer:
+
+	Two AA alkaline batteries should last at least 2 hours. This means the FP24 can draw up to as much as 600 milliamps. If you have a means of testing the current draw of the FP24, do so.
+	
+	Batteries that die every 20 minutes means your FP24 is pulling nearly 1,200 milliamps -way too much! A milliamp current measurement will confirm or deny this theory.
+	
+	You might also want to go buy some new, fresh batteries from a store to verify that your problem is not weak batteries. It is possible that the lot of Procells that you have were sitting on a shelf for a few years and have lost their charge.
+

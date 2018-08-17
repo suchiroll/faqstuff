@@ -1,0 +1,9 @@
+Title: OEM version of a ribbon microphone
+Id: 5468
+Legacy Id: 
+
+Question:
+Did Shure ever sell an OEM version of a ribbon microphone?
+
+Answer:
+Yes.  In the 1950s, Shure sold an OEM version of the Model 300 ribbon microphone to Stromberg-Carlson.  It featured a badge with the Stromberg-Carlson name. The OEM model number was MG-58.  [MG may have stood for Microphone Gradient.] The specifications were the same as the standard Shure Model 300.

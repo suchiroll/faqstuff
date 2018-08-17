@@ -1,0 +1,38 @@
+Title: Phono Cartridge Alignment Issues
+Id: 4611
+Legacy Id: 5767
+
+Question:
+I'm trying to find the best way to eliminate inner groove mistracking with this cartridge. I've owned my M97xE for a little over a year now, and while I've very much enjoyed the sound, I'm not entirely positive that I've ever gotten the alignment quite right. The two-point protractor that comes with the M97 is the type of alignment that should be used varies from turntable to turntable. I'm using a Technics with an S-shaped tonearm, and I've read that the alignment type that works best for this is Stevensons. I've also found conflicting information about proper overhang; some say to use the suggested Technics 15m overhang while some arc templates suggest a longer effective length is necessary.
+
+All of that worry may not have any bearing on my other concern: I've noticed that while at rest (tonearm suspended or even sitting on a nonmoving record or alignment protractor), the cantilever of the M97XE is slightly offset a couple degrees to the right while looking head-on (if looking directly at the cartridge body is the 12 o'clock position, the cantilever seems to point closer to 11:30-45. However, the stylus seems to "straighten out" while tracking record grooves. As you can imagine, this makes aligning a difficult task. I'm not sure if I should be aligning referencing the stylus/cantilever or the cartridge body. Is an offset cantilever normal?
+
+Answer:
+
+	Is an offset cantilever normal? Yes, the typical tolerance is + / - five degrees. The rubber bushing the supports the stylus cannot be fabricated with a tighter tolerance. The groove of the record will bring the stylus to the center.
+	
+	Perhaps the following information will assist:
+	
+	Primer on Phono Cartridge Stylus Design and Operation
+	
+	Here is a link that describes Phono Cartridge Installation and Setup with Detailed Instructions:
+	Installation Instructions
+	
+	High Fidelity Phonograph Cartridge - Technical Seminar
+	
+	Phono cartridge alignment gauge - how to use
+	
+	Cartridge alignment gauge or protractor
+	
+	Also recommended is the use of phono test records to gauge performance:
+	Test record for turntable and phono cartridge
+	
+	This vintage book contains information on nearly every aspect of phono cartridges and performance:
+	http://www.amazon.com/Audio-Cyclopedia-Howard-M-Tremaine/dp/0672206757
+	
+	Below is an article on Tangent Error.
+	
+	Below is an extensive FAQ document from Van den Hul - a leader in the production of high-end phono products. There is a section on alignment.
+	
+	Below is an article from the Shure Engineering Archives: Tonearm Geometry and Setup - equations included.
+

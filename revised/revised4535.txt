@@ -1,0 +1,13 @@
+Title: MXW Operational Time for a Typical Day
+Id: 4535
+Legacy Id: 5654
+
+Question:
+What is the operational time (one recharge) on a MXWS8G10/C system?
+
+Answer:
+
+	While the rechargeable Li-Ion batteries for MXW transmitters are designed to last up to 9 hours on a charge, variance in battery health and use-case may result in significant differences in battery runtime.
+
+	A warn battery might have a runtime of 6-7 hours. See the MXW User Guide for more information.
+

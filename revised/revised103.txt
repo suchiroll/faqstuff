@@ -1,0 +1,19 @@
+Title: How do I gate two SCM810 channels at the same time?
+Id: 103
+Legacy Id: 103
+
+Question:
+How do I gate two SCM810 channels at the same time?
+
+Answer:
+
+	Gating Two SCM810 Channels Together
+	
+	It is possible to do so in the Intellimix circuitry. The modification differs depending on which board revision you have. The board revision is printed in large capital letters on the upper right corner of the PC board. On any boards that start with a letter H or higher (e.g. HYRAX), there are holes labeled Group Gate Jumper for each input channel. Soldering a jumper between these points will cause these two channels to gate on as a pair. That is, if either microphone channel turns on, they both will turn on.
+	
+	For earlier revisions, a jumper can be placed between pin 2 of U102, U202, U302, etc. OR, a jumper can be placed between pin 13 of U103, U203, U303, etc.
+	
+	Note that only one point on each channel needs to be connected. (These two points are actually connected on the circuit board.) Pick whichever one is easier.
+	
+	After performing this modification, the Last Mic-Lock On feature should be disabled by switching DIP switch 2 on the back panel to the down, or off position.
+

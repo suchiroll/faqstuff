@@ -1,0 +1,15 @@
+Title: Mic for rugby referee
+Id: 952
+Legacy Id: 981
+
+Question:
+---- 04/06/2001 01:35 PM ---------------------------------------------
+
+Have a requirement of a radio system for the rugby season in RSA, where the spectators can listen to the referee, the referee needs a noise canceling mic to reduce spectator noise, I have used the Sonic range of gear, but not too good.
+
+
+Answer:
+
+	We recommend using a headset microphone. This will provide the best direct versus ambient sound. The WH20 would be a good choice for your application. You can see the WH20 at the following link:
+	
+

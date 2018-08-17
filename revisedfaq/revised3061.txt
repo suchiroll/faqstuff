@@ -1,0 +1,147 @@
+Title: Locking and Unlocking transmitters and receivers
+Id: 3061
+Legacy Id: 3192
+
+Question:
+Please provide a list of how to lock and unlock Shure transmitters and receivers.
+
+
+Answer:
+
+	BLX SERIES
+	
+	Transmitter (Power & Frequency) Lock or Unlock:
+	With transmitter ON, hold down the GROUP button, then press the CHANNEL button for two seconds.
+	
+	Receiver (Power & Frequency) Lock or Unlock:
+	Power ON the receiver.  Simultaneously hold down the GROUP button and the CHANNEL button. The display flashes rapidly.
+	Note 1: Once locked, the display flashes rapidly if any receiver button is pressed. 
+	Note 2: The BLX88 dual receiver locks on both sides when locked from either side
+	
+	
+	GLX-D SERIES
+	
+	Transmitter Power Lock or Unlock:
+	With transmitter OFF, press and hold the LINK button while powering the transmitter ON.  Continue to hold the LINK button until the padlock icon appears on the GLX-D receiver front panel screen.  Repeat these steps to unlock the transmitter.
+	
+	Receiver Lock or Unlock:
+	Power ON the receiver. Simultaneously hold down the GROUP button and the CHANNEL button until "LK" appears.  Repeat these steps to unlock.
+	Note: The lock setting is not affected if the AC power is interrupted.
+	
+	
+	PGX SERIES
+	
+	Transmitter Power Lock:
+	With transmitter OFF, hold down the POWER button (about 5 seconds) until the green LED flashes.
+	Note: IR sync overrides a locked transmitter.
+	
+	Transmitter Power Unlock:
+	Hold down the POWER button (about 7 seconds) until green LED flashes.
+	
+	Receiver Frequency Lock:
+	Hold down the CHANNEL button (about 7 seconds) until the Group and Channel numbers both appear and flash together, then release.
+	
+	Receiver Frequency Unlock:
+	Hold down the CHANNEL button (about 5 seconds) until both numbers flash.
+	
+	
+	
+	SLX SERIES
+	
+	Transmitter (Power & Frequency) Lock:
+	With the transmitter ON, press MUTE and SELECT buttons simultaneously. A lock icon will appear.
+	
+	Transmitter (Power & Frequency) Unlock:
+	Press MUTE and SELECT buttons simultaneously. The lock icon will disappear.
+	Note: IR sync overrides a locked transmitter.
+	
+	Receiver (Power & Frequency) Lock:
+	Hold the SELECT button then press the MENU button. A lock icon will appear.
+	
+	Receiver (Power & Frequency) Unlock:
+	Hold the SELECT button then press the MENU button. The lock icon will disappear.
+	Note: IR sync transmission operates in the locked mode.
+	
+	
+	
+	ULX SERIES
+	
+	Transmitter Frequency Lock:
+	With transmitter OFF, hold down the SET button, then turn transmitter ON. "Fr L" will appear indicating the frequency is locked.
+	
+	Transmitter Frequency Unlock:
+	With transmitter OFF, hold down the SET button, then turn transmitter on. "Fr UL" will appear indicating the frequency is unlocked.
+	
+	Transmitter Power Lock:
+	With the transmitter ON hold the SET button then press the MODE button for 4 seconds. "Po L" will appear indicating the power is locked on.
+	
+	Transmitter Power Unlock:
+	Hold the SET button then press the MODE button for 4 seconds. "Po UL" will appear indicating the power is unlocked.
+	
+	ULXS
+	The ULXS receiver does not have locking functions.
+	
+	ULXP
+	Receiver Frequency / Volume Lock:
+	With the receiver ON, hold the SET button and press the MODE button three times. "Loc" will appear. Rotate the CONTROL knob clockwise to turn on Volume Lock (top Icon) and Frequency Lock (bottom Icon). Then push SET to lock.
+	
+	Receiver Frequency / Volume Unlock:
+	With the receiver ON, hold the SET button and rotate the CONTROL knob one-quarter turn LEFT–RIGHT–LEFT, then release the SET button.
+	
+	Note: ULXP receiver Power cannot be locked on.
+	
+	
+	
+	QLX-D
+	
+	Transmitter Lock and Unlock:
+	Press the MENU button until LOCK screen appears. Press ENTER to save the lock setting.  Additional detail can be found in the User Guide.
+	
+	Receiver Lock and Unlock:
+	Press the MENU button until LOCK screen appears. Adjust the setting as needed to lock: Power or Menu or Gain. Press ENTER to save the lock setting.  Additional detail can be found in the User Guide.
+	
+	
+	UC SERIES
+	
+	UC systems do not have locking functions.
+	
+	
+	UHF SERIES
+	
+	Transmitter Frequency Lock:
+	With the transmitter OFF, hold the SET button and turn the power ON. When "Fr L" appears, release the SET button.
+	
+	Transmitter Frequency Unlock:
+	With the transmitter OFF, hold the SET button and turn the power ON. When "Fr UL" appears, release the SET button.
+	
+	Transmitter Power Lock:
+	With the transmitter ON, hold the SET button and press the MODE button until "Po L" appears, then release both buttons.
+	
+	Transmitter Power UnLock:
+	Hold the SET button and press the MODE button until "Po UL" appears, then release the buttons.
+	
+	Receiver Display / Functions Lock:
+	With the receiver ON, press the MENU button, then the + button until "Set Lock" is displayed. Press SELECT. Using the +/-buttons, enter + - + (plus minus plus), then press SELECT. A lock icon will appear.
+	
+	Receiver Display / Functions Unlock:
+	With the receiver ON, press the MENU button. "Code?" will appear. Enter + - + (plus minus plus), then press SELECT.
+	
+	Note: UHF Series receiver power cannot be locked on.
+	
+	
+	UHF-R SERIES
+	
+	Transmitter Frequency Lock:
+	With the transmitter ON, hold the EXIT button and press the UP Arrow button. Padlock icon will appear to the left of the battery icon. When locked, the frequency cannot be changed and a sync signal from the receiver will not override the frequency lock.
+	
+	Transmitter Frequency Unock:
+	With the transmitter ON, hold the EXIT button and press the UP Arrow button. Padlock icon to the left of the battery icon will disappear when unlocked. 
+	
+	Transmitter Power Lock:
+	With the transmitter ON, hold the EXIT button and press the ENTER button. Padlock icon will appear to the right of the battery icon. When locked, the power cannot be turned off except by removing the batteries.
+	
+	Transmitter Power Unlock:
+	With the transmitter ON, hold the EXIT button and press the ENTER button. Padlock icon will disappear to the right of the battery icon.
+	
+	Receiver Display / Functions Lock:
+	At the UTILITIES menu, select LOCK.  Rotate the Control Wheel left or right to toggle between lock and unlock.

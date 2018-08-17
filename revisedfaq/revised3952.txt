@@ -1,0 +1,26 @@
+Title: P9RA versus P9R - what are the differences?
+Id: 3952
+Legacy Id: 4201
+
+Question:
+What are the primary differences between the P9RA and the original P9R?
+
+
+Answer:
+
+	Introduced in October 2011 and replacing the P9R, the P9RA has new features and improvements:
+
+	
+		Improved separation in Mix Mode: Channel to channel separation in P9RA Mix Mode is approximately 60dB. In the P9R, it was 22 dB.
+	
+		Additional gain setting: The P9RA has two settings - Standard and High. High offers 10dB more gain than Standard. High gain on P9RA is the same as the P9R default gain.
+	
+		New enclosure: The P9RA enclosure is based on the P10R. This allows the P9RA to use Shure rechargeable battery packs and chargers.
+	
+		User adjustable RF pad: The P9RA has an adjustable RF attenuator/pad. This feature prevents the RF amp from overloading due to excessively strong RF signals. Use of the RF pad will typically reduce the operating range.
+	
+		Restore all: The P9RA has a restore all feature that provides a quick and easy way to revert to factory default settings.
+	
+		Knob detents: The P9RA has knob detents like P10R. It also has a smaller knob like P10R.
+
+

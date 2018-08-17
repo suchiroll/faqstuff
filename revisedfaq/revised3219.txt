@@ -1,0 +1,24 @@
+Title: Close miking an acoustic instrument
+Id: 3219
+Legacy Id: 3369
+
+Question:
+For live sound, I have tried close miking of acoustic instruments (guitar, piano, violin) by placing a mic on the instrument or inside of the instrument. But I have never been satisfied with the sonic results. The instrument is loud enough, but I don't like the timbre. Comments?
+
+
+Answer:
+
+	The underlying physics problem is the location of the mic in relation to the instrument. An acoustic instrument, like a flat top guitar, sounds odd when closely miked. 
+	
+	An acoustic instrument is designed and constrcuted to sound good as some distance from the instrument. Placing a mic extremely close to an instrument is the equivalent of placing your ear there. You will not hear a blend of the instruments many timbres; you will primarily hear the instruments timbre at that exact point.
+	
+	It is this basic fact of physics that leads to the assertion that a mic should be:
+	1) placed on the outside of the instrument,
+	2) not mounted on the instrument as this leads to unwanted physical vibration of the mic, and
+	3) placed as far as way as feasible to obtain a blend of the instruments many vibrating surfaces.
+	
+	Of course, gain-before-feedback in the sound system will not allow the mic to be placed at an infinite distance. A compromise must be made between gain and timbre.
+	
+	In general, Shure feels that a flat response, condenser mic on a stand sounds better than a clip-on mic or a gooseneck mic mounted on the instrument. Again, the fundamental reason is that the clip-on mic or gooseneck mic is too proximate to the instrument to provide a balanced audio quality.
+	
+

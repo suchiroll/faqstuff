@@ -1,0 +1,12 @@
+Title: M75CS stylus
+Id: 1339
+Legacy Id: 1391
+
+Question:
+I have an old Zenith turntable with an M75CSZ cartridge. I would like to get a new 33/45 stylus, but cannot find replacement info on website. If a stylus is not available, please suggest an upgrade cartride and a 78 stylus if possible.
+
+
+Answer:
+
+	The M75CSZ cartridge was designed to track from 3 to 5 grams. The Shure N75-6 stylus tracks from 1.5 to 3 grams. It can be used for the M75CSZ as long as the tracking weight is set from 3 to 3.5 grams.
+

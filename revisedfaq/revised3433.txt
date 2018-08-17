@@ -1,0 +1,15 @@
+Title: Potential Acoustic Gain Calculator, Definition, and Articles
+Id: 3433
+Legacy Id: 3624
+
+Question:
+Is there an online calculator for Potential Acoustic Gain (PAG) of a sound system? What is a simple definition of Potential Acoustic Gain? Are there technical articles on PAG?
+
+
+
+Answer:
+
+	The PAG (Potential Acoustic Gain) calculation provides an estimate of how much louder a sound source (talker, singer, musical instrument) will be heard when the PA system is active.   The PAG estimate is for the location of the observer / listener.  The listener hears the sound source at level X when the PA system is off; the listener hears the sound source at a louder level Y when the PA system is on.  The difference in decibels between X and Y is the Potential Acoustic Gain.Online calulator: http://www.shure.com/americas/pagnagThis link explains the multiple factors of gain in a PA system: http://hyperphysics.phy-astr.gsu.edu/hbase/audio/pagi.html#c1The five primary variables in the PAG equation are:Ds = Distance source (distance from talker to microphone.)  For maximum PAG, this distance must be as small as possible.D1 = distance from microphone to nearest loudspeaker.  For maximum PAG, this distance must be as large as possible.D2 = distance from loudspeaker to nearest listener.  For maximum PAG, this distance must be as small as possible.Do = Distance observer (distance from talker to the listener.)  This distance is determined by the room size and seat locations. NOM = number of open microphones.  For maximum PAG, this number must be a small as possible.
+
+	Shure Article about PAGBelow, as an attached file, is the first AES paper describing PAG:
+

@@ -1,0 +1,12 @@
+Title: DC 5980P - how to lock the microphone
+Id: 4149
+Legacy Id: 5055
+
+Question:
+Whatis the procedure to lock the GM 5940 gooseneck microphone to the DC 5980P portable conference unit?
+
+
+Answer:
+
+	There is a set screw located in a hole next to the XLR connector on the DC 5980P. With the GM gooseneck installed, rotate the set screw counter-clockwise until resistance is felt. The set screw requires the use of a 1.5 mm hex wrench.
+

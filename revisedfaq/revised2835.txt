@@ -1,0 +1,12 @@
+Title: Wiring for older dual impedance SM57
+Id: 2835
+Legacy Id: 2947
+
+Question:
+I have an SM57 Unidyne III mic with internal wiring that is different from the wiring shown in your on-line SM57 User Guide. In addition to the blue and red wires from the transformer secondary there is an orange wire that comes from an apparent tap on the secondary. What is the purpose of this wire and how should it be connected?
+
+
+Answer:
+
+	You have a very old SM57 that is dual low impedance.
+	Exchange the orange wire for the red wire and the output impedance drops to 38 ohms. The output level will also drop.  For use in the 21st century, there is no need to use the orange wire.

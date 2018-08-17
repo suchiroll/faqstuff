@@ -1,0 +1,12 @@
+Title: Will a battery inside a condenser mic cancel out the phantom power?
+Id: 1666
+Legacy Id: 1723
+
+Question:
+When a Shure portable mixer is used with the phantom power switch on - and you use a Shure phantom powered mike with its own self contained power system on. Do the cancel each other out.
+
+
+Answer:
+
+	Typically, the mic will be powered by the phantom and the battery will not be drained. If the phantom power is turned off, the mic will then power itself from the battery. With Shure mics, there is no problem if the battery is installed and phantom power is activated.
+

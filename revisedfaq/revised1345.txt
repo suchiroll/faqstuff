@@ -1,0 +1,12 @@
+Title: Difference between WL93 and WL184
+Id: 1345
+Legacy Id: 1397
+
+Question:
+Can you please tell me the difference between the WL184 lavalier microphone and the WL93 lavalier? I see that the only thing different between the UT14/93 system and the UT14/84 system is the microphone. Thanks.
+
+
+Answer:
+
+	The WL93 is omnidirectional; the WL184 is supercardioid.
+

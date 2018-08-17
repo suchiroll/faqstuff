@@ -1,0 +1,12 @@
+Title: SM63 length?
+Id: 601
+Legacy Id: 613
+
+Question:
+What is the length of the SM63 (standard size)?
+
+
+Answer:
+
+	The SM63 is 144.5mm (5-11/16) in length. This does not include the female XLR mic cable connector that would mate with the SM63 internal male XLR connector.
+

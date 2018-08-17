@@ -1,0 +1,14 @@
+Title: Shure EM28A microphone
+Id: 2400
+Legacy Id: 2492
+
+Question:
+Can you supply me with the specifications for the Shure EM28A controlled magnetic microphone? I can't seem to find any reference to it on your website.
+
+
+Answer:
+
+	The EM28A was made by Shure for GE. The EM28A has been discontinued for over 15 years. All historical records of the EM28A are with GE, at the request of GE.
+	
+	We can tell you that the EM28A was similar to the Shure model 450.
+

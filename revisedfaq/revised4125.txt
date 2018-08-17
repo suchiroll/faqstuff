@@ -1,0 +1,42 @@
+Title: Multiple Wireless Transmitters Assigned to a Single Receiver
+Id: 4125
+Legacy Id: 4962
+
+Question:
+I travel and perform with three instruments - acoustic guitar, mandolin, and electric guitar.During a show, I switch between instruments frequently.Is it possible to provision an individual wireless transmitter for each instrument, and still feed a single receiver?Is there a way to equalize the gain structure for each instrument so I can switch between instruments without adjusting the sound system volume?
+
+
+Answer:
+
+	Consider the ULXD digital wireless system for this application.The ULXD wireless system provides exceptionally transparent audio transmission.In addition, the ULXD features automatic audio gain ranging at the transmitter, which simplifies set-up and virtually eliminates any chance for overload distortion.
+
+	
+
+	Here are important notes regarding this method:
+
+	
+	1.Only one transmitter can be powered on at a time.Be sure to power down the transmitter for the retiring instrument before turning on the transmitter for the next instrument.
+
+	
+
+	2.It is not possible to use the ULXD encryption feature when three transmitters are programmed to the same receiver.Encryption binds one transmitter to one receiver preventing any other signals from being received.Be sure that encryption is disabled.
+
+	
+
+	3.The ULXD transmitters feature an OFFSET capability.The OFFSET value is normally set to 0.In this method, the three instruments will likely provide different audio signal level outputs.The OFFSET feature provides a method to customize the sensitivity of each transmitter so that each instrument will produce a similar volume level into the sound system.The OFFSET value should be set to 0 on the transmitter serving the instrument with the strongest output signal.For the other two instruments transmitters, set the OFFSET value to adjust the sensitivity of the transmitter upwards to match the first instrument.OFFSET values can be set from 0 to +21 dB, in 3 dB steps.
+
+	
+
+	4.The OFFSET value should be programmed individually into each of the transmitters.Since the three transmitters will likely have different OFFSET values, confirm the receiver is set to ignore the OFFSET values set in the transmitters during an infrared synchronization.To check the receiver settings, do the following:
+
+	
+		a) Press ENTER
+		b) Select TX SYNC SETUP
+		c) Select BP OFFSET
+		d) Verify that the BP OFFSET value is set to KEEP
+		e) If not set to KEEP, select KEEP as the value and press ENTER.
+		
+		
+		
+
+

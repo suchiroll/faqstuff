@@ -1,0 +1,13 @@
+Title: Beta 58MR - What is it?
+Id: 2215
+Legacy Id: 2291
+
+Question:
+Someone has offered to sell a Beta 58MR. I don't know of that model. Is there one? If so what is it compared to a Beta 58A?
+
+
+Answer:
+
+	It is the first version of the Beta 58. M for matte finish of the ball grille; R for recycleable outer box.
+	The prime difference is that the Beta 58MR did not have an output transformer; the Beta 58A does. The two models sound slightly different.
+

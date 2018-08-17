@@ -1,0 +1,35 @@
+Title: UR5 receiver does not display battery info from Axient transmitter
+Id: 4005
+Legacy Id: 4412
+
+Question:
+My UR5 receiver does not display battery information from an Axient transmitter. What could be the source of this problem?
+
+
+Answer:
+
+	Early versions of the UR5 receiver may not have the proper firmware to match the firmware of an Axient transmitter.In Axient Mode, the UR5 will not show the transmitter battery condition. The UR5 LCD screen will show TX ---, or HH:MM, or no bars for the battery life.Note that the UR5 will be compatible with the Axient RF signal and audio signal.
+
+	
+
+	Does this UR5 firmware issue affect use with a UHF-R transmitter?
+	No.
+	
+	Does this UR5 firmware issue affect the RF performance or audio performance?
+	No.
+	
+	Is there a method to update the firmware by in the field?
+	No. Contact Shure Service toupgrade the UR5 firmware.
+
+	
+
+	SUMMARY
+
+	ISSUE: original UR5 firmware is not compatible with Axient transmitters
+	UR5 FIRMWARE VERSION AFFECTED: 0.0.0.52
+	UR5 FIRMWARE VERSION NOT AFFECTED: 1.0.0.0, or later
+	WHAT HAPPENS: battery life of AXT transmitter is not displayed on UR5 LCD screen
+	CUSTOMERS EFFECTED: only those who purchased units with firmware version 0.0.0.52
+	HOW TO DETERMINE UR5 FIRMWARE VERSION: shown on the LCD when UR5 is powered on
+	RESOLUTION: UR5 firmware must be updated by Shure Service
+

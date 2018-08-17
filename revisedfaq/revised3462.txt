@@ -1,0 +1,18 @@
+Title: UHF-R X1 band best practices
+Id: 3462
+Legacy Id: 3656
+
+Question:
+What frequencies should I use for the X1 band of the UHF-R series?
+
+
+Answer:
+
+	The X1 band operates in the 944 - 952 MHz range.This range is primarily used by STL (Studio-Transmitter Link) transmissions between a radio station studio and the radio stations transmitting antenna.
+	
+	Set all of the X1 band systems to the same group and different channels within that group. The channels within a single group are preprogrammed to be compatible.
+	
+	If you are using the X1 band along with other frequency bands, use the Shure Wireless Workbench Software to perform frequency coordination calculations.
+	
+	To assist in choosing frequencies that are not being used by STL transmissions, you can use the scanning function of the receiveras described in the User Guide.
+

@@ -1,0 +1,15 @@
+Title: What is the proper set-up for using 8 UD4 systems?
+Id: 1010
+Legacy Id: 1039
+
+Question:
+I have 8 combo units. I am using the antenna combiner unit but I have heard mix info on the proper set-up for groups. Should all the units be set to the same group? Please advise
+
+
+Answer:
+
+	All units should be set to the same group. Do not use groups A1 or A2. Instructions are provided in the User Guide at the following link:
+	
+	User Guide:
+	http://www.shure.com/wireless/uhf/default.asp
+

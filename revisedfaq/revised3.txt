@@ -1,0 +1,18 @@
+Title: Internal wiring of the Beta 58 XLR connector
+Id: 3
+Legacy Id: 3
+
+Question:
+What is the correct internal wiring of the Beta 58 XLR connector?
+
+
+Answer:
+
+	The Beta 58 XLR connector should be wired as follows:
+	
+	Pin 1 -- Shield/Chassis
+	Pin 2 -- Green
+	Pin 3 -- Yellow
+	
+	The pin numbers are on the XLR connector.
+

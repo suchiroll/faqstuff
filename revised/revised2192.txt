@@ -1,0 +1,12 @@
+Title: What is a "nude" stylus?
+Id: 2192
+Legacy Id: 2268
+
+Question:
+Some of your user guides state that the needle has a "nude" stylus. What is this? What are other methods of construction?
+
+
+Answer:
+
+	Nude stylus refers to mounting a diamond stylus into a hole in the stylus shank rather than a bushing on the stylus shank. The hole method provides slightly less mass than the bushing method. Less stylus mass translates to slightly better transient response. The mounting method is a minor component of overall performance.
+

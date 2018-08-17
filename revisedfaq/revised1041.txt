@@ -1,0 +1,12 @@
+Title: Shure UT battery polarity protection
+Id: 1041
+Legacy Id: 1073
+
+Question:
+Can a Shure UT transmitter be damaged by inserting a battery the wrong way?
+
+
+Answer:
+
+	No, there is diode protection.
+

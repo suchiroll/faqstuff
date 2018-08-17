@@ -1,0 +1,11 @@
+Title: Crossover frequency of E5 earphones
+Id: 3122
+Legacy Id: 3256
+
+Question:
+What is the crossover frequency of the E5 earphones?
+
+Answer:
+
+	2.5 kHz
+

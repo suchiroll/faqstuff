@@ -1,0 +1,26 @@
+Title: Wireless for violin
+Id: 2727
+Legacy Id: 2832
+
+Question:
+I use a fishman V-100 (that I've been happy with for years). I want to go wireless, but the input to the violin on a v-100 is an 1/8 inch that ends up as a 1/4 inch. Are there wireless systems that are compatible with this?
+
+
+Answer:
+
+	Here is a link to read BEFORE you go wireless. This link applies to violin as well as guitar.
+	
+	Guitar or bass: Should I use wireless?
+	
+	If you still decide to try wireless, send us the following info about the Fishman
+	
+	1. Output impedance in ohms.
+	
+	2. Average and maximum output level in millivolts.
+	
+	3. Powering requirements, if any.
+	
+	4. Wiring scheme of the output connector.
+	
+	These four important specs will determine if the Fishman will work properly with a Shure transmitter.
+

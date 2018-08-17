@@ -1,0 +1,30 @@
+Title: Difference between a Line input and a Mic input?
+Id: 1970
+Legacy Id: 2033
+
+Question:
+1) What is the difference between a LINE input and a MIC input?
+
+2) What devices can be attached to each type?
+
+3) What are the positives and negatives of each input? ie. Distance?
+
+4) What are the positives and negatives of each device?
+
+
+Answer:
+
+	Here are brief answers:
+	
+	1) The voltage level of the signal. A line level signal is at least 50 dB greater than a mic level signal.
+	
+	2) Wired and wireless mics are typically connected to mic level inputs. Most other audio devices are line level.
+
+	3) Line level signals, being much stronger in level, can travel miles without degradation.
+	
+	4) What are the positives and negatives of each device? * What device? Mic level and line level refer to signal levels, not a type of device.
+	
+	Mic Level and Line Level -- What do they mean?
+
+	
+

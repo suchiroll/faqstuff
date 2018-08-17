@@ -1,0 +1,14 @@
+Title: Why was the SM98 discontinued?
+Id: 993
+Legacy Id: 1022
+
+Question:
+Please explain why the SM98 was discontinued, and is the Beta version as good, a better version of the old SM, or just a different design/application? Would there be any truth in assuming the SM was/is more suited to vocal application rather than the Beta?
+
+
+Answer:
+
+	The SM98 was discontinued because the mic element was difficult to manufacture. The Beta 98 employs a completely new mic element.
+	
+	The SM98 and Beta 98 were both designed for high-SPL instrument usage. The Beta 98 directly replaces the SM98. Many customers prefer the sound of the Beta 98 over the SM98. Neither model was more suited to vocal applications.
+

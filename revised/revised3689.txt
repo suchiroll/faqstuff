@@ -1,0 +1,18 @@
+Title: RK100PK Dimensions And Data
+Id: 3689
+Legacy Id: 3903
+
+Question:
+What are the dimensions of the RK100PK in-line preamp and general electronic specs?
+
+
+Answer:
+
+	Length: 4 inches
+	Diameter: 3/4 inch
+	Input: 4 pin male TA4M connector
+	Output: 3 pin male XLR connector
+	Color: black
+	Phantom Power Requirements:  12 to 48 Vdc
+	Gain from Input to Output: 12dB
+	Gain Modification: 0dB can be obtained by changing four surface mount resistors.  This modification is difficult and is recommended only for experienced electronic technicians. 

@@ -1,0 +1,18 @@
+Title: Where can I get BNC connector for RG8/U cable?
+Id: 113
+Legacy Id: 113
+
+Question:
+I am having a hard time finding BNC connectors that fit RG8/U or RG213 cable (Belden 9913). Who has these connectors?
+
+
+Answer:
+
+	Amphenol makes a BNC connectors that will fit RG8/U. Amphenol part number is 6775 and it is available from Digi-Key (800-344-4539) as part number ARF1155-ND.
+
+	Also, Pasternack (949-261-1920) sells 50 ohm BNC connectors that will fit any cable, including Belden 9913 (connector model #PE4386).
+
+	Kings Electronics (Tuckahoe, New York) offers the model KC-59-642-MO6 BNC connector for RG8/U cable.
+	
+	Times Microwave (Wallingford, Connecticut) offers the model TC400-BM BNC connector for RG8/U cable.
+

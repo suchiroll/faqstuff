@@ -1,0 +1,16 @@
+Title: Proper replacement for 8-10 year old Sony turntable?
+Id: 480
+Legacy Id: 490
+
+Question:
+I have a Sony Linear Tracking fully automatic Stereo Turntable, Model PS-LX510, Serial Number 807928.  It had a Radio Shack replacement that I would like to replace with a Shure.  It is the four pin type with one screw on the side.  What should I use and how to I get it?
+
+Answer:
+
+	It sounds like you might have a P-mount cartridge, but we cannot be certain unless we see your cartridge. If the cartridge plugs into the end of the tone arm and a single screw secures it, then it is likely a P-mount design.
+	
+	The Shure MP94E is a P-mount cartridge and will likely fit. We suggest you telephone one of these two hi-fi specialists to help you replace your Radio Shack product with a Shure:
+	
+	The Needle Doctor: 800-229-0644
+	Audio Supply: 800-541-2478
+

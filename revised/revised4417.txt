@@ -1,0 +1,12 @@
+Title: +5V Bias Current
+Id: 4417
+Legacy Id: 5514
+
+Question:
+How much current is supplied on the +5V bias on a Shure Bodypack Transmitter?
+
+
+Answer:
+
+	At +5V dc, less than 1 milliamp.A typical lapel mic draws only 100 to 200 microamps.
+

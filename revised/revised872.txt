@@ -1,0 +1,17 @@
+Title: Replacement cartridge for PE5EQ?
+Id: 872
+Legacy Id: 899
+
+Question:
+I have a PE5EQ that I'm pretty sure has a bad element.  I wonder if it would be cost effective to get a replacement cartridge?  Do you have them?  If not, can an alternative, such as an SM58 cartridge be used? Any help could be useful, I'd hate to throw the mic away because of a bad cartridge.
+
+Answer:
+
+	The PE5EQ used the R97 cartridge. This cartridge is no longer available. The SM58 element will not work.
+	
+	We suggest you return the PE5EQ to Shure Service. Perhaps they can substitute an available element once they have your mic for examination.
+	
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

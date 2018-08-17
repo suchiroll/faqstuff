@@ -1,0 +1,21 @@
+Title: Fabricate the UA101 from the A120S
+Id: 3211
+Legacy Id: 3359
+
+Question:
+I have a UC1 transmitter and already bought an A120S switch for it. How do I wire the A120S switch to plug into the 3.5 mm jack connector on the UC1 bodypack. In other words, I want to turn the A120S into a UA101. How does it need to be wired?
+
+Answer:
+
+	The UA101 is factory wired for audio Push-To-Mute as follows:
+	
+	
+	
+	Shorting the Ring to Sleeve of the 3.5mm T-R-S plug will mute the UC1 transmitter. This muting function occurs because the Tone Key Squelch signal inside the U1C transmitter is disabled.
+
+	Alternate Wiring #1: Unsolder the White wire from the lower right terminal. Resolder the White wire to the upper right terminal. The switch now operates as audio Push-To-Talk.
+
+	Alternate Wiring #2: Unsolder the White wire and the Red wire. Resolder the White wire to the lower left terminal. Resolder the Red wire to the lower right terminal. The switch now operates as audio Push-To-Mute and RF Mute/Unmute.
+
+	Alternate Wiring #3: Unsolder the White wire and the Red wire. Resolder the White wire to the lower left terminal. Resolder the Red wire to the upper right terminal. The switch now operates as audio Push-To-Talk and RF Unmute/Mute.
+

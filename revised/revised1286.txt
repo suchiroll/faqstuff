@@ -1,0 +1,18 @@
+Title: Mic element 99H86 for harmonica microphone
+Id: 1286
+Legacy Id: 1334
+
+Question:
+Kindly inform me where to find information of the Shure element 99H86 336. I've a custom built harmonica microphone with this element wich needs to be replaced. Are the still available on the market?
+
+
+Answer:
+
+	The 99H86 element was last manufactured in 1981. It is no longer available. It was a controlled magnetic element; 14,000 ohms impedance; output level of -54dBV at one microbar.
+	
+	This mic element was first manufactured in 1948 as the 99A86. It was used for communication grade microphones.
+	
+	In the current Shure line, the R198 element would be similar to the 99H86, but certainly not a perfect match in sound or size.
+	
+	We suggest you send an email to harmonica microphone expert, Tom Ellis.
+

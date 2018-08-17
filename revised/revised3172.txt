@@ -1,0 +1,25 @@
+Title: Antenna Distribution - 4 rooms, 8 antennas
+Id: 3172
+Legacy Id: 3311
+
+Question:
+I have 4 adjacent, independent rooms. How do I distribute antennas to cover four rooms? I need to have multiple wireless mics be able to roam anywhere in four different rooms.
+
+
+Answer:
+
+	For multiple room coverage, use passive combiners. Since they do not require power and are typically compact, they can be located wherever necessary. A passive combiner will typically result in at least 3 dB of loss, so be sure to include this figure when calculating cable loss. Multiple combiners can be used in series, if more than two locations need to be covered, so long as enough amplification is provided to make up for whatever additional losses are incurred.
+	
+	It is important to keep multiple antennas feeding a common receiver input as isolated from each other as possible in order to minimize potential phase cancellation that could result in signal dropout. Certain receiver designs will be better equipped to deal with this situation than others, but it is a worthwhile precaution nonetheless.
+	
+	The cables and amplifiers should be set up as described in the following link about remote antennas: Remote Antennas
+	
+	Click here for modifying UA221 to have DC on both legs.
+	
+	The following diagram is how 8 antennas can be used to cover 4 rooms. This diagram is used when 3 amplifiers are needed on each antenna side, due to long cable lengths.The Bias T can be from Shure as the model UABIAST-US.
+	
+
+	
+
+	
+

@@ -1,0 +1,12 @@
+Title: A15LA or another type of pad?
+Id: 2502
+Legacy Id: 2598
+
+Question:
+Can A15LA be used between VCR output (mono RCA connection) to Mic input on mixer(balanced XLR)?? Now using adaptor cable to connect but level too high.
+
+
+Answer:
+
+	Yes, but the actual amount of A15LA attenuation depends upon the output impedance of the VCR.
+

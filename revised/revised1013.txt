@@ -1,0 +1,12 @@
+Title: What is a U14D?
+Id: 1013
+Legacy Id: 1042
+
+Question:
+What is a U14D ? Is it a type of wireless not included in the list or is it a frequency of LX wireless systems.
+
+
+Answer:
+
+	U14D refers to a system that includes a U1 bodypack transmitter and a U4D receiver.
+

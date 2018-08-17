@@ -1,0 +1,16 @@
+Title: Type of mic element in KSM32, KSM27, KSM44
+Id: 2649
+Legacy Id: 2751
+
+Question:
+Is the KSM32 a true capacitor mike or an electret? Is it sealed from the factory with a built in charge or is it an externally polarized design? Does the mike have a limited life as do other electret or backplate designs?
+
+
+Answer:
+
+	The KSM32 is an electret design.
+	
+	The KSM44 and KSM27 are an external polarized design (true condenser).
+	
+	Well-designed electrets no longer have limited life spans like the original electrets from the 1970s.
+

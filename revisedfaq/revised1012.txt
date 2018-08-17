@@ -1,0 +1,14 @@
+Title: PS1A with Neumann TLM-170
+Id: 1012
+Legacy Id: 1041
+
+Question:
+Will the PS1A work with a Neumann TLM-170 microphone? Does the PS1A output +4dB?
+
+
+Answer:
+
+	The PS1A is a phantom supply and provides 20 volts of phantom power. Most Neumann mics require 48 volts. Check the Neumann specifications.
+	
+	The PS1A is not a microphone preamp. The PS1A output level will equal the input level from the microphone. If the Neumann provides a +4dB output, so will the PS1A...but this is very unlikely.
+

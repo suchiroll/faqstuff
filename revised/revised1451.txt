@@ -1,0 +1,13 @@
+Title: Beta 87 windscreens and wind noise
+Id: 1451
+Legacy Id: 1504
+
+Question:
+I sing a duo that uses Beta 87's for our vocal mics. We do a large number of gigs outside and have contended with a fair amount of wind noise that it picked up by our mics. I bought some inexpensive windscreens at the local music store which help somewhat. I see on your site that you have a windscreen specifically for the Beta 87 that is priced around $9.00---still inexpensive. Is this the most effective windscreen that I can buy for our Beta 87's. Are there any other techniques that we can use to reduce the amount of wind that is amplified through the speakers?
+
+
+Answer:
+
+	The effectiveness of a windscreen is directly related to its outer diameter: the bigger, the better. We doubt that the Shure windscreen will be more effective than the one you have (assuming it is the proper type of open cell foam). There is no larger windscreen available from Shure for the Beta 87.
+	
+	The Beta 87 is a condensor element, and condensor elements are more susceptible to wind noise than dynamic elements. As an experiment, try a Beta 58 at your next outdoor gig. It will likely be much better in the wind than the Beta 87.

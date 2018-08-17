@@ -1,0 +1,16 @@
+Title: Getting Started with a Home Recording Studio
+Id: 2227
+Legacy Id: 2305
+
+Question:
+I'm wanting to start doing some home recording. I have a minimal budget. What do you recommend? What do I need?
+
+
+Answer:
+
+	If on a budget, its best to start with a basic multitrack recorder and some decent microphones. Go online or to your local music store and price some cassette-based mini-studio 4-track tape recorders. For your first microphone, you cannot go wrong with the SM57 or SM58. If you can afford a little more, the SM27 is a great studio microphone for people on a budget.
+	
+	If your budget is larger, you could move to computer based recording for more flexibility. See the following link:
+	
+	Home Studio - Getting Started
+

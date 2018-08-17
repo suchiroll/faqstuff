@@ -1,0 +1,17 @@
+Title: T4V Receiver noise when transmitter is off
+Id: 1923
+Legacy Id: 1984
+
+Question:
+We are using the Presenter (T1 Body-Pack, WL93 lavalier, T4V Diversity Receiver) to mic the Pastor at our church. When Pastor Tom has his transmitter in the off position, we will occasionally get a high pitched, momentary noise through the receiver, almost like the receiver is getting a signal from a CB or radio or something. As long as his transmitter is on, we don't get the noise. Is there an adjustment we could make to the receiver, maybe to the squelch, that would correct this?
+
+The receiver frequency is 169.445 MHz
+
+
+Answer:
+
+	1. Try raising the squelch (turn clockwise)
+	
+	2. If raising the squelch doesn't help, then the only solution is turn down the audio channel on the mixer whenever the transmitter is off.
+	
+	The frequency of 169.445 lies in the upper end of the business band and there are many other wireless devices that use this same frequency area.

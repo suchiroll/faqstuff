@@ -1,0 +1,24 @@
+Title: Motiv Model Number Changes - June 2016
+Id: 4938
+Legacy Id: 6199
+
+Question:
+What are the new Motiv model numbers?
+
+
+Answer:
+
+	The Motiv external packaging has been updated.  The Motiv products have not changed. 
+	
+	As of June 1, 2016:
+	MV5-B-LTG is now MV5/A-B-LTG.
+	
+	MV5-LTG is now MV5/A-LTG.
+	
+	MV51 is now MV51/A.
+	
+	MV88 is now MV88/A.
+	
+	MVi-LTG is now MVi/A-LTG.
+	
+	MVL is now MVL/A.

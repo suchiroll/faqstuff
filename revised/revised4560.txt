@@ -1,0 +1,19 @@
+Title: SM31FH and SM35 - Do they use the same mic element?
+Id: 4560
+Legacy Id: 5685
+
+Question:
+I would like to know if there is a difference in mic capsule between the SM31FH and the SM35. I need a mic for vocals.
+
+Answer:
+
+	Yes, there is a difference. Here are the primary differences:
+	
+	SM35 has 9 dB less output level - not critical for singing because the mic is close to the mouth.
+	
+	SM35 has a tighter polar pattern.This means less feedback when use for live music.
+	
+	SM35 has a better bass response and a better high end response.It has better fidelity for music.
+	
+	Bottom line:SM35 should sound better for vocals.
+

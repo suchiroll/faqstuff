@@ -1,0 +1,12 @@
+Title: Beta 98 phantom voltage requirments
+Id: 1876
+Legacy Id: 1936
+
+Question:
+Will the Beta 98 run on less than 48 volts?
+
+
+Answer:
+
+	The Beta 98 will operate on 11 to 52 volts of phantom power.
+

@@ -1,0 +1,13 @@
+Title: Voice over for multimedia recording
+Id: 308
+Legacy Id: 315
+
+Question:
+I have a user who needs a microphone for recording voice narrations for multimedia productions to be distributed on CD-ROM and internet based training applications.  He currently uses a cheap microphone connected to a sound card.We would like to continue using the sound card for the input.  Could you suggest something that would be suitable in this situation?
+
+Answer:
+
+	1. To see how to connect a mic to a computer, Microphone connected to a computer sound card.
+	
+	2. To see which microphones we recommend for voice over, see our online Selection Guides
+

@@ -1,0 +1,16 @@
+Title: Antenna Protection in a Gym
+Id: 4594
+Legacy Id: 5750
+
+Question:
+I am installing wireless mic antennas in a gymnasium and what to protect them from basketballs and other student-launched projectiles. Guidance, please.
+
+
+Answer:
+
+	
+		Antennas may be installed inside of PVC piping purchased from a home improvement store. A mounting method will have to be improvised/fabricated based on the installation site.
+	
+		American Time, Dassel Minnesota USA, sell open-sided polycarbonate guards for clocks, exit signs, thermostats, and other devices placed in a gym. www.atsclock.com
+
+

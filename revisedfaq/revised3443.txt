@@ -1,0 +1,14 @@
+Title: RF test meter to find best antenna placement
+Id: 3443
+Legacy Id: 3635
+
+Question:
+We install quite a few ULX systems and would like to make our antenna location selection more objective.Is there a test piece you could recommend that would allow us to measure the signal strength at the receiver end of the coax?
+
+
+Answer:
+
+	http://www.lessemf.com/129.html
+	
+	Recommend that you contact the manufacturer before purchase.This test meter certainly looks appropriate, but Shure has not tested it.
+

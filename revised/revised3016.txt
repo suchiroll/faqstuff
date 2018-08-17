@@ -1,0 +1,18 @@
+Title: PGX Transmitter "Locked"
+Id: 3016
+Legacy Id: 3145
+
+Question:
+My PGX transmitter appears to be locked. What should I do?
+
+
+Answer:
+
+	A PGX transmitter has only one button; it does everything - power, mute, and lock.
+	
+	Press the switch for a 2 or 3 seconds and the transmitter turns on or off.
+	
+	A quick press mutes/unmutes.
+	
+	A press for about 5 seconds makes the LED flash and toggles the transmitter between lock and unlock.
+

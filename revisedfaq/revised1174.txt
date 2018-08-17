@@ -1,0 +1,32 @@
+Title: Using the M67 and M68
+Id: 1174
+Legacy Id: 1216
+
+Question:
+I use the M67 and M68 mic mixers for church musicals, choirs, etc. They're great! Hope you can help me get even better use from these vintage classics by answering a few questions:
+
+
+1. To "stack" the M67 and M68, do I patch the "Aux Hi Level Output" on the M68 to the "Mix Bus" input on the M67?
+
+
+2. To connect a phone plug cable to the "Line Out" posts on the M67, which wire (tip or ring) connects to which post (2 or 3)?
+
+
+3. On the M67, to use the "Mic4/Line" input as a LINE input jack, which wires (tip or ring) from a phone plug cable connect to which plugs (1,2 or 3) on the XLRF jack?
+
+
+4. How do I use the "Tone OSC" on the M67?
+
+
+Answer:
+
+	1. The Mix Bus on the M67 is at a much lower level than the Aux Hi Level Output on the M68. These should not be plugged together. A description is in the M67 Data Sheet. The only good way to connect these two mixers is to take the XLR mic out of one mixer into a normal XLR mic input of the next mixer.
+
+2. It doesn't matter. The phone system is a balanced line that contains the same audio information on both wires (out of phase).
+
+3. One wire goes to pin 2, one wire goes to pin 3. Pin 1 is not connected.
+
+4. Instructions are in the M67 Data Sheet at the following link:
+
+http://pubs.shure.com/view/guide/Model-M67/en-US.pdf
+

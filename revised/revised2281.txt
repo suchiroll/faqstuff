@@ -1,0 +1,14 @@
+Title: Replacement for N111HE stylus
+Id: 2281
+Legacy Id: 2363
+
+Question:
+I have a M111HE cartridge. The specified replacement stylus is a N111HE. These are no longer made. Can I use a N111E? Also, what would be a replacement cartridge?
+
+
+Answer:
+
+	Yes, the N111E (Elliptical) can be used in place of the N111HE (Hyper-Ellipitical).
+	
+	Replacement cartridge: M97xE
+

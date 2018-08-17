@@ -1,0 +1,24 @@
+Title: Two way wireless language translation system needed.
+Id: 2950
+Legacy Id: 3077
+
+Question:
+What i need is some kind of transmitter that will transmit speech and be able to receive the signals to some kind of earpiece. The earpieces must be wireless. It would be used in a church service to translate form english to spanish; and a second unit to from english to polish. There would be a translator speaking into a microphone. It would require two different frequecies. I would like
+
+to know if you have such a product and if you have one that would sending the signal through a radio frequency. For example a cd changer to a radio headunit in a vehicle. Since its only speech it should be suffiencient and I would think cost effective. A mono signal would be fine.
+
+
+Answer:
+
+	Shure does not make an appropriate system for your application.
+	
+	We suggest:
+	
+	DV Services
+	dvservices.com
+	202-537-1601
+	
+	CSI Conference Systems
+	www.conferencesystems.com
+	800-683-8400
+

@@ -1,0 +1,13 @@
+Title: BLX rechargeable batteries
+Id: 4443
+Legacy Id: 5543
+
+Question:
+I recently purchased a shure BLX4R system. What type of rechargeable batteries can I use with a BLX BETA58 mic?
+
+
+
+Answer:
+
+	Take a look at the following: Rechargeable AA Cells - Lithium Polymer
+

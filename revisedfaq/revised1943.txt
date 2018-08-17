@@ -1,0 +1,12 @@
+Title: SCM262 sensitivity of ducking
+Id: 1943
+Legacy Id: 2006
+
+Question:
+We are trying to make the ducking less sensitive when we have long runs of wire. The stray voltage is making the stereo 3 duck when jukebox is not playing. Is there a way to make it less sensitive?
+
+
+Answer:
+
+	Try balancing the output of the jukebox, sending a balanced signal to the SCM262, and then unbalancing the signal at the SCM262. A balanced signal will be much quieter and pick up less interference along the way. If you are interested in doing this, check out products from Radio Design Labs - the STA-1 is the product for this; one on either end of the long line.
+

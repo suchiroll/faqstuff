@@ -1,0 +1,20 @@
+Title: SM10A  Using Phantom Power to increase the output level
+Id: 2986
+Legacy Id: 3114
+
+Question:
+I have a Shure SM10A and I am having trouble with the signal. I am not getting a very hot signal to the mixer. Should i use phantom power with this mic? I have 2 other regular mics also when i play live and they have plenty of power. Is this just that the SM10A does not work in a live vocal?
+
+
+Answer:
+
+	I have a Shure SM10A and I am having trouble with the signal. I am not getting a very hot signal to the mixer
+	* Correct. The SM10A has a very low output level when compared to a larger dynamic mic, like the Shure SM58.
+	
+	Should i use phantom power with this mic?
+	* The SM10A does not require phantom power. This will have no effect.
+	
+	I have 2 other regular mics also when i play live and they have plenty of power. Is this just that the SM10A does not work in a live vocal.
+	* The SM10A must be placed VERY close to your mouth, no more than 1/2 inch away. Plus the input gain on your mixer must be increased to use the SM10A.
+	
+	*The SM10A has a very small magnet and thus its output level will be much less than an SM58 that has a much larger magnet.

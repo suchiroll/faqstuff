@@ -1,0 +1,18 @@
+Title: Differences between Beta 87A, Beta 87C, and SM87A
+Id: 917
+Legacy Id: 945
+
+Question:
+Could you, in layman's terms, explain the difference between the Beta 87A, Beta 87C, and the SM87A? The only thing I could figure was 87C was better for live performances with stage monitors because it doesn't pick up sounds directly behind it, and the SM87 needs phantom power. Could it be as simple as that?
+
+
+Answer:
+
+	For the differences between SM and Beta microphones, click on the following links:
+
+	Beta models vs. SM models
+
+	SM87A vs Beta 87A
+
+	Benefits of the Beta 87C over the 87A?
+

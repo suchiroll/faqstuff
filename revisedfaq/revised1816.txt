@@ -1,0 +1,12 @@
+Title: UHF and VHF compability
+Id: 1816
+Legacy Id: 1876
+
+Question:
+We currently have several wireless systems in the VHF range (170 - 200 MHZ). We want to get 3 or 4 additional wireless units for drama. Do the frequencies of UHF systems affect the VHF systems and visa versa.
+
+
+Answer:
+
+	As a general rule, the UHF and VHF systems are far enough apart in frequency so they will not have a problem with each other.
+

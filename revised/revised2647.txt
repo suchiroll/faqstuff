@@ -1,0 +1,13 @@
+Title: 48V phantom from PS1A?
+Id: 2647
+Legacy Id: 2749
+
+Question:
+Does the old PS1 power supply, not the PS1A, power a mic that requires 48 volts?
+
+
+Answer:
+
+	Neither will. The PS1 and the PS1A supply 20 volts of phantom. Shure does not sell a 48V phantom supply.
+	
+	Most Shure dealers will also carry 48V phantom power supplies made by other manufacturers.

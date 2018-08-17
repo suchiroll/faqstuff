@@ -1,0 +1,11 @@
+Title: How can I weatherproof coax connectors?
+Id: 2214
+Legacy Id: 2290
+
+Question:
+How can I weatherproof coax connectors when placing wireless antennas outside a building?
+
+
+Answer:
+
+	This procedure is used by installers of business two-way radio systems.1. Apply a small portion of silicone grease (not the spray lubricant) to the threads of the connectors. Do not get the grease on the center pin.2. Join the connectors.3. Using PVC tape, cover the connection with the tape extending 6 to 8 centimeters onto the coax cable, on both sides of the connections.4. Apply a mastic seal over the length of the tape and slightly beyond, onto the coax cable. Mastic seal is used in heating and air conditioning duct work.5. Starting for the lower end of the mastic seal and spiraling upward (the direction is important), wrap the Scotch brand 33 or 88 tape. Stop after the upper end of the mastic seal.6. At the upper end of the tape winding, cut (do not stretch-break) the tape.7. Now do this tape spiral again, but this time, from the top down.8. Repeat these reverse applications for a total of five layers.9. Clear coat the entire taped section with acrylic spray lacquer. Over-spray each end slightly.Cross Devices also offers a dieletric waterproofing filler. Shure has not tested it.10. Add a plastic wire tie (U-V resistant) at each end of the tape to prevent unwinding.

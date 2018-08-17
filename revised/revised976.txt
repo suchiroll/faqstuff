@@ -1,0 +1,14 @@
+Title: Two MX202 Mics in parallel
+Id: 976
+Legacy Id: 1005
+
+Question:
+I have a customer (a school) that has two of your MX202's suspended over a stage area in a gym. The installer of these mics connected the outputs of the two in-line preamps into one mic input on a Mackie 1402 mixer via a 2-XLR to 1-XLR "Y" cable adapter. I think the input impedance of the Mackie is 1.3K ohms. I have not heard the mics work but they complain of 'not enough' output. My experience says this is not the correct way of coupling two mics into one input. Is this arrangement OK? If so would the output be noticeably lower? If not would it cause any damage to the mics or preamps? I plan on splitting them up and using two mic inputs on the mixer.
+
+
+Answer:
+
+	When two mics are Y-ed together, there is a 6 dB drop in level. The complaint of not enough output could mean two different things. It could mean: (1) The customer has the gain control on the Mackie turned all the way up (completely clockwise) and there still is not enough level; OR (2) The customer cannot turn the gain control up any further because feedback occurs. If the customers complaint is (1), then running the microphones into separate channels will help, because there will be additional 6 dB of gain possible. If the customers complaint is (2), then running the microphones into separate channels will not help any.
+	
+	No damage will occur when using a Y adapter, but it is usually not recommended.
+

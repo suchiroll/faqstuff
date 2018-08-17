@@ -1,0 +1,12 @@
+Title: UA844US Maximum DC current
+Id: 3040
+Legacy Id: 3171
+
+Question:
+What is the maximum DC current that can be supplied by the UA844US via the rear panel DC coaxial connectors?
+
+
+Answer:
+
+	2.5 amps.
+

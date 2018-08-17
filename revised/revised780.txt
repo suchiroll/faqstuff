@@ -1,0 +1,17 @@
+Title: Microphone Repair
+Id: 780
+Legacy Id: 802
+
+Question:
+We have two Shure microphones in need of repair. They are Shure SM58 mikes. One of the mikes need to be resoldered and the other mike is missing power on buttons and on /mute buttons. 
+
+Could you be so kind to send information where I may have these mikes repaired.
+
+Thank you so much for your help in this matter.
+
+Answer:
+
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

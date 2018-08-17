@@ -1,0 +1,13 @@
+Title: A81WS storage
+Id: 3801
+Legacy Id: 4039
+
+Question:
+I recently purchased a pair of A81WS windscreens. Can I just put them in a ziplock and throw them in my gear bag, or do I have to worry about them getting smashed and keep them in a more rigid container to preserve the foams shape?
+
+
+Answer:
+
+	The A81ES will become mis-shapen, over time, if "squashed."  The foam structure is open-cell and this type is more susceptible to permanent shape distortion than closed-cell foam.  
+	
+	Our recommendation: do not squash/smash the A81WS during storage.

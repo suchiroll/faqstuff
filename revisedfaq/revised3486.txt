@@ -1,0 +1,14 @@
+Title: XLR connector that converts from male to female
+Id: 3486
+Legacy Id: 3684
+
+Question:
+Is there an XLR cable connector that converts from male to female? I want to fabricate a mic cable with a male/female XLR on both ends. It would be very useful!
+
+
+Answer:
+
+	In 2008, Neutrik introduced a unisex XLR connector, named the convertCON. Sliding the outer barrel forward provides a female XLR connector, and sliding the outer barrel backwards provides a male XLR connector. Very clever!
+
+	www.neutrik.com
+

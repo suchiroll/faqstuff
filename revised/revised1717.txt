@@ -1,0 +1,21 @@
+Title: Axcess wireless systems
+Id: 1717
+Legacy Id: 1776
+
+Question:
+I just bought a Shure Guitarist Wireless system.
+
+Receiver is a AXR3
+
+Transmiter is a AXB1G
+
+Frequency is a CE (182.200Mhz)
+Is there are similar product in the Shure line?
+
+
+
+
+Answer:
+
+	The Axcess system you purchased is a variation of the Shure T-Series wireless.
+

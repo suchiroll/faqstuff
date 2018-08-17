@@ -1,0 +1,11 @@
+Title: UAMS Accessory Mute Switch for Shure Handheld Transmitters
+Id: 3755
+Legacy Id: 3991
+
+Question:
+What is the Shure UAMS?
+
+
+Answer:
+
+	Introduced in August 2010 with a U.S. retail price of $209, the UAMS is an accessory Mute switch that may be added to any Shure wireless handheld transmitter with an interchangeable mic element.  UAMS = UHF Accessory Mute Switch.  The UAMS/BK has a black finish and the UAMS/SL has a champagne finish. To install the UAMS, unscrew the mic element from the top of the transmitter.  Screw on the UAMS to the top of the transmitter; then screw on the mic element to the top of the UAMS.  The UAMS adds 5/8" (11 mm) to the length of the transmitter.The mute switch on the UAMS is recessed and slides from left (mute) to right (un-mute). Visual markings on the UAMS indicate the mute position and un-mute position. When the switch is slid, this is a quiet acoustic "click", and the switch is detented for tactile confirmation that it has moved to the alternate position. The UAMS provides attenuation of 50 dB or greater. Its use does not affect battery life.

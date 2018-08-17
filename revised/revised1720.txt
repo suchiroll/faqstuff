@@ -1,0 +1,18 @@
+Title: SM91 preamp replacement
+Id: 1720
+Legacy Id: 1779
+
+Question:
+Is the pre-amp for the SM91 still available as a replacement part? If so, whats the #?
+
+
+Answer:
+
+	The original preamp assembly supplied with the SM91/SM98 was a small die-cast rectangular box with a 3-pin male mini connector on the microphone input side and a 3-pin male XLR connector on the audio output side. The box had a compartment for two 9-volt batteries, an on-off switch, and a low-cut switch. It could also operate on phantom power.
+	
+	The original preamp was replaced by the ILP-1 preamp assembly, which was a cylindrical module, again with a 3-pin male mini connector on the input end and a 3-pin male XLR connector on the output end. This preamp had no battery capability and could only operate with phantom power. It had a low-cut switch and a +10dB gain switch.
+	
+	The ILP-1 was also discontinued several years ago, and is no longer available from Shure Service. However, the preamp used with the Beta 91and Beta 98 will work with the original SM91/SM98 using the appropriate connecting cable. This current preamp is the model RPM626. It is a phantom-power-only device and has no control switches.
+	
+	The SM91/SM98 has a 3-pin male mini output connector and the Beta98/Beta91 preamp has a 4-pin male mini input connector. Thus the appropriate cable must have a 3-pin female mini connector on the microphone end and a 4-pin female mini connector on the preamp end. The C98D is a 15 foot long version of such a cable.
+

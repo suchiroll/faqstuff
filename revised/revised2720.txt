@@ -1,0 +1,17 @@
+Title: Stylus for DC40
+Id: 2720
+Legacy Id: 2824
+
+Question:
+Can I still get stylus for DC40?
+
+
+Answer:
+
+	The replacement stylus was the model SS40. The SS40 was a spherical tip that tracked at 2.5 to 3.5 grams.
+	
+	Shure no longer has inventory of the SS40.
+	Try this vendor as it stocks many discontinued styli: http://garage-a-records.com
+	
+	Or you may replace the DC40 with the Shure M35X cartridge, a current model that has similar specs to the DC40. It may be purchased from: http://music1online.com/phoncar.html
+

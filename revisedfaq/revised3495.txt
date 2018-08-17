@@ -1,0 +1,24 @@
+Title: Longer Link Cable for the SCM810, SCM800, SCM410, or FP410
+Id: 3495
+Legacy Id: 3694
+
+Question:
+Where can I purchase a longer link cable for my SCM mixers?
+
+
+Answer:
+
+	The SCM link cable has an 8 pin, mini DIN male connector on each end. The cable is wired straight through, i.e., pin 1 to pin 1, pin 2 to pin 2, etc. Note that the audio connections between the mixers are unbalanced and medium impedance, so the link cable must be kept are short as possible to minimize hum/buzz.
+
+	
+
+	Here is a source: http://www.l-com.com/productFamily.aspx?id=839
+
+	L-Com, Inc.
+
+	45 Beechwood Drive
+
+	North Andover, MA 01845 USA
+
+	Phone:800-341-5266
+

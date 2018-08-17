@@ -1,0 +1,79 @@
+Title: Outdoor Sound Systems for Performance
+Id: 5380
+Legacy Id: 5444
+
+Question:
+Outdoor Sound Systems for Performance
+
+Answer:
+
+	Taking it to the Streets (the Backyard, Neighborhood Festival) or any Other Outdoor Event
+	Author: Dean Giavaras, Manager  Shure Performance Listening Center  S.N. Shure Theater (and Horn Player)
+	
+	Get the Details
+	Playing in the parking lot is a lot different than playing in the club. For one thing, theres the PA (and power) to consider. Community event organizers arent as sophisticated as club owners and if theyre doing this for the first time, they may think that every band comes with its own system. In addition to nailing down the basics  load-in, performance and load-out schedules  there are other considerations that make outdoor gigs a little more complicated.
+	
+	On what surface will the band perform? A stage? The grass? Concrete?
+	How large is the performance space or stage?
+	If its a nighttime gig, who is providing the lights?
+	Will the band be under any kind of protective structure or canopy?
+	Where is the mixing board position? Will it be protected in any way?
+	Is there a site plan showing the performance area, mix position, audience coverage area and vehicle access?
+	Whats the plan for inclement weather? (Wind, rain and even heat)
+	Will a safe power supply be provided?
+	Will cover be provided for all equipment positions?
+	Are there any limitations on cabling?
+	
+	Next, the equipment. Even if youre not a touring band accustomed to dealing with riders, its still important to list the onstage requirements, especially if you sense that the organizer is unfamiliar with the terrain and is booking multiple acts for the same event. And if youre the coordinator, letting performers know what you will provide tells them what they need to bring and may avoid same-day meltdowns. Chances are if youre playing at a block party, youre also providing the PA, the mics, the mixer, the cables and the sound crew.
+	
+	Plan and Prepare
+	Now that you know what the organizers are providing, you can start assembling your own ready-to-roll rig  cables, mics, monitors and main speakers. At Shures summer Eat to the Beat events, where Shure associates provide musical entertainment, its not uncommon for the hour-long show to feature four completely different ensembles  anything from a singer with an acoustic guitar to a 17-piece funk band. With no time for sound checks (the outdoor concerts are held during workday lunch hours) and a wide variety of genres and instruments, flexibility is key, according to Dean:
+	
+	Our usual rig is Meyer UPA-2P compact loudspeaker with USW-1P subwoofers  basically speaker-on-a-stick gear and a 16-channel Mackie Onyx 1640i mixing console we chose because it has an integrated firewire interface that allows us to multi-track the show. The equipment choices were relative to the budget we had and the technology that existed when we purchased this gear three years ago. There are a handful of other Mackie products that were using as stage monitors. Were doing four mixes of monitors with two Mackie SRM 450s and two Mackie Thump TLA15A. Its an easy, convenient package.
+	
+	
+	We use Shures ULX-D wireless mic system. We had 8 channels in the rack but this year we trimmed it down to four channels of wireless. So those are my primary vocal mics. They provide the flexibility of being able to work quickly anywhere.
+	
+	For the drum set, its a Beta 91A kick drum, just an SM57 on the snare, either a Beta 98 AMPs or Beta 181s for the toms and actually, weve done it a few different ways. For the overheads, we use either a Beta 181 or a KSM137. Weve taken to using Beta 27s for our guitar cabinet mics they sound really nice on guitars and then well sprinkle in some SM57s for other auxiliary things. The horn set-up for that big band included some SM57s and some KSM32s. Typically, there are one or two direct inputs for keyboards, bass guitar, etc. We have some Radial direct boxes and some Whirlwind direct boxes. There isnt much time between bands so we try to make one input list that will work for everyone.
+	
+	We are limited to 16 inputs because for a smaller outdoor gig like this one, doing whats adequate and not going berserk is important. So we write a 16-input list based on what we know about each band. It turns out to be standard kind of stuff  kick, snare, a couple of toms, an overhead, one bass input unless theres some specific reason why we need two, three electric guitar inputs, an acoustic guitar input, one or two keyboard inputs and four ULX-D vocal mics  and those can also be used as horn or percussion mics.
+	
+	
+	Keep it Simple
+	Lets say youre limited to a mixer with 16 inputs. With a little experimentation, you may find workarounds like the ones that Dean describes here: Our keyboard setup generally requires one mono input for something like a Yamaha electric piano and then the second one if someone wants to add a synthesizer.
+	
+	In a recent performance, one of the other bands had a Nord synthesizer played through a Leslie-style cabinet. A typical miking set-up for a Leslie is two mics (sometimes in a X-Y stereo arrangement) for the high frequency rotor at the top and another low frequency on the bottom for a nice stereo image. I only had one input available when I wanted to capture the highs and lows separately, so I used a Y cable. I put a Beta 181C on the top and a Beta 181C on the bottom in a mic Y so I ended up with one input channel that did double duty and still left me with an input for the electric piano. When it was time for that band, we unplugged it from the synth DI and plugged it back into that mic Y cable which was preset with two mics on the Leslie. It sounded great, worked out fine.
+	
+	In a situation where youre using a Y cable, you have to remember what youre giving up  which is individual control of gain, cue and everything else. But where there are two very similar sound sources like a little string section with six violins and an insufficient number of inputs, you can put six clip-on mics on them and Y them together  2, 2 and 2, using just three inputs. It can work with horns and toms, too.
+	
+	This is the kind of advance planning you need to think about when multiple bands are going to appear on the same stage without much time between them. These are good cheats and they can work. Ive even deployed a three-fer  a Z cable  to actually combine three sound sources. But you can run into impedance issues and other problems that will degrade the quality of the audio eventually. You want to think hard when youre doing that.
+	
+	
+	
+	
+	Consider the Acoustics
+	If you are performing in an open area, you wont have much in the way of ceilings, floors, walls and other structures to create a reverberant field. Indoors, sound waves bounce off these surfaces, with decaying reflections that give each room its own unique acoustical signature. The field tends to reinforce low frequencies, causing the sound to seem louder. In an outdoor setting, this wont be the case. Dean doesnt think this is necessarily undesirable: Youre as close as youre ever going to be to free field with no audio reflection and that can really be the best situation for getting a nice wave front from a speaker system.
+	
+	In addition to four-lane traffic noise from Touhy Avenue and a railroad crossing less than 50 away, Shures glass-enclosed headquarters make Eat to the Beat a challenge. The space where Eat to the Beat takes place is pretty awkward. It was never designed for musical performances, obviously. Theres glass on three sides and the space narrows.
+	
+	Speakers: We try be aware of the directional patterns of the speakers, especially in terms of high frequencies. Ours have 60-degree conical horns, which gives us narrower throw and helps keep the high frequencies off of the glass structures.
+	
+	We dont need a delay fill since our audience is generally about 200 people  and the space isnt that large to begin with. Doing a delayed system is definitely desirable in some cases, but it requires additional setup time; time to tune the system.
+	
+	Monitors: One of the things that can affect outdoor gigs is the importance of understanding a tent roof and what it does to sound onstage. Its a big deal. Most tent roofs are made out of plastic-type sheeting and since they are fairly low, they can be really reflective audio-wise. Often, the stage monitors are pointing toward the ceiling and not only does it create a build of acoustic energy under the tent, but it makes the monitors feedback and can also color the sound making it muddy or weird sounding.
+	
+	You have to be aware of this factor and try to place the mics accordingly  aim them away from the tent roof and try to EQ carefully when youre setting up the monitors. Finally, definitely try to keep the stage volume under control when youre under a tent roof.
+	
+	
+	
+	Predict the Unpredictable
+	If the band, the rig and the mixing board are not in a protected area, there is weather to consider: rain, wind and heat. Minimally, this includes wind screens for the mics, plastic tarps or sheets of Visqueen for equipment, cable ties, bungee cords and cable covers in addition to creature comforts like sunscreen, bottled water, extra shoes and socks, a change of clothing, hand wipes and the kind of inexpensive folding camp chairs that are available for under $10. Remember, too, that equipment sitting in the hot sun can overheat.
+	
+	Dean agrees: Temperature and humidity can wreak havoc on the system, especially as things can change over the course of a long event. Usually youre setting up in the heat of the day and when the temperature changes in the evening, you need to be aware that you may need to adjust system tuning to compensate. Wind is a factor  not just the wind blowing things around or the wind noise in the mics, but the effect of the wind on the gradient sound. If the stage has a line array or a flown speaker system, that stuff is going to move if its windy. Even a moderate breeze can move a PA that has been precisely aimed. You may need to use different techniques to keep gear in place and tie them down  bungee cords, cable ties, or trick line.
+	
+	Another issue is the power source. Outdoor building power requires GFI outlets. Generators are more common  but its critical for it to be properly grounded. There needs to be a ground rod, AND it needs to be attached to the generator; AND pounded into the ground. Always check the power before the show starts, even if youre using AC power. And if youre using a generator, all kinds of weird things can happen so make sure that you meter it.
+	
+	The other safety concern is water. You need to separate the water and the power any way you can. Equipment and water is another problem. You might even want to consider bagging the main power connections or having garbage bags available to cover any AC quad boxes or power strips because you can still have a show in a light drizzle. If there isnt lightning or a lot of wind and your AC is bagged to keep the water out, you wont have to cancel if there are just a few drops of rain.
+	
+	Oh, one other thing. If youre using charts or sheet music, you might want to secure it to the music stands. At one Shure Eat to the Beat performance, a sudden gust of wind picked up and sent papers flying in a bit of unexpected theater. Undaunted, the band played on.
+

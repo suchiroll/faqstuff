@@ -1,0 +1,18 @@
+Title: Telephone Dialer and MXW Microflex Wireless
+Id: 4385
+Legacy Id: 5477
+
+Question:
+I am wondering if the Shure Microflex systems can be connected to a Polycom VTX1000 for dialing into conference calls
+
+
+Answer:
+
+	The Polycomm VTX1000 is a table top conference set, with an optional set of two extension microphones. It includes an interface box/cable hub that features an auxiliary audio input. Per the Polycomm manuals, this can be used for an additional microphone.
+	
+	The MicroFlex wireless microphone system provides up to 32 discrete microphone channels for conference/meeting rooms. By specifying the MicroFlex wireless system, it is implied that some quantity of microphones are being considered. The basic output of the MicroFlex wireless system is a discrete analog channel per microphone. In order for this to work, at least minimally, with the VTX1000, some sort of automixing is required. To meet this criteria, the MicroFlex system will need to be configured using a Shure SCM820 digital automixer, which will provide a single output to connect to the auxiliary audio input on the interface module of the VTX1000.
+	
+	It is not clear how well the acoustic echo canceller in the VTX1000 will function with multiple wireless conference microphones connected to it. Results may vary depending on a number of factors.
+	
+	A far better solution would be to use the Shure MicroFlex wireless conference microphone system with a DSP based conference processor. Several vendors manufacture suitable products including Biamp, ClearOne, Polycomm, Symetrix, BSS, and possibly others. These products offer per channel acoustic echo cancellation as well as other features such as automixing. The conferencing experience with one of these products will be superior to the VTX1000.
+

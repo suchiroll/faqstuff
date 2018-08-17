@@ -1,0 +1,12 @@
+Title: SC2 Current Draw - Battery consumption
+Id: 2596
+Legacy Id: 2697
+
+Question:
+I looked in the specs provided for the SC series systems and all I can find is a rating of 9 volts needed for the use of the SC2 mics. However I was hoping to find the current used in mA, so that I may be able to equate the cost effectiveness of akaline, Lithium, and Ni-MH batteries.
+
+
+Answer:
+
+	FYI - The SC series was discontinued in June 2002. The current draw for a SC transmitter is around 80 mA.
+

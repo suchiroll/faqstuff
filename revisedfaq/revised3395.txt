@@ -1,0 +1,34 @@
+Title: MX396 Cable Description
+Id: 3395
+Legacy Id: 3584
+
+Question:
+Please provide a description of the MX396 cable. I need to locate a cable that can be used to extend the factory supplied cable.
+
+
+Answer:
+
+	The cable supplied with the MX396 is custom manufactured for Shure and is supplied to Shure in pre-cut lengths. (Sorry, it is not available in longer lengths.) To assist in finding a commerical alternative, here are technical details:
+	
+	The outer diameter is 5 mm. The outer jacket is a flexible plastic. Each stranded inner conductor is 28 gauge.
+	
+	Surrounding all of the inner conductors is a spiral shield; the function is:
+	Ground for the three balanced mic circuits.
+	
+	Within the spiral shield is a foil shield.
+	
+	Within the foil shield, are six wires, twisted in pairs; the functions are:
+	White - Mic 1 audio +
+	Green - Mic 1 audio -
+	Orange - Mic 2 Audio +
+	Blue - Mic 2 Audio -
+	Yellow - Mic 3 Audio + (Tri model)
+	Gray - Mic 3 Audio 1 (Tri Model)
+	
+	Contained with the foil shield is a smaller foil shield. Inthat smaller foil shield are three wires; the functions are:
+	Red - Switch out TTL
+	Black - LED in control TTL
+	Silver (drain wire; no outer jacket) - Logic ground TTL
+	
+	An alternativecommerical cableis available from Gepco, Mogami, Belden, Liberty Wire, and Horizon. These companies offer multi-pair analog audiosnakecable. One such cable features 24 gauge wire; each twisted pair has an individual shield. The four pair cable will work for most situations. Check with the cable manufacturer for detailed specifications about your installation and if their cable is suitable for your requirements.
+

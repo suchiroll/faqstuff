@@ -1,0 +1,15 @@
+Title: Frequency response of Shure earphones
+Id: 2725
+Legacy Id: 2830
+
+Question:
+I am extremely interested in your new in-ear headphones/monitors, however, the frequency responses are not posted. 
+
+Answer:
+
+	The frequency response of ANY earpiece that seals in the ear is a direct function of the ears internal shape and the acoustic seal in the ear. This varies from person to person, and the variation is considerable.
+	
+	As we cannot guarantee a frequency response because of these variables, we choose not to publish a frequency response. It would not reflect the real world application of this type of earphone.
+	
+	Our advice: find a Shure dealer with units to audition.
+

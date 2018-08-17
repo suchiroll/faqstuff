@@ -1,0 +1,21 @@
+Title: SM78: I Need to resolder the male connector to the capsule wires
+Id: 1975
+Legacy Id: 2038
+
+Question:
+---- 11/07/2001 02:13 AM ---------------------------------------------
+
+The microphone is an SM78
+
+
+I Need to resolder the male connector to the capsule wires. What wires go to which pins??? Wire colors: Green - Yellow - Blue
+
+
+The set screw loosened, and when the cable was removed the mic's connector was pulled apart from the wires.
+
+
+Thanks in advance for your assistance...
+
+
+Answer:
+The wiring diagram can be found in the Data Sheet at:http://pubs.shure.com/guide/SM78/en-US

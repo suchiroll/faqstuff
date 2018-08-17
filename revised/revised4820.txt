@@ -1,0 +1,59 @@
+Title: KSM8 Overview, Benefits, and Technical Details
+Id: 4820
+Legacy Id: 6006
+
+Question:
+Please provide an overview of the KSM8 and its performance in comparison to the Unidyne III (SM58, SM57, 565, 545.)
+
+
+
+Answer:
+
+	The KSM8 Dualdyne microphone is an evolutionary change in dynamic microphone design - a new electro-acoustic tool that solves unique technical issues of high-end sound reinforcement systems and operation.
+	
+	Compared to the Unidyne III, the KSM8 offers:
+	-Minimized proximity effect - provides a bigger sweet spot and increased working distance
+	-Neutral frequency response - requires minimal equalization/signal processing
+	-Improved uniformity of the cardioid pattern - produces uncolored/natural off-axis response
+	-Dent resistant grille
+	-Reduced audible popping from plosives
+	-Improved moisture resistance
+	-Increased output level - from redesigned magnetic structure
+	-Pumping pneumatic shock mount - reduces handling noise
+	
+	Lets examine each KSM8 advancement:
+	
+	Minimized Proximity Effect / Greater Working Distance: As a singer gets closer to a unidirectional microphone, bass frequencies intensify at a faster rate than the higher frequencies.This bass increase is called proximity effect because it occurs when the singer is very near, or proximate, to the mic.Proximity effect can add warmth to the singers sound, but it can also cause muddiness by degrading the intelligibility of the singers voice.Proximity effect is a side effect of making a microphone unidirectional.
+	
+	Because of proximity effect, a singer must learn the sweet spot of a microphone.The sweet spot is the mouth-to-mic distance where the bass increase from proximity effect is just right, not so much as to sound muddy, and not too little as to sound thin.Many unidirectional microphones have a restricted sweet spot and this limits how the singer works the mic.Working a mic is the movement of the microphone toward the mouth or away from the mouth so as to modulate the intensity of the singers projected voice.
+	
+	Singing artists and sound engineers often desire a microphone with an increased working distance, that is, a microphone that can be used at varying distances from the mouth without distracting changes in the tonal balance.The KSM8 provides this desirable increase in working distance by minimizing proximity effect. The precise Dualdyne mechanics of how proximity effect is minimized is complex and beyond the scope of this document. In simple terms, the rear diaphragm is acoustically transparent to upper frequencies but blocks lower frequencies from reaching the backside of the front diaphragm. This deceives the front diaphragm into acting like an omnidirectional element - which has no proximity effect.However, this rear diaphragm subterfuge does not affect the actual cardioid polar pattern of the mic.So the KSM8 provides the gain-before-feedback performance of a cardioid mic while suppressing proximity effect like an omnidirectional microphone. Neat trick, eh?
+	
+	Neutral Frequency Response: The presence peak in the Unidyne III is a high frequency boost in the range of 3 kHz to 8 kHz.This adds a brightness to the sound quality that many find pleasing.But there is another reason for this presence peak; it tends to offset the substantial bass boost from proximity effect found in the Unidyne III.Since the KSM8 has less proximity effect, a significant presence peak is not required.This will appeal to artists and sound engineers who prefer a sound that is more neutral less bright.The minimized presence peak provides a perceived increase in bass response when the artist is farther away from the KSM8 and also reduces acoustic feedback issues in the 3 kHz to 8 kHz frequency band.
+	
+	Uniform Cardioid Polar Pattern: The KSM8 has a more consistent [uniform] cardioid polar pattern than the Unidyne III.The heart shape pattern of the KSM8 remains nearly the same at 250 Hz, 500 Hz, 1 kHz, 2.5 kHz, and 9 kHz.Only at 6.5 kHz does the pattern transform to a shape similar to a supercardioid. This uniformity of the KSM8 cardioid pattern offers better gain-before-feedback when used for sound reinforcement.It also improves the vocal clarity heard in stage monitors and in-ear monitors.
+	
+	Dent Resistant Grille: The KSM8 grille is fabricated from hardened carbon steel.Hardening carbon steel causes the molecular structure to crystallize, similar to the way coal changes to diamond under the heat and pressure within the earth.The KSM8 grille is virtually immune to the rough handling and physical abuse which occur daily in a professional setting.
+	
+	Reduced Plosives: Commonly called P-popping, a plosive is a blast of air when certain letters are pronounced; P, B, and T are the worst culprits. Try it yourself.With fingers point upward, place your palm three inches in front of your mouth, and say: Bob. Peter. Tom.Feel the blast of air? That is a plosive. When a plosive combines with the proximity effect of a unidirectional microphone, the result is an ugly audible pop.As the KSM8 has substantially less proximity effect, the end result is reduced P-popping.The improvement is a 6 dB reduction (at 100 Hz) compared to the Unidyne III.
+	
+	Improved Moisture Resistance:The KSM8 grill is lined with water-resistant, hydrophobic fabric that also reduces wind noise and plosives.In addition, the passive rear diaphragm prevents water from reaching the internal acoustic chambers.Though the KSM8 is not water-proof, it is extremely resistant to damage from condensation, precipitation, and other forms of invasive moisture.
+	
+	Increased Output Level: The KSM8 has a new magnetic circuit design.Compared to the Unidyne III, the KSM8 Dualdyne output signal is 3 dB greater, providing an improved signal-to-noise ratio.
+	
+	Pneumatic Shock Mount: The shock mount concept from the Unidyne III has been improved to keep handling noise to a minimum. The KSM8 diaphragm remains nearly motionless no matter the direction of the physical vibration - up, down, left, or right.
+	
+	Note well that the KSM8 is not a replacement for the SM58 or the Beta 58A. The KSM8 is a new microphone choice for high-end touring sound reinforcement professionals.So, where might the KSM8 not be the best choice?
+	
+	1)A venue where the monitor engineer requires maximum stage volume from floor monitors. The Beta 58A or KSM9HS (set to hyper-cardioid) may be more appropriate because of the tighter polar pattern.
+	
+	2)A venue that hosts artists with inadvisable mic technique, like cupping the grille of the mic. The KSM9HS (set to hyper-cardioid) may be more appropriate as it is tolerates a wide variety of microphone techniques.
+	
+	3)A small/medium sized venue where gain-before-feedback is a challenge. Or a venue that hosts new artists every night and requires the most versatile model of microphone. Such a venue may be better off with the SM58 or Beta 58A.
+	
+	4)An artist or sound engineer who prefers the sound quality of the SM58 or Beta 58A.It is not unusual for artists to have honed their signature sound with a specific model; thus there is no motivation/need for a microphone change.
+	
+	In 1959, the Unidyne III brought revolutionary features to the sound reinforcement market.In 2016, the innovative KSM8 does the same with its leading-edge advancements.When employed to solve the specific issues of high-end touring sound, the KSM8 provides outstanding performance.
+	
+	For additional information, please refer to the technical paper below. It is a PDF file.
+

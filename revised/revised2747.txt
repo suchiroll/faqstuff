@@ -1,0 +1,25 @@
+Title: Phono cartridge body - troubleshooting
+Id: 2747
+Legacy Id: 2853
+
+Question:
+I have installed one of your phono cartridges, the M44-7. It worked great at first, but now I only get my right channel. I have replaced the wires from the cartridge to the tone arm. I have checked to make sure each wire is connected to the correct one. I don't know what else to do, besides replace the stylus, which I've only used 3 or 4 times. What else can I try?
+
+
+Answer:
+
+	1) The stylus would not cause this type of failure.
+	
+	2) Using an ohmmeter, check the output pins of the M44-7 cartridge. Disconnect the tonearm wires from the cartridge.
+	
+	3) Check from L to LG. The ohmmeter should read between 100 ohms and 1,500 ohms.
+	
+	4) Do the same from R to RG. The result should be the same.
+	
+	5) Check from L to R. The results should be an open circuit (infinite resistance.)
+	
+	6) Check from LG to RG. The results should be around zero to 5 ohms.
+	
+	*If any of your measurements do not match the above, the M44-7 cartridge body is defective. In that case, Shure Service will replace it. Or you can ask the Shure dealer to replace it.
+	
+	* If all the readings above match yours, the problem lies after the cartridge.

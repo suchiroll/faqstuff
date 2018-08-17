@@ -1,0 +1,21 @@
+Title: Will the Shure UA874 or UA870 antenna work if DC power is not supplied?
+Id: 3872
+Legacy Id: 4115
+
+Question:
+Will the Shure UA874 or UA870 antenna work if DC power is not supplied to the antenna?
+
+
+Answer:
+
+	An unpowered UA874 (or UA870) antenna is essentially an inoperative device.
+	
+	The UA874 Log Periodic Directional Antenna (LPDA) is designed to receive wireless microphone RF signals.  It is a directional wideband antenna and an integrated RF amplifier that covers the U.S. UHF-TV broadcast band (470-698 MHz).  The amplifier boosts the RF signal from the antenna to overcome signal loss in the coaxial cable that connects the antenna to the wireless receiver.
+	
+	In order for the UA874 antenna product to operate, the integrated RF amplifier must be powered over the connecting coaxial cable.  The DC bias voltage required for operation is 12 Volts.  The antenna bias is typically provided by an RF distribution unit (e.g., Shure UA844, UA845), a wireless receiver (e.g, UR4, ULXD4), or a separate Bias-TEE device that injects DC voltage into the antenna coaxial cable (UABIAST-US.)
+	
+	Do not be mislead by the marking "active" or "passive" on the antenna.  These markings merely indicate if gain is being added or not.  12Vdc bias is required at all times.
+	
+	If the UA874 antenna's RF amplifier is not powered, the antenna will not operate satisfactorily.  The signal loss through the unpowered RF amplifier is approximately 20 - 25 dB, depending on frequency.  If one also considers the expected forward RF gain of the antenna amplifier at the highest dB setting, the total signal reduction is approximately 30 - 35 dB.
+	
+	Directional antennas that do not require DC power are available from Shure.

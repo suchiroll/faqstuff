@@ -1,0 +1,17 @@
+Title: KSM8 noise if shaken intensely
+Id: 4812
+Legacy Id: 5998
+
+Question:
+A service technician shook the KSM8 violently, like he was hammering a nail. He heard an odd noise. Comments?
+
+
+Answer:
+
+	The innovative Dualdyne cartridge design of the KSM8 offers unprecedented performancefrom a dynamic microphone. The KSM8 is extremely durable, utilizing laser and ultrasonic welding processes combined with new plastic and machined metal components.
+	
+	The KSM8 Dualdyne element, along with the pneumatic shock mount, operate within a sealed acoustic system; the passive rear diaphragm seals the side entry ports - typically vented to the outside air.Multiple leaks are incorporated into the sealed design to accommodate changes inbarometric pressure the microphone may encounter.
+	
+	If the KSM8 is vigorously shaken (axis dependent), the barometric leaks may not vent fast enough. This can result in a pop or click from the KSM8 during a techniciantest.Though this may be a typical test to ensure all is secure within a mic, it isnearly impossible to replicate this during performance due to the intense shaking required.If a noise or click is heard, note thatthere willbeno permanent damage and no change to the KSM8 performance.
+	
+

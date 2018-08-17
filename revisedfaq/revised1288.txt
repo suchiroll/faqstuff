@@ -1,0 +1,18 @@
+Title: How do I connect a WL93 to the U1L?
+Id: 1288
+Legacy Id: 1336
+
+Question:
+How should a WL93 be connected to a Lemo for a U1 with the Lemo connector??
+
+
+Answer:
+
+	Black wire - Pin 1
+	Red wire - Pin 2
+	Shield - Pin 4
+	
+	The pin out for the Lemo connector can be found on page 4 of the User Guide Supplement for the UHF Series. You can find the User Guide Supplement at the following link:
+	
+	Specs on Shure UHF wireless
+

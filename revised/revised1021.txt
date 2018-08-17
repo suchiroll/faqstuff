@@ -1,0 +1,23 @@
+Title: How do I connect my in the ear monitors?
+Id: 1021
+Legacy Id: 1051
+
+Question:
+Overview: My pastor uses a BETA 58A wireless and a wireless lavalier in combination (I've tried to convince him to use one or the other). He likes the volume so loud that I'm having problems with feedback, clipping and congregation complaints. He has agreed to  wear an in-ear monitor.  His microphones are connected through a Mackie 48 Mixer into audio and video recorders. I want his mix to remain the same, the only change I need is for him to hear himself through the in-ear monitors.  
+
+Can both microphones (BETA 58A & Lavalier) be used with one unit?  
+
+Which in-ear monitor model do you recommend?
+
+What is the setup sequence to connect both microphones to an in-ear monitor and Mackie Mixer? Is the connection simple enough that a novice could do it?
+
+Answer:
+
+	The in ear monitor transmitter takes its audio feed from the Mackie mixer, not directly from the wireless mics.
+	
+	We recommend the PSM600 system.
+	
+	To read more about connections, please see our Guide to PSM.
+	
+	Yes, a novice can set up the PSM600 by following the instructions that are included.
+

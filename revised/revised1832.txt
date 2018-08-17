@@ -1,0 +1,19 @@
+Title: Avoiding intermodulated products from RF sources
+Id: 1832
+Legacy Id: 1892
+
+Question:
+---- 10/08/2001 12:14 PM ---------------------------------------------
+At my church (Baltimore, Maryland) we are currently using the following RF items: (2) Shure L4 wireless microphone systems operating at 171.105  169.445 MHZ. And portable Two-way Radios for our parking lot attendents. The two-way radios operate at 467.7625 MHz and have a 25 KHz bandwidth. I am ready to purchase another wireless microphone system (LX series @ 180.4 MHz) and the WA405A Antenna Distribution system.
+
+From your published materials, I am choosing 180.4 MHz for the new microphone system. When all RF equipment is in use, how can I be sure that my frequency plan is safe and the intermodulated products will not fall within the bands of the receivers?
+
+Answer:
+
+	At 10/08/2001 12:15 PM we wrote - When all RF equipment is in use, how can I be sure that my frequency plan is safe and the intermodulated products will not fall within the bands of the receivers?
+	* You cant be certain. You can make an educated guess, but there is no certainty.
+	
+	171.105, 169.445, and 180.4 will be happy together based on our analysis. The radios on 467.7625 typically should not cause IMD interference below their operating frequencies. But as the radios operate at a much higher RF power than the wireless mic transmitters, there is a slight possiblity that the two-way radios might get into the wireless mic receivers IF the two way radios come too close to the wireless receivers. How close? Impossible to predict, but 20 feet or less might be a problem.
+	
+	The wireless mic transmitters will not interfer with the two-way radios.
+

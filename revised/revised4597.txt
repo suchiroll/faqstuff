@@ -1,0 +1,14 @@
+Title: P9T to BLX4R - Point to Point Wireless?
+Id: 4597
+Legacy Id: 5753
+
+Question:
+Is there a way to implement a Point to Point transmission using P9T + BLX4R?
+
+
+Answer:
+
+	Sorry, there is not. There is no method of defeating tone-key squelch in the BLX4R receiver.This is required for point to point operation.
+	
+	Options for point-to-point are the UHFR4 (all models)with the P9T; or ULXS4, ULXP4, or SLX4 in an overlapping frequency range with a P9T.
+

@@ -1,0 +1,22 @@
+Title: Recording A High School Concert Band
+Id: 2278
+Legacy Id: 2359
+
+Question:
+I have 2 SM81 mics and was wanting to be able to get realistic recordings of the ensemble. I suppose what I am asking is what would be the best way to make stereo recordings of my band using these mics. I have a small mixing board which I can run them into and would like them to output through the board to my MiniDisc recorder. What other equipment would be recomended, and what setup would work the best if this is even possible.
+
+
+Answer:
+
+	1. Mount the two SM81s by using a Shure A53M shock mount for each.
+	
+	2. Mount the SM81/A53M combinations on a Shure A27M stereo mic adapter. Read the A27M User Guide to learn about standard stereo mic setups.
+	
+	3. Mount the A27M on a Shure S15A 15 foot mic stand, or an equivalent.
+	
+	4. Use high quality mic cables to connect to your mixing board. The output of the board feeds the mini-disc recorder.
+	
+	5. The best location to place your stereo micarrangement depends upon many factor: acoustics, size of the ensemble, background noise, etc. Experimentation is the key. Have a student make brief one minute recordings, carefully noting where the micsetup is located in the room, how high the stand is, etc. Listen to the recordings later that day. Note which sounds best and where/how the mics were placed. You will have located the sweet spot for recording in that room.
+	
+	6. For other ideas, purchase the book: Stereo Microphone Techniques; Bruce Bartlett; Focal Press; 1991; ISBN 0-240-80076-1.
+

@@ -1,0 +1,11 @@
+Title: 1/4 wave antenna with the UA834 RF amplifier?
+Id: 2941
+Legacy Id: 3068
+
+Question:
+Is it OK to use a 1/4 wave antenna connected directly to a UA834 amp instead of a 1/2 wave antenna?
+
+
+Answer:
+
+	The performance of a 1/4 wave antenna mounted directly to a UA834 amplifier could be acceptable. However, a 1/2 wave antenna is strongly recommended.

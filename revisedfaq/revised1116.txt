@@ -1,0 +1,14 @@
+Title: Maximum Amperage for an AC to DC converter to power a UP4
+Id: 1116
+Legacy Id: 1152
+
+Question:
+I purchased a UP Wireless System and would like to be able to use the UP4 receiver powered by an AC to DC converter (or wall wart), but the unit came with the proper cable but with bare ends....I would like to solder on a converter to be able to plug the unit in to AC power. What is the MAXIMUM safe amperage for the converter? - a converter between 10-20 Vdc. I see that it "requires" 10-20 Vdc, 31mA at 9 volts. This amperage seems quite low....I just wondered what might be ideal and what might be "too much" amperage.
+
+
+Answer:
+
+	The UP4 will only use as much current as it needs. There is no such thing as too much current in this application.
+
+	One note though: When using a wall wart type power supply, if the device you are powering does not draw the full current from the supply, the actual voltage will be higher than what the supply is rated at it. For example, if you have a wall wart that is rated at 15 Vdc and 400 mA, but you use it with a UP4 that only draws 31 mA, the actual voltage coming from the wall wart might be around 18 Vdc. This will still be within the range of the UP4, but it is something to consider.
+

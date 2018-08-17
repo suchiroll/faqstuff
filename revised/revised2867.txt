@@ -1,0 +1,12 @@
+Title: A55HM shock mount diameter
+Id: 2867
+Legacy Id: 2979
+
+Question:
+What is the minimum inside diameter of the A55HM shock mount?
+
+
+Answer:
+
+	One inch (25mm)diameter.
+

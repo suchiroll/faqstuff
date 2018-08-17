@@ -1,0 +1,65 @@
+Title: Theater Audio - How do I correctly use lavalier microphones in theater applications?
+Id: 95
+Legacy Id: 95
+
+Question:
+How do I correctly use lavalier microphones in theater applications?
+
+
+Answer:
+
+	The object of most theatrical microphone techniques is to make the mics as inconspicuous as possible and provide the actors with freedom of movement, while still providing a high level of sound quality. The obvious choice is wireless lavalier microphones, which are becoming increasingly popular. Today it is common to find Broadway productions that incorporate twenty to thirty wireless microphone systems on a nightly basis. This document will present a few tips and techniques to get the best results from lavalier microphones.
+
+	
+
+	Place the microphone near the top of the chest, above the ear, or in the hair line. A common mistake is to place the mic near the throat, but this will lead to an unnatural sound due to a shadow created by the chin that will block high frequencies from reaching the microphone.
+
+	
+
+	Use an omni-directional mic if you have to position it above the ear or in the hair line. A side-effect of directional mics (cardioid, supercardioid, etc.) is off-axis coloration. A mic placed on the head will, of course, always be off-axis unless it is right in front of the mouth. Omni mics will sound more natural when placed away from the mouth.
+
+	
+
+	Consult the wig master on securing mics near the hair line. Mic cables can be secured in the hair in several ways, including wig clips, comb clips, sewing them into barrettes, bobby pins, and elastic headbands. Also, the mic can be mounted on the temple of eyeglasses.
+
+	
+
+	Never use Gaffer tape to secure a cable to the skin. The adhesive found on this tape can cause skin irritation, as well as just being too sticky. Suggested alternatives include surgical tape, spirit gum, medical adhesive, and clear bandage tape.
+
+	
+
+	Be sure to provide strain-relief for the mic cable behind the neck. The point where the neck bends needs to be the most secure. If no strain relief is present, a sharp neck movement could tug the mic out of place. Again, surgical tape and elastic headbands are good choices for securing the mic cable to the neck.
+
+	
+
+	Be careful not to get make-up in the opening of the microphone element. Any make-up that gets into the mic element will alter the frequency response, and could destroy the element altogether.
+
+	
+
+	If the mic cable is run inside clothing, tape the mic and cable to the fabric to prevent contact noise. Contact noise is caused by clothing rubbing against the mic capsule or cable. A little tape and some careful positioning can help eliminate this problem. Also, tie a simple knot in the mic cable near the microphone. This will also assist in blocking cable noise from getting into the microphone.
+
+	
+
+	Consult the wardrobe master to help prevent clothing noise. Clothing noise is caused by garments rubbing against each other. There is no practical way to shield the mic from this noise, so it is a good idea to plan ahead with your wardrobe people. Generally, synthetic materials make more noise than natural fabrics, such as cotton. Also, ask wardrobe to tape or sew together multiple layers of clothing to prevent rustling.
+
+	
+
+	Dont be afraid to use equalization. Judicial use of high frequency boost can help brighten a mic that is covered by clothing or positioned in the hair line. Low frequency cut reduces cable noise, breath pops, and wind noise.
+
+	
+
+	Keep spare mics on hand at all times. Many professional theater companies consider lavalier microphones a disposable item. Condenser microphones especially can be easily destroyed in such an abusive environment. Sweat, make-up, and constant tugging on cables and connectors can quickly wear out even the highest-quality microphone. Try to inspect your mics on a regular basis by plugging them in and listening for any odd noises and crackling, or degradation of frequency response. Wiggle the cables and connectors to check for loose connections.
+
+	
+
+	Take the headworn approach. More and more, actors in Broadway musicals use headworn microphones. The mic placement is always consistent, and right in front of the mouth for best sound quality and better gain before feedback. Headworn mics also give you that hip, 21st century look!
+
+	
+
+	Additional Reading:
+
+	Sound Design in the Theatre;
+	John L. Bracewell,
+	Prentice-Hall, 1993
+	ISBN: 0-13-825167-3
+

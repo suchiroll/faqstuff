@@ -1,0 +1,20 @@
+Title: Volume level for the PSM600 Hardwired - P6HW
+Id: 2002
+Legacy Id: 2065
+
+Question:
+I play drums in an alternative rock band and own a hardwired PSM600 system with an E5 earphone. I usually set up the volume of my receiver at 12 o´clock (or 5 volume level) and let the monitor engineer bring the different sound sources up during soundcheck (drums, bass, guitars, keys and vocals) until they are at a comfortable listening level.
+
+
+An outside engineer recommended i set up my receiver level at around 2 o´clock (7 volume level) to avoid having the signals on the monitor board become "too hot", and thus prevent any sort of distortion in my ear monitors...What volume level on my receiver should i aim for? 5? 7? 10??? I had originally decided to set it up at 5 to have a clear visual reference in order to turn it down (in case the overall volume of the band is too high) or turn it up (in case the overall volume of the band is too low)...
+
+
+Answer:
+
+	Actually, there are a couple things you can do to prevent distortion, which are unrelated to the setting of your volume control.
+	
+	1) If the monitor engineer sends a signal that it too "hot" to your P6HW, the input will distort before the earphones do. If you begin to hear distortion because of the monitor send, open up the battery compartment and flip switch number 1 into the "Up" position. This will engage a 15 dB pad at the input. This should be enough attenuation to prevent the monitor signal from causing distortion. You will probably need to increase the volume control to compensate for the reduced input signal.
+	
+	2) Make sure the limiter is turned on (switch 4). The limiter will prevent excessively loud sounds from damaging your ear drums. Chances are, you would be damaging your hearing long before you could pump enough signal into the E5 to cause distortion. The limiter not only protects your hearing, but should prevent the output stage of the P6HW from distorting the E5s.
+	
+	Remember that increasing the volume control of the P6HW does not increase headroom, it only increases background noise. Additionally, if the signal is distorting at the input of the P6HW, putting the volume control at 2 o'clock will only make the distortion louder - use the input pad.

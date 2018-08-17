@@ -1,0 +1,48 @@
+Title: Four SM58's side by side feeding back at different frequencies.
+Id: 219
+Legacy Id: 220
+
+Question:
+I have spend the last 1 1/2 hours looking over the FAQ and tech docs regarding feedback. I now have 2 things to try to eliminate feedback. However, I have a situation that was not covered in the articles I read.
+
+I have three SM58 side by side about 1 1/2 ft. apart from each other. The mics are getting feedback at different frequency levels and at different gains. This is making it hard to EQ them optimally.
+
+What would cause these mics to get different frquencies of feedback and at different input levels?
+
+
+Example: One of the mics is very "hot". It feeds back at 50% gain and does so at a very high frequency(8k). The next mic feedbacks at 65 - 68% gain and does so at 4 - 6K freq. The last mic can be given 80 - 90% gain and only produced a mid range feedback(1k - 1.5k). Again, these mic are about 1.5 ft apart from each other and have the main monitor speaker 12 ft directly in front of the singers. The also have a "hot spot" monitor about 2 feet directly in front of them at head height. (The "hot spot" monitor is a small Peavey monitor running two 4"midranges and one 1" tweeter.) About 5 ft behind the singers is a hard wood wall that is at an angle to them. I know this is part of the feedback problem, but I don't think it explains the various frequencies of feedback.
+
+Any suggestions or help would be greatly appreciated.
+
+Also, I have an Optimus headset with boom mic for my PC. Works great on my PC, and the headphones work great with my Samek sound board. However, I would like to be able to use the mic with the board, so I can talk to my performers. The board accepts phantom powered XLR mics (i.e. the SM58's), and also an INSERT, ie CD Player, Tape Deck, etc.. The mic on the headset is a condenser style that uses the 4.9vDC and 10vAC output from the soundcard on the RING terminal and regular audio and ground on the tip and sleeve respectively.
+
+Any ideas on how to make the headset mic and sound board work together?
+
+
+Answer:
+
+	Feedback is a very complicated process, so much so that entire books have been written on the subject and the mathematical formulas that model feedback are very involved. So let me summarize and simplify to several paragraphs.
+	
+	The root causes of feedback are irregularities in the frequency response and polar patterns of the microphones, the loudspeakers, and the room acoustics. You have three SM58 mics, but the manufacturing tolerance of those mics over the complete frequency range is +/- 3dB. Therefore, at any certain frequency, two of your mics might have an output variation of 6dB. Loudspeakers are even worse with many having variations of +/- 6dB, which equals a range of +12dB. And room acoustics can boost certain frequencies due to room resonance as much as
+	+/- 12dB!! This is a range of 24dB. With this much variation, it is no surprise that each mic in a slightly different location feeds back differently.
+	
+	Also note that each time the number of open mics in a sound system is doubled
+	(1 to 2, 2 to 4, 4 to 8, etc.) the overall gain of the sound system drops by
+	3 dB. This means more mics turned on equals less gain in the PA system.
+	
+	Feedback is an oscillation at the resonant frequency of your sound system and the room. Take a soda bottle and blow over the top. It will resonate at a certain frequency depending on the volume inside. Change the inside volume by adding liquid and the resonant frequency changes. Feedback is the the equivalent of blowing over the bottle top.
+	
+	Each of your SM58 mics is slightly different, therefore each one will resonate at different frequencies. Each of your loudspeakers is slightly different and will resonate at different frequencies. Each location in the room also has its own resonant frequency. As the gain of your sound system is increased, eventually a common resonant frequency is found and the system (mic - loudspeaker - room) feedbacks. Change one component or location and the feedback will also change.
+	
+	I see nothing unusual at all about your situation. What can you change? Change the acoustics by adding sound absorbing material to the hard wall; change to different mics that will have different resonance frequencies; eliminate the loudspeakers and use in-ear monitors thus eliminating the feedback path from loudspeakers to mics; add precise parametric equalization (like the Shure DFR11EQ) might add 4 to 6 dB of gain but no more; change to loudspeakers with a very smooth frequency response at all frequencies (big money!).
+	
+	When I give audio seminars, I have a demonstration that uses a Shure Beta 87 (very even frequency response and polar pattern at all frequencies) and a Genelec Oy loudspeaker (very even frequency response and polar pattern at all frequencies). As both of these products are very well designed (readexpensive) I can literally point the mic into the loudspeaker and not get feedback until the mic is 3 inches away from the loudspeaker cone! No magic or voodoo, simply well controlled resonance.
+	
+	To read more on feedback, I suggest Handbook for Sound Engineers edited by Glen Ballou, published by Howard Sams.
+	
+	Your Optimus mic will not directly interface with your mixing board as the mics powering requirement is common for a soundcard, but not for a mixing board. A custom circuit could be designed and built to take the boards phantom power and convert it to the 5V bias required by the mic. This would require the internal circuit diagram of the mic as well as the internal circuit diagram of the mixing board. If you have both of the circuits, perhaps the mixing board manufacturer would offer you technical assistance in designing a circuit. I doubt that Radio Shack would help you, and since neither the headset nor the mxing borad is made by Shure, we will would politely decline if you asked us to design a custom circuit for you
+	
+	I suggest you consider the Shure professional headset model 512 which will connect to your mixing board, but will not connect directly to your sound card.
+	
+	As you seem very interested in learning the theory behind sound systems, check out: www.prosoundtraining.com. This is an educational business that presents seminars and publishes newsletters on sound system design.
+

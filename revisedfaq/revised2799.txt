@@ -1,0 +1,11 @@
+Title: A53M with Schoeps Microphone
+Id: 2799
+Legacy Id: 2909
+
+Question:
+Would like to buy two A53M "Shockstopper" type mount for a Schoeps microphone with a diameter of 20 mm. I notice they seem to be 18.75mm. Will the Schoeps fit ok?
+
+
+Answer:
+
+	The A53M is designed to fit Shure mics that have 3/4" diameter handle. As 3/4" equals 19mm, it is likely that the Schoeps would be a very tight fit. We cannot guarantee that the A53M will suit your requirement

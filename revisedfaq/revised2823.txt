@@ -1,0 +1,11 @@
+Title: 78 RPM Stylus for M44-7 cartridge
+Id: 2823
+Legacy Id: 2933
+
+Question:
+I'd like to know if there's a stylus for 78s available for the M44-7.
+
+
+Answer:
+
+	The N78S (78 rpm) stylus will work, BUT the plastic stylus grip must be carefully shaved down using a Dremel drill so that the stylus will insert completely into the M44-7 body. Approximately 1/16" of plastic must be removed.

@@ -1,0 +1,11 @@
+Title: Axient Ethernet daisy chain
+Id: 3844
+Legacy Id: 4084
+
+Question:
+How many Axient devices can be Ethernet daisy chained before I need to add in an Ethernet switch?
+
+
+Answer:
+
+	We only recommend that a few items be daisy chained.  That is, the daisy chaining function is designed for small, simple systems.The Axient system depends on fast data rates in order for the receiver the transmitter to change frequences at the same time. Using the Ethernet daisy chain adds delay into the data transmitted between the devices. Thus, the daisy chain should only be used for just a few devices.

@@ -1,0 +1,14 @@
+Title: Total length of MX412D/C and MX418D/C
+Id: 224
+Legacy Id: 228
+
+Question:
+What is the complete length of the MX412D/C desktop gooseneck mic including the base assembly ?  I need the same for the MX418D/C. These are both the desktop versions of the Microflex line.
+
+
+Answer:
+
+	Precise measurements are given in the Specification Sheets and CAD files at:
+	
+	http://www.shure.com/americas/products/microphones/microflex/mx412-mx418-gooseneck-microphones
+

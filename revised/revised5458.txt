@@ -1,0 +1,22 @@
+Title: Disqualified Network Switches for Shure Dante Devices
+Id: 5458
+Legacy Id: 
+
+Question:
+Are there any network switches that Shure knows do NOT work well with Shure network products, such as the MXW, MXA310 or MXA910?
+
+Answer:
+In addition to the network switches mentioned in Audinate’s “list of incompatible, unmanaged switches with Energy Efficient Ethernet,” the following switches are not compatible with Shure Dante enabled devices.
+We strongly recommend using Gigabit Ethernet Managed Switches. For example: Cisco SG200/300 series, or D-Link DGS-1210 switches. Unmanaged switches with EEE or Green Energy Efficient Ethernet should not be used for Dante networks.
+Netgear
+	All ProSafe unmanaged switches, including but not limited to:
+	FS105, 108, 108P, 116, and 116P
+	JFS516, 524
+	GS105, 108, 110, 116, MX, E and PE models
+	JGS516, 524, E and PE models
+	GSS108, 116, E and EPP models
+	GS and FS305, 308, 316, 324, 605NA, 750E
+*This is not an exhaustive list. Switch models and firmware updates occur frequently.
+For questions please contact Shure Applications Engineering at support@shure.com.
+For further information on Dante and networking best practices please visit: https://www.audinate.com/resources/networks-switches.
+These recommendations are for the MXA910, MXA310, ANI22, ANI4IN, ANI4OUT, MXWAPT8, MXWAPT4, MXWANI4, MXWANI8, P300, ULXD4D, ULXD4Q, AD4D, AD4Q and other Shure Dante Products.

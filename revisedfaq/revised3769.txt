@@ -1,0 +1,15 @@
+Title: Maximum power rating of headphones
+Id: 3769
+Legacy Id: 4005
+
+Question:
+On my Shure headphones, is the power rating 500mW per side at 1Khz (L=500mW, R=500mW) or 1000 mW for each side?And is that a sustained (A.C. rms) level?
+
+
+Answer:
+
+	The 1000 mW rating is per side.We use broadband noise for this specification, not a 1 kHz tone.
+
+	We do subject the headphones to a prolonged 1000 mW signal as part of the verification process, but the main intent of the specification is to ascertain that the headphones can survive short-term exposure to excessive transient signals.
+	
+

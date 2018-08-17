@@ -1,0 +1,24 @@
+Title: Shure Tri-Polar Microphone Model 720A
+Id: 5014
+Legacy Id: 6306
+
+Question:
+Did Shure manufactured a tri-polar microphone before the KSM44A?
+
+
+Answer:
+
+	Indeed we did.It was the model 720A, introduced in 1937. Like the KSM44A, the model 720A was switchable between Non-Directional (omnidirectional), Uni-Directional (cardioid), and Bi-Directional (figure-eight). The retail price was $39.50; in 2016 dollars, that would be $662.25.
+	
+	The 720Ahad two crystal elements (one omnidirectional and one bidirectional); same for the KSM44A except the elements are condenser. The 720A crystal elements were employed under a licence from the Brush Development Company: Information about Brush
+	
+	To create the cardioid pattern,the omnidirectional element is electronically combined with the bidirectional element.
+	
+	From the 1937 literature: Here for the first time is one microphone that does everything! The new Shure Tri-Polar Controlled Direction Crystal Microphone gives you all three basic directional characteristics in one microphone, each instantly available though a 3 point switch.
+	
+	Two technicalpapers about the model 720A can be found here: Vintage Tech Bulletins
+	
+	The brilliant Shure microphone engineer, Ben Bauer, wrote the following in his lab notebook, dated August 4 - 7, 1937: These days were practically completely spent on specifications and claims of tri-polar cosine element patent. Good advancement has been made.
+	
+	Below are advertisingpages and a data sheet for the model 720A.
+

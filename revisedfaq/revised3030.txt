@@ -1,0 +1,12 @@
+Title: Restricting the SLX 1 Bodypack Gain Switch
+Id: 3030
+Legacy Id: 3160
+
+Question:
+After setting my SLX1 transmitters to "0" position, and placing transmitters on performers, one of the SLX systems was clipping. After the performance, I found that the transmitter sensitivity switch had accidentally been switched to the "MIC" position; it should have been in the "0" position. I believe this was the result of the performer adjusting the bodypack on his waistband. For later shows, I put a piece of tape over the switch to protect the setting. Any other suggestions?
+
+
+Answer:
+
+	From a plastic milk jug, cut a small rectangular piece of plastic to fit into the switch recess. This piece will act as a physical barrier against movement of the switch when jammed against the switch and the side of the recess.
+

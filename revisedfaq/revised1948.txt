@@ -1,0 +1,18 @@
+Title: Stylus replacement for 1200 HRP
+Id: 1948
+Legacy Id: 2011
+
+Question:
+I need a replacement stylus for a 1200HRP Phono Cartridge. It is listed as unavailable in your cross ref. chart. Is there a stylus that can be substituted or must the cartridge be replaced? My turntable is a Technics FGSErvo Auto. Turntable Sys. SL-bd22. It is a Pmount tone arm.
+
+
+Answer:
+
+	To answer your question Which phono cartridge fits my turntable, please see the following link:
+	
+	Which phono cartridge will fit my turntable?
+	
+	The replacement stylus was the N110HE. It is no longer made by Shure, and Shure Parts no longer has stock. You might be able to find it in inventory at a replacement stylus specialist. One example is Record King: http://www.therecordking.com
+	
+	An equivalent replacement cartridge would be the M92E.
+

@@ -1,0 +1,12 @@
+Title: Replacement for cartridge V15ME on SME 3012 tone arm
+Id: 1335
+Legacy Id: 1387
+
+Question:
+Please advise me on a replacement cartridge for Shure V15ME mounted on SME 3012 arm and Thorens 124/II turntable?
+
+
+Answer:
+
+	Assuming that your tone arm can track at .75 to 1.5 grams, we suggest the M97xE.
+

@@ -1,0 +1,18 @@
+Title: Does VR300 equal the 503BG?
+Id: 1428
+Legacy Id: 1481
+
+Question:
+In this moment I use the VR300 Lo-Z microphone in our product. In web site of SHURE I didn't find any information about it. It is active or no? Please, I have a question for you about the dynamic microphone. I'm looking for a dynamic microphone with high sensitivity, unidirectional who can be used from talker at 1m-2m distance. The frequency response will be in 300-4000 hz range. This mic I'd want to replace actually mic VR300 because the client said that it has not much sensitivity. If you can help me I apreciate you.
+
+
+Answer:
+
+	The VR300 has the same specifications as the 503BG.
+	
+	The VR300 and 503BG are designed to be used very close to the talkers mouth, within 5 cm.
+	
+	As an alternative, consider the model 545SD.
+	
+	The 545SD is more sensitive than the VR300 and may work better.
+

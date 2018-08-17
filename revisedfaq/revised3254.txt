@@ -1,0 +1,23 @@
+Title: UHF-R Firmware Update
+Id: 3254
+Legacy Id: 3408
+
+Question:
+What are the steps to update the firmware on my UR4 receiver and UR transmitters?
+
+
+Answer:
+
+	Firmware for UR1 or UR2: The firmware in a UR transmitter cannot be updated in the field. Transmitter firmware can only be updated by returning the UR transmitter to a Shure factory service center.
+	
+	Firmware for UR4 receiver: The firmware in a UR receiver can be updated in the field. Use the Shure Update Utility to update the firmware.
+	
+	To check the version of firmware that is loaded in a UR4 receiver (two methods):
+
+	
+		On power-up, the initial display screen will show the firmware version for several seconds.
+	
+		Using Wireless Workbench 6 software and a computer that is networked, right-click on the specific receiver in the Inventory Tab. Select Properties. In Properties, the current firmware version installed on the UR4 receiver will be displayed in the middle section just below the drop down menu for the Squelch setting and just to the left of the IR Presets button.The screen shot below showsthis information inversion 6.11.3 of Wireless Workbench 6. The location could be different with other veresions of WWB6.
+		
+
+

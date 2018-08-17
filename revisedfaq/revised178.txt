@@ -1,0 +1,130 @@
+Title: How do I connect a professional microphone to a camcorder?
+Id: 178
+Legacy Id: 179
+
+Question:
+How do I connect a professional microphone to a camcorder?
+
+
+Answer:
+
+	Connecting Microphones to Camcorders
+
+	Types of Inputs
+
+	
+		Camcorders use a variety of microphone input connectors and wiring schemes. Unfortunately, there is no standard to which camcorder manufacturers must adhere, and the specifications provided with the camcorder often say little or nothing about the microphone input. Most camcorder microphone inputs fall into one of three groups, however; the trick is knowing which group your camcorder is in. The key questions are:
+		
+			
+				Is the camcorder mono or stereo? If it is stereo, we assume that you wish to record the audio from your microphone onto both the Left and Right channels.
+			
+				If it is mono, does the microphone input jack supply DC voltage (sometimes labeled Mic Power or +3 vdc) for the manufacturers own accessory microphone? This DC voltage is not the same as the phantom power used for professional condenser microphones. Microphones or wireless receivers that do not require this power must be connected in such a way as to avoid contact with it. Professional condenser microphones requiring phantom power cannot be directly connected to a camcorder; a separate phantom power supply is required.
+			
+				If the camcorder is stereo, are there separate mono input jacks for the Left and Right channels, or a single stereo input jack that feeds both channels? If there are separate mono jacks, do they supply DC power (see above)?
+		
+	
+
+
+	Is a transformer necessary?
+
+	
+		If the length of cable between the microphone and the camcorder will be 20 feet or less, all that is necessary is to use a cable with the appropriate connectors and wiring. If the cable will be longer than 20 feet, however, a transformer will be required at the end of the cable nearest the camcorder. The camcorder-side of the transformer is typically equipped with a very short cable and a 3.5mm mono or stereo connector. The transformer provides two benefits:
+		
+			
+				The transformer maintains a balanced connection between itself and the microphone, minimizing pickup of hum and electromagnetic interference and allowing for cable runs of up to 1,000 feet. (Longer cable runs require a mixer or preamplifier to boost the microphone signal up to Line level, about 1 volt.)
+			
+				The transformer can boost the signal level slightly, which may be useful when connecting a low-output microphone (or one used at a considerable distance from the sound source) to a camcorder whose microphone input is not very sensitive. The amount of boost (called gain) that the transformer provides depends on the ratio between its input and output impedances, as well as the ratio between the transformers output impedance and the camcorders input impedance. Typical transformers provide between 6 dB and 12 dB of gain.
+		
+	
+
+
+	
+
+	Can a mixer be connected to the camcorder?
+
+	
+		The output of a mixer can be connected to a camcorders Mic input if the mixer has a Mic level output. If the mixer only has a Line level output, its level must be attenuated (decreased) by approximately 50 dB to prevent overloading of the camcorders microphone input circuitry. Some camcorders have a Line level input in addition to the Mic input.
+	
+		If the cable run from the mixer to the camcorder is longer than 20 feet, a transformer is required as discussed previously. Note: the mixer must have a Mic level output, OR the transformer must be capable of handling a Line level signal from the mixer without being overloaded (most cannot).
+
+
+	Automatic Gain Control
+
+	
+		Most consumer-grade camcorders and some industrial models have an Automatic Gain Control (AGC), which adjusts the audio level up or down as necessary. The AGC circuit is designed to compensate for the fact that the sound source is often far from the microphone on the camera. An external microphone is usually placed much closer to the source, however, and therefore a much higher signal level is fed into the cameras input. The Automatic Gain Control responds by rapidly reducing the audio level during the peaks of speech, and boosting the level up very high during pauses. The sound of the AGCs action is often described as pumping, breathing, or whooshing, and is usually undesirable.
+
+
+	How to reduce the effects of AGC
+
+	
+		It is impossible to defeat or bypass the AGC on most camcorders. The only other options are:
+		
+			
+				Use the camcorders line-level input, if it has one. On most camcorders, the line input is not affected by the AGC. But since a microphone signal is not strong enough to drive the line input directly, the mic must be connected to a mixer or microphone preamplifier that has a line level output. Using a mixer also allows for more precise adjustment and metering of signal levels, in addition to its basic function of combining the signals from multiple microphones into one feed.
+			
+				Keep the external mic signal level very low. This causes the AGC to relax and let the audio level rise to maximum. This tends to amplify the hiss of the cameras audio circuitry, but reduces the pumping action. The microphones output signal can be reduced by moving it farther away from the source, or by using a device called an attenuator or pad, which decreases the signal level by a fixed amount. Some attenuators offer a choice of settings, such as -15 dB, -20 dB, and -25 dB.
+		
+	
+
+
+	
+		
+			
+				
+					Sources
+				
+					Interfaces
+				
+					
+						Beachtek: Makes many XLR to 1/8 adapter boxes with volume controls and mixing functions.
+					
+						Juicedlink: Makes many XLR to 1/8 adapter boxes with volume controls and mixing functions.
+				
+				
+					Adapter Cables
+				
+					
+						Markertek 800-522-2025
+						
+							
+								SC10XJMZ: microphone cable with female XLR connector on mic end and 3.5mm stereo miniplug on camcorder end. Ask to have the Tip bridged to the Ring if you want to feed the mic signal to both the Left and Right channels of a stereo camcorder with a single stereo input jack.
+						
+					
+				
+				
+					Transformers, Attenuators
+				
+					
+						Sescom 702-565-3993 Various impedances and connector combinations available.
+					
+						Shure 847-866-2525
+						
+							
+								A96F: has protection circuit to block DC bias voltage. XLR to 1/8 stereo.
+							
+								A15AS: attenuator, switchable for -15 dB, -20 dB, or -25 dB loss
+						
+					
+				
+			
+		
+	
+
+
+
+	
+		
+			
+				
+			
+				
+		
+	
+
+
+	
+
+	
+
+	
+

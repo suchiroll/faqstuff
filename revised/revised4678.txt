@@ -1,0 +1,14 @@
+Title: Two miniature mics in parallel into one transmitter
+Id: 4678
+Legacy Id: 5846
+
+Question:
+Is it adviseable to connect two MX150 mics (or other mic models) in parallel going into a single bodypack transmitter?
+
+
+Answer:
+
+	No, it is not advised. Adding a second mic in parallel will divided the supplied bias current in half. This will lower the SPL overload point of each mic. Also the two mics will load each other, thus less overall signal will reach the transmitter.
+	
+	No harm will come from trying this, and if you like the results, great. But it quite likely the audio quality will be compromised.
+

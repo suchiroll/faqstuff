@@ -1,0 +1,9 @@
+Title: MXA910 Pole Mount
+Id: 5457
+Legacy Id: 
+
+Question:
+Can I pole mount the MXA910? Does Shure offer a pole mount for it?
+
+Answer:
+Yes, the MXA910 can be poll mounted. The rear plate on the microphone has 4 threaded holes for attaching the microphone to a VESA mounting device. The mounting holes follow the VESA MIS-D standard:Screw specification: M4 thread (Microphone threaded hole depth = 9.15 mm)Hole spacing: 100 mm (square)Shure does not offer a pole mount, but pole mounts from companies, such as Chief or B-Tech, will work with the MXA910.

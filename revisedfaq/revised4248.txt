@@ -1,0 +1,19 @@
+Title: Other Mics with the A42PF or A42SM
+Id: 4248
+Legacy Id: 5297
+
+Question:
+I currently own a SM27 Condenser Microphone  Shure X2u. I'm looking into getting the "Shure A27SM" Shock Mount, but I was just curious if the "Shure A42PF" Pop Filter would fit on it because the Shock Mounts look very similar and they are both 53mm in diameter. Or could you find a Pop-filter that would work directly onto the shock mount. I do not want to a Gooseneck mount like the "Shure PS6." And what about using the KSM44 with the A42SM and A42PF?
+
+
+
+Answer:
+
+	Sorry, the A27SM shock mount will not accommodate the A42PF pop filter. The A42F pop filter only works on the A42SM shock mount.
+
+	The SM27 will not fit properly into the A42SM.The microphone is a too wide to fit properly; it will not fasten to the A42SM.And the SM27 is also shorter in height and would sit too low in the A42SM shock mount.
+
+	However, the KSM44 is the same size as the KSM42, and fits the A42SM shock mount.
+
+	
+

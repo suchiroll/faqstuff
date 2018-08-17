@@ -1,0 +1,20 @@
+Title: Mic for computer recording
+Id: 1810
+Legacy Id: 1870
+
+Question:
+I was looking to buy a microphone and not knowing much about mics was wondering what my best option would be (from your products). I will be using it for animation (computer, flash) and also for video (voice overs and so on). Something I can attach to my computer (imac) easily (with an arm). I basically want something that doesn't give a lot of feedback and would record voice smoothly without any background sound.
+
+
+Answer:
+
+	Something I can attach to my computer (imac) easily (with an arm).
+	* You will not find a professional sounding mic that will attach to any computer with an arm. There are many cheap mics that attached this way, but no professional mics. We suggest you abandon this requirement.
+	
+	I basically want something that doesnt give a lot of feedback and would record voice smoothly without any background sound.
+	* Feedback is only a problem in PA systems; you do not have a PA system.
+	
+	To learn more about connecting professional microphones to any type of computer, see: Microphone connected to a computer sound card
+
+	The most popular Shure mic for voice-overs is the SM7B.
+

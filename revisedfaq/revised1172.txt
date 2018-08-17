@@ -1,0 +1,13 @@
+Title: Crystal controlled vs frequency synthesized wireless
+Id: 1172
+Legacy Id: 1214
+
+Question:
+What is crystal frequency receiving mode?
+
+
+Answer:
+
+	Crystal Controlled vs. Frequency Synthesis
+Crystal controlled wireless units can be designed with wide audio frequency response, low noise, low distortion, and relatively long battery life. They are the most cost effective choice for fixed frequency applications involving a moderate number of simultaneous systems. One limitation inherent to a crystal controlled transmitter is the generation of spurious emissions due to output multiplier stages, though these can generally be kept to a minimum with careful design.For tuneable systems, frequency synthesis is the most practical technique. The absence of spurious emissions from the transmitter also simplifies coordination of multiple systems. However, it is more difficult (and more expensive) to design equally low noise, low distortion frequency synthesized systems. A limitation inherent to the audio frequency response of this type of transmitter results from the use of a sharp lo-cut filter to prevent very low audio frequencies from interfering with the PLL control circuit. This places a lower limit on the audio frequency range that may be transmitted. Special techniques are required to achieve extended low frequency response in frequency synthesized systems. In addition, the greater power consumption of frequency synthesized transmitters reduces battery operating time.As in the choice of other wireless microphone system characteristics above it is necessary to evaluate the application to determine which frequency generation method is preferable. For most fixed applications crystal controlled systems are suitable. Frequency synthesized systems should be considered when frequency agility is a primary requirement or if there are other included features that are desirable for the application.Once the wireless microphone system(s) choice is made, careful setup and proper use are necessary to obtain the best performance.For further information:Selection and Operation: Wireless Microphone Systems
+

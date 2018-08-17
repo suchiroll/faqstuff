@@ -1,0 +1,26 @@
+Title: Looking for a headset microphone like aerobic instructors use
+Id: 214
+Legacy Id: 215
+
+Question:
+I teach bridge and often have classes of 40+ people, many of whom talk while I am trying to talk! I have a sound system but I don't like having to hold the microphone. I have seen aerobic instructors wearing headset mikes with something that straps around their waist. Do you carry such an item? Or, perhaps I should consider a wireless mike that clips on the lapel? I tried one of those once. There was a receiver also. I received so much static from the receiver that I was better off not using the mike. Do you have any other suggestions? Thank you.
+
+Answer:
+
+	You are looking for a wireless microphone system that includes a headworn microphone. The headworn mic is a great choice. Because it is positioned so close to your mouth, your sound system is unlikely to feedback (squeal and howl) unless you are very, very close to the loudspeaker.
+	
+	Shure makes several models. The least expensive is the model BLX14/P31. The next model up is the BLX14R/SM35. Check the Shure web site for details on these models.
+	
+	This type of system has four main parts:
+	1) the headworn mic;
+	2) the transmitter which you wear and requires a battery. The battery will last12 hours.;
+	3) The receiver which sits by your sound system and must be connected into your sound system via the proper cable.
+	4) The power supply for the receiver which plugs into an AC wall outlet.
+	
+	Your previous unsatisfactory experience with a wireless microphone was likely because it was not of professional quality. I suggest you look for a local professional audio dealer using the dealer locator on the Shure website.Bring them your entire sound system. Explain exactly what you want to accomplish and the dealer can set you up with the proper equipment. Expect to pay $300 to $500 (in the U.S.) for a good quality wireless microphone system.
+	
+	You can also read more about wireless microphones at:
+	Audio Systems Guide to Meeting Facilities
+	
+	Good luck with your search. I expect it to be a grand slam.
+

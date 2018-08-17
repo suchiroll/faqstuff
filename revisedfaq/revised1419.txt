@@ -1,0 +1,13 @@
+Title: Model 514B Microphone Connector Socket
+Id: 1419
+Legacy Id: 1472
+
+Question:
+I need to know the type of Socket Connector Plug that this Microphone's Plug fits into. Does Shure make it or can you provide the Manufacturer & Part Number for the Socket.
+
+Our existing older PA System's Amplifier's Microphone's socket connector is not the same as what is used on your Model 514B microphone. I have ordered (2) new Shure Microphones  need to change the amplifiers connector socket to accept the newer model 514B Plug style connector.
+
+
+Answer:
+
+	Shure supplies the 514B with a bare ended cable. A connector at the end of a 514B mic is not factory supplied, and must have been put on the cable by a sound system installer.

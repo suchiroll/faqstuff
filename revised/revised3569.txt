@@ -1,0 +1,12 @@
+Title: Measured magnetic field strength of earphones
+Id: 3569
+Legacy Id: 3775
+
+Question:
+I have a medical device implanted in my skull. My physician is concerned that the permanent magnet in a earphone might interfer with the operation of the device. What is the field strength in Teslas of a Shure earphone?
+
+
+Answer:
+
+	Different Shure earphone models were measured and all had field strengths of less than one milli-Tesla with the measurement meter as close as possible to the earphone.  Therefore, the field strength will be less than one milli-Tesla at the device location.
+	Please provide that information to your physician so that she can consult with the device manufacturer.

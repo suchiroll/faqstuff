@@ -1,0 +1,12 @@
+Title: Wind noise using Beta 98D/S outside
+Id: 3003
+Legacy Id: 3131
+
+Question:
+I'm using Beta 98D/S microphones on my drum kit and when we play outside I'm getting some wind noise. Do you have any windscreens that will work for this application?
+
+
+Answer:
+
+	The A99WS is an excellent windscreen for this application. It is larger than most windscreens, but this large size makes certain that the wind cannot get to the diaphragm of the microphone. The A99WS is very effective.
+

@@ -1,0 +1,13 @@
+Title: RS232 Control of SCM810
+Id: 2636
+Legacy Id: 2738
+
+Question:
+Is there a way of remote controling the SCM810 through IR or RS232 or another? Do you make anything that can switch/mix multi-inputs to a single out?
+
+
+Answer:
+
+	The SCM810 does not have IR or RS232 control. The SCM810 does have TTL logic controls.
+	
+	Inline (www.inlineinc.com) makes conversion boxes (Model IN6901, IN6902) that convert RS232 to contact closures. While we have not tried their products with the SCM810, it should work.

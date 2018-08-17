@@ -1,0 +1,17 @@
+Title: Wiring diagram for WA300
+Id: 2730
+Legacy Id: 2836
+
+Question:
+I have a couple SC systems with SC1 body packs. I have a WA300 instrument cable. Is this compatable with the SC1? Your info lists the WA302. Can you send me a wiring diagram of the WA300 and/or the WA302?
+
+
+Answer:
+
+	The WA300 is not compatible with the SC1.
+	
+	WA302 Wiring diagram
+	
+	Connecting a guitar to a wireless transmitter - WA302
+	
+	The wiring diagram of the WA300 can be seen on page 4 of the L Series User Guide. The L Series User Guide can be found in the User Guide section of the Shure website.

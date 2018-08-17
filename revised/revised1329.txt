@@ -1,0 +1,16 @@
+Title: RF Frequencies on a military base
+Id: 1329
+Legacy Id: 1381
+
+Question:
+We at SE Systems are taking our (20) UHF U4 Series, with the computer interface, to Ft. Bragg Air Force Base in Fayetteville, NC beginning July 30 thru Aug 1. The Shure website offered the freq's for the Raleigh/Durham area. Does Shure have anything more specific to the military base that you guys could forward to us?
+
+
+Answer:
+
+	Military bases will not release frequency information to any civilian organization.
+	
+	We suggest the use of the Shure UA888. In conjunction with a laptop computer, it will scan the frequency band of the UHF wireless, and display all active RF transmissions in that band. This provides a visual reference of all RF activity.
+	
+	Also useful is a dedicated RF scanner that works with a laptop, available from Win Radio.
+

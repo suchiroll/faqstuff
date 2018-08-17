@@ -1,0 +1,18 @@
+Title: Maximum SPL - Condenser vs. Dynamic
+Id: 2657
+Legacy Id: 2761
+
+Question:
+Why is it that the specifications for the model 16AM specify a maximum SPL of 120dB where as other microphones I might use for acoustic instruments such as the venerable SM57 have no such limit specified ?
+
+
+Answer:
+
+	The model 16AM is a condenser. A condenser mic has an internal electronic preamp that has a distortion point. Less expensive mics have less expensive preamps with lower clipping points. The model 16AM is an example. The higher quality Shure KSM141 condenser mic has a limit of 164 dB SPL!
+	
+	A dynamic mic has no electronics and its SPL limit is a physical limitation: the point where the diaphragm hits the magnet and can move no further. Even with very inexpensive models, this limit tends to be over 180 dB SPL, that is like the sound level of a Saturn V rocket at 5 feet.
+	
+	Mic test chambers cannot create such high levels. Therefore, the SPL limit of a dynamic mic is typically an estimate.
+	
+	Also, read the following: Can a dynamic microphone handle really loud sounds? (Maximum SPL)
+

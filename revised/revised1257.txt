@@ -1,0 +1,17 @@
+Title: UT compatibility Cedar Rapids Iowa
+Id: 1257
+Legacy Id: 1304
+
+Question:
+I do not find a reference guide for the state of Iowa. Specifically for the Shure UT series wireless for use in Cedar Rapids, Iowa. Please provide the frequency recommendations for this area.
+
+
+Answer:
+
+	At 06/22/2001 12:55 PM we wrote - Any of the UT systems that have a two-letter frequency code that starts with T may be used in your area. The T frequencies operate in TV channels 35, 36, 38, and 39. All these channels are unused in your area. Therefore, this range of frequencies (596 to 626 MHz) can be used for the UT wireless microphones.
+	
+	Up to eight UT systems may be used in the same location. In this situation, frequencies cannot be duplicated within the group of eight UT system.
+	
+	For complete information, please see the following link:
+	
+

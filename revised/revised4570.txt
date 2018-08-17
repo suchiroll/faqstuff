@@ -1,0 +1,25 @@
+Title: ULX-D receivers with identical MAC addresses
+Id: 4570
+Legacy Id: 5696
+
+Question:
+Q: I have multiple ULXD receivers with identical MAC addresses on the Dante side. How can I fix this?
+
+Answer:
+
+	A small quantity of ULXD4D and UXLD4Q receivers were shipped in late-summer of 2014 with identical Dante MAC addresses. This can cause networking issues when attempting to utilize these receivers as part of a larger Dante audio network. However, this problem can be fixed with Shure Wireless Workbench 6 software and the Shure Update Utility.
+	
+	1. Download and install Wireless Workbench 6.10.3 (or later): www.shure.com/wwb
+	
+	2.Open WWB, and if the program determines that a connected receiver has a duplicate MAC address, an Alert dialog will pop up and present the option to repair it. Its a two-step that process that first requires a firmware update to the receivers.
+	
+	3. Click Update and the Shure Update Utility will launch. (Note: if you see the word Repair instead of Update skip to step 6).
+	
+	4. Click the Updates box at the top of the window to download the latest firmware. ULXD receivers need to be on version 1.5.18 (or later).
+	
+	5. Select the devices you wish to update and click Send Updates
+	
+	6. When the firmware update is complete, go back to WWB. Select Repair in the Alerts dialog box, and the fix will install and cause the receiver to reboot. It will come back up with the problem fixed.
+	
+	If you dont have the Update Utility, download it here.
+

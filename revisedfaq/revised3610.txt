@@ -1,0 +1,14 @@
+Title: Connecting the PA805 antenna to the UR1, UR1H, or UR1M transmitter
+Id: 3610
+Legacy Id: 3816
+
+Question:
+I need to connect the PA805SWB passive directional antenna to a UR1 body transmitter for a point to point wireless set up. The UR1 antenna has an SMA connector and the PA805 has a BNC connector. What is the solution?
+
+
+Answer:
+
+	Shure offers the UA910 adapter for this purpose; this adapter is SMA male to BNC female. Then use the Shure UA802 cable or UA806 cable (BNC to BNC) for the feed to the antenna.
+	
+	This adapter is also available from Mini-Circuits, Brooklyn NY, as model SM-BF50+.
+

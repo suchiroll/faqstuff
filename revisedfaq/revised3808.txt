@@ -1,0 +1,12 @@
+Title: Beta 98 vs. Beta 98A
+Id: 3808
+Legacy Id: 4046
+
+Question:
+What is the difference between the Beta 98 (Discontinued) and the Beta 98A microphones?
+
+
+Answer:
+
+	The mic element is new and is the sonic equivalent of the original SM98.Many sound engineers preferred the sound of the SM98 to the Beta98, thus the development of the Beta 98A.
+

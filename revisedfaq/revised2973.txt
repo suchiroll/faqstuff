@@ -1,0 +1,11 @@
+Title: Is it a Beta87A vs. Beta 87C?
+Id: 2973
+Legacy Id: 3101
+
+Question:
+I have 3 Beta 87? U2 transmitters. We are highly pleased with these units and want to purchase two more, however I am having a hard time figuring out if these units are 87As (supercardioid) or 87Cs (cardioids). How do I determine what they are?
+
+
+Answer:
+
+	Older units are labelled only as "Beta 87" are A versions.  Newer units are labelled as "Beta 87A" or "Beta 87C".

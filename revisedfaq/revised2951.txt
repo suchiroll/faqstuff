@@ -1,0 +1,13 @@
+Title: Using QuietSpot with computer
+Id: 2951
+Legacy Id: 3078
+
+Question:
+How can I plug the QuietSpot into the sound card on my computer?
+
+
+Answer:
+
+	Radio Shack makes a cable that will allow the QuietSpot to connect most sound cards.
+	
+	Radio Shack Part #42-2428

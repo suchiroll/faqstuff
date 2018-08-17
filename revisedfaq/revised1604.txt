@@ -1,0 +1,18 @@
+Title: Wiring a M78S for mono on a stereo turntable
+Id: 1604
+Legacy Id: 1660
+
+Question:
+OK, I understand the M78S is really a stereo cartridge, but how do you wire it for mono playback. My turntable has the standard stereo 4 wires (L, LG, R, RG). For now, I just have one channel wired and have the amp set up to play 2 channel mono.
+
+
+Which channel plays the vertical in the groove and which channel is horizontal (for mono 78's). I'm looking for the least groove noise.
+
+
+Answer:
+
+	Some 78 RPM records were modulated in the vertical plane; some in the horizontal plane. The M78S is very compliant in both planes and will play either type of record well.
+	
+	There is no "correct " answer to your question. Which wiring scheme works best may be different from record to record. Try this order: 1) Left and Right channels in parallel; 2) Left channel only; 3) Right channel only. Use whichever provides the best sounding result.
+	
+	The M78S works well for 78 RPM records for one main reason: the large radius of the diamond tip. The groove width of 78 RPM records require the stylus tip with a minimum radius of 2.0 mils. The M78S is 2.5 mils.

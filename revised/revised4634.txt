@@ -1,0 +1,16 @@
+Title: VP88 Hum
+Id: 4634
+Legacy Id: 5793
+
+Question:
+My VP88 hums when close to a magnetic field or light fixture. Ideas?
+
+
+Answer:
+
+	Problem: Hum pickup from VP88 mic
+	
+	Cause/Solution: The three screws which fasten the VP88 grill to the handle are not making good electrical contact and/or are too long and touch the internal metal cartridge support.Remove the three screws, which fasten the VP88 grill.Using a file, shorten each screw slightly. Also, carefully scrape or sand the three countersink areas on the mic handle where the screws fit.This is to remove any stray paint in these areas. Replace the screws, tighten securely, and the hum problem should disappear.
+	
+	If the above doesnot solve the hum issue, contact Shure Service/Repair to have the VP88 examined.
+

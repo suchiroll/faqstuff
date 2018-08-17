@@ -1,0 +1,54 @@
+Title: Adding or editing equipment profiles in Wireless Workbench tutorial
+Id: 3581
+Legacy Id: 3787
+
+Question:
+I have some Shure wireless systems and some wireless systems from another manufacturer. How do I use Wireless Workbench to calculate compatible frequencies between all of the systems?
+
+
+Answer:
+
+	Wireless Workbench v6.12 includes equipment profiles for several other manufacturers. However, at times, it might be necessary to add a new profile or edit an existing profile.
+	
+	Custom profiles allow you to adjust coordination requirements for your devices.
+	
+	In the Equipment Profiles, there are the following options for building profiles:
+	
+		Use the profile of an existing device to build a new profile
+	
+		Build the new profile from scratch
+	
+		Import a custom profile
+
+	Access the Equipment Profiles
+	From the Tools menu, select Equipment Profiles ....
+	
+	
+	
+	1) Use an  Existing Profile as a Template.
+	
+		Select the Manufacturer, Model, and Band.
+	
+		Edit settings for the device.
+	
+		Change the Manufacturer or Model label to a new name. For example, if the original manufacture is "Shure," change it to "Shure-Custom".
+	
+		Once you edit the Manufacturer or Model label, the Save button will become enabled, and you can save the new profile.
+
+	2) Start with a Blank Profile
+	
+		When you first open the Equipment Profile window, the data fields are blank.
+	
+		Enter the new Manufacturer, Model, Band of the new model. The Manufacturer or Model must be different than the default values that are in the default database.
+	
+		On the Tuning and Filter & Intermods tabs, define the settings for the device.
+	
+		To save the new profile, select Save. If the Save button is disabled, change the Manufacturer or Model field so they are different from the default values already in the database.
+
+	3) Import a Custom Profile
+	
+		To import a saved equipment profile, select Import and browse for the file.
+
+	Additional instructions can be found in the HELP menu of Wireless Workbench.
+	
+	Now, perform frequency calculations as you normally would.

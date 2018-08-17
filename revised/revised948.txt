@@ -1,0 +1,18 @@
+Title: Wiring of VP88 5-pin XLR jack
+Id: 948
+Legacy Id: 976
+
+Question:
+The VP88 stereo microphone uses a 5-pin XLR Jack. How is it wired?
+
+
+Answer:
+
+	The VP88 provides two balanced outputs as follows:
+	
+	Pin 1: Shield/ground
+	Pin 2: left channel +
+	Pin 3: left channel -
+	Pin 4: right channel +
+	Pin 5: right channel -
+

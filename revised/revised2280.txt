@@ -1,0 +1,17 @@
+Title: Phantom voltage for Beta 87A
+Id: 2280
+Legacy Id: 2362
+
+Question:
+Have purchased the Beta 87A but have been told 2 different volts to use with this microphone. 12 volts and 48, do not know which one to use as I have misplaced my box at one of the stores so now I'm missing my instructions and microphone warranty and assecories. Purchased a PB23 Phantom adapter by Rolls. I am also getting a feeling of electricity as both my daughter and myself hold the mike, we've even tried 2 different PB23 and the problem still exists. The electrical feeling stays with you even after using the microphone. We love the sound and don't want to switch mikes, our other Shure mikes, Beta 58's don't give us this problem. Maybe we're using the wrong voltage but it seems to happen either way, though it's hard to tell as the feeling in your hands last for a long time.
+
+
+Answer:
+
+	1. The Beta 87A requires 11 to 52 volts of phantom power.
+	2. The Beta 87A operates exactly the same at 11 volts of phantom as it does at 48 volts of phantom.
+	3. We do not know what might be causing the "feeling of electricity" in your hands. Our guess: the feeling might be caused by leakage current. There may be undesirable AC leakage current on the chassis of your PA amplifier. The chassis connects to the mic cable. The mic cable connects to your mic. Your hands touch the metal mic and the current flows through you hands and out your feet.
+	
+	As an experiment, see if the feeling goes away when the mic cable is unplugged from your PA amplifier. If yes, the problem is leakage current. See an qualified electronic technician immediately. He will need to examine your entire system - from mic to loudspeaker.
+	
+	Leakage current can be dangerous.

@@ -1,0 +1,11 @@
+Title: Replacement stylus for V15 LT
+Id: 2681
+Legacy Id: 2785
+
+Question:
+What is the replacement stylus?
+
+
+Answer:
+
+	The original VN45LT was the original stylus. The VN35MR replacement styli will fit the the V15 LT body. It will look a little odd, because the VN35MR stylus is wider than the V15 LT body, but it does fit and should work fine.

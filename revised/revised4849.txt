@@ -1,0 +1,12 @@
+Title: Firmware v8.0.1 and legacy DIS central units
+Id: 4849
+Legacy Id: 6035
+
+Question:
+Which central units is Firmware version 8.0.1 compatible with?
+
+
+Answer:
+
+	Firmware version 8.0.1 is compatible with the DIS-CCU, CU 5905, CU 6105, and CU 6110.It is not compatible with earlier central units.
+

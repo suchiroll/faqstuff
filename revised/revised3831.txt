@@ -1,0 +1,42 @@
+Title: PGX Digital to PGX Analog comparison
+Id: 3831
+Legacy Id: 4069
+
+Question:
+What are the primary differences between PGX Digital and PGX Analog?
+
+
+Answer:
+
+	PGX Digital:
+	
+		Lower Total Harmonic Distortion (THD) provides a cleaner audio signal.
+	
+		No companding yields better dynamic range when used with instruments. 
+	
+		Dynamic range of 108 dB handles a wide range of input signal levels.
+	
+		Increased battery life.
+	
+		No interference from digital UHF television stations as PGX Digital operates in the 902 to 928 mHz band (country dependent.)  Note that this 900 mHz band is not assigned only for wireless microphones; it also used for cordless phones, wireless data transmission, baby monitors, and other devices.
+	
+		No interference from future “white space” devices that will operate in the UHF TV spectrum.
+	
+		Up to a maximum of 5 compatible systems operating in the same room and at the same time. Exact number is location dependent.
+	
+		Low battery indication on receiver (Ready LED turns red).
+	
+		Signal latency of 3.5 milliseconds.
+
+	PGX Analog:
+	
+		Larger number of compatible systems. PGX Analog: 9 per operating band, up to a maximum of 12. (PGX Digital: up to a maximum of 5.)
+	
+		Uses the UHF television band - still the most reliable frequency spectrum for wireless microphones.
+	
+		Audio Reference Companding provides improved audio quality over other analog companding schemes.
+	
+		No signal latency. A digital system delays the audio signal due to conversion from analog to digital and back again.  This is known as latency. PGX Digital latency is 3.5 milliseconds.  There is no signal latency in PGX Analog.
+	
+		PGX Analog will have a greater operating range than PGX Digital in most situations.
+

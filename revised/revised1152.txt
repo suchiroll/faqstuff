@@ -1,0 +1,11 @@
+Title: Public Address Engineer/Architect Specification
+Id: 1152
+Legacy Id: 1191
+
+Question:
+I need to write an RFP for a public address system for a maintenance facility. The facility will have several offices, an open maintenance area with high ceilings, and the need to make announcements to personnel out in the yard. Do you have sample engineers/architects specifications I can start with?
+
+
+Answer:
+
+	As Shure only manufacturers the "front-end" of audio systems, we do not have sample specs for complete PA systems.For ideas on what to factors to consider, please read: Audio Systems Guide for Meeting FacilitiesAlso try: http://www.synaudcon.com for ideas on where to get sample specs for a PA system.

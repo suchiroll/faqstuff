@@ -1,0 +1,19 @@
+Title: What is Dante?
+Id: 4315
+Legacy Id: 5389
+
+Question:
+What is Dante? How can I learn more about it?
+
+
+Answer:
+
+	Dante is a digital audio networking protocol developed by Audinate, an Australian company. A selection of Shure products incorporate Dante to provide a mechanism for distributing digital audio.
+	
+	Dante allows multiple channels of audio to be distributed over Cat-5e or Cat-6 cable, and Dante can co-exist on a data network. Dante utilizes off-the-shelf Ethernet components; no special hardware is required. However, Gigabit switches are strongly recommended. Shure has had success using the Cisco SG300 series of network switches.
+	
+	Audio between Dante-enabled devices is routed using Dante Controller software, which can be downloaded for free from the Audinate website: audinate.com
+	
+	To learn more about how Dante works, or learn how to configure a Dante network, detailed information can be found in Audinates FAQ:
+	audinate.com
+

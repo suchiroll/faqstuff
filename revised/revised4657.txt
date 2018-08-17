@@ -1,0 +1,16 @@
+Title: M44-7 headshell weight in grams
+Id: 4657
+Legacy Id: 5821
+
+Question:
+How many grams is the headshell weight that is included with the M44-7?
+
+
+
+Answer:
+
+	
+		3.25 grams.
+
+
+

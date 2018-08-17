@@ -1,0 +1,14 @@
+Title: Engrave a KSM9 microphone
+Id: 4260
+Legacy Id: 5317
+
+Question:
+My boss wants me to engrave our new KSM9's with a company ID. Will this damage the mic?
+
+
+Answer:
+
+	Make certain that the metal shavings do not get into the grill or mic element.Recommend that the mic element and grill be covered in plastic during the engraving.
+	
+	The vibration from the engraving will not damage the mic.
+

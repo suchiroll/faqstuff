@@ -1,0 +1,19 @@
+Title: UA845US RF Bandwidth
+Id: 4276
+Legacy Id: 5342
+
+Question:
+I am concerned that I cannot use my AXT400-G1 below 500MHz because the rental company sent me a UA845US RF distro amp. The UA845US is marked as "500-900MHz". I think that I need the US845SWB and not the UA845US.
+
+
+
+Answer:
+
+	No Shure RF distribution amp has a brick wall filter at the passband limits. The stated RF bandwidth is the typical or recommended range, not the actual complete useable range.
+
+	Although the UA845US is marked as 500-900 MHz, the UA845US may be employed down to 470MHz (the bottom of the U.S. UHF band) and up to 952MHz (the upper limit of our US UHF bands). An internal Shure Engineering report includes tables of measured gain and measured bandwidth at both the filtered ports (main outputs) and the cascade ports of the UA845US.
+
+	Specifically, the report states that the measured gain at 471MHz is +2.8dB at the A output (+2.7dB at the B output), well within the specified limit range of +3.25 +/- 1.75dB.For comparison, the measured gain in the passband ranges from +3.4 to +4.0dB.At the upper end the measured gain is +2.7dB at 952MHz. Thus, the measured gain at 470Mhz and at 952MHz is less than 1dB below the average gain in the passband.
+
+	The actual useable bandwidth of a radio device, such as an amplifier, filter, or antenna, is considered to be the frequency range between the -3dB points in the overall frequency response of the device. Measuring the bandwidth of the UA845US, the report shows that at 410MHz the measured response is -7.7dB, indicating that the -3dB point is well below 470MHz.At the upper limit, the measured response at 1172MHz is -9.6dB, indicating that the -3dB point is well above 952MHz.
+

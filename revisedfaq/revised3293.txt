@@ -1,0 +1,341 @@
+Title: Best practices for UHF-R Series wireless systems
+Id: 3293
+Legacy Id: 3456
+
+Question:
+How does Shure recommend using my UHF-R series wireless system to the best capabilities?
+
+Answer:
+
+	UHF-R Series: Best Practices for a Successful Event
+
+	Preparation:
+
+	
+		Identify the city and state (or zip code ) of your event.
+	
+		Use this information on the Shure Frequency Reference Guide at:
+		
+			
+				www.shure.com/frequency
+		
+	
+	
+		Select UHF-R Wireless series, use 50 mile (default) lookup radius, submit!
+	
+		Note the number of available channels in each frequency band.
+	
+		Choose the appropriate band to accommodate the required number of channels. If sufficient channels are not available or if more than one band is required, call Shure Applications Engineering at 800-516-2525 for assistance with frequency coordination.
+	
+		If additional UHF range (470-806 MHz) wireless equipment will be used (other wireless microphones, in-ear monitors, wireless intercom, etc.) call Shure Applications Engineering for assistance with frequency coordination.
+
+
+	Setup: Receiver Antennas
+
+	
+		Determine area of operation of transmitters.
+	
+		Determine receiver antenna locations for best line-of-sight to transmitters.
+	
+		Locate receiver antennas no closer than 15 feet to nearest transmitter.
+	
+		From the receiver antennas, the most distant transmitter should be no more than four times as far as closest transmitter. Ideally, transmitters should all be at a similar distance from receiver antennas.
+	
+		Use  wave antennas for transmission distances up to 100 ft.
+	
+		Use active directional antennas for transmission distances beyond 100 ft.
+	
+		Using Shure antennas:
+		
+			UA820G,  wave antenna for G1 band
+			UA820H4,  wave antenna for H4 band
+			UA820J,  wave antenna for J5 band
+			UA820L3,  wave antenna for L3 band
+			UA860SWB,  wave wideband antenna for ALL UHF-R bands
+			UA870USTV, active directional antenna for ALL UHF-R bands
+	
+	
+		Elevate receiver antennas well above the audience or other obstructions.
+	
+		Locate diversity antennas at least two feet apart.
+	
+		Keep antennas at least one foot away from other metal objects.
+	
+		Keep antennas at least two feet away from RF noise sources such as digital audio processors, video devices, CD/DVD players, computers, etc.
+
+
+	Setup: Antenna cables
+
+	
+		1) Connect antennas to receiver rack using the shortest length of 50 ohm cable.
+	
+		Using Shure cables:
+		
+			UA825, 25 feet of RG-8/X, no amplifier necessary
+			UA850, 50 feet of RG-8/X, use amplifier (UA830USTV) at +3dB gain
+			UA8100, 100 feet of RG-213/U, use amplifier (UA830USTV) at +10dB gain
+	
+	
+		Using Shure in-line antenna amplifiers:
+		
+			UA830USTV, in-line +3/+10dB amplifier for ALL UHF-R ranges
+	
+	
+		Do NOT use excessive antenna system gain:
+		
+			UA870USTV must have at least 50 ft. transmission distance
+			UA870USTV or UA830USTV @+3dB must use at least 25 ft. cable
+			UA870USTV or UA830USTV @ +10dB must use at least 50 ft. cable
+	
+	
+		Protect antenna cables from kinking, crimping or crushing.
+
+
+	Setup: Antenna distribution
+
+	
+		Single UHF-R bands will require wideband antenna distribution system.
+	
+		Multiple UHF-R bands will require wideband distribution system.
+	
+		Using Shure antenna distribution:
+		
+			UA221, passive 2-way splitter for two receivers in ALL UHF-R bands
+			UA844SWB, active 4-way splitter for up to four receivers in ALL UHF-R bands
+			UA845SWB, active 5-way splitter for up to five receivers in ALL UHF-R bands
+	
+	
+		Using multiple active splitters:
+		
+			
+				One top level splitter UA844SWB (or UA845SWB) can feed up to 4 (or 5) second level splitters
+			
+				Second level UA844SWB (or UA845SWB) splitters can feed up to 4 (or 5) receivers
+			
+				Second level UA844SWB (or UA845SWB) splitters may NOT feed additional active splitters
+		
+	
+	
+		Connect A and B antenna cables (or antennas) directly to splitter A and B antenna inputs.
+	
+		Connect splitter outputs to appropriate receiver antenna inputs.
+
+
+	Setup: Receivers (using pre-selected groups)
+
+	
+		Program receivers with Group and Channel set from Preparation section.
+	
+		Programming Shure UR4 receivers:
+		
+			
+				Use only Numbered Groups: G1, H4, J5, L3: Groups 1-10
+			
+				Within a given band, ALL systems should be set to the same Group and different CHANNELS within that Group. DO NOT MIX GROUPS!
+		
+	
+	
+		Set output mic/line switches as necessary.
+	
+		Set audio output level, using the front panel menu, as appropriate for the device that follows the UHF-R receiver.
+	
+		Program receiver Names as necessary.
+
+
+	Setup: Receivers (using Scan function)
+
+	
+		Select one channel of one receiver for scanning
+	
+		Press Radio button
+	
+		Press Scan button
+	
+		Press Group Scan button to find best group
+	
+		Receiver will scan and display Scan In Progress
+	
+		When scan is complete:
+		
+			
+				receiver will display Scan Done
+			
+				receiver will display best group, number of open frequencies, and number of networked receivers found
+		
+	
+	
+		Press flashing enter button to program networked receivers with frequencies.
+
+
+	Setup: Transmitters (using Sync function)
+
+	
+		Turn on transmitter.
+	
+		Open battery compartment on transmitter to expose IR port.
+	
+		Hold transmitter IR port facing receiver IR port at about 8 inch distance.
+	
+		On desired receiver channel press Sync button once.
+	
+		Press Sync button again.
+	
+		Sync will begin.
+	
+		When sync is complete, receiver will display Sync success
+	
+		Set transmitter audio levels:
+		
+			
+				UR1 bodypack transmitter: set input sensitivity to 0 for lavalier microphone
+			
+				UR2 handheld transmitter and UR1 bodypack transmitter: adjust input gain so that red LED peak light on UR4 receiver just flashes on LOUDEST sound
+		
+	
+
+
+	Setup: Transmitters (manual)
+
+	
+		Program transmitters to match receiver Group and Channel set.
+	
+		Set transmitter audio levels:
+		
+			
+				UR1 bodypack transmitter: set input sensitivity to 0 for lavalier microphone
+			
+				UR2 handheld transmitter and UR1 bodypack transmitter: adjust input gain so that red LED peak light on UR4 receiver just flashes on LOUDEST sound
+		
+	
+
+
+	Pre-show Checkout
+
+	
+		Verify good batteries in each transmitter.
+	
+		Turn OFF all transmitters.
+	
+		Turn ON all receivers.
+	
+		Observe RF signal LED strings on receivers:
+		
+			
+				0-2 LEDs on either side: channel is OK to use
+			
+				3 or more LEDs on either side: channel has excessive interference. Change to another compatible channel if available and change corresponding transmitter accordingly.
+		
+	
+	
+		Turn on each transmitter ONE at a time to verify signal at corresponding receiver. Transmitters must be at least 15 feet from any receiver antenna.
+	
+		Turn on all transmitters to verify signals at all receivers. Transmitters must be at least 15 feet from any receiver antenna AND transmitters must be at least 3 feet from each other.
+	
+		Conduct a walk around test for each transmitter throughout the performance area. If locations of low RF are found, reposition receiver antennas to compensate if possible. If set pieces or other fixed obstructions are problematic, the allowable performance area may have to be modified.
+
+
+	Show Operation:
+
+	
+		Turn on required receivers.
+	
+		Mute or turn off unused receivers
+	
+		Turn on required transmitters. Transmitters must be at least 15 feet from nearest receiver antenna.
+	
+		Verify reception at receivers.
+	
+		Place transmitters with participants.
+	
+		Using Shure UR1 bodypack transmitter:
+		
+			
+				Attach to participant as high on the body as possible: breast pocket of jacket, belt, etc.
+			
+				Do not fold or shorten bodypack antenna.
+			
+				Do not allow participant to sit on bodypack.
+			
+				Position lapel microphone as close as possible to mouth: knot of tie, collar, lapel, etc.
+			
+				Aim directional microphones (WL184, WL185, WL51) toward mouth.
+			
+				Position omnidirectional head-worn microphone at corner of mouth (WBH53, WCE6).
+			
+				Position unidirectional head-worn microphone slightly forward and to the side of mouth (WBH54, WH20, WH30, WCM16).
+			
+				Power lock transmitter if desired (press and hold exit and enter buttons together).
+			
+				Frequency lock transmitter if desired (press and hold exit and up arrow buttons together).
+		
+	
+	
+		Using Shure UR2 handheld transmitter:
+		
+			
+				Do not place hand around antenna.
+			
+				Do not place hand around microphone grille.
+			
+				Maintain consistent mouth to microphone distance: 6-12 inches for talkers, 0-6 inches for singers.
+			
+				Maintain consistent on-axis orientation: within 130 for cardioid (SM58, SM86, Beta 87C), within 115 for supercardioid (SM87, Beta 58A, Beta 87A).
+			
+				Power lock transmitter if desired (press and hold exit and enter buttons together).
+			
+				Frequency lock transmitter if desired (press and hold exit and up arrow buttons together).
+		
+	
+	
+		Monitor RF levels during show, either on the receiver front panels or by USB or ethernet computer interface.
+	
+		Monitor audio levels during show, either on the receiver front panels or by USB or ethernet computer interface.
+	
+		Monitor audio directly on headphone outputs on receiver front panels.
+
+
+	General tips:
+
+	
+		(mobile phones, Blackberrys, Trios, etc.) in the performance area. In particular, do not allow participants to carry active GSM devices. Units must be COMPLETELY OFF, not just on silent. It goes without saying (but well say it anyway) that the engineer and any other staff near the audio equipment must not have active GSM devices!!!!!!!!!!!!!!!!!
+	
+		Do not allow any staff to operate two-way radio devices near audio equipment, particularly wireless receivers.
+	
+		Do not cue up un-occupied receivers in the sound system. Receivers without active transmitters should be muted or turned off.
+	
+		Do not set up system with some transmitters very close to receiver antennas and other transmitters far away. The nearby transmitters can desensitize ALL receivers.
+	
+		Regularly check center pins on all male BNC connectors, particularly  wave antennas.
+	
+		In the UHF range, line-of-sight is critical: elevate receiver antennas as high as necessary to see the transmitters at all times.
+	
+		Keep losses in antenna cabling to 5dB by USING short cables, low-loss cables, and/or amplifiers.
+	
+		Keep excess gain in antenna cabling to 10dB by NOT USING too much amplification or directional antennas at short range.
+	
+		The headphone output is post-squelch.
+	
+		Consider using the USB or Ethernet ports for PC computer hookup of UR4 receivers:
+		
+			
+				USB connects to a single UR4D or UR4S
+			
+				Ethernet connects to 128 UR4D or UR4S
+			
+				Software allows scanning, walk around, and easy receiver/transmitter setup.
+		
+	
+	
+		Consider using a third-party scanner such as WinRadio (www.winradio.com) to evaluate the radio environment before and during the event.
+
+
+	References:
+
+	Selection and Operation of Wireless Microphone Systems, Shure publication AL1247
+
+	
+
+	UHF-R User Guide
+
+	Questions? Call Shure Applications Engineering at 800-516-2525.
+

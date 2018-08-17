@@ -1,0 +1,24 @@
+Title: ULXD Antenna Cascade
+Id: 4197
+Legacy Id: 5154
+
+Question:
+How many ULXD receiver units can be cascaded for the RF signal?
+
+
+Answer:
+
+	The recommendation is two units. This applies to the ULXD dual receiver (ULXD4D) and the ULXD quad receiver (ULXD4Q). The antennas connect into receiver unit #1 and cascade into receiver unit #2.The cascaded units must share the same operating frequency band, such as G50.
+
+	
+
+	- Using two dual units, a single antenna pair will feed four receiver channels.
+
+	- Using one dual unit and one quad unit, a single antenna pair will feed six receiver channels.
+
+	- Using two quad units, a single antenna pair will feed eight receiver channels.
+
+	
+
+	Note: The RF cascade ports continue to operate if more than two units are cascaded. However, the issue is RF signal degradation (IMD and RF noise)that will occur each time the signal passes throughan RF cascade circuit. At some point, the RF signal will become too distorted/corrupted to be useful. Thus, Shure recommends the conservative approach to cascadeonly two units. No damage will occur if more than two units are connected in cascade.
+

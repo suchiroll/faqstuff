@@ -1,0 +1,11 @@
+Title: PSM200 U.S. Frequency Range
+Id: 2780
+Legacy Id: 2888
+
+Question:
+I wanted to know the adjustable frequency range on the PSM200.
+
+
+Answer:
+
+	Assuming you are in the United States, the range is 518 - 554 MHz; TV channels 22 - 27.

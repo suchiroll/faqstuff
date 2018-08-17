@@ -1,0 +1,18 @@
+Title: SB900 Charging Time and Data
+Id: 4377
+Legacy Id: 5468
+
+Question:
+Please provide data on SB900 charging.
+
+
+Answer:
+
+	Full Charge: within three hours or 50% charge in one hour
+	
+	Battery Life Accuracy: within 15min
+	
+	Battery Statistics: % Health, % Charge, Number of Cycles, Temperature
+	
+	Lithium-Ion chemistry with zero memory effect
+

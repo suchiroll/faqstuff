@@ -1,0 +1,9 @@
+Title: Upgrading SCM820 to Dante with A820-NIC-DANTE
+Id: 5454
+Legacy Id: 
+
+Question:
+I have an SCM820. I purchased the A820-NIC-DANTE and installed it, but now the SCM820 does not boot up. What can I do?
+
+Answer:
+If the SCM820 was on older firmware than what the A820-NIC-DANTE was expecting, this problem can occur. Make certain you update the SCM820 to the latest firmware before installing the A820-NIC-DANTE

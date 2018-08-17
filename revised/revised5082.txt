@@ -1,0 +1,199 @@
+Title: ULX Quick Start Frequency Setup
+Id: 5082
+Legacy Id: 3744
+
+Question:
+How do I easily set up the frequencies on ULX wireless systems?
+
+
+
+Answer:
+
+	ULX Quickstart Frequency Setup
+
+
+	
+		
+			
+				
+					
+						
+							Same Frequency Band. All wireless channels share same frequency code (G3, J1, M1)
+					
+				
+				
+					
+						
+					
+						
+					
+						
+				
+				
+					
+						
+							Choose either ULXP or ULXP/ULXS system setup
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											ULXP (Professional). All wireless systems share the same frequency code and are ULXP systems.
+									
+								
+							
+						
+					
+					
+						
+					
+						
+							
+								
+									
+										
+											ULXP  ULXS Systems. All wireless systems share the same frequency code but are a combination of ULXP and ULXS systems with at least one ULXP system.
+									
+								
+							
+						
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Group Scan. Perform a Group Scan on the ULXP receiver. Hold [SET] while pressing [MODE]. Group Scan will flash. Rotate Scroll wheel to start group scan.
+									
+								
+							
+						
+					
+					
+						
+					
+						
+							
+								
+									
+										
+											Group Scan. Perform a Group Scan on the ULXP receiver. Hold [SET] while pressing [MODE]. Group Scan will flash. Rotate Scroll wheel to start group scan.
+									
+								
+							
+						
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Group Setup. Setup all remaining receivers to recommended group from scan results. Push [MODE] twice, Rotate scroll wheel to desired group, Push [SET] twice to lockin the group.
+									
+								
+							
+						
+					
+					
+						
+					
+						
+							
+								
+									
+										
+											Group Setup. Setup all remaining receivers to recommended group from scan results. Push [MODE] twice, Rotate scroll wheel (or push arrow buttons [ULXS]) to desired group. Push [SET] twice to lockin the group.
+									
+								
+							
+						
+					
+				
+				
+					
+						
+							|
+							▼
+					
+					
+						
+					
+						
+							|
+							▼
+					
+				
+				
+					
+						
+							
+								
+									
+										
+											Channel Scan  Transmitter Setup. Once all receivers are on the same group, perform a channel scan. Push [MODE], then rotate scroll wheel (or push up arrow on ULXS), Push set to lock to flashing channel. Set transmitter to group  channel setting. Hold [MODE] on transmitter for 3 seconds. Channel # will disappear. Push [SET] until desired group is reached. Push [MODE] to switch to channel setup. Push [SET] until desired channel is reached. Push [MODE] to lock transmitter to settings. RF indicatorson receiver will illuminate. Repeat scan  transmitter setup process with remaining systems. NOTE: You must leave transmitters on after each system setup to ensure the channel scan does not duplicate frequency selection.
+									
+								
+							
+						
+					
+				
+			
+		
+	
+
+
+
+	To coordinate multiple frequency bands together, use the Wireless Workbench Software.
+

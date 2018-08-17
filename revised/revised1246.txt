@@ -1,0 +1,17 @@
+Title: Mics needed for a boardroom system
+Id: 1246
+Legacy Id: 1292
+
+Question:
+I am putting together a teleconferencing system. The boardroom table is 16' X 5'. It seats a total of 16 people. The ceilings are 9' high. I'm considering using the overhead microphones MX202 or the boundary microphones MX392. The boundary mics will be less likely since many modifications would need to be made to the floor and boardroom table. My questions are the appropriate number of mics I would need in either situation. I have a sheet from Shure that says the overhead mics will throw a pattern that is 8-10' wide, but at a 130 degree angle it seems the pattern would be closer to 6'. For the boundary mics, 1 per every 2 people is on the sheet from Shure, so that would be 8 mics, but would you recommend an omni for the boundary rather than cardioid pattern since the table is only 5' wide?
+
+Answer:
+
+	1. We strongly suggest whatever mic model that can be placed closest to the talker's mouth.
+	2. Use cardioid mics.
+	3. Use one mic for every two talkers.
+	4. Plan for the pickup angle of the cardioid mic to be 120 degrees.
+	5. Use an automatic mixer, like the Shure SCM810, to control the number of open mics.
+	6. Read: Audio Systems Guide for Distance Learning
+	7. Read Audio Systems Guide for Meeting Facilities
+

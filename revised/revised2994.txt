@@ -1,0 +1,12 @@
+Title: KSM32 - Appearance of the grill screen
+Id: 2994
+Legacy Id: 3122
+
+Question:
+I have two KSM32 microphones, manufactured several years apart. The grill screens are different. Is this correct?
+
+
+Answer:
+
+	The KSM32 grille has changed since its introduction. Around 2002, Shure shifted to a more coarse grille (but not as coarse as the KSM27) to visually differentiate the KSM32 from a KSM44. There are no sonic differences; the change is purely cosmetic.
+

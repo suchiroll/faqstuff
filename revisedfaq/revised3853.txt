@@ -1,0 +1,11 @@
+Title: Status of Axient battery after long term storage.
+Id: 3853
+Legacy Id: 4093
+
+Question:
+We often store our AXT910 and AXT920 batteries for a month or two during our down time. We use the battery charger to put them in storage mode and do not store them in the charger. When we start using the batteries again, do they remember the correct battery life statistics?
+
+
+Answer:
+
+	After being in storage for a long time, the battery life and health are not as accurate.  However, after they batteries are used and recharged they will be accurate again.

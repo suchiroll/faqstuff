@@ -1,0 +1,11 @@
+Title: 545S microphones
+Id: 1664
+Legacy Id: 1721
+
+Question:
+Are the older Shure microphones model 545S-Unidyne 3 undirectional dynamic microphone and the 545S impedance microphone the same microphone with a different description or are they two different mics?
+
+
+Answer:
+
+	545S is the model number. Unidyne III is the design of the mic element. The 545 models have always used the Unidyne III element. Therefore, a 545S Unidyne III is the same as the 545S.

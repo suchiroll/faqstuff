@@ -1,0 +1,12 @@
+Title: Frequency response charts for microphones
+Id: 2406
+Legacy Id: 2498
+
+Question:
+I am opening a new studio and would like the frequency response charts for the following. Beta 57, SM57, SM81. I need the actual charts themselves to make it more understandable to my board members and investors.
+
+
+Answer:
+
+	The charts are available and are on the product User Guides. The guides may be viewed on the Shure website.
+

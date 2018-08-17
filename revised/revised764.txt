@@ -1,0 +1,17 @@
+Title: VP64A for church use
+Id: 764
+Legacy Id: 785
+
+Question:
+I need to get a mic that can capture some congregational singing in a church building (seats 200, echos a bit). Can't spend a billion dollars and I thought that the VP64A handheld omni would be good. Would it work alright?
+
+
+Answer:
+
+	At 03/20/2001 07:43 AM we wrote - We need to know the purpose of the mic: recording? broadcast? public address?
+	
+	We may also refer to the following links for assistance:
+	http://www.shure.com/pdf/booklets/church.pdf
+	http://www.shure.com/pdf/booklets/studio.pdf
+	http://www.shure.com/pdf/booklets/music.pdf
+

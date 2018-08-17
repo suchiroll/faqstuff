@@ -1,0 +1,14 @@
+Title: Recording Infra-sonic low frequency sound
+Id: 3550
+Legacy Id: 3756
+
+Question:
+I intend to purchase products that can be used to record low frequency sound. That is, sound at or below 20 hz. This is below the threshold of human hearing. Which of your microphones can accomplish this task? Do I need additional specialized equipment to accomplish this task?
+
+
+Answer:
+
+	You require an infra-sonic microphone as it operates below 20 Hz.Sorry, Shure does not offer such a product.
+	
+	Try makers of measurement microphones, such as ACO-Pacific,Bruel  Kjaer.
+

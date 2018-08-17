@@ -1,0 +1,11 @@
+Title: Model 61CP
+Id: 4647
+Legacy Id: 5806
+
+Question:
+Please provide a user guide for the model 61CP Vibration Pickup.
+
+Answer:
+
+	See User Guide below. It is a PDF file.
+

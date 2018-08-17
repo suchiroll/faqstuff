@@ -1,0 +1,27 @@
+Title: BRH441M with Telex RTS BP325 Pack
+Id: 5378
+Legacy Id: 5415
+
+Question:
+BRH441M with Telex RTS BP325 Pack
+
+Answer:
+
+	RTS BP325 Wiring Schemes as shown on the Telex website
+	
+	Dynamic Mic with Monaural Headset Connector / XLR-4-31
+	Pin 1 = mic low (BRM441M black wire)
+	Pin 2 = mic high (BRM441M red wire)
+	Pin 3 = common (BRM441M white wire and cable shield)
+	Pin 4 = headphone high (BRM441M green wire and yellow wire)
+	
+	Dynamic Mic with Stereo Headset Connector / XLR-5-31
+	Pin 1 = mic low (BRM441M black wire)
+	Pin 2 = mic high (BRM441M red wire)
+	Pin 3 = common ground (BRM441M white wire and cable shield)
+	Pin 4 = headphone left high (BRM441M green wire)
+	Pin 5 = headphone right high (BRM441M yellow wire)
+	
+	NOTE: The BRH441M cannot be used with any RTS pack that requires a carbon mic element.
+
+

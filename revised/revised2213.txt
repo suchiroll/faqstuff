@@ -1,0 +1,11 @@
+Title: How do I set the Gain Structure of my sound system?
+Id: 2213
+Legacy Id: 2289
+
+Question:
+I've heard the term Gain Structure, but I've never completely understood. How do I properly set up the gain structure in a sound system?
+
+Answer:
+
+	One of the best explanations of gain structure that we've seen is on ProSoundWeb.com. A PDF of the article is attached to this Answer. Click on the pdf attached file just below.
+

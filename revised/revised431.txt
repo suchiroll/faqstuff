@@ -1,0 +1,11 @@
+Title: Wireless push to talk mics
+Id: 431
+Legacy Id: 439
+
+Question:
+Do you have a wireless version of the MX412D/C? I would need to use 15 of them in each room for Distance Education and video conferencing.
+
+Answer:
+
+	Take a look at the MXW wireless, the MX890, or the ULXD8.
+

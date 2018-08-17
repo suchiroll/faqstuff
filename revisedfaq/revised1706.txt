@@ -1,0 +1,13 @@
+Title: Are Shure U1(UA) and UC1(UA) transmitters interoperable?
+Id: 1706
+Legacy Id: 1764
+
+Question:
+I think the answer to this is yes but I just want to check. Can I use UC series bodypacks with U series receivers and also the reverse? I have some instructors who want to purchase their own body packs but are balking at the U1's cost.
+
+
+Answer:
+
+	 " Can I use UC series bodypacks with U series receivers and also the reverse?" *Yes.
+	
+	Keep in mind that the U series will have twice as many available frequencies, be it the transmitter or the receiver.

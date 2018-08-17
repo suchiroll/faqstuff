@@ -1,0 +1,19 @@
+Title: Discontinuation of the PSM400 X1 and P4M mixer
+Id: 3777
+Legacy Id: 4013
+
+Question:
+When were the PSM400 X1 products discontinued? And the P4M mixer? What were the final prices?
+
+
+Answer:
+
+	The PSM400 X1 (944 - 952 MHz) products were discontinued in September 2010.  The recommended replacement is the PSM300 series.
+	
+	Final U.S. retail prices:
+	P4T-X1 transmitter with removable antenna- $424
+	P4R-X1 wireless receiver - $449
+	P4M four channel personal monitor mixer - $424
+	
+	Suggested replacement products for P4M:  1) Split Mix 4 by ART;  2) MyMonitor by ART    www.artproaudio.com
+

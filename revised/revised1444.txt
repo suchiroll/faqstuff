@@ -1,0 +1,12 @@
+Title: High pressure waterproof communications mic
+Id: 1444
+Legacy Id: 1497
+
+Question:
+I'm looking for waterproof / water tolerant microphones for use in "air" at depths of up to 500 ft (225 psi). The Mic will be exposed to water on the trip down and back.
+
+
+Answer:
+
+	Sorry, we do not offer such a microphone.
+

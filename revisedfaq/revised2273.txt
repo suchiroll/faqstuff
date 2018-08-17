@@ -1,0 +1,26 @@
+Title: Wireless UHF Frequencies in the United Kingdom
+Id: 2273
+Legacy Id: 2354
+
+Question:
+We've just introduced 6 channels of Premier S2 UHF to our hire stock. Is it possible to use these units in conjunction with the Series 1 units? ie using 8 channels of series 1 with the 6 new channels of series 2
+
+Any hints or tips?
+
+
+Answer:
+
+	Please find attached Word documents and Excel files.
+	
+	It gives you all information requested. There is one mistake in the attached Word document. The labeling of the receiver front plate has not changed as announced in this document.
+	
+	The UA888 computer interface software has been updated to version 2.4 in the meantime. It is needed when your hooking it up to your new U MK2 models.
+	
+	Please have a look into the frequency maps of versions U MK2-S2 and former U-KK (Excel files). The first 10 groups of both systems are identical. Within these groups you will find preselected compatible channels. If you are mixing the discontinued U version with the MK2 version within one setup, you are asked to chosse one of the first ten groups for both models. These groups offer you up to 16 preselected compatible channels.
+	
+	Example:set your eight U-KK systems to 10/1, 10/2, ....;10/8 and the six new U MK2-S2 to 10/9, 10/11, ....;10/14.
+	
+	U Mk2-S2 offers you up to 28 compatible channels, but only if you use MK2 exclusively.
+	
+	Please do not use a MK2 transmitter with an old U4 receiver and vice versa. This will result in bad audio quality.
+

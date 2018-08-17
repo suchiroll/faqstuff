@@ -1,0 +1,15 @@
+Title: Mic Preamp circuit design
+Id: 1018
+Legacy Id: 1047
+
+Question:
+I'm setting up a home recording studio based around my pc, and want to use some of your mics. But I can't afford expensive mixers. So I'm trying to build a little one or two transistor circuit to bring mic level up to sound card input level. So I can record say from one of your dynamic mics. As I like to build my own circuits to save money I need a circuit to do this. I like the mpsa18 transistor for its low noise. I've tried op amps but building a bipolar suply is too complex for me. Do you have any ideas how I might build a simple circuit to boost the level of your mics that is low noise AND high gain that will be compatible with your mics with a minimum of components? The circuits ive built so far are OK - but fall down in the gain area when the source is a few feet back from mic. Any ideas would be greatly appreciated.
+
+
+PS - I will be using 3 pin xlr mics.
+
+
+Answer:
+
+	For circuit designs, see: http://www.epanorama.net/
+

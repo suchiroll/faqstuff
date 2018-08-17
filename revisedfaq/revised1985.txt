@@ -1,0 +1,12 @@
+Title: Wireless mic for a violin
+Id: 1985
+Legacy Id: 2048
+
+Question:
+I would like to try to mike a violin using a wireless mic-----what do you recommend?
+
+Answer:
+
+	Put the mic on the violinist, not the violin. Experiment with positioning.
+	
+	Try the WL93 mic or the MX150B/O-TQG mic.  Both are available with the proper connector to mate with a Shure transmitter that has a TQG connector.

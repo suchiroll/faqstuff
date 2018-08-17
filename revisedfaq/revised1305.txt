@@ -1,0 +1,33 @@
+Title: Why is the UHF (U series) only 10 mW?
+Id: 1305
+Legacy Id: 1355
+
+Question:
+I have recently been looking to purchase some UHF wireless mics, and it has come down to a contest between you and Sennheiser. I like everything about the shure UHF series and have used them before, but the transmitters only transmit at 10 mW. Whereas, the Sennheiser UHF transmitters transmit at 50 mW on the same frequency spectrum.
+
+
+Could you please tell me why your highest quality mic system has such a low power output?
+
+
+Answer:
+
+	
+		Longer battery life than transmitters with higher outputs.
+	
+		Allows more simultaneous operating systems due to less IM problems.
+	
+		Can be sold in Japan which regulates wireless mics to a max 10mW output.
+	
+		Allows Shure UHF to meet German specifications for spurious RF emissions.
+	
+		In UHF bands, there is much less RF interference and the interference that is there has much lower power. Therefore, 10 mW is typically plenty of power.
+	
+		When tested against higher output competitors, we equal or exceed their transmission range - due to our very efficient antenna design and very efficient receiver design.
+
+
+	Also, realize that the specification that we must state according to FCC regulation, is the conductive output power. Conductive output power does not take into effect antenna efficiency.
+
+	The UC system uses 50 mW transmitters, because the antenna efficiency is not as good as the UHF series.
+
+	We suggest that you test the units yourself to see which one has a better range.
+

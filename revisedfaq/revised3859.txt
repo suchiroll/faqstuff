@@ -1,0 +1,12 @@
+Title: Earphone nozzle insert
+Id: 3859
+Legacy Id: 4101
+
+Question:
+Should I remove the white inserts from the nozzles of my Shure earphones?
+
+
+Answer:
+
+	No, these inserts should not be removed! They are acoustical dampers and are essential because they equalize the frequency response of the earphones. If these inserts become loose or lost, contact an authorizedShure service center for inspection / repair.
+

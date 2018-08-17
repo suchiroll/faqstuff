@@ -1,0 +1,13 @@
+Title: M95HE recommendations
+Id: 345
+Legacy Id: 352
+
+Question:
+I have a M95HE cartridge but I don't have the manual for it.  Could you a) let me know how it stands relative to your present line up (i.e., audiophile, versatility, value) and b) recommended tracking and anti-skating?
+
+Answer:
+
+	The M95HE will have performance similar to the current M94E; two steps down from the best cartridge, the V15VxMR.
+	
+	The M95HE tracks from .75 to 1.5 grams. Set the anti-skate to match your selected tracking weight.
+

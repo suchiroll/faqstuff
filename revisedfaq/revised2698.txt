@@ -1,0 +1,18 @@
+Title: Miking a pandeiro
+Id: 2698
+Legacy Id: 2802
+
+Question:
+How is pandiero miked?
+
+
+Answer:
+
+	A Shure customer provided the following information:
+	
+	I attended a workshop with Marcos Suzano (need no introduction for pandeiro players) and asked him what kind of mic he used for his pandeiro. His answer was: Shure SM98 His likes the size (has to be small for pandeiro mounting) and its capability of handling high SPL. Its successor is the BETA 98 and it has the same important features.
+	
+	I noticed his mounting system: None! it was a quick and dirty solution with gaffer tape directly on the edge of the pandeiro frame.
+	
+	I also noticed the mics angle of direction: The BETA 98 has to be parallel to the skin! In other words, the mic has to point to the opposite side of the frame. I have tried to point the BETA 98 in the direction of the skin to get a more bass from my pandeiro, but it also changes the balance between jingles and skin. Parallel to the skin is the way to go.
+

@@ -1,0 +1,12 @@
+Title: MXA910 and MXA310 automix priority behavior
+Id: 4998
+Legacy Id: 6266
+
+Question:
+How does "automixing" priority work on the MXA310 and MXA910?
+
+
+Answer:
+
+	Priority works just like the Chairperson Override feature in the SCM820, where a channel with priority will activate even if the NOM (number of open mics) has been filled.
+

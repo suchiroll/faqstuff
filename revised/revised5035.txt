@@ -1,0 +1,12 @@
+Title: Why VHF wireless systems are making a comeback in 2016?
+Id: 5035
+Legacy Id: 6327
+
+Question:
+I always heard that UHF was better than VHF. In today's world, why would I buy a VHF wireless microphone system?
+
+
+Answer:
+
+	There is nothing inherently superior about the UHF television spectrum for wireless microphones. At the time when UHF wireless microphones started gaining popularity, there was much more available UHF spectrum than there is today, making it easier to get a large number of channels on the air, as compared to VHF. With the impending loss of more UHF spectrum due to the Incentive Auction, now more than ever, any available spectrum is considered good spectrum. The VHF band is as predictable as UHF, making it attractive for top professional users that require a more stable RF environment (as opposed to unlicensed spectrum bands). Note that VHF channels may also be affected by the repacking of the TV bands, post-auction. But to the extent that there are available VHF channels, they should be considered just as useful as any open UHF channels.
+

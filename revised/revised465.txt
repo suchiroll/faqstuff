@@ -1,0 +1,13 @@
+Title: Sound dropping out of PSM400
+Id: 465
+Legacy Id: 474
+
+Question:
+I just bought your PSM400 Wireless Personal Performance Pack. I LOVE it, but sometimes the signal cuts out, then it comes back in. Is that to be expected? Also, I've bought brand new 9-volt batteries and I notice that sometimes the PSM400 wireless receiver says that the battery has no power and the unit doesn't work. When I change the battery, it seems to work for a little while, then it shows that there's no power left in the battery.I'm not sure if I need to take the receiver back to where I bought it and have them check it out or can I just have them replace the receiver? Thanks!
+
+
+Answer:
+
+	The PSM400 systems are single antenna wireless systems. As with any wireless, whether it is a microphone or personal monitor, a single antenna system will be subject to occasional dropouts. Diversity receivers used with wireless microphones overcome this problem by using two antennas, or even two entirely seperate receiver sections, to prevent dropouts. PSM receivers, however, are too small to incorporate an effective diversity receiver. If you are experiencing a large amount of dropout (every couple of seconds, no matter where you stand) then there may be a problem, but the occasional dropout is to be expected.
+	
+	As for the battery life, always use high quality alkaline batteries (Duracell, Energizer), since they offer the longest life - usually 4 to 6 hours. Never use rechargeables! If there is still a problem, you can return the unit to the store. If the store will not exchange it for you, return it directly to our Service Department for repair.

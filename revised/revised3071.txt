@@ -1,0 +1,48 @@
+Title: Lavaliers to plug into Sennheiser EW300
+Id: 3071
+Legacy Id: 3202
+
+Question:
+I was wondering if you had lavalier mics to fit the Sennheiser EW300.
+
+
+Answer:
+
+	None of our lavaliers come wired for the Sennheiser bodypack. But, if someone is handy with a soldering iron, a new connector, wired correctly can be put on any of our lavaliers. Use the following wiring:
+
+	
+		
+			
+				Lavalier
+			
+				1/8-inch connector
+		
+		
+			
+				Red wire
+			
+				Tip
+		
+		
+			
+				Black wire
+			
+				Sleeve
+		
+		
+			
+				Shield
+			
+				Sleeve
+		
+		
+			
+				Not Connected
+			
+				Ring
+		
+	
+
+
+	
+

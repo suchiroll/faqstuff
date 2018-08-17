@@ -1,0 +1,12 @@
+Title: Omnidirectional mic - small hole in the capsule?
+Id: 2609
+Legacy Id: 2711
+
+Question:
+I am studying Media Technology, microphones are the topic at present, was wondering if you could help me with a question? What is the purpose of the equalizing hole in the capsule of an omnidirectional mic?
+
+
+Answer:
+
+	It is called a barometric leak. It equalizes the air pressure on both sides of the diaphragm. It serves the same function as the Eustachian tubes in the human ear.
+

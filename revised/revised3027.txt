@@ -1,0 +1,14 @@
+Title: Set up of the SLX when using other wireless transmitters
+Id: 3027
+Legacy Id: 3157
+
+Question:
+When using the SLX scanning feature in a sound system that includes non-SLX transmitters, should these transmitters be powered ON or OFF?
+
+
+Answer:
+
+	For multiple system setup, the SLX User Guide says to turn all receivers on and all transmitters off. This assumes that all systems in use are SLX.
+	
+	If non-SLX transmitters are in use, they need to be powered ON in order for the SLX scanning feature to see the frequencies in use.
+

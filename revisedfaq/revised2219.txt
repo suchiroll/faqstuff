@@ -1,0 +1,12 @@
+Title: Replacement for M92LT
+Id: 2219
+Legacy Id: 2295
+
+Question:
+Do you have any products that can replace a M92LT cartridge? Can I use an M92E?
+
+
+
+Answer:
+
+	Yes. The M92E would be the replacement cartridge for your M92LT.

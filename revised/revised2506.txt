@@ -1,0 +1,23 @@
+Title: Velcro mic mount for violin, banjo, mandolin, viola, cello,double bass
+Id: 2506
+Legacy Id: 2602
+
+Question:
+Can I use RK279 with a WL183 mic? How can I fashion my own Velcro mount?
+
+
+Answer:
+
+	The Velcro mount in the RK279 will work, but you will have to modify the size of the elastic loop that holds the mic. A needle and thread is all you need, because the diameter of the SM11 is twice the diameter of the WL183.
+	
+	Why not make your own Velcro mount?
+	
+	1. Get a 2 strip of Velcro - loop and hook.
+	2. Sew it together on one end.
+	3. On the top of one strip, sew a loop of elastic small enough to hold the WL183.
+	4. Place one strip of the Velcro under the strings (behind the bridge). Place the other strip on top of the strings.
+	5. Press the Velcro together trapping the strings.
+	6. Slide the WL183 into the elastic loop.
+	
+	And you saved the price of the RK279 that has other accessories you wont need.
+

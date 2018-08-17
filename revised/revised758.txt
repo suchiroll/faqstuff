@@ -1,0 +1,11 @@
+Title: Heat and condenser mics
+Id: 758
+Legacy Id: 778
+
+Question:
+I have a Shure KSM32 microphone, and its in an environment that can get very warm at times.  Will the heat effect the sound of the mic, and will it damage the mic at all?  If so can it be fixed if it does?
+
+Answer:
+
+	Condenser microphones can be used in temperatures up to about 130 degrees Fahrenheit and can be stored at temperatures up in the 150-160 degree Fahrenheit range. If the storage area gets above 150 degrees Fahrenheit, store the microphone in a different location.
+

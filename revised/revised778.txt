@@ -1,0 +1,11 @@
+Title: Two transmitters on the same frequency
+Id: 778
+Legacy Id: 800
+
+Question:
+I have a question. With your Handheld/ Lavalier UHF package wireless mikes, it says you can't use both at the same time. However, in a play, can two performers have one each and as long as they turn their control off, will the other one work?
+
+Answer:
+
+	Your idea will work. With two transmitters on the same frequency, only one of the two can be powered up at any moment in time. If both are powered up, the two RF signals will jam each other.
+

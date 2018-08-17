@@ -1,0 +1,18 @@
+Title: Instrument Microphone? Vocal Microphone? Both?
+Id: 4112
+Legacy Id: 4829
+
+Question:
+Are there microphones that will only pick up musical instruments and will reject voices?How about the reverse?
+
+
+Answer:
+
+	If we consider the basic function of a microphone, we discover that the answer to both questions is No.A microphone senses the movement of air and then converts that air movement into an equivalent electrical signal.A microphone cannot discriminate between the air movement (sound) created by a musical instrument and the air movement (sound) created by a human voice.Air movement is air movementno matter the originating source.
+
+	Microphones can be engineered to emphasize selected audio frequencies, or to de-emphasize selected audio frequencies.For example, many voices have a more pleasing quality when the frequencies in the range of 3,000 Hz (Hertz) to 8,000 Hz are enhanced.The SM57 and the SM58 emphasize this range of frequencies.But apply that same emphasis to a piccolo or violin and the results can sound shrill.This is because the piccolo and violin produce strong acoustical signals in this frequency range.If the microphone adds emphasis in the same frequency range, the result can be unpleasant to the ear.No need to add Tabasco to a recipe that uses habanero peppers.
+
+	Microphones can be engineered to easily mount on specific instruments, e.g., saxophones or brass instruments.A mic that mounts to a saxophone may not be comfortable for a singer to hold.And a microphone that is designed to fit a singers hand would be awkward to mount on a viola.Obviously, the physical size of the microphone plays a major role in this aspect.
+
+	To summarize, a microphone that is designated for instruments can certainly be used for vocals, and vice versa.So, it is the microphones response to audio frequencies and the microphone mounting method that primarily determines if the microphone is better suited for instruments or for vocals.
+

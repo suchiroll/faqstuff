@@ -1,0 +1,35 @@
+Title: Wire MX391, MX202, MX412SE, WL18x to 1/8" connector?
+Id: 3558
+Legacy Id: 3764
+
+Question:
+I have a portable recorder that has an 1/8" jack with plug-in power. How can I connect a Microflex mic to this recorder?
+
+
+Answer:
+
+	Adapting Shure MX391, MX202, MX412SE, MX418SE,WL183, WL184, or WL185Microphones to PLUG IN POWER Microphone Connections - Monaural Case
+
+	
+
+	3.5 mm (1/8) Monaural Mini-Phone Plug
+
+
+
+	Wiring Instructions:
+
+	
+		Do Not Use the Preamplifier Module, if supplied
+		(preamplifier is tubular, about  diameter by 3  long).
+	
+		Cut off TA4F 4-pin connector on Microphone Cable.
+	
+		Strip the microphone wire separate the shield, red and black wires.
+	
+		Connect/solder the red wire to the tip connection.
+	
+		Connect/solder the black and shield wires to the sleeve of the connector.
+	
+		Set the cable clamp and reassemble connector.
+
+

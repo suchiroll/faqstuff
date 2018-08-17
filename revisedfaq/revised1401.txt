@@ -1,0 +1,16 @@
+Title: SM5B Repair Service
+Id: 1401
+Legacy Id: 1453
+
+Question:
+I have a Shure SM5B that need repairs. Are there any Shure dealers in the L.A. area or do I have to send it in to you?
+
+
+Answer:
+
+	Sorry, Shure has not serviced the SM5B model for many years.
+	If you require electronic/acoustic repair, contact vintage mic collector Jim Webb.
+	Jim may have contacts to individuals that can repair the SM5B.
+	Also try: Mooretronix
+	
+	If you decide to replace the SM5B, consider the SM7B.

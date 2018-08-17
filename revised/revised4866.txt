@@ -1,0 +1,16 @@
+Title: SFG-1 Stylus Force Gauge
+Id: 4866
+Legacy Id: 6054
+
+Question:
+Did Shure ever sell a stylus force gauge with the model number SFG-1?
+
+
+Answer:
+
+	Yes, but only as part of the Shure C/PEK-1: Cartridge Performance Evaluation Kit - Version 1. The SFG-1 was not sold as a stand-alone accessory.
+	
+	The SFG-1 (Stylus Force Gauge) was a dynamometer, made in France, supplied by Carpano  Pons. It was a precision device that measured up to 5 grams with increments of 0.1 grams, machined of metal, with a dappled gray hammer finish.The read-out in gramswas indicated by a needle that rotated around a circular dial. The SFG-1 was housed in a dark blue case, with a single brass latch, and a red cloth interior.
+	
+	If purchased as a replacement part in the mid 1970s, the SFG-1 was priced around $125.
+

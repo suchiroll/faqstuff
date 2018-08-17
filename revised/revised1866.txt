@@ -1,0 +1,22 @@
+Title: Which WA380 antennas ?
+Id: 1866
+Legacy Id: 1926
+
+Question:
+Which pair of WA380 antennas would I purchase to cover all the possible frequenices from 169.00 to 230.00.
+
+
+WA380A
+
+WA380B
+
+WA380C
+
+
+The pair of antennas could be mounted on a WA470 or WA450 and have up to 12 VHF recceivers with various frequenices.
+
+
+Answer:
+
+	To cover the entire frequency range 169.445-210.6, we recommend using one WA380A and one WA380C.
+

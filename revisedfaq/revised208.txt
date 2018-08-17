@@ -1,0 +1,13 @@
+Title: Condenser mike to computer
+Id: 208
+Legacy Id: 209
+
+Question:
+I'm looking to get a nice condenser mike. But I will need to hook it up to my soundcard and I'm worried the input and output impedances won't match up. If that is the case, is there a way to reduce or increase the impedance through another device so I can connect it to my mic-in (50 ohms) or line-in (47 kohms).(I'm not too sure the 50 and 47 are correct...)
+
+Answer:
+
+	To learn about connecting a professional microphone to a computer, please see the following link:
+	
+	Microphone connected to a computer sound card
+

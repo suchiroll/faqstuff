@@ -1,0 +1,13 @@
+Title: PG48 internal wiring
+Id: 4139
+Legacy Id: 5040
+
+Question:
+The XLR connector pulled out of my PG48. Which wire connects to which pin?
+
+
+Answer:
+
+	Blue wire: Pin 2
+	Yellow wire: Pin 3
+

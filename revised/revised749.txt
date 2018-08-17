@@ -1,0 +1,11 @@
+Title: Replacement Stylus for M105E
+Id: 749
+Legacy Id: 768
+
+Question:
+I was looking for a replacement needle for my Shure cartridge M105E and I can see from the list that this needle has been discontinued.  Is there another replacement needle that will work on this cartridge or will I need to replace the cartridge as well.  If so, which cartridge and needle do I need to purchase?
+
+Answer:
+
+	As of March 2001, Shure Parts has inventory of the N105E stylus. It may be purchased directly from Shure by calling 800-516-2525.
+

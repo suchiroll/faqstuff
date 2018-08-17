@@ -1,0 +1,12 @@
+Title: Custom length RF antenna cables
+Id: 3251
+Legacy Id: 3404
+
+Question:
+I know that Shure does not provide antenna cable with custom lengths. Do you know of a source?
+
+
+Answer:
+
+	http://www.emersonnetworkpower.com
+

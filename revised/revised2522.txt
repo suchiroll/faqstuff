@@ -1,0 +1,12 @@
+Title: Power source for SM82
+Id: 2522
+Legacy Id: 2618
+
+Question:
+I have several Shure SM82 Line Level mikes that I use for voice-over recording on laptop computers. The line-level output enables me to by-pass the cheap mike pre-amps used in most laptops. I've been powering these mikes with Energizer EN177A batteries. Unfortunately my only source for these cells no longer carries the 177A. I've tried several 48V phantom power supplies, but they all seem to cause noise in these mikes. Is there a currently-available 110V AC power supply (or a battery-powered external supply that uses a more common, easier-to-find battery) that Shure recommends for use with the SM82? Or, is there another, more-readily-available battery that will fit these mikes?
+
+Answer:
+
+	An external phantom power supply should operate the SM82 in a quiet manner.
+	
+	In 1975, Shure made the A82BA battery adapter that stacked seven 1.5 volt cells in series, thus providing a 10.5 battery. We no longer make this adapter but you might be able to fabricate one yourself.

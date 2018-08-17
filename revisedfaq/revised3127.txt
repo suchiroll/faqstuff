@@ -1,0 +1,14 @@
+Title: Connect to UHF-R via CAT5 or USB when UA888 is used
+Id: 3127
+Legacy Id: 3261
+
+Question:
+On Page 12 of the UHF-R Wireless User Guide it shows a mixed system with a UA888 controlling multiple UHF receivers and several UHF-R receivers all tied back to one controlling computer. This is the situation we will have on a project. I see in that detail that there is RS-232 control for the UA888 and USB to the first UHF-R receiver with a CAT5 network tying the multiple UHF-R receivers. Is there some reason the UHF-R portion of the control network must be connected to the computer via USB in this situation or is it possible to make the connection to the UHF-R receivers with a CAT5 network path from the computer to the router/switch in lieu of the USB connection shown? The all UHF-R systems on that same page of the Guide show network or USB options, but it wasn't clear if the mixed system diagram showed only USB for any specific reason.
+
+
+
+
+Answer:
+
+	You can connect the UHF-R via USB or CAT5 when doing a mixed system.
+

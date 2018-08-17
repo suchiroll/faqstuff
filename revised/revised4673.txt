@@ -1,0 +1,12 @@
+Title: BLX Frequency Band Discontinuation
+Id: 4673
+Legacy Id: 5840
+
+Question:
+In June 2015, Shure discontinued two BLX frequency bands in the U.S. What are these bands?
+
+
+Answer:
+
+	K12 (614-638 MHz)and M15 (662-686 MHz)frequency band.
+

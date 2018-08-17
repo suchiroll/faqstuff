@@ -1,0 +1,11 @@
+Title: M232 Shure Tonearm
+Id: 3469
+Legacy Id: 3665
+
+Question:
+I have been given a Shure tonearm, model M232. I was wondering if there was any information on it still around, specifically the spindle-to pivot mounting distance of it so that I can make an arm-board for it and mount it to my current project turntable.
+
+
+Answer:
+
+	Attached is a PDF of the M232 User Guide.

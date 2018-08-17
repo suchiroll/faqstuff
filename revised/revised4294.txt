@@ -1,0 +1,12 @@
+Title: VN35E in V15 Type IV body
+Id: 4294
+Legacy Id: 5363
+
+Question:
+Will a VN35-E stylus operate/fit in a V15 Type IV body?
+
+
+Answer:
+
+	The VN35E does fit into the V15IV body.
+

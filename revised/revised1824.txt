@@ -1,0 +1,16 @@
+Title: Inputs to the P4M Mixer - Can the signal be too hot?
+Id: 1824
+Legacy Id: 1884
+
+Question:
+I just purchased the entire PSM in ear monitor system. My first time using it, 3 songs into the gig the PSM mixer stopped working and was sent a continuous loud hissing sound to the transmitter and I could no longer use the system. I was running the individual bass, guitar, keyboard, line outs from each of the 3 amps into each channel of the PSM mixer. For the fourth channel, the sound guy unplugged the 1/4 cable from the wedge monitor and plugged it into the PSM mixer. What went wrong? In the future, under the above scenario of "guitar, bass, keyboard, vocals" how should I set up the PSM mixer?
+
+
+Answer:
+
+	"For the fourth channel, the sound guy unplugged the 1/4 cable from the wedge monitor and plugged it into the PSM mixer. What went wrong?"
+	* Impossible to tell by email, but the signal designed to drive the wedge monitor was far too strong to for the P4M mixer. This may have damaged the P4M inputs.
+	
+	The P4M can handle any signal directly from a mic (mic level), from a guitar or keyboard (aux level), or from the output of a mixer (line level). The P4M cannot handle the signal level from the output of a power amplifier (speaker level).
+	
+	To keep your P4M safe in the future, never connect a signal that can drive a loudspeaker!

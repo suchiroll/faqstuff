@@ -1,0 +1,13 @@
+Title: PSM700 Series Discontinuation
+Id: 3673
+Legacy Id: 3882
+
+Question:
+When was the PSM700 series discontinued?
+
+
+Answer:
+
+	The P7T transmitter and and P7R receiver were discontinued in May 2010.  The PSM700 was replaced by the Shure PSM900 series.The final U.S. retail prices were:
+	P7T - $1,326
+	P7R - $1,218

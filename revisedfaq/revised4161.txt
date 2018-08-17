@@ -1,0 +1,16 @@
+Title: UA830X Band Pass Response
+Id: 4161
+Legacy Id: 5072
+
+Question:
+What is the band pass response of the UA830X?
+
+
+Answer:
+
+	The UA830X band pass, at the 3 dB down point, is approximately 925 - 967 MHz.At the 10 dB down point, itis approximately 920 - 975 MHz.
+
+	
+
+	The UA830X should not be employed outside of its specified operating frequency range. As an example, in the ULX-J1 band of 554 - 590 MHz,(well outside the UA830X operating range), the RF signal is attenuated in excess of 50 dB.
+

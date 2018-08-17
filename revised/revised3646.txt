@@ -1,0 +1,33 @@
+Title: SLX1 or SLX2 Transmitter with SLX4L Receiver
+Id: 3646
+Legacy Id: 3854
+
+Question:
+I am trying to use an SLX1 or an SLX2 with the SLX4L receiver. "INCOMPATIBLE" appears on either transmitter's LCD window when I try to sync the transmitter to the SLX4L receiver. Yet, the transmitter will work withthe standardSLX4 receiver. What's up?
+
+Also, will the TTL outputs work with an SLX1 or SLX2?
+
+
+
+Answer:
+
+	The SLX model line features infra-red synchronization (SYNC) for programming the transmitter to match the frequency of the receiver.
+	
+	In most installations, the SLX1 bodypack or SLX2 handheld wireless microphone transmitter is used with a standard SLX4 receiver.If an SLX4 receiver tries to sync with an SLX1 or SLX2 transmitter that has a different operating frequency band, the transmitters LCD window will display Incompatible as a user alert.The sync cannot happen unless the SLX receiver and the SLX transmitter have the same operating frequency band.
+	
+	The SLX4L Logic receiver features two modes of operation.The Logic Mode is intended only for teleconferencing use.
+	
+	Mode 1: Normal
+	
+	Mode 2: LogicIn Logic mode, the audio signal is not muted within the transmitter or the receiver.The microphone audio passes continuously to the teleconferencing processor and must be muted within the teleconferencing processor.A continuous audio signal is required for effective operation of echo cancellation circuitry. The Logic mode is selected when the SLX4L is paired with the Shure MX690 or MX890 transmitter.
+	
+	The SLX1 or SLX2 transmitter can be used with an SLX4L receiver, however, the SLX4L receiver must be set to the Normal mode. If the message Incompatible displays in the LCD window of the SLX1 or SLX2 transmitter when synchronizing with an SLX4L receiver, the alert indicates the receiver is in the Logic mode, or indicates that the transmitter and receiver do not share the same frequency band. To toggle between the Logic and Normal modes on the SLX4L receiver, press and hold the Select button and press the Power button. Once in the Normal mode, the synchronization should complete successfully.
+	
+	Yes, the SLX4L receiver TTL outputs will operate with the SLX1 or the SLX2 transmitter.
+	
+	Here are the TTL outputs with the SLX4L set to Normal mode:
+	SLX Transmitter Power On = TTL Pin 1 status is logic low (0 volts in relation to TTL Pin 2 terminal)
+	SLX Transmitter Power Off = TTL Pin 1 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+	SLX Transmitter Battery OK = TTL Pin 3 status is logic low (0 volts in relation to TTL Pin 2 terminal)
+	SLX Transmitter Battery Low = TTL Pin 3 status is logic high (+5 volts DC in relation to TTL Pin 2 terminal)
+

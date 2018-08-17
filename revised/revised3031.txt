@@ -1,0 +1,14 @@
+Title: UT Wireless Series - Discontinuation
+Id: 3031
+Legacy Id: 3161
+
+Question:
+When was the the UT Series discontinued? And what replaced it?
+
+
+Answer:
+
+	The UT wireless series was discontinued in January 2005. It was replaced by the PGX wireless series. Note that a PGX transmitter cannot be used with a UT receiver, nor can a UT transmitter be used with a PGX receiver.
+	
+	The PGX Series was discontinued in May 2013. The BLX Series replaced the PGX Series.
+

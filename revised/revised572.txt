@@ -1,0 +1,24 @@
+Title: Wiring for model 526T
+Id: 572
+Legacy Id: 583
+
+Question:
+trying to connect a 526T to a Drake T4XC amateur radio transmitter so that it will work in push to talk and VOX.  I had the diagram and now can not find the paper in all that a hamshack collects.  I had it wired originally for push to talk and wanted to change it to push to talk and vox operation.  Now I find the connector pulled off and the paper that explains how to wire it misplaced.  So it start over with mike, new connector and now hopefully another wiring diagram for the 526T and I will be back in business.  Thank you for my request and hopefully I'll be back on the air with the T4XC and 526T.
+
+At 01/17/2001 09:11 PM you wrote - Is there a difference between the 526T and the 526T series 2  in the wiring diagram.  I sought out the assistance of an electronic tech and between us I believe we have the problem solved but as yet I have not had time to test the mic with the radio.  Thank you for all your help and support.  I just wish that some of the things I have purchased were as well backed as your company backs its products.  You can be well assured that when my church revamps its sound system here shortly,  Shure mics will be the mic of choice.  I really like  the portable mic that you make.
+
+Answer:
+
+	At 01/16/2001 02:48 PM we wrote - The wiring diagram for the 526T can be found in its User Guide. You can download the User Guide for the 526T at:
+	
+	https://pubs.shure.com/view/guide/526T/en-US.pdf
+
+
+	Contact Drake for wiring of the T4XC input.
+	
+	At 01/18/2001 07:24 AM we wrote - The two models are exactly the same regarding the audio circuit (the white wire and the shield). However, the 526T Series II has two more wires than the 526T in the control circuit. These additional wires allow the Series II mic to be used in radios that require special switching signals from the mic. Examples are: 1) grounded audio input in receive mode; 2) isolated and grounded transmit circuit combined with a grounded receive circuit; 3) isolated and grounded receive circuit combined with a grounded transmit circuit.
+	
+	The audio specifications of the 526T and the 526T Series II are the same.
+	
+	Thank you for compliments on our applications engineering support. We are pleased you appreciate it.
+

@@ -1,0 +1,19 @@
+Title: SE earphones cable specifications
+Id: 4529
+Legacy Id: 5647
+
+Question:
+Which SE models have silver plated copper and Kevlar reinforcement?
+
+Do all of the SE models have Kevlar reinforcement or is it limited to the SE846?
+
+Is the silver plated copper stock cable only limited to the SE846?
+
+Answer:
+
+	All Shure earphone cables are reinforced internally with Kevlar strands to give them strength.As far as the silver colored connectors (Nickel Plated)  they are only included with the SE846, but they are available separately online as an accessory.They are compatible with all of our detachable earphone products.SE215, SE315, SE425, SE535, SE846.
+	
+	http://www.shure.com/americas/products/accessories/earphones-headphones/earphone-headphone-cables
+	
+	The cable part number with the Silver colored connectors: EAC46CLS (46 length) or EAC64CLS (64 length)
+

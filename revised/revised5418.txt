@@ -1,0 +1,13 @@
+Title: Controlled Reluctance or Controlled Magnetic Microphone Principle
+Id: 5418
+Legacy Id: 6403
+
+Question:
+What is the operational principle of a controlled reluctance or controlled magnetic microphone?
+
+Answer:
+
+	See the 1949 article attached below as a PDF file.
+	
+	Controlled reluctance and controlled magnetic are equivalent terms.
+

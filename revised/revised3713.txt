@@ -1,0 +1,11 @@
+Title: Which earphone replaces the SCL5?
+Id: 3713
+Legacy Id: 3946
+
+Question:
+Since the SCL5 is discontinued, which earphone should I buy to use with a PSM in-ear monitor system?
+
+
+Answer:
+
+	The SE425 replaced the SCL5.  Both models have dual drivers (woofer and tweeter) in each earbud.

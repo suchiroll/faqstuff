@@ -1,0 +1,16 @@
+Title: SB900 Date Code
+Id: 4209
+Legacy Id: 5176
+
+Question:
+Is there a date of manufacture code on the SB900 battery pack?
+
+
+Answer:
+
+	As of November 2012:
+	
+	The manufacture date of the SB900 (ULXD1, ULXD2, P9RA, P10R), AXT910 (Axient beltpack), and AXT920 (Axient handheld) rechargeable battery packis in the serial number.The first four digits of the serial number are YYWW.The first two digits are the year, and the second two digits are the week of manufacture.
+	
+	1234 = the 34th week of 2012
+

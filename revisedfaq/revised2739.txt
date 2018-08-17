@@ -1,0 +1,19 @@
+Title: PG58 and Phantom power
+Id: 2739
+Legacy Id: 2845
+
+Question:
+I was given 2 new Shure PG58 mics as a gift.
+
+I don't see anywhere in the booklet if this is a dynamic or condenser mic.
+
+Am I to turn on the phantom power on my mixer for these mic?
+
+
+Answer:
+
+	1) Dynamic.
+	
+	2) Turn off the phantom if not needed by other mics.
+	
+	3) If phantom is required by other mics, the PG58 will not be affected.

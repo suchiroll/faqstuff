@@ -1,0 +1,12 @@
+Title: Temperature limits of AXT900 charger
+Id: 3851
+Legacy Id: 4091
+
+Question:
+What are the temperature limits of the AXT900 charger?
+
+
+Answer:
+
+	The AXT900 will charge the batteries if the temperature is between 0 Centigrade (32F)and 40 Centigrade (104F). If the temperature is below or above these limits, it will not charge any batteries.
+

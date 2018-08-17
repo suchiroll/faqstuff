@@ -1,0 +1,11 @@
+Title: Shure E1 compatible with Nady E03 System
+Id: 2355
+Legacy Id: 2443
+
+Question:
+I purchased a set of Sure E1 earpieces and would like to know if there are any specific details needed to use them with a Nady E03 system.
+
+
+Answer:
+
+	The Nady must be able to drive a load of 16 ohms; that is the impedance of the E1 earphones. Ask this question of Nady.

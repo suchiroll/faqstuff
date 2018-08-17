@@ -1,0 +1,28 @@
+Title: PE505SP "Super Pro"
+Id: 2511
+Legacy Id: 2607
+
+Question:
+I'd like to find out some information about a mic I found. It sounds pretty decent. It's labeled:
+
+
+Sure Brothers Incorporated
+
+Model PE505SP
+
+Super Pro(TM)
+
+Dynamic
+
+Made in USA
+
+Patented
+
+
+It looks pretty much like an SM58. Do you have any spec sheets on it?
+
+
+Answer:
+
+	You can download the manual from the User Guide area of the Shure website.
+

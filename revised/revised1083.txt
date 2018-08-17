@@ -1,0 +1,14 @@
+Title: SM57 vs SM58
+Id: 1083
+Legacy Id: 1118
+
+Question:
+What are the real reasons an SM58 should be used for vocals, and an SM57 be used for instruments? Of course, everybody seems to use these mics as mentioned. No one has given me a convincing reason for this, other than 'That's just what you do- everyone does it this way'. Please ease my anxious mind!
+
+
+Answer:
+
+	The SM57 and SM58 microphones are based on the same cartridge design. The main difference is in the grille design. The SM58 was designed for vocal application and it uses a ball grille that acts as an effective pop filter. The SM57 was designed as an instrument microphone where asmaller grille size is preferred. In this application, pop and wind are not usually a concern.
+	
+	The SM57 uses an integral resonator/grille assembly, where grille is actually a part of the cartridge. These two grille designs place the diaphragm of each microphone in a different acoustical environment. The distance from the top of the grille to the diaphragm is shorter on the SM57 compared to that of the SM58. This allows fora closer miking positionwith a more pronounced proximity effect. The different resonator/grille assembly design of the SM57 is also responsible for its slightly higher output above 5 kHz.
+

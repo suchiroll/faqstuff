@@ -1,0 +1,11 @@
+Title: P4800 Floating Point Processors
+Id: 2537
+Legacy Id: 2634
+
+Question:
+When setting the levels in the different sections of the P4800, do I have to worry about clipping the audio signal? What type of processing does the P4800 do?
+
+
+Answer:
+
+	The P4800 uses Floating Point Processors. This means the processors automatically scale the levels to fit within the dyanmic range of the processors. The only points on the P4800 that can clip are the input A/D's and the output D/A's. Thus, you need not worry about clipping the levels somewhere in the middle of the P4800 box. Just watch the meters on the front of the P4800. As long as the input and output meters do not show clipping, you won't have any problems.

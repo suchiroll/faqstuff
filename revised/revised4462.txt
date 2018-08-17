@@ -1,0 +1,14 @@
+Title: Why use a stylus force gauge?
+Id: 4462
+Legacy Id: 5572
+
+Question:
+Why should I used a stylus force gauge? My tone arm has tracking force markings.
+
+
+Answer:
+
+	Tracking force markings on tone arms can be notoriously inaccurate. Some markings can be off by 100% to 200%. Too much tracking force will collapse the stylus bushing and the cartridge will drag on the record. Too little tracking force and the stylus will not stay within the record groove.
+
+	A stylus force gauge, like the Shure SFG-2 or equivalent, measures the actual downward force applied at the stylus tip.This is the only recommended method to determine if the proper tracking force is being applied to the stylus.
+

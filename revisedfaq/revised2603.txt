@@ -1,0 +1,28 @@
+Title: Difference between controlled reluctance and controlled magnetic
+Id: 2603
+Legacy Id: 2704
+
+Question:
+I am very interested in finding out all that I can about controlled reluctance and controlled magnetic cartdiges for harmonica use. They both seem to have had several different model numbers over the years. I am told that controlled reluctance came first and controlled magnetic replaced it (?).
+
+
+First, what's the technical difference(s) between "controlled reluctance" and "controlled magnetic"?
+
+
+Second, how do the controlled reluctance and controlled magnetic elements vary sonically (between themselves and within their own type)?
+
+
+Third, how do you identify the element's model number (ie, R5, etc) from the part number that is printed on the square beige canvas located on the rear of the element?
+
+
+Answer:
+
+	First, whats the technical difference(s) between controlled reluctance and controlled magnetic?
+	* No difference. Different names for the same transduction principle.
+	
+	Second, how do the controlled reluctance and controlled magnetic elements vary sonically (between themselves and within their own type)?
+	* There is no difference between the two. See above.
+	
+	Third, how do you identify the elements model number (ie, R5, etc) from the part number that is printed on the square beige canvas located on the rear of the element?
+	* Best to ask this question of THE antique harmonic mic expert. Send an email to: tomsmics@flexcomp.com
+

@@ -1,0 +1,15 @@
+Title: Motiv product connected to an Android device
+Id: 4707
+Legacy Id: 5877
+
+Question:
+Will a Motiv product work with an Android device?
+
+
+Answer:
+
+	The Motiv MV88 stereo mic has a Lightning connector and only works on iOS.
+	
+	Other Motiv products are designed to operate with a device that is USB Audio compliant.  The Android 5.0 "Lollipop" operating system includes native support for USB Audio devices. To connect an Android device to a Motiv mic, an OTG (On The Go) cable is required.  
+	
+	Two Android apps from Extream Audio, USB Audio Recorder Pro and Audio Evolution Mobile, also work with Motiv.

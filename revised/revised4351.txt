@@ -1,0 +1,12 @@
+Title: MXW APT PoE Requirements
+Id: 4351
+Legacy Id: 5436
+
+Question:
+What are the PoE (Power over Ethernet) requirements for the MXWAPT2, MXWAPT4, MXWAPT8 Access Point?
+
+
+
+Answer:
+
+	PoE Class 0 (zero); 6 watts

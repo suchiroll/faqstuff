@@ -1,0 +1,54 @@
+Title: Which phono cartridge will fit my turntable?
+Id: 46
+Legacy Id: 46
+
+Question:
+Which phono cartridge will fit my turntable?
+
+
+Answer:
+
+	Matching a cartridge to a turntable requires: 1) The tone arm mounting method for the cartridge; 2) The tone arm tracking force range.
+	
+	95% of the time the cartridge mount will be one of two types:
+	
+	1) Standard Mount - by far the most common
+	Two screws, half an inch apart, thread through the cartridge body to secure it to the headshell, which then plugs into the tone arm.
+	
+	2) P-mount - Primarily on Technics brand turntables
+	Four prongs at the rear of the cartridge plug directly into the end of tone arm. A single screw goes through the side of the cartridge at the rear in order to secure it to the tone arm.
+	
+	In descending levels of sound quality, we have the following cartridges available for listening to LPs:
+	
+
+	
+		
+			
+				Cartridge
+			
+				Tracking Force
+			
+				Mounting type
+		
+		
+			
+				M97xE
+			
+				0.75-1.5 grams
+			
+				standard
+		
+		
+			
+				M92E
+			
+				0.75-1.5 grams
+			
+				standard  p-mount
+		
+	
+
+
+	
+	Note: Shure DJ cartridges are standard mount, but are not typically employed home hi-fi use.
+

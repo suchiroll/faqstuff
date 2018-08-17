@@ -1,0 +1,15 @@
+Title: WL93 Frequency Response and Positioning
+Id: 1898
+Legacy Id: 1959
+
+Question:
+What is the frequency response of the WL93 lavalier microphone? Is it suitable for vocal use? If it is suitable, should it it be mounted on the chest, near the throat or perhaps taped to the cheek near the mouth for the best performance?
+
+
+Answer:
+
+	1) What is the frequency response of the WL93lavalier microphone?
+	* 50 to 20,000 Hz
+	
+	2) If it is suitable, should it it be mounted on the chest, near the throat or perhaps taped to the cheek near the mouth for the best performance?
+	* Depends on the application. All three locations have been used for theatrical productions. Experiment to find what works best for your needs. We have also seen the WL93 hidden in the hair, draped over the ear, and taped to the temple arm of eyeglasses.

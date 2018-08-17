@@ -1,0 +1,81 @@
+Title: How to mic an unusual instrument - didgeridoo
+Id: 563
+Legacy Id: 574
+
+Question:
+How to mic a didgeridoo ? 
+
+How robust is the SM57 or the SM58 ?
+
+
+Answer:
+
+	While we do not have specific mic techniques for a didgeridoo, we can offer the following general rules.
+
+	Microphone technique is largely a matter of personal taste--whatever method sounds right for the particular instrument, musician, and song is right. There is no one ideal microphone to use on any particular instrument. There is also no one ideal way to place a microphone. Choose and place the microphone to get the sound you want. We recommend experimenting with a variety of microphones and positions until you create your desired sound. However, the desired sound can often be achieved more quickly and consistently by understanding basic microphone characteristics, sound-radiation properties of musical instruments, and acoustic fundamentals.
+
+	Here are some suggestions to follow when miking musical instruments for sound reinforcement.
+
+	
+		Try to get the sound source (instrument, voice, or amplifier) to sound good acoustically (live) before miking it.
+	
+		Use a microphone with a frequency response that is limited to the frequency range of the instrument, if possible, or filter out frequencies below the lowest fundamental frequency of the instrument.
+	
+		To determine a good starting microphone position, try closing one ear with your finger. Listen to the sound source with the other ear and move around until you find a spot that sounds good. Put the microphone there. However, this may not be practical (or healthy) for extremely close placement near loud sources.
+	
+		The closer a microphone is to a sound source, the louder the sound source is compared to reverberation and ambient noise. Also, the Potential Acoustic Gain is increased--that is, the system can produce more level before feedback occurs. Each time the distance between the microphone and sound source is halved, the sound pressure level at the microphone (and hence the system) will increase by 6 dB. (Inverse Square Law)
+	
+		Place the microphone only as close as necessary. Too close a placement can color the sound sources tone quality (timbre), by picking up only one part of the instrument. Be aware of Proximity Effect with unidirectional microphones and use bass rolloff if necessary.
+	
+		Use as few microphones as are necessary to get a good sound. To do that, you can often pick up two or more sound sources with one microphone. Remember: every time the number of microphones doubles, the Potential Acoustic Gain of the sound system decreases by 3 dB. This means that the volume level of the system must be turned down for every extra mic added in order to prevent feedback. In addition, the amount of noise picked up increases as does the likelihood of interference effects such as comb-filtering.
+	
+		When multiple microphones are used, the distance between microphones should be at least three times the distance from each microphone to its intended sound source. This will help eliminate phase cancellation. For example, if two microphones are each placed one foot from their sound sources, the distance between the microphones should be at least three feet. (3 to 1 Rule)
+	
+		To reduce feedback and pickup of unwanted sounds:
+		
+			
+				place microphone as close as practical to desired sound source
+			
+				place microphone as far as practical from unwanted sound sources such as loudspeakers and other instruments
+			
+				aim unidirectional microphone toward desired sound source (on-axis)
+			
+				aim unidirectional microphone away from undesired sound source (180 degrees off-axis for cardioid, 126 degrees off-axis for supercardioid)
+			
+				use minimum number of microphones
+		
+	
+	
+		To reduce handling noise and stand thumps:
+		
+			
+				use an accessory shock mount (such as the Shure A55M)
+			
+				use an omnidirectional microphone
+			
+				use a unidirectional microphone with a specially designed internal shock mount
+		
+	
+	
+		To reduce pop (explosive breath sounds occurring with the letters p, b, and t):
+		
+			
+				mic either closer or farther than 3 inches from the mouth (because the 3-inch distance is worst)
+			
+				place the microphone out of the path of pop travel (to the side, above, or below the mouth)
+			
+				use an omnidirectional microphone
+			
+				use a microphone with a pop filter. This pop filter can be a ball-type grille or an external foam windscreen
+		
+	
+	
+		If the sound from your loudspeakers is distorted even though you did not exceed a normal mixer level, the microphone signal may be overloading your mixers input. To correct this situation, use an in-line attenuator (such as the Shure A15AS), or use the input attenuator on your mixer to reduce the signal level from the microphone.
+
+
+	Seasoned sound engineers have developed favorite microphone techniques through years of experience. If you lack this experience, the suggestions listed on the following pages should help you find a good starting point. These suggestions are not the only possibilities; other microphones and positions may work as well or better for your intended application. Remember--Experiment and Listen!
+
+	For more microphone technique suggestions see our online publications Microphone Technique for Music - Sound Reinforcement and Microphone Technique for Music - Studio Recording.
+
+	The SM57 and SM58 are known as some of the most durable microphones in the industry. They both pass drop tests of 6 feet onto a hard wood floor, multiple times at multiple angles.
+

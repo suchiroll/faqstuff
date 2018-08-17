@@ -1,0 +1,14 @@
+Title: OEM model CX80 or CX95A microphone
+Id: 3212
+Legacy Id: 3360
+
+Question:
+I am looking for some information regarding your crystal microphone MODEL CX80. The microphone was with a Reelest tape recorder.
+
+
+Answer:
+
+	The CX80 is an OEM variation of the model 710. The 710 was sold in different colors and with different model numbers to many makers of recorders. CX80 was likely the model number chosen by Reelest.
+	
+	The model CX95A is another OEM variationandsold with Telectro-Tape recorders.
+

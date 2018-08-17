@@ -1,0 +1,12 @@
+Title: M55 cartridge tracking force
+Id: 1519
+Legacy Id: 1573
+
+Question:
+What is the suggested tracking force for M55?
+
+
+Answer:
+
+	0.75 to 2 grams.
+

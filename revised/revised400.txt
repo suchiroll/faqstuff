@@ -1,0 +1,18 @@
+Title: Miking a tuba
+Id: 400
+Legacy Id: 407
+
+Question:
+Would like a microphone that clips on the bell of a tuba. Am curious if Shure has any clip on products. Also curious what Shure product to use if I decide to use a mic stand instead of a clip on. Thanks in advance for the advice.
+
+
+Answer:
+
+	There is one problem anytime a mic is clipped to a brass instrument - mechanical noise. Mechanical vibrations from the instrument are transmitted through the clip to the mic. Shock mounts and rubber coated clips help, but some unwanted mechanical noise will always be present. A mic on a separate stand eliminates this problem as there is only an acoustical connection between the instrument and the mic.
+	
+	For a clip on mic, consider the Shure Beta 98H/C.
+	
+	For a stand mounted mic, consider these four mics in descending order of price: KSM32 - SM81 - SM94 - PGA81. If your mixing board does not provide phantom power, the SM94 is a better choice as they will operate from an internal AA battery.
+	
+	To learn more about miking instruments, please go to: Microphone Techniques for Music - Live Sound Reinforcement
+

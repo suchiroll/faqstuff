@@ -1,0 +1,11 @@
+Title: Does the 503BG mic have an on off switch?
+Id: 205
+Legacy Id: 206
+
+Question:
+Does the 503BG mic have an on off switch?
+
+Answer:
+
+	No, it does not. There are many ways to add an external switch. If this interests you, call Shure Applications at 847-600-8440 to discuss the different methods.
+

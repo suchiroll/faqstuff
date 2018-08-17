@@ -1,0 +1,61 @@
+Title: Critical Distance and Microphone Placement
+Id: 82
+Legacy Id: 82
+
+Question:
+Critical Distance and Microphone Placement.
+
+
+Answer:
+
+	Critical Distance and Microphone Placement
+
+	A microphone is the first component in any speech recording or transmission system. Its function is to convert acoustic sound waves into an equivalent electrical signal. This signal can then be recorded, transmitted, amplified, or modified. However, a microphone cannot effectively sort out desired sound (direct speech) from undesired reverberation (reflected speech). Also, a microphone cannot improve the acoustic environment in which it is placed.
+
+	What is Critical Distance?
+	In every room, there is a distance (measured from the talker) where the direct speech and the reflected (or reverberant) speech are equal in intensity. In acoustics, this is known as the Critical Distance and is abbreviated Dc.
+
+	Why is Dc important to microphone placement?
+	If a microphone is placed at Dc or farther from a talker, the speech quality picked up will be very poor. This poor sound quality is often described as echoey, reverberant, or bottom of the barrel. The talkers words will also be hard to understand as the reflected speech overlaps and blurs the direct speech.
+
+	How may Dc be estimated for a room?
+
+	Tools required:
+	 25 foot tape measure  Sound level meter (Radio Shack part #32-2050 or equivalent)  Portable boom box with FM radio
+
+	
+		Place the boom box in one end of the room in place of a talker. Tune the FM receiver between stations. This steady white noise will be used instead of a talker.
+	
+		Extend the tape measure from the boom box to the far side of the room. Lock the tape measure in place. It is the reference for distances.
+	
+		Set the sound level meter to A weighting, slow response, 90 dB range. Using the tape measure as a guide, place the sound level meter microphone one foot from the boom box.
+	
+		Increase the boom box volume until the sound level meter needle points to 0, which is 90dB of sound pressure level (SPL).
+	
+		Move the sound level meter back to the two foot mark. The meter reading will drop 4 - 6 dB.
+	
+		Reset the meter to the 80 dB range. Move the meter to the four foot mark. The meter reading should again drop 4 - 6 dB.
+	
+		Continue to double the distance each time the meter is moved. When the distance is doubled, the meter should drop 4 - 6 dB if Dc has not been reached.
+	
+		During one the these meter moves, the meter reading will not drop the predicted 4 - 6dB, but will remain relatively constant in level over several feet. Note the distance where the meter reading first remains steady. This is Dc, the Critical Distance.
+
+
+	For excellent audio, where should a microphone be placed in relation to Dc?
+	In general, an omnidirectional microphone should be placed no farther from the talker than 30% of Dc, e.g. if Dc is 10 feet, an omnidirectional may be placed up to 3 feet from the talker. A unidirectional microphone (cardioid, supercardioid, or shotgun) should be positioned no farther than 50% of Dc, e.g. if Dc is 10 feet, a unidirectional may be placed up to 5 feet from the talker.
+
+	What if the microphone must be placed farther away than 50% of Dc?
+
+	
+		Make the room less reflective via acoustical solutions. This will increase Dc. or...
+	
+		Accept the sub-standard audio provided with a 50% of Dc talker to mic distance. or...
+	
+		Consider the use of an advanced microphone array with beam-forming capabilities.
+
+
+	THERE ARE NO OTHER SOLUTIONS.
+
+	Important Note
+	This bulletin does not address the intelligibility problems that are caused by unwanted background noise such as air conditioners. Poor speech to noise ratios will ruin speech intelligibility even if the mic is located 50% of Dc. Intelligibility problems caused by background noise must be solved by silencing the noise source or by moving the microphone closer to the talker.
+

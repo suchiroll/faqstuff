@@ -1,0 +1,28 @@
+Title: Using an SC transmitter with an L Series receiver
+Id: 1494
+Legacy Id: 1547
+
+Question:
+I would like to know if a SC2-CE SM58 mic and transmitter will work with an old L4 Marcad Diversity reciever? Thank you for any help.
+
+---- 08/07/2001 09:53 AM ----------------------------------------------
+How do I find out if they match?
+
+---- 08/07/2001 10:28 AM ----------------------------------------------
+the freq. of the L4 is 196.600
+
+---- 08/08/2001 05:43 PM ----------------------------------------------
+what recievers will work with the SC2-CE sm58 mic and transmitter?
+
+---- 08/09/2001 01:24 PM ----------------------------------------------
+Thank you very much for your help. You guys have been great!!
+
+
+Answer:
+
+	If the transmitter frequency matches the L4 receiver frequency, the units will operate together.
+	
+	At 08/07/2001 10:52 AM we wrote - The CE code = 182.2 MHz. This does not match the 196.6 MHz of the L4.
+	
+	At 08/09/2001 07:26 AM we wrote - T3-CE. T4N-CE. LX3-CE. LX4-CE. SC4-CE.
+

@@ -1,0 +1,33 @@
+Title: SVX Wireless Microphone Systems
+Id: 3716
+Legacy Id: 3949
+
+Question:
+What is the SVX line of wireless microphone systems?
+
+
+Answer:
+
+	Introduced in 2010, the SVX line is an economical wireless system sold in Asia for the karaoke market.  SVX replacement parts, accessories, and repair service are offered only by Shure Asia.  Note: The SVX line is not approved for use in China.
+	This product is sold only in Asia and has governmental approval for use only in Asian countries.  The SVX line of wireless products must not be used outside of Asia as operation could violate local governmental regulations.  For example, the SVX products are not approved for use in the United States.  The use of SVX wireless systems within the United States is a violation of Federal law.
+	
+	What frequency bands are available for the SVX system?
+	558 MHz to 570 MHz: J9 band (New Zealand)
+	698 MHz to 710 MHz: P12 band
+	710 MHz to 726 MHz: P14 band
+	726 MHz to 742 MHz: P16 band
+	742 MHz to 758 MHz: Q16 band
+	758 MHz to 774 MHz: Q18 band
+	774 MHz to 787 MHz: R23 band
+	794 MHz to 806 MHz: R25 band (Taiwan, Thailand)
+	806 MHz to 810 MHz: JB1 band (Japan)
+	925 MHz to 932 MHz: X9 band (Korea)
+	
+	What are the primary components of the SVX line?
+	SVX 1 bodypack transmitter - 10mW maximum RF output (country dependent); 8 RF channels selected by a switch; on/off switch with power LED; TA4F audio input connector; input gain switch and gain potentiometer; operates on two AA batteries for up to 10 hours; supplied with PG185 lapel microphone or PG30 headworn microphone.
+	
+	SVX 2 handheld  transmitter - 1 mW or 10mW maximum RF output (country dependent) selected by a switch; 8 RF channels selected by a switch; on/off switch with power LED; operates on two AA batteries for up to 10 hours; supplied with PG28 microphone element or PG58 microphone element.
+	
+	SVX 4 diversity receiver - 8 RF channels selected by a switch; balanced XLR mic level output - adjacent Mic/Line switch provides 20 dB of additional gain; unbalanced ¼" female phone jack instrument level output; squelch adjustment potentiometer; power LED, Audio LED; RF Antenna A LED, RF Antenna B LED; operates on 12 to 18 Vdc with an operating  current draw of 130 mA; supplied with an AC-to-DC power supply (country dependent).
+	
+	SVX 88 diversity dual receiver - essentially two SVX 4 receivers in one enclosure; 8 RF channels (selected by a switch) per receiver; two balanced XLR mic level outputs - adjacent Mic/Line switch provides 20 dB of additional gain; two unbalanced ¼" female phone jack instrument level outputs; two squelch adjustment potentiometers; one power LED; Audio LED; RF Antenna A LED, RF Antenna B LED per receiver; operates on 12 to 18 Vdc with an operating current draw of 200 mA; supplied with an AC-to-DC power supply (country dependent).

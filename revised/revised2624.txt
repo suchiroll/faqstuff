@@ -1,0 +1,19 @@
+Title: Antenna distribution for 2 ULX wireless receivers
+Id: 2624
+Legacy Id: 2726
+
+Question:
+I want to rack 2 ULX receivers and bring the antennas to the front of the rack. What do I need to be able to do that?
+
+
+Answer:
+
+	There are a few options:
+	
+	1) Leave each ULX receiver in its own rack space. By placing each receiver in its own rack space, the long rack ear has two holes in it for the antennas. Use (2) UA600 kits to bring the antennas from the back of the receivers to the front of the rack. Thus, using this method, there will be four antennas on the front of the rack. This is the method that we recommend. This will take up two rack spaces total.
+	
+	2) Rack the two ULX receivers side by side and passively combine the antennas, using the UA221. This will also require the UA440 rack panel to mount the antennas on the front of the rack. This method will require two rack spaces; one space for the receivers, one space for the antenna rack panel. When racking two receivers side-by-side, there is not enough room to bring the antennas to the front in that same rack space. This is the best solution when remote antennas are needed.
+	
+	3) Use the UA440. The UA440 is a rack panel that has four holes punched in it for four antennas. It comes with the four cables needed to bring all four antennas (from two receivers) to the front of the rack. This method will use two rack spaces and have four antennas on the front of the rack.
+	
+	Note: The older UA220 splitter required modifying one of the ULX receivers in order to split the antenna signal. This modification is no longer necessary when using the UA221 splitter.

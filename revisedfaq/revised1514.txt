@@ -1,0 +1,14 @@
+Title: Two transmitters or clip on sax mic?
+Id: 1514
+Legacy Id: 1568
+
+Question:
+I have a wireless system Shure model #UC14/98 my question today is can I use two body packs with the same receiver? I purchased the unit to use with my tenor sax but lately I have been asked to do some alto sax parts so I'm having to use a wired mic for my alto. I'm hoping that by programming another transmitter/body pack for my alto, I can please let me know if its possible. I really can't afford to purchase another right now. Also, do you sell another style of bell clamp? The present one that comes with the UC14/98 is really a pain in the behind. I'm thinking more like a clip on type. Something I can squeeze with two fingers and clip on the sax bell.
+
+
+Answer:
+
+	Can I use two body packs with the same receiver? * Yes, but only one transmitter can be powered up. If both transmitters are on at the same time, they will interfer with each other.
+	
+	Also do you sell another style of bell clamp? * Look at the Beta98H/C.
+

@@ -1,0 +1,38 @@
+Title: Explanation of Stylus Shapes and Terms
+Id: 2014
+Legacy Id: 2078
+
+Question:
+Please provide an explanation of stylus shapes and terms.
+
+
+Answer:
+
+	Spherical Stylus
+	The typical Shure spherical stylus tip has a radius of 0.7 mil.
+	 Positive attribute: less tip wear due to a larger surface area contacting the record.
+	 Negative attribute: high frequency response will be rolled-off as the large radius of the tip will not trace the small grooves containing the highest frequencies.
+	
+	Biradial Stylus
+	The typical Shure biradial stylus tip has radii of 0.4 x 0.7 mil or 0.2 x 0.7 mil.
+	Note: The term biradial describes the stylus tip shape more accurately than the more commonly used term elliptical.
+	 Positive attribute: better high frequency response than a spherical due to the smaller contact radii of the stylus tip.
+	 Negative attribute: slightly faster tip wear than a spherical due to the decreased tip/groove contact area.
+	
+	Elliptical Stylus
+	See Biradial above.
+	
+	Hyperelliptical Stylus
+	 Positive attribute: longer tip life than a biradial.
+	 Negative attribute: difficult to manufacture and therefore expensive.
+	If a cartridge requires a hyperelliptical stylus tip (a tip shape no longer offered by Shure), substitute a biradial stylus with 0.2 x 0.7 mil tip.
+	
+	Micro-Ridge
+	The Micro-Ridge is the most advanced tip shape available. It is based on a hyperelliptical design but has additional shaping to the tip to create the Micro-Ridge.
+	 Positive attribute: lowest tip wear of any tip shape AND the best high frequency response.
+	 Negative attribute: very difficult to manufacture and therefore very expensive.
+	
+	Stylus for 78 RPM records
+	The groove of a 78 RPM record is much wider than the groove of a 33 1/3 RPM record, so a larger stylus tip is required. The tip radius should be 2.0 mils or larger. The tip shape should be spherical.
+	 If a 0.7 mil spherical stylus tip is employed, it will ride very low in the groove and may even ride on the bottom of the groove. This portion of the groove will likely be rough and dirty, resulting in a very noisy signal.
+

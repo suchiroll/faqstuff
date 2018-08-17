@@ -1,0 +1,11 @@
+Title: MX150 and Sweat
+Id: 4616
+Legacy Id: 5774
+
+Question:
+Can the cap (that is snapped onto the end of MX150 mic) become clogged with sweat?
+
+Answer:
+
+	According to Shures sweat tests, the answer is Yes. It is recommended that the cap be replaced or soaked overnight in clean water to dissolve the accumulated salts. Be certain the cleaned cap is 100% dry before replacing it on the MX150 mic.
+

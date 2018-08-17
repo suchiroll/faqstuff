@@ -1,0 +1,11 @@
+Title: Wireless system - delay when turning it on
+Id: 3604
+Legacy Id: 3810
+
+Question:
+We have a SLX system with a SLX2 transmitter and a SLX4 receiver. Our sound operators have been complaining that there is a delay between turning on the transmitter and the audio operation of the system. So, I checked the time myself and found that the power-up sequence takes about 3 seconds. Then there is about a 2 second delay before the signal is established. My question is whether a 5 second delay from powering up the transmitter until audio is transmitted is a normal operating characteristic or not.
+
+
+Answer:
+
+	Yes, this delay is normal.  The SLX series, and other professional level Shure systems, use a tone key squelch circuit that eliminates an audible "pop" in the sound system when the wireless transmitter is turned on or turned off. This audible "pop" is annoying to the audience, and can damage the loudspeakers. Thus the implementation of tone key squelch which mutes the SLX4 receiver audio whenever the transmitter is powered on or powered off.  The downside is the delay you described.

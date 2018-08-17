@@ -1,0 +1,30 @@
+Title: Using an external pop filter and its placement
+Id: 4590
+Legacy Id: 5746
+
+Question:
+I need your recommendations for distance from the mic using an external pop filter with the PG42USB mic. In the user manual it says that you get more bass response and a warmer sound if your are less than 6" away or touching the windscreen with your lips. It seems that being close to the mic but using a pop filter are mutually exclusive.
+
+Answer:
+
+	
+		Excellent observation and you have discovered a law of physics for mic use.  The screen-type Pop filter must be located at a distance (3 to 6 inches) in order to be effective, but the distance keeps the singer farther from the mic; this reduces proximity effect and the warm sound it provides.
+	
+		
+		Answer Link: Why does Proximity Effect Occur?
+	
+		
+		Asinger can reduce popping andobtain proximity effect if the mic is properly positioned:
+	
+		
+		Answer Link: Problem with P-popping
+	
+		
+		Most singers position the mic under the nose. Though this is commonly done, it is not recommended by mic manufacturers....but what do we know about mics.
+	
+		
+		Answer Link: Proper mic position for singer
+
+
+
+

@@ -1,0 +1,13 @@
+Title: Compare SM10A to a WH20 mic
+Id: 169
+Legacy Id: 170
+
+Question:
+I am looking to buy a headset microphone either a SM10A or WH20. I currently use SM58S. What is comparable to the SM58, the WH20 or the SM10A.
+
+
+
+Answer:
+
+	The WH20 and SM10A are the same microphone cartridge, but with a different headset design. Therefore, both microphones will sound identical. Neither microphone will sound just like an SM58, since the nature of a headset microphone is much smaller, which compromises the sound quality to a certain extent. If you are looking for something with superior sound quality to the WH20 or SM10A, investigate a condenser headset such as the Shure WCM16. While still different than an SM58, condenser microphones can be made much smaller while still maintaining a high quality of audio.
+

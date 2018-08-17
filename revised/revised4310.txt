@@ -1,0 +1,55 @@
+Title: Audinate Virtual Sound Card Software - how to obtain
+Id: 4310
+Legacy Id: 5381
+
+Question:
+I need to know how to obtain the Dante Virtual Soundcard (DVS) license using the redemption "token" supplied with the SCM820-DAN series of automatic mixers.
+
+
+Answer:
+
+	Obtaining Audinate's Virtual Sound Card Software
+	
+	Description:
+	The Shure SCM820-DAN and SCM820-DAN-DB25 Digital Automixers feature Dante audio networking to receive and send audio to similarly equipped devices. Included with the product is a "token" (actually a piece of paper with a sticker that has a 25 letter/number code) to obtain a single seat license for the Dante Virtual Soundcard (DVS) software. The Dante Virtual Soundcard software, when installed on a PC or MAC, enables it to connect to a Dante audio network and receive audio via its Ethernet port. A common application for the DVS software is to provide the ability to record network audio on a computer using various multi-channel recording programs.
+	
+	Procedure:
+
+
+	
+	Go to audinate.com
+	
+	Using mouse cursor, select "PRODUCTS" tab
+	
+	Using mouse cursor, select "Dante Virtual Soundcard" in the dropdown menu
+	
+	Click on "Register Hardware"
+	
+	Login to the website.  If previously not registered, create a personal user account
+	
+	After logging in, click on "Redeem DVS Token" button
+	
+	Enter the DVS 25 character token supplied on the card supplied with the SCM820-DAN auto-mixer
+	
+	Receive Dante Virtual Sound Card software license key.  Use this key to activate the software after downloading it from the Audinate website.
+
+
+	
+	Text from the Dante Virtual Sound Card token document supplied with the SCM820-DAN (June 2013):
+	
+	Description
+	
+	The Shure SCM820-DAN and SCM820-DAN-DB25 automatic mixers and the A820-NIC-Dante network card include a free license for Dante Virtual Sound (DVS) card by Audinate.  DVS software turns a computer into a Dante enabled device, allowing digital audio traffic to be transmitted and received using the computer's standard Ethernet port.
+	
+	Redeem the DVS License
+	
+	Use the DVA Token (located in the box to the right) to obtain a single computer License ID for DVS from Audinate's website. Without a License ID, the DVS software will not work.
+	
+	Support and Documentation
+	
+	Shure (www.shure.com): For product information, user guides, technical specifications, and software downloads.
+	
+	Audinate (www.audinate.com): For redeeming the DVS License ID, system requirements, and Dante support information.
+	
+	Shure document 27A20601 (2012)
+

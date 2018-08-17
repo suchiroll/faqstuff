@@ -1,0 +1,12 @@
+Title: Compatibility - PSM400 and PSM600
+Id: 1075
+Legacy Id: 1110
+
+Question:
+How compatible are the PSM 600 and the PSM 400. Specifically, can you use the P4R body pack receivers with the PSM 600 if they're set to the same channel?
+
+
+Answer:
+
+	No. The PSM400 receivers can not be used to pickup signals from the PSM 600 transmitter. They use two entirely different frequency ranges.
+

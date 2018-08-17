@@ -1,0 +1,13 @@
+Title: V15 Type IV Specifications
+Id: 2180
+Legacy Id: 2253
+
+Question:
+I own a V15 Type IV cartridge. Can you send me the specs? I am trying to set-up the eq settings on my phono pre-amp and forgot the capacitance setting and output level of the cartridge.
+
+
+Answer:
+
+	Optimal capacitance load per channel: 200 to 300 picofarads in parallel with 47,000 ohms.
+	Output level per channel: 4.0 mV; at 1,000 Hz, 5 cm/sec peak recorded velocity
+

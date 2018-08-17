@@ -1,0 +1,12 @@
+Title: Replacement for Shure 2215 Cartridge
+Id: 2131
+Legacy Id: 2201
+
+Question:
+Lost a channel and appears to be cartridge. Whaich one replaces and which stylus do I need. It's an old turntable and I want to go as inexpensive as possible.
+
+
+Answer:
+
+	Use the M92E.
+

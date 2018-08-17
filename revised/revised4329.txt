@@ -1,0 +1,15 @@
+Title: WA306 Cable versus WA302 Cable
+Id: 4329
+Legacy Id: 5411
+
+Question:
+How is the WA306 cable different than the WA302 cable?
+
+
+
+Answer:
+
+	The WA306 has a gold-plated Neutrik 1/4 phone plug connector.The WA306 cable has lower handling noise and is more durable. The WA306 TQG connectoris better quality; it has a push-button lock.
+	
+	The WA306 does not replace the WA302. Both cables are still offered as of October 2013.
+

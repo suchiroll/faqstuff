@@ -1,0 +1,87 @@
+Title: ULXD v2 Firmware Update and Issues
+Id: 4211
+Legacy Id: 5178
+
+Question:
+Please provide details on the ULXD firmware.
+
+
+Answer:
+
+	IMPORTANT
+	ULX-D 2.X firmware versions are incompatible with 1.X firmware versions. To ensure all receivers and transmitters in a configuration function with each other, update all devices to the same firmware version.
+
+
+	New Information posted August 26, 2015:
+
+	When updating Transmitter firmware via IR (infra-red)sync, please use caution to not lose IR connection, as its possible (in rare occasions) for upgrades from 1.5.6 (or earlier) to1.6.6 (or later) to cause transmitters to be temporarily become non-responsive.
+	
+	If the update fails and the unit is non-responsive, please follow the steps below to resolve the issue:
+
+	
+		Using the Shure Update Utility, downgrade the firmware for the ULXD4/ULXD4D/ULXD4Q Receiver to 1.5.6 AND keep the desired Transmitter firmware (2.0 or latest version.) Version 1.5.6 firmware can be downloaded at the bottom of this FAQ.
+	
+		Update the transmitter firmware to2.0 or the latest version via IR menu on the receiver by selecting Device Utilities  TX FW Update and aligning the infrared ports with the transmitter before selecting ENTER.
+	
+		Upgrade receiver to2.0 or latest version.
+
+
+
+
+
+	SHURE ULXD Wireless Microphones - Updating Firmware
+	
+	Firmware is embedded software in each ULXD wireless microphone component that controls functionality.Periodically, new versions of firmware are developed to incorporate additional features and enhancements.To take advantage of design improvements, new versions of the firmware can be downloaded and installed using the Shure Update Utility.
+	
+	Please note that for best operational results, both the ULXD4 receiver and associated ULXD1/ULXD2 transmitters should be on the same firmware version.A Firmware Mismatch message may appear on the receiver display window if the devices are on substantially different firmware versions.
+	
+	The firmware update process is broken down into several steps.Depending on the status of the equipment, it may be necessary to execute only certain steps.
+	
+	
+	Step 1: Determine the existing firmware version of the receiver and transmitter devices.
+	
+	ULXD4 Receiver - Press ENTER, use knob to scroll to DEVICE UTILITIES, press ENTER, scroll to VERSION, and press ENTER.Firmware version is displayed.Example:1.2.14.
+	
+	ULXD1 Beltpack Transmitter - Press ENTER, press the down arrow twice to select UTILITIES, press ENTER, press down arrow twice to select VERSION, press ENTER.The firmware version is displayed.
+	
+	ULXD2 Handheld Transmitter - Use joy-stick key under battery cover sleeve.Push key right once, push key down once to select UTILITIES, press key right once, push key down twice to select VERSION, press key right once to display version information.The firmware version is displayed.
+	
+	
+	Step 2: If the ULXD4 receiver is on an earlier version of the firmware, installShure Update Utilitysoftware on a PC or MAC computer
+	Skip this section if the latest version of the Shure Update Utility is already installed and available.
+
+
+	Step 3: Update the ULXD4 receiver firmware
+
+	
+		Network the ULXD4 receiver and computer to each other.
+		
+			
+				Connect an Ethernet cable between the computer network jack and the network port on the ULXD4 receiver.The receiver and computer will form a private network using link-local (fallback) IP addresses in the 169.254.xxx.xxx domain with subnet 255.255.000.000.
+			
+				Verify the ULXD4 receiver has assigned a link-local IP address.On the receiver, press ENTER, use the front panel knob to scroll to DEVICE UTILITIES, press ENTER, scroll to NETWORK, press ENTER, scroll to SHURE CONTROL, press ENTER, scroll to NETWORK, and press ENTER.The displayed IP address should conform to the address range in the previous step.If not, power cycle the receiver, and recheck the IP address.
+			
+				It is also possible to network multiple receivers to a computer simultaneously using a router with DHCP Server functionality.In this case, the DHCP Server will provide IP addresses to each connected device in its assigned operating IP address range (i.e. 192.168.0.xxx, subnet 255.255.255.000).
+		
+	
+	
+		Start theShure Update Utilityprogram on the computer.
+	
+		Click the check box adjacent to the receiver(s) to be updated.
+	
+		Click the Start Update button.CAUTION! Do not turn off the receiver until the update is complete.Once the download is complete, the receiver automatically begins the firmware update, which overwrites the existing old firmware.
+
+
+	Step 4: Update the transmitter firmware if it is running on an earlier version.
+	Note that the transmitter firmware is embedded in the receiver firmware image.Once the receiver is on the latest firmware, the handheld and bodypack transmitters can be updated directly from the receiver without a computer connection.
+
+	
+		Confirm that the associated ULXD4 receiver is on the latest firmware version.Press ENTER, use the front panel knob to scroll to DEVICE UTILITIES, press ENTER, scroll to VERSION, and press ENTER.
+	
+		Begin the update process.On the receiver, press ENTER, use knob to scroll to DEVICE UTILITIES, press ENTER, scroll to TX FW UPDATE, and press ENTER.
+	
+		Place the handheld or bodypack transmitter on its side and align the transmitter and receiver IR ports.The IR port on the transmitter should face the IR port on the receiver, about 4 - 6 away.When the two are aligned, the IR port on the receiver will illuminate red.
+	
+		Press ENTER on the receiver to begin the download to the transmitter.IR ports must be aligned for the entire download, which can take 50 seconds or longer.
+
+

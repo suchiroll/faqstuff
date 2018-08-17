@@ -1,0 +1,22 @@
+Title: Mounting Screw Specifications for Phono Cartridge
+Id: 3241
+Legacy Id: 3391
+
+Question:
+What are the specifications for the mounting screws provided with a Shure phono cartridge?
+
+
+Answer:
+
+	The mounting screw is specified as:
+	
+	#3-48 UNC 2A
+	
+	#3 = the screw diameter. Slightly less than 1/10 of an inch (2.5 mm).
+	48 = 48 threads per inch
+	UNC = Unified National Coarse (type of thread)
+	2 = thread precision (average)
+	A = external thread (B = internal thread like on a nut)
+	
+	The length of the mounting screw varies based on the thickness of phono cartridge body. Typical lengths are 1/2 inch (13mm) to 7/8 inch (22 mm). The cartridge body has a slot through which the fastening screw passes: the diameter of this slot is typically 1/8.
+

@@ -1,0 +1,14 @@
+Title: V15 HR-P Replacement Stylus
+Id: 2510
+Legacy Id: 2606
+
+Question:
+Is there a replacement stylus for the V15 HR-P?
+
+
+Answer:
+
+	V15HR-P: Hyper-Ridge stylus tip
+	1 1/4 optimum tracking weight
+	Replacement stylus: N92E or N94E
+

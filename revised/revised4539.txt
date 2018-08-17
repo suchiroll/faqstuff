@@ -1,0 +1,17 @@
+Title: Microflex Wireless dropouts on large system
+Id: 4539
+Legacy Id: 5659
+
+Question:
+We are deploying a large number of MXW devices in a school: six rooms; twelve mics per room. Each room has two MXW-APT's and two MXW-ANI's. Each room has a Cisco ethernet switch. Each of these switches is connected to a central Cisco ethernet switch. Everything works, except for random loss of all mics in a room for a short period. Happens about every 5-10 minutes. This starts with a red flash on the ANI's "Network Audio" light. Sound is lost. The transmitters flash for about 20 seconds. Then everything returns to normal.
+
+Answer:
+
+	A red Network audio indication is not detailed in the user guide but is meant to reflect the status of the DANTE controller software with respect to the subscription status of the device to a DANTE audio route.It sounds like either through an intermittent network connection or requirements of other gear, the status of the MXWAPTs as clock master are getting interrupted and reestablishing.
+	
+	One thing to check is that Energy Efficient Ethernet function (IEEE 802.3az) has been turned off on the Cisco switches.This auto-port management protocol can sometimes interrupt the clocking protocol of MXW systems, especially larger scale ones such as this.Fortunately, the Cisco switches you are using are managed and have a browser interface.See the switch product documentation for instructions on how to adjust these settings.
+	
+	If thereis other DANTE equipment on the network such as a BiAmp Tesira or Symetrix DSP on the network, they could also be acting as the clock master and causing the problems.There can be only one clock master.
+	
+	Finally, make sure that QoS (IEEE 802.1q or 802.1p) are active and prioritized for audio.Default settings should be ok but if this switch was modified, that could be affecting things too.Cisco should be able to help with this configuration if required.
+

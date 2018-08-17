@@ -1,0 +1,18 @@
+Title: ULXP Discontinuation
+Id: 4538
+Legacy Id: 5657
+
+Question:
+When were the ULXP4 receiver and all ULXP systems discontinued?
+
+
+Answer:
+
+	August 2014. The ULXS4 receiver and the ULXS systems were NOT discontinued
+	
+	The final U.S. retail price for the ULXP4 receiver was $770. It can be replaced by the ULXS4 receiver for most applications.
+	
+	The ULXP4 was introduced in 2002.
+	
+	Differences between ULXP and ULXS.
+

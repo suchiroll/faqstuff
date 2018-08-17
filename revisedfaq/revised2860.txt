@@ -1,0 +1,50 @@
+Title: Automatic Gain Control (AGC) in Shure DSP Products
+Id: 2860
+Legacy Id: 2972
+
+Question:
+Please provide operational details of Shure's Automatic Gain Control design.
+
+
+Answer:
+
+	What is the AGC and how is it used?
+	
+	The Automatic Gain Control (AGC) works like a sound engineer with a finger on the input fader. It adjusts the gain of a channel based on how loud or soft the input signal is. If the input is loud, the gain is turned down. If the input is soft, the gain is turned up.
+	
+	The primary application of the AGC is in spoken word applications. Example: Several different talkers speak into a single microphone on a lectern. Some talkers are soft or talk far away from the microphone, and some talkers are loud or speak close to the microphone. When a soft-spoken person begins to speak, the gain gradually turns up until it is at the pre-set optimal level. The gain stays at this level until another talker addresses the microphone. When a loud talker speaks, the gain gradually gets turned down until it is at the pre-set optimal level.
+	
+	Another application is when a lapel microphone is being used. One talker places the lapel microphone close to his mouth and in the center of the chest. Another speaker places her microphone in a less optimal position. The AGC will respond to these situations by turning the gain down or up, respectively.
+	
+	If any talker quickly changes her volume by shouting, whispering, or getting very close to the microphone, that peak or valley will pass through the AGC. The AGC will not quickly adjust the gain like a compressor. But if a given talker changes her speech level style for several seconds (based on the attack /decay time), then the AGC will respond with a gain change.
+	
+	
+	What do the AGC attack and decay times mean?
+	
+	The attack and decay settings determine how fast the AGC responds to a changing input level. Longer attack / decay times will cause the gain to change more slowly and shorter attack / decay times will result in faster changing gain.
+	
+	To determine which to use (attack or decay), the AGC looks at the input levels direction in relationship to the hinge threshold. The attack time is used when the input level is moving away from the hinge point, and the decay time is used when the input level is moving towards the hinge point.
+	
+	Note that the AGC is not meant to have a short attack time. A long attack time of 1-2 seconds or more is appropriate. The decay time should also be several seconds. If attack times are too short, the AGC responds too quickly and the benefit of the speech detector is lost.
+	
+	
+	How does the Speech Detector work in the AGC? Can the AGC be used with non-speech signals?
+	
+	The speech detector in the AGC is more accurately called an activity in the speech frequency band detector. It detects activity that occurs in the speech range above the level of the ambient room noise. The detector adapts to ambient noise and triggers when it detects some activity above that ambient noise floor.
+	
+	When the speech detector detects the presence of activity in the fundamental speech frequency band, the AGC operates as normal. When the speech detector signals that no activity is detected, the last gain applied is held until the speech detector sees more activity. In this way, the speech detector prevents the pumping of the noise floor while a talker pauses.
+	
+	Though designed for speech, the AGC with speech detector also works effectively on non-speech signals such as musical instruments or singing. For example, the AGC could turn up a guitar after the player starts finger picking and turn it back down after the player starts strumming.
+	
+	
+	Whats the difference between the AGC in the DP11EQ (discontinued), P4800 (discontinued), and DFR22?
+	
+	Each product has a slightly different implementation of the AGC. The original algorithm was developed for the DP11EQ. The implementation in the DFR22 is nearly identical; the only difference is that the DFR22s AGC has an improved weighting filter in the speech detector. The DP11EQs filter causes the speech detector to trigger on the higher portion of the speech band. This band includes mostly fricatives, like s, f, sh, k, etc. The filter in the DFR22 causes the detector to trigger on a slightly lower frequency band that includes the fundamental frequencies of most voiced sounds (vowels). The benefit of the improved weighting filter in the DFR22 is that it will not trigger on incidental mouth noises
+	
+	The AGC in the P4800 is different from the AGC in the DFR22 or DP11EQ because it does not include the speech detector. This allows the AGC to be a faster acting processor with shorter attack and decay times, but also makes it susceptible to noise floor pumping. One can approximate the performance of the P4800s AGC by setting short attack and decay times in the DFR22 of DP11EQ. Short attack and decay times will effectively defeat the speech detector.
+	
+	
+	How can the AGC be used for speech leveling?
+	
+	Often it is desired to get the benefits of the gradual change of AGC yet still have some short term leveling. A good way to accomplish this is to follow the AGC with a compressor. A compressor with a fast attack time will catch and squash peaks that pass through the AGC. If the compressor ratio is set to a moderate level (2:1, 3:1), the talker will still be able to generate a reasonable dynamic range.
+

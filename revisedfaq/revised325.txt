@@ -1,0 +1,12 @@
+Title: Mic cable for Shure 55S
+Id: 325
+Legacy Id: 332
+
+Question:
+I have an old Shure model 55S Unidyne dynamic mic and was wondering if there is a cable that will work for it. Every cable I find will not screw into the input on the mic. They just are not big enough to plug the cord into the mic. Could you please tell me if you make a cord that will work for this mic?
+
+
+Answer:
+
+	The 55S used a 3 pin Amphenol connector, part #MC3M. We do not carry these connectors, but you can getpre-wired cables from Tom Ellis (214-328-3225 or tomsmics@flexcomp.com).
+

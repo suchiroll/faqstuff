@@ -1,0 +1,25 @@
+Title: Antenna Set Up for Wireless Systems
+Id: 4425
+Legacy Id: 5524
+
+Question:
+Does Shure offer an educational booklet about recommended methods for remote antenna installation, antenna placement, and RF signal distribution? What about online tools and drawings?
+
+
+Answer:
+
+	As every installation has different requirements and construction details, there is no single correctprocedure for remoting antennas, positioning antennas, etc. Note thatdeficient antenna installation/locationor inadequate antenna system design isthe primary cause of poor performance in wireless systems. The tools below were created to assist in finding the best solution for your unique situation.
+	
+	Design guidelines and ideas:
+	Antenna Setup for Wireless Systems
+	
+	
+	Online design tools:
+	Wireless Accessory Wizard
+	
+	Wireless Remote Antenna Tool
+	
+	
+	Existing, pre-configureddesign drawingsand solutions:
+	Enter thewords antenna distribution into the Search box at the top.
+

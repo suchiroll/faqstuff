@@ -1,0 +1,29 @@
+Title: Radio Shack Shure Mic Model 33-3010A
+Id: 1931
+Legacy Id: 1993
+
+Question:
+A few years ago my girlfriend bought me a microphone. I just found it in a box and was wondering if you could give me any spec information.
+
+
+Radio Shack Pro-3010
+
+Shure Unidirectional Dynamic Microphone
+
+33-3010 Mexico
+
+
+Answer:
+
+	The Radio Shack/Shure Microphone Model 33-3010A is:
+	
+	Unidirectional
+	Designed for speech or vocals
+	Dynamic element
+	150 ohms impedance
+	XLR male connector
+	Balanced output
+	Output level of -73.5 dBV at 74 dBSPL
+	
+	It was designed specifically for Radio Shack.
+

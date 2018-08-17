@@ -1,0 +1,14 @@
+Title: Shure Microphone Model G2
+Id: 4900
+Legacy Id: 6158
+
+Question:
+Please provide information on this model.
+
+
+Answer:
+
+	The model G2 was an OEM variation of the model 701D. It is not known what manufacturer purchased the model G2 from Shure.
+	
+	The crystal microphone 701D can be viewed in the 1939 Shure catalog.
+

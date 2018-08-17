@@ -1,0 +1,10 @@
+Title: Using KSM32 for vocal and instruments in live performances
+Id: 1625
+Legacy Id: 1682
+
+Question:
+We are an acoustical group that currently use your SM58 mic's for vocal and transducers on our instruments. We would like to go to a one mic system covering both vocal and instrument for live performance. We are thinking that your KSM32 would work. If there is any help in this that you could offer it would be appreciated.
+
+Answer:
+
+	The KSM32 might work, but it will depend on how loud you run your PA system.To mike vocals and instruments with a single mic requires that the mic be located two to three feet in front of the performers. This might work if the PA is not too loud, and if you do not use loudspeaker monitors.But if you do run the PA loud and you do use loudspeaker monitors, you will have to continue to use close miking techniques, just like you do now.To learn more about sound systems and feedback, please read: Microphone Techniques for Music - Live Sound Reinforcement

@@ -1,0 +1,12 @@
+Title: Wiring an XLR or 1/4" TRS connector to a RCA connector
+Id: 1839
+Legacy Id: 1899
+
+Question:
+How do I wired a XLR or TRS 1/4" connector to a RCA connector?
+
+
+Answer:
+
+	Please give us technical details on the two devices you are trying to connect. For example, if you are trying to connect a microphone directly into the RCA input of a VCR, it wont work.
+

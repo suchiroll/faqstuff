@@ -1,0 +1,11 @@
+Title: Rack mount for AXU4 Receiver
+Id: 1922
+Legacy Id: 1983
+
+Question:
+I have the AXU4 receiver, and I would like to rack-mount it (preferably in the center of the shelf with the side openings covered by the extended rack ears), but I didn't see a shelf that was specifically for the AXU4 on your Rack Mount Kits web page. Could you tell me if there is a specific one I can use, or do I have to use just a regular rack tray.
+
+
+Answer:
+
+	Shure offers a standard rack tray: model URT.

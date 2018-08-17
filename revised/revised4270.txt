@@ -1,0 +1,12 @@
+Title: SRH840 size when folded
+Id: 4270
+Legacy Id: 5333
+
+Question:
+I have been looking into your SRH840 studio headphones but I am also trying find the right pelican case that they would fit in. Would it be possible for me to find the length and width of them when they are folded up?
+
+
+Answer:
+
+	Without cable attached, when folded:width 6.5 - height6 - depth 3.5
+

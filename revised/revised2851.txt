@@ -1,0 +1,51 @@
+Title: P4800 Cannot Save Scene File
+Id: 2851
+Legacy Id: 2963
+
+Question:
+We are working on a P4800 and after some adjustments in Live Mode, we cannot save the scene on a file. We have tried the following:
+
+
+1. Recalling the preset in Design mode and clicking save as pc or from File/Save As Scene File, does not work either
+
+
+2. Backing up the Entire device does work but not backing up selected presets.
+
+
+3. Changing the Live preset to another preset and then going into Design Mode, recalling the non-active preset (preset to be saved) and clicking save to pc or File/Save as Scene File, does not work either.
+
+
+4. Transfering the Backed-up file (entire device) to another P4800 and trying the above does not work either.
+
+
+5. Using another computer and trying all the above does not work either.
+
+
+6. Creating the exact required preset on another computer and then doing changes in either Live or Design Mode also gives the same problems as above.
+
+
+Please shed some light as to how to resolve the problems. We are a Acoustic and Technical Consultancy in Singapore and Asia. After specifying the P4800 to our Clients and then having these problems does not give us a level of confidence in the P4800, particularly the use of the p4800 Control Software. If you could give us an explanation detailing why these problem occur and what you could do to remedy if it is a problem in the P4800 software or even in the P4800 itself, it would be very helpful in us regaining confidence in the product.
+
+
+Answer:
+
+	The P4800 software does not like the slash in the Preset's name. When it tries to save this as a file, the slash tells Windows to do things.
+	
+	Here's the fix:
+	
+	1) Go to Live Mode and choose Preset 1.
+	2) Click on Design Mode.
+	3) Pull down the FILE menu and choose Store As Preset.
+	4) Store as preset #5, but rename it so that it does not have a slash ("/") in the name.
+	5) Go to Live Mode and choose Preset 5.
+	6) Click on Design Mode.
+	7) Pull down the FILE menu and choose Delete Preset.
+	8) Delete Preset #1.
+	9) Pull down the FILE menu and choose Store As Preset.
+	10) Store as preset #1 (this should be a copy of your original preset #1 but with a different name).
+	11) Go to Live Mode and choose Preset 1.
+	12) Click on Design Mode.
+	13) Pull down the FILE menu and choose Delete Preset.
+	14) Delete Preset #5.
+	
+	Essentially, you're copying Preset #1 over to Preset #5 and renaming it to something that does not have a slash. Then you delete Preset #1 and copy the new Preset #5 (which is named correctly) back into Preset #1.

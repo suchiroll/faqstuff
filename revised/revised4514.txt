@@ -1,0 +1,35 @@
+Title: Help me find the frequency band on my wireless mic
+Id: 4514
+Legacy Id: 5630
+
+Question:
+I have a wireless mic. How do I determine which frequency band it is in? Is that printed on the product somewhere?
+
+Answer:
+
+	The band information is printed on every transmitter and receiver. Depending on the model number, the band information could be on the front, the back, the bottom, or inside the battery compartment. The band will be similar to:
+	
+	 G50 470-534 MHz
+	H8 518-542 MHz
+	 J3 572-596 MHz
+	 etc.
+	
+	Receiver
+	On the receiver, look for a sticker on the back or the front.
+	
+	
+	 
+	
+	Handheld
+	On a handheld transmitter, look for a sticker inside the battery compartment or a label near the display.
+	
+	 
+	
+	Bodypack
+	On a bodypack, look for a label on the front or for a sticker on the back near the belt clip.
+	 
+
+	 
+
+	
+

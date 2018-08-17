@@ -1,0 +1,18 @@
+Title: Repair of dents in a screen ball grill
+Id: 3110
+Legacy Id: 3243
+
+Question:
+The ball grill of my Shure mic is dented. Is there a way to repair it?
+
+
+Answer:
+
+	Bent ball-grills can be often be repaired as follows:
+	
+	1) Remove the ball-grill from the microphone.
+	
+	2) Place the ball-grill over a rounded wooden file handle; secure the file handle in a vice. File handles are sold at hardware stores.
+	
+	3) Using the file handle as a form inside of the ball-grill, gently reshape the ball-grill by tapping on it using a plastic or rubber hammer.
+

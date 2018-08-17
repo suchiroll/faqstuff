@@ -1,0 +1,22 @@
+Title: Stylus tip size - Mils versus Micro Meters
+Id: 2498
+Legacy Id: 2594
+
+Question:
+In your specs you talk about the stylus tip size in mils (for example 0.7 mil). Some other manufacturers tell their tip size in micro meters. For example Ortofon has their spherical Concorde Pro tip radius at 26 micro meters. Where does the 0.7 mils come from since if you are talking about 0.0007 then the size difference to the ones reported in micro meters is huge?
+
+
+I just noticed that a stylus with a tip radius of 15 micro meters causes crackling sound on some new records where a technicaly equivalent stylus with a 0.7 mil tip doesn't. Apparently the latter stylus doesn't run so deep in the groove and pick up distortion from the bottom. Or could there be some other explanation?
+
+
+
+Answer:
+
+	Micro meters is a European standard. Mils is an American/English standards.
+	
+	One mil equals 25.4 micrometers.
+	26 micrometers equals 1.023 mils.
+	15 micrometers equals 0.5905 mils.
+	
+	Your explanation of the tip riding too low in the groove is correct.
+

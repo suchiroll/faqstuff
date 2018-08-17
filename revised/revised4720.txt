@@ -1,0 +1,14 @@
+Title: Motiv MV88 reducing wind noise on recordings
+Id: 4720
+Legacy Id: 5890
+
+Question:
+How can I reduce wind noise on my Motiv MV88 recordings?
+
+
+
+Answer:
+
+	The MV88 includes a foam windscreen, and the Motiv app also features a Wind Reduction setting.  
+	
+	For more extreme cases, use the Shure windscreen accessory, part number AMV88-FUR.  This accessory fits over the foam windscreen.

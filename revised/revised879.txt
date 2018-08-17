@@ -1,0 +1,13 @@
+Title: Modify FP32 for 48V phantom?
+Id: 879
+Legacy Id: 906
+
+Question:
+Is there any upgrade to the (1989) FP32 ENG mixer? I would like to use P48 mics w/out ext. powering box.
+
+Answer:
+
+	The Shure FP33 mixer has 48V phantom as a feature.
+	
+	Adding 48V phantom to the FP32 would require the complete redesign of the mixers input section. Sorry.
+

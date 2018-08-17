@@ -1,0 +1,11 @@
+Title: Conference One - More than 15 Delegate Units?
+Id: 2886
+Legacy Id: 3010
+
+Question:
+When connecting Chairman/Delegate units from the front panel of the power supply, what happens if you exceed the specified 15 units?
+
+
+Answer:
+
+	When you increase the number of units beyond 15, you run the risk of blowing a fuse. The increased current demand over the 12-pin busline cable will exceed the capability of the line driver circuitry. Fifteen is the safe number.

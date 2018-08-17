@@ -1,0 +1,12 @@
+Title: Can I use a headworn microphone into a lapel wireless system?
+Id: 148
+Legacy Id: 148
+
+Question:
+I have an old wireless lapel system and want to know if I can adapt a headworn mic instead of the tieclip mic. I don't like the sound of the lapel mic and want to try a headworn to see if it helps any.
+
+
+Answer:
+
+	It depends on which wireless system you have, but with most Shure systems, you can just plug a headworn microphone into the bodypack transmitter.
+

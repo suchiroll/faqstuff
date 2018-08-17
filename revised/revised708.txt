@@ -1,0 +1,13 @@
+Title: Vocal master power cord
+Id: 708
+Legacy Id: 726
+
+Question:
+The ac cord is missing on my VA 300-C. Where should a replacement be connected?
+
+Answer:
+
+	Yours is a strange question as the AC cord on the VA300C is permanently attached. It cannot be lost, only cut off.
+	
+	On the rear panel, directly to the left of the AC fuse, is a cable restraint grommet. The AC cable enters the VA300C at this point. Replacing this cable is a job for a professional electronics technician.
+

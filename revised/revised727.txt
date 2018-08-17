@@ -1,0 +1,15 @@
+Title: Model 515SD for music?
+Id: 727
+Legacy Id: 746
+
+Question:
+I bought the 515SD from a dealer who recommended it for stage performances. Can it be used as such and if not, what replacement would I require.. SM58? My main performances are mostly in German Umpah music in beer tents, halls.. not more than 800 people.
+
+
+Answer:
+
+	The 515SD microphone is typically used for speech applications. Though it can be used for music, it will likely not sound as good as an SM58 for musical applications. We suggest you try the 515SD with your Umpah band and if you like the results, keep it. If not, the SM58 is definitely a step up in performance over the 515SD.
+	
+	Also, please refer to this link for more information:
+	Microphone Techniques for Music - Sound Reinforcement
+

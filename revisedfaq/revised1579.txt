@@ -1,0 +1,12 @@
+Title: Using handheld or bodypack with same receiver
+Id: 1579
+Legacy Id: 1635
+
+Question:
+Could I interchange transmitters (eg. wireless handheld and wireless bodypack )with one (same) receiver at different times?
+
+
+Answer:
+
+	Yes. Make certain that both transmitters are on the same frequency. Note that it will not work if you have both transmitters turned on at the same time. Having both transmitters gives you the option to use whichever you need, but not both at the same time.
+

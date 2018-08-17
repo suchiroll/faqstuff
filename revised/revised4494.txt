@@ -1,0 +1,19 @@
+Title: MXW warning / alert audible signals
+Id: 4494
+Legacy Id: 5608
+
+Question:
+I am installing the Microflex wireless system in my boardroom and I was wondering do the microphones make any warning noise at all? If the battery is low or if it loses sync for whatever reason?
+
+
+
+Answer:
+
+	The MXW system should make no extraneous and undesirable noises while operating.In a low battery condition, the MXW6 and MXW8 transmitters simply provide a silent red LED to indicate less than 5% battery life remains but there is no audible notification. (The MXW2 and MXW1/O transmitters do not have a battery status LED and must be monitored for battery life via the system web browser interface for remaining battery life).When the battery life drops too low for operation, the portable unit will shut off silently.
+	
+	If the portable units lose sync with the system due to an out-of-range event or some other event such as interference or an accidental system configuration change, the status LEDs on some or all of the portable units will begin to flash between red and off (as opposed to the red and green alternating flash you often see when the portable units are trying to establish a connection after being removed from their chargers).This out-of-range alert is generally silent by default.It will only make a beeping sound if you enable the Out of Range alarm in the Preferences menu of the built-in web browser interface of the Access Point(s).
+	
+	The only other thing that could cause the system to beep would be pressing the ID or Identify buttons for the portable units in the built-in web browser interface of the access points. When these are pressed, a loud beeping sound is emitted by the portable units to aid in their identification.There is no way to lock out these ID buttons so either restrict access to the browser interface or take care not to press these during a meeting. Even this sound can be prevented, if desired: In the Preferences page, under Identify Preference, select Disable for the Identify Alarm parameter (available in a future Firmware Version that will be numbered as 1.3 and higher).
+	
+	The MXW system is a digital wireless system that operates in the 1.92 to 1.93 GHz DECT frequency band.Interference in this unlicensed band can occur from devices such as DECT cordless phones, DECT wireless headsets frequently used in call centers and office buildings, and other wireless microphone systems that operate in this range. Systems in this frequency range generally are able to detect interference and slide to a different frequency and/or time slot within that frequency to avoid interference.While we cant comment on the effectiveness of other DECT systems to do this, MXW is indeed able to avoid interference quite well provided the DECT spectrum isnt already too crowded.This can be determined by using the MXWAPT to run a spectrum scan to determine available spectrum and expected channel counts. Should interference begin to occur, the MXW system will begin to register bit errors and is designed to switch frequency and/or time slots before the error count is high enough that interference would be audible in the system.At worst, if interference is high or in certain rare instances you may experience a repeated ticking sound if the system does not adjust due to rare corner cases.In general, if the interference is severe and the system has no spectrum to move to, the mics will lose sync and silently flash red.
+

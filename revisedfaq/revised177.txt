@@ -1,0 +1,51 @@
+Title: How do I make a wireless gooseneck microphone?
+Id: 177
+Legacy Id: 178
+
+Question:
+How do I make a wireless gooseneck microphone using an MX412 microphone?
+
+
+Answer:
+
+	Building a Wireless Desktop Microphone Using the MX412SE, MX418SE, EZG/12SE (discontinued), EZG/18SE (discontinued)
+	
+	Procedure for current MX412SE, MX418SE
+	In late 2006, Shure began adding a TA4F connector to the MX412/SE and the MX418/SE. This change provides an improvement in RFI resistance. However, this TA4F connector is crimped in place and is wired with the cable shield NOT connected to pin 1. This TA4F must be removed and replaced by a standard TA4F with the cable shield connected to Pin 1. Follow the instructions below in order to use the MX412/SE or MX418/SE as a wireless gooseneck mic.
+	
+	1) Unplug the existing TA4F connector from the in-line preamplifier.Set aside the preamp (it will no longer be needed).
+	
+	2) Shorten the goosenecks cable to the desired length and install a new Switchcraft TA4F connector wired as shown below. This connector is available from Shure as part number WA330.
+	
+	3) Screw the gooseneck onto the top of a desk stand, a flange mount, the supplied shock mount adapter, or other 5/8x27 standard mic thread fitting. It is also possible to reposition the cable for a bottom exit if desired following the instructions in the MX400SE Series User Guide.
+	
+	4) Plug the fresh TA4F connector into the bodypack transmitter.
+	
+	Note 1: Because the bodypack transmitter supplies only 5 volts of dc bias, condenser microphones that require 12 to 48 volts of phantom power cannot be used in this application. Generally, only condenser microphones with a detachable preamplifier can be used.
+	
+	Note 2: If the Shure transmitter body pack is metal (and not plastic), a new TA4F connectordoes NOT need to be installed.
+	
+	Procedure for older MX412SE, MX418SE, EZG/12SE, EZG/18SE
+	
+	1) Unscrew the end cap/strain relief assembly from the goosenecks attached in-line preamplifier and slide it up the miniature cable. Loosen the setscrew in the side of the preamp cylinder near the XLR end. Note that this setscrew is reverse-threaded: turn it counter-clockwise until seated to release the circuit board. Push the XLR connector in, so that the circuit board is forced out of the other end of the preamp cylinder. Disconnect the thin cable from the 3 screw terminals, and set aside the preamp (it will no longer be needed).
+	
+	2) Follow the steps 2 through 4 above to complete the procedure.
+	
+	Parts Needed
+
+
+	
+		(1) MX412SE, MX418SE, EZG/12SE, or EZG/18SE gooseneck microphone
+	
+		(1) Switchcraft TA4F connector (Shure part# WA330)
+	
+		(1) Shure wireless system with bodypack transmitter that has a TA4M connector
+	
+		(1) S37A (or similar) desk stand, or A12 mounting flange, or A13HD mounting flange, or other 5/8-27 microphone mount
+
+
+	
+
+
+	Note: In order to match the actual wiring of newer Shure lapel and headset microphones, the cable braid shield should be split in half. One half is soldered to Pin 1. The other half is folded back and soldered to the metal cable clamp inside the TA4F connector. This allows the resulting MX400SE to be used with a Shure transmitter but also used with the original preamp RK100PK. The cable clamp forms a ground connection with the shell of the connector when it is assembled.
+

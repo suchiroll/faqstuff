@@ -1,0 +1,16 @@
+Title: Shure adopts the term Hertz to replace C.P.S.
+Id: 4958
+Legacy Id: 6223
+
+Question:
+In what year did Shure begin to replace CPS (Cycles Per Second) with Hz (Hertz?)
+
+
+Answer:
+
+	The year was 1964.
+	
+	Thetechnical measurement term Hertzwas established by the International Electrotechnical Commission in 1930. It was adopted by the General Conference on Weights and Measures in 1960, replacing the previous name for the unit, cycles per second (cps.)
+	
+	Brief Biography of Heinrich Hertz
+

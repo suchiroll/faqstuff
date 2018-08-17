@@ -1,0 +1,11 @@
+Title: Use of SM57 for Presidential speeches
+Id: 2771
+Legacy Id: 2879
+
+Question:
+I know that the President uses a pair of SM-57 mics with windscreens when making speeches, but why was the '57 chosen? One would think that the '58, generally regarded as a "vocal" mic, would be used. Was it a tonal issue that led to the '57 being used or is it simply because a pair of '57s look more "sleek" than a pair of '58s?
+
+
+Answer:
+
+	Two factors: the "sleeker" appearance of the SM57, plus the SM57 will accept the A81WS large windscreen when the President appears outside in high wind conditions.

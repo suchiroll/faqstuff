@@ -1,0 +1,15 @@
+Title: SLX Receiver Rack Hardware
+Id: 4485
+Legacy Id: 5598
+
+Question:
+What is the hardware required for an SLX4 receiver?
+
+
+Answer:
+
+	Short Rack Bar: 53A8611
+	Long Rack Bar: 53A8612
+	Link Bar: 53B8443
+	Antenna extension cable: 95A9023
+

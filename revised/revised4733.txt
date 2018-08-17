@@ -1,0 +1,24 @@
+Title: GLX-D Wireless with iPads nearby
+Id: 4733
+Legacy Id: 5905
+
+Question:
+I recently played a gig where there were numerous iPads on stage. My GLXD wireless was having problems. Lots of dropouts. Couldn't get more than 10 feet. Everyone is using iPads on stage and I was close to at least one of the iPads. Any suggestions for troubleshooting?
+
+Answer:
+
+	For what its worth, Shure has yet to observe GLX-D performance impacted this badly.Something isnt right.
+	
+	GLX-D has been tested on a Shure headquarters floor with heavy WiFi traffic and typical transmission distances were observed. Its possible that theres something else wrong with your GLX-D system, but we havent had issues to date as you described.
+	
+	To test if your GLX-D unit is defective: Turn off all Wi-Fi sources and try the GLX-D unit. If still tempermental, it may have a defect.
+	
+	GLX-D Optimization Hints:
+	* Use Group 4 (On firmware v2 and newer).
+	* Scan for the cleanest channel
+	* Move Access points/laptops/ipads 10 feet away from the GLX-D receiver
+	* Minimize Transmitter to Receiver distance
+	* Placing a GLX-D receiver next to a WiFi access point which certainly degrade the GLX-D performance.
+	
+	Finally, ifthe iPads are not using Wi-Fi for communication, put the iPad in airplane mode and it will not transmit/receive using WiFi.
+

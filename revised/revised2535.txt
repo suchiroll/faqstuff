@@ -1,0 +1,13 @@
+Title: Placement and care of model 315 mic
+Id: 2535
+Legacy Id: 2632
+
+Question:
+Just wanted some info on the best placement and handling of a 315 in great condition. Actually, I found two: possible drum overheads?
+
+
+Answer:
+
+	We advise against using a ribbon mic, like the 315, for any type of high sound pressure level application, like drum miking. Ribbon mics are best used for voice and softer instruments.
+	
+	Please read: Ribbon Microphones - Care and Use

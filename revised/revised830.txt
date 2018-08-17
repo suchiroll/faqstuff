@@ -1,0 +1,14 @@
+Title: Where can I find info on the SM61?
+Id: 830
+Legacy Id: 853
+
+Question:
+Please send me information on the SM61 microphones my company owns.
+
+
+Answer:
+
+	Heres a link to the user guide.
+	
+	http://pubs.shure.com/guide/SM61/en-US.pdf
+

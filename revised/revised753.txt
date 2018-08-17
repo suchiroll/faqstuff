@@ -1,0 +1,13 @@
+Title: Will tape around the SM57 plastic grill change the polar pattern?
+Id: 753
+Legacy Id: 773
+
+Question:
+When you put tape around the 1/8 inch screen, just below the writing. Does it change the pattern of the microphone?
+
+
+Answer:
+
+	This will alter the polar pattern in a very negative manner. The pattern will be become "semi-omnidirectional" and the frequency response will become very rough and irregular. Placing tape on a directional microphone will always cause problems if the tape covers any acoutical opening, grill, or port.
+	
+	Tape placed on the solid portion of a microphone handle is fine. This is often done for identification purposes.

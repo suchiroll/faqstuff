@@ -1,0 +1,72 @@
+Title: PSM system with a digital mixer, digital processor, digital snake. Will latency be a problem?
+Id: 3130
+Legacy Id: 3264
+
+Question:
+I'm concerned that the latency in my digital audio devices might be a problem when using a PSM in-ear system. Is this true?
+
+
+Answer:
+
+	Latency and Personal Monitoring
+
+	
+
+	
+
+	What is latency?
+
+	
+
+	The quality of sound experienced by users of personal monitor systems depends on many factors beyond just the beltpack and earphones that comprise the basic system. Several other pieces of equipment are required to bring the desired sounds to the performers ear. At the very least, some sort of mixer is used to provide the monitor mix for each performer. Effects processors may be employed for dynamics control or reverberation. An increasing number of these devices are digital instead of analog. While the advantages of digital are numerous, including more flexibility and lower noise, any digital audio device adds a measurable degree of latency to the signal path, which should be of interest to personal monitor users. Latency, in digital equipment, is the amount of time is takes for a signal to arrive at the output after entering the input of a digital device. In analog equipment, where audio signals travel at the speed of light, latency is not a factor. In digital equipment, however, the incoming analog audio signal needs to be converted to a digital signal. The signal is then processed, and converted back to analog. For a single device, the entire process is typically not more than a few milliseconds.
+
+	
+
+	What types of digital devices might I encounter?
+
+	
+
+	Any number of devices in the signal path might be digital, including mixers and signal processors. Additionally, the signal routing system itself may be digital. Personal mixing systems that distribute audio signals to personal mixing stations for each performer using Cat-5 cable (the same cable used for Ethernet computer networking) actually carry digital audio. The audio is digitized by a central unit and converted back to analog at the personal mixer. Digital audio snakes that work in a similar manner are also gaining popularity.
+
+	
+
+	Does latency cause echoes?
+
+	
+
+	Since the latency caused by digital audio devices is so short, the signal will not be perceived as an audible delay (or echo). Generally, latency needs to be more than 35 ms to cause a noticeable echo. The brain will integrate two signals that arrive less than 35 ms apart. This is known as the Haas Effect, named after Helmut Haas who first described the effect.
+
+	
+
+	However, latency is cumulative, and several digital devices in the same signal path could produce enough total latency to cause the user to perceive echo.
+
+	
+
+	Then why is latency a problem?
+
+	
+
+	Isolating earphones are the preferred type for personal monitors, because they provide maximum isolation from loud stage volume. Isolating earphones, however, result in an effect known as the occluded ear. Try plugging up your ears and say a few words. Note how the sound of your voice changes. This is due to the vibrations that are carried directly to your ear canal via bone conduction. The vibrations are trapped there, creating a build-up of low frequencies. Players of horn instruments will notice the same effect.
+
+	
+
+	Before continuing, an explanation of comb filtering is in order. Sound waves can travel via multiple paths to a common receiver (in this case your ear is the receiver). Some of the waves will take a longer path than others to reach the same point. When they are combined at the receiver, these waves may be out of phase. The resultant frequency response of the combined waves, when placed on a graph, resembles a comb, hence the term comb filtering.
+
+	
+
+	
+
+	Hollow is a word often used to describe the sound of comb filtering.
+
+	
+
+	When using personal monitors, the sound travels by at least two paths to the listeners ear. The isolating earphone creates a direct path to the ear canal via bone conduction. The miked signal travels through the mixer, personal monitor transmitter and receiver, and whatever other processing may be in the signal path. If this path is entirely analog, the signal travels at the speed of light, arriving at virtually the same time as the direct sound. Even a small amount of latency, though, causes comb filtering. It is generally believed that the shorter the latency, the better. Ultimately, changing the amount of latency shifts the frequency where comb filtering occurs. Even latency as short as 1 ms produces comb filtering at some frequencies. What changes is the frequency where the comb filtering occurs. Lower latency creates comb filtering at higher frequencies.
+
+	
+
+	How much latency is acceptable?
+
+	
+
+	As in all things audio, it depends. For most live applications, up to 2 ms of delay is acceptable. When using personal monitors, though, total latency should be no more than .5 ms to achieve sound quality equivalent to an analog, or zero latency, signal path. While in reality it may be difficult to achieve latency this short, be aware that any digital device will cause some latency.
+

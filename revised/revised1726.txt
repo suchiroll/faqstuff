@@ -1,0 +1,25 @@
+Title: Water and weather resistant mics for tropical forest
+Id: 1726
+Legacy Id: 1785
+
+Question:
+I need water and weather resistant mics to be used in a tropical forest. They will be left at the site for at least 3 months. Do you have any idea which one should I buy? Could you please also provide the data sheets. Thanks.
+
+
+---- 09/19/2001 03:48 AM ----------------------------------------------
+
+Hi again. Thank for the reply. The problem now is that I require condenser mics as I need to pick sounds from the ambience. Do you have any suggestion what type of mics other than condenser that I could use for this purpose. Could I use the Shure SM63 to pick the surrounding sounds? Thanks.
+
+
+Answer:
+
+	We suggest the Shure SM63. It is often used for long periods under difficult environmental conditions. Shield it from direct rain. High humidity should present no problem, nor should the high heat.
+	
+	Avoid any type of condenser mic as they tend to fail in high heat and humidity. The SM63 is a dynamic mic.
+	
+	At 09/19/2001 08:36 AM we wrote - The problem now is that I require condenser mics as I need to pick sounds from the ambience. * Why do you think that condensor mics are required?
+	
+	Do you have any suggestion what type of mics other than condenser that I could use for this purpose? * Yes, a dynamic mic.
+	
+	Could I use the Shure SM63 to pick the surrounding sounds? * Yes. But as a dynamic mic typically has a lower output level than a condenser mic, you may require a low noise preamp.
+

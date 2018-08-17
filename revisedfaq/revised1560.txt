@@ -1,0 +1,11 @@
+Title: 520 Green Bullet direct into mixer?
+Id: 1560
+Legacy Id: 1614
+
+Question:
+I bought a new Green Bullet mike from Musician's Friend for harmonica. When I plug it into the PA through a transformer it sounds just like my SM57. How do I get that old time blues sound?
+
+
+Answer:
+
+	Most harp players will plug the Green Bullet into a guitar amp. Then, use a standard SM57 to mic the guitar amp. Plug the SM57 into the mixer for your PA. Different amps will give the Green Bullet different tonality, just the same as they give guitars different tonality.

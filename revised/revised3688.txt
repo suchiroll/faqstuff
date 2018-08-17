@@ -1,0 +1,21 @@
+Title: Vintage SM58 impedance change and crumbling foam
+Id: 3688
+Legacy Id: 3902
+
+Question:
+I have an SM58 "made in U.S.A." "Dual impedance 38  150 ohms" and does NOT say "Unidyne III".
+
+1) In what instance would I use the 38 ohm impedance and how do I change it from 150? I don't see any references to dual impedance on this site.
+2) Could you tell me the aproximate vintage?
+3) The foam on the top of the capsule is crumbling. What should I do?
+
+
+
+Answer:
+
+	1) Remove the XLR connector.  The impedance is changed at the back of the XLR connector.  Red wire is 150 ohms/Orange wire is 38 ohms. In 2010, the 38 ohm setting has little use.  You would notice a decrease in the output level if changed to 38 ohms. 
+	
+	2) 1966 to 1983.
+	
+	3) No need to be concerned.   The amount of P-pop protection provided is minimal.   Add an external windscreen to compensate if P-pop is a problem.
+	 

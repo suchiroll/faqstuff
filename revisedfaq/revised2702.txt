@@ -1,0 +1,31 @@
+Title: LP Distortion - Stylus or turntable?
+Id: 2702
+Legacy Id: 2806
+
+Question:
+I recently unpacked my Hitachi PS 48 Turntable which had been carefully stored. It is equipped with a low-time Shure V15 Type II Cartridge.
+
+
+I Zeroed the tone arm, set cart weight to 1.5 grams and 0 antitracking. The tip of my stylus is appx 52 mm from the inside rear of the cartridge shell.
+
+
+Here is my problem: Regardless of what LP I Play, the first cut is clear, but beginning at about midway through the album and especially noticeable on the final cut of ANY album is increasing distortion. On vocals, it sounds like the vocalists have cotton in their mouths and the audio sounds somewhat like the record is worn out.
+
+
+I have somewhat overcome this by increasing tracking weight to 3 grams.
+
+
+Please advise...Do I need a new needle, can I still get a needle ? Is there another adjustment I need to make. Since it has probably been 10 years since I last used this turntable, I do not recall if I had this problem in the past. I am in the process of dubbing many of my old LP's over to CD, so would appreciate your help.
+
+
+I am a long time Shure user and have owned and installed many fine Shure products over the years.
+
+
+Answer:
+
+	It is likely that the stylus support (a rubber bushing) has hardened over time. Replacing the stylus returns the cartridge to like-new condition.
+	
+	The styli that fit the V15 II are the Shure N75ED Type 2 (0.75 to 1.5 grams tracking), and the N75B Type 2 (1.5 to 3 grams tracking).
+	
+	If a new stylus does not solve the problem, then the problem likely is the tonearm bearings. Contact Hitachi for help with this problem.
+

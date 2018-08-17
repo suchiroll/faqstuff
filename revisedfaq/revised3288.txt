@@ -1,0 +1,35 @@
+Title: Phono cartridge alignment gauge - how to use and how to make your own
+Id: 3288
+Legacy Id: 3451
+
+Question:
+I have the M97xE cartridge and it came with a "Cartridge Alignment Protractor." It is white cardboard, 5.5" x 2.25", with a hole for the spindle at one end.The part number is 27A8541.I would like to know how to use it.
+
+
+Answer:
+
+	The gauge aligns the cartridge/stylus so that the stylus tip contacts the walls of the record groove at the proper angle. Attached below is a PDF file of the gauge. It can be printed and glued to thin cardboard if you wish to fabricate your own gauge.Print the PDF with No Scaling. It works for nearly every Shure moving magnet cartridge.
+	
+	Cartridge Alignment Procedure
+	
+
+	
+		To make sure that the turntable cannot move during the alignment procedure, place small cardboard wedges beneath the outer edge of the turntable platter.
+	
+		Put a record on the turntable.
+	
+		Lift the M97xE Dynamic Stabilizer until it clicks into the locked up position.
+	
+		Move the cartridge forward or backward in the tone arm to place the stylus tip at the overhang point recommended for the tone arm or headshell. If there is no recommended overhang, position the cartridge in the middle of the headshell.
+	
+		Balance the tone arm and temporarily apply a tracking force of 1 gram.
+	
+		Alignment Protractor: Slip the hole of the Shure alignment protractor over the turntable spindle, and place the protractor on the record over the area where the stylus tracks.
+	
+		Inner (near the center of the record) Alignment Point: Lower the tone arm so that the stylus tip rests on the inner STYLUS TIP marking on the protractor. If the sides of the cartridge body are not parallel to the reference lines on the protractor, raise the tone arm and adjust the cartridge body position so that it is parallel to the reference lines on the protractor.
+	
+		Outer Alignment Point: Repeat this procedure for the outer STYLUS TIP marking on the protractor.
+	
+		Repeat this procedure on both points until the cartridge body is parallel at both points, or as close to parallel as possible. If the cartridge can only be made parallel at one point, select the inner point (closer to the center of the record). When the adjustment procedure is completed, fully tighten the cartridge mounting screws.
+
+

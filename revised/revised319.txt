@@ -1,0 +1,77 @@
+Title: How do I connect a Crown CM311A to a Shure bodypack?
+Id: 319
+Legacy Id: 326
+
+Question:
+How do I connect a Crown CM311A to the TA4 connector on a Shure bodypack?
+
+Answer:
+
+	SUBJECT: Connecting Crown CM-311A headworn microphone to any Shure bodypack transmitter with a Switchcraft TA4M input connector (shown below.)
+	
+	Note: The Crown CM-311A is designed for hard wire use. The beltpack provides power to the microphone element, equalizes the audio signal, and provides a balanced low impedance output. Per Crown Engineering, the beltpack must be used if the CM-311A is connected to a Shure transmitter. If you do not want to use the beltpack, purchase the Crown CM-311AE or call Crown about modifying the CM-311A for wireless operation (phone 219-294-8000).
+	
+	The simplest way to connect the CM-311A to a Shure transmitter is to remove the XLR male and replace it with a Switchcraft TA4F connector. Or an adapter cable could be fabricated with an XLR female on one end and a TA4F connector on the other.
+
+	
+
+	
+		
+			
+				Mic
+			
+				---
+			
+				Transmitter
+		
+		
+			
+				XLR Pin 1
+			
+				---
+			
+				Pin 1
+		
+		
+			
+				XLR Pin 2
+			
+				---
+			
+				Pin 3
+		
+		
+			
+				XLR Pin 3
+			
+				---
+			
+				Pin 1
+		
+	
+
+
+	
+
+	The mating connector for the Shure wireless transmitters is a Switchcraft TA4F. This connector is available from the Shure Service Department at 800-516-2525 or 847-600-8699 as part number WA330.
+	
+	The connector can also be purchased from Mouser Electronics at 800-346-6873.
+
+	
+
+	
+		
+			
+				
+			
+				TA4M
+				Transmitter View
+			
+				PIN 1 = cable shield / audio return / bias return
+				PIN 2 = +5V DC Bias
+				PIN 3 = audio input for dynamic mics or instruments
+				PIN 4 = 20K Ohms resistor to ground jumpered to pin 3 for condenser mics
+		
+	
+
+

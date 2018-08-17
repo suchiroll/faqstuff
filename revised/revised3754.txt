@@ -1,0 +1,11 @@
+Title: UR4+ receiver vs. UR4 receiver
+Id: 3754
+Legacy Id: 3990
+
+Question:
+What are the differences between the UR4S+ receiver and the UR4S receiver? And also the UR4D+ and the the UR4D?
+
+
+Answer:
+
+	The UR4S+ and the UR4D+ were introduced in August 2010.  These models will replace the UR4S and the UR4D.  (Unfortunately, it is not possible to upgrade/modify a UR4S into a UR4S+, or to upgrade/modify a UR4D into a UR4D+.)The new features on the UR4S+ and the UR4D+ are two RF output ports using BNC connectors.  These RF distribution ports pass the RF signal from one UR4+ receiver to the next, allowing a maximum of ten UR4+ receivers to share a single pair of antennas. This can often eliminate the need for antenna splitters or RF distribution amplifiers. On these new RF output ports, active circuitry minimizes insertion losses, preserving signal quality; input filtering keeps the signal virtually free from out-of-band interference.NOTE: All UR4+ receivers must be in the same frequency band to use this RF cascade feature.Two antennas connect to the first UR4+.  The RF output ports of this receiver feed into the antenna inputs on the next UR4+.  The RF output ports of the second UR4+ feed into the third UR4+...and so on up to a total of ten UR4+ receivers.  Supplied with each UR4+ receiver are two RF distribution cables to connect from one receiver to the next.NOTE: The RF distribution circuitry is activated only if connected to an RF input that has 12 Vdc bias.  Each UR4+ RF antenna input port provides 12Vdc bias @ 150mA. The 12V dc bias is present only when the UR4+ receiver is powered on.  Therefore, if a cascaded UR4+ receiver is powered off, the RF signal will not appear in the UR4+ receivers that follow the powered-off receiver.Though ten UR4+ receivers may be cascaded for RF distribution, it is recommended that only five (or less) UR4+ units be cascaded for AC power distribution. Thus ten UR4+ receivers would require an AC power cord for the first receiver in the cascade, and an AC power for the sixth receiver in the cascade. 

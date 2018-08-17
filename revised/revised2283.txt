@@ -1,0 +1,12 @@
+Title: What powers MX202 preamplifier?
+Id: 2283
+Legacy Id: 2365
+
+Question:
+What powers the preamp in the MX202 for overhead ceiling installation?
+
+
+Answer:
+
+	Phantom power (11 to 52 Vdc) from the mixer to which the MX202 is connected.
+

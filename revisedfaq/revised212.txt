@@ -1,0 +1,15 @@
+Title: Case and cable noise on UC lavalier mic
+Id: 212
+Legacy Id: 213
+
+Question:
+During a wedding today, a UC14 lavalier wireless mic was unusually sensitive to handling noise (brushing a tie, coat, or hand). Afterward I realized that the top of the mic was slightly loose.  But after tightening it, the mic is still very sensitive to any touch on the case or cable.  What's the problem?
+
+Answer:
+
+	There is likely no problem. All microphones have handling noise. The smaller a mic gets, the more susceptible it is to handling noise. Also, the more directional a microphone is, the more handling noise it has.
+	
+	The UC14 system can be purchased with a variety of lavalier mics. The WL183 has the least amount of handling noise; the WL185 has more handling noise; and the WL184 has the most handling noise. If you have the WL185 or WL184, I suggest you install the capsule for the WL183 (part R183B). It will make a difference, but do not expect the handling noise to disappear.
+	
+	The handling noise problem of small mics is a nuisance that every film audio engineer deals with daily as they try to hide small mic on actors. To learn more about their tricks, contact Location Sound in Los Angeles; phone 818-980-9891.
+	This Shure dealer services the film audio market and sells specialized devices for mounting lavalier mics.

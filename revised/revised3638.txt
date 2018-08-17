@@ -1,0 +1,11 @@
+Title: MCC Cartridge Carrying Case
+Id: 3638
+Legacy Id: 3846
+
+Question:
+In the MCC carrying case, there are two clips that hold up to four tonearm headshells in place. Are these clips molded into the case or are the clips separate pieces?
+
+
+Answer:
+
+	According to the engineering drawing of the MCC case, the plastic clips are fastened to the MCC case using double-stick tape.  So in theory,  it is feasible to remove the clips (very, very carefully) and repositioned the clips using new double-stick tape.

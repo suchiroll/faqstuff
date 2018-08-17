@@ -1,0 +1,15 @@
+Title: URT2 Mounting Holes
+Id: 5377
+Legacy Id: 5410
+
+Question:
+URT2 Mounting Holes
+
+Answer:
+
+	The URT2 has pre-drilled holes for fasteners to secure the following Shure receivers: PG4; PG88; PGX4; PGXD4; BLX4; BLX88; GLXD4.
+	
+	If the URT2 will be used with older/other Shure products, the recommended fastening method is picture hanging strips made by 3M and sold as the Command Brand.There are two parts to each plastic strip; each part has an adhesive backing. The two strip parts securely connect to each other with hundreds of miniature ball and socket joints made of plastic.Once pressed together, the connection is extremely secure.
+
+	
+

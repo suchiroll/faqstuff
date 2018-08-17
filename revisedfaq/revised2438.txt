@@ -1,0 +1,81 @@
+Title: Connecting a Polycom to a Shure Mixer
+Id: 2438
+Legacy Id: 2533
+
+Question:
+I am interested in improving the mic coverage in several of our conference rooms at Cisco. Some rooms require ~4 additional microphones others might require upto ~8.
+
+
+I asked a Polycom Engineer about their unbalanced RCA AUX I/O jack on their phones (really it's on their powersupply)  was told the following:
+
+
+--
+
+ Signal levels are the same for the AUX I/O jack on the
+
+ SoundStation Wall Module, SoundStation Premier Wall
+
+ Module, and the Satellite. "AC" refers to
+
+ the frequencies between 200Hz and 3kHz.
+
+ The following all refers to the AUX
+
+ I/O signal unless otherwise stated.
+
+ When acting as an input, the AC impedance is 20k.
+
+ When acting as an output, the AC impedance is  500 ohms.
+
+ The signal has a DC impedance of 36K to +15V. Because of
+
+ this, we recommend that connections to AUX I/O be AC-coupled,
+
+ and that any external capacitor polarity take account
+
+ of this +15V bias. Path Gain, Input: 400 mV RMS (-5.7  dBm) at
+
+ AUX I/O produces 480 mV (-4 dBm) RMS nominal at Tip/Ring into 600
+
+ ohms Path Gain, Output: 340 mV RMS (-7 dBm) at Tip/Ring
+
+ produces 400 mV RMS (-5.7 dBm) nominal at AUX I/OFor reference,
+
+ saturation on the phone line is 0 dBm, maximum sustained
+
+ signal generally allowable is about -9 dBm (which is very loud).
+
+
+I also know [according to their web site] that their Preimer phone:
+
+-has Automatic microphone mixing that intelligently directs one of three console microphones to whomever is speaking, and can switch among the mics up to 250 times per second, so not a word or nuance is missed.
+
+-Dynamic noise reduction automatically adapts to background noise???
+
+-full duplex capability adapts to the acoustic characteristics of any
+
+room, with a separate echo canceller for each of its three console mics.
+
+
+The question is, should do I need the SCM268,or should I spend the extra$ for a SCM410? Also should I even consider trying to hookup a SCM800 or an SCM810? Or should I forget using the Polycom phone  move to a higher end echocancelling Gentner AP400/AP800? e.g. Will I hear clipping  have poor intelligibility?
+
+
+
+Answer:
+
+	The question is, should do I need the SCM268,or should I spend the extra for a SCM410?
+	* The SCM410 will provide better intelligibility because unused mics are attenuated. We feel it is worth the extra money.
+	
+	Also should I even consider trying to hookup a SCM800 or an SCM810?
+	* Dont use the SCM800 - too many open mics. The SCM810 is just like the SCM410 but with more inputs. Do you require the additional inputs?
+	
+	Or should I forget using the Polycom phone  move to a higher end echocancelling Gentner AP400/AP800?
+	* Suggest you ask Gentner or someone else that has a Gentner.
+	
+	Will I hear clipping  have poor intelligibility?
+	* The Shure mixers will not clip syllables and they should improve intelligibility.
+	
+	
+	Can I get a loaner to test it out before I buy one/some?
+	* The local Shure rep may be helpful.
+

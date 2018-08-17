@@ -1,0 +1,26 @@
+Title: MXW and a room combining system
+Id: 4495
+Legacy Id: 5609
+
+Question:
+I have installed a 4 microphone MXW system in a room that can be separated in two. However there's some metal in the dividing partition, and the microphones in one side can no longer reach the access point in the other side when the wall is closed. Is it possible to add another access point, and have both synced to the same 4 microphones. Or if not possible any other solution to help with this situation?
+
+
+Answer:
+
+	It is not possible to add another MXWAPT to a system and have it act as a repeater or range extender.The mics must link to a particular APT channel on a particular APT.MXW is mainly designed to be used in single room applications with good line of sight between the portable transceiver units and the Access Point transceivers.Implementation in divisible room applications is possible but the success of such systems depends heavily on the construction of the air walls involved.Due to unknown variations in the many divisible walls that exist, it is not generally possible to guarantee successful operation in these instances without conducting an on-site walk test.
+	
+	One thing that can be tried if the divisible wall is limiting range too much is to increase the systems RF power level.The system settings are the following:
+	
+	Lowest: ~1 mW; Approx. up to 25 foot range
+	
+	Medium (default): ~ 3 mW; Approx. up to 50 feet range
+	
+	High: ~16 mW; Approx. up to 100 feet range
+	
+	MAX: ~80 mW; Approx up to 150 feet range
+	
+	In this instance, if the system was left on the default (3 mW) level, perhaps increasing the system to High or Max could help.
+	
+	If increasing the system power does not help, you will need to mount a second MXWAPT4 in the other space.You can then either re-associate the current MXWNCS charger and MXWANI4 to the new access point each time and re-link the transmitters using the browser interface OR you could purchase an independent 4 channel system (excluding the portables) and then you would only have to re-dock and re-link the transmitters on the sides they are being used.
+

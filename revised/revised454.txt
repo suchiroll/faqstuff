@@ -1,0 +1,15 @@
+Title: What kind of windscreens are available for the SM81?
+Id: 454
+Legacy Id: 463
+
+Question:
+I recently purchased an SM81 and was curious about the various windscreens that are available for it. According to the owners manual the windscreen furnished is model 49A111, with the A81WS optional, but isn't the A81WS the large foam windscreen? That is the windscreen that came with my mic. And is there a smaller foam windscreen available?
+
+
+Answer:
+
+	As of November 2000, there are two optional windscreens for the SM81. Neither are included with the SM81. The supplied windscreen is all foam, is about 1.5 inches in diameter, and is black in color.
+	
+	The A81G locks onto the SM81, is made of nylon screening and foam, is cylindrical, is cream in color, and is useful for indoor use and outdoor use in light wind.
+	
+	The A81WS slips onto the SM81, is made completely of foam, has a diameter of about 4 inches, is gray in color, and is useful for outdoor use in moderate to heavy wind. The A81WS is often used on the U.S. President's lectern as a windscreen for his Shure SM57 microphones. The A81WS is a very effective windscreen.

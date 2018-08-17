@@ -1,0 +1,11 @@
+Title: How do I remove a channel from the master bus on an SCM810?
+Id: 109
+Legacy Id: 109
+
+Question:
+How do I remove a channel from the master bus on an SCM810?
+
+Answer:
+
+	To prevent the audio from one channel from appearing in the main bus (master output) but still be present at that channels Direct Out, remove resistors R1139, R1142, R1143, and 1144 for channel 1 (R2139, 2142, 2143, and 2144 for channel 2, and so on).
+

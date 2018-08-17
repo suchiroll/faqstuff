@@ -1,0 +1,12 @@
+Title: Tieclip for the WL83A or 839W.
+Id: 120
+Legacy Id: 120
+
+Question:
+What is the model number for the tieclip mic holder needed for the WL83A or 839W microphone?
+
+
+Answer:
+
+	The Single-Mount Tie Bar for the WL83A is the RK240SB. These can be ordered from Shure Parts Department at 800-516-2525.
+

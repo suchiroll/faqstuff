@@ -1,0 +1,41 @@
+Title: PGX Wireless in Chicago Illinois and vicinity
+Id: 4178
+Legacy Id: 5128
+
+Question:
+Please offer guidance on the use of PGX Analog wireless in the Chicago Illinois area.
+
+
+Answer:
+
+	The information below was posted in September 2012.
+
+	NOTE: The Scan function of the PGX4 receiver may be used to determine what frequencies are employable at a specific location.
+
+	H6 Band
+	TV-23 - WWME(medium power analog from Chicago loop)
+	TV-24 - WHVI-LP(low power analogstation from Valparaiso)
+	TV-25 - W25DW(low power DTV from Chicago loop)
+	Summary of H6 Band for Chicago:May be somewhat usable throughout most of the metro area.TV channel 24 is essentially vacant at the moment, except for the very weak signal from Valparaiso, IN.The TV-25 DTV signal is also quite weak as one moves away from the downtown Chicago.TV-23 is a moderate power analog station, but it may be possible to operate one or two PGX channels in between the visual and aural carriers.
+	
+
+	J6 Band
+	TV-31 - WFLD(full service DTV from Chicago loop)
+	TV-32 - WMEU(low power DTV from Chicago loop)
+	TV-33 - WCHU(low power DTV from Chicago loop)
+	Summary of J6 Band for Chicago:It may be possible to use frequencies on TV-33 in some areas of the Chicago metro area, especially north and west of the loop.The TV-33 signal is fairly weak and is somewhat directional to the south and southwest.
+	
+
+	L5 Band
+	TV-43 - WCPX(full service DTV from Chicago loop)
+	TV-44 - WLS(full service DTV from Chicago loop)
+	TV-45 - WSNS(full service DTV from Chicago loop)
+	Summary of L5 Band for Chicago:Unusable throughout most of the metro area, defined as a radius of up to 40-50 miles from the loop in Chicago.
+
+	
+
+	
+	
+	Summary:
+	While some PGX-H6 and PGX-J6 units can be operated in at least portions of the Chicago metropolitan area, the limited tuning range of the PGX product makes it less than satisfactory for use in the Chicago area.For congested metropolitan areas, consider SLX or higher level model which feature wider tuning ranges and more flexibility.
+

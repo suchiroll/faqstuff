@@ -1,0 +1,21 @@
+Title: Microphone wiring diagram-ALM25 cord
+Id: 869
+Legacy Id: 896
+
+Question:
+I have one of your Model 592T microphones, and I need to replace the RJ-45 connector at the radio end that was damaged. Please send me the wiring diagram for your type ALM25 cord, for a Motorola MCX-1000 model radio.
+
+
+Answer:
+
+	The pinout for the ALM-25 cord is as follows:
+	
+	Pin 1- No Connection
+	Pin 2- No Connection (Black Lead Occupying Slot, No Contact Used)
+	Pin 3- Drain
+	Pin 4- Yellow
+	Pin 5- Blue
+	Pin 6- Red
+	Pin 7- No Connection (White Lead Occupying Slot, No Contact Used)
+	Pin 8- No Connection
+

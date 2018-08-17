@@ -1,0 +1,29 @@
+Title: Shure mic with GoPro camera
+Id: 4318
+Legacy Id: 5395
+
+Question:
+Please provide general guidelines about using a Shure wired microphone or Shure wireless receiver with a GoPro camera.
+
+
+Answer:
+
+	As of July 2013, the following is based on information provided by GoPro for the HERO3 camera:
+	
+	Actual impedance of HERO3 mic input: 2,200 ohms
+	Note: A microphone with an impedance of 2,200 ohms or less is acceptable.
+	
+	Sensitivity of HERO3 internal mic: -40 dBV/0.01V with an input of 1kHz at 94 dB SPL/1 Pascal
+	Note: If the Shure mic sensitivity is less than -40 dBV, the recorded signal level will not be as loud as the HERO3 internal mic.
+	
+	Bias voltage supplied at HERO3 mic input: 3.3 Vdc
+	Note: Bias voltage is not the same as phantom power. The HERO3 camera does not provide phantom power.It will not power a Shure mic that requires phantom power.
+	
+	Interface cable required: HERO3 3.5mm Mic Adapter - sold by Go Pro. This interface cable has a Tip-Ring-Sleeve 3.5mm female jack for the mic input.The other end is a unique connector that mates with the HERO3 camera.
+
+	Note:Connecting the audio signal from the Shure mic to the Tip and Sleeve of the GoPro adapter will provide audio to the Left and Right channels of the HERO3 camera.Use this wiring from the Shure mic to a Tip/Sleeve (Monaural) 3.5 mm plug:
+	
+	Shure XLR pin 1 to 3.5mm plug Sleeve
+	Shure XLR pin 2 to 3.5mm plug Tip
+	Shure XLR pin 3 to 3.5mm plug Sleeve
+

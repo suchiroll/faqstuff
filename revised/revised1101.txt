@@ -1,0 +1,24 @@
+Title: T2 transmitter with SC4 receiver
+Id: 1101
+Legacy Id: 1137
+
+Question:
+I have a T2 Vocal Artist SM58 transmitter without a matching receiver. The frequency code is CL (192.200 Mhz).
+
+
+I have access to a Shure SC4 Wireless Receiver with the same frequency as the T2 transmitter referenced above.
+
+
+Will these two "non-matching" series work together?
+
+
+Answer:
+
+	Yes, but.......
+	
+	There is a feature on the SC systems called tone key squelch. The SC transmitter sends out a tone key to the receiver at a inaudible frequency.
+	
+	The receiver will unmute only when it picks up a radio signal of adequate strength and it also detects the presence of the tone key. This effectively prevents the possibility of noise from the system when the transmitter signal is lost.
+	
+	This feature needs to be turned off before the T2 transmitter can work on the SC receiver.
+

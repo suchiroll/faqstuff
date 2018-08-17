@@ -1,0 +1,16 @@
+Title: High performance vocal mic with on/off switch
+Id: 4268
+Legacy Id: 5330
+
+Question:
+I've been using a SM58 with on/off switch for 9 years. I'm in the market for a better quality Shure mic for singing, but it must have an on/off switch. What can you recommend?
+
+
+Answer:
+
+	Sorry, in the Shure line, the SM58 that you own is the best mic with a switch.More expensive mics do not have switches.
+	
+	Why no on/off switch? Super 55 - Why no on/off switch?
+	
+	The connector manufacturer, Neutrik, offers a female XLR connector with an on-off switch. This connector/switch may be installed on the end of a mic cable and can be used with many microphone models.
+

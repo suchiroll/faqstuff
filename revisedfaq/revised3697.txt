@@ -1,0 +1,17 @@
+Title: KSM313 Foam Windscreen
+Id: 3697
+Legacy Id: 3915
+
+Question:
+Is a windscreen available for the KSM313 ribbon microphone? I will be using a pair in an outdoor application and need to minimize any wind noise.
+
+
+Answer:
+
+	Two windscreens from Shure fit the KSM313 microphone:
+	
+	A85WS - Black foam windscreen, smaller profile with foam approximately 1/4" thick.  
+	
+	49A91 - Gray foam windscreen for VP88 microphone, larger profile with foam approximately 1/2" thick.
+	
+	To purchase in the U.S., contact Shure Parts: 800-516-2525

@@ -1,0 +1,44 @@
+Title: Antenna amplifiers for U4D wireless system
+Id: 1185
+Legacy Id: 1229
+
+Question:
+We have a Shure wireless system in our facility comprised of:
+
+(4) U4D receivers
+
+(1) UA845
+
+(2) UA830 Amplifiers
+
+(7) Beta 87A Mics
+
+We would like to place the receivers in the Audio Control Room situated about 100 meters (300') away from the antennas.
+
+
+The studio where the system is installed is of rectangular shape about 1800m2 (20.000 feet2)
+
+
+In no noise condition without lighting or any other possible source of interference we can obtain a signal of -52 dBm. In the best case and after fiddling with the ground plane and moving the antenna around we can obtain a level as high as -44dB.
+
+
+We obtain this level using low loss RF cable and 2 UA830 amplifiers roughly installed as suggested in the user's manual.
+
+
+We estimate that a 30dB to 40dB amplifier would give us the sufficient gain to have a comfortable level and room to play with. However, we can not find an amplifier with those characteristics in your catalog.
+
+
+If Shure has no such product available, could you direct us to a manufacturer that you would recommend? Could you give us any other suggestions?
+
+
+Thank you very much for your help and any information you can send our way.
+
+
+Answer:
+
+	We do not recommend amplifying the signal that much. If you amplify the signal that much, you are also amplifying the noise and your signal to noise ratio will be awful.
+	
+	Instead, you should use better cable. RG-8/U (Belden 9913) has a loss of 3.9 dB/100 ft at 800 MHz. This means you could run 256 feet of cable and place a 10 dB amplifier on it to compensate for this 10 dB of loss.
+	
+	You should be able to run 300 feet of RG-8/U and place a single 10 dB amplifier at the antenna end. The extra 2 dB of loss from that extra 50 feet of cable is not going to cause any problems.
+

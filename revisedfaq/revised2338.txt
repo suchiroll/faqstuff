@@ -1,0 +1,12 @@
+Title: Dropping line-level mixer output to mic-level output
+Id: 2338
+Legacy Id: 2425
+
+Question:
+I have a SCM810 and want to EXTERNALLY drop the line-level output from the mixer to mic level output for use with a mic input on a sound card. I know there is an internal mod to do this in the SCM810 but I'd rather not alter the mixer.
+
+
+Answer:
+
+	The Shure A15LA attenuator does this function. It is an XLR in / XLR out device.
+

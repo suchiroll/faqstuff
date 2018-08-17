@@ -1,0 +1,41 @@
+Title: Circle 25 label on product?
+Id: 3913
+Legacy Id: 4159
+
+Question:
+I just purchased a Shure produce there is a number 25 in a circle on the label. What does that mean?
+
+
+
+Answer:
+
+	According to the China RoHS regulation, this label indicates that the part or product contains one or more of the restricted toxic and hazardous substances above the prescribed threshold. The number 25 refers to the Environmental Protection use Period (EPuP). It is defined as the period in which, when the toxic and hazardous substances or elements contained in the electronic information products are in normal use, such substances or elements will not leak out or undergo abrupt change, and the use of the electronic information product by an electronic information product user will not result in serious pollution to the environment or result in serious personal injury or property damage with regard to the user. Based on this definition and experience with the use of one or more of the restricted toxic and hazardous substances above the prescribed threshold in Shure products for 25+ years without any detrimental environmental impact during normal use, the number 25 is included as the EPuP.
+	
+
+	
+		
+			
+				The China RoHS regulation restricts the use of the following six substances:
+				
+					
+						Lead (Pb)
+					
+						Mercury (Hg)
+					
+						Cadmium (Cd)
+					
+						Hexavalent chromium (Cr6+)
+					
+						Polybrominated biphenyls (PBB)
+					
+						Polybrominated diphenyl ether (PBDE)
+				
+			
+			
+				
+					
+			
+		
+	
+
+

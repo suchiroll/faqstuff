@@ -1,0 +1,34 @@
+Title: Classical Guitar Mic
+Id: 635
+Legacy Id: 652
+
+Question:
+I'm looking for a mic that fits inside a Clasical guitar that will pick up the Nylon strings nicely for recording. Do you have any products of that sort under $200?
+
+
+Answer:
+
+	Before you make any buying decision, please read the following:
+	
+	MICROPHONE TECHNIQUE FOR THE CLASSICAL GUITAR
+	by Michael Pettersen
+	Director of Applications Engineering - Shure Inc.
+	
+	Miking a classical guitar for recording or amplification is a mystery to most players. This article briefly explains microphone selection and placement as both influence the sound of your recorded or amplified guitar.
+	
+	A guitar radiates a different timbre in every direction and each guitar surface produces a distinct timbre. By adjusting the mic position relative to the guitar, tonal balance can be dramatically altered. A guitar is designed to sound best at a distance, i.e. two or more feet away. It is at a distance that the numerous sounds radiating from the guitar surfaces combine into a pleasing composite. A microphone placed at a distance tends to pick up a well-balanced tone quality. In contrast, a mic placed very close to the guitar tends to emphasize the surface that the microphone is near. Therefore, the sound from a closely placed mic will not be representative of the guitar as a whole. Keeping this in mind, here are fundamentals to observe when miking a guitar:
+	
+	Use a condenser unidirectional microphone with a flat (neutral) frequency response. Suggested Shure models are the KSM137, KSM44, KSM32, SM27, SM81.
+	
+	A unidirectional mic boosts the bass progressively as it is placed closer to the guitar. This is proximity effect. When miking less than one foot away, be aware of this effect. Recording-quality mics, like the Shure SM81, often have a switch to reduce the bass.
+	
+	For initial mic positioning, close one ear with a finger while someone plays your guitar. Listen with your other ear. Move around until you find a spot that sounds good. Put the mic there. Placing the microphone close will reduce the pick up of room acoustics and background noise. This can be important if recording in a less than ideal lo-cation. But miking too close will color the guitars timbre.
+	
+	My favorite miking position for recording is: Place the mic next to your right ear. Aim the mic downward toward the guitar bridge. With my guitar, this position sounds very natural and well-balanced.
+	
+	When amplifying your guitar, you may encounter feedback. In these cases, position the mic very close to the loudest part of the guitar. Then experiment with mic choice, speaker location, and equalization to obtain your desired tonal balance and sound level.
+	
+	Remember that a difference of only one inch can make a tremendous difference in what the mic picks up. There is no one perfect way to mike a guitar as there is no single ideal mic to use. Like playing, it is part science and part art. Choose and place the mic to get the sound you want. Experiment and listen!
+	
+	If after reading this article, you still want to place a mic inside of the guitar, we suggest you audition the Shure SM93 and the Shure MX183.
+

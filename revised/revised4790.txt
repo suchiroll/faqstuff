@@ -1,0 +1,27 @@
+Title: Motiv MV5 Pattern - is it Omnidirectional?
+Id: 4790
+Legacy Id: 5975
+
+Question:
+Is one of the settings an omnidirectional setting for groups?
+
+When a speaker is plugged in to the earphone jack of an iPad, will the microphone still work?
+
+The microphone looks great. Before buying it, though, I would like answers to the following questions. The microphone will be used in a group setting, plugged into an iPad while using FaceTime or Skype to communicate with someone who is not physically in the group.
+
+Is one of the settings for the microphone an omnidirectional setting?
+
+If a speaker is plugged into the iPad, will the microphone still function? This has been a problem with another brand of microphone.
+
+Would you recommend this microphone for this use?
+
+Answer:
+
+	The MV5 microphone is cardioid (directional) only, unfortunately.  A cardioid pickup pattern provides about 130 degrees of coverage from the front of the microphone, and rejects sound from the rear.
+	
+	It shouldn't be an issue to plug a powered loudspeaker into the iPad's earphone jack while using the MV5.  The MV5 also features its own headphone output, which is designed to monitor the microphone signal directly.
+	
+	Please see this link regarding Motiv usage with Skype:
+	Motiv MVi, MV5, MV51, MV88 with Skype
+	
+	Skype's latest release (version 6.0) does not support audio through the Lightning port, and neither does FaceTime.  You most likely will not be able to use the MV5 and the iPad for your application.

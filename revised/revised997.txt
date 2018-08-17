@@ -1,0 +1,36 @@
+Title: FP33 1k tone not @ 0Vu on meter.
+Id: 997
+Legacy Id: 1026
+
+Question:
+I've just purchased a new FP33 (Jan. 2001), and the 1k tone shows as +3 on the FP33 Vu meters when the master outputs are set at 2:00, or 0Vu.
+
+
+Several other FP33's that I've come across show tone at 0Vu, with the output Masters also at 2:00, or 0Vu.
+
+
+Okay, here's my question: is it the tone trim pots that need to be adjusted, or is it the master output trim pots that need to be adjusted so that tone reads as 0Vu on the meters with the masters set to 0.
+
+
+I know that if it's the master outputs that need adjusting, I need to place a 600 ohm load across pins 2  3, and adjust the master outputs until reading 1 volt (is this correct?)
+
+
+Your help is appreciated, and thanks for having a great QA on your web site.
+
+
+---- 04/15/2001 11:31 AM ----------------------------------------------
+
+Opps! In my original question I stated that 0Vu output voltage is 1 volt. I believe this is not correct -- it's .775 volts -- right?
+
+
+Thanks --
+
+
+Answer:
+
+	You need to decide what output voltage level you want when the meters read 0 VU. One of the many standards is 0 VU meter reading = +4dBm signal output level. Only you can determine which 0 VU standard you want to use. Check with your customers and see what they use.
+	
+	+4dBm is the equivalent of 1.23 volts measured across a 600 ohm resistor. Use the 600 ohm load resistor when adjusting the VU meter trim pots or the master trim pots.
+
+	You need to adjust the VU trim pots. Follow the instructions in the FP33 User Guide.
+

@@ -1,0 +1,18 @@
+Title: Mic vs Line outputs on LX4
+Id: 1889
+Legacy Id: 1949
+
+Question:
+We have a Shure SM58 wireless mic with an LX4 receiver. I need to hook it into a line input on a Mackie mixer. I presume that I can either use a XLR to 1/4 inch adaptor on the XLR output from the receiver and set the switch on the back of the unit to "line" OR I can use the 1/4 inch output on the back of the unit instead of the XLR output.
+
+
+1. Are my assumptions correct?
+
+2. If so, is one method in any way "better" than the other?
+
+
+Answer:
+
+	1. Your assumptions are correct.
+	
+	2. The XLR output is a lower impedance and will deliver a bit more signal level to the Mackie.

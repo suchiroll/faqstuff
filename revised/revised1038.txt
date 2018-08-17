@@ -1,0 +1,12 @@
+Title: Boundary microphone without phantom or battery?
+Id: 1038
+Legacy Id: 1070
+
+Question:
+Could you please provide me some information about your microphones - I am looking for a conference (low profile table top preferred) or boundary mic. I would like one that doesn't require phantom power or batteries. The application is recording voice(s), people being interviewed. Thank you.
+
+
+Answer:
+
+	All of our current boundary microphone are condenser and thus require either phantom power or battery power. Our current boundary microphones are the MX390 series.
+

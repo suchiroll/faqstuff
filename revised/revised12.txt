@@ -1,0 +1,44 @@
+Title: Can I get acceptable sound quality from a microphone placed on a ceiling?
+Id: 12
+Legacy Id: 12
+
+Question:
+Can I get acceptable sound quality from a single-element microphone placed on a ceiling?
+
+
+Answer:
+
+	Microphones On The Ceiling? Shure Advices To Think Very Carefully Before Deciding...
+
+	
+	This document is primarily about single-element microphones, either suspended from a ceiling or flush-mounted to a ceiling. Advanced microphone arrays, such as the Shure MXA910, aredeveloped for ceiling mounting and use multiple microphone elements in conjunction with specially designed signal processing to address many of the issues described below. Note that the acoustical conditions of the room must be taken into account even when using microphones arrays. Also, microphones arrays are subject to the physical lawsthat govern gain-before-feedback (PAG-NAG) in voice-lift systems. To learn more: Shure Microphone Arrays
+	
+	To an interior designer of a conference room, the only place to mount a microphone (if there even has to be one) is on the ceiling. The mic will be out of sight; the mic will not clutter the conference table surface; the look of the mic will not spoil the overall design of the room. If the interior designer has the final word, the ceiling is the perfect home for all microphones.
+	
+	But to an experienced audio engineer, the ceiling is the last place to mount a microphone. Why? Because it is far away from the desired audio source (the talker) and close to undesired sound sources (loudspeakers, air conditioning vents, or fluorescent lights that buzz).
+	
+	A microphone is a simple device. It senses the movement of air (i.e., sound) and converts that air movement into an equivalent electrical signal. The mic does not care what caused the air to move in the first place. A mic cannot distinguish between desired air movement (the talkers voice) and undesired air movement (every other sound in the room).
+	
+	How do audio professionals position a mic to pick up the desired sound and not the undesired sound? Its easy! They place the mic very close to the talker or singer. Need examples? A TV news anchor has a mic placed on her lapel. A radio DJ uses a mic on a boom to get close to his mouth. An actress in a Broadway musical has a miniature mic hidden in her hair or draped over her ear. The President of the United States has microphones on the lectern located directly in front of him. Get the idea?
+	
+	What about the movies with no visible mics? Do not be fooled. The actress may have worn a miniature mic and wireless transmitter hidden in her costume. Or there may have been a mic on a boom just out of the camera frame. Or perhaps the actor added his voice to the movie after the scene was shot. In most action movies now made, over 90% of the final audio is added after the film was shot, and recorded in a recording studio, not on location.
+	
+	What will a mic sound like when placed on the ceiling in a room that does not have special acoustical treatment? Typically, not very good. As an example, listen to the audio of surveillance tapes made by the FBI when played on the national news. Normally, the speech is so difficult to understand that the text of the conversation must be projected on the TV screen.
+	
+	Can a microphone ever be used successfully on a ceiling? Yes, but typically a ceiling microphone: 1) is used only for recording/voice capture2) is not part of a sound reinforcement/voice lift system, and 3) is in a room that is quiet and non-reverberant,such asa recording studio.
+	
+	Shure has written technical bulletins on the three major problems of ceiling microphones. We urge you to read these bulletins to better understand the technical problems with ceiling systems.
+
+	
+		Critical Distance and Microphone Placement
+	
+		Predicting Speech to Background Noise Ratio at the Microphone
+	
+		Understanding Sound System Design and Feedback Using Math
+
+
+	Also, review this link:
+	Video comparing gooseneck mic, boundary mic, hanging mic, and flush-mount ceiling mic.
+	
+	Conclusion: If you decide to install single-element ceiling microphones and choose not to address the problems in the aforementioned technical bulletins, proceed with caution. If a microphone is ceiling mounted, contrary to the recommendationsabove, and without regard to fundamental acoustics, the result will likely be sub-standard audio quality. Overhead sound systems have been designed by world-class acoustical consultants. However, these systems are expensive and the room requires extensive acoustical treatment. If all other microphone mounting options have been thoroughly explored and rejected, and a ceiling system is the only option that remains, contact an established acoustical consultant with experience designing ceiling systems. If a consultant referral in needed,call Shures Applications Engineering.
+

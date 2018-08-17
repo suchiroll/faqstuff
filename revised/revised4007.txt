@@ -1,0 +1,14 @@
+Title: WA555 and SLX2
+Id: 4007
+Legacy Id: 4414
+
+Question:
+I would like to know if the WA555External Grip/Switch Cover (Black) for ULX Handheld Wireless transmitters, will work for SLX Wireless Transmitters?
+
+
+Answer:
+
+	It will fit with some modification.Using a sharp knife, trim some plastic away on the WA555 bottom so it will fit over the plastic thread on the SLX2 handle.
+	
+	
+

@@ -1,0 +1,16 @@
+Title: Stylus rake angle
+Id: 1164
+Legacy Id: 1203
+
+Question:
+Recently I wrote to you asking for the stylus rake angle of my V15 type Vmr. I was given the information that the tracking angle is 15 degrees. Thank you, but I want to know the designed stylus rake angle( which would be the contact angle of the microridge against the groove wall). I have some audiophile records that give the rake angle of the cutting stylus used and I would like to try to correct for this in a more scientific manner (rather than just listening for the best tonearm height adjustment).
+
+
+Answer:
+
+	Here is an answer from the Shure expert in phono cartridges. We are sorry if it does not answer your question completely, but it is the only answer we have.
+	
+	Through the HiFi years, rake angle has had a specific meaning. It is the angle that the body of the diamond tip, alone, (or maybe the centerline of the tip body) holds, relative to the record surface. In the ideal case, it is 90 degrees, or perpendicular, or standing straight up. The shape of the tip surface, that touches the record groove, is controlled for optimum contact with the rake angle at 90 degrees.
+	
+	There is another angle called vertical tracking angle. This is the angle between an imaginary line (from the tip contact point to the pivot point of the stylus, somewhere in the middle of our bearing block) and the record surface. This alignment is meant to replicate the angle of the record cutting stylus. It is thought to be 15 degrees. We have studied this years ago and measurements indicate varying effective cutting angles from 0 up to the 20s. Our styli have VTAs in the range of 17 to 25 degrees.
+

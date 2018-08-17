@@ -1,0 +1,220 @@
+Title: How do I select the frequencies on the UHF Series?
+Id: 1520
+Legacy Id: 1574
+
+Question:
+We could truly use some help. I am the sound tech on the Norwegian Sea cruise ship. We use your UHF wireless products extensively and have been plagued by problems. I suspect many of these are related to frequency conflict and compatibility problems. I have attached an Excel file showing the frequencies we are use. Would you kindly comment on these and suggest what we are doing wrong.
+
+
+We do a seven day cruise out of New York City to Halifax NS, Bar Harbor ME, Boston MA, Martha's Vineyard MA and Newport RI. While all of our shows are done at sea, we are rarely more then 10 miles from shore. There are also UHF radios used on the ship, although they are all at lower frequencies.
+
+
+---- 08/16/2001 01:30 PM ----------------------------------------------
+
+
+We have retuned all our systems as you suggested. I think this has resolved any conflict problems, but we are still being plagued by signal drop out. Half of our receivers are located in a cabinet below the stage managers desk backstage right (about 40ft from DSC) the remainder are located in the sound booth at the rear of the theatre (about 60 ft from DSC). They are behind and below the console. All use the supplied antennas, front mounted.
+
+
+Is there anything we should do to increase signal strength? Our U1 body packs are frequently worn under several layers of costumes. Also the room has a low ceiling and steel posts in the house. Does battery strength affect the RF output? I out in fresh batteries before our first show and by the end of the evening they are down to about 1.43V, still showing five bars. How much improvement can we gain with your antenna distribution system?
+
+
+Answer:
+
+	Follow the instructions in the User Guide for the system and place all of your systems on the same group. Do NOT use groups A1 or A2. In total you have 11 UA systems and 10 UB systems. They should be set like the following:
+
+	
+		
+			
+				
+					Freq Range
+				
+					Group
+				
+					Channel
+			
+			
+				
+					UA
+				
+					1
+				
+					1
+			
+			
+				
+					UA
+				
+					1
+				
+					2
+			
+			
+				
+					UA
+				
+					1
+				
+					3
+			
+			
+				
+					UA
+				
+					1
+				
+					4
+			
+			
+				
+					UA
+				
+					1
+				
+					5
+			
+			
+				
+					UA
+				
+					1
+				
+					6
+			
+			
+				
+					UA
+				
+					1
+				
+					7
+			
+			
+				
+					UA
+				
+					1
+				
+					8
+			
+			
+				
+					UA
+				
+					1
+				
+					9
+			
+			
+				
+					UA
+				
+					1
+				
+					10
+			
+			
+				
+					UA
+				
+					1
+				
+					11
+			
+			
+				
+					UB
+				
+					1
+				
+					1
+			
+			
+				
+					UB
+				
+					1
+				
+					2
+			
+			
+				
+					UB
+				
+					1
+				
+					3
+			
+			
+				
+					UB
+				
+					1
+				
+					4
+			
+			
+				
+					UB
+				
+					1
+				
+					5
+			
+			
+				
+					UB
+				
+					1
+				
+					6
+			
+			
+				
+					UB
+				
+					1
+				
+					7
+			
+			
+				
+					UB
+				
+					1
+				
+					8
+			
+			
+				
+					UB
+				
+					1
+				
+					9
+			
+			
+				
+					UB
+				
+					1
+				
+					10
+			
+		
+	
+
+
+	As you can see, they are all in the same Group and different Channels within that group. When using UA and UB frequency bands together, still keep them in the same Group. You can use Groups 1-7, just be consistent and use the same Group with every system. Always have all systems on the same Group. It is ok to skip Channels, just as long as all of your systems stay within the same Group. Do NOT use Groups A1 or A2.
+
+	You may have to change the specific Channel you are using to avoid the local television stations of the specific are you are in that time. To search for all the U.S. television stations that effect our wireless, click here: www.shure.com/frequency
+
+
+
+	At 08/16/2001 01:50 PM we wrote - If you are not using antenna distribution, you should be.
+	
+	http://www.shure.com/ProAudio/Products/Accessories/us_pro_UA845-US_content
+	
+	Once you have proper antenna distribution, the next thing you need to do is get the receiving antennas in an area that is not buried under everything else. The receiving antennas need to be in the open so that they can receive a good signal from the transmitters. Remote Antennas for UHF-R, BLX4R, SLX, ULX, QLX-D or ULX-D Receivers
+	
+	The RF output will remain consistent until the battery gauge is just showing the last segment.
+

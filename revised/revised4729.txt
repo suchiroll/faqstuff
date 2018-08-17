@@ -1,0 +1,15 @@
+Title: A98KCS Set Screw Specifications
+Id: 4729
+Legacy Id: 5900
+
+Question:
+What are the specifications for the two set screws used on the A98KCS?
+
+
+Answer:
+
+	Set Screw #1 secures the gooseneck: Hexagon socket head cap screw; length 0.250 inch; thread #6-32 UNC; Shure part#30C8129A.
+	Note: The hexagon socket (0.109 inch)is hidden beneath a plastic cap. The plastic cap is Shure part #80A485.
+
+	Set Screw #2 secures the rubberized horn clamp: Hexagon socket head cap screw; length 0.625 inch; thread #6-32 UNC; Shure part#30H8129A. Note: The hexagon socket (0.109 inch)is hidden beneath a plastic cap. The plastic cap is Shure part #80A485
+

@@ -1,0 +1,24 @@
+Title: Rewire PE588 to low impedance
+Id: 438
+Legacy Id: 446
+
+Question:
+I have several Shure model PE588 Unisphere-B microphones that are high impedance. These mics were purchased new in 1975. Can these microphones be re-configured to be low impedance? I would like to use them in conjunction with Shure SM57 microphones in a recording environment.
+
+
+Answer:
+
+	The simple solution is add a Shure A95U High-to-Low Impedance Transformer to the end of the PE588 cable. The A95U will provide a balanced, low impedance output signal via a male XLR connector.
+	
+	The complicated solution is to bypass the internal Low to High impedance transformer inside of the PE588 handle. This can only be accomplished if: 1) You have experience with electronic circuits and you can use a soldering iron; 2) The PE588 handle is NOT filled with an epoxy-like material sealing the transformer into the handle. If this is the case, you cannot reach the transformer to perform the bypass.
+	
+	If the transformer is reachable in your PE588 and you have the necessary technical skills, please contact us again and we will provide details on how to bypass the transformer.
+	
+	The transformer will be completely bypassed. From the coded (typically a red dot) terminal on the mic element, run a wire directly to XLR pin 3. From the uncoded terminal, run a wire directly to XLR pin 2. From the center terminal (ground), run a wire directly to XLR pin 1.
+	
+	If you want the on/off switch to function, wire it in parallel to XLR pins 2 and 3. Have the switch short pins 2 and 3 together when the mic is to be off; and unshort pins 2 and 3 when the mic is to be on.
+	
+	Check the polarity of each rewired PE588 against an SM57. Connect the PE588 into mixer input #1; connect the SM57 into mixer input #2. Set the input controls on both channels to be the same. Talk into one mic; then talk into the other mic; then bring both mics close together and talk into both at the same time.
+	
+	If the polarity on the rewired PE588 is correct, the mixer output level will go up slightly when talking into both mics. If the polarity is incorrect, the output level will decrease significantly. In this case, remove the PE588 XLR connector and reverse the wires soldered to pins 2 and 3.
+

@@ -1,0 +1,15 @@
+Title: Podcasting - recommended mic for voice
+Id: 3140
+Legacy Id: 3275
+
+Question:
+I want my podcast to have the quality of an FM radio station.   What mic do you recommend for my podcasting voice-over recording?
+
+Answer:
+
+	The Shure SM7B is widely used in radio, television, and recording for voice-over artists.
+	
+	The audio signal level from the SM7B is quite low, though typical for a professional voice-over mic. Therefore, the SM7B signal will likely need to be sent through a high quality microphone preamp before being sent to the computers sound card. The preamp should have a minimum of 65 dB of gain for most podcasting setups.
+	
+	To see other mics that we recommend for voice over, please see our Selection Guide.
+

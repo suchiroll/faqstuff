@@ -1,0 +1,14 @@
+Title: Replacement cable for WM98
+Id: 1265
+Legacy Id: 1312
+
+Question:
+I need to get a new cable for my WM98. The cable on mine has a short in it. Please let me know if the cable is available seperatly.
+
+
+Sorry. I actually need a new cable for a WM98, not an SM98. However, I noticed that your discription on your site says that it a four pin cable, but it is a three pin cable.
+
+
+Answer:
+
+	The cable for the WM98 is 3 pin the microphone end and 4 pin on the transmitter end. The replacement cable is part #90A4039 and can be ordered from our Parts Department at 800-516-2525.

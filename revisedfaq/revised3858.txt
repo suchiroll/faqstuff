@@ -1,0 +1,26 @@
+Title: RP325 Cable
+Id: 3858
+Legacy Id: 4100
+
+Question:
+Please provide details on the RP325 cable.
+
+
+Answer:
+
+	The cable is 10 feet in length. There are two inner conductors, twisted, with a shield.
+
+	One end is a female XLR connector. The other end is a male, 3.5mm phone plug.
+
+	
+
+	Wired as follows:
+
+	XLR pin 1 - cable shield - phone plug sleeve
+
+	XLR pin 2 - red inner conductor - phone plug sleeve
+
+	XLR pin 3 - black inner conductor - phone plug tip
+
+	Phone plug ring is not connected.
+

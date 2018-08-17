@@ -1,0 +1,11 @@
+Title: Shure AXS6 Microphone - What is it?
+Id: 2249
+Legacy Id: 2330
+
+Question:
+I recently bought a Shure microphone with an AXS6 model identification band around it, but it was a display model and had no specs with it. I can't seem to find any reference to a model AXS6 on your website.
+
+
+Answer:
+
+	It is exactly the same as the BG 6.1, except it was packaged for the Guitar Center store chain, using the Axcess brand name.

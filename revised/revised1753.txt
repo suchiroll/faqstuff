@@ -1,0 +1,11 @@
+Title: E5 earpiece and Westone earmold model #56
+Id: 1753
+Legacy Id: 1812
+
+Question:
+The Westone #58 earmold is no longer available and has been replaced by the #56 according to my audiologist.  Can you tell me if the E5 will fit the Westone #56 earmold?
+
+
+Answer:
+
+	According to Shure Engineering, the Westone model #56 earmold fits the E5 earpiece and the E1 earpiece.

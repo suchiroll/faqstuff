@@ -1,0 +1,12 @@
+Title: Traveling by plane with a dynamic mic
+Id: 3050
+Legacy Id: 3181
+
+Question:
+I'm going abroad tomorrow and I'd like to know if there are any recommendations when traveling by plane with some dynamic mics? Should I bring my mics in my cabin luggage or can I put them in my checked bags without risk (I'm thinking about pressure in particular...)?
+
+
+Answer:
+
+	Shure dynamic mics have barometric leaks in the design to accommodate any type of pressure change. No need to keep them in a pressurized cabin. We cannot speak for other brands of microphones.
+

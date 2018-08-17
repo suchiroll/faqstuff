@@ -1,0 +1,12 @@
+Title: Recessed XLR connector for conference table
+Id: 2842
+Legacy Id: 2954
+
+Question:
+I'm seeking an attractive recessed female XLR connector for a conference table. The Shure MX412C mic will be plugged into this connector and removed after meetings. Any suggestions?
+
+
+Answer:
+
+	FSR offers the T3-MJ recessed XLR connector. It features a cap that hides the XLR connector when not in use. Available in black or brass, it is an attractive mounting scheme. www.fsrinc.com
+

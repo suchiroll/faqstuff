@@ -1,0 +1,11 @@
+Title: Cable for 708A microphone
+Id: 2229
+Legacy Id: 2309
+
+Question:
+I have a 708A mic but I can't seem to find the cord. Is there any way I can find the screw plug that goes on the mic?
+
+
+Answer:
+
+	The model 708A needs an Amphenol MC3M on the cable. We do not carry these connectors.You can also get pre-wired cables from Tom Ellis - U.S. phone: 214-328-3225.

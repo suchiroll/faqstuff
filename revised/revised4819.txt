@@ -1,0 +1,31 @@
+Title: Motiv MV5 replay audio can not be heard
+Id: 4819
+Legacy Id: 6005
+
+Question:
+I have a Shure Motiv MV5. I want to use it with a MacBook Pro and an iPhone 6. When I connect it to either device, the replay is inaudible. What am I doing wrong and how can I fix this? I am using "Garage Band" on the MacBook Pro and the Shure Motiv app on the phone. The audio cannot be heard with or without headphones. Please advise.
+
+
+Answer:
+
+	Please read below:
+
+	Listening Through Headphones
+	
+	The MV5 headphone jack provides an equal blend of the direct microphone signal and audio playback from the computer. This allows you to conveniently adjust the headphone volume for both with one control, the thumbwheel on the MV5. To adjust the amount of playback audio relative to the direct microphone signal, use the computer or DAW mixer settings.
+	
+	Tip: When first connecting the microphone to your computer, make sure to raise the volume level in the sound control panel of the computer for a strong audio signal. Then adjust headphone level for comfortable monitoring.
+
+	Test: With the MV5 connected to your computer, can you hear the MV5 using headphones connected to the MV5?
+
+	
+	Did the suggestion to monitor the MV5 directly through headphones help? This will verify that the mic is working correctly with the device. Also, are there levels on the meter in the Motiv app? One may need to enable Input Monitor under Info in the settings for the Motiv app.
+
+	Another basic thing to try is making sure that the Motiv app, iOS, and any other software is updated to the latest version. Sometimes, rebooting the phone can help, too. If you have another USB to Micro B cable for the laptop, try it as well.
+	
+	If everything is working properly, the Motiv app should display MV5 rather than Built-in mic at the top left of the screen. Also can check that Mic Firmware and DSP Version are displayed in the InfoAbout screen. Both should be displayed if the device and accessory are working together properly.
+	
+	Also try deleting the Motiv app from the iPhone and reinstalling it.
+	
+	On the MacBook, verify that the MV5 as the recording device as well as the playback device under Sound Settings.
+

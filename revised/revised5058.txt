@@ -1,0 +1,15 @@
+Title: Styli for Phono Cartridge Model BC 80
+Id: 5058
+Legacy Id: 6371
+
+Question:
+What is the 78 RPM stylus and the 33 1/3 RPM stylus for the model BC80?
+
+
+
+Answer:
+
+	Stylus N78S for 78 RPM records.
+	
+	Stylus N92E for 33 1/3 RPM LPs
+

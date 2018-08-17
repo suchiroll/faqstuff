@@ -1,0 +1,17 @@
+Title: MXW Network Cable Requirement of Cat 5e shielded
+Id: 4882
+Legacy Id: 6140
+
+Question:
+The MWX specification document states that the network cabling requires “Cat5e or higher, shielded”. Please provide reasons to justify the cost of shielded cabling to clients and subcontractors.
+
+
+Answer:
+
+	The primary reason to use shielded cable is because Audinate recommends it for a gigabit Dante network. Why does Audinate recommend shielded Cat 5e/Cat 6? Unfortunately, their website does not offer a lot of detail. https://www.audinate.com/resources/faqs
+	
+	Shielded cable provides protection from EMI and RFI which in a networked system could lead to packet loss. For a data network, packet loss is not a big problem, it might just slightlyimpede the network speed. But in a system designed to deliver real-time audio, too many errors can cause audio dropouts. Particularly on larger networks with higher channels counts, shielded CAT cable offers a distinct advantage.
+	
+	While we have seen MXW systems work successfully with unshielded cable, using shielded cablesis valuableinsurance. It isa recommend best practice that helps ensure that the audio will be uninterrupted. If it will help save money, it is OK to use unshielded cable for the chargers, since there is no Dante audio sent to the charger. But the CAT cable connection between the APT and the ANI (and between multiple ANIs in a larger system) must be shielded to ensure the most reliable performance.
+
+

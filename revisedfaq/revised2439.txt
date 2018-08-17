@@ -1,0 +1,24 @@
+Title: KSM mics with stage monitors
+Id: 2439
+Legacy Id: 2534
+
+Question:
+I have been told that you cannot use stage monitors with the KSM microphones because of its sensitivity.
+
+
+I want to get one for our country/bluegrass band to use on the stage but feel the need for stage monitors for a live performance is necessary.
+
+
+Can monitors be used with the KSM27 or 32?
+
+
+Answer:
+
+	Can monitors be used with the KSM27 or 32?
+	* Yes. Allison Krause and Union Station use the KSM32 live.
+	
+	When using a KSM mic at a distance, can the monitors be turned up as loud as when we use SM58 mics pressed up against our lips?
+	* No.
+	
+	Why?
+	*It's those darn laws of physics. If the KSM mic were also pressed up against your lips, then it could be as loud as the SM58.

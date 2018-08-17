@@ -1,0 +1,14 @@
+Title: N92E Stylus with Radio Shack RX-P3 Cartridge
+Id: 5039
+Legacy Id: 6331
+
+Question:
+Would a replacement stylus for a M92E cartridge work on a RX-P3 cartridge?
+
+
+Answer:
+
+	The N92E stylus fits into the RX-P3 body. 
+
+	But before buying the N92E, please read this link: Use an Alternate Phono Stylus? Buy an New Old Phono Stylus?
+

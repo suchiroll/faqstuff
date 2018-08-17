@@ -1,0 +1,12 @@
+Title: RF signal loss in cable runs - impedance or cable length?
+Id: 2944
+Legacy Id: 3071
+
+Question:
+I know that the length of an antenna cable run negatively affects the RF signal strength delivered to the wireless receiver, and that using 75 ohm cable instead of 50 ohm also negatively affects the RF signal. All things being equal, which typically causes more loss of the RF signal?
+
+
+Answer:
+
+	RF signal loss due to the length of the cable run is far more significant than loss due to an impedance mismatch. Using a 100 foot run of 75 ohm antenna cable with low loss is better than using a 100 foot run of 50 ohm antenna cable with high loss. There are different grades of 75 ohm cable and of 50 ohm cable.  Check with the cable manufacturer to determine the loss per 100 feet for the cable grade being considered.
+	Professional wireless microphone antennas are 50 ohms, and therefore 50 ohm cable is preferred.  If 75 ohm cable is used, add 2 dB of loss for this impedance mismatch, no matter the length of the cable run.   For example, a 100 foot run of 75 ohm RG6U has a loss of 6 dB (at 500 MHz) when used with a 75 ohm antenna.  When used with a 50 ohm antenna, the loss is 8 dB [6 dB + 2 dB for the impedance mismatch.]

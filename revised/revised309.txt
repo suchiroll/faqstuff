@@ -1,0 +1,21 @@
+Title: SM57 for cymbals?
+Id: 309
+Legacy Id: 316
+
+Question:
+Are SM57's good enough for cymbals in a small low budget home recording studio? Has anyone ever tried using these mics for cymbals? I'm using a Mackie 1202 mixer line inputs for cymbals because all other mic inputs are being used. Bad idea? I'm having a hard time finding money to get a couple of condensor mics for cymbals. thank you for your time.
+
+
+Answer:
+
+	At 11/09/2001 09:44 AM we wrote - Are SM57's good enough for cymbals in a small low budget home recording studio?
+	* They will be lacking in "high frequency sizzle" when compared to a good condensor mic.
+	
+	Has anyone ever tried using these mics for cymbals?
+	* They work much better for snare or toms.
+	
+	I'm using a Mackie 1202 mixer line inputs for cymbals because all other mic inputs are being used.
+	* A line level input will not have enough gain (amplification) when used with a mic level signal.
+	
+	I'm having a hard time finding money to get a couple of condensor mics for cymbals.
+	* Shop around for a good price on the Shure PGA81, SM94, or SM137. All are condensors and all will sound very good.

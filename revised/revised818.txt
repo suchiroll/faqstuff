@@ -1,0 +1,20 @@
+Title: The Right Piano Mic
+Id: 818
+Legacy Id: 840
+
+Question:
+I regularly need to mic acoustic pianos - both upright and grand - for performance. I also want to record some on my grand at home, but the emphasis is on performance. This needed for classical/show-tune solos as well as accompaniment.
+
+
+From descriptions, I'm leaning toward the SM81, but it also appears to be extremely directional. I can afford more say for a KSM32 if that makes more sense, but I don't want to overpay for unnecessary recording fidelity. I want to make clean, good-sounding recordings to send friends but I'm not trying to set up a professional sound studio!
+
+
+What's your recommendation?
+
+
+Answer:
+
+	If you want to make stereo recordings, try two unidirectional mics on a Shure A27M stereo mic adapter. The models to consider are: 1) SM81; 2) SM94; 3) KSM141 / KSM137.
+
+	KSM32 would be great but is overkill for your needs. All these mics can also be used for live sound.
+

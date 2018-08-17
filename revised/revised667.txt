@@ -1,0 +1,16 @@
+Title: Advise on replacing an V-15 type III L-M
+Id: 667
+Legacy Id: 684
+
+Question:
+I am using the V-15 type III L-M for a long time now but the stylus definitely needs replacement. Is that still available ? If not, what is an good alternative for this combination ? I have an Dual CS-704 turntable.
+
+Answer:
+
+	Sorry, we no longer have replacement styli for this cartridge.
+	
+	All available stylus can be seen at the following web page: Discontinued Stylus Cross Reference
+
+	
+	If you wish to replace the cartridge, the M97xE is recommended.
+

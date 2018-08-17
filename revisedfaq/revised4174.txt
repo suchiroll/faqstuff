@@ -1,0 +1,28 @@
+Title: 3.5mm miniature phone plug into TA4F connector
+Id: 4174
+Legacy Id: 5121
+
+Question:
+We work with in-house hotel AV departments and spec Shure microphones exclusively for more than 200 venues. I recently had one of our properties ask me how to get the sound out of an iPod or iPad and into a Shure wireless bodypack transmitter. It would be a quick solution to the event planner who wants to use her personal iPod or iPad for reception music.All of the wireless kits that we spec use the TA4F connector on the bodypack. That would mean a mini from the headset output to the TA4F input of the bodypack. Can you weigh in on that idea? Have you considered making an adapter?
+
+
+Answer:
+
+	How can I take the audio from my computer headphone jack and get it into the sound system using a wireless mic system?
+	
+	Three things have to happen:
+	
+	1)The audio signal level from the headphone jack must be attenuated (reduced) to Mic level.
+	2)The stereo audio signal from the headphone jack must be combined into a monaural signal.
+	3)The audio signal from the headphone jack must connect to the bodypack transmitter using a TA4F connector.
+	
+	There are multiple ways to solve this situation, so lets examine one method.
+	
+	There are devices sold that provide #1 and #2 above.One such device is the LTI 100 manufactured by Rapco.The audio signal leaves the LTI 100 on a male XLR connector.Connect this male XLR output to the Shure transmitter using the Shure cable WA310. Voila!This method also works for the headphone output of an iPod, an iPad, or other device that has a 3.5 mm headphone jack.
+	
+	Also, pro audio dealer T.C. Furlong, www.tcfurlong.com, offers a cable fabricated specifically to provide this function.
+
+	
+	
+	
+

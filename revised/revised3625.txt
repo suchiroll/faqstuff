@@ -1,0 +1,11 @@
+Title: Replacement Stylus for cartridge model V15 RS
+Id: 3625
+Legacy Id: 3831
+
+Question:
+I’m trying to find a suitable replacement stylus for my V15-RS cartridge (NOS Shure or aftermarket). I read that the N97HE, M97xE and V15xMR all have the shank size that will fit. I realize that because a stylus assembly will fit does not mean it will perform as designed due to differences in magnetic pole pieces, coil orientation etc. For example, some aftermarket websites advertise the M97xE stylus as a replacement for the N97HE (and V15-RS). However Shure’s QA says M97xE / N97HE hybrid will cause a reduction in high frequency response. What model Shure is the V15-RS cartridge body equivalent to? Is the N97 series or V15xMR stylus assemblies functionally compatible with the V15-RS? If neither of those two are, what is?
+
+Answer:
+
+	The V15-RS replacement stylus was model  VNSE3-HE.  Please see the following link for many sources where you can purchase discontinued Shure styli, like this model. Sources for Discontinued Styli and Phono Cartridges
+	The N111-HE stylus will also fit, as will the VN5MR.   Neither are available from Shure, but the above dealers might have these styli. The V15-RS was equivalent to the Shure M111.The N97xE stylus will fit the V15-RS body. However, the stylus magnet does not precisely align with the V15-RS internal coils.  An audio signal will be produced, but the performance specifications will not meet the original specifications of the V15-RS. The current M97xE is the closest available cartridge to the V15-RS.

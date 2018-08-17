@@ -1,0 +1,16 @@
+Title: Removing salt and sweat buildup from Beta 53
+Id: 1384
+Legacy Id: 1436
+
+Question:
+We are using the Beta 53 headworn mics in some of our shows and wanted to see if there was any cleaning that you recommended or that would be OK. Particularly for the build up of salt from sweat. Before we went to the Beta 53s we used the DPA headsets and they recommended rinsing them in distilled water for that purpose, would that be OK to do on the Beta 53 or is there anything else you recommend, or do you recommend nothing.
+
+
+We have noticed a slight reduction in sound quality after some time of use (as was the case with the DPAs, after rinsing the DPAs would be fine).
+
+
+Answer:
+
+	We endorse the distilled water idea but suggest a misting instead of a dunking. After cleaning, make certain the mics have time to dry thoroughly.
+	
+	Consider storing the mics in an airtight box that contains a silica gel packet. Silica gel is a desiccant and will absorb moisture in the box. Silica gel packets can be reused indefinitely if they are dried out regularly in a low heat oven.

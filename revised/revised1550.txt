@@ -1,0 +1,21 @@
+Title: Attaching SM10 to Koss headphones.
+Id: 1550
+Legacy Id: 1604
+
+Question:
+Hello I bought headphones from Koss, model Pro/4AA, and there is a mount for a mic on the left side, I emailed Koss and asked them where can I get a mic and they recommended me to Shure Brothers SM-10 and I cannot find this on your site, I found your SM10A-CN Cardioid Dynamic, Headworn Microphone, but in the picture it appears that a headband also comes with that, do you sell a mic that will attach to Koss's Pro/4AA headphones.
+
+
+Can I get a picture of the mic attached to the Koss Pro/4AA?
+
+
+Answer:
+
+	The SM10A and SM10 will both connect to the Koss headphones. You will need to remove the microphone boom assembly from the supplied headband.
+	
+	
+	
+	
+	
+	The mounting plate that holds the mic can easily be fabricated from a flat piece of stiff metal, like aluminum. A hole is drilled in one end of the metal plate to mount to the Koss Pro/4AA threaded stud and knurled knob.Two holes are drilled in the other end to accept the two small screws that hold the SM10 mic clamp to the SM10 head band. Remove the clamp from the SM10 head band and screw it to the metal plate.With the SM10 in hand it will be very clear how to fabricate the metal plate.
+

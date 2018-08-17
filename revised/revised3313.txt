@@ -1,0 +1,14 @@
+Title: What is the status of my earphone repair?
+Id: 3313
+Legacy Id: 3482
+
+Question:
+How can I check the status of my defective earphones I sent in for repair?
+
+
+Answer:
+
+	Our service return system will e-mail you with notification that your product has arrived for evaluation, as long as you have provided an active e-mail address on the repair correspondence form included with your return. Be aware that this email from Shure includes a pdf attachment, so some email servers may automatically deposit it in your bulk folder. We strive to enter your product into our system within 24 hours of receipt. Please consider both the 24 hours required to process your information and the time required to ship it to us, as this can take up to 10 days depending on your location and shipping method.
+	
+	We truly appreciate your business and will do everything we can to process andreviewyour product as expeditiously as is humanly possible.
+

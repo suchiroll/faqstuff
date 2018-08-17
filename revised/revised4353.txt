@@ -1,0 +1,45 @@
+Title: Output Levels of Wireless Mic Elements vs. Wired Mics
+Id: 4353
+Legacy Id: 5438
+
+Question:
+If I change the mic element on my Shure transmitter, will the signal be louder?
+
+
+Answer:
+
+	As of May 2016, Shure offersfourteen mic elements for handheld transmitters that have the interchangeable element feature:
+	
+	PG58 (RPW110)
+	SM58 (RPW112)
+	SM86 (RPW114)
+	SM87A (RPW116)
+	Beta58A (RPW118) 
+	Beta 87A (RPW120)
+	Beta87C (RPW122)
+	VP68 (RPW124)
+	KSM8 (RPW170, RPW174)
+	KSM9 (RPW180, RPW184)
+	KSM9/HS (RPW182, RPW186)
+	
+	For these RPW mic elements to be interchangeable, all must have the same output level. This process is called normalization, and simply means that the RPW output levels are adjusted to be equal. This is accomplished by adding an electronic circuit between the output of the mic cartridge and the input to the wireless transmitter; this circuit is contained within the RPW wireless mic element.
+	
+	Here is where the confusion originates. Users often believe that changing the RPW mic element will also change the output level of the wireless system; it will not. They believe this because the output levels of the wired mic versions are different.
+	
+	Using the wired PG58 as the starting point, lets compare the output level differences of the wired mic models:
+	
+	PG58 = 0 (reference)
+	SM58 = -1dB
+	SM86 = +3dB
+	SM87A = +1dB
+	Beta58A = +2dB
+	Beta87A = +1dB
+	Beta87C = +2dB
+	KSM8 = +2dB
+	KSM9 = +2dB
+	KSM9/HS = +3dB
+	
+	Note: VP68 is not available as a wired mic.
+	
+	Comparing these wired mic specifications, a user could wrongly assume that the wireless versions of these microphones would share these level differences.But they do not...because the RPW output levels have been normalized in order that the wireless mic elements can be freely interchanged.
+

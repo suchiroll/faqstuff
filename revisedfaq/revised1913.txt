@@ -1,0 +1,16 @@
+Title: Preacher that turns his head when he talks
+Id: 1913
+Legacy Id: 1974
+
+Question:
+I have a minister who has a Shure wireless system. He has trouble when he is not directly on the lavalier(turning head or moving) I cannot tell if the mic that he has is the omnidirectional or not. I see no numbers on it. It is small, oval shaped with windscreen and clip. What lavalier would you recommend that I order for him that would be the most omnidirectional and would be compatable with his other components? He will not switch to a headset mic.
+
+
+Answer:
+
+	The problem is physics, not the incorrect microphone. If a talker varies the distance between his mouth and the mic, the audio level will rise and fall accordingly. A headworn mic works best because the mic stays a constant distance from the mouth.
+	
+	If the preacher insists upon a lavalier mic, he should learn to turn his whole body when he looks left or right, and not just turn the head. Turning the body helps keep a constant distance between the mic and the mouth.
+	
+	The lavalier mic he is using is likely a omnidirectional pattern, but if you want to order him a new one, get the WL93 or the WL183.
+

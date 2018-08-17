@@ -1,0 +1,19 @@
+Title: Mic preamp for recording
+Id: 1668
+Legacy Id: 1725
+
+Question:
+I currently own a Shure SM 57 mic and a Shure BG 4.0 mic that I use for recording celtic harp music. I am in need of a pre-amp. Please advise me on a clean pre-amp (not too costly). I am very satisfied with the Shure mics and I think I should go with a Shure pre-amp.
+
+
+---- 09/07/2001 01:58 PM ----------------------------------------------
+
+I use a Shure SM57 and Shure BG 4.0 to record harp music. I need a clean pre-amp for these two microphones. The output of the pre-amp should have balanced and unbalanced capabilities. I will be going from the pre-amp to a hi-fidelity analog recorder by either XLR connections (preferably) or RCA connectors. The inputs on the pre-amp should be XLR. Also, the pre-amp should be reasonably priced.
+
+
+Answer:
+
+	Please advise. For what purpose do you need a preamp? Tell us more about your application. There are many types of preamps, for many different purposes.
+	
+	At 09/07/2001 03:18 PM we wrote - We suggest a mic preamp from Rane: http://www.rane.com/ms1b.html It should do a nice job.
+

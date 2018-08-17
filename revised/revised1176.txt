@@ -1,0 +1,16 @@
+Title: Differences between Beta 87 & SM58
+Id: 1176
+Legacy Id: 1218
+
+Question:
+I'm a worship leader in a church of about 800 people on the western metro side of Melbourne, Victoria, Australia. Recently the church purchased an amount of 3 Beta 87s for the vocalists. My worship pastor later found out that the 87s aren't good for that general "every Sunday" sort of use but they are really made for "Live recording" purposes only. So instead we have put them away til we start recording and have bought 4 SM58s to use for every Sunday. With that in mind I was would like some information about the main differences between both models of mics please and also the main "live" [foh] sound differences. I'm not a "sound engineer" or all that so it would be really appreciated if it was explained pure "everyday" English
+
+
+Answer:
+
+	The Beta 87 and SM58 are completely different microphones. The Beta 87 is a condenser and the SM58 is a dynamic. The Beta 87 has a supercardioid polar pattern and the SM58 has a cardioid polar pattern. Those are the major differences.
+	
+	For education on what a condenser, dynamic, supercardioid and cardioid are, please see our online booklets, such as the following:
+	
+	Microphone Techniques for Music - Sound Reinforcement
+

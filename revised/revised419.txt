@@ -1,0 +1,16 @@
+Title: Usage of multiple collar wireless microphone with single diversity receiver.
+Id: 419
+Legacy Id: 426
+
+Question:
+We are regular user of your product. Regarding the use of wireless microphone we would like to know that whether we can use multiple collar wireless microphone (WM98) more than four  at a time with a single diversity receiver i.e. One frequency of operation for all the microphone.
+OR
+Do you have a single receiver with multiple microphone frequency input to be used for the above purpose.
+
+
+Answer:
+
+	The answer to your first question can be found at the following link: Can I use two (or more) wireless microphones with one receiver?.
+	
+	While do not make any system that has 4 receivers in the same physical box, we do make 2 different wireless systems that offer two receivers (on two frequencies) in the same physical box: The PG88, and the UHF-R Series.
+

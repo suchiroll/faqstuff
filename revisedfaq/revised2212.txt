@@ -1,0 +1,19 @@
+Title: Does the human body block or absorb RF energy?
+Id: 2212
+Legacy Id: 2288
+
+Question:
+I heard that the human body, by virtue of its water content, absorbs RF energy emitted by a bodypack transmitter. Since then I have found a definite pattern among customers complaining of inexplicable wireless problems which for no apparent reason seem confined to a particular user rather than a particular transmitter or receiver. Those users almost always turn out to be -- how shall I say -- corpulent, implying a more bountiful internal water reservoir. UHF systems seem to suffer more than VHF systems, I suppose because of the shorter wavelength of UHF signals.
+
+
+Answer:
+
+	The human body is both a reflector and an absorber of RF energy. This is likely to be even more apparent at higher frequencies, e.g. 2.4 GHz. Try this experiment. If you have aportable FM radio, tune in a station and do a 360 degree spin. Note how the station fades as you turn your body.
+	
+	Positioninga large human body between the transmitters antenna and the receivers antenna can cause a degradation in RF performance. The human body is made up primarily of salt water. Salt water is an effective absorber of RF energy.(Submarines have to surface to send FM radio signals.)The more body fat a person has, the more RF is absorbed.Our tests show that a body pack transmitter can be 50 to 70% less effective than a handheld transmitter simply because of the antenna location being against the human body. Thus the reason RF antennas in theatres are often placed above the stage...closer to the actors wearing the body packs.
+	
+	Below is an excellent technical paper (PDF file) on this subject from the Swiss Federal Institute of Technology.
+
+	
+	
+

@@ -1,0 +1,12 @@
+Title: Using a PGX transmitter with a PG receiver
+Id: 3420
+Legacy Id: 3611
+
+Question:
+Are& PGX transmitters compatible with a PG receiver?
+
+
+Answer:
+
+	A PG series receiver must be used with a PG series transmitter.   A PG receiver will not sync with a PGX transmitter, nor will a PGX receiver sync with a PG transmitter.
+	 

@@ -1,0 +1,17 @@
+Title: Which transmitter worked with an L4 Receiver?
+Id: 1055
+Legacy Id: 1088
+
+Question:
+I have an old L4 Receiver. Which ones of the cordless microphones, which are currently in production, are compatible?
+
+
+Answer:
+
+	The LX series was the successor to the L series. Most of the frequencies used on the L series are available on the LX series, BUT not all. The following frequencies are NOT available on LX:
+	
+	177.000Mhz-Frequency K
+	178.800Mhz-Frequency L
+	181.000Mhz-Frequency R
+	184.800Mhz-Frequency S
+

@@ -1,0 +1,13 @@
+Title: Gooseneck Angle Brace
+Id: 3863
+Legacy Id: 4105
+
+Question:
+Does Shure offer a curved plastic brace that will keep the bend angle on a small gooseneck?
+
+
+Answer:
+
+	The part number is 65A1963. This curved brace is supplied with the Beta 98H/C microphone, and can also be used with the WH20 and WH30 microphone.
+	
+	The brace is black plastic, 35 mm in length, and will fit a gooseneck with a diameter of 5 mm or less.  The brace bends the gooseneck to an angle of 120 degrees.

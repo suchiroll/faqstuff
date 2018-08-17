@@ -1,0 +1,29 @@
+Title: UA830 and UA220 with two U4D receivers
+Id: 1846
+Legacy Id: 1906
+
+Question:
+I would like to connect 2 U4D (total 4 ch's) to a couple of UA220 without a UA845 to save money but I will need to remote UA830 booster with UA820 antennas because of receivers position, does the UA220 let pass 12V DC to power UA830?
+
+
+---- 10/10/2001 02:52 PM ----------------------------------------------
+
+Just in case I will supplied of UC models, on the printed circuit should I remove the same resistances R334 or are they named differently?
+
+
+Answer:
+
+	In order to use the UA220 with a pair of U4D receivers it is necessary to defeat the 12V DC from the two antenna ports on one of the two U4D receivers.
+	
+	This is accomplished by removing one surface-mount resistor on each receiver channel board. The resistor is R334 and its position is along the left side toward the front of the channel board. It is identified by an arrow and a box, silk-screened on the PC board. The easiest way to remove the resistor is to use two soldering irons to melt the solder at both ends of the resistor simultaneously, then lift off the part with the irons.
+	
+	Once this modification is done, the UA220 can be used to interconnect two U4D receivers. The 12Vdc will pass through the UA220 and operate the UA830.
+	
+	An alternative to the modification is to insert a DC block that is built into a BNC connector. Two will be required: one for the A antenna input and one for the B antenna input. Place these blocks at the antenna inputs of one of the U4D receivers.
+	
+	Pomona Model 5297
+	BNC male - BNC female - blocks DC on the inner conductor; 1000pF cap in series
+	http://www.pomonaelectronics.com
+	
+	At 10/10/2001 03:13 PM we wrote - No. The UC receivers do not provide the 12 volts DC and cannot power the UA830. Do not use the UC receiver if you require the UA830 amplifier.
+

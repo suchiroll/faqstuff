@@ -1,0 +1,29 @@
+Title: Microphone for recording a focus group
+Id: 324
+Legacy Id: 331
+
+Question:
+I am installing a focus group room, i.e. a place where several people meet around a table and talk about a particular topic leaded by a trained specialist.
+
+I need to record the sessions and listen to them from another room.
+
+Which is the best kind of microphone to use in such a meeting room ?
+
+I have seen some microphones used in meeting rooms which are flat and lay on the table what would you recommend ?
+
+Is it more suitable an omnidirectional microphone ?
+
+What models does Shure have that can satisfy my need ?
+
+Answer:
+
+	Before you make any buying decision, please read the on-line book linked below. It is written specifically for meeting room (like a focus group) audio systems. We believe this book will answer your questions and much more. This will make you a better informed consumer when you actually do purchase a microphone.
+	
+	Audio Systems Guide to Meeting Facilities
+	
+	Also, read these links:
+	
+	Critical Distance and Microphone Placement
+	
+	Predicting speech to background noise level at the microphone
+

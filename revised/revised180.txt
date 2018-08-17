@@ -1,0 +1,31 @@
+Title: Antenna distribution for 3-4 LX or SC wireless receivers
+Id: 180
+Legacy Id: 181
+
+Question:
+How do I connect 3 to 4 SC or LX wireless receivers up to an antenna distribution system?
+
+
+Answer:
+
+	Antenna Distribution  3 or 4 Diversity SC or LX Receivers
+
+	
+		In applications involving multiple rack-mounted wireless microphone receivers, an antenna distribution system offers several advantages over mounting antennas on each individual receiver:
+		
+			
+				Only 1 pair of antennas is required, making it more practical to remote-mount the antennas near the performance area.
+			
+				DC power can be distributed to each receiver, eliminating the need for multiple AC/DC power supplies.
+			
+				RF performance is improved by eliminating closely-spaced antennas on adjacent receivers, which interfere with each other.
+		
+	
+	
+		One pair of antennas is connected to the WA405 Antenna Distribution System. The eight RF outputs of the WA405 are connected to the antenna inputs on four diversity (or eight non-diversity) VHF receivers. DC output jacks on the WA405 feed operating voltage to four receivers.
+	
+		The standard 1/4-wave whip antennas supplied with most Shure VHF wireless systems may be used if they are connected directly to the inputs on the WA405s front or rear panel. If the antennas are to be mounted remotely, the accessory WA380 1/2-wave antennas must be used.
+
+
+	
+

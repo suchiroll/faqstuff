@@ -1,0 +1,12 @@
+Title: Old SM58 wiring
+Id: 698
+Legacy Id: 715
+
+Question:
+I have an SM58 microphone and I need to rewire the plug that is on the mic. You're web site shows a 3 wire diagram but my mic has 4 wires. Red, blue, orange and black. Can you please advise the wiring arrangement for this microphone?
+
+
+Answer:
+
+	Your SM58 was manufactured before 1983. The orange wire will not be used for your rewiring of the XLR plug. Here is the correct wiring: black to pin 1; blue to pin 2; red to pin 3.
+

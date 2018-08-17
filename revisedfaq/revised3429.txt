@@ -1,0 +1,11 @@
+Title: UR4 Receivers go offline when Mac OS 10.5 goes to sleep
+Id: 3429
+Legacy Id: 3620
+
+Question:
+I am running Wireless Workbench 5.0 on my MacBook. I have the computer connected via USB to a networked UR4D. When the MacBook goes into sleep mode and then gets awakened, I notice that all my receivers are grayed out in Wireless Workbench and I am no longer able to monitor or communicate with them. I am running Mac OS 10.5 Leopard. What is the issue?
+
+
+Answer:
+
+	This is a known issue with WWB v5.0.0.x and Mac OS 10.5. The sleep mode of Mac OS 10.5 Leopard causes the receivers to go offline. To avoid this problem, on the Mac, go to System Preferences, Energy Saver, and change the setting for putting the computer to sleep to "Never" - or for as long as necessary to maintain your connection to the receivers.

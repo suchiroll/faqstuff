@@ -1,0 +1,24 @@
+Title: FP33 external power supply
+Id: 1180
+Legacy Id: 1223
+
+Question:
+I just purchased a brand new FP33 and am quite happy to have it. I forgot to order a AC/DC power supply which I have learned you call the PS20. I would like to get a generic adapter locally and have a question about the printed specs.
+
+
+"a non-polarized coaxial plug from.....must have a negative ground or a floating ground."
+
+
+What is meant by "non-polarized? I should think either the sleeve or the core would be negative while the other would be positive. Is it OK to use either combination? Is this a reference to bi-polar power supplies?
+
+
+Answer:
+
+	The FP33 does not care if the sleeve is positive or negative. There is an internal circuit that handles either polarity.
+	
+	Look for an AC to DC supply, 12 to 30 volts DC, rated at 200 milliamps or greater, with a plug that mates with the FP33. Radio Shack will have several types that will work. Another source is www.mouser.com.
+	
+	Bring the FP33 to a local Radio Shack with your headphones. Find a suitable supply, power up the FP33 from the supply, and listen to the FP33 via the headphone jack. Listen carefully for low level hum caused by the power supply. If there is hum present, try a different model of power supply.
+
+	NOTE: If the external power supply is 15 Vdcor less, the blinking FP33 Power LED will be red, not green. This is OK; theFP33 will operate normally. The green/red LED is calibrated for thetwo internal 9 Vdc batteries, not for an external power supply.
+

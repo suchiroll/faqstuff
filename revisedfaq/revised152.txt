@@ -1,0 +1,37 @@
+Title: How do I connect a VP88 to a portable recorder?
+Id: 152
+Legacy Id: 152
+
+Question:
+I am considering the purchase of a portable minidisc recorder. Most inputs are 1/8" optical or 1/8" microphone. What kind of intermediary equipment would I need if I were to purchase a VP88?
+
+
+Answer:
+
+	Using the VP88 with Portable Stereo Recorders
+
+	Due to their small size, many portable stereo tape recorders include microphone inputs that utilize 3.5 mm miniplug input connectors. Either a single stereo Tip-Ring-Sleeve (TRS) jack or two mono Tip-Sleeve (TS) jacks may be used. The VP88 Stereo Microphone can be used successfully with these recorders if a custom cable is made, with a 5-pin female XLR connector on the microphone end and the appropriate 3.5 mm miniplug(s) on the recorder end.
+	
+	The suggested wiring configurations are shown below. NOTE: THERE ARE NO STANDARDS FOR WIRING 3.5 mm CONNECTORS, AND YOUR RECORDERS INPUTS MAY BE WIRED DIFFERENTLY THAN SHOWN. CONSULT THE RECORDERS MANUAL OR CALL THE MANUFACTURER IF YOU HAVE DOUBTS.
+
+
+	
+
+	If the recorder has a single 3.5 mm stereo input jack:
+
+
+	The Sound Professionals sells this adapter cable as Part #SP-XLRF5-MINI-2. To make your own cable, start with theShure model C110 Microphone Extension Cable, and replace the male 5-pin XLR with a 3.5 mm stereo miniplug. Note carefully which wires are removed from which pins on the XLR, and connect the appropriate wires to the 3.5 mm stereo miniplug connector as shown below.
+
+
+	
+
+	
+
+	If the recorder uses separate mono input jacks for the Left and Right channels:
+
+
+	The easiest method is to use the Y-Splitter Cable supplied with the VP88, and add two XLR-to-3.5 mm microphone cables.
+
+
+	
+

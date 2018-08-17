@@ -1,0 +1,12 @@
+Title: Custom 4 dB audio pad
+Id: 1156
+Legacy Id: 1195
+
+Question:
+Do you sell 4dB pads? I need something similar in design to A15AS or do you custom make them selectable in lower steps such as a 4/8/10 dB pad?
+
+
+Answer:
+
+	Shure does not. Try Sescom.
+

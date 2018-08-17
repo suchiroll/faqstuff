@@ -1,0 +1,56 @@
+Title: White Space Devices Update - February 2012
+Id: 4027
+Legacy Id: 4437
+
+Question:
+What is the latest news about White Space Devices that operate in the U.S. TV bands?
+
+
+Answer:
+
+	Newly Released 'White Space' Devices and Frequency Coordination…What You Need to Know
+	
+	The first TV Band Device ("white space device" or WSD) has been approved by the FCC and released to the market on January 26, 2012. The device is the model AWR Agility White Space Radio manufactured by KTS Wireless. This is a fixed device, which is intended to provide wireless broadband access for a variety of voice, video, or data equipment, everything from environmental monitoring equipment to traffic cameras.
+
+
+	
+
+
+	Fixed device Agility White Space Radio currently being tested in Wilmington, North Carolina
+
+
+	
+	
+	Deployment of the KTS device will initially be limited to the Wilmington, North Carolina area, with nationwide rollout expected later in 2012.
+	
+	Users of wireless audio systems have been aware of the potential threat created by these TV band devices since 2007, when the FCC began to investigate using the 'white spaces' vacated by analog television in the UHF TV and VHF TV bands to provide wireless broadband Internet access. On June 12, 2009, analog television broadcasts by major stations ceased by FCC mandate. Low power analog stations still exist as of February 2012.  After years of regulatory combat and exhaustive product testing, the future is here.
+	
+	How it affects consumers
+	
+	The goal of TV band devices (eventually there will be both fixed and portable models) is not to create problems for broadcasters, theatrical producers, sports franchises and wireless microphone users, but to expand reliable broadband Internet coverage to rural areas, improve networking in schools, corporations, and homes, and encourage content-sharing. Pundits have described WSDs with their ability to penetrate obstacles and reach longer distances than higher-frequency Wi-Fi as a "game-changer" that will positively affect all of us.
+	
+	FCC Chair Julius Genachowski: "With today's approval of the first TV white spaces database and device, we are taking an important step towards enabling a new wave of wireless innovation. Unleashing white spaces spectrum has the potential to exceed even the many billions of dollars in economic benefit from Wi-Fi, the last significant release of unlicensed spectrum, and drive private investment and job creation."
+	
+	How it affects wireless audio users
+	
+	A TV Bands Device can only transmit on TV channels that are unassigned to a TV station or other licensed user. The device receives this information from one of 10 FCC-approved TV Bands Device Databases. The first database, operated by Spectrum Bridge Inc., went live on January 26, 2012.
+
+
+	As these new devices begin sharing the same TV channels used by wireless microphones, personal monitors, and production intercoms, interference can occur. Fortunately, the FCC has set aside a minimum of two TV channels in each metropolitan market that are available exclusively for wireless audio systems. These are off-limits to TV Bands Devices.
+	
+	Since three to seventeen wireless microphones (depending on model) can operate in one TV channel, the reserved TV channels will accommodate the needs of most wireless users. Users of larger numbers of wireless systems may register in the TV Bands Device Database to protect additional TV channels during a specific event. Unlicensed wireless microphone users must request database protection in advance from the FCC, while licensed users may register in the database directly.
+	
+	Here is what wireless users need to do to insure continued trouble-free operation of their gear:
+	
+	1. Take inventory
+	Make a list of all of your wireless mics, in-ear monitors, and intercoms that operate in the VHF or UHF TV bands (174-216 MHz and 470-698 MHz, respectively.) You're looking for the "3 M's" (Make, Model, and MHz). Note the exact frequency that each product is actually set to as well as the frequency range that it is capable of transmitting on. This is important because it tells you what your options are if changing frequencies becomes advantageous.
+	
+	2. Do some research
+	Find out which TV channels are exclusively available for wireless mics at your venue's location. You can check this online, using Keybridge's online Channel Search tool.
+	
+	3. Compare
+	Licensed wireless mic users may operate on any TV channel that isn't assigned to a TV station or licensed two-way radio user. Unlicensed wireless mic users should use frequencies in the TV channels that are reserved for wireless audio systems at your location.
+	
+	4. Start planning
+	If you need more wireless systems than will fit into the reserved TV channels from time to time, you'll want to register in the database at least 30 days before the event to protect them from interference. Now is the time to think about that music festival, convention, or Holiday concert. It's a good idea to start planning for these special events sooner rather than later. If you'll be supplementing your facility's own wireless systems with additional rented gear, find out in advance which TV channels you want to use. Ask your preferred rental providers if they have those frequency ranges in stock.  Planning now will help avoid nasty surprises before or during an important event.
+

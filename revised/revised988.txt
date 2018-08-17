@@ -1,0 +1,28 @@
+Title: Which microphone to record interviews?
+Id: 988
+Legacy Id: 1017
+
+Question:
+What portable audio device and microphone would you recommend for recording interviews with people in various environments, indoors and outdoors? Most of the subjects will be stationary. (The audio tracks will be placed over DV footage for low budget documentaries that I am developing right now.)
+
+
+Here's my idea: Use a mini-disc recorder with a high quality mic to record the interviews and then transfer from the MD to a CD and use that to download any audio that I would need.
+
+
+Do you foresee any problems with this and if not could you recommend any products to use for this specific purpose? wireless lavalier or hand held? MD or portable DAT etc.?
+
+
+Basically, high quality with the least expense possible.
+
+
+Your assistance would be greatly appreciated.
+
+Thanks...
+
+
+Answer:
+
+	For interviews, we recommend the VP64A or SM63.
+	
+	Shure does not make any recording devices. To plug a VP64 or SM63 into a consumer type MD recorder with an 1/8 connector, we recommend using an interface box such as made by Beachtek or Saramonic.
+

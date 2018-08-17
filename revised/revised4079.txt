@@ -1,0 +1,13 @@
+Title: SM57 rotating head or grill or cap
+Id: 4079
+Legacy Id: 4652
+
+Question:
+Why does the top of my SM57 rotate?
+
+
+Answer:
+
+	The rotating grill / head is simply the industrial design used on the SM57 since its introduction. The same design is used on the Shure 545.
+	
+

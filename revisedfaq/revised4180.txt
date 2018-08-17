@@ -1,0 +1,16 @@
+Title: SLX1-G5 Modulation and Emission Designator
+Id: 4180
+Legacy Id: 5131
+
+Question:
+Please provide the modulation and emission designator for SLX1-G5.
+
+
+Answer:
+
+	For the SLX1 transmitter on the G5 band only:
+	Emission designator:130KF3E
+	Modulation type:FM
+	FCC ID:DD4SLX1
+	
+

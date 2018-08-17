@@ -1,0 +1,12 @@
+Title: Audio Frequency Chart
+Id: 1601
+Legacy Id: 1657
+
+Question:
+I have been a long time user of SM58 and other Shure mics. My question is more general in nature. Do you know where I might find a listing or chart that shows different instruments, different drums, male voice and female voice and the normal frequency ranges for each? I am doing some recording and this type of chart would be really handy. Thanks for any help you can give me.
+
+
+Answer:
+
+	See Section 2 of the following book: Microphone Techniques for Music - Studio Recording
+

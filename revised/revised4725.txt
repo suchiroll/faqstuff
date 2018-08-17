@@ -1,0 +1,18 @@
+Title: MAC address on an QLX-D
+Id: 4725
+Legacy Id: 5896
+
+Question:
+How do I find the MAC address of a QLX-D microphone receiver?
+
+
+
+Answer:
+
+	The MAC address can be viewed by using Shure Wireless Work Bench (WWB) software. The followingsteps assume WWB isinstalled on the computer.
+	
+	1.Connect the QLX-D receiver to your computer with a standard Ethernet cable. The receiver should automatically appear in the Inventory window.
+	2.Right-click on the desired receiver and select Properties
+	3.Click the arrow next to the word Settings to reveal more options.
+	4.Click the Network tab. The MAC address will be displayed in the lower right-hand corner.
+

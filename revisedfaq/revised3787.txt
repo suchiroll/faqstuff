@@ -1,0 +1,12 @@
+Title: SLX Transmitter - Maximum Battery Voltage
+Id: 3787
+Legacy Id: 4025
+
+Question:
+I have 14 of the SLX1 body pack transmitters. I know that good AA cells will often times have a voltage of 1.65 each for a total of 3.3 volts when they are fresh. The lithium ion rechargeable cells produces 3.6 - volts and on a full charge, could be up close to 3.8. These will hold a charge probably 5x longer than any alkaline or NiMH. My question is 3.6 - 3.8 volts too much for the SLX1 body packs?
+
+
+Answer:
+
+	We tested the SLX 1 up to 4 volts DC.All features worked properly. We expect no problems when powered from two AA cells in series that produce 3.6 to 3.8 Vdc. Also, iPower US manufacturers a rechargeable lithium battery that outputs 1.5 volts.
+

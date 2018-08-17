@@ -1,0 +1,12 @@
+Title: Replacement stylus for 800E cartridge
+Id: 980
+Legacy Id: 1009
+
+Question:
+What isthe replacement stylus for the 800E Cartridge?
+
+
+Answer:
+
+	The replacement stylus is N99E.
+

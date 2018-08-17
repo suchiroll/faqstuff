@@ -1,0 +1,15 @@
+Title: Best mic to record counseling sessions w/ camcorder?
+Id: 242
+Legacy Id: 248
+
+Question:
+I work at a university counseling center and we need to record counseling sessions for training/supervision purposes.  We're currently using camcorders to video the sessions, but we often have trouble hearing the sound.  We share 3 camcorders among all the staff members, so the system would need to be relatively portable & easy to set up.  We also have a situation with two people sitting across from each other, so I'm thinking omnidirectional/condenser would be best.  Of course, we're also on a budget.  What do you suggest that we purchase? Any help would be greatly appreciated.
+
+Answer:
+
+	For microphones, you should look at our Microflex line of microphones.
+	
+	For mixers, youll probably want to look at the SCM268, the SCM410, or the SCM810.
+	
+	You should also check out our technical publications on Guide to Audio Systems for Meeting Facilities and Guide to Audio Systems for Video Production.
+

@@ -1,0 +1,40 @@
+Title: Replacement Styli for M91ED - playing 78 RPMs
+Id: 1642
+Legacy Id: 1699
+
+Question:
+Recently, a repairman replaced my stylus and I am not sure he put in the correct or best one. I am going to digitze my record collection and put it on CDs.
+
+
+My questions are:
+
+1 I have a Shure M91E cartridge in a United Audio 1009 turntable/changer. (the changer is not used). They put in an N44-7 stylus. Is this OK?
+
+
+2. What is the best or proper one to use.?
+
+
+3. I need to play some old 78 rpm records. Is is ok to play them with this setup.?
+
+
+4. I also have a Bogen model B-60 turntable with an Empire #808 cartridge. Should I use this for the 78's?
+
+
+What is the difference , if any, between the N91ED stylus and N91ED-T2 ?
+
+
+Answer:
+
+	They put in an N44-7 stylus. Is this OK?
+	* We suggest the N91ED stylus instead.
+	
+	What is the best or proper one to use?
+	* The N91ED.
+	
+	I need to play some old 78 rpm records. Is is ok to play them with this setup?
+	* Yes, but the stylus tip will ride very low in the groove. The proper stylus tip for a 78 RPM record is about 10 times bigger than an LP stylus tip. Shure does make a special 78 RPM cartridge called the M78S. If you have many 78 RPM records, you should consider the M78S. Also, the N78S stylus will fit the M91 body.
+	
+	I also have a Bogen model B-60 turntable with an Empire #808 cartridge. Should I use this for the 78's?
+	* Shure did not make either product and therefore we cannot comment. Sorry.
+	
+	At 08/30/2001 01:10 PM we wrote - Shure never offered an N91ED-T2. Where did you see this model number?

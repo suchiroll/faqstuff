@@ -1,0 +1,52 @@
+Title: Removing DC voltage from UA844 antenna jack
+Id: 2366
+Legacy Id: 2457
+
+Question:
+I'm going to use the UA220 antenna splitter to feed two UA844 antenna splitters. Is there anything that I need to worry about?
+
+
+Answer:
+
+	NOTE: This modification is no longer needed when using the UA221. The UA221 includes an internal capacitor to block the DC voltage traveling from one receiver to the other.
+
+	When the antenna inputs for the UA844 are combined using a passive splitter such as the UA220, the DC voltage on the antenna inputs must be disabled for all UA844s, except one. That is, if the UA220 is being used, the voltage must be disabled on one of the UA844s. If a 4-way passive combiner is being used, the DC voltage must be disabled on three of the UA844s. Follow these instructions to disable the DC voltage.
+
+	
+		
+			
+				
+					
+						Remove the 3 screws in the picture.
+				
+			
+		
+		
+			
+				
+					
+						Remove the 4 screws in the picture.
+				
+			
+		
+		
+			
+				
+					
+						With the 7 screws removed, the top cover will slide directly up and off of the rest of the chassis.
+				
+			
+		
+		
+			
+				
+					
+						There is one component at each antenna input that will need to be removed. Since there are two antenna inputs, a total of two components will be removed from the PC board. This component looks like it has a purple band around it. The picture to the right shows the location of each of these components. The rest of the pictures are close up photos of these two locations. Remove these two components using a soldering iron. It may be useful to grab the component with a pair of tweezers.
+				
+				
+					 
+			
+		
+	
+
+

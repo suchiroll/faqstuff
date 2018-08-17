@@ -1,0 +1,12 @@
+Title: Correct tracking force for V15 V-B
+Id: 2776
+Legacy Id: 2884
+
+Question:
+What is the correct tracking force for the V15V-B?
+
+
+Answer:
+
+	1.0 to 1.25 grams.
+

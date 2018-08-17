@@ -1,0 +1,22 @@
+Title: PGX System - Losing Sync?
+Id: 3123
+Legacy Id: 3257
+
+Question:
+I was using my PGX system at a gig, and I start to hear interference. So I pressed the "CHANNELl" button on the PGX4 receiver to activate the SCAN feature. The PGX4 quickly found a new open frequency, but the PGX2 transmitter did not change to the new frequency. What happened? Did the SYNC between the PGX2 and PGX4 fail?
+
+
+Answer:
+
+	The SYNC did not fail, because the SYNC does not work automatically. SYNC is a one way communication link from the PGX4 receiver to the PGX2 transmitter, and only lasts several seconds. SYNC is not a continual communication link from the receiver to the transmitter.
+	
+	After the PGX4 performed a SCAN and found a new open frequency, the PGX2 must be re-set to the new open frequency. This requires you to open the PGX2 battery compartment, aim the PGX2 IR port at the PGX4 front panel, press the SYNC button on the PGX4 front panel, and make certain that the PGX4 READY light illumninates. Only then is the PGX2 reset to the new open frequency.
+	
+	There are several factors that can interfere with the SYNC action:
+	1) Holding the PGX2 too close or too far from the PGX4. Fifteen centimeters (eight inches) is the optimal distance.
+	2) Bright ambient light from being outdoors, or from strong stage lighting. If this occurs, shield the PGX system from the bright light when performing the SYNC operation.
+	
+	If SYNC fails after multiple attempts, please contact Shure Service at 800-516-2525 if you are a customer in the United States, or the Shure agent in your country.
+	
+	
+

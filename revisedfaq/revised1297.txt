@@ -1,0 +1,38 @@
+Title: Is it possible to increase the receiver volume in a SM12A Headset?
+Id: 1297
+Legacy Id: 1347
+
+Question:
+I have a SM12A headset which I use for field reporting via a mobile phone field unit for a radio station. The receiver level on the headset is not quite loud enough. It is also low when used on the studio mixing desk.
+
+
+I notice from the spec sheet that the phone plug on the headset contains a 200:2000 ohm resistor. Is there any modification that can be made to increase the volume of the receiver ie: modify the resistance?
+
+
+The studio headsets all seem to have a resistance of 400 ohms and seem to have sufficient level when used with the field telephone unit.
+
+
+Naturally I prefer to use my SM12A!
+
+
+Any clues?
+
+
+
+---- 07/10/2001 06:51 AM ----------------------------------------------
+
+Thnks for your prompt response to my query. Will the increase in level be substantial if i bypass the transformer? Do you have a recommended method of bypassing the transformer?
+
+
+Answer:
+
+	At 07/05/2001 11:39 AM we wrote -
+	
+	It is a transformer in the in the phone plug, not a resistor. But if you bypass the transformer, you will have just a 200 ohm impedance on the receiver cartridge. This will increase the volume level from your source.
+	
+	At 07/10/2001 08:17 AM we wrote - The level increase will depend upon the impedance of the circuit driving the receiver.
+	
+	Simply cut off the transformer/phone plug assembly and replace it with just a phone plug.
+	
+	BUT, be very careful with the signal level driving the receiver. Too much signal will damage the driver of the receiver. Listen very carefully for any distortion as this means the receiver is reaching its power handling limit.
+

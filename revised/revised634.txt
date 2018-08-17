@@ -1,0 +1,27 @@
+Title: M75CS cartridge and/or stylus replacement
+Id: 634
+Legacy Id: 651
+
+Question:
+The M75 is 1/4" wide with a front clip mount. What cartridges fit this mount? Can I still get styli for the M75? I also want the wide groove stylus for 78 rpm records.
+
+Answer:
+
+	Shure no longer offers cartridge bodies that fit into a clip mount as that mounting method is obsolete.
+	
+	The two mounting methods now in use are:
+	
+	1) Standard Mount - by far the most common
+	Two screws, half an inch apart, thread through the cartridge body to secure it to the headshell, which then plugs into the tone arm.
+	
+	2) P-mount - Primarily on Technics brand turntables
+	The four prongs at the back of the cartridge plug directly into the tone arm. A set screw goes through the side of the cartridge at the back, to hold it in place on the tone arm.
+	
+	The N75B Type 2 stylus is available from Shure Parts, phone 800-516-2525. We believe it will fit the M75CS body, however we no longer have M75CS body in our hi-fi archives and therefore cannot be 100% certain.
+	
+	The least expensive way to purchase a new cartridge and a 78 RPM stylus is:
+	M70BX cartridge
+	N78S replacement stylus
+	
+	However, the M70BX is a Standard Mount design and may not fit your front clip mount design.
+

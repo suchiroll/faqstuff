@@ -1,0 +1,71 @@
+Title: Networking and UHF-R
+Id: 3213
+Legacy Id: 3361
+
+Question:
+How do I network my UHF-R receivers?
+
+
+
+Answer:
+
+	Networking is the process of connecting multiple UR4 receivers together via an Ethernet connection. This allows for the sharing of information regarding frequency selection and synthesis, as well as increased efficiency and simplicity of multi-system set-ups. In conjunction with a PC running the Shure Wireless Workbench software, networking facilitates the control and set-up of multiple UHF-R systems, especially in larger or more complex installations.
+	
+	This document will help clarify some of the terminology used when discussing Ethernet networks, and outline the set-up process for the typical UHF-R user.
+
+	Devices
+
+	There are two primary devices necessary to utilize the networking feature of UHF-R in a simple set-up: the UR4 receiver (UR4S or UR4D), and an Ethernet router (in some instances, an Ethernet switch can be added to extend the network). A third device, a PC, can also be added for additional control and monitoring with Wireless Workbench software.
+	
+	The rear panel of the UR4 provides an Ethernet connection on a single RJ45 plug. An RJ45 plug is similar to a telephone plug connector, but slightly larger. The UR4 is shipped with an Ethernet cable with RJ45 connectors on both ends, one standard and one ruggedized (with a metal housing similar to an XLR connector). The cable used is Category 5 (Cat 5) cable. It contains four twisted pairs of conductors, typically in a foil shield and is commonly available as it is also used in computer networks. Cat 5e or Cat 6 cable, can also be used as they utilize the same wiring scheme.
+	
+	An Ethernet router is a device that delivers information to and from the proper destinations. It can be used to connect individual devices in a network or to connect multiple networks themselves. Routers come in many physical varieties based on how many ports they provide, whether they are wired or wireless, and whether they provide DHCP service (Dynamic IP addressing). Like the UR4s, routers provide their Ethernet ports on RJ45 jacks and some models can be mounted in standard 19 equipment racks.
+	
+	An Ethernet switch on the other hand, does not provide any addressing functions and is solely used in conjunction with routers to extend the size of the network. Switches can be utilized when the router being used does not provide enough ports for every UR4 receiver needed on the network. A switch, which itself can provide 4 or more ports, is connected to one of the ports on an Ethernet router. The additional UR4s would then be connected to the switch. It is important to note that switches do not provide DHCP service and in most applications should not be used in place of routers.
+	
+	The third device that can be introduced into a UHF-R network set-up is a PC or laptop computer (Windows only). It is not absolutely necessary, but can add the benefit of much faster set-up time using Wireless Workbench software for frequency coordination, as well as monitoring and control. A PC can monitor and control all receivers on the network through the router. It should not however, be connected to the internet port of a router.
+
+	IP Addresses and DHCP
+
+	When building an Ethernet network, every device on the network needs to have an IP (internet protocol) address assigned to it. The IP address identifies the device and assures that messages arrive at the proper destination. The IP address is associated with a subnet mask, which is a series of dotted decimal numbers that defines which part of the IP address identifies the network and which part identifies the device.
+	
+	DHCP (Dynamic Host Configuration Protocol) is a method by which a router can automatically assign a unique IP address to each device in the network. Note that not all routers provide DHCP service, and those that do can have the DHCP feature turned off through software. Using DHCP is essentially the faster and less technically involved method of assigning IP addresses. From the factory, all UR4 receivers have DHCP enabled. If necessary for the installation (quite often when using third party control systems), the option of assigning IP addresses manually is available through the UR4 front panel interface.
+	
+	The IP address should not be confused with the Device ID, which has no effect on network functions. The Device ID is only used to identify hardware devices controlled through Shure software, such as UR4s, P4800s, DFR22s, etc.
+
+	PC Connection to One UR4 Receiver
+
+	It is also possible to connect the UR4 directly to the computer using an Ethernet cable; however, this does require following a specific set-up sequence. First, make sure the computer is on and running in DHCP mode. Then, physically connect the UR4 to the computer with the supplied (or equivalent) Ethernet cable. Then, turn the receiver on. If the receiver detects a network connection but does not receive an address, it will assign its own IP address based on its MAC address. The MAC address is a pre-determined hardware address assigned at the factory. Once the IP address is assigned, Wireless Workbench can be opened and used for all normal functions. The network icon on the front panel display of the UR4 will become visible when using Wireless Workbench in Live Mode.
+
+	Set-Up of 2 Receivers without a Router
+
+	Two UHF-R receivers can be directly interfaced via a single standard Ethernet cable connected to the Ethernet port of each receiver. A router or switch is not required. If the receivers are both in the same frequency band, they will become a self-aware network and the group scan function will be able to program both receivers automatically. If the receivers are in different frequency bands, the scan function will have to be conducted individually on each band. A computer can then be connected to either receiver via the USB connector. Opening Wireless Workbench software on the computer will allow the computer to see both receivers.
+	
+	Since there is no DHCP server involved in this type of set-up, each UHF-R receiver will default to an IP address based on its MAC address. The process is complete when the network icons appear on the UHF-R displays. It may take up to two or three minutes for this default IP setting to occur. When using a DCHP server-equipped router, the IP addressing will normally take place in less than one minute. Otherwise, the results are the same.
+
+	Set-Up of 2 or More UR4 Receivers with Router
+
+	All receivers are connected via Ethernet cable to the router (the internet port on the router should not be used). In DHCP mode, the router assigns a unique IP address to each device enabling sharing of information among receivers. The network icon on the LCD panel of the UR4 will indicate when the receiver has been identified and addressed by the router. This is all that is required to use the frequency scan mode built into UHF-R. If all receivers are on the same frequency band, then one receiver can initiate a group frequency scan, informing the user of the best group choice for the receivers attached to the network. Pressing the flashing ENTER button will set all networked receivers on the same band to the appropriate frequencies. A separate scan must be done for any networked receivers on different frequency bands.
+	
+	A PC can be connected to the network via Ethernet. To connect via Ethernet, an Ethernet cable must be connected between the PCs Ethernet port (RJ45) and an open port on the router. If IP addressing is to be done automatically (in DHCP mode), the computer must be instructed to receive IP addressing automatically. This can be done through the control panel of Windows software, although most computers will by default have DHCP enabled.
+
+	
+
+	
+
+	
+
+	Extended Network with Router and Switches
+
+	In instances when the available Ethernet router does not provide enough ports to accommodate all receivers, an Ethernet switch can be used. The router would still act as the main distribution point for all communication among devices in the network; the switch acts as a slave unit to further deliver messages through the network. Switches are physically similar to routers, and provide Ethernet connections on RJ45 jacks as well. They can have four or more ports available and some can also be rack mounted. They do not provide DHCP. The switch would be connected as a receiver would be  to the ports on a router. Switches have different requirements as to the type of cable needed to connect to other network devices, i.e. straight-through vs. crossover cable. Consult the manufacturers manual to determine what is needed. Using additional routers to extend the network can present problems, and is not recommended.
+
+	
+
+	
+
+	
+
+	
+
+	
+

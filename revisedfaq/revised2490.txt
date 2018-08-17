@@ -1,0 +1,24 @@
+Title: Left signal bleeding into right, and vice versa
+Id: 2490
+Legacy Id: 2585
+
+Question:
+I use the PSM700 system with several players in "mix-mode" with a band mix on left channel, and a vocal mix on the right. Quite often players need to mute the vocals in their ears and bring them back at other times. Mix-Mode is perfect for this, but quite often the vocal mix cannot be muted, even when turning the "pan" control all the way to the band mix.
+
+
+I took several of the units and tested them with music being sent only to the left channel of the transmitter, and listening to the receiver, panned the control. I found that it wouldn't mute the music, even with the pan control dialed all the way to the right. The weird part is that the amount of bleed changed depending on how strong the signal is. As I moved around the room, it never disappeared, but the bleed became louder at spots where I would also have some interference.
+
+
+To make sure it wasn't just a problem with the pan control on the receivers, I used a 1/8" stereo to RCA cable and connected the left output only of the receiver into a powered speaker. Same problem shown.
+
+
+I conclude that the receiver is either bleeding a bit of the opposite channel into the other, or the transmitter is transmitting a bit of the opposite signal into the other. And it's dependant on how strong the RF signal is.
+
+
+
+Answer:
+
+	Stereo separation with a wireless PSM system (PSM400, PSM600, PSM700) is 35 dB. This applies to MixMode as well. The limitation exists because PSM uses multiplexed stereo to achieve the two channels. This means that the left channel will be heard 35 dB lower (or less) when listening to just the right channel.
+	
+	If you believe your PSM system does not meet this specification, contact Shure Service at 800-516-2525.
+

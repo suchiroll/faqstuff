@@ -1,0 +1,19 @@
+Title: BG5.1 - Battery vs Phantom power
+Id: 1756
+Legacy Id: 1815
+
+Question:
+Using a BG5.1, with a Mackie 1202 VLZ-pro. Volume is much lower with phantom power on Mackie turned on, which I need to power my guitar and other mic at present.
+
+
+Answer:
+
+	The performance of the BG5.1 should be nearly identical whether the mic is powered by the internal battery or external phantom.
+	
+	Please perform this experiment: Connect only the BG5.1 (with an internal battery) to the mixer. Turn off phantom. Set all mixer controls to their normal setting. Place the BG5.1 exactly 12 inches in front of a hi-fi loudspeaker. Set the hi-fi FM tuner between stations to get a steady white noise from the loudspeaker. Note the level indicated on the mixer output meter.
+	
+	Next, remove the battery from the mic and turn on the phantom power. Repeat the experiment exactly as indicated above. What level difference is indicated on the mixer output meter? The difference in level between battery power and phantom power should be no greater than 3 dB.
+	
+	If it is greater than 3 dB, contact Shure Service as the mic may have a problem.
+	
+	For repair or parts information please contact our Service Department at 800-516-2525.

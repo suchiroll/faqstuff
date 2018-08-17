@@ -1,0 +1,14 @@
+Title: Custom color wireless mic transmitter
+Id: 3534
+Legacy Id: 3738
+
+Question:
+Is there an inexpensive way to change the color of my hand-held wireless mic transmitter?
+
+
+Answer:
+
+	Custom colored handles can be ordered for Shure BLX and GLX-D handhelds.For a transmitter that is not BLX or GLX-D, here is a suggestion from a Shure customer.  Use heat-shrink plastic tubing.  It is available in different colors and shrinks down to about 50% of its original diameter.   To fit a Shure handheld transmitter, the tubing's pre-shrink diameter would be 2 inches to 3 inches. The tubing will shrink using the HOT setting of a hair dryer.  Apply the heat slowly, carefully monitoring how quickly the tubing shrinks.Obviously, the tubing will cover the entire surface of the transmitter, so make certain to provide openings in the tubing for any switch, LCD display, or LED on the microphone.  And make certain that the battery compartment is accessible!   Openings may be cut into the pre-shrunk tubing using small scissors or an X-Acto knife.Here is source for the tubing that is sold in 12 different colors:
+
+	http://cstechnicalsales.com/heatshrinktubing/2to1polyolefin.htm#B
+

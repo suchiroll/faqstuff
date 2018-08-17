@@ -1,0 +1,13 @@
+Title: Troubleshoot wireless system dropouts and operation problems
+Id: 2417
+Legacy Id: 2510
+
+Question:
+What causes sound to drop out while someone is using the microphone? This happens every so often at my church with my cordless microphone.
+
+
+
+Answer:
+
+	To understand about the operation of wireless microphones and the numerous possible causes of dropouts/other operational problems, please read Selection and Operation of Wireless Microphonesat: Educational Articles - Online booklets and bulletins
+

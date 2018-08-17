@@ -1,0 +1,21 @@
+Title: Recommend wireless for guitar
+Id: 940
+Legacy Id: 968
+
+Question:
+Please recommend the best wireless digital system. I play a Parker Classic and use a MESA Heartbreaker Amp.
+
+Answer:
+
+	Shure offers the GLXD system, ULXD system and PGXD system.
+	
+	Before you make any buying decision, we suggest you read the following educational pieces:
+	
+	Introduction to Wireless Microphone Systems
+	http://www.shure.com/publications/us_pro_intro_to_wireless_ea.pdf
+	
+	Selection and Operation of Wireless Microphone Systems
+	http://www.shure.com/publications/selection_and_operation_of_wireless_microphone_systems_english.pdf
+	
+	Finally, do not buy any wireless system until you have tried it with your guitar and your amplifier. Wireless transmission canalter the sound of your set-up, so audition any wireless system you are considering.
+

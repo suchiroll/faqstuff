@@ -1,0 +1,14 @@
+Title: Phanton Power - Why is it called "phantom"?
+Id: 2792
+Legacy Id: 2901
+
+Question:
+How did Phanton Power get its name?
+
+
+Answer:
+
+	Because there are no additional wires to provide the phantom voltage. The same cable is used to carry the mic signal to the mixer, and to carry the phantom voltage from the mixer to the mic. One cable is used as a two-way street. Early condenser mic designs used additional wires to deliver the operational power. Thus the method to deliver phantom voltage is unseen, i.e., a phantom method.
+	
+	Actually, the correct technical term is simplex power; phantom power is an early recording studio nickname for this type of voltage delivery system, and the nickname stuck.
+

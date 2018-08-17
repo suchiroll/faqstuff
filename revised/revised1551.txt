@@ -1,0 +1,15 @@
+Title: What is the difference between the UHF system and the UC system?
+Id: 1551
+Legacy Id: 1605
+
+Question:
+Do you have any info on why one is better than the other?
+
+
+
+Answer:
+
+	At 08/16/2001 08:00 AM we wrote - A comparison of features can be found at: http://www.shure.com/selectionguides/sel-wirelessfeatures.html
+	
+	After you have reviewed this, please contact with any additional questions.
+

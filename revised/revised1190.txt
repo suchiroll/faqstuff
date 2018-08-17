@@ -1,0 +1,36 @@
+Title: Throat microphones
+Id: 1190
+Legacy Id: 1234
+
+Question:
+I would like pricing and availability on a few items:
+
+
+First, unit pricing on a complete throat mic kit with a non-occluding earmold speaker kit and large PTT box, terminating in a threaded plug for a MTS2000 adaptor.
+
+
+Second pricing on a MTS2000 adaptor. :O)
+
+
+Third, pricing on just a replacement throat mic and cable to the ptt.
+
+
+Lastly, the price on the replacement earmold kit to the ptt box. I am looking at purchasing around ten units. The background on this request is that I am the head of the electronic / technical surveillance unit for a large law enforcement agency here in Tennessee. I also work fill-in at a friends motorola authorized radio repair shop. Our department has formed a jail swat (SORT) team, but they have had a lot of trouble securing funding, because they aren't flashy like the swat team. Since they're my friends, I purchased them a box of broken MTS2000 and stx821 radios, and repaired them as parts became available. Then, I purchased a quantity of DTC ptt boxes off of eBay. There were other brands available, but we use dtc surveillance products and i have had some success with the dtc points of contact for that gear (support is important to me.) Anyways, now I am trying to purchase throat mics and tube earphones (and build up connector cables) for the units. Since I have purchased a couple extra boxes than they need, I am going to sell them to pay for the mics/phones. (I'm not even charging bench time. This stuff has come out of their personal pockets.) They really do need throat mics or maybe bone conduction gear because of all of the use of tear gas in the jail operations. And, since I have talked to several other vendors, who have expressed concerns over homebrewing gear, I thought I would mention that before I started building them radios, they were using shout power and four Maxon 49 Mhz radios.
+
+
+Answer:
+
+	Shure does not make any throat microphones or earmold speaker kits. We recommend you contact the following companies:
+	
+	Genesis Product Group, Ltd
+	San Antonio, TX
+	800-847-4745
+	
+	Earmark, Inc.
+	Hamden, CT
+	888-EARMARK
+	
+	TEA Television Equipment Associates
+	Brewster, NY
+	310-457-7401
+

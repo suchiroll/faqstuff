@@ -1,0 +1,18 @@
+Title: Hissing Noise when using Shure earbuds with iPod
+Id: 3593
+Legacy Id: 3799
+
+Question:
+I have the SE530 earphones, and when it is used with the iPod Classic (160GB version) there is a low hissing noise (like white noise) when the music is not playing or when there is a quiet passage in the music. This also happens with the iPod Touch (the latest one), my speaker amplifier's headphone out (the noise is even louder through this output), and my dedicated headphone amplifier.
+
+I can also hear the iPod Classic's hard drive spinning up (a low whirring sound) through the earphones when skipping tracks.
+
+Is this normal? Is there anything I can do to eliminate the noise?
+
+
+Answer:
+
+	This is the downside to having earbuds with high sensitivity and high ambient noise reduction:  you hear the noise of amplifiers that is normally masked with less expensive earphones, and earphones that do not seal the ear canals effectively.
+	
+	The SE530 are passive devices - there is nothing in the SE530 that can create hiss.  But if hiss is present in the device driving the SE530, the hiss will be heard.
+	 

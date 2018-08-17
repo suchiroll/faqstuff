@@ -1,0 +1,22 @@
+Title: OEM Microphone Cross Reference
+Id: 4401
+Legacy Id: 5497
+
+Question:
+Does Shure have a cross reference between OEM microphone models and standard Shure microphone models?
+
+
+Answer:
+
+	The attached PDF provides a method to cross reference between standard Shure microphones and over 300 models of Shure OEM microphones.
+	
+	Step 1) Locate the OEM model number. Examples are: CB3C, CM1C, CR1A, DY40E, EM8A, TH10.
+	
+	Step 2) Note the microphone cartridge model number used in the OEM microphone.
+	
+	Step 3) Find the same microphone cartridge number in the first section of the cross reference which lists the standard Shure microphones. The OEM model should be similar to the standard model because they share the same cartridge.
+	
+	Example: The OEM model CB10B employed the model R10 cartridge. The R10 cartridge was also used in the standard Shure models 104A and 104B.
+	
+	* The cross reference sheet was printed circa 1972.
+

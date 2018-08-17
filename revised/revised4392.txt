@@ -1,0 +1,55 @@
+Title: Is a 40 channel MXW system feasible?
+Id: 4392
+Legacy Id: 5485
+
+Question:
+Is a 40 channel MXW system feasible? This question assumes that the RF spectrum used for the MXW is unused by other competing devices.
+
+
+Answer:
+
+	
+		Shure has run multiple 40 channel tests internally, and based on successful results we added 40-channel estimates to the APT scanner as of release firmware1.2.5.
+	
+		Shure has run 64-channel tests for the European band, and this quantity ran for weeks without dropping a channel.
+	
+		While testing around handheld transmitters in 40-channel systems at Shure, we observed a strong benefit to grouping the mics in the quadrant of their respective Access Point.
+
+
+	To elaborate:
+
+	
+		When a handheld mic is near an APT (10-30 feet) but the APTs mics are farther (40-60 feet), the handheld can disrupts the RF and can cause a far-mic to go searching for a new channel.
+	
+		The issue seems to be that the adjacent channel interference gets high enough in a near-far situation that the required Signal-to-Noise is not on one or two mic channels.
+	
+		In smaller systems, such as 24 mics, there are enought open channels for quick hopping; but in a 40 channel system there are not enough open channels to quickly find them without audible artifacts.
+
+
+	Recommendations:
+
+	
+		Maintain 8-feet separation between Access Points. This minimizes adjacent channel interference so all available channels can still be used by all mics.
+	
+		Clock/network everything together as recommended in the Set Up documents.
+	
+		Place Access Points on the wall/ceiling of a certain portion of the room - front-left, back-right etc. or N/S/E/W/Center etc.
+	
+		Regionally group microphones:
+		
+			
+				Group A - northwest 8 so that this group of 8 is labeled and physically placed in the same quadrant of the room as its matching Access Point
+			
+				Group B- southwest 8
+			
+				Group C- northeast 8
+			
+				And so forth. This is not going to be possible for all installations, but it is required if 36 boundary mics and 4 handhelds are required. If a customer cant or wont do this, consider another solution. If the roaming mics will only get used on stage or by the whiteboard, this is not really a problem - its when presenters will roam anywhere in a high-channel count room. The reason this grouping solution works is that even when the roaming mic is brought close to APT1, it is not much stronger than the other mics of APT1 because theyve all been placed nearby (10-30 feet). When mics are distributed randomly though, some of APT1s mics would be far away (40-60 ft), and it is these mics that are in danger of having the desired/undesired ratio get too low for good reception.
+		
+	
+	
+		Use medium power: Walk-around tests, as well as scans, showed that performance was optimized at medium power rather than high power. When a roaming mic came close to another APT while transmitting at high power, it caused more disruptive interference to the far mics than when the system was at medium power. Plus, the regional grouping gets each access point relatively close to the mics it is receiving.
+
+
+	Written by MXW Product Manager - Doug Daube; December 2013
+

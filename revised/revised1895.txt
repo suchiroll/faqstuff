@@ -1,0 +1,31 @@
+Title: Mic for recording rap vocals
+Id: 1895
+Legacy Id: 1956
+
+Question:
+Couple of us are recording rap vocals (we already have beats) on my computer. We do this in my basement which is kinda dead. So, I was wondering which mic should we get?
+
+1) I have been told that a dynamic one would be better because it would not pick up rooms acoustics like a condenser would. I have heard Beta 58 mics are good.
+
+2) Which mic would you recommend?
+
+3) Also, what else would you recommend in order to make a mic work with a sound card?
+
+4) Any sound cards that you recommend?
+
+
+
+Answer:
+
+	1) False. The type of mic element has no effect.
+	
+	2) The Beta 58 or SM58. Either should work well.
+	
+	3) See below for this answer.
+	
+	4) No.
+	
+	If your question is about connecting a professional microphone into a computer sound card, please read the following.
+	
+	Microphone connected to a computer sound card
+

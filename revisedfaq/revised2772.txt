@@ -1,0 +1,12 @@
+Title: VNHR-P Stylus
+Id: 2772
+Legacy Id: 2880
+
+Question:
+I have a V15 HR-P cartridge (Technics) that needs a replacement stylus. Looks like the replacment listed as VNHR-P was discontinued. If I can't get a stylus replacement, what cartridge replacement can I use? What type of cartridge is this?
+
+
+Answer:
+
+	The M92E is a replacement cartridge: moving magnet, P-mount.
+

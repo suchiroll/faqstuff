@@ -1,0 +1,12 @@
+Title: Does DIS-CCU require Feature License for voting?
+Id: 4845
+Legacy Id: 6031
+
+Question:
+Is a Feature License required to enable the voting feature on the DIS-CCU central control unit?
+
+
+Answer:
+
+	Basic Voting (votes can be cast and results viewed until the next vote, but not recorded or saved) is a standard feature with the DIS-CCU, but only when used with DCS 6000-series conference units that have voting capability.The DCS 6000 mode on the central control unit is only enabled when the FL6000 Feature License is installed.
+

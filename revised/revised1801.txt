@@ -1,0 +1,12 @@
+Title: Tracking force for V15 V MR
+Id: 1801
+Legacy Id: 1861
+
+Question:
+Please send us the data of phono cartridge V15 V MR. What is the exact optimal pressure for this?
+
+
+Answer:
+
+	0.75 to 1.25 grams.
+

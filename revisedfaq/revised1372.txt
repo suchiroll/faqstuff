@@ -1,0 +1,12 @@
+Title: SC14/93 and classical guitar
+Id: 1372
+Legacy Id: 1424
+
+Question:
+I want to know if the transmiter with this system will fit inside the soundhole of a classical guitar. I am not concerned with mounting problems.
+
+
+Answer:
+
+	Yes, it is small enough to pass through the soundhole.
+

@@ -1,0 +1,35 @@
+Title: PG Wireless Discontinuation
+Id: 4299
+Legacy Id: 5368
+
+Question:
+When was the PG wireless series discontinued?
+
+
+Answer:
+
+	The PG series of wireless systems was discontinued May 2013; the PG wireless series was introduced in 2006. Recommended upgradeis the BLX wireless series.
+	
+	Note: A BLX component cannot be used as a replacement for a PG component.
+	
+	The final U.S. retail prices for PGwere:
+	PG1 body pack transmitter: $119
+	PG2/PG58 handheld transmitter: $168
+	PG185TQG lavalier microphone: $49
+	PG30TQG headworn microphone: $49
+	PG4 receiver: $206(external power supply was PS21 or PS20)
+	PG88 dual receiver: $351 (external power supply was PS21 or PS20)
+	
+	The U.S. frequency bands were:
+	H7: 536 to 548 MHz
+	K7: 590 to602 MHz
+	M7:662 to 674 MHz
+	
+	A PG system had 10 available channels.
+	Theoretical maximum number of compatible channels within one frequency band: 4
+	Theoretical maximum number of compatible channels using all three frequency bands: 9
+	
+	If you own a PG system, and need a replacement transmitter or receiver, the replacement unit must be a PG product and it must have the same frequency band as the component being replaced.
+	
+	NOTE: Shure Service can typically repair a product for 5 to 7 years afterthe product is discontinued. The exact time period depends upon the remaining inventory of repair parts.
+

@@ -1,0 +1,16 @@
+Title: Global Scene Change for DFR11EQ
+Id: 2866
+Legacy Id: 2978
+
+Question:
+How can I make one DRS-10 switch control a global scene change on multiple DFR11EQ units?
+
+
+Answer:
+
+	1) In the DFR11EQ software, choose the Options menu and select Global Scene Mode.
+	
+	2) Interconnect all DFR11EQ units using the Shure Link ports on the rear panel.
+	
+	3) Connect the DRS-10 switch to any one of the linked DFR11EQ units.
+

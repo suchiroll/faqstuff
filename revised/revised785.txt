@@ -1,0 +1,18 @@
+Title: V15VxMR Compliance
+Id: 785
+Legacy Id: 807
+
+Question:
+What is the suitable tonearm effective mass range for this cartridge's compliance.
+
+What is the compliance?
+
+
+Answer:
+
+	What is the suitable tonearm effective mass range for this cartridges compliance?
+	Answer: 6 -12 grams, typical.
+	
+	What is the compliance?
+	Answer: 25 x 10-6 cm/dyne
+

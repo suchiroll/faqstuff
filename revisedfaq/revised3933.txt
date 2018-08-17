@@ -1,0 +1,15 @@
+Title: WBH54 as a wired mic
+Id: 3933
+Legacy Id: 4182
+
+Question:
+We have WBH54 Headsets for our wireless systems. I have a special event coming up and wondered if there was a way to use them as wired? Is there a cable that would change them to XLR?
+
+
+Answer:
+
+	This will require the addition of an inline preamp, modelRPM626. The output of the RPM626 is a male XLR connector.
+
+	The mixer must provide phantom power to operate the RPM626 inline preamp.
+	
+

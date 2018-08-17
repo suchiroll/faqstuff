@@ -1,0 +1,14 @@
+Title: Ceramic Phono Cartridge
+Id: 2733
+Legacy Id: 2839
+
+Question:
+A neighbor has an old SoundDesign receiver. The manual says that the phono player should have a ceramic cartridge that should have an output voltage greater than 300mV. Is that type of cartridge still available? Or, will some type of magnetic cartridge work? We have tried using a magnetic cartridge and there is virtually no volume.
+
+
+Answer:
+
+	Ceramic phono cartridges are still available from: http://garage-a-records.com
+	
+	Magnetic cartridges cannot be substituted: insufficient output level; improper tracking weight.
+

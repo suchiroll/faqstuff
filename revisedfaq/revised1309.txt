@@ -1,0 +1,14 @@
+Title: Will blowing into a microphone damage it?
+Id: 1309
+Legacy Id: 1359
+
+Question:
+I have been told by others that someone blowing into a mike to test volume, etc. will damage it. Is this true?
+
+
+Answer:
+
+	In most cases, blowing a stream of air into a microphone will not damage the microphone, but in the rare case, might damage the loudspeaker. We suggest saying Test 1,2,3 as a safer alternative.
+	
+	However, never test a ribbon microphone by blowing into it as the stream of air might stretch or rip the fragile ribbon. Ribbon microphones are now quite rare and mostly found in recording studios.
+

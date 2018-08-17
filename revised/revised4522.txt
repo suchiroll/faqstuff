@@ -1,0 +1,16 @@
+Title: Stylus for M70BX
+Id: 4522
+Legacy Id: 5640
+
+Question:
+I currently have M70BX cartridges. I know, it's been a while. But they still do the job so why fix it right? I'm looking for a replacement stylus. Are there any out there for this? Can I use the M35X stylus?
+
+
+Answer:
+
+	The stylus model is N70BX. Shure Parts might have a few remaining in inventory: call 800-516-2525.
+	
+	If not, there are many sources where you can purchase discontinued Shure styli.
+	
+	The N35X stylus does ft M70BX and will work OK.
+

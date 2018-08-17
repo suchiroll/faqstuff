@@ -1,0 +1,15 @@
+Title: FP32 external power supply
+Id: 1446
+Legacy Id: 1499
+
+Question:
+I have 2 FP32 mixers and would like to power them with an AC adapter. What power supply would I need?
+
+Answer:
+
+	Use anyRadio Shackac to dc adapter that supplies 12 volts and a minimum of 200 milliamps.Note that the FP32 center pin is negative and the outer connection is positive. This is the opposite of most DC connections.
+	
+	Bring the FP32 to Radio Shack to try out different power supplies. Listen to the mixer with headphones and if you hear any hum, the power supply is not clean enough. In that case, try a more expensive power supply which will likely have a cleaner DC output voltage, i.e., less ripple.
+	
+	If there is still excessive hum, insert a 100 ohm /1 Watt resistor in series with the positive lead from the power supply.
+

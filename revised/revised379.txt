@@ -1,0 +1,10 @@
+Title: Will new N44-7 stylus work with 1970's vintage M44-7 cartridge?
+Id: 379
+Legacy Id: 386
+
+Question:
+I have an old Shure M44-7 cartridge, bought in the mid 1970's. It has not been used for quite a while, and now I want to put it back to work and install a new stylus in it. The question is whether the current N44-7 needle is right for my cartridge and will fit in it.
+
+Answer:
+
+	The current N44-7X stylus will fit your M44-7 body. It is a safe assumption that the wiring inside the M44-7 body is still fine, so a new stylus will provide the equivalent of a brand new phono cartridge.

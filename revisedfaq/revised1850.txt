@@ -1,0 +1,10 @@
+Title: Can I use two E1's with one PSM600 receiver?
+Id: 1850
+Legacy Id: 1910
+
+Question:
+I would like to know if I could split the output signal to use two E1's with one PSM600 receiver for a duo acoustic setup?
+
+Answer:
+
+	Yes, it will work. But because the audio signal is now divided between two E1 units, neither will be as loud as when using a single E1 unit.

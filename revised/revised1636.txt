@@ -1,0 +1,15 @@
+Title: Will phantom power damage a wireless receiver?
+Id: 1636
+Legacy Id: 1693
+
+Question:
+I have been advised that Phantom power will damage the Mic Outputs on a U4D/U4S  UC4.
+
+
+Are the U4D/U4S (Both V1  V2, although I believe that V1  V2 only relates to how the U4D talks to a UA888) and UC4 RX protected from Phantom Power, or will Phantom Power damage some of the circuitry in the receiver?
+
+
+Answer:
+
+	All Shure wireless receivers are protected from damage by phantom power.
+

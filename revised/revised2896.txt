@@ -1,0 +1,14 @@
+Title: Connecting together multiple power supplies on Conference ONE
+Id: 2896
+Legacy Id: 3020
+
+Question:
+Can I daisy chain multiple power supplies together?
+
+
+Answer:
+
+	No. The system was designed for small to medium rental/install jobs.
+	
+	The issue is that while powering up the system one power supply (for a split second) will see the entire load of all the units. This load will likely cause the system to blow a fuse. Then the other supply will have the entire load, which will blow the other fuse.
+

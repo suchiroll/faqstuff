@@ -1,0 +1,499 @@
+Title: ULX vs ULX-D
+Id: 5352
+Legacy Id: 4471
+
+Question:
+ULX vs ULX-D
+
+Answer:
+
+	
+		
+			
+				Characteristic
+			
+				ULX
+			
+				ULXD
+		
+		
+			
+				System Info
+			
+				
+			
+				
+		
+		
+			
+				Radio Transmission Protocol
+			
+				Analog FM
+			
+				Digital - Proprietary PSK
+		
+		
+			
+				Occupied Bandwidth
+			
+				 100 kHz
+			
+				 200 kHz
+		
+		
+			
+				Diversity Reception
+			
+				Yes
+			
+				Yes
+		
+		
+			
+				Operating Range - Ideal Conditions
+			
+				300 feet
+			
+				100 ft (1 mW), 330 ft (10 and 20 mW)
+		
+		
+			
+				Audio Frequency Response
+			
+				Bodypack: 25 to 15,000 Hz, 2 dB;
+				Handheld: Dependent on Microphone Element
+			
+				Bodypack: 20 Hz  20 kHz (1 dB);
+				Handheld: Dependent on Microphone Element
+		
+		
+			
+				Audio Dynamic Range
+			
+				 100 dB, A-weighted
+			
+				 120 dB, A-weighted, typical [w/ System Gain @ +10]
+		
+		
+			
+				Audio Signal Latency
+			
+				~0 ms.
+			
+				2.9 ms.
+		
+		
+			
+				Audio Encryption
+			
+				Not Available
+			
+				AES-256, selectable on or off
+		
+		
+			
+				Transmitter Turn On Delay to Audio, with or without encryption
+			
+				~2.2 seconds
+			
+				 0.5 seconds
+		
+		
+			
+				Infrared Receiver to Transmitter Sync
+			
+				No
+			
+				Yes, user initiated
+		
+		
+			
+				Frequency Options
+			
+				
+			
+				
+		
+		
+			
+				US Frequency Bands
+			
+				G3 (TV 14-19, 470-506 MHz),
+				J1 (TV 28-33, 554-590 MHz),
+				M1 (TV 46-51, 662-698 MHz)
+			
+				G50 (TV 14-24, 470-534 MHz),
+				J50 (TV 31-41, 572-608, 614-636 MHz),
+				L50 (TV 41-51, 632-696 MHz)
+		
+		
+			
+				RF Tuning Step Size
+			
+				25 kHz
+			
+				25 kHz
+		
+		
+			
+				Compatible Mic Frequencies per 6 MHz TV Channel
+			
+				~6
+			
+				~14
+		
+		
+			
+				Maximum number of Channels per Wireless Band (with no TV)
+			
+				20 - 25 (band dependent)
+			
+				67
+		
+		
+			
+				Receiver Info
+			
+				
+			
+				
+		
+		
+			
+				Antenna Input Connectors
+			
+				BNC (2), 50 ohm
+			
+				BNC (2), 50 ohm
+		
+		
+			
+				Antenna DC Bias for active devices
+			
+				Yes, 12 Vdc , 150 mA maximum, per antenna port. Always on.
+			
+				12 - 13 V DC, 170 mA maximum, per antenna port. Enable/disable via front panel menu.
+		
+		
+			
+				RF Sensitivity
+			
+				-105 dBm (1.26 uV) for 12 dB SINAD
+			
+				-98 dBm (2.82 uV) at 10-5 BER
+		
+		
+			
+				Audio Output - 1/4
+			
+				Unbalanced 3 kohm
+			
+				Impedance Balanced, 100 ohm or Unbalanced, 50 ohm
+		
+		
+			
+				Audio Output - XLR
+			
+				Balanced, 22 ohms
+			
+				Balanced, 100 ohms
+		
+		
+			
+				MIC-LINE Switch
+			
+				20 dB Pad
+			
+				30 dB Pad
+		
+		
+			
+				1/4 - Full Scale Output:
+			
+				-2 dBV (into 3000 ohm load)
+			
+				+12 dBV
+		
+		
+			
+				XLR - Full Scale Output
+			
+				LINE setting = +3.9 dBV, MIC setting = -17 dBV
+			
+				LINE setting = +18 dBV, MIC setting = -12 dBV
+		
+		
+			
+				Phantom Power Protection on Audio Outputs
+			
+				Yes, both 1/4 and XLR
+			
+				Yes, both 1/4 and XLR
+		
+		
+			
+				Firmware Upgradable
+			
+				No
+			
+				Yes, via WWB6 software and Network Port
+		
+		
+			
+				Network Interface
+			
+				Not Available
+			
+				Single Port Ethernet 10/100 Mb
+		
+		
+			
+				Receiver Housing
+			
+				ULXS4: Plastic; ULXP4: Extruded Aluminum
+			
+				Steel, 7.75 in. H x 6.75 in. W x 1.65 in. D
+		
+		
+			
+				Receiver Weight
+			
+				1049 g (2.31 lbs) ULXS4 or 1105 g (2.44 lbs) ULXP4, without antennas
+			
+				913 g (2.0 lbs), without antennas
+		
+		
+			
+				Receiver Control Locks - Options:
+			
+				FREQUENCY - Lock frequency
+			
+				MENU - All receiver menu paths are inaccessible.
+		
+		
+			
+				
+			
+				OUTPUT LEVEL - prevent changes to audio output level
+			
+				GAIN - Audio gain adjustment is locked
+		
+		
+			
+				
+			
+				
+			
+				POWER - Power switch is disabled
+		
+		
+			
+				
+			
+				
+			
+				SCAN/SYNC - Cannot perform a Scan and Sync
+		
+		
+			
+				Front Panel Display and Indicator Brightness
+			
+				Not Adjustable
+			
+				Adjustable - high, medium, or low. Effects display window and all LED indicators.
+		
+		
+			
+				Receiver Power
+			
+				15 Vdc,  200 mA, receiver only; 500 mA max with remote RF amplifiers and active antennas. 5.5 mm x 2.1 mm locking DC connector. Supplied with PS41US 15 Vdc power supply.
+			
+				15 Vdc,  200 mA, receiver only; 500 mA max with remote RF amplifiers and active antennas. 5.5 mm x 2.1 mm locking DC connector. Supplied with PS41US 15 Vdc power supply.
+		
+		
+			
+				Transmitter Info
+			
+				
+			
+				
+		
+		
+			
+				Audio Input Interface - Bodypack Transmitter
+			
+				TA4F connector, unbalanced, high impedance (1 Mohm)
+			
+				TA4F connector, unbalanced, high impedance (1 Mohm)
+		
+		
+			
+				Microphone Capsules - Handheld Transmitter
+			
+				SM58, SM86, SM87A, BETA58A, BETA87A, BETA87C (VP68, KSM9 available)
+			
+				SM58, SM86, SM87A, BETA58A, BETA87A, BETA87C (VP68, KSM9 available)
+		
+		
+			
+				Audio Gain Control on Handheld Transmitter
+			
+				Yes, recessed potentiometer, 0 to -25dB
+			
+				No, Automatic Gain Ranging
+		
+		
+			
+				Audio Gain Control on Bodypack Transmitter
+			
+				Yes, rotary thumb wheel, 0 to -25dB
+			
+				No, Automatic Gain Ranging
+		
+		
+			
+				Bodypack Transmitter - Pad for High Level Audio Sources
+			
+				Yes, selectable 0 and -20 dB
+			
+				Automatic Gain Ranging for most situations; for very high level sources, selectable -12 dB pad
+		
+		
+			
+				Handheld Maximum SPL
+			
+				
+			
+				145 dB SPL, with SM58
+		
+		
+			
+				Beltpack Transmitter Antenna
+			
+				1/4 wave whip, non-detachable
+			
+				1/4 wave whip on SMA connector, detachable
+		
+		
+			
+				Handheld Transmitter Antenna
+			
+				Internal - battery
+			
+				Internal - single band helical
+		
+		
+			
+				Transmitter RF Power Output
+			
+				30 mW
+			
+				Selectable - 1, 10 and 20 mW
+		
+		
+			
+				Transmitter RF Mute (for set-up without sending RF)
+			
+				Not available
+			
+				Yes
+		
+		
+			
+				Battery Type and Life
+			
+				9 Volt Alkaline: about 8 hours
+			
+				2xAA Alkaline: ~11 hours; rechargeable SB900: 12 hours
+		
+		
+			
+				Transmitter Locks
+			
+				FREQUENCY - Prevents changing frequency
+			
+				MENU - All menu paths are inaccessible.
+		
+		
+			
+				
+			
+				POWER - Locks transmitter on
+			
+				POWER - Power switch is disabled
+		
+		
+			
+				
+			
+				
+			
+				ALL - Both MENU and POWER locked
+		
+		
+			
+				Firmware Upgradable
+			
+				No
+			
+				Yes, via Receiver networked to PC with WWB6 software
+		
+		
+			
+				Transmitter Weight
+			
+				ULX1 Beltpack: 79 g (2.8 oz.); ULX2/58 Handheld: 289 g (10.2 oz.) all without battery
+			
+				ULXD1 Beltpack: 5 ounces - 142 grams; ULXD2/SM58 Handheld: 12 ounces - 340 grams
+		
+		
+			
+				Bodypack Transmitter Dimensions
+			
+				ULX1: 96.5 mm H x 67 mm W x 26.7 mm D (3.86 x 2.68 x 1.10 in.)
+			
+				ULXD1: 86 mm x 66 mm x 23 mm (3.4 in. x 2.6 in. x 0.9 in.) H x W x D
+		
+		
+			
+				Handheld Transmitter Dimensions
+			
+				ULX2/58: 228.6 L x 51 mm Dia. (9 x 2 in)
+			
+				ULXD2/SM58: 256 mm x 51 mm (10.1 in. x 2.0 in.) L x Dia.
+		
+		
+			
+				Transmitter Case Material
+			
+				Plastic
+			
+				Aluminum
+		
+		
+			
+				Optional Accessories
+			
+				
+			
+				
+		
+		
+			
+				Rechargeable Battery Packs
+			
+				N/A
+			
+				Shure SB900 Lithium
+		
+		
+			
+				Battery Chargers (for SB900 only)
+			
+				N/A
+			
+				SBC200 2-bay or SBC800US 8-bay
+		
+	
+
+

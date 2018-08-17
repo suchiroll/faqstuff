@@ -1,0 +1,29 @@
+Title: Carrier for two AA Cells / Batteries
+Id: 4321
+Legacy Id: 5399
+
+Question:
+As of July 2013, Shure is providing an accessory with the ULXD1, the P9RA, the P10R, and the UR5. This accessory description is "AA Battery Carrier". What is the purpose? How is it used?
+
+
+Answer:
+
+	This accessory secures two AA cells (batteries) into the battery compartment of the ULXD1, PR9RA, P10R, and UR5. Some brands of AA cells have slightly smaller dimensions than others. This plastic carrier properly positions the AA cells in relation to the battery terminals. The carrier may not be necessary for all brands of AA cells, but its use is recommended as it assures proper battery terminal alignment. The carrier is black plastic molded with the Shure logo and two + signs. The carrier is 53 mm long and 31 mm wide.
+	
+	Suggested Installation Procedure:
+
+	
+		On the inside surface of the battery door, take out the plastic adapter stamped with the word REMOVE. (This adapter is needed only when using AA cells not secured by the carrier.)
+	
+		Insert the two AA cells into the battery compartment.
+	
+		Snap the carrier over the two AA cells. The fit will be quite tight and firm.
+	
+		For some AA cells it may be easier to place them into the carrier first.
+
+
+	
+	* In July 2013, the part number of the carrierwas 90A21673. In July 2014, this number was changed to 95A22398.
+	
+	
+

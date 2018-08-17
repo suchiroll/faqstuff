@@ -1,0 +1,12 @@
+Title: Microphone for a flute - clip on
+Id: 4212
+Legacy Id: 5179
+
+Question:
+Which clip-on instrument microphone would recommend to work on a concert flute?
+
+
+Answer:
+
+	We do not recommend a clip-on mic.There is too much mechanical noise transferred to the clipped-on mic from the flute pads opening and closing. Instead, we recommend that the flautist wear a headworn mic that locates the mic element near the flute mouthpiece, such as the Shure Beta 54 or WBH54.
+

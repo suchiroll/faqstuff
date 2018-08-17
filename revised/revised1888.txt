@@ -1,0 +1,24 @@
+Title: FP32A Tape Output: modify to Mic Level
+Id: 1888
+Legacy Id: 1948
+
+Question:
+I have done the stereo/mono modification to the tape output of the FP32A.  I installed a switch that allows me to select which output (TS?TRS)I prefer.  Now I have another question.  I see that it is possible to bypass the resistors to increase output by 10db, but is it possible to add resistors to decrease the output to mic level?  If so what would the resistor specs be?  Am I correct to assume that they could be installed in the same matter as the resistors that are on the board now.  Thanks for your help!
+
+Answer:
+
+	What is this modification?
+	Converts the Tape Out jack to mic level. The mic output level is 50dB below line output level. Tape Out impedance becomes 115 ohms per leg.
+	
+	How is it accomplished?
+	Change R658 to a 100 ohm resistor.
+	Change R662 to a 100 ohm resistor.
+	Change R669 to a 15 ohm resistor.
+	Change R672 to a 15 ohm resistor.
+	
+	These resistors are located on the bottom side of the bottom PC board.
+	
+	NOTE: The resistors used in the FP32A are surface mount and are very, very small. Please look inside the mixer first to determine if you want to undertake this modification.
+	
+	Anything else?
+	If the Tape Out is to feed a mono mic input, consider the modification that changes the Tape Out jack from Stereo to Mono. These instructions are in the technical data sheet that is packaged with the FP32A.

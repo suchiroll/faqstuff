@@ -1,0 +1,13 @@
+Title: Setting up a mic in a room to record acoustic jam sessions
+Id: 1925
+Legacy Id: 1987
+
+Question:
+I have a four track Tascam recorder. I play acoustic music with my friends. I usally plug my Taylor guitar directly into the recorder and have a Shure SM58 for the voice recording. My question is, what would be a good mic to set up in the room to pick up the unplugged instruments. These instruments are usually a violin, or a resonator guitar.
+
+
+Answer:
+
+	If you want one mic to set in the center of the room, and pick up in all directions, you will require a mic with an omnidirectional pattern.  The SM63 is an omnidirectional dynamic mic that will work well.
+	
+	Or you can use the KSM44 set to OMNI.

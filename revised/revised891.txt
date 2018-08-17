@@ -1,0 +1,10 @@
+Title: Model 300 ribbon mic self-noise
+Id: 891
+Legacy Id: 918
+
+Question:
+Can you tell me the "self-noise" of the model 300 microphone? (I know you no longer make it.). Thanks.
+
+Answer:
+
+	At 70 degrees F and with an actual internal impedance of 260 ohms, the self-noise of the model 300 is -130.7 dBV.

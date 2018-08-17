@@ -1,0 +1,11 @@
+Title: White Label WHLB Cartridge - Spherical or Elliptical Tip?
+Id: 2790
+Legacy Id: 2899
+
+Question:
+Could you tell me if the needle on the While Label Cartridge (N-WHLB) is spherical or elliptical?
+
+
+Answer:
+
+	Spherical.

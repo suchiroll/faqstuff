@@ -1,0 +1,17 @@
+Title: Recommended installation for SystemOn
+Id: 5028
+Legacy Id: 6320
+
+Question:
+Where should I install SystemOn software?
+
+
+Answer:
+
+	SystemOn software can be installed on a server or an individual computer. Installation on a server is recommended, as it allows the software to be accessed by more than one AV technician and from more than one computer. It can be used by any person who has been provided the IP address and a valid user name and password.
+	
+	A dedicated server is preferred for reasons of security, but primarily, it ensures that the system is always on!
+	
+	Refer to Install Guide and System Requirements for more details.
+	
+

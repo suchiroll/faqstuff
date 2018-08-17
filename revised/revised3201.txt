@@ -1,0 +1,16 @@
+Title: Advantages of the triple-flange sleeve
+Id: 3201
+Legacy Id: 3345
+
+Question:
+What are the advantages of the triple-flange sleeve?
+
+
+Answer:
+
+	The triple-flange sleeve extends farther into the ear canal than any of the other sleeves, and contacts the ear canal at more than one point. This provides increased holding power for most people, which can be desirable if you wear your earphones during physical activity.
+	
+	If the additional depth of the triple-flange sleeve is uncomfortable, the smallest flange can be cut off with a pair of scissors or a utility knife, resulting in a double-flange sleeve that is approximately the same depth as the standard flex sleeves. You can also cut the nozzle end down slightly if you find the earphone sticking too far out of your ear. Triple flange sleeves can be purchased from Shure Parts as part #PA755.
+
+	Note: The triple-flange sleeve fits the SE215, SE315, SE425, SE535, E3c/E3g/I3C, E4/E4c/E4g/I4C, and E5/E5c earphones. It will NOT fit the E2C, E2G, or I2C due to the larger nozzle of those earphones.
+

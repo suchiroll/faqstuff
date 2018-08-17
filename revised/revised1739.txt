@@ -1,0 +1,23 @@
+Title: Low volume from SM58 into a high impedance input
+Id: 1739
+Legacy Id: 1798
+
+Question:
+I recently purchased a SM58 microphone. So far, I have not been able to achieve noticeable volume levels when using the mic with my Peavey Mixer amp.
+When I was sold this mic, I was assured that I would be able to properly use it straight into the mixer amp, without a mic preamp or transformer. If this is not the case, please let me know.
+When I max out ALL the values on the mixer amp, I can barely, but just barely, hear my voice from the monitors/speakers. When I plug one of my old $50 mics into the same input jack, it nearly blows my monitors. I have also tried using different input jacks, and different cables, yet nothing so far has worked past the point described above. Any help on the subject would be GREATLY appreciated. I am very disappointing, and would like to resolve this problem as soon as possible.
+Also, if the problem IS that I need a transformer or preamp, can you please let me know of a microphone in the same price range that will not require a transformer / preamp, or a microphone that is near to the quality of the SM58 and a transformer/preamp that would add up approximately to the same price as the SM58. I'm sure you understand what I am suggesting, basically that I want to fix the problem without altering the quality of sound and changing the price TOO much.
+
+
+Answer:
+
+	The input on your Peavey likely requires a high impedance microphone. Is the input connector a 1/4 female phone jack? If so, it is very likely a high impedance input.
+	
+	The SM58 is a low impedance microphone. All professional mics are low impedance.
+	
+	Placing a low impedance to high impedance transformer at the equipment end of the mic cable is the best solution. The transformer steps up the SM58 signal output to satisfy the high impedance input of the Peavey. Consider the Shure A85F or A95UF transformer.
+	
+	We do not recommend exchanging the SM58 for a high impedance mic. In general, high impedance mics are of lesser quality than low impedance mics. Keep the SM58 and add a transformer.
+	
+	Also read this: Microphone Volume - High and Low Impedance
+

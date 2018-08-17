@@ -1,0 +1,17 @@
+Title: T2/14A Wireless Microphone Directionality
+Id: 711
+Legacy Id: 729
+
+Question:
+Please - is this microphone essentially omnidirectional?
+
+I have a situation where I want to set up fixed microphones in an old stone church, to record the music (organ & choir); wireless systems seem essential, to avoid unsightly wires. Two T2/14A placed pointing forward about 10 feet up, either side of the church (about 30 feet apart) near the front of the pews seem physically about the only arrangement. While this won't be "studio-quality", do you any major problems? 
+
+Any other suggestions please.
+
+Answer:
+
+	We suggest you read page 18 of the following link and position your microphones using one of the stereo techniques:
+	
+	Microphone Techniques for Music - Studio Recording
+

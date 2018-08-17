@@ -1,0 +1,11 @@
+Title: Using the M267 mixer with 230 VAC?
+Id: 2532
+Legacy Id: 2629
+
+Question:
+I bought the M267 mixer from USA. How can I use the M267 mixer with AC. 230 volt?
+
+
+Answer:
+
+	Most versions (but not all) of the M267 mixer had dual voltage power transformers. Read the M267 manual for instructions.

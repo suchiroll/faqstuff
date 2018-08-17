@@ -1,0 +1,13 @@
+Title: M44-IMS for AMI/Rowe jukebox
+Id: 807
+Legacy Id: 829
+
+Question:
+I recently was given an AMI/Rowe R-84 jukebox as a gift.  I've checked almost every website for these trying to find the right stylus.  All the web pages show the proper cartridge as being the Shure M44C.  The cartridge I have is clearly marked M44-IMS. The stylus casing is light blue, as supposedly is the one for the M44C.  My question is, are these the same cartridge, and do they use the same stylus.  I appreciate any help you can give me.  I have been unable to find ANYTHING with the M44-IMS cartridge designation.
+
+Answer:
+
+	The N44C stylus should fit and is still available from Shure. If you want to be certain, send your old stylus back to Shure Service and we will compare it to an N44C from stock.
+	
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link: http://www.shure.com/americas/support/service-repair
+

@@ -1,0 +1,13 @@
+Title: How to hook up a PSM400 hardwire personal monitor
+Id: 1814
+Legacy Id: 1874
+
+Question:
+I just bought a hardwired personal monitor. Will I have to have the mixer to use this, or will it hook directly to my snake or pa system.
+
+
+Answer:
+
+	The input signal to your PSM400 hardwired system must be at line level. A line level signal is available from any mixer's main output, a headphone output, or an aux output.
+	
+	You cannot drive your PSM400 hardwired system directly from a microphone signal. A mic level signal is only 1/1000 the strength of a line level signal.

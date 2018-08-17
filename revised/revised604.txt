@@ -1,0 +1,16 @@
+Title: On-off switch on SM57?
+Id: 604
+Legacy Id: 616
+
+Question:
+I need an SM57 with on-off switch and think I´ve seen it a couple off times, am I right? Or was it another model?
+
+
+Answer:
+
+	The SM57 is not available with an on/off switch. Here are three alternatives:
+	
+	1. 545SD-LC: Same Unidyne III microphone element as the SM57; dual impedance; locking on/off switch.
+	2. SM58S: Same Unidyne III microphone element as the SM57; ball grille; locking on/off switch. Ball grille of the SM58 does alter the frequency response of the mic element.
+	3. Female XLR connector with locking on/off switch: Switchcraft part number T3F. This connector is soldered onto the cable that mates with the SM57.
+

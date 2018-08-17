@@ -1,0 +1,15 @@
+Title: Shure Discovery Application will not open the Shure device GUI
+Id: 4347
+Legacy Id: 5432
+
+Question:
+I can see my Shure devices when I start the Discovery Application, but I can't connect to them. Why is this happening?
+
+
+
+Answer:
+
+	The Discovery Application (based on Bonjour) will discover Shure devices even if they are not on the same subnet as the computer running the Discovery App. However, it is only possible to open the webserver GUI (MXW or SCM820)on a discovered device if, and only if, that device is in the same subnet as the computer running the Discovery App. This behavior is independent of the computer operating system and is the expected behavior of the Discovery App.
+	
+	Just because the user can see a Shure device using the Discovery App, the user can only open the device GUI if that device is in the same subnet as the users computer. So, the Shure Discovery App has the ability to find and open Shure devices in the same subnet as the computer. And as an extra feature, it can also find Shure devices that are not on the same subnet, though it is not possible to open those remote devices.
+

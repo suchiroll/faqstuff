@@ -1,0 +1,14 @@
+Title: Cajon mike
+Id: 303
+Legacy Id: 310
+
+Question:
+Do you have a microphone suitable for use with a cajon, preferably internally (percussion box used in flamenco)?
+
+
+Answer:
+
+	Assuming there is not much room inside, try the Beta 98. It is a small mic designed for miking drums at a very close distance.
+	
+	The mic requires phantom power; make certain your audio mixer has it.
+

@@ -1,0 +1,36 @@
+Title: Microphone for voice-over in movie
+Id: 2576
+Legacy Id: 2675
+
+Question:
+Which mic is the best deal? I'm using a mac ibook os 9.1. Need a good quality but not too sensitive cause I'm working close to the computer. Do I need a pre amp or is usb adapter ok?
+
+
+Answer:
+
+	As your question is about connecting a professional microphone into a computer sound card, please read the following.
+
+	
+	Professional microphones, like the SM58, have a low output level. The sound card on your computer requires a hotter level.
+
+	
+
+	1) The easiest way to interface a professional microphone with a computer soundcard is through the use of an interface like the Shure X2u.
+
+	
+
+	2) Another possible solution is using a transformer to help boost the level of your microphone to something that would likely be appropriate for the sound card. The Shure A96F is the correct transformer. It has a female XLR on one end and an 1/8-inch connector on the other end. Place the transformer at the computer and use a standard XLR cable between it and your mic. The transformer will be less expensive than the X2u, but it may not provide enough gain for your particular sound card.
+
+	
+
+	3) A third possible solution is to use a sound card that is designed for a professional microphone, such as the USBPre by Sound Devices (www.sounddevices.com). The USBPre is a broadcast quality microphone preamp with a USB computer interface. This is the most expensive solution, but provides the best audio into your computer.
+	
+
+	Microphone models to consider for voice-over work:
+	
+	1) SM7B
+	2) KSM44
+	3) KSM32
+	4) SM27
+	5) Beta 58A
+

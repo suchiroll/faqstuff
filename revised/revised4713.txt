@@ -1,0 +1,16 @@
+Title: Will every professional condenser mic work with the Motiv MVi?
+Id: 4713
+Legacy Id: 5883
+
+Question:
+Will every professional condenser mic work with the MVi?
+
+
+Answer:
+
+	When powered by a USB bus, the MVi can provide 48 volts DC of phantom power for a pro condenser mic.  
+	
+	Powered by an iOS device, it only provides about 12 volts DC phantom, which may not work well with some condenser mics.  Check with the maker of the condenser mic in question.
+	
+	The Shure PGA27 is an example of a condenser that will work well with 12 volts DC or 48 volts DC of phantom power.
+	What is Phantom Power?

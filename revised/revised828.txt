@@ -1,0 +1,16 @@
+Title: Shure Piano Mic Suggestion
+Id: 828
+Legacy Id: 851
+
+Question:
+I need to buy a piano mic for sound re-enforcement purposes and it has to be mounted inside the piano, can you please suggest one for a Grand Piano and one for an Up-right Piano. Thanks in advance!
+
+
+Answer:
+
+	For mounting inside a piano, the best choice is a boundary microphone attached to the underside of the piano lid. The Shure microphone designed for this application is the Beta 91A, a cardioid pattern, condenser, boundary microphone. This microphone will work for both a grand and upright piano.
+	
+	To see which microphones we recommend for piano, see our Application Guides.
+	
+	For help in placing microphones for a piano, see our online booklet Microphone Techniques for Music - Sound Reinforcement.
+

@@ -1,0 +1,14 @@
+Title: Are PSM600 components compatible with PSM900 and PSM1000 components?
+Id: 4403
+Legacy Id: 5499
+
+Question:
+Are PSM600 components compatible with PSM900 and PSM1000 components?
+
+
+Answer:
+
+	The short answer is: not recommended. While it is true that these systems share the same stereo pilot tone and there are certain frequency band combinations that overlap, the companding scheme is quite different and will yield audio artifacts. The reason for this is that the PSM600 utilized the traditional 2:1 companding scheme unlike the PSM900 and PSM1000 which both use Shures patented Audio Reference Companding, a variable companding scheme that varies from no companding to as much as 5:1.
+	
+	If you use a PSM600 Transmitter with a P9R or P10R receiver, you will hear the audio as being over-expanded. If you use the reverse setup, the audio will sound over-compressed. Either way, it will not sound good and will be too distracting to be usable for the individuals listening to the mix and trying to perform.
+

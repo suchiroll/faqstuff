@@ -1,0 +1,13 @@
+Title: Mic placement for recording a piano
+Id: 2608
+Legacy Id: 2710
+
+Question:
+I used a pair of PGA81 to mic a grand piano in a small hall, I used 135 degree technique. The pianist says that the sound is brighter than real life sound. mics were installed 120 cm height, 150 cm away from the instrument, lid half open.
+
+
+Answer:
+
+	Nothing went wrong. To find the sound the pianist prefers, you need to experiment with the microphones placement within the hall. Mic placement is an art and can only be learned via experimentation and experience.
+	
+	Move the mics closer to the piano; move them farther away; put them up higher; put them down lower; rotate the piano.....etc. etc. etc. And make detailed notes on each location and the resultant sound quality.

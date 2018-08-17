@@ -1,0 +1,17 @@
+Title: Motiv MV88 with video recording
+Id: 4739
+Legacy Id: 5913
+
+Question:
+Will the MV88 Mic still record sound if I'm shooting a video using the camera app on iPhone or does it only record when you're using the application for the Mic?
+
+
+
+Answer:
+
+	Yes. Setup the MV88 using the Shure Motiv App.  Then, go to the video app (such as the Apple camera app) that you wish to use to record the video. The iPhone should use the MV88 for the video recording. If not, check the iPhone for a "mic selection" setting.
+	
+	Please note that Shure has not tested the MV88 with the many third-party video recording apps available.
+	
+	
+	 

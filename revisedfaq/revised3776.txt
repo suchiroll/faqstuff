@@ -1,0 +1,13 @@
+Title: Removing adhesive tape residue on WL93 mics
+Id: 3776
+Legacy Id: 4012
+
+Question:
+I have been placed in charge of several WL93 mics owned by our community theater. They are routinely taped to actor's faces with medical tape are in need of a good cleaning due to the accumulated tape goo from several performances, both on the wire and on the body of the mic near the opening. What is the best method and materials to use?
+
+
+Answer:
+
+	WD-40 lubricant, sprayed onto a rag, will remove most tape residue  WD-40 will not harm the plastic housing nor the cable.
+	
+	Never directly spray the mic with WD-40!

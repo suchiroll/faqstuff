@@ -1,0 +1,16 @@
+Title: Maximum DC voltage applied to headphones
+Id: 3768
+Legacy Id: 4004
+
+Question:
+I am building a custom headphone amp. The headphone output jack might have a small level of DC voltage on it. What is the maximum sustained dc voltage (mV) the SRH headphones can take?
+
+
+Answer:
+
+	Sorry, we do not perform a measurement of this parameter - for SRH headphones or for Shure earphones
+	
+	We can comfortably say that 10mVdc, or less, will not harm the headphones. However, it will bias the diaphragm/coil assembly away from its nominal position, and therefore may lead to distortion.We cannot predict the level of this distortion, and it may, or may not, be audible.
+	
+	As a general rule, we strongly recommend that no DC voltage be applied to headphones or earphones.
+

@@ -1,0 +1,11 @@
+Title: Network port info for Shure products
+Id: 5415
+Legacy Id: 6377
+
+Question:
+Network port info for Shure products
+
+Answer:
+
+	See the pdf below for information about the ethernet network ports on Shure products.
+

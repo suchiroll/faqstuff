@@ -1,0 +1,17 @@
+Title: Microflex Wireless - What is DECT?
+Id: 5373
+Legacy Id: 5394
+
+Question:
+Microflex Wireless - What is DECT?
+
+Answer:
+
+	As of July 2013, most Shure wireless systems used in the United Statesoperate in the UHF (Ultra High Frequency) television band of 470 to 698 MHz (mega-Hertz), but the MXW (Microflex Wireless) operates in the DECT frequency band. DECT is an acronym for Digital Enhanced Cordless Telecommunications. In the United States, the DECT band is 1,920 to 1,930 MHz, often designated as 1.920 to 1.930 GHz (giga-Hertz.)
+	
+	Note that the DECT frequency band is not the same in all countries, thus MXW products are country-specific.A Shure MXW product shouldnever be purchased in one country, then taken to another country for installation.
+	
+	DECT is used primarily for cordless telephones in home and office systems.DECT is also used for purposes such as baby monitors and special applications such as remote controls for industrial applications.So the DECT band is an electronic highway with pre-existing traffic, thus it should not be assumed that MXW products can operate without encountering local interference. The MXW Access Point unit may be used with a laptop computer to perform a RF (Radio Frequency) scan over a period of up to 24 hours.The scan will record the DECT frequency spectrum available for use by MXW devices within a space, a room, or a building.The scan results will provide a Conservative Estimate of how many MXW devices can reliably operate in the space, and an Aggressive Estimate of how many MXW devices can operate in the space under optimal conditions.Using the Conservative Estimate is strongly recommended as it will account for extra available RF spectrum that MXW devices can employ if local interference is encountered.
+	
+	With wireless systems that operate in the UHF TV band, Shure can offer a prediction of the number of systems that can operate at a certain location because the main sources of interference are local TV stations with fixed locations and known RF signal levels.However, Shure cannot provide the same prediction for MXW because DECT devices have short transmission ranges (less than 300 feet) and there is no nationwide database that shows the location of each and every DECT device in use.Thus, using the MXW scan feature is imperative before an installation contract is finalized.
+

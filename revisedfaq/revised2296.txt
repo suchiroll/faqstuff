@@ -1,0 +1,18 @@
+Title: Should both RF status lights be lit on a T4N diversity VHF receiver?
+Id: 2296
+Legacy Id: 2381
+
+Question:
+On our recently acquired Shure TGD wireless guitars systems there are two RF lights. Right out of the box, we powered on the system, receiver and transmitter. However, only one of the two RF lights lit up, along with the power lights. Is this normal? Should both lights be lit when they are receiving a signal? Or only the strongest one? The system was set-up in a room with no significant RF inteference (our other VHF and UHF systems behave well in that room), and was the only transmitter or receiver powered on.
+
+
+Answer:
+
+	Right out of the box, we powered on the system, reciever and transmitter. However, only one of the two RF lights lit up, along with the power lights. Is this normal?
+	* Yes. (Older T Series systems used a different circuit and both RF LEDs typically were lit.)
+	
+	Should both lights be lit when they are receiving a signal?
+	* No.
+	
+	Or only the strongest one?
+	* Yes.

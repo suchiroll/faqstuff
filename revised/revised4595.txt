@@ -1,0 +1,16 @@
+Title: 450 Series II Open Mic Circuit
+Id: 4595
+Legacy Id: 5751
+
+Question:
+The 450 Series II is provided with a Normally Closed mic circuit, i.e., the GREEN wire is connected to the WHITE wire when the microphone switch button is Up. This provides a silent on/off when connected to a balanced input that does not have phantom power activated. How can this be converted to a Normally Open circuit? I want to connect multiple 450 Series II units in parallel for a paging system in a large store.
+
+
+Answer:
+
+	Inside of the 450 Series II, locate where the WHITE wire, RED wire, and BLACK wire are soldered to the same switch terminal.
+	
+	Remove the three wires from the switch terminal, solder the three wires together again, and insulate with electrical tape.
+	
+	Removing the three wires from the switch terminal, but keeping the three wires electrically connected, provides the Normally Open circuit desired.
+

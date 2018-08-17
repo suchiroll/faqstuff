@@ -1,0 +1,22 @@
+Title: Dimensions: PG81 and PGA81
+Id: 4619
+Legacy Id: 5778
+
+Question:
+It appears the PGA81 has a larger diameter than the PG81. Is this correct? Do you have dimensions for the PG81 and PGA81?
+
+Answer:
+
+	PGA81A
+	Length: 130 mm
+	Maximum Diameter: 25 mm
+	No battery compartment
+	
+	PG81
+	Length: 190 mm
+	Maximum Diameter: 28 mm
+	Battery compartment for single AA cell
+	
+	
+	
+

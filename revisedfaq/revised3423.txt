@@ -1,0 +1,13 @@
+Title: Quietspot headsets with Apple iPhone or Blackberry Curve. (3.5mm phones)
+Id: 3423
+Legacy Id: 3614
+
+Question:
+Can I use the Quietspot (QSHI3, QSHB3) with a 3.5mm headset phone like the iPhone or Blackberry Curve?
+
+
+Answer:
+
+	Yes, but it will require a 3.5mm 4 conductor to 2.5mm adapter. This adapter will take the Quietspot 2.5mm plug and turn it into the 3.5mm plug to fit the iPhone or any 3.5mm 4 cond. cell phone.
+	The adapter  can be found at www.blackberrygadgets.com or just click Here
+	iPhone or Curve users may prefer the Music Phone Adapter we offer. It turns an SE model earphone into a stereo headset with  a control button.  More information can be found Here

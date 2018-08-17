@@ -1,0 +1,32 @@
+Title: Axient Digital in Brief
+Id: 5065
+Legacy Id: 6379
+
+Question:
+Please provide a brief summary of Axient Digital.
+
+
+
+Answer:
+
+	Axient Digital
+	
+	At the 2017 NAB Show in Las Vegas, Shure debuted its Axient Digital Wireless System.In an environment of continued RF spectrum pressure, Axient Digital provides high-performance RF, exceptional audio quality, command and control, and hardware scalability.
+	
+	Axient Digital features receivers compatible with its two transmitter offerings, the AD Series and ADX Series. AD Series transmitters have exceptional RF performance and digital audio. ADX Series transmitters incorporate ShowLink, which provides real-time control of transmitter parameters with interference detection and avoidance. ADX includes a handheld unit that can transmit simultaneously on two frequencies providing frequency diversity.ADX also has the first micro-body pack transmitter with an internal antenna that self-tunes to increase RF radiation efficiency.
+	
+	Axient Digital features numerous user-friendly features and benefits:
+	o High-Performance RF- Axient Digital is designed for maximum signal stability. It features true digital diversity, with the option of Quadversity operation, mitigating the potential for signal fades, interference, or dropouts. Quadversity mode allows users to place two pairs of antennas in different zones, or to double the number of antennas in a single zone, thus improving RF signal-to-noise in challenging environments.
+	
+	o High Density - This operational mode increases the maximum simultaneous channel count from 17 to 47 per 6-MHz TV band (from 23 to 63 per 8-MHz TV band), while maintaining exceptional audio quality.
+	
+	o Audio Quality- Featuring digital audio via Dante and AES3, Axient Digital has a 20Hz to 20 kHz range with a flat frequency response and accurate transient response. Axient Digital features a wide dynamic range, AES-256 encryption, and only two milliseconds of latency from the mic transducer to the analog output.
+	
+	o Command and Control- Axient Digital is compatible with Shure Wireless Workbench as well as the ShurePlus Channels App for control and configuration, spectrum management and frequency monitoring. The Axient Digital receiver has Dante Cue and Dante Browse features to enable headphone monitoring of the audio from any Dante-enabled connected device. Additionally, Axient Digital provides networked charging via a suite of intelligent high-performance batteries and chargers.
+	
+	o Hardware and Scalability- Axient Digitals wide tuning range (up to 184 MHz) for all transmitters and receivers covers an extended range of spectrum and simplifies inventory. Dual and quad receiver options support both AD transmitters and ADX transmitters.
+	
+	o Axient Digital Batteries - Axient Digital is compatible with the Shure Battery Rack Charger (SBRC), which supports up to eight rechargeable batteries in a single, compact rack space. Providing a tour-ready battery charging and storage solution, the SBRC features a front panel that displays critical battery parameters, including charge status, time-to-full, and battery health indicators. When connected to a network, Shure Wireless Workbench and ShurePlus Channels software provide remote monitoring of the SBRC to track battery status.
+	
+	The AD Series will be available in late summer 2017, and the ADX Series will be available in early 2018.
+

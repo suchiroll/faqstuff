@@ -1,0 +1,29 @@
+Title: SCM810 Voltage Selection
+Id: 3561
+Legacy Id: 3767
+
+Question:
+Ware reviewing the order for your SCM810 or SCM810E automatic mixer product. But, we will using the 120VAC and 230VAC both according to the on site condition. I checked your specification sheet and user guide for the SCM810 model. I checked the comments on your data sheet that we can change the voltage from 120V to 230VAC via the internal modification. But, I can't find the methods for the voltage selection on your user guide. That is, if I order your SCM810 model, can I change the voltage from 120VAC to 230VAC at on site?
+
+
+Answer:
+
+	The SCM800/SCM810 can be internally modified to operate from either 120 Vac or 230 Vac power. Follow these steps to change the operating voltage:
+	
+		Disconnect the unit from the ac power source.
+	
+		Remove the eight Phillips head screws to remove the top cover.
+	
+		Locate voltage selector switch SW903 adjacent to the power transformer (T901).
+	
+		Use a screwdriver to turn the center rotor to the 230 V position for 230 V operation, or to the 120 V position for 120 V operation.
+	
+		Locate fuse F901 and remove it.
+	
+		Replace fuse F901 with a 100 mA, 250 V, time-delay fuse for 230 V operation, or a 200 mA, 250 V, slow-blow fuse for 120 V operation.
+	
+		If changing to 230 V operation, replace the power cord with a cord rated for 230 V operation (an IEC appliance connector on the equipment end and a CEE 7/7 Schuko mains connector on the other end).*
+	
+		If changing to 120 V operation, replace the power cord with a cord rated for 120 V operation (an IEC appliance connector on the equipment end and a mains connector suitable for 120 V operation on the other end).*
+
+	*For systems that require other mains connectors, obtain a power cord with an IEC 320 type mating connector for connection to the unit, and an appropriate plug on the other end for connection to the mains.

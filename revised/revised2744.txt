@@ -1,0 +1,24 @@
+Title: Wired PSM200 Bodypack?
+Id: 2744
+Legacy Id: 2850
+
+Question:
+I am considering the PSM200 for my monitering needs. Since I am a drummer, I have decided to go with the wired instead of the wireless. I have also looked into other wired moniter systems, such as a simple moniter amp with any ear buds (maybe even the E1 or E2).
+
+
+1) Could you tell me the advantages of the wired PSM200 system over a small moniter amp?
+
+
+2) Does it have a limiter like the wireless?
+
+
+3) Is the wiring the same, as far as a line coming directly from the house board?
+
+
+Answer:
+
+	1) Small enough to wear on your belt; quick access to the volume control; can be used as a wireless receiver at a later date; built-in limiter; battery operation.
+	
+	2) Yes. The PSM200 hardwired pack IS the same as the PSM200 wireless receiver. Also, note that the PSM200 system is monaural, not stereo.
+	
+	3) Yes. A line level signal is required from the mixing board.

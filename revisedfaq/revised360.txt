@@ -1,0 +1,11 @@
+Title: Will phantom power damage my wireless receiver?
+Id: 360
+Legacy Id: 367
+
+Question:
+I have the Vocal Artist diversity wireless system with the SM58 head. I just purchased a new Peavey mixer in which both mic inputs always give phantom power to the XLR connections.  Will it hurt the receiver if I plug into it? I won't do anything until I hear from you. I believe the voltage given is 12 volts.  Thanks!!
+
+Answer:
+
+	The XLR jack on the wireless receiver is protected from phantom power. The phantom power will not damage the receiver.
+

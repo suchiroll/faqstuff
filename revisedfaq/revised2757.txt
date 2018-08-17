@@ -1,0 +1,17 @@
+Title: M35S and SC35C Dimensions
+Id: 2757
+Legacy Id: 2864
+
+Question:
+I'm running an Shure M-80 and Shure pre-amp in a 1965 Wurlitzer stereo jukebox, replacing the Sonotone ceramic original (yechh). Great sound, but the arm needs the 4-5 grams tracking capability of the M35S (or SC35C).
+
+
+Answer:
+
+	The SC35C is a standard mount: two holes in the cartridge; 1/2" apart; screws pass through the holes and into the headshell. The M35S is the same mounting.
+	
+	SC35C width: 5/8"
+	SC35C length, including the pins: 1 1/16"
+	SC35C height: 5/8"
+	
+	The M35S has the same dimensions.

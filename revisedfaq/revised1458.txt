@@ -1,0 +1,12 @@
+Title: SM12A with intercom system
+Id: 1458
+Legacy Id: 1511
+
+Question:
+I really like this headset. I was wondering how I could use it with an in-house intercom system that is designed to accept the 4 pin XLR connections?
+
+
+Answer:
+
+	Very likely it will work. Obtain the pinout of the intercom from the manufacturer and wire the SM12A appropriately.
+	Consider sending the SM12A data sheet to the intercom manufacturer to determine its compatibility.

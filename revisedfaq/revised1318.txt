@@ -1,0 +1,26 @@
+Title: T88 application for recording to a laptop
+Id: 1318
+Legacy Id: 1369
+
+Question:
+My requirements are a bit odd, so I am needing suggestions on how to proceed.
+
+
+I need to record a speaker via wireless, and an additional input from the second T88 unit to record congregation responses. I do not want the speaker on one channel--i.e., coming out of just one speaker, while the audience comes from another. They need to be mixed. Will a simple 'Y' connecter, merging both signals into one suffice? The quality of the recording does not need to be CD quality and any level differences between speaker and audience can be manipulated with software.
+
+
+I want to record the sessions directly into a laptop computer in which already resides the editing software. This, of course, presents the problem of impedance matching as all laptops (to my knowledge) have only mike level impedance for input. Does the T88 have an option of line-level or preamp level output?
+
+
+The resultant audio file will eventually be deposited on CD.
+
+
+Thank you for your help.
+
+
+Answer:
+
+	A Y cable will work, but the output level of each channel will drop by about 6dB when a Y cable is used.
+	
+	The T88 has an adjustable output level: from mic level to aux level. It is unlikely that you will require an additional preamp between the T88 and your computer.
+

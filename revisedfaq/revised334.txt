@@ -1,0 +1,15 @@
+Title: T Series Vocal Artist - Alternate Mics
+Id: 334
+Legacy Id: 341
+
+Question:
+I've got a T Series Vocal Artist Wireless Mic and Body Pack.  This uses a standard jack to connect the mic to the transmitter.  I also want to use this system using a small lapel mic.  Is this possible?  The mic that comes with the T Series Presenter uses a small 4 pin plug.
+
+Answer:
+
+	The T series bodypack was available in two different configurations. The T1 has a 4-pin Tini QG connector, while the T1G has a 1/4 phone jack connector.
+	
+	We are uncertain what you mean by standard jack. If you have a T1G bodypack, it will not work with a lavalier microphone.
+	
+	If you have a T1 bodypack, any Shure wireless lavalier with a 4-pin Tini QG connector will plug into it.
+

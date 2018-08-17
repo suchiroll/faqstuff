@@ -1,0 +1,13 @@
+Title: Do the SM58 and SM57 mics have the same frequency response curves?
+Id: 142
+Legacy Id: 142
+
+Question:
+Do the SM58 and SM57 mics have the same frequency response curves? Is an SM58 simply an SM57 with an integral pop filter/windscreen?
+
+
+Answer:
+
+	The SM58 and SM57 do use the same cartridge. The grill, though, does effect the frequency response to some extent. At a distance, the difference is probably not noticable. But at extremely close distances, the difference is noticeable. Due to the grill, a person's mouth can get closer to the diaphragm of an SM57, thus causing more proximity effect and increased bass when compared to the SM58.
+	
+	Note that the cartridges are not interchangable because the mounting scheme is different for the two microphones.

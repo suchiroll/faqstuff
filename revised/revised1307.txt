@@ -1,0 +1,21 @@
+Title: Guillemot Maxi Studio ISIS soundcard
+Id: 1307
+Legacy Id: 1357
+
+Question:
+How do I connect a professional microphone to a Guillemot Maxi Studio ISIS soundcard?
+
+
+Answer:
+
+	You might have to build a custom cable for this sound card. This sound card does not have a standard input configuration. The pin configuration for the Maxi Studio ISIS is:
+	
+	Tip: +5V
+	Ring: Audio
+	Sleeve: Ground
+	
+	The A96F should still work with this sound card, but we cannot comment on the other products mentioned in the following link.
+	
+	Also see:
+	Microphone connected to a computer sound card
+

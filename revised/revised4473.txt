@@ -1,0 +1,13 @@
+Title: VP83F Lens Hopper Cable Length
+Id: 4473
+Legacy Id: 5584
+
+Question:
+How long is the coiled cord that comes with the Lenshopper?
+
+
+
+Answer:
+
+	Fully extended, the coiled cable is 24 inches in length.
+

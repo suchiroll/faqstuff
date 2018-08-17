@@ -1,0 +1,80 @@
+Title: Five Mistakes to Avoid When Using Wireless
+Id: 4158
+Legacy Id: 5068
+
+Question:
+What are the five most common errors when using a wireless mic system or wireless in-ear monitoring system?
+
+Answer:
+
+	While wireless systems have freed performers from the bonds of cords and cables, theyve unleashed a number of headaches for the sound crew. Getting a wireless system to behave predictably is a challenge faced by touring professionals and newbies alike. No one and no system is immune.
+	
+	Still, it doesnt have to be guessing game.Understanding the basics of how wireless systems and radio waves function will help everyone triumph over dropouts, interference and distortion.Start now by avoiding these common errors.
+	
+	
+	1. Signal blockage
+	
+	Maintain line-of-sight between the transmitter and receiver antennas as much as possible. Avoid metal objects, walls, and large numbers of people between the receiving antenna and its associated transmitter.Ideally, this means that receiving antennas should be in the same room as the transmitters and elevated above the audience or other obstructions. The human body will absorb, block, interfere, and reflect the RF (Radio Frequency)signal emittted bya wireless mictransmitter. Largely composed of salty water, human bodiessoak upRF energy. In addition, if a user cups his or her hands around the external antenna on a handheld transmitter, its effective output can be reduced by 50 percent or more. Similarly, if the flexible antenna on a bodypack transmitter is coiled or folded, the transmitted signal is severely reduced in strength.
+	
+	
+	
+	2. Incorrect antenna type or placement
+	
+	Receiver antennas are one of the most misunderstood areas of wireless microphone operation. Mistakes in antenna selection, placement, or cabling can cause short range, dead spots in the performance area or low signal strength at the receiver that leads to frequent dropouts. Modern diversity receivers offer much better performance than single-antenna types, but the proper antennas must still be put in the proper locations to maximize the performance and reliability of the system.
+	
+	To ensure good diversity performance, space antennas apart by at least one-quarter of a wavelength (about 5 inches at 600 MHz). One wave length (about 20 inches at 600 MHz) is even better.The receiver antennas should be angled apart in a wide V configuration, which provides better pickup when the transmitter is moving around and being held at different angles.
+	
+	Try to keep antennas as close to transmitters with line of sight as is possible. Antennas can also be frequency band-specific. Dont try to use an antenna from another system without double-checking the frequencies first.
+	
+	If the receiver will be located away from the performance area (in an equipment closet or a closed rack, for example), -wave antennas or directional antennas should be remotely mounted (ideally above the audience) in order to have a clear line of sight to the transmitters. (Short -wave antennas should never be remotely mounted, however, because they need the receiver chassis as a ground plane.) Increasing the separation between diversity antennas up to one wavelength (about 20 inches at 600 MHz) will improve diversity performance.Beyond one wavelength, extra distance between the antennas will not significantly improve diversity performance, but may allow better coverage of a large stage, church, or meeting room.
+	
+	If the antennas will be far from the stage, use directional antennas to improve reception by picking up more signal from that direction and less from other angles.
+	
+	If the antennas will be connected to the receiver with a length of coaxial cable, in-line antenna amplifiers may be required to overcome the inherent signal loss in the cable. The amount of loss depends on the exact length and type of cable used, so follow the manufacturers recommendations.Total net loss should not exceed 5 dB.
+	
+	
+	
+	3. Poorly coordinated frequency set
+	
+	A properly coordinated set of wireless frequencies must satisfy two criteria:
+	
+	1)Frequencies must avoid local active TV channels
+	2)Frequencies must be mutually compatible
+	
+	Television transmitters may operate at power levels up to one million watts while wireless microphone systems typically have only 50 mW (fifty one thousandths of one watt!) or lessoutput power.To combat broadcast television interference, avoid using frequencies of local active TV channels.
+	
+	How local is local? Local is generally considered to be up to 50 or 60 miles, depending on the coverage area of the particular TV transmitter and on the location of the wireless microphone system. The good news is that indoor setups are at less risk than outdoor setups because building structures will usually strongly attenuate TV signals. Inside buildings of substantial construction, it may be possible to ignore TV stations as close as 30-40 miles. Still, since the locations and assignments of television stations are well known, its pretty easy to choose relatively safe wireless microphone system frequencies in a particular area.
+	
+	To insure a mutually compatible set of frequencies once the local TV channels have been taken into account, it is necessary to use one of two methods.The simpler method is to use the Group and Channel frequencies that are already programmed into the wireless systems.By using Channels that are all in the same Group, compatibility is guaranteed for small setups of like equipment.The appropriate Group and Channels can be determined from a link to the manufacturers website or often by using the built-in Scan function on the receiver itself.
+	
+	If the wireless setup is more complex, for example using wireless microphones and wireless in-ear monitors together, it may be necessary to use a frequency coordination computer programto insure compatibility.Wireless manufacturers can assist in these situations.
+	
+	One frequency does not fit all. If you are touring, one consequence of the newly dense TV channel distribution in the US is that it is not generally possible to use a given set of wireless microphone frequencies everywhere in the country.
+	
+	
+	There is no such thing as set and forget.
+	
+	Even if your audio system doesnt move from place to place, the radio environment can change unexpectedly. Its largely true that television stations remain constant, but if there are other wireless systems in the frequency band - whether its multiple systems in your own location or interference from the coffeehouse down the street - your wireless frequencies may need to be adjusted. What worked at sound check may not be failsafe when the show begins. And thats why frequency coordination is so important.
+	
+	
+	
+	4. Poor battery management
+	
+	Despite the fact that transmitter battery life is a top concern with wireless mics, users continue to try and cut operating costs by using inexpensive batteries. Most wireless manufacturers specify alkaline or lithium single-use batteries because their output voltage is very stable over the life of the battery. This is important because most transmitters will exhibit audible distortion or signal dropouts when supplied with low voltage. Rechargeable batteries often seem like the ideal solution, but many rechargeables provide about 20 percent less voltage than a single-use battery - even when they are fully charged.
+	
+	To combat battery problems, carefully compare the transmitters voltage requirements with the batterys output voltage over time to make sure that the battery will last through a full performance. For 9-volt applications, there are lithium-ion types that work well, while Ni-Mh and Ni-Cad batteries may last only a couple of hours. For AA applications, Ni-Mh rechargeables offer similar performance to single-use alkaline batteries.
+	
+	
+	Using rechargeable batteries is a great way to save money and landfills as long as you or someone on your staff is able to effectively manage them. Remove batteries from transmitters after each performance. This will keep you from using half-dead batteries the next time you need them and will also prevent an accidental leak from damaging your transmitter if stored for an extended period of time.
+	
+	
+	5. Improper gain set-up
+	
+	Setting the proper input gain is one of the most important adjustments on a wireless microphone system. Distortion may occur if the gain is set too high, while poor signal-to-noise may result if the gain is set too low. Most wireless systems have a gain control on the transmitter itself in the form of a switch, a pot, or a programmable adjustment.It may help to think of this gain control as serving the same function as the trim or gain adjustment on a mixer.Its purpose is to set the input sensitivity low enough to prevent input overload or clipping but high enough so that the signal level is well above the system noise floor.
+	
+	Adjustment of the wireless transmitter gain is done in the same way as mixer input gain: set the gain control so that the loudest input signal just barely lights the overload or peak indicator. For a wireless system this indicator is usually on the receiver, so it is necessary to observe the receiver front panel while the performer is singing or playing. If the peak indicator is flashing constantly, reduce the transmitter gain until it flashes only occasionally. If the indicator never flashes, increase the gain until it flashes just on the loudest signals.
+	
+	Many wireless microphone systems have an output level control on the receiver. Since this control only affects the receiver output, it has no effect on improper gain adjustment in the transmitter.That is, if distortion or poor signal-to-noise is occurring in the transmitter, it cannot be fixed by changing the receiver output level. Most professionals recommend leaving this control at maximum.As long as the mixer input can accommodate this level, the overall system will exhibit the best possible dynamic range.
+	
+	Author: Tim Vear, Shure Incorporated
+

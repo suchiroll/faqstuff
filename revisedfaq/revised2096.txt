@@ -1,0 +1,12 @@
+Title: KSM44 Shock mounting upside down
+Id: 2096
+Legacy Id: 2163
+
+Question:
+Is the shock mount provided with the KSM44 able to suspend the KSM44 upside down?
+
+
+Answer:
+
+	Yes.
+

@@ -1,0 +1,22 @@
+Title: Linked SCM810/800 Mixers - Reducing Hum and Buzz
+Id: 3388
+Legacy Id: 3576
+
+Question:
+I hear a slight increase in hum when I interconnect two SCM810 mixers using a link cable. Any ideas on what I can try?
+
+
+Answer:
+
+	The Shure SCM800 and SCM810 mixers may be linked to increase the number of inputs. This is accomplished via the Link jacks on the rear panel of each mixer. As this linking scheme is unbalanced, the link can be susceptible to hum/buzz when multiple mixers are linked.
+	With the following steps, hum/buzz can be reduced:
+	
+	1. Make sure that each mixer is electrically insulated from the next, i.e., that the metal of one chassis does not touch the metal of the next. When the mixers are mounted in a rack, they typically do not touch. However, it is a good idea to place an electrical insulator (paper, plastic, rubber feet, etc.) between the mixers to ensure that they are insulated; or leave an extra rack space between racked mixers. For racks with unpainted rack rails, it may be necessary to insulate the mixer rack ears from the rack rails using HumFrees, available from Dana B Goods, phone 805-964-9610, or a similar isolation method.
+	
+	2. Interconnect the Line Output Ground terminals of all the linked mixers. Use a piece of wire connected from the Line Output Ground screw terminal of one mixer to the Line Output Ground screw terminal of the next mixer. The wire gauge should be 22 or thicker.
+	
+	3. For the primary audio feed, use the Line Output of the mixer whose Link Out is not connected. The Line Outputs of the other mixers can also be
+	used, although they may have slightly more hum/buzz.
+	
+	These steps will bring the hum/buzz level down to equal the noise floor of the mixer. For a typical linked system, the improvement can be as much as 20 dB.
+

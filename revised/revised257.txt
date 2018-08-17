@@ -1,0 +1,20 @@
+Title: History of the term 'XLR'
+Id: 257
+Legacy Id: 263
+
+Question:
+This may seem strange but I want to know what XLR is an acronym for. I can't find anyone who knows! Did Shure invent this type of connector?
+
+
+Answer:
+
+	From Ray Rayburn:
+	
+	XLR was the model number that ITT Cannon used on their connectors. Since then, it was became the standard name for that type of connector. A longer history follows:
+	
+	At one time Cannon made a large circular connector series that was popular for microphones called the P series. Mics used the 3 pin P3 version. Some loudspeakers use the P4 or P8 versions of this connector to this day.
+	
+	In an attempt to make a smaller connector for the microphone market Cannon came out with the UA series. These were D shaped instead of circular and were used on such mics as the Electro-Voice 666 and 654.
+	
+	There was a desire for a smaller yet connector. Someone pointed out the small circular Cannon X series. The problem with this was it had no latch. Cannon rearranged the pins and added a latch, and the XL (X series with Latch) was born. This is the connector others have copied. Later Cannon modified the female end only to put the contacts in a Resilient Rubber compound. They called this new version the XLR series. No other company has copied this feature. It is amusing that XLR has become the generic term since what everyone else copied was the XL and not the XLR!
+

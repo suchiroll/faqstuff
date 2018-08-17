@@ -1,0 +1,13 @@
+Title: I hear noise or static when using my Shure earphones with my Apple iPod
+Id: 3167
+Legacy Id: 3305
+
+Question:
+I occasionally hear noise or static when using my Shure earphones with my Apple iPod.  Why?
+
+
+Answer:
+
+	Shure has received inquiries from some customers reporting occasional whirring noise or static when using third-party earphones (both Shure and other brands) with certain Apple iPod portable music players. What Is It? The noise has so far been observed only with 4th-generation iPods, which are identified by the gray click-wheel on the front panel. iPod Minis, Shuffles, and Nanos do not exhibit the noise. The noise appears to be related to the hard-disk drive, and is most audible when the drive is accessed to load a new song into memory. It is most audible at low volume settings, and may be more noticeable when using sensitive, sound isolating earphones with improved high-frequency response, because the absence of noise allows you to hear sounds that would normally be covered up by ambient noise. For this reason the noise may not be audible through the standard Apple earbuds. The noise typically disappears when the earphone plug is pulled out just slightly. What Causes It? The problem seems related to the fact that some third-party earphones (including Shures) use a plug with an exposed metal shoulder at the base, which contacts the metal case of the iPod. For some reason, breaking this connection stops the noise. A simple but effective solution is to put a thin piece of non-conductive material (plastic, vinyl, rubber, etc.) over the metal base (but not the shaft) of the earphone plug. This prevents the base from contacting the metal case of the iPod. The material must be very thin to insure that the plug is still able to insert fully into the headphone jack. A small doughnut-shaped piece of electrical tape worked well in Shures test.
+	
+

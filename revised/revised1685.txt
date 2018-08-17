@@ -1,0 +1,23 @@
+Title: SM81 for Industrial Applications
+Id: 1685
+Legacy Id: 1742
+
+Question:
+I would like to use the SM81 microphone to measure some scientific sound data. We would like to use this microphone due to its flat response and frequency range. If this is successful, we would sell this as a product.
+
+
+Is there a pre-amplifier available for this model?
+
+
+I would like to measure the sound signal with an oscilloscope, is the voltage signal easy to measure?
+
+
+Answer:
+
+	"We would like to use this microphone due to its flat response and frequency range." * The SM81 is a unidirectional microphone. Like all unidirectional microphones, it exhibits proximity effect: an increase in the low frequency response when the microphone is placed close to the sound source (12 inches or less).
+	
+	"Is there a pre-amplifier available for this model?" *There are many mic preamps available in the professional audio market.
+	
+	"Is the voltage signal easy to measure?" * A typical output voltage from the SM81 is 0.001 volt or less. It will depend upon the sensitivity of your oscilloscope.
+	
+	Also, the SM81 requires phantom power to operate. Most professional mic preamps provide phantom power.

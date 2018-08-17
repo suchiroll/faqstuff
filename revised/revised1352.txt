@@ -1,0 +1,19 @@
+Title: Troubleshooting an E1 ear monitor
+Id: 1352
+Legacy Id: 1404
+
+Question:
+I can barely make out any sound coming from the left monitor in a very quiet room. All connections look good as far as I can tell and there is nothing blocking the monitor, it all looks clean. I've had them for 10 months, used at least once a week.
+
+Answer:
+
+	Plug the E1 into a Sony Walkman. Do you get the same result?
+	
+	Plug the Walkman headphones into the PSM receiver. What are the results?
+	
+	Using this method, you can determine which PSM component is the source of the trouble. After that, contact Shure Service for warranty repair.
+	
+	For repair or parts information please contact our Service Department at 800-516-2525. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

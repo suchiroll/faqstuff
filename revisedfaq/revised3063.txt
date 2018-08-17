@@ -1,0 +1,14 @@
+Title: Terminal Euro block plug for SCM810
+Id: 3063
+Legacy Id: 3194
+
+Question:
+For the SCM810 the Euro style block plug: does Shure use the 5.00 mm or 5.08 mm size plug?
+
+
+Answer:
+
+	5.08mm
+	Model number per phoenixcontact.com:
+	MSTB2.5/3-STZ-5.08 (This model features a cable strain relief.)
+

@@ -1,0 +1,26 @@
+Title: Health and lifetime of Shure rechargeable batteries
+Id: 4144
+Legacy Id: 5046
+
+Question:
+How many cycles can I get out of Shure rechargeable batteries, such as the SB900, AXT910, or AXT920?
+
+
+Answer:
+
+	The following graph answers this question best. We are still in process of cycling these batteries and update this graph regularly. This is a small sample size and there will be variation in individual batteries, as well as other parameters, such as temperature, that can change the heath of the battery.
+	
+	The bodypack batteries will decrease in health faster than the handheld batteries, due to the physical construction of the battery cells.
+	
+	80% health means that you will get 80% of the run time. Thus, if a brand new battery, at 100% health gets 8 hours of run time, a battery at 80% health will run for about 80% of that time, or about 6 hours, 25 minutes.
+	
+	At lower than 80% health the battery degrades rapidly and the battery meter can be inaccurate. It is recommended to replace the battery when the health is below 80%.
+	
+	The following example graph shows a small sample of AXT910 and AXT920 batteries. Your mileage might vary. When using the batteries, the health of your actual battery can be displayed on the charger, in software, or on the transmitter (dependent on model). HH = Handheld. BP = Body Pack.
+	
+	
+	
+	The following example graph shows a small sample of SB901 batteries. Your mileage might vary. When using the batteries, the health of your actual battery can be displayed in the software.
+	
+	
+

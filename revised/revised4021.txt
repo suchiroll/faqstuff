@@ -1,0 +1,52 @@
+Title: WL50, WL51, MC50, MC51 Discontinuation
+Id: 4021
+Legacy Id: 4428
+
+Question:
+What is the status of the WL50, WL51, MC50, and MC51 miniature microphones? If discontinued, what are the replacements?
+
+
+
+Answer:
+
+	As of February 2012, all versions of the WL50, WL51, MC50, and MC51 microphones are discontinued.
+	
+	Replacement models are:
+	WL50B = MX150B/O-TQG
+	WL51B = MX150B/C-TQG
+	MC50B = MX150B/O-XLR
+	MC51B = MX150B/C-XLR
+	
+	There are noreplacements for tan (T)versions or white (W)versions of the WL50 or WL51.
+	There is no replacement for the WL50BX unterminated cable version.
+	There is no direct replacement for the low sensitivity versions (LO)of the WL50.
+
+	
+		MX150/O is -46dBV; WL50 is -45 dBV; WL50-LO is -54 dBV.
+		MX150/Cis -51dBV; WL51 is -50 dBV.
+
+
+	MX150 or MX153 can be used as a wired mic when paired with the preamp RK100PK.
+	
+	Improvements offered in the MX150 series:
+	- Improved headroom with clipping levels of 143 to 147 dB Max SPL
+	- CommShield technology to reduce Radio Frequency Interference issues
+	- New cable, softer flex, Kevlar reinforced, for reduced handling noise
+	- New tie clip that will mount single or dual lavaliers in various configurations, with integrated cable management for easy dress and reduced cable noise
+	- New windscreen that securely snaps on
+	- MX150 omnidirectional versions have new interchangeable frequency caps for a smoother sound with less boost in the top end
+	- New storage pouch
+	- Cartridge design modifications for improved consistency between microphones
+	
+	Discontinued Models and Details:
+	WL50B: $263 U.S. retail; black omnidirectional subminiature lapel microphone; 5 foot attached cable; TA4F connector
+	WL50T: $263 U.S. retail; tan omnidirectional subminiature lapel microphone; 5 foot attached cable; TA4F connector
+	WL50W: $263 U.S. retail; white omnidirectional subminiature lapel microphone; 5 foot attached cable; TA4F connector
+	WL50B-LO: $295 U.S. retail; black omnidirectional subminiature lapel microphone; 5 foot attached cable; TA4F connector; output level 9 dB lower than standard model
+	WL50B-LO: $295 U.S. retail; tan omnidirectional subminiature lapel microphone; 5 foot attached cable; TA4F connector; output level 9 dB lower than standard model
+	WL50BX: $248 U.S. retail; black omnidirectional subminiature lapel microphone;10 foot attached cable; noconnector
+	WL51B: $296 U.S. retail; black cardioid subminiature lapel microphone; 5 foot attached cable; TA4F connector
+	WL51W: $296 U.S. retail; white cardioid subminiature lapel microphone; 5 foot attached cable; TA4F connector
+	MC50B: $376 U.S. retail; black omnidirectional subminiature lapel microphone;5 foot attached cable; TA4F connector; detachable XLR preamp
+	MC51B: $394 U.S. retail; black cardioid subminiature lapel microphone;5 foot attached cable; TA4F connector; detachable XLR preamp
+

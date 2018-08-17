@@ -1,0 +1,17 @@
+Title: Noise when using a wireless for guitar
+Id: 745
+Legacy Id: 764
+
+Question:
+I have tried a Samson, a Shure, a Nady wireless, and I get noise when I use my volume knob. But here's the trick, I can take the cord and plug in regularly and the knob doesn't make any sound. Also It's done it with all of the wireless systems and on all 5 of my guitars, so the obvious "it's your volume pot that's bad" has been ruled out. I've asked people in music stores and no one has heard of this problem. Have you? Write me back and let me know.
+
+
+Answer:
+
+	Yes, this is rare problem associated with the type of volume control. Some volume potentiometers produce very low levels of RFI (radio frequency interference) as the pots wiper moves over the carbon trace. This RFI is sent to the wireless transmitter via the connecting cable and is heard as audible noise when you move the pot. The RFI is not a problem when using a cable to your amplifier.
+	
+	The only solution we know of is to change to a different type of volume pot. Conductive plastic pots usually do not have this RFI problem. Clarostat is a manufacturer of such pots.
+	
+	
+	Good luck. This can be a difficult problem to solve. You might consider sticking with a cable.
+

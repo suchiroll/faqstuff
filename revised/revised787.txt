@@ -1,0 +1,13 @@
+Title: Using T series transmitter with L series receiver
+Id: 787
+Legacy Id: 809
+
+Question:
+My employer had purchased a Shure LS24/58 unknown years ago: model L4 and L2/58, frequency of operation 171.845 Mhz.  Unfortunately, someone stole the transmitter.  The L series is no longer made, but the T2/58 is listed as a current model that can be purchased to operate at that frequency.
+
+Can you check your production records by s/n and tell me if a T2/58 transmitter will work with our L4 receiver and which dot group, red or blue, to specify if we order a new hand-held transmitter?
+
+Answer:
+
+	The model number you are seeking is: T2/58-W. (Red Dot or Blue Dot is irrelevant in this case.) It will work perfectly with the L4-W receiver you own.
+

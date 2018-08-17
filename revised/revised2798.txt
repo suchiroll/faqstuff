@@ -1,0 +1,15 @@
+Title: Two MX gooseneck mics on one lectern / podium
+Id: 2798
+Legacy Id: 2908
+
+Question:
+Where can I get information on how to properly mic a podium with two Microflex Gooseneck mics?
+
+Answer:
+
+	1) If you want both mics activated at the same time, position the mic heads in the center of the podium, one on top of the other. The mic heads can be fastened together using two small pieces of self-adhering VELCRO. DO NOT wrap the entire mic element with VELCRO as this will adversely affect the acoustical performance.
+	
+	2) If you want the mics on either corner of the podium and the heads widely separated, connect the mics to the Shure SCM410 automatic mixer which will activate one or the other, depending on which mic is picking up the better signal. In this case, DO NOT manually activate both mics at the same time; the audio quality will be poor due to acoustical comb filtering.
+	
+	3) Or the best option: position one mic directly in the center of the podium and forget about a second mic.
+

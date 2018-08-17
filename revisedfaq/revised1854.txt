@@ -1,0 +1,104 @@
+Title: VR116L  mic compatiblity with soundcard- specs supplied
+Id: 1854
+Legacy Id: 1914
+
+Question:
+---- 10/11/2001 03:57 AM ---------------------------------------------
+
+Is the Shure VR116L compatible with SoundBlaster Live!
+
+Player 5.1 PCI soundcard that has these specifications:
+
+
+Reference signal is set at 1kHz Frequency Response @ –1dB
+
+10 Hz to 47KHz Record  Playback Sampling Rates
+
+
+Recording (8 supported sampling rates); 8.0KHz, 11.025KHz,
+
+16.0KHz, 22.05KHz, 24.0KHz, 32.0KHz, 44.1KHz,
+
+48.0KHz
+
+
+Playback: Any arbitrary sampling rate = 48KHz Line In Full
+
+Scale Input 2.0 Vrms Line Out Full Scale Output 2.0 Vrms
+
+Microphone Full Scale Input 0.2 Vrms (without 20dB boost)
+
+CD Audio Full Scale Input 2.0 Vrms
+
+
+Microphone Input Impedance 5.0Kohms Line In Impedance
+
+10k ohms CD Audio Input Impedance 10k ohms
+
+LINE_IN / LINE_OUT @ 2Vrms, 1kHz (Measured with band
+
+limited filter from 22Hz to 22kHz)
+
+
+Signal To Noise Ratio (SNR) 94 dB. (A-Wtg)
+
+
+Total Harmonic Distortion 0.006% +Noise (THD+N)
+
+LINE_IN / LINE_OUT Record  Playback @2Vrms, 1kHz
+
+(Measured with band limited filter from 22Hz to 22kHz)
+
+
+Signal To Noise Ratio (SNR) 82 dB (A Wtg)
+
+
+Total Harmonic Distortion 0.02 %+ Noise (THD+N)
+
+1 ( 1 ) x audio line-In
+
+mini-phone stereo plug 3.5 mm female - 1 ª 1 ( 1 ) x
+
+microphone input /
+
+mini-phone mono plug 3.5 mm female - 1 ª 1 ( 1 ) x gameport
+
+/ MIDI generic
+
+/ 15 PIN D-Sub (DB-15) female - 1 ª 1 ( 1 ) x audio SPDIF
+
+output / Phono (RCA) plug female - 1 ª 1 ( 1 ) x audio line-In
+
+
+/ male - 1 ª 1 ( 1 ) x audio line-In / 4 PIN MPC male - 1 ª 2 ( 2
+
+) x audio line-out /
+
+mini-phone stereo plug 3.5 mm female - 2
+
+
+If the VR116L is not compatible can you suggest a microphone
+
+that will be suitable for this soundcard and voice recognition, to
+
+stand on a desk?
+
+
+Thanks
+
+
+Sally Thornhill
+
+
+Answer:
+
+	At 10/11/2001 07:49 AM we wrote - Based on the incomplete specs supplied by the soundcard manufacturer, we believe the VR116L will not work properly. Typical of most soundcards, this soundcard requires a much stronger input level that a professional microphone can supply.
+	
+	So, we suggest the purchase of the Audio Buddy:
+	
+	This great preamplifier is the universal translator between the world of professional audio and the un-organized world of soundcards. With the Audio Buddy, you can choose any professional mic from Shure (or another company) that you like and the Audio Buddy will act as the interface into the soundcard.
+	
+	Why dont the soundcard makers design their microphone inputs to match professional microphones? We wish we knew!
+	
+	Here is link that may help you:
+

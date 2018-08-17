@@ -1,0 +1,20 @@
+Title: Shure TTR-103 test record
+Id: 3083
+Legacy Id: 3215
+
+Question:
+What is recorded on the TTR-103? When was it discontinued?
+
+
+Answer:
+
+	The TTR-103 was discontinued circa 1975. It was a 45 rpm recording on a 12 LP disc.
+	
+	The TTR-103 contained three trackability and distortion tests:
+	
+	1) High frequency test - 10.8 kHz pulsed with a 270 Hz repetition rate
+	
+	2) Mid-frequency test - 1000 Hz plus 1500 Hz
+	
+	3) Low frequency test - 400 Hz plus 4000 Hz
+

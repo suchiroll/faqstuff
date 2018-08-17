@@ -1,0 +1,16 @@
+Title: Pre-echo on a vinyl record
+Id: 4419
+Legacy Id: 5516
+
+Question:
+When playing a record, I hear a faint audio signal before the song starts? Is there something wrong with the stylus or cartridge?
+
+
+Answer:
+
+	The stylus is not defective; the cartridge is not defective. They are working properly.
+	
+	On a vinyl record, the groove has ridges cut deep into the vinyl wall. The other side of the vinyl wall will have faint impressions of these deep cuts. During a silent passage, or before a song starts,these faint impressions are picked up by the stylus.This is especially noticeable if the following groove contains loud sounds.
+	
+	This isknown as pre-echo, i.e., the song is heard before it starts.When a heavier vinyl is used for the record, pre-echo is reduced.
+

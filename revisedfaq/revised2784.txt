@@ -1,0 +1,16 @@
+Title: A15AS Maximum Input Signal Level
+Id: 2784
+Legacy Id: 2892
+
+Question:
+What is the maximum input level for the A15AS?
+
+
+Answer:
+
+	The resistors in the A15 series are 1/8 watt. Here is a conservative estimate:
+	
+	A15AS - maximum input signal level, peak to peak: 5 volts (+14dBV)
+	
+	The A15ASwill not handle the output of a power amplifier because of the high current.
+

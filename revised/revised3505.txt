@@ -1,0 +1,75 @@
+Title: Timeline of Shure Unidyne Model 55
+Id: 3505
+Legacy Id: 3704
+
+Question:
+Over the years, Shure has made many variations of the model 55. Please provide a time line.
+
+
+
+Answer:
+
+	Timeline of the Shure Unidyne Microphone Model 55
+	
+	March 1939
+	55A - $45; cardioid; low impedance (50 ohms)
+	55B - $45; cardioid; medium impedance (250 ohms)
+	55C - $45; cardioid; high impedance (15,000 ohms)
+
+	1940
+	555A - $60; cardioid; low impedance (50 ohms); shock mount in lower portion of mic
+	555B - $60; cardioid; medium impedance (250 ohms); shock mount in lower portion of mic
+	555C - $60; cardioid; high impedance (15,000 ohms); shock mount in lower portion of mic
+
+	1942
+	55AV - $46; cardioid, low impedance (50 ohms); increased high frequency response for voice clarity in paging and two-way radio systems
+	55BV - $48; cardioid, medium impedance (250 ohms); increased high frequency response for voice clarity in paging and two-way radio systems
+	55CV - $48; cardioid, high impedance (15,000 ohms); increased high frequency response for voice clarity in paging and two-way radio systems
+	556A - $75; supercardioid; low impedance (50 ohms); shock mount in lower portion of mic
+	556B - $75; supercardioid; medium impedance (250 ohms); shock mount in lower portion of mic
+	556C - $75; supercardioid; high impedance (15,000 ohms); shock mount in lower portion of mic
+
+	1947
+	55 - $55; cardioid; add three-position impedance switch (low-medium-high)
+	556 - $85; supercardioid; add three-position impedance switch (low-medium-high)
+
+	1951
+	55S - $72; cardioid; add impedance selection switch (low-medium-high); S designation meant Small
+	556S - $100; supercardioid; add Cannon XL connector; add impedance selection switch (low-medium-high); shock mount in lower portion of the mic; S designation meant Small
+
+	1956
+	Shure factory moves from Chicago to Evanston
+
+	1961
+	55SW - $85; cardioid; add on/off switch; W designation meant sWitch
+
+	1967
+	55S Gold - $93; cardioid; gold plated 55S
+	55SW Gold - $95; cardioid; gold plated 55SW
+
+	1970
+	PE55 - $75; cardioid; factory set to high impedance; eliminate impedance switch; add plastic carrying case and cable
+
+	1978
+	PE55SH - $112; replace Amphenol connector with XLR connector
+	55SH - $100; cardioid; replace Amphenol connector with XLR connector; eliminate impedance switch; internal high/low impedance choice on XLR connector
+
+	1989
+	55SH Series II - $189; cardioid; low impedance only; new mic element
+
+	2009
+	Super 55 - $311; chrome case with blue foam; supercardioid; improved frequency response; low impedance only; no switch
+
+	2010
+	Super 55-BCR - $354; black case with red foam; limited production run; supercardioid; improved frequency response; low impedance only; no switch
+
+	2014
+	5575LE - $499; limited edition reissue of the original model 55; cardioid; special packaging; metal carrying case; reissued S36B Art Deco mic stand; XLR-XLR cable with one right angle connector; no switch
+
+	2017
+	Super 55-BLK - $374; black case with black foam; supercardioid; improved frequency response; low impedance only; no switch
+
+	Link to PDF booklet about the Unidyne: The Unidyne Story
+
+	User Guides may be found at: http://www.shure.com/americas/support/user-guides/discontinued-products
+

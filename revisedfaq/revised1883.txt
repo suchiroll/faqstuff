@@ -1,0 +1,18 @@
+Title: Boundary mic for grand piano
+Id: 1883
+Legacy Id: 1943
+
+Question:
+What boundary mic do you recommend for live sound reinforcement of a 10' grand piano?
+
+
+Answer:
+
+	The Beta 91A if you require a boundary mic. The SM81 or KSM137 if a boundary mic is not required.
+
+	Also see:
+
+	Which microphone should I use on ... ? (Selection Guides)
+
+	Application Guides
+

@@ -1,0 +1,18 @@
+Title: 577B Mic and Wire Size
+Id: 4275
+Legacy Id: 5340
+
+Question:
+What is the conductor wire gauge in your 577B microphone We plan on using the 577B as part of our Announcing System product line which we supply to various navies around the world. The wire gauge size is needed so we may select the appropriate pins in the connectors we will be attaching to the cable.
+
+
+Answer:
+
+	We measured the cable with a digital caliper:
+	
+	Outer diameter of the coil cord: 7 mm
+	
+	Outer diameter of an inner conductor (including insulation): 1.3 mm
+	
+	Diameter of an inner conductor wire: 0.6 mm(AWG 22)
+

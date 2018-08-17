@@ -1,0 +1,16 @@
+Title: PGX Wireless - Worked OK yesterday but not today
+Id: 3471
+Legacy Id: 3668
+
+Question:
+My PGX system was working and now it's not. What happened?
+
+
+
+Answer:
+
+	What can happen with a PGX receiver is that the "channel" button on the front panel gets accidentally pushed while the receiver is being moved with the power on. A push of the "channel" button tells the receiver to scan for a new frequency...which it does but then no longer matches the transmitter setting.
+	
+	To correct this situation, re-sync the transmitter to the receiver.
+	
+	To prevent this accidental scan from happening, lock out the "channel" button by holding the button down until both numbers flash rapidly (approximately 10 seconds). The receiver can be unlocked by repeating the button hold or by unplugging the receiver power supply.

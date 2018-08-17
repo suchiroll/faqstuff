@@ -1,0 +1,13 @@
+Title: 596T Output Impedance
+Id: 2965
+Legacy Id: 3093
+
+Question:
+What is the output impedance of the 596T?
+
+
+Answer:
+
+	The output impedance of the 596T is a direct function of the input circuit of the two way radio to which it connects. Therefore, an output impedance cannot be specified.
+	
+	However, it can be stated that the 596T will properly drive a two-way radio mic input that has an impedance of 600 ohms or greater.

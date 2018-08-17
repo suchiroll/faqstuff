@@ -1,0 +1,16 @@
+Title: Miking a Didjeridoo
+Id: 2777
+Legacy Id: 2885
+
+Question:
+I am in a band and we have a didjeridoo player. We have been troubleshooting the mic situation for the didj for live performances, but now I feel we need to find a better mic. The mic we have works, but it is a little too heavy. Do you have any kind of lightweight mic that can be placed on the end of the didj that can fully capture the tones?
+
+
+Answer:
+
+	The didjeridoo is a low frequency instrument. Therefore, it requires a mic that can reproduce these low frequencies. None of these mics recommended below mount on the instrument; there would be too much handling noise. We do not recommend mounting a mic on the didjeridoo.
+	
+	Good - PG81
+	Better - KSM109
+	Best - KSM137 or SM81
+

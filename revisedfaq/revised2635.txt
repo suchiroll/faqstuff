@@ -1,0 +1,16 @@
+Title: Connecting WH20-TQG to XLR input
+Id: 2635
+Legacy Id: 2737
+
+Question:
+I have a WH20 headset mike with the TA4F connector. Is there an adapter that will allow me to use this with a standard XLR mike cable, without removing the existing TA4F connector? I'd like to switch between XLR and TA4F uses, so permanently soldering a new XLR is not the best approach. If so, how would I get this adapter?
+
+
+Answer:
+
+	Sorry, we do not make such an adapter cable. It is possible to build your own cable, though. Wire it as follows:
+	
+	TA4 - XLR
+	Pin 1 - Pin 1 & Pin 3
+	Pin 3 - Pin 2
+	Pin 2 & Pin 4 - Not used

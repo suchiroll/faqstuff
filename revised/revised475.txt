@@ -1,0 +1,28 @@
+Title: How to connect mixer to camcorder and cassette tape recorder
+Id: 475
+Legacy Id: 485
+
+Question:
+I need to connect a cassette tape recorder to the mixer.   I am using the XLR output to the camcorder.    Do I use the binding posts for the cassette tape recorder?   If so, what are the proper cable connections?
+
+If not, how do I connect, and what are those cables and connections?
+
+Thank you very much.
+
+At 12/02/2000 10:49 PM you wrote - to clarify prev. question, how to connect M267 to Marantz PMD 201 (RCA connector) with main output going to a camcorder.
+
+At 12/02/2000 11:30 PM you wrote - Sorry about not specifying the mixer - I had followed the prompts through the M267, didn't realize they didn't leave a trail.
+
+So, it's an M267 mixer, I have a Marantz 201,
+the XLR output from the mixer goes directly to the camcorder, so how do I connect in a cassette tape recorder?
+
+Answer:
+
+	Without knowing what mixer you are using, we dont know what connections are on it. Also, we are assuming you are taking the output of the mixer to the tape deck. Please click on the Update Incident link to tell us which mixer you are using.
+	
+	At 12/04/2000 07:48 AM we wrote - The simplest solution is to use the M267 headphone output. It will easily drive a line input on your tape cassette deck, plus the headphone output has a volume control as well.
+	
+	If the M267 headphone output is already employed, the binding post may be used. Connect binding post #2 to the tip of the RCA connector; binding post #3 to the sleeve of the connector. However, be prepared to deal with possible hum problems due to ground loops. Operating the M267 from batteries will likely eliminate most ground loop problems.
+	
+	If you find yourself with hum problems, please call Shure Applications Engineering at 800-516-2525. Ground loops can be sticky to solve.
+

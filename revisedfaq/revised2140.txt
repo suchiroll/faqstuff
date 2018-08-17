@@ -1,0 +1,14 @@
+Title: Cupping my hands around the microphone head
+Id: 2140
+Legacy Id: 2211
+
+Question:
+When I sing I like to "cup" the microphone, as in I like to place my hands around the head of mic. Many mic's allow me to do this with positive airflow (no feedback) most of these mic's are the cheap plastic models, many microphones do not allow me to cup the microphone without getting feedback. I am in the process of buying what I consider to be a "professional" microphone. Are there any models made by Shure that will allow me to cup the head of the mic? If so, which models?
+
+
+Answer:
+
+	Cupping your hands around the head of any professional directional microphone destroys the polar pattern. The result is typically poor sound quality and acoustic feedback. It is not recommended! Since you like to cup the mic, we can only suggest that you audition different mics at a music store and see which model tolerates the cupping best.
+	
+	There is no way to predict in advance which model will work best. Our suggestion: Change the way you hold the mic.
+

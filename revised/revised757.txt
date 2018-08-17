@@ -1,0 +1,16 @@
+Title: AMS for City Council
+Id: 757
+Legacy Id: 777
+
+Question:
+Web page said to contact you about using wireless mic with AMS8100. I'm putting a quote together for a city council with 5 commissioners, 1 lawyer, 2 secretary, and 1 podium. They would like to also have a wireless. I'm thinking about using the AMS22 for everyone and the AMS24 for the podium.
+
+
+Answer:
+
+	1. AMS22 is a good choice. Two warnings: 1) There must be no hard reflective vertical surface (within 2 feet) behind any AMS22. If there is such a surface, the AMS gating may be adversely affected. 2) Paper rustling, finger drumming, or pencil tapping directly in front of the AMS22 will gate it on and this unwanted noise will be heard in the sound system.
+	
+	2. AMS24 for the lectern is a good choice. We suggest this mic be turned on and off manually via a switch controlled by the mayor or clerk. This will permit the mayor to mute a talker that has over stayed his welcome! Use the TTL logic pins on the AMS8100 for this basic function.
+	
+	3. Connect the audio output of the wireless receiver to the AMS8100 Aux In. This is a non-gated unbalanced input.
+

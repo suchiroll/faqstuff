@@ -1,0 +1,13 @@
+Title: Multiple mics into one receiver?
+Id: 584
+Legacy Id: 596
+
+Question:
+Hi- I am researching this for a customer of mine. he is a teacher, and is sure that at his last school there was a system which was able to power up to 6 wireless mics using only one receiver. I have been in the business a long time and have not heard of this before. I do not believe the product was Shure. Do you make, or know of anything? Any information would be helpful.
+
+Answer:
+
+	Every transmitter must operate on its own frequency. That means there must be a corresponding receiver for each individual transmitter. That receiver must also be on the same frequency. It is possible to design systems that house multiple receivers in the same physical box. We do offer two systems that house 2 receivers in the same physical box: the PG88, and the UHF-R.
+	
+	Since every audio system is different, we feel it is generally better to design separate receivers for the transmitters. This allows maximum flexibility when designing a complete audio system.
+

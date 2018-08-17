@@ -1,0 +1,25 @@
+Title: Primer on Phono Cartridge Stylus Design and Operation
+Id: 5400
+Legacy Id: 5713
+
+Question:
+Primer on Phono Cartridge Stylus Design and Operation
+
+Answer:
+
+	Adapted from an article in Audio, August 1958, by Ruben E. Carlson / Fairchild Recording Equipment Corporation, Long Island City, NY, USA.
+	
+	The mechanics of a stereo phonograph cartridge stylus are fairly simple, in theory, but when the dimensions must be maintained to accuracies of tens of thousandths on parts measured in thousandths, the construction problem is complicated.
+	
+	On a long playing (L.P.) record, the stereo recording method is known as the 45/45 system, as the two channels of information are recorded neither vertically nor laterally, but at an angle of 45 degrees to both, and hence at an angle of 90 degrees to each other. If the stylus is to ride on a 45 degree slanted wall (and be pushed up/down) for one channel, and simultaneously pushed up/down by a second wall at a right angle to the first wall, then some combinations of the pushes will produce vertical motion, some will produce horizontal motion, and some will produce intermediate motion. The exact stylus direction at any instance will depend upon the phase relationship between the signal inscribed into the left groove wall and the signal inscribed into the right groove wall. All motion of the stylus can be considered as a blend of vertical movement and lateral (horizontal) movement.
+	
+	The vertical stylus motion is like an automobile traveling up and down over roadway bumps. The stylus must race along some of the worst road surfaces imaginable and it must do so without producing the faintest ripple/vibration in the turntable tone arm. In addition, the stylus must never lose contact with the roadway, i.e. the record groove.
+	
+	The lateral stylus motion is like an automobile traveling along a winding race course. If a car were going 100 miles per hour and had to handle a corner with a radius of 100 feet, it would surely be a challenge. This would be about seven gs of acceleration and would require a roadway bank of 80 degrees. Yet on an LP record, it is not uncommon to find stylus accelerations of up to one thousand gs! These severe accelerations must be withstood by extremely small stylus components which are expected to follow the roadway without a variation of a hundred-thousandth of an inch, or there will be distortion of the recorded audio signal.
+	
+	The inertia, or moving mass, of the stylus must be kept small to allow for fast acceleration. The stylus damping must be minimized yet still control the rebound of the stylus as it moves over the bumps on both sides of the record groove. Plus the mass, the compliance, and the damping must be kept equal in all directions of stylus motion. To provide this all-directions movement, the stylus shank is supported by a molded elastomer (flexible rubber) bushing.
+	
+	The stylus shank must be as light as possible but also absolutely rigid for any flexing will result in undesired resonances, loss of frequency range, and distortion. The shape of the stylus shank is a compromise between the structure offering greatest stiffness and the requirement of securely mounting a diamond tip to a flat surface at the foot of the shank. A rolled tube of aluminum is typically used for the shank; the bend at the foot of the shank must be precise in order to place the diamond tip in the proper playback position.
+	
+	Video of Stylus moving in a Record Groove
+

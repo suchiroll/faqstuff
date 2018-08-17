@@ -1,0 +1,14 @@
+Title: VOX operation of two-way radio
+Id: 4792
+Legacy Id: 5977
+
+Question:
+What is VOX operation on a two-way radio or ham radio? Can a Shure mic be used for VOX?
+
+
+Answer:
+
+	VOX is voice-activated operation. The radio operator only needs to speak; he does not need to press a switch on the microphone. The VOX electronic circuitry is in the radio - not in the microphone.
+	
+	For VOX, the microphone is set to always on or a permanently un-muted condition. This can be as simple as moving the mic on/off switch to ON, or locking the PTT (push-to-talk) switch to the ON position.
+

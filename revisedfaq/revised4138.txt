@@ -1,0 +1,12 @@
+Title: Compliance of a M91E cartridge or N91E stylus
+Id: 4138
+Legacy Id: 5036
+
+Question:
+What isthe compliance for an M91E cartridge (N91E stylus)?
+
+
+Answer:
+
+	From the Shure historical archives: M91E static compliance is 0.000025 cm per dyne of force.
+

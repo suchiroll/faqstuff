@@ -1,0 +1,27 @@
+Title: BG 1.0 Internal Wiring
+Id: 3102
+Legacy Id: 3235
+
+Question:
+What is the internal wiring options for the BG 1.0 microphone?
+
+
+Answer:
+
+	The BG 1.0 microphone is shipped wired for low impedance. It may be changed to high impedance by removing the 3-pin XLR plug. The slotted screw is a left-hand thread and will descend into the plug housing.
+	
+	1. Turn the screw clockwise until it stops.
+	2. Gently remove the 3-pin plug being careful not to break the attached wires.
+	3. Remove the white block connector from pin 3 and rotate it 180? then reconnect it to pin 3.
+	4. Reinsert the plug and secure the screw.
+	
+	
+	BG 1.0 wiring
+	a) There are two leads from the cartridge, green (coded terminal) and yellow.
+	b) The cartridge leads go to a dual-pole single-throw switch which shorts the cartridge when in the off position.
+	c) The leads then go to primary side of the output transformer.
+	d) The secondary side of the transformer has three leads.
+	e) Yellow is soldered to pin 2 of the XLR plug.
+	f) Black and blue go to the terminals on the impedance block; black is low impedance and blue is high impedance.
+	g) There is no wire connection on pin 1; the case is grounded through the butterfly wings portion of the plug.
+

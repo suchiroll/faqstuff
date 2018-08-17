@@ -1,0 +1,12 @@
+Title: DIS-CCU and 5900/6000 microphone units?
+Id: 4826
+Legacy Id: 6012
+
+Question:
+Can the DIS-CCU operate with both 5900-series and 6000-series conference units at the same time?
+
+
+Answer:
+
+	No.The DIS-CCU central control unit operates with either DDS 5900 Discussion System components OR DCS 6000 Conference System components, but NOT both at the same time.To operate with DCS 6000 components, the FL6000 Feature License must be installed.
+

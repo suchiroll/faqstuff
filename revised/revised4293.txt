@@ -1,0 +1,13 @@
+Title: PG27-USB and Windows 8
+Id: 4293
+Legacy Id: 5362
+
+Question:
+Is the PG27-USB microphone compatible with Windows 8? And I was wondering if I could get your opinion on what mic would best suit my needs. I am looking for a mic for gaming that will pick up my voice with great clarity, while eliminating as much background noise as possible. i.e.) Mouse clicks, keystrokes, etc.
+
+Answer:
+
+	The PG27-USB, PG42-USB and X2u are compatible with Windows 8.1 64-bit.
+	
+	We have not designed a microphone specifically for gaming; most of our microphones are designed for pro audio applications. If there was a model that could apply it would be the Beta 54. However it is a higher priced condenser microphone and would require a high quality computer interface to connect to your computer. The Shure X2u adapter can do this, but again that device has also not been fully tested with Windows 8.
+

@@ -1,0 +1,16 @@
+Title: Stylus support bushing - Does it age?
+Id: 2760
+Legacy Id: 2867
+
+Question:
+I have an M91ED that is about 20 years old. There is less than 50 hours play time on the unit..Is the material used to mount the stylus cantilever subject to detoriation? If so how often, in terms of years, should the stylus/cartridge be replaced?
+
+
+Answer:
+
+	I have an M91ED that is about 20 years old. There is less than 50 hours play time on the unit..Is the material used to mount the stylus cantilever subject to detoriation?
+	* Yes. Ozone in the atmosphere can harden the material over time.
+	 
+	If so how often, in terms of years, should the stylus/cartridge be replaced?
+	* There is no scientific answer. It depends upon the amount of ozone in your area, and the amount that leaks into your home. Our advice: a 20 year stylus is worth replacing. Or replace the entire cartridge.
+	* As a general rule, the cartridge body does not deteriorate over time

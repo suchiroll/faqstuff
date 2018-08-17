@@ -1,0 +1,19 @@
+Title: T Series transmitter replacement parts
+Id: 816
+Legacy Id: 838
+
+Question:
+I have a Shure T4V Diversity wireless receiver with a T2 Vocal Artist transmitter equipped with an SM58 mic element.  I love it!  
+
+My problem is this.  On the transmitter, the plastic barrel in the mid section of the mic that houses the switches, electronics, etc is cracked (at the mic element end).  I am not concerned with the aesthetics as much as the fact that the insides have shifted and I cannot reliably turn power on.  Is this part of the mic available for replacement?  I am technical enough to repair the mic if I can get the plastic part.  To further clarify the part I need,   The battery cover screws into the bottom and the mic element screws into the top.
+
+I want to have this mic repaired and in use by April 3 so please respond as soon as you can.
+
+Answer:
+
+	Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/service
+	
+	You can also phone 800-516-2525 for help with repair parts.
+

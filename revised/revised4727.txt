@@ -1,0 +1,22 @@
+Title: Selecting Groups/Channels for the "X" bands (900 MHz)
+Id: 4727
+Legacy Id: 5898
+
+Question:
+I'm looking to purchase (or have already purchased) a wireless system in the X52 band. Which Group/Channel should I use in my area?
+
+
+Answer:
+
+	The X52 band is in the 900 MHz unlicensed spectrum. Unfortunately, since it is an unlicensed area, it is not possible to predict which Groups and Channels are best for a particular location.
+	
+	Traditionally, wireless microphones used the UHF television spectrum (470-698 MHz). As this spectrum becomes more crowded and smaller in size, due to FCC reallocations, Shure is offering wireless systems in other areas of spectrum, such as the 900 MHz range (902-928 MHz).
+	
+	Many users are accustomed to avoiding television channels in the UHF television spectrum and use the Shure Frequency Finder to look up which TV stations could interfere, as well as a prediction of Groups and Channels for the wireless system. Since the TV stations are all licensed, it is possible to lookup where they are located and avoid them.
+	
+	The 900 MHz spectrum, on the other hand, is an unlicensed area. That is, it is not possible to lookup what devices or users are using this spectrum in any specific location. Being an unlicensed spectrum, there simply is no database for these devices or users.
+	
+	Since this is an unlicensed area, it is not possible to predict which Group and Channels would work in a specific location. Thus, to determine which Group and Channels to use, simply use the Scan Function that is built into the receiver. Follow the instructions in the User Guide for the particular product of interest. The Scan will scan the airwaves and avoid other devices that are transmitting in the 900 MHz range, selecting a Group and Channel for that location.
+	
+	If you have multiple systems of the same type, make certain to set them to the same Group. In the X52 band, all the Channels within a single Group are compatible with each other.
+

@@ -1,0 +1,25 @@
+Title: FP22 Headphone Amp for monitoring
+Id: 1497
+Legacy Id: 1550
+
+Question:
+My church is looking for a simple-to-use, compact device that will use a microphone pickup to provide enough power for a set of headphones to hear clearly.
+
+
+Specifically, we would like the organist, sitting behind a choir, to be able to hear the sound from in FRONT of the choir (helps his timing). We've done this in the past by putting one of our Shure Easyflex gooseneck mikes in front of the choir, running a mike cable up to the organ console, connecting there with an OLD Altec-Lansing microphone input mixer (with phantom power and L/R channel switching capability) to feed an OLD stereo receiver via line input, and using the receiver's headphone plug. This has been a cumbersome arrangement.
+
+
+We also have some good quality mikes that do not require phantom power, as well as a wireless mike outfit.
+
+
+The FP22 looks like it could take a microphone input, either wired or using a wireless unit (which we have), and provide enough gain to give ample volume for a set of normal headphones.
+
+
+Is this the case? Or, is there another piece of equipment that would accomplish the same thing?
+
+
+Answer:
+
+	The FP22 is a perfect choice for this application. As you noted, the FP22 does not provide phantom power, so use a dynamic microphone.
+	
+	Another idea: the FP22 can be inserted into any mic cable run and not disturb the mic signal. If you already have a mic in the proper location, simply connect it to the FP22 first, then come out of the FP22 and continue the mic cable back to the mixing board. The FP22 will pass phantom power from the mixing board to the mic AND pick off a tiny bit of the mic signal, amplify it, and drive headphones as loud as desired.

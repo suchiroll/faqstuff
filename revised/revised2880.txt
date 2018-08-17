@@ -1,0 +1,14 @@
+Title: Aux Level definition
+Id: 2880
+Legacy Id: 3000
+
+Question:
+I recently have been studying the 200M mixer and I am confused about one of the outputs being "aux level". I have been all over Shure's website hoping to get a clarification of what is meant by "aux level" output but I am not getting the information I need. I understand what "mic level" output is and I understand what "line level" output is on other Shure mixers, but what is an "aux level" output on the 200M? How is it measured?
+
+
+Answer:
+
+	Aux is short for Auxiliary. An Aux level output is typically: unbalanced; a nominal level of -10dBV (0.1 volt); designed to feed an input with an impedance of 10,000 ohms or greater. As an example, an Aux output might feed a tape recorder input.
+	
+	An Aux Level input typically accepts a signal from a tape recorder output, CD player output, VCR audio output, etc.
+

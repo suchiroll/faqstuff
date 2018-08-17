@@ -1,0 +1,11 @@
+Title: T series Guitarist - rack mount?
+Id: 1910
+Legacy Id: 1971
+
+Question:
+Does Shure make a rack mount version of the Guitarist wireless system?
+
+
+Answer:
+
+	The Guitarist receiver may be rack mounted by using the Shure model URT (Universal Rack Tray).

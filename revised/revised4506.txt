@@ -1,0 +1,10 @@
+Title: BNC Connector Nut Thread Size
+Id: 4506
+Legacy Id: 5620
+
+Question:
+On my UA874 antenna, I need to replace the nut that secures the BNC connector to the amplifer enclosure. What is the thread size?
+
+Answer:
+
+	The thread size for the BNC connector nut is ½-28 UNEF. (EF = Extra Fine)

@@ -1,0 +1,52 @@
+Title: Discussion Systems vs. Conference Systems
+Id: 4490
+Legacy Id: 5604
+
+Question:
+What is the fundamental differences between a discussion system and a conference system?
+
+
+Answer:
+
+	As the use of these systems at meetings has grown, two distinct types have emerged: discussion systems and conference systems.Both provide the fundamental features necessary for a typical meeting:
+	
+	Sound reinforcement
+	Microphone control (by individual users and by the meeting leader)
+	Connection to additional recording or videoconferencing equipment
+
+	
+
+	The difference between these two types of conferencing solutions is one of scale and feature set. With so much in common, we wondered what criteria a customer could use in choosing between a digital discussion system and a digital conference system.Chris offered these guidelines.
+	
+	When to Choose a Digital Discussion System:
+
+	
+
+	The Customer Needs an All-in-One Sound System
+	
+	A discussion system is an instant sound system that doesnt require anything in the way of external equipment  each audio unit integrates a speaker, an amp and a microphone, and the power supply and brains of the system are all contained in a central unit (CU). Everything needed to conduct a successful meeting is built in.
+	
+	The System Must Be Portable and Easy to Set Up
+	
+	For temporary meetings, setting up a sound system can be time-consuming and result in cables running all over the floor.Since discussion units daisy-chain together, setting up is almost as easy as connecting a printer.If desired, the meeting leader can adjust the volume, activate microphones, and control the entire system using any PC, tablet, or iPad.
+	
+	Consistent Sound, Without Feedback, In Any Room
+	
+	Probably the primary concern of anyone running a meeting is that the system wont be loud enough or it will feed back before it is loud enough.The close-mic/close-loudspeaker design allows a discussion system to deliver great sound without feedback, regardless of room size or acoustics.
+	
+	When to Choose a Digital Conference System:
+
+	
+	Participants Speak Many Languages
+	
+	While most meetings in North America can be accommodated with the two languages of the DIS DDS 5900, international conferences often require additional language support.The DIS DCS 6000 Digital Conference System allows every participant to select from up to 31 languages.
+	
+	Polling or Voting Is Required
+	
+	Lecture halls, legislative bodies, or large corporate meetings often require a means of polling the participants or allowing them to vote. With optional software, the DIS DCS 6000 can be configured for polling/voting, and provides an automated means of recording and displaying the results.
+	
+	Custom Features Are Required
+	
+	Some customers need special features to fit their organizations particular meeting protocol.The DIS DCS 6000 can be expanded with optional hardware and software to do things like recognize each participants ID card, display the meeting agenda on a touchscreen, or archive each participants remarks.
+	
+

@@ -1,0 +1,16 @@
+Title: Wireless Workbench 6  install help with Mac OSX Mavericks
+Id: 4423
+Legacy Id: 5521
+
+Question:
+I just installed the new WWB today and got this message "Wireless Workbench Can't be opened because it is from an unidentified developer", I blew out my old version and now have none, can anyone offer help? I am on Macbook pro with 10.9.1 I was running a slightly older version of WWB 6 without any problems now I can't get it back either, same warning.
+
+Answer:
+
+	Apple Mavericks OS has a securirty feature called Gatekeeper, which attempts to prevent the operation of software that wasnt purchased through the App Store. This feature can be skirted, or turned off completely.
+
+	See the following link for more info:
+	http://osxdaily.com/2012/07/27/app-cant-be-opened-because-it-is-from-an-unidentified-developer/
+
+	
+

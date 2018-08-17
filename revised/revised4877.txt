@@ -1,0 +1,63 @@
+Title: P3R vs. P3RA
+Id: 4877
+Legacy Id: 6135
+
+Question:
+Please compare the PSM300 P3R to the P3RA.
+
+
+Answer:
+
+	The P3R is a wireless stereo bodypack receiver for use with the PSM300 Personal Monitor System. With 24-bit digital audio clarity, the P3R offers reliable wireless freedom that covers every corner of the stage. Simply connect a set of earphones and adjust the controls to create a wireless personal mix. Patented Audio Reference Companding ensures the clearest sound, with ultra-low noise and no artifacts. Use MixMode technology to customize the mono blend from two channels of audio, or select stereo mode and adjust the left/right balance as desired. One-touch frequency scan and automatic frequency selection enables quick setup and connection to a P3T transmitter via IR sync.
+
+	
+		Slim, lightweight, durable form factor
+	
+		Frequency scan and IR sync quickly finds and assigns a clean channel
+	
+		MixMode technology enables adjustment of two independent monitoring mix levels
+	
+		Stereo mode enables adjustment of left/right balance
+	
+		Easy to adjust volume knob and mix control
+	
+		2 AA batteries provide up to 6 hours of continuous operation
+	
+		Power save mode preserves battery life when earphones are not connected
+	
+		Power and battery status LED
+	
+		Does not remember MixMode setting when power cycled
+
+
+
+	The P3RA is a wireless stereo bodypack receiver for use with the PSM300 Personal Monitor System. With detailed 24-bit digital audio and reliable wireless performance, the P3RA bodypack delivers professional personal monitoring to any corner of the stage. Patented Audio Reference Companding ensures the clearest sound, with ultra-low noise and no artifacts. Find a wireless channel easily, using the scan function to automatically select the cleanest frequency available from a wide tuning bandwidth. Adjust the volume and use MixMode technology or stereo mode to create a personal mix from two channels of audio. EQ and volume limiting further individualize the sound via the high-contrast LCD menu. With a compact and rugged aluminum body, the P3RA ensures a long lifetime of use and easily clips onto a belt or guitar strap. Two standard AA batteries provide up to 6 hours of continuous use. The optional SB900 rechargeable battery (sold separately) extends runtime and allows easy in-unit charging.
+
+	
+		Rugged, all-metal construction
+	
+		High-contrast LCD screen with menu-based navigation
+	
+		2-band shelving EQ with high and low boost
+	
+		Volume limiter sets the maximum gain level range for the volume knob
+	
+		MixMode technology enables adjustment of two independent monitoring mix levels
+	
+		Stereo mode enables adjustment of left/right balance
+	
+		Frequency scan and IR sync quickly finds and assigns a clean channel
+	
+		2 AA batteries provide up to 6 hours of continuous use
+	
+		Optional Shure SB900 lithium-ion rechargeable battery provides extended runtime
+	
+		Power and battery status LED
+	
+		5-segment battery life meter
+	
+		Power save mode preserves battery life when earphones are not connected
+	
+		Remembers MixMode setting when power cycled
+
+

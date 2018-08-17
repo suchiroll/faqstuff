@@ -1,0 +1,14 @@
+Title: Can the MXA910 be painted?
+Id: 4991
+Legacy Id: 6259
+
+Question:
+Can the MXA910 be painted?
+
+
+Answer:
+
+	Yes, but please disassemble first.(see user guide)
+	
+	
+

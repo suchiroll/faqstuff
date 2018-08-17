@@ -1,0 +1,41 @@
+Title: PSM200 vs PSM400, PSM600, and PSM700
+Id: 2807
+Legacy Id: 2917
+
+Question:
+I am in a band with 2 other singers. The 3 of us are looking to purchase In-Ear systems. What is the difference between the different systems? We are on a budget and would like to get the PSM200s.
+
+
+Answer:
+
+	PSM200
+	Mono
+	Integrated Two Mic/Line Input Mixer with Volume Controls
+	Up to 4 transmitters in operation
+	Plastic Transmitter
+	Plastic Receiver
+	SCL2 earphones
+	
+	PSM400
+	Stereo
+	Line Level Inputs without Input Level Controls
+	Up to 6 transmitters in operation
+	Plastic Transmitter
+	Plastic Receiver 
+	SCL3 earphones
+	
+	PSM600
+	Stereo
+	Line Level Inputs with Input Level Controls
+	Up to 10 transmitters in operation
+	Metal Transmitter
+	Metal Receiver 
+	SCL3 earphones
+	
+	PSM700
+	Stereo
+	Line Level Inputs with Input Level Controls
+	Up to 16 transmitters in operation
+	Metal Transmitter
+	Metal Receiver 
+	SCL3 or SCL5 earphones

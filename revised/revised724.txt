@@ -1,0 +1,21 @@
+Title: Wireless microphone for 4 story building
+Id: 724
+Legacy Id: 743
+
+Question:
+---- 03/07/2001 02:26 AM ---------------------------------------------
+I am an installer and at present doing a retail store consisting of four floors. I would like to know which model of your cordless microphones will work on all four floors, if the receiver is placed on any one of the floors.
+
+
+03/08/2001 01:56 AM - 
+Thank you for your reply, Will follow your instructions. Wondering if I can use this UA221 with the ETV58D cordless mic/receiver set?
+
+
+Answer:
+
+	At 03/07/2001 08:58 AM we wrote - That depends on how large the floors are, the construction material used in the floors, the construction material used in the walls, how much background RF radiation there is, etc. We cannot guarantee that any or our systems would work in the manner that you described. For penetration through walls, the UHF system would work the best. Its actually the small wavelength of the frequency that is most beneficial. You should take one of these systems to the building to try it and see how the performance is. If the system does not cover all the floors, then you may need to have 2 pairs of antennas that get combined through a UA221 splitter/combiner. In this manner, you could place 1 antenna on each of the 4 levels of the store. This should provide adequate coverage.
+	
+	At 03/08/2001 08:51 AM we wrote - No, you cannot. The ETV58D is a VHF system. The UA221 will only operate in the UHF range. Also, the ETV58D has permanently mounted antennas, so you cannot remove the antennas from the receiver. The ETV58D is not the correct system for this installation.
+	
+	The only way you could use the ETV58D system is if you placed a separate T4N receiver (with the antennas still permanently mounted on the receiver) on each floor of the store. These 4 receivers would need to be on the same frequency. The audio output of the receiver would then need to be routed to an automatic mixer so that only one receiver would send audio at a time.
+

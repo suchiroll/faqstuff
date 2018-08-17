@@ -1,0 +1,15 @@
+Title: Replacement stylus for M99E on Marantz tonearm
+Id: 1624
+Legacy Id: 1681
+
+Question:
+I inherited a Marantz TT151 turntable. The tonearm has a Shure M99 cartridge. Unfortunately, the top of the cartridge looks like it was scratched, so I can't quite make out the final identifying letter. I think it's an "E", but I can't be sure.
+
+
+On the body of the turntable are the words "Replacement Stylus CTS551." Would this possibly help determine what cartridge I have? If so, could you also recommend a replacement stylus or cartridge?
+
+
+Answer:
+
+	The M99E was indeed a Shure cartridge model. The replacement stylus is the N104E.
+

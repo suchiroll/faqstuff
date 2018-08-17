@@ -1,0 +1,16 @@
+Title: P6R receiver - Alkaline vs. rechargable battery
+Id: 1793
+Legacy Id: 1853
+
+Question:
+I have several P6R receivers. It mentions in the manual to use 9-volt alkaline batteries, but will using rechargable 9-volt batteries affect or damage the receiver in any way?
+
+
+Answer:
+
+	A rechargeable battery will not harm the P6R receiver or any PSM receiver. But a rechargeable 9 volt battery has less current capacity of an alkaline 9 volt. Therefore, the operating time of the P6R will also be shorter. If that is an acceptable trade-off, then the rechargeable battery is an acceptable power source.
+	
+	Also, see the following link:
+	
+	Batteries and wireless microphones
+

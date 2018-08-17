@@ -1,0 +1,12 @@
+Title: DFR11EQ modem remote
+Id: 859
+Legacy Id: 886
+
+Question:
+I just called and was sent an application note titled "Controlling a DFR11EQ Using a Modem". The tech I talked to told me that I could only recall presets but the application note says that full control is possible. Which is correct? In addition, is it possible to control a network of DFR11EQ's or even two through one modem connection?
+
+
+Answer:
+
+	When using a remote modem, you will have full control of the DFR11EQ. You will also be able to control a complete network of DFRs, i.e. up to 16.
+

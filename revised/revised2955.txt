@@ -1,0 +1,13 @@
+Title: Changes to SM57 sound quality over the years?
+Id: 2955
+Legacy Id: 3082
+
+Question:
+I have heard older SM57's are coveted for there sound. Is this possible? Is there a material differeance at all between the 1970's SM57 and now?
+
+
+Answer:
+
+	The SM57 has a host of minor improvements made since its introduction.
+	
+	The dies and tools used to create the cartridge do wear out and they are custom made. As the old ones wear out, we have to custom make new dies and tools. This may account for any slight variation between older microphones and newer microphones.

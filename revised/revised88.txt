@@ -1,0 +1,11 @@
+Title: Has the SM58 always been shipped with the XLR connector Pin 2 Hot?
+Id: 88
+Legacy Id: 88
+
+Question:
+Has the SM58 always been shipped with the XLR connector Pin 2 Hot? I have four very old SM58 microphones and they are wired Pin 3 Hot. I suppose they may have been modified after market at some point if Shure has never issued the SM58 pin 3 hot.
+
+
+Answer:
+
+	Yes, the SM58 has always been supplied with Pin 2 hot. As a general rule, Shure products use Pin 2 hot in a balanced output configuration. Also, Pin 2 hot is the worldwide standard issued by AES (Audio Engineering Society).

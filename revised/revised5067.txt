@@ -1,0 +1,23 @@
+Title: TK-1 Terminal Kit from 1966
+Id: 5067
+Legacy Id: 6381
+
+Question:
+What is the function of the Shure product TK-1?
+
+
+Answer:
+
+	The TK-1 was a kit with crimping pliers for solderless terminal clips. The kit was housed in a cardboard box. In the box were:
+	
+	1 - Crimping pliers - manufactured for Shure by Klein Tools, Chicago
+	75 - Solderless clips
+	15 - Plastic heat-shrink tubes
+	Length of copper lead wire
+	
+	Shure communications microphones (two-way radio types) were supplied with a coiled cable. The wires inside of the coiled cable were tinsel-type conductors in order to endure the constant flex of the coiled cable. Tinsel conductors are notoriously difficult to solder. The TK-1 kit was used to attach a solderable solid wire or stranded wire to a tinsel conductor using a solderless clip that was crimped. By extending the tinsel conductor with a solderable wire, a technician could make soldered repairs inside of a communication microphone.
+	
+	TK = Terminal Kit
+	
+	Attached below is the TK-1 data sheet from 1966.
+

@@ -1,0 +1,31 @@
+Title: History of the Shure Unidyne model 55
+Id: 2613
+Legacy Id: 2715
+
+Question:
+I have the task of researching the classic 55 microphone. I have found some information on your site already which has been helpful but I am still after some other info. Such as;
+
+When was it first released?
+And discontinued?
+How much was it selling for?
+And how much to buy one now?
+Do you have any polar pattern diagrams of this mic?
+
+Any information would be much appreciated.
+
+Answer:
+
+	
+		1939
+	
+		We still make the model 55SH Series II - a direct descendant, and the Super 55. The limited production model 5575LE was introduced in December 2014. Only 5,575 units will besold.
+	
+		$45 in 1939
+	
+		Contact a local Shure dealer for current pricing.
+	
+		Polar patterns are in the Data Sheet. Go to the User Guide section of the Shure web site.
+
+
+	The attached PDF files document the history of the Shure Unidyne microphone. The 2014 book was published to celebrate the 75th anniversary of the Unidyne microphone. It is a large file and may be slow to download.
+

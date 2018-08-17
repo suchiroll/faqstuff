@@ -1,0 +1,11 @@
+Title: Linking FP24 to FP410
+Id: 2123
+Legacy Id: 2192
+
+Question:
+Can I link or bus the FP24 into the FP410 (knowing of course the FP24 will not provide the auto gating of the FP410)? Does the link33 cable work with the FP410?
+
+
+Answer:
+
+	Sorry, it won't work. The FP410 link signal level and impedance is very different than the FP24 output. The FP410 "Mon In" jack can be modified (internally) to become a fifth input. The FP24 could feed into this jack.

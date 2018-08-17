@@ -1,0 +1,12 @@
+Title: Custom ear molds for model SE846
+Id: 4428
+Legacy Id: 5527
+
+Question:
+I have custom ear molds for my SE535s. Will they fit on the SE846?
+
+
+Answer:
+
+	Sorry, molds for the SE535 will not fit the SE846.The housing of an earphone is part of the acoustical network, so the housings of different models have to vary in size and shape based upon the acoustical requirements.
+

@@ -1,0 +1,41 @@
+Title: Short BNC cables with Axient Receiver
+Id: 4020
+Legacy Id: 4427
+
+Question:
+What BNC cables are included with the Axient AXT400 receiver?
+
+
+Answer:
+
+	The AXT400 receiver includes two short BNC cables that are different lengths.
+	
+
+	
+		
+			
+				Qty
+			
+				Part Number
+			
+				Description
+		
+		
+			
+				1
+			
+				95B9023
+			
+				BNC cable (short one)
+		
+		
+			
+				1
+			
+				95C9023
+			
+				BNC cable (long one)
+		
+	
+
+

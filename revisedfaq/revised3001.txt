@@ -1,0 +1,37 @@
+Title: When to choose SLX over ULX wireless systems?
+Id: 3001
+Legacy Id: 3129
+
+Question:
+I'm interested in buying a wireless system, but can't determine if I should get the SLX or ULX.  Can you help me?
+
+Answer:
+	How many systems will be operating simultaneously?
+	When deciding between SLX and ULX systems, one has to first determine how many total wireless systems will be operated simultaneously. This is the most important deciding factor. The SLX systems are available in five 24 MHz wide frequency ranges: G4 (470-494 MHz), G5 (494-518 MHz), H5 (518-542 MHz), J3 (572-596 MHz), and L4 (638-662 MHz). Within these bands, there is the ability to operate up to 12 total systems. If all 5 bands are utilized, then about 25 systems can usually be operated together. ULX systems are available in three 36 MHz wide frequency ranges: G3 (470-506 MHz), J1 (554-590 MHz), and M1 (662-698 MHz). Within these bands there is the ability to operate up to 20 systems. By utilizing all bands, it is usually possible to operate about 40 systems. Therefore, if 25 or fewer systems will be operated at the same time, SLX would be a lower cost solution offering some of the same features of the higher priced ULX (i.e. Audio Reference Companding, Automatic Frequency Scan, etc.)	Is there a need to power remote antenna amplifiers directly from the receiver?
+	When remoting antennas, it is often necessary to use in-line antenna amplifiers to compensate for loss in the antenna cable. The power for these in-line amplifiers usually comes from the wireless receiver’s antenna inputs. The SLX4 receiver does not supply this power. Remote antenna amplifiers can be used with SLX, but only if a Shure UA844 antenna splitter/power distribution system is used. ULX receivers (both the Standard and Professional) do supply power for remote amplifiers directly from the antenna inputs on the back of individual receivers. Therefore, if there is the need to power remote antenna amplifiers (i.e. UA830, UA874) directly from a receiver, then ULX would be the proper choice.	Is battery cost an issue?
+	SLX transmitters will get 8 hours of usage out of two "AA" batteries. ULX transmitters use one 9V battery and also get 8 hours of usage. Two "AA" batteries will cost about half the price of one 9V battery. This could result in significant savings in the long run. If battery cost is an issue, consider using SLX.
+	
+		
+			
+				These three questions should go a long way in helping decide which systems best suit your needs. You should also contact Shure Technical Support for assistance in choosing and using your Shure wireless systems. Also visit our Wireless Frequency Finder for assistance in selecting which frequency bands are best for your geographic area.
+		
+	
+
+	Other differences of note between SLX and ULX:
+	
+		SLX bodypack transmitters are slightly thinner (.75 in. vs. 1.10 in.) than the ULX bodypack, although it is slightly taller (4.25 in. vs. 3.86 in.). They weigh essentially the same.
+	
+		SLX receivers are smaller and therefore allow front mounting of antennas in a side-by-side configuration with only a UA221 passive splitter, and without the use of a UA440 front mount antenna kit and another rack space. ULX receivers are too wide to allow for front mounting in the same rack space when mounted side-by-side.
+	
+		When powering on either an SLX or a ULX transmitter, there is a 2 to 3 second delay until audio is present. With an SLX transmitter, the on/off button also functions as an audio mute switch, so you can mute the audio instantaneously without powering off the unit. On ULX transmitters, there is no separate mute function; the transmitter is powered on and off.
+	
+		The SLX2 handheld transmitters feature a –10dB pad for high volume applications. ULX does not have this feature at this time, although modification can be made at the factory.
+	
+		The SLX4 receiver does not provide a balanced line level output. The SLX XLR output is mic level only. The SLX 1/4" output is 14 dB hotter than the XLR output. The ULX4 receiver has an XLR balanced output can be switched between microphone level and microphone level plus 30 dB.
+	
+		SLX transmitters do not have an adjustable gain potentiometer. Normally, this is not a problem, but if you prefer fine control of the gain setting, ULX may be a better choice.
+	
+		The SLX transmitters use a push button switch. The ULX transmitters use a toggle switch. Thus, the ULX should be used if it is necessary to be able to tell, by touch, if the transmitter is on or off. The SLX transmitter has an LED to indicate it's power status.
+	
+		The SLX system offers infrared sync, whereas the ULX transmitters must be manually tuned to the appropriate frequency.
+

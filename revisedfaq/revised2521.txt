@@ -1,0 +1,12 @@
+Title: Microphone to use underwater (hydrophone)
+Id: 2521
+Legacy Id: 2617
+
+Question:
+What microphone should I use to pick up sound underwater?
+
+
+Answer:
+
+	A microphones used to pick up sound in the water is known as a hydrophone. Shure does not offer a hydrophone. See: http://www.dolphinear.com/pro/index.htm
+

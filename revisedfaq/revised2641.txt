@@ -1,0 +1,19 @@
+Title: Replacement transmitter for SC series
+Id: 2641
+Legacy Id: 2743
+
+Question:
+Are replacement transmitters still available for the SC series? I need 2 SM58 type handhelds and a body pack for my existing system.
+
+
+Answer:
+
+	Replacement transmitters are no longer available for the SC series.
+	T2/58 transmitters may be used, with the following restrictions:
+	
+		The T2/58 is only available on a handful of frequencies that the SC series was offered on. Thus, frequencies must be checked first.
+	
+		The SC4 receiver must be set to the center frequency.
+	
+		Tone key must be turned off on the SC4 receiver.
+

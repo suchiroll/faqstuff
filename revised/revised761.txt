@@ -1,0 +1,21 @@
+Title: Cable for 555
+Id: 761
+Legacy Id: 781
+
+Question:
+I was lecturing at a local school about cable care, and noticed a 555H at the bottom of a pile of tangled cables.  When I asked, I was told that it "doesn't work".  I offered to take it and take a look at it.
+
+Well, the thing was fairly well abused, and the connector was ripped away from the rest of the mike and then stuffed back into the hole.  No consideration was given for the keyway, so it had been jammed in there pretty tight.  I went to the Shure website to see who I could contact about getting the right wire to the right pin, and lo and behold, there was the schematic!
+
+Not only on the cutting edge of mic technology, but also on the edge support-wise.   Kudos to all responsible!
+
+Anyhoo, the thing has been so mangled, I'd like to replace the strain relief spring, and I'd like to get the real thing.  I could prolly fake it from a hardware store, but what are the chances that you guys could sell me one.  While you're at it, see if you can get me six inches each of the wire, and I'll rewire the thing.  
+
+Thanx!
+
+Answer:
+
+	Thank you for the compliments. We have bad news for you. The 555 is a very old mic and Shure has not had replacement parts for many years. Your hardware store idea is a good one. Mic cable can be purchased at Radio Shack.
+	
+	You might also be able to get a new cable from Tom Ellis at tomsmics@flexcomp.com. Tom makes and sells replacement cables for old microphones.
+

@@ -1,0 +1,15 @@
+Title: CP 7890 Camera Control and camera models
+Id: 4741
+Legacy Id: 5918
+
+Question:
+What cameras are supported by the CP 7890 Camera Control package?
+
+
+
+Answer:
+
+	Only these two Sony models are compatible with the CP 7890:
+	EVI-D70P
+	BRC-300/300P
+

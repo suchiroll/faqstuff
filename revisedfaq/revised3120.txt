@@ -1,0 +1,16 @@
+Title: Audio Isolation Transformer - Line Level
+Id: 3120
+Legacy Id: 3254
+
+Question:
+I need a one to one audio isolation transmformer, XLR in/XLRout, that can handle line level. Does Shure make one?
+
+
+Answer:
+
+	Shure does not.
+Lundahl Tranformers, a Swedish company, offers the model LL1584-3FX3MX that meets your requirements. It is rated for 600 ohms and has a maximum signal level of +17dBu at 50Hz. Lundahl offer a variety of other transformers with different input and output connectors.
+	http://www.lundahl.se  U.S. agent: www.kandkaudio.com
+
+	Also, Radial Engineering makes one.  It is the Ice Cube model IC-1.   www.radialeng.com
+

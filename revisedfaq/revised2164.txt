@@ -1,0 +1,40 @@
+Title: Wireless clip-on instrument mic for trumpet
+Id: 2164
+Legacy Id: 2237
+
+Question:
+I have a Shure Wireless System - the components are:
+
+
+T4G Diversity Receiver - Guitar
+
+T1G Guitarist Transmitter
+
+PS20 Power Supply Adapter
+
+
+I used the above with an AKG clip-on instrument mic, which I plugged into an AKG B9 Battery Power Supply that plugs into the T1G Transmitter. I don't use the AKG mic or the battery transmitter anymore as they have had cable prolems and I don't want two devices clipped on my belt.
+
+
+I understand that the system I have is designed for guitar, and this particular transmitter cannot drive a condenser-type mic.
+
+
+Can you recommend a good clip-on instrument mic (for a trumpet) that I can use with this system that doesn't require the additional battery pack? What other options do I have?
+
+
+Thanks in advance for your reply.
+
+
+George Pandis
+
+Burbank, CA 91504
+
+
+
+Answer:
+
+	You can buy a T1 transmitter on the same frequency as your T4G receiver. The T1 has a four pin input unlike the T1G transmitter.
+	For the mic, get the WM98KCS. It will plug directly into the T1.
+	
+	The WM98KCS is being replaced by the WB98H/C. Either might be available from Shure dealers in your area. Buy whichever sounds better to your ear.
+

@@ -1,0 +1,11 @@
+Title: E5 earphones with other in ear systems
+Id: 1171
+Legacy Id: 1212
+
+Question:
+Can I use the E5 with a Sennheiser In ear system?
+
+Answer:
+
+	The Shure E1 or E5 will likely work fine, but we suggest you try them first.
+

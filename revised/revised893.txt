@@ -1,0 +1,11 @@
+Title: Suggestions for percussion mics
+Id: 893
+Legacy Id: 921
+
+Question:
+What would you recommend for micing this setup? 1 set of congas,1 set of bongos, & assorted shakers,cymbals,(overhead mic),etc. Low-intermediate budget for playing live.
+
+Answer:
+
+	SM57s for the congas and bongos. PG81 for the shakers and cymbals.
+

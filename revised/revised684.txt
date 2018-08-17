@@ -1,0 +1,12 @@
+Title: 2 wireless mics for 1 receiver
+Id: 684
+Legacy Id: 701
+
+Question:
+I recently ordered your uhf wireless headset mic system from the dealer I go through. With that system I added a wireless SM58 handheld mic on the same frequency so I have the flexibility to use one or the other as needed. They came in with different frequencies and I'm wondering if the company made a mistake or if the frequencies don't have to be exact in order for the receiver to recognize both transmitters. The 2 different frequencies. are very close, one is 600.500mhz(approx) and the other is just around 596.000(approx).
+
+
+Answer:
+
+	To do what you suggest, the two transmitters must be on the exact same frequency. Return to the Shure dealer and request a new handheld transmitter on the exact frequency of your receiver.
+

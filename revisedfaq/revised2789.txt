@@ -1,0 +1,22 @@
+Title: Sennheiser ME 3 with Shure transmitter
+Id: 2789
+Legacy Id: 2897
+
+Question:
+How do I wire a Sennheiser ME 3 to a Shure transmitter?
+
+
+Answer:
+
+	This answer was provide by our colleagues at Sennheiser. Vielen Danke!
+	
+	Sennheiser ME 3 microphone to the TA4F connector that mates with a Shure transmitter:
+	
+	a) Yellow wire and shield to pin 1
+	
+	b) 8,200 ohm resistor between pin 2 and pin 3
+	
+	c) Jumper wire between pin 3 and pin 4
+	
+	d) Red wire to pin 4
+

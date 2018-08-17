@@ -1,0 +1,20 @@
+Title: E1 or E5 with Carvin in-ear system
+Id: 1678
+Legacy Id: 1735
+
+Question:
+---- 09/10/2001 11:16 AM ---------------------------------------------
+I currently use an in-ear monitor system from Carvin.  The system works fine but the ear buds don't stay in.  Are either E1 or E5 earpieces compatible with my Carvin system.
+
+---- 09/10/2001 11:24 AM ----------------------------------------------
+The Carvin connector is 1/8" mono.
+
+
+Answer:
+
+	At 09/10/2001 11:18 AM we wrote - The E1 and E5 have a standard stereo 1/8 connector on them. We do not know what connector the Carvin in-ear system has.
+	
+	At 09/10/2001 11:50 AM we wrote - When using the Carvin, you will likely only have audio in one ear when using the E1 or E5.
+	
+	Here is a simple solution. Radio Shack sells an adaptor #274-368. It connects to an 1/8 mono jack (the Carvin) but feeds an 1/8 stereo plug (the Shure E1 or E5).
+

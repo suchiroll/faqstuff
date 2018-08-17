@@ -1,0 +1,12 @@
+Title: I-Series and Pocket PC
+Id: 3150
+Legacy Id: 3288
+
+Question:
+I own a Windows Mobile Pocket PC which has a 2.5mm 4-conductor headset jack. Will your Treo version of the I Series work with my phone, and if not, is there an adapter I can purchase?
+
+
+Answer:
+
+	The I series Treo version will work with some PPC. We are aware of a few Pocket PC phones that will work with the Treo version I series without an adapter. Please check the phone compatability list by clicking below or you can Ask a Question by clicking the above tab if you dont see your phone listed.
+

@@ -1,0 +1,17 @@
+Title: Custom Earphone Cable
+Id: 4652
+Legacy Id: 5815
+
+Question:
+I own a pair of Shure SE846 earphones. I want a custom cable that is a specific length. Does Shure offer custom cables?
+
+Answer:
+
+	Sorry, Shure does not offer custom made cables.
+	
+	There are companies,not associated with Shure,that do offer after-market custom made cables. Here is an example: http://www.plussoundaudio.com/customcables/inearmonitor.html
+	
+	Shure does not endorse custom cables made by other companies; Shure does not test custom cables made by other companies; Shure does not endorse any specific company that sells custom cables. The information above is provided only as a service to Shure customers seeking such cables.Note that using non-Shure cables on Shure earphones could result in the Shure product warranty being null and void.
+
+	For reviews of after-market cables: http://www.head-fi.org/
+

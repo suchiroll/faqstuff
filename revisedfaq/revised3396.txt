@@ -1,0 +1,15 @@
+Title: What hole diameter is required for the MX395?
+Id: 3396
+Legacy Id: 3585
+
+Question:
+What size hole do I need to drill in the table top for the MX395 button mic?
+
+
+Answer:
+
+	The MX395 requires a 1-inch hole.
+	
+	Note that the barrel of the MX395 is only 7/8-inch, but the rubber grommets used for shock isolation fill up the other 1/8-inch.  The precise outer diameter of the MX395 barrel is 22 mm (0.863 inches).
+	
+	The maximum diameter of the plastic wing nut (used underneath the table to secure the MX395) is 2.25 inch

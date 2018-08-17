@@ -1,0 +1,28 @@
+Title: Referee Mute Switch for Wireless Microphone
+Id: 3932
+Legacy Id: 4181
+
+Question:
+Football referees require that we use the Telex model RSB-2 mute switch for field announcements. It is only compatible with certain Telex wireless microphone systems. Can the RSB-2 be modified for use with Shure wireless microphone transmitters? Does Shure have its own version of the Telex switch?
+
+
+Answer:
+
+	Shure offers the WA360, or WA661, or WA662 mute switch for this purpose. Sports referees, especially for football, often wear wireless microphones to announce game progress and penalty decisions. They require a push-to-talk mute switch that can be easily operated.
+	
+	Some referees at high profile events insist upon the Telex RSB-2 mute switch.This circuit can be used to modify the RSB-2 to be compatible with Shure wireless microphones and transmitters.
+	
+
+	
+
+	Also make certain that pin 3 and pin 4 are not connected together in the TA4F connector on the mic cable. If there is an DC voltage measured at any pin 3, audible popping can occur when the SW1 is opened or closed.
+	
+	Parts List:
+	R1  20k Ohms, 1/8 or1/4 Watt Resistor
+	R2  100k Ohms, 1/8 or1/4 Watt Resistor
+	C1  0.12 uF capacitor, 20 Volts DC or better, polyester film or ceramic, can substitute 0.15, 0.18, or 0.22 uF capacitor if needed
+	C2  150 pF capacitor, 20 Volts DC or higher, ceramic
+	SW1  SPDT Toggle Switch, with or without spring return (switch is part of the RSB-2)
+	
+	Resistors and Capacitors can be purchased from Mouser Electronics
+

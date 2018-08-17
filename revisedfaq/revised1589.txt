@@ -1,0 +1,13 @@
+Title: Cable Length for 514B
+Id: 1589
+Legacy Id: 1645
+
+Question:
+What is the maximum cable length I can use with the 514B mic while still providing clear audio and PTT functionality? What is the best type of cable to use in this application?
+
+
+Answer:
+
+	We will assume that the 514B will be feeding a device with a low impedance, balanced input. In that case, 1,000 feet of cable is acceptable.
+	
+	Use a microphone cable with a shielded twisted pair for the audio, and an unshielded twisted pair for the PTT circuit. Check: http://www.belden.com

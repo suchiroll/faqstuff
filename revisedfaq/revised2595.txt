@@ -1,0 +1,18 @@
+Title: FP33 - DC Power Source
+Id: 2595
+Legacy Id: 2696
+
+Question:
+I would to power my FP33 using an external battery such as a quantum or np1 for longer run times. What are the specs?
+
+
+Answer:
+
+	The external voltage can be from 12 to 30 volts dc.
+	
+	The FP33 dc jack accepts either polarity from the battery.
+	
+	The red flashing POWER LED on the FP33 is not accurate for NP1 use. It is set up to indicate when the internal 9 volts batteries are low. Ignore this warning when using an NP1.
+	
+	A fully charged NP1 will run the mixer for several weeks.
+

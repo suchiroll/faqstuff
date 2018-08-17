@@ -1,0 +1,12 @@
+Title: Microphone diaphragm material
+Id: 2323
+Legacy Id: 2409
+
+Question:
+Of what material are the best dynamic microphone diaphragms made from? Plastic, metal or something else? What are the pros and cons of various materials? Also, what diaphragm material is used in your SM57 and SM58. I use microphones professionally as a musician, and I'd like to know.
+
+
+Answer:
+
+	Professional microphones typically use Mylar plastic as the diaphragm material. The exact formula of Mylar used is a trade secret and is likely different for each microphone company. The SM58 and SM57 use Mylar.
+

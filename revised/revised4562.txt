@@ -1,0 +1,18 @@
+Title: Scanning on MXW v2.0.5
+Id: 4562
+Legacy Id: 5687
+
+Question:
+I have an MXW wireless system with ver 2.0.5 firmware. When I try to scan the environment, the scan data does not show up.
+
+
+Answer:
+
+	As of Oct 28, 2014, we have discovered a bug in ver 2.0.5 firmware that can cause the scan data to not show.
+	
+	Thankfully, there is a workaround.
+	
+	After starting the scanner, x-out of the pop-up (do NOT stop the scan), and re-open Spectrum Scanner.The Scanner is working, its just not initially writing to the webserver GUI in some cases.
+	
+	A new firmware that fixes this issue will be made available a few weeks from the above date. Use the Shure Update Utility to check for new firmware.
+

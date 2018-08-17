@@ -1,0 +1,11 @@
+Title: X2u & Windows 10
+Id: 5427
+Legacy Id: 6394
+
+Question:
+Can I use the Shure X2u with Windows 10?The X2u gets high ratings, but I can not find if it is compatible with Windows 10.
+
+Answer:
+
+	I went and tested the X2U on a computer here that was running Windows 10 with the Voice Recorder application and it worked quite well.
+

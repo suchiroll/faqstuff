@@ -1,0 +1,13 @@
+Title: Replacing Mixer M68
+Id: 945
+Legacy Id: 973
+
+Question:
+I am trying to find a replacement mixer for Church.  The old one was a Shure model M68, four mic inputs, one aux input - each with adjustable level and a master output control.  It was being used for the area of the music group to add more mics as necessary and control them in common.  I recently attended a seminar at a motel complex where I saw a unit looking suspiciously like it with a slightly newer look.  I believe it was a model M68FCA. I need to find a replacement.  Do you have a recommendation?
+
+Answer:
+
+	The SCM268 is a direct replacement.
+	
+	Shure only sells via Shure dealers. Click here for a Shure dealer in your area.
+

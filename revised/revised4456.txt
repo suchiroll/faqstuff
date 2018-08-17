@@ -1,0 +1,33 @@
+Title: Is the MX153 compatible with Axient Analog and MXW wireless systems?
+Id: 4456
+Legacy Id: 5562
+
+Question:
+Is the MX153 compatible with Axient Analog and Microflex Wireless systems?
+
+
+Answer:
+
+	There are potential issues that can be encountered when using the MX153 ear-worn microphone with either the Axient or MXW wireless systems.
+	
+	AXIENT and MX153 compatibility:
+	Please note that the MX153 ear-worn microphone may not operate properly with certain Axient AXT100 body pack transmitters.The possible symptoms include poor audio quality or no audio.This is because bias voltage provided by the original release of Axient AXT100 transmitters is 8V, which is higher than recommended for the MX153 (5V bias is recommended).Only these original vintages of the AXT100 will have this issue.Starting around mid 2014, product enhancements were introduced to the AXT100 packs on a band-by-band basis that included reducing the bias voltage to 5V. Therefore packs purchased mid-2014 or later may work with the MX153 with no problem.
+	
+	There are three ways to tell whether the AXT100 is a newer vintage:
+
+	
+		On the Outer Box. Look at the packing label on the white paper outer box and see if the model number says AXT100+=- (freq band) instead of AXT100=-).If it has the + in the model number, it is the latest design and should work.
+		
+	
+		On the LCD Screen. As you power up the body pack, observe the bottom right part of the screen.If it displays display R5 instead of R4 in the lower right corner on the splash screen, the pack is a newer vintage and should work with the MX153 (see image shown below).
+		
+	
+		On the back of the AXT100.Remove the AXT100s battery. Look for a label in the body pack battery compartment that statesAuto On, 5V bias (Note: Auto On indicates a separate feature that has also been added to the new AXT100 hardware; it has nothing to do with audio connector bias voltage.)
+		
+
+
+	MXW and MX153 compatibility:
+	With MXW, the issue is not audio related since the MX153 will sound fine with the MXW system.The difficulty in initially configuring MXW bodypacks to function with the MX153 is that the omnidirectional element on the body pack does not deactivate when the MX153 is plugged into the MXW1/O bodypack.To mitigate this, set the bodypack to External Microphone using the browser based GUI. This enables the MX153 to always work, but dis-allows the built-in omnidirectional microphone to activate when the MX153 is unplugged.Set the gain for this mic using the Gain control on the GUI labeled Ext (as opposed to Int for the internal mic).See below for a screen capture of the browser GUI control for the MXW1/O bodypack.
+	
+	
+

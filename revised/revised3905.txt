@@ -1,0 +1,38 @@
+Title: WWB6 - Zones and frequency calculations
+Id: 3905
+Legacy Id: 4151
+
+Question:
+How do "zones" affect the frequency calculations in WWB6?
+
+
+Answer:
+
+	The Zone definition for WWB essentially means one RF operational area is significantly isolated (by distance, shielding, power level, etc.) from another RF operational area.By significant isolation we mean several things:
+
+	
+		Intermodulation products produced between transmitters operating within one zone can be safely ignored in another zone
+	
+		Intermodulation products produced between transmitters operating within different zones can be safely ignored
+	
+		However, direct interference is still possible between a transmitter in one zone and a transmitter in another zone that operate at the same frequency - which is normally avoided
+
+
+	Safely ignored means that the resulting intermodulation product level is below the squelch level at the distant receiver.
+	
+	Frequency coordination within one zone must satisfy the usual requirements:minimum channel-to-channel frequency spacing and minimum channel-to-intermod spacing.The only requirement for frequency coordination between zones is that minimum channel-to-channel frequency spacing is satisfied.Thus, no frequencies are repeated between zones.
+	
+	To determine whether a particular set of RF operational areas conforms to the zone definition, it is necessary to make some assumptions, some measurements, or both.It is the actual amount of isolation that must be estimated or measured.Measurement is fairly straightforward and consists of setting up at least two closely-spaced transmitters in one area and testing whether the resulting intermodulation products can be easily picked up by a receiver located in another area.If the intermodulation products are negligible at the receiver, then these areas can be considered as different zones for purposes of frequency coordination.If the intermodulation products are very strong then the two areas must be considered as a single zone.
+	
+	Often measurement is not practical and the result must be estimated.A typical interior or exterior wall, floor, or ceiling in a commercial building is usually sufficient to create a zone boundary.For residential construction the result may vary depending on construction materials.Multiple residential walls or floors will usually be sufficient.
+	
+	Of course metal structures can provide significant isolation if they are large compared to the radio wavelength and any openings in the metal structure are small compared to the radio wavelength.
+	
+	Finally, distance alone may provide significant isolation since the level of the radio signal decreases by 3dB each time the distance is doubled.A zone-to-zone distance of 50-100m may be sufficient if the transmitter-to-receiver distance within each zone is 10m or less.Keep in mind also that intermodulation product strength is inversely proportional to the distance between the transmitters that are producing it.
+	
+	In a multi-room facility such as a school building, even though the rooms may be fairly small, it is probable that each room can be treated as a separate zone.If there is only one transmitter per room, then it is only necessary to satisfy minimum channel-to-channel frequency spacing for all the systems in the building.No intermodulation products need to be considered.
+	
+	If there are multiple systems per room, then the systems within each room must be fully coordinated with each other.However, from room to room it is then only necessary to satisfy minimum channel-to-channel frequency spacing.
+	
+	This is essentially what the Wireless Workbench 6 program does in the multi-zone mode.It calculates a fully compatible set of frequencies for the first zone and then calculates a fully compatible set of frequencies for the next zone that also satisfies minimum channel-to-channel frequency spacing with the systems in the first zone.The process is repeated in each successive zone, continuing to satisfy minimum channel-to-channel frequency spacing with systems in all previous zones.
+

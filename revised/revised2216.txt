@@ -1,0 +1,16 @@
+Title: Information on AXS1 vocal wired microphone
+Id: 2216
+Legacy Id: 2292
+
+Question:
+Where are the specs, etc. on the AXS1 product?
+
+
+Is it a discontinued item?
+
+
+Answer:
+
+	See the following link: 
+	
+	http://www.shure.com/user-guides/us_pro_axs1_ug_27d3074_ac_.pdf

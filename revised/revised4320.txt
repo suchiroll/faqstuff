@@ -1,0 +1,14 @@
+Title: Axient Network Over Wi-Fi
+Id: 4320
+Legacy Id: 5398
+
+Question:
+Will the Axient spectrum manager communicate to Axient receivers via wi-fi and still perform all the interference avoidance functions?
+
+
+Answer:
+
+	Shuredoes not recommend a Wi-Fi link between Axient hardware components because the wireless data link is not as reliable as cable.
+
+	However, it can be done by configuring a pair of wireless routers as repeaters as they will talk to each other.Shure network engineers tested this concept and it worked for a small-sized Axient system.But it was found that many consumer grade routers will limit multicast traffic and the Advanced Control Network (ACN) uses a substantial amount of multicast traffic.There will be dropped packets and potential lag with a Wi-Fi connection; this is not desired when setting up a mission-critical wireless such as Axient.
+

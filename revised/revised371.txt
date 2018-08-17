@@ -1,0 +1,15 @@
+Title: Convert MX185 from Tiny Q-G to XLR
+Id: 371
+Legacy Id: 378
+
+Question:
+We'd like to use an MX185 with a Rane MS1 pre-amp we have. This pre-amp only has XLR input.
+
+1) Is an adaptor from Tiny Q-G to XLR a standard item? Where can we get one?
+2) Is the pre-amp included with the MX185 TinyQ-G in and Tiny Q-G out, or is it XLR out?
+
+Answer:
+
+	The MX185 preamp circuit has a Tini QG, four pin male input. It's output is a standard male 3 pin XLR. This preamp changes the impedance of the MX185 mic capsule output signal and balances the signal. It requires 11 - 52 volts of phantom power to operate.
+	
+	The MX preamp must be used if you intend to connect the MX185 to the Rane MS1. Do not attempt to connect the MX185 mic capsule to the Rane without the MX preamp!

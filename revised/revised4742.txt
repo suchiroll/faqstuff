@@ -1,0 +1,30 @@
+Title: Motiv MV88 and Bluetooth
+Id: 4742
+Legacy Id: 5922
+
+Question:
+Can I use Bluetooth Earphones while using the MV88?
+
+
+Answer:
+
+	Within the MV88 Motiv App 'Recorded Files' screen, you can play back recorded files via Bluetooth - after syncing the iPhone to your Bluetooth device through the regular "settings" menu on your device.  
+	
+	But you cannot monitor the MV88 in real time via Bluetooth; this can be done only through the iPhone headphone jack on the device.  
+	
+		You can enable live monitoring (using the headphone jack) by selecting the "menu" button in the upper right corner of the MV88 Motiv App.
+		
+	
+		Then select "Info".
+		
+	
+		Then toggle the "Input Monitor" to the "On" position.
+		
+	
+		Turning on this setting allows you to monitor (listen) to the MV88 mic through the headphone jack.
+
+	Apple restricts the MV88 Motiv App to one of two states: an active USB audio stream (during recording); or a Bluetooth audio stream (during playback).
+	
+	Note the MV88 device itself does not use Bluetooth.  The MV88 employs a wired connection into the iPhone and feeds the two MV88 mic signals into the iPhone circuitry via circuit board conductors.
+	
+	Read more about Bluetooth here: Bluetooth Basics

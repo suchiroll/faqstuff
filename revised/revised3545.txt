@@ -1,0 +1,16 @@
+Title: PSM700 and PSM400 inter-compatibility in X1 band
+Id: 3545
+Legacy Id: 3751
+
+Question:
+Do the specific frequencies that PSM400 and PSM700 operate on in the X1 band align at any point? For example, would it be possible to use a P7R with a P4T?
+
+
+Answer:
+
+	P4R used with P7T
+	
+	It also works with a P7R and P4T.
+	
+	3 shared frequencies in the X1 band:951.875 / 944.125 /944.975 MHz
+

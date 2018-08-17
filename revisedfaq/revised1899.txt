@@ -1,0 +1,15 @@
+Title: Popularity of SM58
+Id: 1899
+Legacy Id: 1960
+
+Question:
+I am a student studying 'Audio Engineering' with the SAE College in London. My main thesis is: What has made the Shure SM58 Microphone so popular in both studio and live environment?
+
+
+Answer:
+
+	1) Great sound
+	2) Reasonable price
+	3) Nearly indestructable
+	
+	All three qualities in one microphone make for a very popular product.

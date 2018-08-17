@@ -1,0 +1,13 @@
+Title: Beta 52 - transformerless?
+Id: 3899
+Legacy Id: 4145
+
+Question:
+Can you tell me if the Beta 52 has an output transformer?
+
+
+Answer:
+
+	The Beta 52A does not contain a transformer.It does have a passive response shaping circuit with two capacitors, an inductor, and a resistor.
+	
+

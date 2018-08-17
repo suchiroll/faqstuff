@@ -1,0 +1,13 @@
+Title: Where can I get Service Manuals for wireless systems?
+Id: 1649
+Legacy Id: 1706
+
+Question:
+I am the sound technician for my Church and am tasked with setup and repair of all of our sound equipment.  I am an experienced RF technician with necessary RF service equipment.  We have several Shure LX4 wireless.  Could you please tell me the availability, price, and order information for alignment and service documentation for this wireless series?
+
+Answer:
+
+	Service manuals can be purchased through our Service Department at 800-516-2525 or 847-600-8699. Information concerning service, repair, parts and warranty of Shure products can be found at the following link:
+	
+	http://www.shure.com/americas/support/service-repair
+

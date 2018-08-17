@@ -1,0 +1,21 @@
+Title: TAA Compliance and Buy American Act
+Id: 4341
+Legacy Id: 5426
+
+Question:
+Are Shure products compliant with TAA?
+
+GSA Schedule Contracts for selling products to the United States Federal Government are subject to the Trade Agreements Act (TAA), meaning all products listed on the GSA Schedule Contract must be manufactured or "substantially transformed” in a "designated country”. The designated countries are composed of:
+
+World Trade Organization Government Procurement Agreement Countries
+Free Trade Agreement Countries
+Least Developed Countries
+Caribbean Basin Countries
+
+
+
+
+Answer:
+
+	Shure has a department that answers questions regarding TAA compliance, Buy American Act,Country of Manufacturer, and Customs regulations. Please submit your question to: trade_compliance@shure.com
+

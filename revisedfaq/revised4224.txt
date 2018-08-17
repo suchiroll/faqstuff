@@ -1,0 +1,33 @@
+Title: MXW Crestron/AMX Control Strings
+Id: 4224
+Legacy Id: 5207
+
+Question:
+I want to control the Microflex Wireless system with a Crestron touchscreen. What are the API control strings?
+
+
+Answer:
+
+	The MXW wireless system can be controlled by AMX, Crestron, Extron, etc.
+	
+	The touch screen can control/monitor:
+	
+		Volume
+	
+		Mute
+	
+		Mic Button Status
+	
+		Channel Name
+	
+		Audio Meter
+	
+		Battery Charge Status
+	
+		Battery Run Time
+	
+		and more
+
+	The control string document can be found in the PDF below.
+	
+	A Crestron module written by Shure can also be found below.

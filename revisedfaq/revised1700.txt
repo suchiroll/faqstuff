@@ -1,0 +1,12 @@
+Title: Replacement stylus for M111HE
+Id: 1700
+Legacy Id: 1757
+
+Question:
+I have a Technics turntable model number SL-BD35 with a broken stylus. The one on it is Shure model number M111HE. On your chart it shows it discontinued. Is there a compatable replacement I can use?
+
+
+Answer:
+
+	Use the N111E replacement stylus.
+

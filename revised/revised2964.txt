@@ -1,0 +1,31 @@
+Title: External DC Power for M367 Mixer
+Id: 2964
+Legacy Id: 3092
+
+Question:
+Can the M367 be powered from an external dc power source?
+
+
+Answer:
+
+	Can the M367 be powered from an external dc power source?
+	* Yes. Typical sources would be a car battery or rechargeable NiCad.
+	
+	What is the range of dc voltage that will power the M367?
+	* The mixer will operate within specifications from 9Vdc to 30Vdc.
+	
+	How will the Power LED low battery indication be affected by an external dc source?
+	* The built-in battery configuration for the M367 is two 9V batteries in series. This provides 18 volts. The Power LED is designed to flash when the M367 dc power source is less than 14 volts. Therefore, if an external dc source of less than 14 volts is employed, the Power LED will flash constantly.
+	
+	How may the Power LED low battery indication be modified?
+	* To disable this feature, remove R332 (75k?). To change the LED flash point from 14 volts to 9 volts, replace R331 (499k?) with a 301k?, 1%, surface mount resistor. The resistor package size is 0805.
+	
+	How much current does the M367 draw?
+	* The mixer draws 40 milliamps at idle. If driving headphones, providing 48V phantom, and putting out a +4dBm signal, the M367 current draw can rise to 120 milliamps when operated from a 12 volt source..
+	
+	How can an external dc source be connected to the M367?
+	* The dc connector of your choice can be mounted to the rear panel near the ac connector. Or it can be mounted on the battery tray. Wire the dc connector to the M367 battery compartment terminals. To state the obvious... Observe proper polarity! Contact Shure if you require an M367 schematic.
+	
+	Will this type of modification void the M367 warranty?
+	* Yes.
+

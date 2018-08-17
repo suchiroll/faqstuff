@@ -1,0 +1,11 @@
+Title: Axient transmitter with non-Axient receiver
+Id: 3857
+Legacy Id: 4099
+
+Question:
+Will the AXT100 or AXT200 work with a non-Axient receiver, such as a UR4D?
+
+
+Answer:
+
+	Sorry, the AXT100 and AXT200 will only work with the AXT400 Axient receiver.

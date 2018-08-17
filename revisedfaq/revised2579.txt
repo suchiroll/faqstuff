@@ -1,0 +1,16 @@
+Title: Bagpipe recording
+Id: 2579
+Legacy Id: 2678
+
+Question:
+What would the best microphones be to record live bagpipes ?? one for the main chanter and one for the drones ? or just one mic placed in front ?
+
+
+Answer:
+
+	If you are recording in stereo, try a stereo pair of mics (models Beta 27 or SM81 or PGA81).
+
+	Read about stereo miking at: Microphone Techniques for Music - Studio Recording
+
+	If recording in mono, use just one of the models listed above. Then experiment with mic placement. There is no best mic and no best placement. Like in photography, there is no best camera and no best lens. It all depends on the effect desired.
+

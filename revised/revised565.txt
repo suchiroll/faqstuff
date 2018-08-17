@@ -1,0 +1,16 @@
+Title: How can I tell which microphone is best for my vocal range and voice?
+Id: 565
+Legacy Id: 576
+
+Question:
+I am a die hard Shure user. I used an SM58 for my vocals for years. One night I switched to an SM57 and it seemed like it was a little hotter than the SM58. Everyone I talk to swears that the SM58 is a better mic for vocals, but it just doesn't seem like it to me. I have still been using the SM57 for my vocals. Now the beta series has come out. What differences are there between the beta and non beta? Which mic is the "hottest" between the SM57, SM58, Beta 57, and the Beta 58? What's the best way to tell which mic best suits my range and vocal style?
+
+
+Answer:
+
+	The SM58 and SM57 do use the same cartridge. The grill, though, does effect the frequency response to some extent. At a distance, the difference is probably not noticeable. But at extremely close distances, the difference is noticeable. Due to the grill, a persons mouth can get closer to the diaphragm of an SM57, thus causing more proximity effect and increased bass when compared to the SM58.
+	
+	Difference between Beta and SM microphones.
+	
+	Microphone choice is completely personal preference. We suggest going to a local music dealer where you can try out the different microphones and choose the one that you like the sound of your voice on. It may help to record yourself using the microphones so that you listen to the recording, instead of listening to your live voice through speakers. 
+

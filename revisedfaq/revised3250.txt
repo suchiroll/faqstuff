@@ -1,0 +1,24 @@
+Title: Recording classical vocal/piano
+Id: 3250
+Legacy Id: 3403
+
+Question:
+I would like to record vocal art songs, musical theatre songs, jazz numbers, sacred songs, all accompanied by piano - so - piano/vocal pieces. I need a description of what it will take to do this with microphone, PC, WHATEVER - as I have never done it. Ultimately, when I get good at the tech side of it, I'd like to be able to offer the resulting CD's for sale commercially through a couple of music publishing companies I work with...which means I'll need high quality recordings. Where do I start? What will I need?
+
+
+Answer:
+
+	There are hundreds of ways to do this. Ill provide my personal method:
+	
+	1) The acoustics of the recording space is critical. The space must be quiet (no airplane traffic, no street noise, no air conditioning noise, etc.) Removing such noise after the recording is unrealistic.
+	
+	2) Use a simple, two mic stereo setup. I prefer the ORTF method using two Shure KSM137 microphones.
+	
+	3) Record to a digital device that uses flash memory, or hard drive, or digital tape, or recordable CD. Two recommended companies: Sound Devices and Marantz Pro.
+	
+	4) There are many audio editing programs for computers. The leading brand is Pro Tools.
+	
+	5) To purchase all that you need, try a professional audio equipment dealer.
+	
+	6) Read, read, and read more about different recording techniques. Mix Magazine is a respected source. Recording is equal part of science and art.
+

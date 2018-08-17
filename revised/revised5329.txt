@@ -1,0 +1,137 @@
+Title: Educational Articles - Online booklets and bulletins
+Id: 5329
+Legacy Id: 3687
+
+Question:
+Educational Articles - Online booklets and bulletins
+
+Answer:
+
+	Educational Articles
+
+	
+	Expand your knowledge and get the most out of your equipment.
+	
+	
+	PDF ARTICLES
+	
+	Antenna Set-up for Wireless Systems
+	These recommendations are useful guidelines to help achieve satisfactory performance from wireless audio systems. En Espanol.
+	
+	Audio Systems Guide for Houses of Worship
+	Comprehensive review of microphones, wireless microphone systems and mixers for church sound applications. Specific sections covering miking techniques for altar, lectern and choir. En Espanol.
+	
+	Audio Systems Guide to Meeting Facilities
+	Covers the selection and application of wired microphones, wireless microphones and microphone mixers for meeting facility sound systems.
+	
+	Audio Systems Guide for Music Educators
+	This guide covers everything from recording to live sound reinforcement and will help you choose equipment for a variety of applications.
+	
+	Audio Systems Guide for Theater Performances
+	The purpose of this booklet is to provide useful tips, practical advice and a general knowledge of microphones and other audio tools  all with the clear intent of making theater productions as understandable, clear and impressive as possible.
+	
+	Audio Systems Guide for Video Production
+	This booklet is intended to help anyone involved with video projects improve the audio quality of their productions. It is not intended as a comprehensive study of the subject of audio. Its goal is to provide helpful tips, practical advice and a general knowledge of audio tools  all with the express purpose of making video productions as clear, understandable and impressive as possible. En Espanol.
+	
+	Connecting Your Devices to a Shure Mixer
+	The variety of connectors on audio equipment sometimes leads to confusion in wiring. The diagrams in this booklet provide wiring recommendations for most common cables.
+	
+	Introduction to Recording and Sound Reinforcement
+	Written for the beginner, this guide will help you choose and set up equipment for a variety of typical applications.
+	
+	Introduction to Wireless Microphone Systems
+	Basic review of how wireless microphones work: written for the non-technical or first-time user.
+	
+	Microphone Techniques for Drums
+	Some suggestions to follow when miking musical instruments and drums for sound reinforcement.
+	
+	Microphone Techniques for Music - Sound Reinforcement
+	Recommended microphone type and placement for a large variety of vocal and instrument situations.
+	
+	Microphone Techniques for Music - Studio Recording
+	In this guide, Shure application engineers describe particular microphone techniques and placement: techniques to pick up a natural tonal balance, techniques to help reject unwanted sounds, and even techniques to create special effects.
+	
+	Microphones and Multitracks
+	Essential steps to quality recording using a microphone and multitrack recorder.
+	
+	Selection and Operation of Audio Signal Processors
+	For any sound system, the primary goal is good sound. What, however, constitutes good sound?
+	
+	Selection and Operation of Personal Monitor Systems
+	Divided into two sections, the first section gives a short history of monitoring, and describes in detail the benefits of using them. Section two provides specific information on choosing the proper system to meet your needs, and the various ways personal monitor systems can be configured.
+	
+	Selection and Operation of Wireless Microphone Systems
+	Continuing where Introduction to Wireless Microphone Systems leaves off, this comprehensive booklet provides the reader with a more in-depth understanding and knowledge of wireless systems and their operation.
+	
+	Understanding Sound System Design and Feedback Using (Ugh!) Math
+	Explains how to use the Potential Acoustic Gain equation to estimate the amount of gain (volume) that a sound reinforcement system can produce before feedback occurs.
+	
+	Unique Directional Properties of Dual-Diaphragm Microphones
+	A detailed primer on the distinctions between single and dual diaphragm microphones by the KSM44 product team.
+	
+	
+	ONLINE ARTICLES
+	
+	Audio for Distance Learning
+	Discusses the specific problems which affect interactive audio between classrooms, including hollow sound, feedback and echo. Also covers the effects of room acoustics, microphone placement and the use of automatic mixers.
+	
+	Audio Reference Companding
+	Shures patented Audio Reference Companding is currently featured in many Shure Wireless Systems, and in some PSM 700 Personal Monitor Systems (H3 and L2 bands).
+	
+	Audio Transformers
+	Explains transformers in relation to wired microphones and pro audio usage.
+	
+	The Basics of Equalization and Feedback
+	How to effectively approach equaliztion and avoid feedback.
+	
+	Connecting Professional Microphones to Computer Sound Cards
+	Because interconnection procedures in the computer world differ from those used in professional audio, it is not always easy to make a professional microphone work with a computer. This Shure Application Bulletin will help.
+	
+	Cleaning Microphones
+	This document provides several simple yet effective techniques for cleaning microphones.
+	
+	a data-cke-saved-href=http://blog.shure.com/shure-notes/commshield-technology-improves-rf-resistance href=http://blog.shure.com/shure-notes/commshield-technology-improves-rf-resistance font-weight:= bold=CommShield Technology Improves RF Resistance
+	CommShield Technology Improves RF Resistance of Shure Microflex and Easyflex Microphones.
+	
+	Critical Distance and Microphone Placement
+	Audio and acoustic principles involved in finding the critical distance where the direct speech and the reflected (or reverberant) speech are equal in intensity.
+	
+	Direct to Ambient Audio Demo
+	Audio demonstration showing the differences of ambient rejection of various polar patterns at various distances.
+	
+	Gain Changes Based on Mic Placement and Number of Open Mics
+	Formulas based on microphone placement and the number of open microphones.
+	
+	Impedance Matching for Microphones - Is it Necessary?
+	This bulletin answers questions such as What happens when a high impedance microphone is connected to a low impedance input?
+	
+	KSM32 - Transformerless Design
+	The KSM32 uses transformer-less circuit design. Shure has developed a balanced solid-state preamplifier circuit that has virtually all the benefits of a high-quality transformed design without the drawbacks associated with smaller transformers.
+	
+	Microphone Sensitivity Ratings: What Does it all mean?
+	Common questions regarding microphone sensitivity ratings and dB SPL input levels.
+	
+	Microphones on the Ceiling?
+	Shure discusses the placement of a microphone at the ceiling. The problems are outlined in this technical bulletin.
+	
+	The Myth of Microphone Reach
+	Shure is often asked How far away will my microphone pick up? or Which microphone has the best reach? Both questions are based on a misunderstanding of how microphones work. This bulletin attempts to debunk the myth of microphone reach.
+	
+	Phantom Power and Bias Voltage - Is There a Difference?
+	This bulletin explains the differences between phantom power and bias voltage, and addresses common misconceptions.
+	
+	Predicting Speech to Background Noise Ratio at the Microphone
+	Help in determining what are acceptable speech to noise ratios and how to predict if speech will be intelligible at the microphone location.
+	
+	Remote Antennas for UHF Wireless Systems
+	For good performance, these guidelines should be observed when remote mounting antennas.
+	
+	Using Radio Frequency Scanners to Troubleshoot Wireless Microphone Systems
+	As the available radio frequency spectrum continues to get increasingly crowded, the potential for interference in wireless microphone systems also increases, causing headaches for the end userm the sound system installerm and the audio consultant.
+	
+	VU and PPM Audio Meters: An Elementary Explanation
+	Meters which monitor audio levels are typically one of two varieties: VU (Volume Unit) or PPM (Peak Program Meters). Though both perform the same function, they accomplish the function in very different manners.
+	
+	Why Use Shure Automatic Mixers?
+	High quality audio becomes progressively more difficult to achieve as the number of open microphones increases. All audio systems face the same problems whenever multiple open microphones are needed. 
+

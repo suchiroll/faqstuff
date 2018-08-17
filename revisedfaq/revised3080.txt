@@ -1,0 +1,12 @@
+Title: Alternate Mounting Clips for the WL93 and SM93
+Id: 3080
+Legacy Id: 3211
+
+Question:
+Are there other mounting clips available that will work with the WL93?
+
+
+Answer:
+
+	The mounting clips available for the WL50, WL51, MC50, and MC51 will work with the WL93 and SM93. There are four clips available: a pin mount, a magnet mount, a tie bar mount for one mic, and a tie bar mount for two mics.
+

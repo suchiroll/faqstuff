@@ -1,0 +1,16 @@
+Title: How does the DFR differentiate between feedback and music?
+Id: 2124
+Legacy Id: 2193
+
+Question:
+How does the DFR determine feedback from music tones?
+
+
+Answer:
+
+	If feedback is being used in a musical manner, like a rock quitarist, the DFR cannot tell the difference. It will attack the feedback. Or a note held on a pipe organ might also be pure enough to fool the DFR.
+	
+	Most musical notes vary enough in pitch (vibrato) and level that the DFR can distinguish these notes from feedback, as feedback does not vary in pitch and normally rises in level.
+	
+	In a musical application, it is best to ring out the PA system ahead of time and then lock down the DFR so that it does not mistake a pure musical tone for feedback.
+

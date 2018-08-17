@@ -1,0 +1,14 @@
+Title: What are open back headphones?
+Id: 4045
+Legacy Id: 4489
+
+Question:
+Please define open back headphones. Where are they typically used?
+
+
+Answer:
+
+	Open back headphones have openings (ports) that allow sound to enter and exit through the earcups. Audiophiles and engineers choose this type of headphone because the sound quality is often more natural, transparent, and accurate than closed back headphones. Open back headphones also offer a wide stereo image and increased depth of field. For mixing and mastering, the sound produced by open back headphones more closely approximates monitor speakers.
+
+	Session player and recording engineer Cliff Goldmacher offered: Open back headphones are for critical listening.Thats a different headphone application than the typical recording studio tracking session.Since Im also a session guitarist, a lot of my listening situations involve being in front of a large diaphragm microphone that picks up everything.In a situation like that, Ill use the Shure SRH440 or SRH840 closed back headphones.They do a beautiful job of containing the click-track or whatever else is going on in my headphones.But there are certain times when I really want to have a second opinion from the studio monitors- where sound isolation is not mission critical but detail is critical.The kind of detail I can get from open back headphones, the kind of response and evenness across the frequency spectrum makes a huge difference.For me, its a secondary or a tertiary way of critically listening to mixes so I am sure that the detail is there.
+

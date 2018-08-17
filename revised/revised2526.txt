@@ -1,0 +1,36 @@
+Title: Stereo output from the M267?
+Id: 2526
+Legacy Id: 2623
+
+Question:
+First let me thank you for having past bulletins on discontinued equipment available on line. I recently purchased a M267 without a guide and your website was most helpful.
+
+
+Quick question though, I bought the connectors I need from the local Radio Shack store. I am using the mixer to use multiple mics in and out to my camcorder. I noticed that the sound was coming from only one side of my
+
+headphones in my camcorder and assumed that meant I was only getting a Mono input. I found a cable they had sold me that was mono and replaced it.
+
+
+I still had sound only in the one earpiece though. When I went back to Radio Shack the manager told me that it was because the M267 was only a MONO mixer and couldn't output stereo.
+
+
+I think he is wrong and that he sold me the incorrect connectors. Can you give me some suggestions on how to get stereo output, and generally enhance the quality of input onto my video tapes?
+
+
+Answer:
+
+	The M267 is a monaural mixer. It does not output a stereo signal.
+	
+	There is a way to send a monaural output to a stereo input. Fabricate a mic cable that is wired as follows. It should work, but Shure does not have the internal circuit diagram of your camera, so this is an educated guess:
+	
+	M267 XLR output pin 1 - to mic cable shield - no connection at the camera input
+	
+	M267 XLR output pin 2 - to mic cable inner conductor #1 - connect to tip and ring at the camera input
+	
+	M267 XLR output pin 3 - to mic cable inner conductor #2 - connect to sleeve at the camera input
+	
+	If the above is "Greek" to you, find a local professional audio supplier, or a local professional video rental house. It will make sense to a professional audio technician.
+	
+	Or try: http://www.markertek.com They sell unusual cables.
+	
+	Or buy an interface box from: http://www.beachtek.com

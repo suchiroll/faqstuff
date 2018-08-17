@@ -1,0 +1,21 @@
+Title: Muting P4800 from multiple locations
+Id: 2586
+Legacy Id: 2685
+
+Question:
+I am installing a P4800 and need to place multiple mute switches around the installation. That is, I'm wanting to use an AMX system as a master control to mute outputs, but I also want to place a couple switches around the installation to mute and unmute particular channels. How can I do that?
+
+
+Answer:
+
+	Follow this diagram:
+	
+	
+	
+	The diagram shows lighted switches, to help indicate if the input or output is muted. In order for the AMX system, the LED's, and the switches to follow each other, the switches need to be momentary. Make certain in the Control Pin Configuration of the P4800, you select a momentary switch.
+	
+	For example, the AMX system has a touchpanel button that toggles the mute of output 8. Control In 8 of the P4800 is set up to mute output 8 with a momentary switch. Two switches are connected in parallel to Control In 8. Now, all 3 buttons (two physical, one on the touchscreen) will toggle the mute of output 8. Also, all 3 buttons will have indication to show if output 8 is muted.
+	
+	For lighted switches, try the YB, LB, KB, and HB series from NKK Switches (contact EAS Sales, Fred Schneider, 847-963-2814). With the P4800 the switch will only light when the input/output is muted. Thus, we recommend getting a switch with a white/clear lens, but a red LED. When the input/output is unmuted, the switch will be white. When the input/output is muted, the switch will illuminate red.
+	
+	

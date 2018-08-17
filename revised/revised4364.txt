@@ -1,0 +1,20 @@
+Title: 520DX potentiometer requires tightening
+Id: 4364
+Legacy Id: 5452
+
+Question:
+The volume pot on my 520DX is loose. How can I tighten it?
+
+
+Answer:
+
+	
+		Pull off the volume control knob. It is very tight and removing it will be difficult. Wearing a rubber glove may help by improving the grip.
+	
+		When the knob removed, note the hex nut that fastens the potentiometer.
+	
+		Use a nut driver or needlenose pliers to tighten the hex nut.
+	
+		Push the knob back onto the shaft of the potentiometer.
+
+

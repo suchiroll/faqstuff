@@ -1,0 +1,15 @@
+Title: Pop when turning on UT series belt pack
+Id: 202
+Legacy Id: 203
+
+Question:
+Just got the Shure "Guitarist" uhf unit.  My amp makes a loud POP when I turn the belt pack on or off.  It POPs regardless if the mute switch is turned on or off.  Is this normal??
+
+Answer:
+
+	If you need a wireless system (from any manufacturer) that is pop-free when you turn the transmitter on/off, you must purchase a wireless that has the feature called: tone key squelch. All of Shures current wireless systems use tone key squelch.
+	
+	The UT series that you own does not have the tone key squelch feature. Your mute switch only mutes the audio silently when the transmitter is powered on; it has no effect when you power off or power on your transmitter.
+	
+	So if having no pops from powering on/off your transmitter is critical, you should return the UT Guitarist and look for a wireless system that has the feature: tone key squelch.
+

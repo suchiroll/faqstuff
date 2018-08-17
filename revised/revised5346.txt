@@ -1,0 +1,2027 @@
+Title: High Fidelity Phonograph Cartridge - Technical Seminar
+Id: 5346
+Legacy Id: 4072
+
+Question:
+High Fidelity Phonograph Cartridge - Technical Seminar
+
+Answer:
+
+	This is a copy of a 1978 technical seminar on phonograph cartridges.
+
+
+	Table of Contents
+	Introduction - Integrated System Design: A New Concept in Phonograph Cartridges by J. H. Kogen
+	The Stylus Tip and Record Groove - The Stylus Tip and Record Groove-The First Link in the Playback Chain by B. W. Jakobs and S. A. Mastricola
+	Getting the Signal From Tip-To-Terminals by F. J. Karlov
+	Design Considerations of the V15 Type IV Phonograph Cartridge by L. R. Happ
+	The Hyperelliptical Tip by B. W. Jakobs and S. A. Mastricola
+	Phono Arm Damping Revisited by C. R. Anderson
+	Charges on The Record - Charges on the Record--A Study of Static Electricity on Phonograph Records by C. R. Anderson
+	Questions and Answers
+
+
+
+	Integrated System Design: A New Concept in Phonograph Cartridges
+
+
+	J. H. Kogen
+	
+	Introduction
+	
+	One of the most refreshing aspects of research in high fidelity reproduction is the continuing opportunity to discover problems and provide solutions. The search for perfection provides an unending challenge to the scientific researcher to discover the sources of imperfection. Once the cause has been discovered, the engineer is then challenged to find a solution.
+	
+	This paper will tell the story of a series of research programs and the identification and evaluation of several problems associated with phonograph reproduction. We will also outline the approach to a satisfactory solution of those problems.
+	
+	Before starting a detailed discussion, we should explain the title of the article. In performing our research the sources of several playback imperfections were discovered. Solutions to each of those imperfections were proposed, either as independent accessories or as appendages to be attached to the tone arm. While such solutions can be useful in helping correct individual deficiencies, a far better approach is to provide a single design which solves all the identified problems in a mutually compatible, rather than independent, manner. The single design integrates the solution to several problems into one system. An integrated solution can have the advantage of both simplicity and compactness. More importantly, an integrated design requires that the solution be worked out and tested as a system, which can be measured and optimized in the laboratory. Consideration and resolution of all of the problems within a unified design offers significant potential for a better solution.
+	
+	Historical Background
+	
+	The development of the Shure V15 series of phonograph cartridges provides a useful background setting for the research and product design concepts which will be described later in this paper. It is particularly interesting to note the progress of our objectives over the years and the changes in cartridge design needed to satisfy those objectives.
+	
+	The original V15 introduced in 1964, featured the biradial elliptical tip and emphasized optimum vertical tracking angle. At that time there was considerable emphasis and discussion in the technical journals and within the professional societies on the subjects of tracking and tracing distortion. Reduction of tracing distortion required small playing radii. The smallest practical spherical tip was .5 mil radius. Introduction of the elliptical tip allowed reduction of the playing radius .2 to .3 mils. A reduction of distortion caused by vertical tracking angle error vas accomplished by providing a playing angle equal to the cutting angle found on commercial discs.
+	
+	The V15 had a response peak of about 5 dB at 15,000 Hz. Trackability at 400 Hz was on the order of 15 centimeters per second and 10,000 Hz trackability was about 10 centimeters per second, both at3/4 grams tracking force. Emphasis was placed on playing at low tracking force, 3/4 to 1-1/2 grams while maintaining excellent separation between channels throughout the audio spectrum.
+	
+	The V15 Type II Cartridge introduced in 1967 resulted from a detailed study of the problem of mistracking. In trying to sort out the relative significance of various forms of distortion, it was discovered that mistracking was a far more significant cause of poor sound reproduction than the tracing and tracking (as related to vertical tracking angle) distortion which had been emphasized earlier. Thus, the prevention of mistracking loomed as a much more urgent requirement than any other problem at that time.
+	
+	One obvious solution to the tracking problem was to increase the tracking force. Extensive life testing showed that praying at low tracking force has significant advantages in extending the life of both the stylus and the record, provided that no mistracking occurs. The problem that required resolution then, as it does now, is that of offering sufficient trackability throughout the frequency spectrum found on the phonograph record at low tracking force, preferably below 1-1/2 grams.
+	
+	Through the use of extensive analog computer studies, it was found that a phonograph cartridge design suitable for tracking most of the high level modulation found on phonograph records of that day was feasible. The solution required a stylus much smaller and lighter than those in current use. A design was worked out using a beryllium stiffening rod with a very thin wall aluminum shank and the V15 Type II was the result.
+	
+	Resolution of the problem of tracking most phonograph records made it possible to recognize a number of sources of playback imperfection which had previously been overshadowed by the more serious mistracking problem. One of the remaining problems was that of nonflat frequency response. Another was a series of difficulties caused by warped records. An extensive study of record warps resulted in an explanation of the need for optimizing cartridge compliance. The studies of record warp as well as additional evaluation of then current recordings reemphasized the need for improving trackability across the total frequency spectrum found on records.
+	
+	The result of that research was the introduction of the V15 Type III in 1973. That cartridge has a flat frequency response, plays at a tracking force of 3/4 to 1-1/4 grams, employs an optimized stylus compliance, and continues other advantages of the earlier V15 series.
+	
+	Research 1972--1977
+	
+	Even before the introduction of the V15 Type III, research was continuing into additional problems of disc reproduction. .We will briefly describe some of those problems in this section of the present article. Subsequent articles will describe in greater detail the results of the research and the product development which resolved those problems.
+	
+
+	
+		Stylus/Tone Arm Resonance
+		
+		The paper by Happ and Karlov provides measured data of the amplitude and frequency of record warps. That paper also describes a method of selecting cartridge compliance to minimize the difficulties caused by record warp with conventional tone arm/cartridge systems. While the Happ/Karlov analysis suggests a means of optimizing conventional systems, it does not offer an ideal solution--that is, one that completely eliminates the effect of low-frequency stylus/tone arm resonance. That resonance causes at least three significant problems in high-fidelity reproduction.
+		
+		One major problem caused by the excitation of the stylus/tone arm resonance is that of mistracking. Assume for example, that a tone arm has a low-frequency resonance of 5 Hz, a frequency below the range of human hearing. If that resonance should be excited by a warped record, for example, the arm will move vertically as shown in Figure 1. The motion effectively increases and decreases the tracking force in an oscillating fashion at the rate of 5 cycles per second. At the points of reduced tracking force, mistracking is more likely to occur than would be the case if no resonance existed. At points of increased tracking force, record and tip wear are accelerated.
+		
+		
+			
+		
+		
+		Figure 2 shows a second and concurrent difficulty that results from excitation of the stylus/tone arm resonance. Here we see the movement of the stylus along the length of the record groove. This results in a frequency modulation or wow of the program material which in this example would be at the rate of 5 Hz. Wow produced in this fashion can have a serious effect on sound quality.
+		
+		
+			
+		
+		
+		A third problem which can result from the low-frequency stylus/tone arm resonance is the production of high-amplitude, low-frequency signals which can overload amplifiers. These signals may also produce low-frequency/high-amplitude motions in loudspeakers which will result in doppler distortion and possibly overload distortion in those speakers.
+		
+		While we have discussed the effect of low-frequency stylus/tone arm resonance as a result of excitation from record warp, it has also been recognized that there are several other major causes of excitation of resonance. Included among the causes are structure-borne noise, positive acoustical/mechanical feedback and transient mechanical excitation from record modulation .
+		
+	
+		Electrostatic Charges
+		
+		The measurement of electrostatic charges on records indicates several significant effects. These include the generation of electrical noise, the attraction of dust to the record, and an anticipated increase in record wear because of the higher tracking force that results from the attraction between cartridge and record.
+		
+	
+		Trackability and Low-Tracking Force
+		
+		Studies indicate that trackability still loons as one of the major factors in phonograph reproduction. A modern cartridge must in any case avoid severe mistracking. Beyond that it must be recognized that there are many gradations iun the ability to track. We no longer think of tracking as a go/no-go phenomenon, but more in terms of how well that capability is achieved.
+		
+		One might think of tracking at one extreme in terms of a very heavy, high mass stylus playing at a high tracking force. Trackability would in some way be achieved, but at the expense of significant distortion, serious record damage and stylus tip wear. Tracking at a lower force is essential to prevent such damage. Tracking properly is a further requirement; careful listening will indicate that some cartridges may seem to track high-amplitude passages on records, but when compared to a cartridge that tracks properly, a distinct difference in sound quality can be heard. The information developed in earlier studies is unchanged with regard to the need for trackability within the audio spectrum, with the most significant tracking problems still existing in the 1,000 to 15,000 Hz range.
+		
+		Improving trackability is a complex matter which we have approached from both a theoretical and practical standpoint. Extensive tests, measurements, and analyses of the properties of materials have been made integrated with the search for the material shapes that lead to optimum performance. Our earlier theoretical studies assumed lumped parameters. Recent studies include distributed parameters and a detailed mathematical model that requires a large digital computer to perform the analysis. New designs are evaluated using the computer and are later perfected in the laboratory. One aspect of the analysis and development has been described by A. Groh of Shure in the AES paper, The Dynamic Vibration Absorber Principle Applied to a High Quality Phonograph Pickup.
+		
+		Detailed results of the research into the problems just outlined are described in two papers by R. Anderson entitled, Phono Arm Damping Revisited, and Charges on the Record--A Study of Static Electricity on Phonograph Records, and the paper, The Stylus Tip and Record Groove--The First Link in the playback Chain, by B, Jakobs and S. Mastricola. The product design which resulted from those investigations is described in the paper, Design Considerations of the V15 Type IV Phonograph Cartridge, by L. Happ.
+
+
+	Engineering Design Concepts
+	
+	It was quite clear after reviewing the results of much research that the problems being investigated could not be solved with the conventional phono cartridge design. The solution required the addition of several devices which in the first consideration were thought of as appendages or accessory devices. Further study indicated that the design could be accomplished much more elegantly, and in so doing, the solution to one problem could be used to enhance the solution to another. This approach provided the addition of needed features to the phonograph cartridge and allowed us to integrate those features into the overall design. As a result we have decided to call this new concept in phonograph cartridges, an Integrated System Design.
+	
+	Obviously, the perfection of an Integrated System Design is much more complex than the solution of each aspect considered by itself. In addition to resolving the individual problems, one is faced with the task of optimizing the combination in order to provide an ideal solution to all of the problems simultaneously.
+	
+	Subsequent papers will provide details on the design which has evolved. The improvements that have been achieved are:
+
+
+	
+		Tone arm resonance is controlled to levels at which its effects are insignificant.
+	
+		Low-frequency damping is obtained without in any way deteriorating stylus performance. The need to compromise stylus dynamics in order to achieve low-frequency damping is eliminated.
+	
+		The design of the stylus system to provide optimum high-frequency damping is achieved without compromising low-frequency performance. The result is increased trackability and control across the entire audio spectrum.
+	
+		Changes in tracking force caused by electrostatic attraction between cartridge and disc are eliminated.
+	
+		Dust accumulation is reduced and dust removal is enhanced by elimination of electrostatic charges on the record surface.
+	
+		Noise is reduced by removal of both electrostatic charges and dust.
+
+
+	As stated earlier all of these features are provided in a mutually compatible manner. The design has been worked out with great care in the laboratory, and the evaluation of performance has been performed on large quantities of production cartridges. Optimization of the system has not been consigned haphazardly to the user; it has been accomplished by skilled engineers with highly sophisticated instruments capable of evaluating the performance in both an objective and subjective manner.
+
+
+	The Stylus Tip and Record Groove--The First Link in the Playback Chain
+
+
+	B. W. Jakobs and S. A. Mastricola
+	
+
+	
+		Function and Objective
+		
+		Have you ever asked yourself What is the function of that tiny pointed object at the end of the stylus cantilever? Although the answer seems obvious, it is one of the basic questions that phonograph cartridge engineers must answer when designing that object, the stylus tip, if they are to optimize the performance of the entire phono cartridge.
+		
+		There are other basic questions too. What constraints limit the design? How does this part interrelate with the other parts of the assembly? What aspects of performance does the stylus tip influence, and to what extent? Although these may appear to be obvious questions with simple answers, we have all too often seen evidence that these questions have been overlooked, or worse, that the answers have been simplistic, incomplete, and misleading. Lets examine the questions verve posed in general terms.
+		
+		What, then, is the function of the stylus tip? Principally, the tip must provide the physical interface between the recorded format and the playback system (Figure 1). It must accurately transmit the information stored in the record groove to the moving assembly of the phonograph cartridge.
+		
+		
+			
+		
+		
+		Why is it important that the tip perform its function well? Because any failure of the tip to do so is not correctable by the other components of the system. Any error introduced by the tip is transmitted to the electrical generating components of the stylus, and wi11 be carried on through the playback system. Conversely, the tip does not compensate or correct for errors introduced by other components of the cartridge. If the stylus assembly, excluding the tip, is of such a design that it cannot cope with a given signal, it may not allow the tip to do its intended job; i.e., the stylus will mistrack. The tip can do nothing to prevent it. Even if the tip is able to read the recorded information perfectly, it cannot correct distortion that is added by other parts in the system. An additional, very important consideration is that the stylus, while performing its function, must not cause abnormal noise. Record and tip wear must be kept to a minimum.
+		
+	
+		Constraints
+		
+		The function of the tip, as stated, leaves a reasonable degree of freedom in design; but, as in any design problem, there are constraints that must be considered--constraints that tend to restrict our design options. The record format is established and cannot be altered to suit our needs or make the problem easier to solve every time a new phono cartridge is designed.
+		
+		Before we can begin to analyze tip designs, we must have knowledge of the record.
+		
+			
+				First, there are geometric constraints. A modern stereo micro-groove record has a typical cross section as follows (Figure 2):
+				
+				
+					
+				
+					
+						Approximately 76 (.003) wide at the record surface.
+					
+						Approximately 5.1 (.0002) bottom radius (maximum).
+					
+						90 included angle.
+				
+				
+				But the groove is not a constant shape (unless it is unmodulated; i.e., silent). At any location along the groove, the cross section can be either wider or narrower (Figures 3 and 4). Recording industry standard stipulate that the width should not become narrower than 25.4 (.001) at the record surface. The tip, therefore, should be designed to accommodate this worst case; i.e., it should be 25.4 (.001 maximum) wide at the contact points with the groove. Tips that do not meet this requirement can cause serious playback problems; for example, playing the top corners of the groove, resulting in increased noise and distortion (Figure 2). The bottom of the groove is not pointed as is often depicted. It is, in fact, rounded. Again, the recording industry has restricted this radius to 5.1 (.0002) maximum, but necessary precautions must be taken to prevent the tip from contacting the bottom of the groove. Unwanted noise will result if adequate clearance to the bottom of the groove is not maintained.
+				
+				
+					
+				
+				
+				
+					
+				
+				
+				For other than spherical tips, another geometric constraint is that the entire contact area must not be tilted forward or backward with respect to the modulation (Figure 5). If a significant misalignment exists, one end of the contact region may reach the leading edge of the modulation before the other end. The result is as if the tip side radius has effectively increased, thus causing higher tracing distortion. Tips with long contact areas are more sensitive to this constraint because they cannot tolerate as much angular misalignment on a given signal as tips with shorter contact areas.
+				
+				
+					
+				
+				
+				The stylus assembly must be able to accommodate a moderate amount of dust and lint. We could argue that the user has the responsibility of keeping his records and stylus clean, but realistically, we must acknowledge a potential problem and deal with it. A thread of lint trapped around the tip can gather small particles and lint like a broom. Before long, a ball of lint and dust surrounds the tip between the record and the cantilever (Figure 6). This, in itself, does not affect playback directly because the dust is not in the groove. But if the dust ball becomes large, it can lift the stylus upward and away from the groove walls. The result, as might be expected, is mistracking. By maintaining a sufficient distance between the cantilever and the record, we can minimize this problem. The dust ball then must become so large in order to disrupt tracking that it often falls off the tip before it becomes troublesome.
+				
+				
+					
+			
+			
+				The record material also imposes constraints. The tip should slide along the material without modifying, damaging, or destroying the signal; a formidable task when the material is as soft as a polyvinyl chloride record. Likewise, the tip should not be modified by the record. Thus, the tip must be designed to minimize wear on the record as well as on itself. These constraints, geometrical and material, apply to all possible tip designs. A new design does not imply that these constraints have changed or no longer apply.
+			
+				Finally, we have a fabrication constraint. We must be able to manufacture the tip precisely, consistently, in reasonable quantities, and at a cost that represents top value and yields the best possible performance.
+				
+		
+	
+	
+		Currently Available Tip Geometries
+		
+		Given the objective and constraints, what is the ideal tip design?
+		
+			
+				One approach is to copy the geometry that made the groove (Figure 7). But is a tip that is shaped exactly like the recording stylus the optimum geometry? We would like a contact radius as small as the edge of the recording stylus to accurately trace the modulation, but we dont want to damage the material, which a playback stylus of that shape would, do. After all, the functions of the recording stylus and the playback stylus are not the same. The former cuts the material to make a groove while the latter must repeatedly reproduce the path created by that groove without modifying the path. Thus, it does not necessarily follow that the ideal playback stylus has a shape identical to the recording stylus. In addition, we must be prepared to accommodate angular tolerance buildup on the order of 2 - 3 from both the tip and the groove and still achieve proper playback. This can be derived more effectively by a shape other than that of the recording stylus, which would not be tolerant of even small angular variations.
+				
+				
+					
+			
+			
+				Other possible approaches to tip design are (Figure 8):
+				
+				
+					
+				
+					
+						Spherical: circular cross section.
+					
+						Biradial: oval cross section.
+						
+						The front profiles of an 18 (.0007) radius spherical tip and a biradial tip of equal major radius are the same; both fulfill the requirements we have set forth. The advantage of the biradial is its smaller tracing radius yielding significantly lower tracing distortion, particularly on shorter wavelength modulation of high frequencies at inner record radii. Even in this regard, the biradial is not ideal. By virtue of the technique used to generate this shape, the contact radius is not constant along the contacting regions, but it increases slightly from the points of contact upward (Figure 9).
+						
+						
+							
+					
+					
+						Long Contact Tips:
+						
+						This name is assigned to a class of tips which have an elongated contact region. This type of geometry evolved in the development of the CD-4, four-channel system for the purpose of retrieving the carrier signal on Quadradisc records. This classification now includes Shibata, Pramanik, Quadrahedral, Hyperbolic, etc. (Figures 10 - 13).
+						
+						
+							
+						
+						
+							
+						
+						
+						The primary difference between these and the biradial tip is the front profile, but differences in this view of the tip imply nothing about the contact radius unless we know the details of how the particular tip was made. Thus, it is incorrect to assume that long contact necessarily means smaller tracing radii. In fact, all of the long contact tips named have approximately the same average tracing radii as the typical biradial--7.6 to 8.9 (.0003 to .00035).
+						
+						In this discussion, we have concentrated on the contact area geometry, not the overall shape of the tip. Although the contact area geometry may be related to the overall shape of the stone, one should not assume that two tips which have the same overall appearance, such as two intersecting facets (Figure 14), will have the same geometry in the contact area. Furthermore, just because two facets may make a good tip, four facets do not necessarily make a better tip. If anything, additional facets only provide more opportunities for errors and tolerance accumulation as operations are added without assurance of an improved geometry or better control of key dimensions.
+						
+						
+							
+					
+				
+			
+		
+	
+	
+		Testing the Geometry
+		
+		Thus far we have discussed considerations of tip design primarily from a geometrical standpoint. But how do we know which approach will provide the best performance? What evidence do we have regarding factors such as distortion and wear? Merely stating theories based solely on geometric considerations is inadequate. We must make performance measurements under carefully controlled conditions using many styli with various tip shapes. Unfortunately, the results are not allways as conclusive as we would like. Lets look at some of the difficulties encountered when we try to evaluate the tip by different measurement techniques.
+		
+			
+				Distortion Measurements
+				
+				A basic difficulty arises whenever these kinds of measurements are employed to evaluate a particular aspect of the phono playback system. Any distortion measurement includes all of the factors that may create distortion, not just the single parameter which is of interest to us (Figure 15). A singlemeasurement provides no information as to the principal sources of distortion or their relative contributions. For example, the signal source, the record, has its own level of cut-in distortion. How does one separate that distortion from that created by the pickup? A single measurement under a given set of conditions is really not of much value unless it can be compared to another measurement made under identical conditions with only one parameter, such as tip shape, changed. If we want to determine how changing one parameter affects a given measurement, the only way is empirically, by changing only the parameter of interest and comparing the measurements. The absolute numbers are not as important as the difference between the numbers, the relative values. To do this with the stylus tip is difficult because we have no easy way of changing only the tip in a stylus with assurance that we have not also modified the other parts of the stylus. The best we can do is to take measurements on a large quantity of styli built as much alike as possible, some with one kind of tip and others with another kind. The proof of a difference between two kinds of tips is evidenced by different trends in the data for each group. A large number of styli must be measured so that methods of statistical analysis are applicable.
+				
+				
+					
+				
+				
+				Tracing distortion is a general term used to describe distortion that arises because the tip and recording stylus do not have exactly the same shape. There is no method of measuring tracing distortion directly; but intermodulation and harmonic distortion can be measured. However, these measurements include distortion from all sources, such as tracing, indentation, distortion in the record, and many other factors in the playback process. If one kind of tip traces a signal more accurately than another kind, the measured distortion of the more accurate kind will be lower on the average.
+				
+				As an example, we have tested spherical, biradial, and hyperbolic tips for second harmonic distortion in a laboratory prototype cartridge:
+				
+				
+					
+						
+							
+								Conditions:
+							
+								Signal: 8 kHz
+						
+						
+							
+								
+							
+								Velocity: 5 cm/sec peak
+						
+						
+							
+								
+							
+								Record Radius: 5 inches
+						
+						
+							
+								
+							
+								Tracking Force: 1 .25 grams
+						
+						
+							
+								
+							
+								Measurement: Average 2nd harmonic distortion for both channels of several styli.
+						
+						
+							
+								Results:
+							
+								Spherical; 6.4%
+						
+						
+							
+								
+							
+								Biradial: 4.0%
+						
+						
+							
+								
+							
+								Hyperbolic: 4.0%
+						
+						
+							
+								Conclusions:
+							
+								Long contact tips with the same tracing radius as biradial tips will have the same tracing distortion on the average. This result corresponds to the theory of tracing distortion.
+						
+					
+				
+			
+			
+				Noise Measurements
+				
+				Another aspect of performance is surface noise. This noise is highly dependent on the particular record, master, stamper, material, and pressing techniques used to make the record and the number of times the record has been played. In the cartridge the mechanical impedance of the stylus assembly, the amount of indentation, the tracing radius of the tip, and its contact area are all possible factors affecting surface noise.
+				
+				In studies of tip geometries, we were concerned specifically with the continuous hiss type of noise that is generated by the tip sliding along the groove walls. In these tests the wideband noise level of styli with biradial and hyperbolic tips was measured (Figure 16). Silent groove (unmodulated) records pressed from the same master and stamper were played, and a new record was used with each stylus. The same band on a record vas played in each test. Care was taken to assure that the frequency response was well matched among all styli, and the noise level of the measuring equipment was checked to be certain it was suitably low. These factors and others such as the tone arm, skating compensation, and tracking force were carefully controlled throughout the experiments. The following describes an example of these tests:
+				
+				
+					
+				
+				
+				
+					
+						
+							
+								Conditions:
+							
+								Tone Arm: SME 3009 II
+						
+						
+							
+								
+							
+								Cartridge: Shure V15 Type III
+						
+						
+							
+								
+							
+								Tips: biradial and hyperbolic
+						
+						
+							
+								
+							
+								Tracking Force: 1.5 grams
+						
+						
+							
+								
+							
+								Record: silent groove
+						
+						
+							
+								
+							
+								Record Radius: 3.0 - 3.3
+						
+						
+							
+								Results:
+							
+								Noise levels referenced to the output level of a 1 kHz signal at 5 cm/sec peak velocity are as follows:
+						
+						
+							
+								
+							
+								Biradial: -45 dB to -47 dB
+						
+						
+							
+								
+							
+								Hyperbolic: -45 dB to -47 dB
+						
+						
+							
+								Conclusions:
+							
+								These long contact tips had neither a tendency to increase nor decrease the level of surface noise compared to biradial tips.
+						
+					
+				
+				
+				Significantly lower surface noise on the same record under the same set of conditions may seen like a good thing but, in reality, may be an indication of greater indentation and possibly greater record wear. We theorize that the tip cannot differentiate between intended modulation and unintended variances on the surface of the groove wall. It tries to play both; but as the indentation increases, the tip smoothes or even smears the surface of the groove wall. By decreasing or eliminating small irregularities in the groove wall, the tip seemingly causes a reduction in noise. At greater indentation, however, this can cause premature breakdown of the groove wall surface.
+				
+			
+				Wear
+				
+				Wear is another means by which we evaluate tip geometries. In the context of the tip-groove relationship, we may define wear as any modification to either the tip or the record groove as a result of their sliding contact with each other. Such modifications usually occur gradually as a result of repeated contact between the two surfaces. For convenience, we will divide this topic into two parts: wear on the tip and wear on the record. However, in reality, we know that wear is a process acting mutually on both parts and that it begins with the very first play and continues with every play thereafter.
+				
+					
+						Tip Wear
+						
+						All tips wear and eventually must be replaced. This is neither surprising nor unusual, but rather the expected result when two surfaces slide against each other. Various processes are used to describe wear such as adhesion, abrasion, pitting, etc. One process may dominate the manner in which parts wear, or a combination of processes may contribute to the wear simultaneously. In the particular case of wear on the tip, one theory points to abrasion and heat as the most likely candidates. Even on seemingly very clean records, minute particles in the groove present a gritty environment to the tip. Additionally, small, sharp grains of diamond may wear away from the tip and become deposited in the groove. The record, in effect, becomes a grinding wheel. In time, large flat regions are ground on the tip. Heat is probably formed by high tip velocities on the groove wall. This phenomenon is analogous to striking a match.
+						
+						We have conducted many tests to help us estimate tip life and evaluate the effect of various parameters on tip wear. As always, the test conditions must be carefully controlled. The size of the tip, trackability or mechanical impedance of the stylus, the record material and recorded content, tracking force, skating compensation, the number of records to be played, the manner in which the records and tips are cleaned, and how frequently they are cleaned are only some of the parameters that must be considered when doing wear tests. The criteria for evaluating wear must also be selected. At what point can we say that a tip has reached the end of its life? The answer to the question will be different depending on the criteria chosen. Furthermore, any given criteria for determining tip life are not applicable to all playback situations and all listeners.
+						
+						In spite of these difficulties, the tests we have conducted over the years have yielded some important results. For example, our data shows that diamond. has a significantly longer life than sapphire (Figure 17). Another test revealed the increased abrasive action of playing a stylus continuously on the same record as opposed to a limited number of plays (20) on several records. Tracking force is also a major factor of tip life, regardless of the shape (Figure 18). The results of several tests show a trend toward a faster rate of wear as tracking force increases, particularly above 1 1/2 grams tracking force.
+						
+						
+							
+						
+						
+							
+						
+						
+						Included among our tip wear tests are studies of the relative tip life of long contact tips versus conventional biradial tips. These tests were conducted on commercial changers of the same model, and each stylus played its own record continuously, tracking at 2.0 grams force. Photographs of the contact regions at 600x magnification were used to evaluate the rate of wear. A comparison of styli with long contact tips and styli with biradial tips revealed no significant difference in the rate of wear between the two groups as a whole, although there were differences between individual tips.
+						
+					
+						Record Wear
+						
+						As indicated previously, wear occurs on the record as well as the tip, but the mechanism by which the record groove is worn is by no means less complex than the process of tip wear. In the case of record wear, several processes may be at work simultaneously. Hard foreign particles such as dust, grit, or grains of diamond from the tip may become trapped between the rubbing surfaces causing abrasive wear characterized by gouging or scratching. Another mechanism is called adhesion. It is this process that is used to explain friction. Friction, it is theorized, is due largely to the force required to shear localized welded junctions created by intense pressure at the infinitesimal individual points of contact throughout the tip-groove junction. We know friction is present because a skating force is generated during playback. Since the record material is not nearly as strong as the tip, these junctions are broken by tearing the vinyl rather than the diamond. Wear resulting from adhesion is often characterized by scuffing and scoring. Pitting is another form of wear. It usually results from repetitive subsurface stresses that exceed the endurance of the material. Our tests have revealed evidence of this type of wear in as few as ten plays on poor quality records, or as many as several hundred plays on good quality vinyl.
+						
+						Having established that record damage can take various forms, we must determine which types of wear are most objectionable, under what conditions they occur, what the symptoms of the various forms of wear are, and how certain factors like tracking force or tip geometry influence wear. Our study of this complex subject has continued for many years. Space does not permit a detailed discussion of all the investigations we have conducted, but a review of some examples of tests and the results will provide some insight to record wear.
+						
+						Our tests have shown that inadequate trackability, that is to say high mechanical stylus impedance, is by far the largest contributor to premature record wear or damage. In no way can a tip, no matter how well it is designed, prevent this type of irreparable damage. Examination of properly tracked grooves at 300 times magnification and greater has revealed that some modification to the groove is always visually detectable, regardless of the cartridge or the tip. A slight depression or shallow trough resulting from permanent indentation of the groove wall takes form in the first few plays. For most recorded signals, that amount of indentation does not significantly modify the reproduced signal. Assuming proper tracking and good record material, the trough is seemingly little changed after 50 or even 100 plays. In fact, some small amount of indentation is desirable to smooth roughness or irregularities in the surface of the groove wall, thereby keeping the surface noise low. In designing a tip, however, we would like to know how different tip geometries affect the shape of the record modulation with increasing numbers of plays. To do this, we have made many distortion tests. Following are some typical test results:
+						
+						
+							
+								
+									
+										Test 1:
+									
+										2nd and 3rd harmonic distortion versus number of plays
+								
+								
+									
+										
+									
+										Cartridge: V15 Type III
+								
+								
+									
+										
+									
+										Tips: biradial and hyperbolic
+								
+								
+									
+										
+									
+										Signal: CBS STR-100, bands 3A and 3B, 1 kHz
+								
+								
+									
+										
+									
+										Tracking Force: 0.75 gram
+								
+								
+									
+										
+									
+										Number of Plays: 100
+								
+								
+									
+										Results:
+									
+										2nd harmonic with biradial:
+									
+										no significant change on either channel.
+								
+								
+									
+										
+									
+										2nd harmonic with hyperbolic:
+									
+										no significant change on either channel.
+								
+								
+									
+										
+									
+										3rd harmonic with biradial:
+									
+										decreases about 33% of original value.
+								
+								
+									
+										
+									
+										3rd harmonic with hyperbolic:
+									
+										decreases about 40% of original value.
+								
+								
+									
+										Test 2:
+									
+										Same as Test 1 but at a tracking force of 1.5 grams.
+								
+								
+									
+										Results:
+									
+										2nd harmonic with biradial:
+									
+										increases by an average of 20% from original value.
+								
+								
+									
+										
+									
+										2nd harmonic with hyperbolic:
+									
+										decreases by an average of 40% from original value.
+								
+								
+									
+										
+									
+										3rd harmonic with biradial:
+									
+										decreases by about 33% from original value.
+								
+								
+									
+										
+									
+										3rd harmonic with hyperbolic:
+									
+										decreases by about 33% from original value.
+								
+								
+									
+										Test 3:
+									
+										Same as Test 1 except at 6 kHz.
+								
+								
+									
+										
+									
+										Tips: biradial and hyperbolic
+								
+								
+									
+										
+									
+										Signal: CBS STR-100, bands 3A and 3B, 6 kHz
+								
+								
+									
+										
+									
+										Tracking Force: 0.75 gram
+								
+								
+									
+										Results:
+									
+										2nd harmonic with biradial:
+									
+										increases an average of 48% from original value.
+								
+								
+									
+										
+									
+										2nd harmonic with hyperbolic:
+									
+										increases an average of 40% from original value.
+								
+								
+									
+										
+									
+										3rd harmonic with biradial:
+									
+										increases an average of 40% from original value.
+								
+								
+									
+										
+									
+										3rd harmonic with hyperbolic:
+									
+										decreases an average of 66% from original value.
+								
+							
+						
+						
+						
+							
+								
+									
+										Additional Notes:
+									
+										The changes in distortion values for styli from both groups exhibit decreases as well as increases. Decreases as great as 30% and increases of over 100% were measured.
+								
+							
+						
+						
+						
+							
+								
+									
+										Test 4:
+									
+										Same as Test 3 but at a tracking force of 1.5 grams.
+								
+								
+									
+										Results:
+									
+										2nd harmonic with biradial:
+									
+										average of both channels increases about 66% from original values.
+									
+										
+								
+								
+									
+										
+									
+										2nd harmonic with hyperbolic:
+									
+										average of both channels increases about 25% from original values.
+									
+										
+								
+								
+									
+										
+									
+										3rd harmonic with biradial:
+									
+										both channels increase an average of 45%.
+									
+										
+								
+								
+									
+										
+									
+										3rd harmonic with hyperbolic:
+									
+										both channels decrease an average of 30%.
+									
+										
+								
+							
+						
+						
+						
+							
+								
+									
+										Additional Notes:
+									
+										Average initial 3rd harmonic distortion was higher with hyperbolic tips than with biradials, but final average 3rd harmonic distortion is about 25% lower with hyperbolic tips.
+								
+								
+									
+										Conclusions:
+									
+										The results were highly variable among the tips with distortion levels sometimes increasing and sometimes decreasing. A decrease in distortion may be as much an indication of groove wear as an increase. The tip may hare modified the groove such that the distortion generated by record wear partially canceled distortion from other sources. No change in distortion indicates the least amount of record wear. 0n an average, the tests indicate a trend favoring the long contact tip, however, the benefit is highly dependent on the particular signal and the tracking force.
+								
+							
+						
+						
+						We have presented these examples to emphasize the variability of data and difficulty of obtaining conclusive results. Conclusions as to the quantitative effects on wear must be drawn with great care.
+						
+				
+			
+		
+	
+	
+		Summary
+		
+		In this paper we have discussed several important aspects of tip design: function; design constraints; various geometries and performance tests including distortion, noise, and wear. Lets review these briefly.
+		
+			
+				The tip has the function of providing a physical interface between the record and pickup. It must accurately translate the physical, stationary signal stored on the record into a dynamic signal that can be transmitted through the playback system. However, it cannot offset other deficiencies such as nonlinearities in the system and mistracking.
+			
+				All tips are subject to the same basic constraints. They must conform to the geometric constraints imposed by the record groove. The design must consider the material limitations of the tip and record as they pertain to wear. Problems of fabrication may also impose constraints on the design.
+			
+				Carefully controlled tests are necessary to evaluate the tip performance. These tests must not be limited to one kind of measurement, but must include distortion, noise, and wear tests to fully evaluate performance. When conducting these tests, one must be conscious of the complexities that are involved and remember that results of a particular test may not apply in all situations. The number of styli tested must be large enough to yield statistically meaningful results.
+				
+				Our tests have shown that biradial and long contact tips with the same tracing radius yield the same average distortion as expected from theory. These geometries will reproduce the same amount of surface noise provided that they have adequate clearance to the bottom of the groove. The results of wear tests have shown longer tip life at tracking forces below 1 1/2 grams. Record wear tests have revealed the importance of proper tracking and low mechanical stylus impedance to prevent groove damage. In other record wear tests, the results indicate some advantage to long contact tips, but the advantage is dependent on the signal and tracking force, However, low mechanical impedance; i.e., high trackability and low tracking force (below 1 1/2 grams) is by far more beneficial in achieving long record and tip life.
+				
+				It should now be evident that there is no black magic in the design of a tip. The best approach is practical and straightforward with extensive tests that attempt to confirm or refute theories and evaluate tip performance.
+		
+	
+
+
+
+	Getting The Signal From Tip-To-Terminals
+
+
+	Frank J. Karlov
+	
+	Introduction
+	
+	In the previous presentation, the important role of the diamond tip was explored. The problems associated with the need for the tip geometry to keep from deteriorating the record groove surface, while accurately reading the information contained in the groove, was discussed in detail. In this presentation, we will look at the roles of the remaining elements of the phono cartridge and their ability to accurately and carefully translate the notion imparted to the diamond tip into an electrical signal suitable for, and worthy of, further processing by the phono preamplifier.
+	
+	The Stylus Assembly
+	
+	Before the motion of the tip can be converted to an electrical signal, that motion must be transmitted to the moving elements of the transducer. Accurate transmission of this notion is the primary function of the moving mechanical system, which is a vital part of every phono cartridge. Shown in Figure 1 is the stylus assembly of the V15 Type III. It is a simple appearing assembly made up of very few parts: the diamond tip, the shank tube, the dynamic control lever, the transducer element, the elastomer bearing, the locator, and the support wire. It would seem that its operation is quite obvious--that the record groove modulations move the tip, and the structure merely rotates as a lever about the pivot provided by the bearing, while the support wire has the dual role of providing additional support to the stylus in preventing collapse during extended play and locating the fore-and-aft position of the pivot. This is looking at the system from a static point of view. However, when one considers that this structure must perform dynamically over several decades of frequency from below audibility to beyond audibility, the understanding of its performance becomes less obvious. By far, most of the engineering effort expended in improving phono cartridge performance is in optimizing the stylus assembly for its many requirements in playback. Also the advances made over the years in phonograph reproduction, that took us from the days when 20 to 30 grams was the typical tracking force to todays 1-gram requirement, have been primarily the direct result of advances in the understanding and implementation of stylus designs.
+	
+
+	
+
+
+
+	Some of the significant parameters the engineer must deal with in optimizing the moving system are: the compliance and damping properties of the elastomer bearing and its geometry, the strength and mass-stiffness distributions of the shank and (in this example ) the beryllium dynamic control lever, and, of course, the geometry of the diamond tip. Also a compatible interface with the stationary portion of the transducer must be achieved. All of these factors and others must be considered, refined, and then combined into an integrated design that ultimately determines every performance specification of the cartridge. Intimately dependent upon the dynamic excellence of the moving system are the cartridge frequency response, signal level, interchannel crosstalk, the various forms of distortion, and the vital requirement for the tip to remain in contact with both groove walls--trackability.
+	
+	Perspectives of Trackability
+	
+	There seems to be a tendency for physical parameters, which are meaningful to the cartridge designer, to be equated to performance specifications. The equation is often a poor one. For example, there still exists the notion that compliance is a true measure of tracking ability. Not only is compliance not a constant value for a given cartridge design, it is but one of the main ingredients that determine low-frequency trackability, and too much compliance can actually diminish trackability at high frequencies. Perhaps the confusion is the result of a semantic problem. Trackability could well have been defined as the property of the stylus which allows it to comply with the urgings of the record groove. But compliance is a very precisely defined scientific concept.
+	
+	Another area of misunderstanding is with regard to the idea that reducing the mass of the stylus guarantees an increase in high-frequency trackability. One of the main factors which contributes to high-frequency trackability is not the mass (or weight) of the stylus, but its equivalent or effective mass, which is the inertial effect of the stylus system referred to the tip and which is actually felt by the record groove. The mass distribution of the stylus is a much larger factor in determining trackability than its actual mass. A mass element located near the pivot end of the stylus may have negligible effect on trackability, while that same mass element near the tip end could virtually destroy trackability. In analyzing todays top-of-the-line cartridges, one finds, for example, that while cartridge A has almost twice the stylus mass of cartridge B, it may well have about half the effective mass of B.
+	
+	While using simplified terms to describe performance expectations can be convenient, it can often be deceptive. The only way to provide meaningful trackability information to the audiophile is by reporting actual measurements of trackability using calibrated test records. Other methods can only be misleading.
+	
+	Another area, where there seems to be a common misunderstanding is in the real need for super trackability. While everyone agrees that trackability is important, many feel that only a few of the more highly modulated records require it. This is probably because most mistracking occurs when playing transient signals and is of such short duration that it is not perceived and identified as mistracking. No thud, clunk, crunch, or sizzle, some terms often used in an attempt to describe the sound of mistracking, may be audible. The sound quality, however, may be destroyed as well as the record groove. Figure 2 shows an example of what happens to the groove when the signal is not tracked properly. One photo shows the condition of the groove after being played 50 times with a stylus that tracked the signal. The other photo shows the same portion of an identical record played with a stylus that mistracked one time. Both records were played by current top cartridges at 1 gram tracking force. Note the modification of the groove resulting from one playing while mistracking, and the insignificant evidence that the tracked groove has been played at all. One may say that the primary function of a phono pickup is to dig out the information from the groove. Here we see that, indeed, there has been some digging, but the information has not been retrieved nor can it ever be from this abused groove.
+	
+
+	
+
+
+	The Vibration Absorber
+	
+	One of the compromises in designing the moving system of a phono cartridge has always been the conflicting requirements in achieving high trackability simultaneously in the low, mid, and high frequency regions. The demands upon the elastomer bearing are different for each part of the total spectrum. In the low-frequency region (below approximately 1,000 Hz) where recorded amplitudes are of main concern, the stiffness of the bearing limits trackability and, therefore, it should be highly complaint. To track all audio frequencies below about 4,000 Hz, the damping properties of the bearing should be low, because of high recorded velocities. Above 4,000 Hz, the ideal bearing would have a large amount of damping to enhance trackability as the stylus resonance frequency is approached. Additional bearing stiffness may also be desirable to raise the stylus resonance beyond the audio limit of 20 kHz. Also to be considered is the need to limit compliance for sub-audible or warp performance. It is apparent that because of these conflicting requirements the bearing cannot, be ideal over the entire spectrum.
+	
+	During the development phases of our M24H Cartridge designed for CD-4 quad playback as well as conventional stereo, there were additional requirements on the bearing to provide frequency response, trackability, and channel separation control through the carrier frequencies. It was at that time that the principle of the dynamic vibration absorber was first applied to the phono cartridge system.
+	
+	Figure 3 shows the initial embodiment of this approach. Note that a mass is attached to the end of the transducer magnet through a block of elastomer material, which has both the properties of compliance and damping. Above some preselected frequency, where additional damping is most beneficial, the mass element is such that its inertia prevents its significant motion. The elastomer is vigorously exercised and its damping properties utilized. This effectively provides the additional damping only at the high frequencies where needed and not at low and mid frequencies where it is not desired.
+
+
+
+	
+
+
+	Further exploration of the dynamic vibration absorber principle showed that a simpler yet more functional arrangement was possible. Figure 4 shows a structure which eliminates the lumped mass and takes advantage of the mass inherent in the elastomer itself. This distributed parameter structure allowed us to achieve much enhanced control of the initially conflicting compliance and damping requirements over the frequency spectrum. Its incorporation into the M24H design resulted in outstanding carrier signal retrieval without record destruction while also performing as an excellent stereo cartridge.
+	
+
+	
+
+
+	The principle of the dynamic vibration absorber provides the phono cartridge designer with a new tool to deal with some of the conflicting requirements that can restrict the attainment of optimum performance. The excellence of the VI5 Type IV stylus design is the result of using the dynamic vibration absorber optimized for stereo performance.
+	
+	The Transducer
+	
+	So far we have been mainly concerned with the moving system of the phono cartridge--the vital portion of the cartridge responsible for insuring that every motion imparted to the tip by the record groove wall is accurately reproduced by the moving element of the transducer, in our example, the moving magnet. In Figure 4, note that the magnet is positioned within a pole piece structure, which is that portion of the stationary elements of the transducer charged with sensing the motion of the magnet and transporting the flux changes to and through the coils.
+	
+	Figure 5 shows the actual pole piece assembly as it has been incorporated in both the V15 Type III and the M24H. Note in the upper view that the structure for each channel consists of a stack of fine laminations passing through its pickup coil. The lower view shows two such stacks and coils nested to form a square tunnel which can independently sense both the left and right channel motions of the magnet. This pole piece assembly is encapsulated within the body of the cartridge to insure the integrity of its geometry as well as immobilizing the fine coil wires and leads, thus preventing their breakage. This basic structure has proved to be successful in providing consistent flat frequency response, exceptional channel separation, and higher signal level capability because of its inherent efficiency. The V15 Type IV Cartridge design takes advantage of the performance benefits afforded by this unique magnetic structure.
+	
+
+	
+
+
+	Conclusion
+	
+	We have looked at the three vital parts of the phono cartridge; the diamond tip, the mechanical stylus system, and the transducer system. The performance of the phono cartridge depends not only on the excellence of each of these elements, but also on the extent to which these elements are integrated into a unified design that retrieves all the music and leaves the record worthy to be played another day.
+
+
+
+
+	Design Considerations of the Vl5 Type IV Phonograph Cartridge
+
+
+	L. R. Happ
+	
+	Tracking Objectives
+	
+	In March of 1973, before an audience similar to the one today, the V15 Type III was introduced. At that time, we presented a study made by Shure engineers that surveyed the range of frequencies and velocities found in the grooves of commercial phonograph records. The data from that study was compiled and graphed as a distribution of measured points shown on the right in Figure 1. The area these points cover represents the total spectrum of signals that challenge the phono cartridge tracking ability. The hottest signals are located along the upper edge, particularly at the high frequency end of the distribution, and represent the toughest signals for the cartridge to track.
+	
+
+	
+
+
+	Also at the Vl5 Type III Seminar, a new definition of trackability was introduced. Trackability was extended to read The ability of the stylus to maintain contact with the record groove ... across the frequency spectrum found on records. This broader definition includes the requirement of tracking CD-4, four-channel records. In addition to record modulation, many other signals are present on records in the form of unwanted disturbances. Our study of record warp characteristics shows that the distribution of these disturbance signals extends into the subaudible region. This is shown shaded in Figure 1 at the left side of the illustration.
+	
+	By including warp signals, we can refer not only to the trackability demands of the pickup, but also to that of the tone arm and cartridge system.
+	
+	The V15 Type III in an SME arm has a system trackability curve as shown in Figure 2. At frequencies where the trackability curve passes beneath the top limit of the signal distribution, the potential for mistracking exists. On records which contain these peak signals, the VI5 Type III, which possesses the highest high-frequency trackability of any present-day phono cartridge, should be played at its maximum tracking force to ensure adequate tracking. The remainder of the system tracking curve shows a tracking margin, illustrated by the clearance between the system tracking curve and the shaded signal regions (representing the range of observed record velocities at any frequency). Having a large trackability margin over part of the frequency spectrum does not mean that the tracking requirement has been satisfied. The trackability margin should ideally extend across the entire frequency spectrum. In addition, increasing the trackability margin beyond the minimum is always beneficial; it means reduced groove indentation and less signal distortion, less record and tip wear, and reduced surface noise buildup.
+	
+
+	
+
+
+	The dip in the trackability graph is due to a resonance between the tone arm effective mass and cartridge compliance. Because of the relatively undamped resonance (typical of present-day cartridge/tone arm combinations), the graph shows reduced tracking margins in the warp signal region.
+	
+	Thus, the system tracking curve suggests two regions where trackability improvements would be desirable. The first is in the mid- and high-frequency regions, and the second is in the cartridge/tone arm resonance region where only a limited margin exists.
+	
+	Our goal in the V5 Type IV was to achieve improvements in these regions without trading off any of the excellence achieved by the V15 Type III. We did not want to give up any low-frequency tracking to gain an increase in high-frequency tracking or an increase in the warp signal rejection, nor did we want to trade off a flat frequency response for the sake of improved high-frequency tracking. It is only through this approach that a real improvement in trackability can be achieved, not just a rearrangement within the present constraints.
+	
+	Significant improvements in tracking ability were achieved as illustrated in Figure 3 (Note: trackability is plotted on a log scale).
+	
+
+	
+
+
+	Improvements were realized throughout the entire signal range, not just in one frequency region. The greatest improvements were achieved in the high-frequency audio range and in the subaudible warp signal region. In the low audio frequencies, below approximately 100 Hz, the performance is similar to the V15 Type III and, as the figure indicates, adequate for commercial records. The dramatic improvement in the warp signal region indicates a new, significant margin of protection against warp signals. The significance of this will be explained in an ensuing paper by R. Anderson titled, Phono Arm Damping Revisited.
+	
+	We will now break the total improvement up into its various parts and examine some of the design aspects of the cartridge.
+	
+	New Shank and Magnet Assembly
+	
+	In a moving magnet phono cartridge the shank and magnet assembly is the heart of the transducer, and the design must evolve through a careful optimization process. It is necessary to have objective performance criteria by which quality can be measured. These performance criteria include low equivalent mass, high resonance frequency and low resonance Q, high resistance to bending and fracture, and the proper geometrical consideration. Since many of these items lead to contradictory requirements, any one of these features cannot be maximized independent of the others, or a less than optimum design would result. All must be considered and evaluated in order of importance. The engineer must evaluate each of these technical design factors and weight them in concert with the needs of the audiophile.
+	
+	At Shure, for the reasons previously stated, mechanical impedance (trackability), frequency response, and geometry are rated high in importance. In the design of the V15 Type IV shank, a study was made that mapped various aspects of the performance criteria. Through new computer techniques, many different shanks could be compared with respect to equivalent mass and impedance, flatness of response, stiffness, and physical geometry. Based on these results, many prototypes were constructed, measured, and subjected to extensive listening tests. The final design is called the telescopic shank and is shown in Figure 4.
+	
+
+	
+
+
+	The telescopic shank employs a precision outer reinforcing tube in intimate contact with the shank. To achieve this critically tight assembly, new processes and highly specialized tooling were developed. The magnet is of a new, high-energy material and is reduced in size and mass. By comparison, the V15 Type III uses a slightly larger diameter shank and an internal solid beryllium rod reinforcement. The net effect of these changes over the V15 Type III was to reduce the overall mass and equivalent mass of the stylus while maintaining the same overall geometry and bending strength with respect to the record input. In terms of the performance criteria, the contribution of the new shaft is to improve the high-frequency trackability, maintain the shank resonance beyond the audible frequency range, and improve the control of the resonance by reducing the mass the bearing must control.
+	
+	New Computer Model for Shank Evaluation
+	
+	Although a new shank design is relatively easy to illustrate, the development of the shank is not an easy process. The description of one aspect of the project, our new computer model, which was used in the development of the V15 Type IV, will give some insight into the extensive engineering efforts behind such a development. The computer model is not an electrical-mechanical analog as discussed in past literature. The model is a mathematical derivation of the dynamic system shon in Figure 5.
+	
+
+	
+
+
+	The model allows for mass and stiffness distributions that vary over the length of the shank; in fact, up to four separate shanks can be pieced together to form a composite system. The supports, shown in the diagram as simple springs, represent record and bearing impedances which are each complex parameters determined from theory and empirical data. When given a sinusoidal input from the record, the model can describe the stress or strain characteristics at any point within the system. Figure 6 illustrates the type of information the program can produce.
+	
+
+	
+
+
+	The figure shows the centerline of a simple tubular shank at an instant of time during vibration at its resonance frequency, This example of shank and bearing is uncontrolled due to the high mass of the shank and low damping in the bearing supports. Notice the transducing element has vibrated away from its intended pivot position. Figure 7 illustrates positions of the same stylus system at sequential instants of time. The series represents 1/4 of a full cycle at the resonance frequency. Note the mistracking of the input sine wave, the shank flexing, and, again, magnet motion away from the pivot point. Continuing in this type of analysis, using similar methods, we have created an animated dynamic representation of a stylus system.
+	
+
+	
+
+
+	The following filmstrip shows an example of this computer-drawn animation. In the example shown in the filmstrip, the shank has been made lighter and the bearing damping improved compared to the previous example (Figure 7). The frequency sweeps from 1 kHz to 50 kHz in approximately 3 kHz increments. Although this analysis shows the pivot position under control, the various resonances in the system are still uncontrolled and indicate probable mistracking, distortion, and groove damage. The V15 Type IV shank and bearing system employs significantly more damping and less mass than the example used in the film, and thus is very much under control compared to the filmed demonstration.
+	
+	During the development of the V15 Type IV, over 50 different theoretical assemblies were simulated on the computer, and many were selected and built as experimental prototypes. Of these, the telescopic stylus shank was chosen as best suited and well-matched for the bearing and vibration absorber assembly. A paper describing the computer program will be presented in the near future.
+	
+	New Bearing and Dynamic Vibration Absorber
+	
+	Up to now, we have concentrated on the development of the stylus shank with references only to the bearing and damping system. However, both must be carefully integrated if an optimum design is to result. In addition to the constraints imposed by the stylus shank material, it is the bearing or properties of elastomers in general that impose many of the constraints when we strive to maximize trackability over the entire signal spectrum. For example, if we were to use a single type of material and reduce the hardness grade from high to low, we would observe that improvements in trackability at the low-frequency end generally are offset by reductions in the high-frequency tracking. This may produce no change in total trackability, only a redistribution of tracking performance. Therefore, in our design, if we are to make significant gains it s necessary to examine the very nature of these bearing material constraints to see how fixed they really are.
+	
+	An investigation of material was undertaken to study the relationship of stiffness and damping of various elastomers over the subaudio and audio frequency spectrum. Figure 8 illustrates the measurement technique used in this investigation. Using what is referred to as a mechanical impedance transducer (Figure 8b), it is possible to discriminate between the forces within the material which are primarily springlike and those that most resemble a dashpot in character (Figure 8a). A small cube of each material was loaded into the transducer and measured under the same stress/strain conditions as would be expected in the phono cartridge application. By measuring each material over a wide range of frequencies, it is possible to generate the overall impedance characteristics of the material (Figure 8c). By further processing this information, we can obtain the dynamic stiffness and dynamic resistance characteristics of the materials (figure 8d). Thus, we can determine both the degree to which elastic materials become stiffer while damping diminishes with frequency, and an indication of which property of the material, its spring or damping nature, is most influenced by the stylus motion at each frequency.
+	
+
+	
+
+
+	Ideal material qualities can also be defined. For example, the material should be stiff in the subaudible region, compliant in the low- and mid-frequency region, and then stiff again in the very high-frequency region--not an easy requirement to satisfy! However, we found that by a special compounding process, these characteristic curves can also be blended together to produce a variety of qualities; and thus we were able to more closely approach the ideal.
+	
+	If we take the overall material impedance characteristic, a combination of both material qualities, we have a parameter that relates to system trackability. Looking at just this function, we can compare the V15 Type III and V15 Type IV bearing material characteristics in the subaudible to mid-frequency range (Figure 9). This graph shows the V15 Type IV bearing to be stiffer in the very low and subaudible frequencies, yet it is more compliant in the mid and high frequencies. This is a desirable characteristic since it maintains proper compliance for optimum arm resonance frequency and provides for improved mid-frequency trackability difference of the V15 Type III and V15 Type IV shown in Figure 3.
+	
+
+	
+
+
+	Also, it should be stated that the final bearing material chosen is formed from a blend of materials chemically similar to the V15 Type III material. Therefore, it maintains the same stable non-aging properties as the V15 Type III material, is highly resistant to chemicals, and is even less affected by temperature.
+	
+	In addition to the improved bearing material, the stylus system uses the dynamic vibration absorber principle. This is an effective technique for controlling the stylus shank resonance, thus improving the tracking without a significant compromise in other performance areas. An Audio Engineering Society paper on the design and performance of a phono stylus using the vibration absorber principle is included in the seminar notes.
+	
+	The construction of the stylus and bearing system is shown in Figure 10. The bearing and vibration absorber assembly are designed to complement each other, The mechanical resonance can be well controlled by the vibration absorber. With the bearing relieved of this function, we were able to use a bearing material that will improve the tracking in the other frequency regions. In the past, both of the functions were performed by a single part; now each function can be independently optimized.
+	
+
+	
+
+
+	Other Performance Specifications--Response, Loading, and Crosstalk
+	
+	At this point, I would like to describe some of the other performance specifications of the cartridge. Frequency response is composed of the sum of the mechanical and electrical responses. However, the mechanical response of the V15 Type IV is flatter than that of the VI5 Type III. Thus, less electrical compensation is needed for flat response at the terminals.
+	
+	The curve shown (Figure 11) is the typical response of the V15 Type IV. Also shown are the tolerance limits that every V15 Type IV will meet. Each cartridge is individually tested to ensure that this specification is met; in fact, our inspection standards are even tighter than the published limits.
+
+
+
+	
+
+
+	
+	
+	
+	
+
+
+	The proper loading to achieve this response is 47 kilohms, 250 pF. This is a change from previous Shure stereo cartridges since the recommended capacitance has been reduced. This value of capacitance is more typical of that available on present-day turntables and tone arm wiring. We feel the consumer need not sorry about the exact capacitance value since a range from 150 pF to 350 pF will keep the typical response within the above published specifications. Therefore, in the vast majority of applications, flat response can be obtained without, any adjustments by the consumer.
+	
+	Each cartridge is also checked to assure adequate channel separation. AIl cartridges meet a minimum of 25 dB channel separation at 1 kHz and a minimum of 1.5 dB at 10 kHz.
+	
+	External Design Aspects
+	
+	Figure 12 is a photograph of the V15 Type IV Phonograph Cartridge.
+	
+
+	
+
+
+	The external design philosophy was to keep the cartridge functional, compact, low in mass, and easy to handle. The mounting technique for the majority of changers and arms will be with two nylon screws through the headshell into a nut plate. This provides a firm convenient mounting means. The entire stylus is removable from the cartridge body. A large surface area on the stylus grip provides a means of holding when removing or installing the stylus. A cue mark is provided on the front of the grip for ease of setdown. The stylus guard is located inside the grip and R. Anderson will explain its unique features later in the presentation.
+	
+	Summary and Conclusion
+	
+	Throughout the presentation, we have stressed the importance of carefully integrating all the design aspects to achieve an optimum performance and have presented some of the tools and processes used in achieving this performance. In addition to subjective listening tests, we have used objective, scientific methods to weigh the alternatives in order to arrive at the optimum design. Regarding the compromise between a heavy strong shank and super-lightweight performance, we have been able to reduce the overall mass and equivalent mass without sacrificing shank strength. This resulted in the high-frequency tracking improvements shown in the trackability graph (Figure 3). In addition, we have shown how our investigation into the properties of elastic materials has yielded a better relationship between the subaudible vs. audible signal characteristics. Thus, we have realized improved mid-frequency tracking without changes in the cartridge/arm resonance frequency.
+
+
+
+	The Hyperelliptical Tip
+
+
+	B. W. Jakobs and S. A. Mastricola
+
+	
+		Introduction
+		
+		Earlier we described the function and constraints related to tip design in general terms and presented some results of tests conducted on this subject. Now we will examine a specific design, the Hyperelliptical tip, for a specific application, namely the V15 Type IV Stereo Phonograph Cartridge.
+		
+		The basic aim in designing this tip was that of lowering distortion without sacrificing either tip or record life. This involved the careful analysis of the stylus performance criteria, principally trackability or mechanical impedance. Compatibility was achieved by carefully optimizing all important parameters.
+		
+	
+		Description
+		
+		The requirements of a tip for the Vl5 Type IV were considered in the examination of dozens of tips of many geometries. A variety of requirements for performance, including low distortion, noise, and wear, resulted in the design of the hyperelliptical tip. Lets now examine this tip in detail to see how it fulfills the specifications set forth.
+		
+			
+				Material
+				
+				We know of nothing that is harder and more wear-resistant than natural diamond. The hyperelliptical tips, like other Shure tips, are made from gem-quality, natural diamonds; i.e., they must be of high purity and be free of inclusions or crystalline defects. This will ensure that they will survive the high stresses applied during the manufacturing operations and, more importantly, yield a relatively low wear rate during playback.
+			
+				Stylus Tip Body
+				
+				To be sure that the tip does not contribute more than a small percentage to the total effective mass of the stylus assembly, it should be made from a small diameter nude stone. This requires that significant manufacturing difficulties must be overcome in order to arrive at the correct contact geometry on a very small stone.
+				
+				The major part of the cylindrical body undergoes a roughing operation (Figure 1), and for a very important reason: the stone must be affixed to the stylus shank. The rough surface assures a strong bond; a bond that is tested three ways. One of these is a push-out test in which the tip must not be dislodged when a force of 3/4 pounds is applied. In another test, the cartridge is mounted in a tone arm and loaded with a tracking force sufficient to collapse the stylus. The stylus is then scraped back and forth across the record 100 tines. In the third test the tone arm is dropped onto the record 100 times from a height of about 3.
+				
+				
+					
+				
+				It is noteworthy that too often diamond tips are assessed simply by taking a moderately enlarged photo, usually 50 or 100 to 1. Invariably, the more brilliant or glassy-looking the stone appears, the more well polished it may seem, The appearance of the tip under these conditions, by no means, guarantees a properly polished tip with correct geometry in the tip-groove contact region (Figure 1). In the most important contact area, the examination and measurements require high-quality instrumentation and microscopes (not necessarily scanning electron microscopes). In addition, technicians must be trained to evaluate diamond tips. It takes considerable insight into the areas of diamond manufacturing, mounting, and the actual application in order to assess diamond tips properly, even with suitable instrumentation.
+				
+				Shure diamond tips are designed to have the correct geometric properties, are reliably bonded, are properly polished in the contact area as necessary to fulfill their intended function, and are rigorously evaluated.
+			
+				Mounting
+				
+				The tip must be accurately and securely mounted. Angular tolerances are permissible only to the extent that they do not cause deterioration in performance.
+			
+				Contact Geometry
+				
+					
+						The basic frontal contour is a hyperbola described by (Figure 2 and 3). It is generated by a patented manufacturing process involving intersecting cones. The frontal contour is approximately equal to 38 (.0015) radius. The curvature has been carefully optimized and allows a certain degree of freedom for angular tolerances without degradation of performance.
+						
+						
+							
+							
+							
+					
+					
+						A minimum clearance of 5.1 (.0002) to the bottom of the groove is required. The tip must never ride in the bottom of the groove since this will result in additional objectionable noise.
+					
+						The elongated contact area permits a narrower, but longer, footprint in the groove wall, thereby reducing distortion (Figure 4).
+						
+						
+						
+							
+					
+					
+						The tracing radius is smaller for lower tracing distortion (Figure 4).
+					
+						It has an elliptical cross section (Figure 4 and 5) that assures uniformity along the contact length.
+						
+						
+							
+					
+				
+				
+				The tracing radius is smaller throughout, not just at the theoretical point of contact. By virtue of a patented manufacturing technique, the contact radius remains uniform along the entire contact length, an improvement over spherical, biradial, and some of the conventional long contact varieties. The desired geometry is a natural outcome of the manufacturing process. Notice that, even though the tracing radius is smaller, the contact area is not; it is just shaped differently. Therefore, we have the advantage of more accurate tracing without decreasing the contact area. This is an important point in that the contact area is related to the amount of indentation and stresses within the groove wall, which probably influence record wear.
+		
+	
+	
+		Measurements
+		
+		The design just described satisfies several functional and practical manufacturing requirements. However, the tip must be tested in the cartridge itself to determine whether it performs dynamically. Extensive testing is done to check the design and performance under dynamic conditions. This type of testing includes distortion measurements, noise and wear measurements, and visual observations of tips and records in conjunction with controlled tests.
+		
+			
+				Distortion Measurements
+				The dimensions of the hyperelliptical tip theoretically indicate that it will trace the signal more accurately than its predecessors. Tests performed verified this as follows (Figure 6):
+				
+					
+						2nd Harmonic Distortion
+						
+							
+								
+									
+										Conditions: 
+									
+										Cartridge: V15 Type IV
+								
+								
+									
+										Record:
+									
+										CBS STR-100, bands 3A and 3B
+								
+								
+									
+										Signal:
+									
+										8 kHz, @ 5 cm/sec peak velocity
+								
+								
+									
+										Tracking Force: 
+									
+										1.25 grams
+								
+								
+									
+										Results:
+									
+										Average values of both channels for several cartridges are as follows (Figure 6):
+								
+								
+									
+										
+									
+										a. Spherical (.6 mil): 6.4%
+								
+								
+									
+										
+									
+										b. Biradial (.3 x.7 mil): 4.0%
+								
+								
+									
+										
+									
+										c. Hyperbolic : 4.0%
+								
+								
+									
+										
+									
+										d. Hyperelliptical: 2.5%
+								
+							
+						
+					
+					
+						IM Distortion
+						
+							
+								
+									
+										Conditions: 
+									
+										Cartridge: V15 Type IV
+								
+								
+									
+										
+									
+										Record: TTF-103, band 6
+								
+								
+									
+										
+									
+										Signal: 1 kHz/1.5 kHz @ 25 cm/sec peak velocity
+								
+								
+									
+										
+									
+										Tracking force: 1.25 grams
+								
+								
+									
+										
+									
+										
+								
+								
+									
+										Results:
+									
+										Average values of both channels for several cartridges are as follows (Figure 6):
+								
+								
+									
+										
+									
+										a. Spherical (.6 mil): 2.4%
+								
+								
+									
+										
+									
+										b. Biradial ( .3 x .7 mil): 1.8%
+								
+								
+									
+										
+									
+										c. Hyperbolic: 1.8%
+								
+								
+									
+										
+									
+										d. Hyperelliptical: 1.4%
+								
+							
+						
+						
+						
+							
+					
+				
+				This data shows two different types of distortion measurements under two different sets of conditions. The numbers change, but the trend is clearly the same. The hyperelliptical yielded lowest distortion values in each case. Since the tests were conducted under different conditions, there is a strong indication that the results are not unique to one case but are valid for a wide variety of situations in which a difference would result.
+				
+				In all of the preceding measurements, great care vas taken to assure that the test conditions remained the same for all styli. Tracking force and skating force were set for each stylus. A new record was used for every stylus. The measurements were repeated to demonstrate that the results were repeatable and consistent. All of these precautions must be taken to obtain meaningful data that is repeatable. Even with these precautions, we still occasionally find individual styli that do not fit the pattern. We must remember that distortion measurements are measuring more than just the distortion caused by the tip. Therefore, the need to test many units is necessary in order to arrive at valid conclusions.
+			
+				Noise Measurement
+				
+				Tests have been conducted to determine the effect of the hyperelliptical tip on surface noise.
+				
+				
+					
+						
+							
+								Conditions:
+							
+								Cartridge: V15 Type IV
+						
+						
+							
+								
+							
+								Record: 33 1/3 rpm, record radius of 3, unmodulated (silent) grooves
+						
+						
+							
+								
+							
+								Tracking Force: 1.0 gram
+						
+						
+							
+								
+							
+								Filter: high pass from 500 Hz
+						
+						
+							
+								
+							
+								Equalization: frequency response on each stylus equalized to be like all other styli within 1 dB
+						
+						
+							
+								Results:
+							
+								Average wide band noise output on initial play of both channels for several cartridges relative to the 1 kHz lever @ 5 cm/sec peak velocity:
+						
+						
+							
+								
+							
+								a. Biradial (.3 x .7 mil): -46 3/4 dB
+						
+						
+							
+								
+							
+								b. Hyperelliptical: -47 1/2 dB
+						
+					
+				
+				
+				The above difference is not significant, and shows that the hyperelliptical generated as little surface noise as the conventional biradial tip.
+			
+				Wear
+				
+				Comparative tests have been conducted to evaluate tip and record wear. In one test V15 Type IV styli with biradial, hyperbolic, and hyperelliptical tips were played continuously on the Shure TTR-110 records at 1.2, grams tracking force. All cartridges were mounted in the same model record changer. Tips and records were cleaned regularly. Based on photographs of the tips, no significant difference in the rate of tip wear was observed between biradial and hyperelliptical tips. The hyperbolic tips exhibited slightly less wear.
+				
+				Record wear tests were conducted as well. Second harmonic distortion was measured after 100 plays as outlined in the previous paper (The Tip and the Record--The First Link in the playback Chain). The results showed no significant difference among biradial, hyperbolic, and hyperelliptical tips.
+		
+	
+	
+		Summary
+		
+		In this paper, we have described a tip design for a particular up-to-date stereo phonograph cartridge that fulfills the objective set forth. With the hyperelliptical design, we achieved a smaller, more uniform contact radius for lover distortion without sacrificing record and tip life.
+
+
+
+
+	PHONO ARM DAMPING REVISITED
+
+
+	C. R. Anderson
+	
+	A New Answer to an Old Problem
+	
+	Users of phonograph equipment have long recognized that the conventional arrangement of a phono pickup at the end of a pivoted arm has a built-in low-frequency stability problem. Prior efforts to improve the situation have involved such devices as turntable shock suspensions, damped counterweights, viscous tone arm damping, and low mass pickups and arms. The low-frequency stability problem is a consequence of the resonance which is inherent in the conventional pickup/arm arrangement. This resonance exists because the arm and pickup assembly behaves like an effective mass that is coupled to the record groove by means of a stylus assembly with its own mass, compliance, and mechanical resistance. For low frequencies, the mass of the stylus assembly can be ignored; however, that leaves its compliance and resistance as important coupling parameters. Just as a weight hanging from a spring has a natural resonance frequency, so do the compliance of the stylus assembly and the effective mass of the pickup/arm assembly.
+	
+	Ideally, frequencies below the resonance, such as those produced by warps, eccentric grooves, and the spiral grooving itself will move the whole phono pickup and arm with no relative motion of the stylus assembly. Frequencies above the resonance will vibrate the stylus assembly but not the pickup arm assembly which remains centered above the groove. In other words, the system floats the pickup over the groove, reads the program material on the sidewaIls of the groove, and produces corresponding electrical signals. Frequencies below the resonance cause the whole stylus and pickup arm assembly to move as a unit, and consequently produce no electrical output. Thus, the system plays the useful program material and ignores the rest--all well and good--but, what happens at the resonance frequency? One important characteristic of resonance is that motions are magnified considerably, in this case, typically from 2 to 10 times. In Figure 1, we have diagrammed the situation for vertical notion and in Figure 2, sketched the lateral case.
+	
+
+	
+	
+
+
+	
+
+
+	In both situations, the output from resonance frequency signals in the groove will be increased from 6 to 20 dB. These numbers are just the dB equivalent of the magnification numbers previously mentioned. By itself, this may not be all bad, since this resonance peak determines the low-frequency response limit of the pickup and system, and a bit of boost here may not be unpleasant. This was certainly true fifteen years ago, when arm resonance frequencies of 30 to 50 Hz were common. However, with modern pickups and arms, these resonance frequencies are usually subsonic (below 20 Hz), so that reproduction by the loudspeakers may cause distortion. Additionally, preamp overload is most likely to occur at boosted low frequencies since the preamp clipping level is lowest here. Consequently, the arm resonance has lost whatever usefulness it once had and must now be regarded as a liability.
+	
+	The most pernicious effect of the resonance is shown in Figures 1 and 2 by the scrubbing notion developed by the stylus in the groove. This causes program material to warble in pitch, just as if the turntable speed were fluctuating. In fact, the groove speed is changing (relative to the tip), because a fraction of the velocity of arm vibration is added to the groove velocity. (See Appendix I.) The effect is that about 1/3 of the arm vibration velocity is alternately added to and subtracted from the groove speed. For example, at arm resonance, total amplitudes of 1/32 are easily observed by eye. If the frequency is 8 Hz (typical for high compliance pickups and average arms), the resonance velocity will be about 2 cm/sec (see Appendix II). This velocity will produce a scrubbing velocity of 0.6 cm/sec along the groove axis. The groove speed at a 4.5 inch radius is about 40 cm/sec; so the frequency modulation will be about 0.6/40 = 1.5% and easily audible.
+	
+	Another less obvious consequence of the arm resonance is that the stylus force is used up when the arm is vibrating. In the previous example, if the compliance of the pickup is assumed to be 20 x 10-6 cm/dyne, 2.0 grams of stylus force will be required to accommodate the arm vibration alone. This is larger than the usual stylus force, so mistracking is quite certain at the extremes of the vibration.
+	
+	Sources of Excitation
+	
+	Having seen some of the consequences of the low-frequency resonance, let us next examine the various sources that might excite it. The most obvious possibility seems to be signals in the groove; however, these are generally limited to frequencies above 20 Hz. There are several reasons that bear out this fact: 1) In the mastering equipment, any substantial, low-frequency energy is attenuated because it requires too much space on the record. If it is recorded laterally, the cutting pitch must be increased, decreasing playing time. Vertical cutting of low frequencies invokes the two dangers of cutting too deeply and encountering the aluminum substrate, or lifting the cutting stylus momentarily off the acetate surface. Additionally, many recording lathes have a cutter head vertical suspension for automatic depth control which has a 30 Hz corner frequency and attenuated response at lower frequencies. 2) Many professional microphones have limited response in the 20 Hz region. Directional microphones which utilize differential pressures for their operation are particularly limited in this regard, since the force available to move the diaphragm steadily diminishes with frequency. 3) The tape recorder performs as an automatic low-cut filter since the geometry of tape heads usually precludes reproduction below 20 Hz at 15 ips. 4) An additional reason for discarding signals before 20 Hz is that such signals will not be audibly reproduced from loudspeakers.
+	
+	In view of the above, it seems unlikely that sufficient program material exists below 20 Hz to excite the arm resonance. However, a sure source of excitation is floor vibrations, which are predominantly vertical. An impact will have an extended low-frequency spectrum, which will be further modified in passing through the turntable mount. An ideal suspension will be tuned to below a few hertz, well below the usual arm resonance frequency, but some suspensions are tuned in the same range as the arm resonance, and will cause serious trouble. Some of the impact energy may be translated into lateral motion in passing through the suspension. All vertical motion will tend to excite the vertical resonance, but only the component of lateral motion generally perpendicular to the arm will tend to excite the resonances laterally.
+	
+	The most common source of excitation, however, is that of record warps. In a previous paper, Happ and Karlov analyzed the situation and found that warps occur in a broad low-frequency spectrum extending from 0.5 to about 10 Hz, with maximum occurrences around 3 or 4 Hz. This excitation is the major culprits and it operates principally in the vertical direction. The combination of the supercompliant pickup and many arms yields a resonance right at the peak frequency of the warp excitation, and is a prescription for trouble. Their analysis showed that warp occurrence is minimal in the frequency range from 10 to 15 Hz, between the warp frequencies and the program material. A resonance located in this region has the least chance of excitation from the warp or program material. The analysis also showed that there is a general disparity between the highest compliance pickups on the market and the arms available to use them.
+	
+	Record eccentricities form a source of lateral excitation, but these occur at a frequency close to 1/2 Hz.  This frequency is low enough to be innocuous.
+	
+	A previously unrecognized minor source of arm excitation is the change in stylus drag force with modulation. Signals which have a substantial recorded velocity will increase the drag force considerably, and the arm offset angle or the vertical tracking angle geometry will cause a component of the drag force to move the pickup. This may be seen in Figures 1 and 2. If the drag force varies, the pickup will move, and the scrubbing motion will occur.
+	
+	Previous Solutions
+	
+	Efforts to tame the resonance may be divided into active and passive categories. A thorough analysis of the active servo approach is provided by Clunis who was able to cancel the vertical resonance completely. This approach necessitated the use of an amplitude-sensitive pickup, a servo driver attached to the arm, and a compensated amplifier to excite the servo driver. His results fulfilled the theoretical expectations, and would represent a satisfactory although complex solution to the problem.
+	
+	The first of the passive approaches to be considered is the dynamic vibration absorber, as exemplified by Bauer in the use of the damped counterweight. This has been analyzed by Nakai and found to have a less-than-optimum mass ratio and to be not an entirely suitable solution. It does introduce two smaller peaks instead of one larger one, but requires that the masses and compliances be tuned to each other. Additionally, this approach extends the bandwidth to a lower frequency, which serves no useful purpose. In a later paper, Bauer shows that beneficial results accrue from reducing the cartridge mass and attaching it to the remainder of the arm by a wrist of controlled compliance and damping. Nakai applies the dynamic vibration absorber principle to a special, low-mass cartridge suspended on a viscous-damped trunnion bearing near its center of mass, and mounted in a special low-mass tone arm to achieve control of the resonance.
+	
+	Another approach that has been used is to attach a pad or brush to the end of the arm, contacting the record surface. Most of the total arm force is applied to the pad, which overpowers the dynamics of the arm and maintains a constant spacing for the pickup. With this type of arrangement, the vertical alignment between the pad and pickup must be carefully maintained, especially when a stack of records is considered. The greatest problem, however, is that the progress of the arm across the record tends to be controlled by the pad, since it has the most force applied to it, leaving the stylus to contend with banding and groove pitch changes as best it can.
+	
+	A system that has been used commercially is the application of viscous damping to the arm pivots. Arms using this approach were popular some fifteen years ago, and did afford good control of the arm resonance. With the advent of high compliance pickups, the disadvantage of pivot damping became apparent--when the damping is sufficient to control the resonance, it cannot move fast enough to track warps, and the stylus assembly must compensate by changing its protrusion as shown in Figure 3. This causes the tip to scrub back and forth and produce warp wow.
+	
+
+	
+
+
+	Recently, interest in reducing the mass of pickups and arms has been increasing. This procedure places the resonance frequency as high as possible, which in turn extracts the maximum possible damping effect from the mechanical resistance built into the stylus moving system. Aside from the mechanical problems of reducing the mass of pickups, plug-in heads, and arms to the vanishing point, this system has no disadvantages, and is a rational and rewarding method of reducing the resonance. The only problem is that the intrinsic mechanical resistance of the stylus system is too low for proper damping in most cases, even when the mass has been reduced to the practical minimum.
+	
+	An ideal method to control the resonance should incorporate the following considerations.
+
+	
+		The arm should be free to follow very low-frequency input--warps, spiral groove, banding, etc.
+	
+		The response of the system should include all program material and reject undesired outputs.
+	
+		The damping system should suppress the resonance so that low-frequency undesired inputs are not magnified.
+	
+		The damping means should not affect the stylus centering when banding or groove pitch changes are encountered.
+
+
+
+	A Practical Solution to Damping Low Frequency Pickup/Arm Resonance
+	
+	The Shure Model Vl5 Type IV Phono Cartridge (Figure 4) provides a unique and practical solution to the problem of damping low-frequency pickup/arm resonance. This has been accomplished in conjunction with several other significant features, and without sacrificing any operating characteristics.
+
+
+
+	
+
+
+	The system uses a structure called the Dynamic Stabilizer, similar in appearance (and partly in function) to the flip-down stylus guard found on many cartridges. The stabilizer, shown in Figure 4, displays two unique features. The first is a graphite filament, brush-like structure located on the bottom front edge of the stabilizer. The second is the viscous-damped trunnion bearings which replace the standard stylus guard pivots.
+	
+	Position A shows the stabilizer detented downward and functioning as a stylus guard. Position B is the normal playing position. The graphite filaments contact and ride the record surface, and the viscous damping of the bearings controls the vertical resonance. Note that, the stabilizer filaments are placed as close to the stylus as possible; this is a critical factor in ensuring that motions from warps are applied to both the stylus and stabilizer simultaneously. The net result of this action is that the one arm closely follows the irregularities of the record and minimizes warp effects on the stylus.
+	
+	The Vl5 Type IV has a stylus tracking force range of 3/4 to 1-1/4 grams and the Dynamic stabilizer exerts a 1/2-gram force on the record surface. Thus, the total arm force is set between 1-1/4 and 1-3/4 grams. The major part of the force is always applied to the pickup, so that the pickup controls the traverse of the arm across the record. In position C, the stabilizer is retracted and the fibers do not touch the record surface. Record play in this case is in the conventional manner, and the tracking force is set for the stylus range of 3/4 to1-1/4 grams.
+	
+	The choice of small diameter graphite fibers was made for several reasons. In addition to excellent functional properties as a damping contact, the fibers are electrically conductive, picking up static electricity on the record surface and discharging it to ground. Because static electricity on the record can attract the arm and pickup, the fibers serve to stabilize the tracking force during record pray. (The static discharge takes placethough less effectively--even when the stabilizer is in position C.)
+	
+	The graphite fibers also function quite efficiently as a record-cleaning brush. Each strand is only 7.6 microns in diameter, enabling it to sweep the record grooves free of loose dust and prevent the grinding of dust into the groove walls.
+	
+	Still another feature of the stabilizer is its function as a shock absorber. When the arm is accidentally dropped, a conventional stylus assembly receives the full shock upon contact. Permanent damage may result, and the stylus may even become inoperative. In addition, the springiness of the stylus may cause it to bounce across the record and create several groove damage points. In normal operation--position B--the viscous damped stabilizer cushions the impact of the drop and prevents bouncing.
+	
+	Thus, the VI5 Type IV provides answers to a number of phono equipment problems. The Dynamic Stabilizer not only effectively solves the problem of low-frequency stability, but offers the audiophile relief from static electricity, record surface dust, and impact damage.
+	
+	Equivalent Circuit Analysis
+	
+	The action of the stabilizer can be simulated with the aid of the simplified equivalent circuit shown in Figure 5. This circuit uses the FPE analog: force is analogous to voltage, and velocity is represented as current. In this representation, M is analogous to the total arm and pickup equivalent mass; R1 and C1 represent the mechanical resistance and compliance of the stylus assembly.
+	
+	Figure 5a is the circuit of the conventional arm and pickup. The vibration input to the pickup (both signal and warp) is represented by the constant current generator exciting the circuit. The motion of the stylus assembly is modeled by the current in the CR branch, which shows that the circuit is a high-pass filter, with a resonant peak at the corner frequency.
+	
+
+	
+
+
+	Adding damping to the pivots or between the arm and mounting surface is equivalent to placing a resistance in series with M (shown dotted). At warp frequencies, the M branch is now resistive and offers an impediment to motion, as noted before.
+	
+	In Figure 5b, the circuit is shown for the stabilizer excited by signals in the groove. Note that the circuit is the same as in Figure 5a, which might imply that the warp performance is no better. This is not the case, since 5b does not represent warp input. However, Figure 5c is the circuit representing warp input to the system. Here, simultaneous input to the stylus and stabilizer moves the resistance over to the CR branch, where it offers no impediment to low-frequency excitation of the mass. Thus, the total damping exerted by the stabilizer is approximately constant for warps and signals, but offers no impediment to free notion in response to warps.
+	
+
+	
+
+
+
+	
+
+
+	A convenient way to measure the effectiveness of the stabilizer is to run the low-frequency response curve. An STR-120 record run at half speed wil produce a sweep from 5 to 250 Hz, nicely covering the arm resonance frequencies, The output of the pickup is measured through an integrator, which is somewhat similar to RIAA equalization. Thus, the record played back with a hypothetical pickup of infinite mass would give a response (Fig. 6) along the zero dB line. The dotted curve shows the response of a V15 Type IV in an SME arm with the stabilizer disengaged. Note that the arm resonance causes an 11 dB increase in output at 10 Hz. When the stabilizer is engaged, the peak is effectively damped to 3 dB. At still lower frequencies, the response falls off rapidly, corresponding to frequencies where the stylus--pickup-arm assembly moves as a whole.
+	
+
+	
+
+
+	In Figure 7, the effects of mounting the V15 Type IV in a very light and a very heavy arm are shown. The effective mass of the light arm is about 2 grams, which is about the practical minimum. Here, the stabilizer removes the 6 dB peak which represents the best that can be accomplished with a cartridge with a mass of 5 grams. The heavy curve is run in an undesirably massive arm, and even here there is a reduction of 8 dB below the 14 dB that would otherwise be present.
+	
+
+	
+
+
+	An informal way of demonstrating the effectiveness of the stabilizer is to drop the pickup on an old record from a 1/2 height. The pickup will practically attach itself to the record at the point of first touchdown, instead of the bouncing, skating behavior observed with non-stabilized cartridges.
+	
+	Since the stabilizer works principally in the vertical node, it is not unexpected that the lateral resonance shows smaller changes, which are shown in Figure 8. Even here, the effect of increased stiffness and damping may be seen as the response peak is shifted to a higher frequency with considerably less peaking. However, as mentioned earlier, the need for reduction of the lateral resonance is minimal compared to the need for vertical control, since a record would not have lateral warps.
+	
+
+	
+
+
+	Conclusion
+	
+	Thus, the need for control of the important mode of arm resonance is fulfilled by a device which preserves the desirable performance parameters while modifying the undesirable ones. In addition, the record surface is positively discharged as the record is played. Dust is swept from the grooves without creating self-defeating static charges. All in all, the stabilizer is a very effective answer to the low-frequency instability problem.
+
+
+
+	Appendix I
+
+
+
+	Verticlemotion of the pcikup will cause a scrubbing motion of the tip. Consider the diagrammatic stylus assembly below:
+	
+
+	
+
+
+	The moving system Pivot is at P, and the tip contacts the record at T. L is the length of the shank, and  is the verticle tracking angle. The other sides of the triangle are designated x and y. In the triangle,
+	
+
+	
+	
+	
+	
+
+
+	Differentiating:
+	
+
+	
+
+
+	Assuming an incremental change in x
+	
+
+	
+
+
+	Assuming is negligible,
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	if dx and dy are considered to be incremental motions in time dt,
+	
+
+	
+
+
+	Hence, the velocity along the x axis is equal to the vertical veibration velocity multiplied by tan8.
+	
+	In the horizontal direction, a scrubbing motioin similarly exists. The figure below represents a top view of the pickup.
+	
+
+	
+
+
+	As before, P is the moving system pivot, T is the tip tangent to the record groove, and L is the length of the shank.
+	
+	Literal vibration is represented by the double arrow V, perpendicular to the arm offset angle . Here, V has a direct component along the record groove, which is the scrubbing motion.
+	
+
+	
+
+
+	In both cases, a considerable fraction of the vibration velocity will be transformed to motion along the groove.
+	
+	Appendix II
+	
+	The velocity and amplitude of sinusoidal vibration are related by the formula:
+	
+
+	
+
+
+	
+		
+			
+				where
+			
+				v = velocity in cm/sec
+		
+		
+			
+				
+			
+				a = amplitude in cm
+		
+		
+			
+				
+			
+				f = frequency in hertz
+		
+	
+
+
+
+	In the example, the total amplitude is 1/32 inch, so
+	
+
+	
+	
+	
+
+
+
+	CHARGES ON THE RECORD--A STUDY OF STATIC ELECTRTCITY ON PHONOGRAPH RECORDS
+
+
+	C. R. Anderson
+	
+	Introduction
+	
+	To the audiophile who deals with high performance record playing equipment, static electricity charges are a perverse and irregular nuisance, usually producing annoyance, but occasionally causing calamities. The problems are usually worse in winter, when the humidity is low, but some effects can still appear in the middle of summer.
+	
+	These effects show up in many forms, principally (a) crackling, popping, or frying noises during record playback, (b) brief popping sounds during arm setdown, (c) excess stylus force due to electrostatic attraction of the cartridge to the record, (d) in changers, attraction of the arm to the unplayed stack, interfering with setdown and reducing tracking force to induce mistracking, and (e) dust and dirt attracted to the playing surface, producing wear and playback noise. This is a formidable list, and some of these effects have not been fully recognized previously.
+	
+	Static electricity was the first form of electrical effect to be noticed many hundreds of years ago, but the nature of the mechanisms producing charges are almost as obscure now as then. Any form of friction, motion, or contact is likely to produce charges, and vinyl is one of the most easily charged materials available. Hence, such common actions as removing a record, from its jacket, or wiping with a cloth or brush, is certain to produce a charge that will be hard to remove. Unlike the ordinary electricity which produces useful effects in a closed circuit, static electricity lives in open circuits. If the air is dry and the surface resistance high, a charge may take days or even weeks to disappear. In the meantime, it is just waiting for a chance to cause trouble.
+	
+	The classical method of measuring charges is the electroscope, a simple instrument in which the mutual repulsion of two gold leaves causes them to stand apart at an angle related to the voltage which is being measured. This device endears itself to users for its habit of self-destruction when exposed to strong charges. Fortunately, special instruments have now been developed to measure static charges, since ordinary voltmeters are not suitable.
+	
+	A few minutes of experimentation with such an instrument will show how tenacious and easily produced the charges are. Even wiping the record with a damp cloth may produce charges rather than neutralizing them.
+	
+	Incidentally, measurements with these instruments will also show that electrification from the direct friction between the diamond and vinyl is, oddly enough, negligible.
+	
+	Measurement of Electrostatic Charges on Phonograph Records
+	
+	The following measurements are typical of winter conditions: (10% RH, 72F)
+	
+
+	
+		
+			
+				
+			
+				-A-
+			
+				
+			
+				-B-
+			
+				
+			
+				-C-
+			
+				
+			
+				-D-
+		
+		
+			
+				
+			
+				Electrified on Turntable with Car Fur
+			
+				
+			
+				Lifted Off Turntable After (A)
+			
+				
+			
+				Replaced on Turntable After (B)
+			
+				
+			
+				Destaticized and Removed from Paper Sleeve; Meas. in Air
+		
+		
+			
+				Record
+			
+				Volts-Negative
+			
+				
+			
+				Volts-Neg.
+			
+				
+			
+				Volts-Neg.
+			
+				
+			
+				Volts-Negative
+		
+		
+			
+				CBS STR 100
+			
+				3,000
+			
+				
+			
+				30,000
+			
+				
+			
+				3,000
+			
+				
+			
+				10,000
+		
+		
+			
+				JVC TRS1005
+			
+				2,500
+			
+				
+			
+				30,000
+			
+				
+			
+				2,500
+			
+				
+			
+				5,000
+		
+		
+			
+				Shure TTR103
+			
+				3,000
+			
+				
+			
+				30,000
+			
+				
+			
+				3,000
+			
+				
+			
+				5,000
+		
+		
+			
+				RCA RL1624
+			
+				4,000
+			
+				
+			
+				30,000
+			
+				
+			
+				4,000
+			
+				
+			
+				10,000
+		
+		
+			
+				Acetate Blank
+			
+				0
+			
+				
+			
+				0
+			
+				
+			
+				0
+			
+				
+			
+				0
+		
+		
+			
+				RCA Elvis-Hawaii
+			
+				2,250
+			
+				
+			
+				30,000
+			
+				
+			
+				2,250
+			
+				
+			
+				3,000
+		
+	
+
+
+
+	These results illustrate several interesting points. First, it verifies the observation that placing a charged record on a grounded turntable (Columns B  C) reduces the effect of the charge because the electrostatic field is concentrated between the turntable and the underside of the record, which reduces the original field. Another way to regard the situation is to recognize that the capacitance has increased greatly, and, since the charge is constant, the voltage must decrease in accordance with the equation
+	V = Q/C. Note that this does not eliminate the charge, but only reduces the external field. When the record is removed from the turntable, the original voltage reappears. The closer the record is to the conductive surface, the lower the external field produced, up to the 90% reduction shown in the table.
+	
+	The experiment also shows that the static charges on records are always negative, and that some records seem less susceptible to charges than others. The 30,000 volt measurement in air was accompanied by a considerable crackling sound, and seems to be a threshold voltage determined by the breakdown voltage of the air.
+	
+	This investigation was started in winter, and there was no difficulty producing changes using cat fur and friction. As the season advanced and the humidity increased, the charging became much more erratic and it was necessary to lightly rub a finger on the rotating record to produce a charge. Eventually, as the nature of the necessary comparisons became clear, the charges would not cooperate at all! Consequently, to make repeatable measurements independent of humidity and rubbing techniques, a system was devised which uses continuous electrification via a high voltage dc supply to achieve a calibrated, reproducible charge. The arrangement is shown in Figure 1.
+	
+
+	
+
+
+	The probe is a steel phono needle of .006 radius supported 1 above the surface of the record. As the record rotates under the probe, it receives charge which builds up to a saturation point. A calibration curve (Figure 2) gives the relation between the probe voltage and the charge on the record. The measured charges are nicely encompassed by the calibration curve. As might be expected, it shows a knee which is the breakdown voltage of the charging point. Above the knee, the relationship between probe voltage and record voltage is linear. The only caution to be observed is that the curve can only be used in an increasing direction, i.e., one must start with a neutral record and increase the voltage during experiments (more on this later).
+	
+
+	
+
+
+	If the record is fully charged and a lower voltage is then applied, the actual voltage on the record will be somewhere between the former and latter value and, hence, indeterminate. Discharges to the pickup may be detected. by the means shown in Figure 1, where a sensitive amplified micro-ammeter is connected in the ground return circuit from the pickup. Thus, measurements may be made of both charging and discharging.
+	
+	Test Results
+	
+	Typicality, no discharge is noted until the charge voltage exceeds a particular value, which we call the threshold voltage, after which the current increases rapidly. Pickups having a grounded metal shield and grounded stylus drive arms have threshold voltages in the region of 4,000 - 5,000 volts. Thus, charges below this voltage will not cause a discharge, but will exert an electrostatic force on the pickup. When a record is charged above the threshold voltage, a playing will discharge it down to the threshold voltage of the pickup, but not to zero.
+	
+	The electrostatic attraction force vas measured by making a tracking calibration of a particular pickup. This is done by playing the bands of the Shure TTR103 and noting the corresponding stylus force for marginal tracking (see graph shown in Figure 3a). The arm was then counterbalanced to zero, and the record played using the electrostatic force as the sole force. Adjusting the charging voltage for the same marginal tracking as before yields the results shown in Figure 3b. The points above 4,200V (threshold voltage of pickup) are not significant with a naturally charged record, because the record will discharge to this level. However, 4,200V adds an extra 3/8 gram to the stylus force! This additional force would increase wear, and at least change the intended tracking conditions significantly. Additionally, a natural charge will be non-uniform and cause a cyclic bump with record rotation.
+	
+
+	
+	
+	
+	
+	
+	
+	
+		
+
+
+
+	Experiments with household dust also show that a record voltage of only 1,000 or 2,000V is enough to make fine particles adhere to the record, and resist brushing or blowing, especially out of the grooves, where ordinary bristles cannot reach.
+	
+	Removing Charges from the Record
+	Having documented some of the troublesome aspects of static charges, consider the ways available to remove, reduce, or neutralize then. There are four systems available:
+
+	
+		Sparking
+	
+		Ionization
+		
+			
+				Active - ac powered, hand powered, radioactive
+			
+				Passive
+			
+				Contact
+		
+	
+	
+		Conduction
+
+
+
+	Sparking is an automatic mechanism which, as we have seen, limits the free air voltage to about 30,000V and the threshold voltage of a pickup to 4,200V. However, the residual voltage is still high enough to cause all the observed problems and the effect is only included in the list for the sake of completeness.
+	
+	Ionization, or the production of charge-carrying atomic particles, is a particularly effective way of neutralizing charges. A system similar to the arrangement used to charge records is commercially available for destaticizing photographic film. This system uses an array of multiple points covering both sides of the record simultaneously. Its operation floods the record with positive and negative ions alternately and washes out any initial charge on the record. This system is the most effective of any available, but it is expensive and the high voltage construction and safety requirements make it difficult for the home constructor to duplicate.
+	
+	Another form of active ionizer is in the form of a pistol-shaped, device, which produces positive ions when the trigger is pulled, and negative ions when the trigger is released. This device is effective for large charges, but it is hard to avoid leaving residual charges on the record since there is no way of detecting the zero charge condition.
+	
+	The third form of active destaticizer uses radioactivity to produce positive ions. This type of device is limited by safety restrictions to a rather low level of ionization and, hence, will deal with mild charges but requires a long time to affect strong charges.
+	
+	The passive types of destaticizer have used bundles of wire and tinsel, passing over the surface of the record. These devices promote ionization because of the voltage gradient which a charge induces in the vicinity of a point. This arrangement is self-regulating, since the ionization is proportional to the charge which produces it. However, in its usual form, the effectiveness is limited by the sharpness of the points available. This limitation can be greatly diminished by using carbon or graphite fibers which have a diameter of .3 mil, and which must have an effective radius at the cut-off end much smaller than that. A destaticizer using these fibers will be considerably effective even if the fibers do not touch the surface.
+	
+	The difference between a contact mode and an ionization mode is hard to distinguish, but we regard actual contact as the distinction. Since charges have no nobility, it is necessary to touch each and every point on the surface to discharge it. Here again, the carbon or graphite filament is superior to other types. A wipe with a grounded carbon filament brush can reduce the charge on a record to negligible proportions.
+	
+	The last mechanism of charge removal is by making the material conductive. This, of course, heads the problem off at the source. Some current RCA records, as an example, have been excellent in this respect, developing only 30% of the charge to which ordinary records are susceptible, and even this charge dissipates in a few minutes. However, this property varied greatly among the various records tested.
+	
+	Use of the Phonograph Cartridge in Destaticizing Records
+	
+	Because static electricity is such a persistent and erratic problem, we felt that the new V15 Type IV should incorporate an effective means of nullifying its influence. After many tests of the systems available, the graphite fiber approach was chosen because of its effectiveness. In Figure 4, the destaticizer brush is shown on the new pickup. It incorporates a graphite fiber brush bonded to a metal carrier, which, in turn, is pivoted on the stylus grip. Thus, the brush wipes the charges from the grooves which are about to be played. Care has been exercised to maintain a conductive path through the fibers, carrier, bearings, and even stylus grip to pickup ground. Of course, for static electricity, even a resistance of one megohm is effectively a short circuit.
+	
+
+	
+
+
+	The metal carrier performs several functions: it may be detented down to function as a stylus guard, and detented upward to remove contact from the record surface. Even in the up position and not contacting the record, the fibers perform a destaticizing function, reducing the threshold voltage to about half the level it would otherwise attain. In the playing position, the destaticizer brush reduces even a strong charge to negligible proportions in the course of playing a record. Thus, the record playing surface is completely discharged after one full play while it is on the turntable.
+	
+	A record initially charged on both sides and. played on one side will experience a reappearance of the charge on the underside of the record when it is removed from the turntable. This is due to the electrostatic field concentrated under the record while on the turntable, and not available to the destaticizer.
+	
+	In addition to destaticizing the playing surface, the graphite fibers are effective in sweeping dust particles from the grooves, before the stylus reaches them. The absence of static charges makes the sweeping job much more effective than non-conductive bristles and their resulting charges would produce.
+	
+	The destaticizer mechanism performs another function which is a subject in itself--that of providing stabilization and damping of the low-frequency arm resonance. An extremely stable conductive viscous jell has been used in the bearings to provide a well-tuned damping action on record warps and dynamic signal excitation. A separate paper describes that function in detail.
+	
+	Thus, we feel that our investigation has resulted in a system which effectively deals with the problems caused by static electricity. A significant improvement in the performance delivered by the V15 Type IV has been achieved by eliminating discharges and electrostatic attraction, making dust and particle removal much more effective, and stabilizing the arm against spurious excitation.
+
+
+
+	Questions and Answers
+
+
+	Stabilizer
+	
+	Question:
+	Does the stabilizer produce sideways forces which pull the stylus to one side or the other in the groove? What is the effect of the stabilizer on set-down at the beginning of the record?
+	Answer:
+	The stabilizer exerts a force of 1/2 gram on the record, and the stylus force may range from 3/4 to 1-1/4 grams; consequently the stylus force is always the major element in following the spiral motion. The fibers of the stabilizer do engage the record grooves, and resist horizontal vibratory motion; but the relatively slow traverse speeds involved in banding and lead in/lead out grooves allow the individual fibers to enter and retract from the revolving groove with negligible effect on the stylus traverse motion.
+	
+	Question:
+	Does the stabilizer create audible noise?
+	Answer:
+	No. This factor has been of great concern to us, since it is the principal potential disadvantage of a device affixed to the cartridge. However, by optimizing the soft contact of the fibers, the mounting technique, and the amount of damping, the vibration level from adjacent grooves or from the record surface itself is well below the inherent groove echo and rumble inscribed in the disc. A special test record has been developed and this factor is measured on 100% of the cartridges.
+	
+	Question:
+	Should the stabilizer always be in the down position when playing a record? If not, under what circumstances should it be in the up position?
+	Answer:
+	Our work and experience with the stabilizer-destaticizer has convinced us that it offers many advantages for the audiophile. However, we dont expect that our enthusiasm will be accepted blindly and without question. The assembly has, therefore, been designed so that it may be latched in the retracted position for experiments and comparisons, and its efficacy probed. The only point to bear in mind is that retracting the stabilizer increases the stylus force by 1/2 gram. Extended operation at 1-3/4 grams with the stabilizer retracted is in excess of stylus force specifications and may cause insufficient pickup to record clearance.
+	
+	Question:
+	Can the V15 Type IV be used with damped tone arm?
+	Answer:
+	The V15 Type IV can be used with a damped tone arm so long as the damping from the tone arm in the vertical plane is not excessive--just sufficient to damp any spurious resonances that may be excited within the tone arm itself. The V15 Type IV stabilizer satisfies the requirement for damping, but like any other cartridge, the V15 Type IV cannot undo the problems, such as warp-wow, induced by an overdamped arm.
+	
+	It should be noted that the damping provided by the stabilizer does not act like damping at the tone arm pivots. The damping provided by the tone arm is referenced to the tone arm mounting base and, therefore, to the flat turntable surface. Damping from the stabilizer on the other hand, is referenced to the record surface and any warps the record may have. Thus, it attacks the warp directly. Damping in the arm, if excessive, can increase warp-wow and other warp problems. This cannot happen with the V15 Type IV stabilizer.
+	
+	Question:
+	How does the V15 Type IV performance compare on ultra light vs. heavy tone arms?
+	Answer:
+	The stabilizer of the V15 Type IV damps the tone arm-cartridge resonance (and all systems have a resonance). This increases the trackability at the resonance frequency on warped records (and no record is perfectly flat). Since heavier tone arms produce resonances that are closer to the severe warp frequencies, their need for the benefits afforded by the stabilizer is paramount. But all systems whether heavy or light, are significantly improved, not only in coping with record warps, but also in minimizing the effects of mechanical shock. The stabilizer, as its name implies, does indeed insure stable operation.
+	
+	Question:
+	Does the stabilizer provide any benefit with regard to horizontal vibrations?
+	Answer:
+	Although the viscous damped portion of the stabilizer has been designed to operate in the vertical mode, the fibers themselves resist horizontal vibratory motion of the cartridge, and contribute an appreciable amount of damping in the lateral direction through flexing and frictional effects. This damping is illustrated in the lateral response curve where an 8 dB reduction in the peak resonance is observed when stabilizer is engaged.
+	
+	Question:
+	How did Shure optimize the damping in the stabilizer?
+	Answer:
+	The most familiar aspect of optimizing the damping of the stabilizer is related to the low-frequency vertical frequency response. Here, a whole gamut of responses is available depending upon the degree of damping, ranging from a slight change in the curve to a flat resistance controlled characteristic. In the absence of other criteria, there is an obvious tendency to go past critical damping and opt for a completely flat low-end; which is the result of a high resistance. However, an additional consideration is that the resistance chosen determines the maximum warp velocity which can be followed by the 1/2 gram stabilizer weight. The higher the resistance, the lower the warp that may be followed. For this reason, we think of the damping as seasoning in the stew, and have chosen a value which will approach critical damping in an extremely low mass arm. Arms of average mass will result in lower resonance frequencies, and hence less than critical damping. However, this degree of damping affords close to all the advantages of damping with none of the disadvantages.
+	
+	Question:
+	How does the stabilizer effect trackability?
+	Answer:
+	The stabilizer does not contribute in a direct way to the trackability of the pickup. In other words, at the same stylus force and on a flat record, the trackability would measure identically with and without the stabilizer. However, the stabilizer makes it possible to retain much of this ideal trackability when playing actual, real world, warped records. In measuring trackability, we determine the trackability for a flat record, since any other condition would introduce uncertainty.
+	
+	Question:
+	Is there an advantage of the built in stabilizer of the V15 Type IV over an accessory damper?
+	Answer:
+	A universal accessory device, by definition, must be intended to work with a wide range of pickups and arms. Particularly, effectiveness on pickups with little intrinsic damping mounted in high mass arms requires high damping resistance, which tends to raise the noise level and diminish the tracking of the contact device. By making an integrated device, we eliminate one of the largest variables with which a universal device must deal. Thus, we can more readily have enough, but not an excess of damping. Additionally, the damper may be positioned very close to the stylus in an integrated design, so warp inputs are applied to both simultaneously.
+	
+	Question:
+	With the stabilizer in the playing position, will it protect the stylus and record if the arm is accidentally dropped?
+	Answer:
+	The stabilizer will protect both record and pickup from the effects of a mild accidental drop, in fact, the pickup will settle on the record with little bounce or skate. However, the principal object of the stabilizer is to control the pickup-arm resonance and improve playback and its use as a catcher is not a primary design feature.
+	
+	Question:
+	Does the destaticizer permanently remove the charge from the record? If not, for how long does it remove the static field?
+	Answer:
+	After a record has been played with a V15 Type IV destaticizer, the record surface is electrically neutral , and, will remain so indefinitely if it is not touched or moved. Our experiments indicate that the friction of vinyl and diamond produces negligible charges, and the rotation of the record on the turntable is similarly innocuous. However, if the record was originally charged on the underside, this charge will be bound to the turntable and reappear when the record is lifted. This residual charge will be less than originally present on the record.
+	
+	Sound Qualify of the Vl5 Type IV
+	Question:
+	What is the anticipated sound quality of the V15 Type IV based on objective measurements?
+	Answer:
+	We do not claim that the sound quality of a phonograph cartridge can be completely evaluated through objective measurements. There is undoubtedly more for us to learn. We can, however, discuss the anticipated sound quality of the cartridge based on all the known factors we can measure.
+
+
+	
+		Frequency response:
+		The response of the V15 Type IV is flat and, therefore, by definition does not change the relative amplitudes of those frequencies cut into the record. Insofar as the amplitude response is concerned, the output of the cartridge will be identical to the modulation in the record.
+	
+		Distortion:
+		
+			
+				Tracing distortion has been measured to be as low as is practical considering tracking force and record wear. This is a function principally of the playing radius of the tip.
+			
+				Distortion created by the difference in vertical tracking angle of the playback stylus and the vertical tracking angle of typical commercial discs will probably result in no audible effect with the V15 Type IV. At this time, we are not satisfied with the measuring techniques available for determining this type of distortion, however, we accept the DIN record 45 542 as a commonly used measuring tool. FIM distortion of the V15 type TV measured on this test record is typically less than 1% on the -6 dB band. On careful listening tests using the DIN 45 542, it is our judgment that distortion less than 1% cannot be discerned subjectively.
+			
+				The effect of low-frequency resonance which creates wow is suppressed with the V15 Type IV stabilizer.
+			
+				Distortion due to mistracking will not occur on any but a few extraordinarily highly recorded passages.
+		
+		Our conclusion is that objective tests, insofar as they are known today indicate that electrical output of the V15 Type IV will recreate the modulation in most records without discernable alteration or distortion.
+
+
+
+	Record Cleaning
+	
+	Question:
+	Are there advantages to having an electrically conductive cleaning device as compared to a nonconductive type?
+	Answer:
+	Charges present on the record surface attract dust and increase the electrical adhesion between the particle and surface. Therefore, it is better to have an electrically neutral surface and electrically grounded fibers when sweeping the surface to remove mechanical debris.
+	
+	Question:
+	What are the mechanisms by which the stabilizer fibers remove dust and dirt?
+	Answer:
+	There is an indeterminate range of particle size and materials which might appear on the surface of a record. Even with carefully maintained records, the gamut runs from long strands of lint visible to the eye to microscopically small particles of dust. No environment is completely immune to this problem, and every environment is unique in the size and type of its contaminants.
+	
+	The V15 Type IV stabilizer is an extremely effective device for removing both the large and small particles present on records. It functions best on near-clean records to provide a final stage of protection immediately before the stylus traces the groove. Dust or grime at this instant could be permanently pressed into the vinyl surface unless it is carefully removed.
+	
+	The stabilizer is less suited for very dirty records which could overload it with lint. In these cases, supplementary cleaning devices should be used before play to remove the majority of surface materials. A hand-held brush, preferably carbon fibers, is recommended, sweeping the entire surface several revolutions; however, other supplementary devices can be effective.
+	
+	The width of the stabilizer makes it well suited to pick up the long strands, generally lying on the lands or across the grooves. These strands become entangled within the fibers and create a thin mat of lint surrounding the undersurface of the fibers. In the past, the diamond tip has been the collector of these strands and at times formed then into a tight wad which could actually lift the tip off the surface causing mistracking. This problem is eliminated when the V15 Type IV stabilizer is used.
+	
+	On another scale, the stabilizer works effectively to absorb the very fine particles which find their way onto the grooved surface. Fine particles with radii of the magnitude of the diamond tip can be the source of additional mechanical surface noise within the playback system. The ultra-thin fibers (approximately 10 fit across the top of a groove), together with the high fiber density, provide an ideal entrapment mechanism for these types of particles.
+	
+	Periodic cleaning of the fibers is advised to remove the buildup of dust and dirt. When properly maintained, the stabilizer very efficiently removes the full-range of particles found on records.
+	
+	Question:
+	Is there an incompatibility between the V15 Type IV stabilizer and any other record cleaning or destaticizing devices or techniques, such as wet playing?
+	Answer:
+	The V15 Type IV stabilizer is by itself capable of doing a thorough job in preparing the record for optimum playback by removing dust, lint, and electrostatic charges. Employing auxiliary cleaning devices, however, may actually be beneficial in taking full advantage of the stabilizers record cleaning capabilities. The stabilizer has the unique ability of very effectively removing the most minute particles from within the groove prior to the passage of the diamond tip. But the brush portion of the stabilizer cannot perform optimally when it is excessively loaded and clogged with various kinds of debris. Since many record cleaning devices are available, which readily pre-clean the record by removing lint and other large particles, their use is recommended to augment and optimize the benefits of the stabilizer in a comprehensive record hygiene program. Such a program has the additional advantage of reducing the interval for cleaning the stabilizer brush.
+	
+	While the cleaning of records with fluids (water and/or detergents, etc.) is not discouraged, the playing of the record wet is not encouraged, if the full benefits of the stabilizer are to be realized. Fluids and dust both being absorbed by the bristles will result in a mud slurry which may defeat the full effectiveness of the stabilizer.
+	
+	With regard to destaticizing, the stabilizer removes charges from the record surface only while the record is being played. When the record is then removed from the turntable, the charges may well reappear to attract dust, etc. The use of an auxiliary destaticizer can be beneficial.
+	
+	Question:
+	Do the stabilizer fibers ride on the lands or in the grooves?
+	Answer:
+	At any instant while playing the record surface, the stabilizer fibers (approximately 10,000) are divided between the land area and the groove surfaces. The very large number and high density of fibers within the assembly eliminate the possibility that all fibers are distributed in the grooved regions, while the high compliance of the fibers prevents the possibility that only the land areas are being cleaned (with the dust being pushed in the grooves). The exact ratio of this division depends primarily on the ratio of land area to groove area underneath the assembly at that instant and, of course, is constantly changing while playing. However, at all times, the stabilizer has been found effective in cleaning both the land and grooved surfaces on the record.
+	
+	Question:
+	Are the fibers small enough in diameter to fit in the bottom of the groove? If so, will this tend to dig up dirt that would not normally be a problem anyhow?
+	Answer:
+	The average diameter of the stabilizer fibers is .0003. Thus, the fibers can and do pick up dirt from the bottom of the groove, as it should. If the stabilizer is to do an effective job in removing potential impediments to the proper stylus motion. As any housekeeper will attest, sweeping the dirt under the rug is only a short-term solution. Sooner or later the lumps are going to build up and someone may trip over them.
+	
+	V15 Type IV Design
+	
+	Question:
+	Why did Shure select the moving magnet transducer for the V15 Type IV?
+	Answer:
+	Since our business is that of making phonograph cartridges and not necessarily a particular kind of transducer, we periodically consider the advantages and disadvantages of all types of transducers. While each type has its strengths and weaknesses, we feel very strongly after careful consideration that there are many factors in favor of the selection of the moving magnet transducer. The advantages of this type of transducer are:
+
+
+	
+		The effective mass of the transducing element is as low as any practical transducer, and its configuration is such as to allow a stylus design for high trackability. The fact that Shure cartridges have the highest trackability of any on the market is evidence of this fact.
+	
+		 he transducer in conjunction with other design features can provide a flat frequency response over the entire audio spectrum.
+	
+		The moving magnet transducer has proved to be reliable for many years. The use of extremely fine, fragile wire is not required. Wires in the assembly can be firmly mounted and are not required to flex.
+	
+		The facility for providing a removable stylus is straightforward without the added, complexity required of some other types of transducers.
+	
+		Balancing of channels does not require excessive matching of parts such as with several other types of transducer.
+	
+		Measured distortion generated by the transducing mechanism is as low or lower than from any other practical transducing mechanism known. We have performed extensive tests to determine whether distortion is created within the magnetic assembly or as a result of any undesirable motions of the transducer such as axially along the groove. We have never been able to measure any distortion from these sources nor has anyone else ever provided definitive tests which would indicate that such distortion is present to a measurable degree.
+
+
+
+	Question:
+	What material is used to make the shank? Why? Why not use Beryllium or Boron, etc.?
+	Answer:
+	Normally it is not our policy to divulge the material and proprietary processes that are used to fabricate our products. In this case, however, a departure from that policy is warranted, because of the great deal of confusion that seems to exist in the marketplace as to the pros and cons of certain exotic materials, such as Beryllium, Boron, Titanium, etc. It seems that by the sheer sound of these exotic and strange names, tremendous performance advantages are implied. Since these materials were developed for space age applications, it is easy to understand that there is a connotation of super strength and other advantages.
+	
+	Shure has made use of and studied a variety of these materials for quite a while. In the early days, Beryllium Copper was used, then Magnesium, Aluminum, and special Aluminum alloys. Aluminum and Beryllium combinations were used for example, in the V15 Type II stylus as early as 1967. A special heat treated Aluminum alloy is used in the V15 Type IV telescopic stylus assembly. This coupled with its shape and structure determines the performance criteria.
+	
+	The method of analysis is outlined in L. Happs paper, Design Considerations of the V15 Type IV Phonograph Stylus.
+	
+	Question:
+	Is it true that the pivot of the moving magnet cartridge moves in the direction of the groove whereas the pivot of the moving coil cartridge does not?
+	Answer:
+	The fact that the moving portion of the transducer (phono cartridge) happens to include a moving coil or a moving magnet has by itself no effect on whether or not the pivot moves. Nor is there a reason why one type of structure can inherently be made more immobile than the other.
+	
+	The V15 Type IV, like every other Shure Cartridge, has a support wire as an integral part of its stylus design. The support wire fixes the position of the stylus pivot to prevent longitudinal motion of the stylus. The support wire also prevents stylus collapse, an important consideration when playing records for long uninterrupted periods.
+	
+	Cartridge Maintenance
+	
+	Question:
+	What is the recommended cleaning procedure for the V15 Type IV? How often should the stabilizer be cleaned?
+	Answer:
+	Use the brush in the cartridge hardware packet when cleaning the carbon fibers of the stabilizer. A large visible buildup of lint can be removed with a single brushing; however, repeated action is necessary to ensure removal of the smaller particles. Always brush along the cartridge centerline, away from the stylus tip--never across the stylus.
+	
+	In general, fluids are not recommended for cleaning the stabilizer. Fluids prevent the action of shaking the dust and dirt particles loose from between the fibers.
+	
+	A large visible dust ball under the stabilizer is a sign that cleaning is necessary; however, cleaning is helpful before this occurs since the fine microscopic particles become wedged between the fibers before any visible buildup appears. The frequency of cleaning will vary depending on the users program for record maintenance, the hours of play, and the environment surrounding the record. This period can vary from cleaning between every play on dusty records to cleaning between every four or five plays under proper conditions.
+	
+	V15 Type IV Specifications
+	
+	Question:
+	Why does Shure persist in 1 gram or so tracking force for their top cartridges when others design for 1.5 to 2.0 grams?
+	Answer:
+	Numerous studies were made at Shure regarding tracking force and how it relates to tip and record wear. A long term tip wear study, for example, involved a series of combinations of testing tip wear at tracking forces ranging from 3/4 to 3.0 grams in as many as twelve record changers. Results showed a definite trend of reduced tip life above 1-1/2 grams regardless of tip shape. We feel there is a great advantage to play discs at forces lower than 1-1/2 grams in order to preserve precious records and extend the life of the tip. This by no means implies that one should not take advantage of the long contact tip. An optimized, long contact tip, for example, is used in the V15 Type IV. A proper design approach is not to provide a larger contact area and at the same time use that as a justification to play at an increased tracking force. This is like giving and taking away. It is better to extend the tip and record life by using the long contact tip and playing at lower forces.
+	
+	Question:
+	How does the user check the actual tracking force at the tip, separately from the stabilizer?
+	Answer:
+	The direct measurement of tip tracking force with the stabilizer in the operating position (with bristles contacting the record surface) is difficult. The measurement of the total force (tip force plus stabilizer force) is recommended. Since the stabilizer force on the record is always 0.1 gram, the tip tracking force is the total measured force less 0.5 gram. When, for example, the desired tip tracking force is 1.0 gram, adjust the tone arm for a force of 1.5 grams with the stabilizer latched in the up position. Unlatch the stabilizer when playing the record.
+	
+	Question:
+	What is the vertical tracking angle of the V15 Type IV? How is it measured?
+	Answer:
+	In order to answer the questions satisfactorily, it is of value to proceed first with some definitions and some suggested measuring techniques.
+	
+	The recorded vertical tracking angle (VTA) is defined as the angle that results from an inclined cutting process. It is hypothesized that the cartridge geometrical angle should match this recorded inclined angle in the record.
+	
+	Current techniques for measuring VTA in phono cartridges include geometrical means and test records. A generally accepted test record or test procedure does not yet exist. The only vertical tracking angle specification that can be stated with reasonable certainty is the geometrical vertical tracking angle. This angle may be derived from layout drawings and from measurements of actual piece parts in the assembly. The available test record means include second harmonic distortion method--test record CBS STR-160, intermodulation distortion method--test record RCA 12/5/78, and intermodulation distortion method--test record DIN 45 542. Extensive measurements using each of these test records indicate significant discrepancies among these techniques. Specifically, the RCA and DIN test records can yield measured vertical tracking angles as much as 5 higher than obtained using the geometrical method or the CBS STR-160 test record. In addition, a variation of approximately 3 is obtained from two different test bands on the DIN 45 542 test record.
+	
+	Shure cartridges are designed to meet the intended vertical tracking angle specification of 20  5. The lack of reliable measurements and measurement tools, however, does not permit a verification of that specification in the completed assembly. The geometrical vertical tracking angle of the V15 Type IV was designed not to exceed 23. This we found will insure that it will meet the DIN Specification of 20  5.
+	
+	A more extensive explanation of vertical tracking angle and measurement folIows.
+	
+	Question:
+	Why have you changed the recommended, capacitive load to 250 pF per channel from your earlier 450 pF per channel?
+	Answer:
+	Since the time when four channel records and playback equipment were introduced, manufacturers of tone arms and record players reduced tone arm and cable capacitances of their standard units by about 150 to 200 pF. The V15 Type IV was designed to accommodate this change. It is relatively insensitive to capacitive loads in the range from 150 pF to 300 pF per channel. This accommodates preamplifier capacitance for the typical installations and allows for longer cables where required.
+	
+	Question:
+	What is the compliance of the V15 Type IV?
+	Answer:
+	The stylus compliance operative in the audio spectrum is not given since compliance is not a constant but varies with frequency, and compliance is but one of several parameters that determine performance even at low audio frequencies. Also, high stylus compliance, often assumed to improve performance across the entire audio spectrum, can actually degrade the playback of high frequencies. Within the audio spectrum, performance is related directly to trackability figures. Other figures can only be misleading.
+	
+	The static compliances (and the compliances operative in the subaudible or warp region) are 20 to 23 microcentimeters per dyne in the vertical plane and 25 to 28 microcentimeters per dyne horizontally. These compliances are different from each other by design--the lower vertical compliance results in a higher vertical tone arm-cartridge resonance, thereby increasing the span between the resonance and the severe low-frequency warp (vertical) inputs. Conversely, the higher compliance horizontally puts the horizontal resonance of the system at lower frequency, setting it further from the low-frequency audio signals, which are mostly recorded laterally.
+	
+	Question:
+	Should the anti-skating be set for the actual tip force or the total tracking force of the tip and stabilizer? Why?
+	Answer:
+	The factors that cause skating forces on the record are the same for both the diamond tip and the stabilizer bristles. Just as the tracking force must be set to include both the diamond tip and the bristle forces, the anti-skating force should be set to accommodate the total skating effect for both. If the total arm tracking force setting is set to 1.5 grams, for instance, the anti-skating force should be set to compensate for the full 1.5 grams. In this example both the tracking force and anti-skating force are properly set for playing at a stylus tracking force of 1 gram.
+	
+	Stereo Phono Cartridge--Vertical Tracking Angle
+
+	
+		Definitions
+		
+			
+				The motion angle of the cutting stylus is defined as the angle between a line perpendicular to the record surface and a line described by the motion of the cutting stylus (Figure 1a).
+			
+				The recorded vertical tracking angle is defined as that angle that results from the inclined cutting process (Figure 1a).
+				
+				
+					
+			
+			
+				The stylus geometrical vertical tracking angle is equal to the angle of the stylus inclination defined as the angle between the record surface and a line passing through the stylus tip and the stylus pivot (Figure 1b).
+				
+		
+	
+	
+		Measurement Techniques
+		
+			
+				Geometrical Means (Static)
+				The geometrical vertical tracking angle may be established from layout drawings or by physical measurements of the structure (Figure 1b).
+			
+				Test Records
+				The recorded modulation incline or the recorded vertical tracking angle claimed by the producers of test records is that angle which, by employing particular observation and/or calculation techniques, is deemed to exist in the record groove. Theory indicates that when the record is played with a stylus having an identical vertical tracking angle, it will deliver a minimum value of a particular type of distortion.
+				
+					
+						Second harmonic distortion method; test record CBS STR-160.
+					
+						Intermodulation distortion method; test record RCA 12-5-78.
+					
+						Intermodulation distortion method; test record DIN 45 542.
+				
+			
+		
+	
+	
+		Discussions of Measurements
+		
+		Extensive measurements using each of these methods indicate significant discrepancies between these techniques. Specifically, the RCA and DIN test records can yield measured vertical tracking angles as much as 5 higher than are obtained using the geometrical method or the CBS STR-160 test record. In addition, a variation of approximately 3 was obtained from the two different test bands on the DIN 45 542 test record.
+		
+		The measured data indicated that the second harmonic distortion method (CBS STR-160) yielded values similar to the geometrical method. The reason for these apparent discrepancies might very well rest in the facts that:
+		
+			
+				these records were cut with different cutters.
+			
+				certain test bands were artificially generated by introducing distortion products theoretically equivalent to a corresponding tilting of the cutter head.
+		
+	
+	
+		Listening Tests
+		With todays pickups, no consistent correlation has been found between the sound quality and the measured geometrical vertical tracking angles up to 25.
+		
+	
+		Conclusion
+		From all of the confusing data and listening observations conducted to date, it is evident that much more must be learned in order that a credible and meaningful method for measuring vertical angles may be developed. Major questions that must be answered are:
+		
+			
+				What vertical tracking angle is cut in the record?
+			
+				What is the variation of vertical tracking angle on commercial records?
+			
+				Does vertical tracking angle change as a function of frequency?
+			
+				Does vertical tracking angle change as a function of recorded amplitude?
+		
+		
+		In addition, major concerns include the calibration of test records as well as the audible effects of vertical tracking angle variations of phono
+
+

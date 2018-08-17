@@ -1,0 +1,12 @@
+Title: Using an SM81 with the FP33 mixer
+Id: 1069
+Legacy Id: 1104
+
+Question:
+I just purchased a SM81-LC mic, intending to use it with FP33 mixer. Do I need a separate Phantom Power supply in order to use SM81-LC with FP33 mixer? My audio person couldn't figure it out last week. I thought FP33 has 12V Phantom Power and that would supply power for the mic.
+
+
+Answer:
+
+	The FP33 has internal settings for 12 or 48 volts DC of phantom power. The switches are in the battery compartment.
+

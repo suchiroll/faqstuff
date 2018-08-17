@@ -1,0 +1,11 @@
+Title: P-mount adapter for M44-7
+Id: 39
+Legacy Id: 39
+
+Question:
+Is there an adapter to install the M44-7 cartridge to a Technics 1200 MK3 turntable?
+
+Answer:
+
+	The mount on that Technics is called a P-mount. The mount on the M44-7 is a standard 1/2 mount. Unfortunately, Shure does not have a P-mount adapter. Try Audio Adviser at 800-942-0220; they have a solution.
+

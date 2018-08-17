@@ -1,0 +1,11 @@
+Title: 16AM or 16L for computer use
+Id: 463
+Legacy Id: 472
+
+Question:
+Can I use a 16AM or 16L with Windows 2000 and Dragon Naturally Speaking?
+
+Answer:
+
+	Whether or not the 16AM (or 16L, same microphone) will work with Windows 2000 and Dragon Naturally Speaking is dependent more on the computer sound card than it is the operating system or software application. Actually, the preferred microphone for this application is a headset microphone, such as the HW505A. These microphones are designed for use with all SoundBlaster and SoundBlaster compatible sound cards. Headset microphones consistently give the most accurate results for speech recognition software. However, if a headset microphone is not practical, the VR116L is the preferred choice for computer applications. Essentially, it is the same microphone as the 16AM, but it includes an XLR-3.5mm miniplug cable, which should adapt to most sound card mic inputs.
+

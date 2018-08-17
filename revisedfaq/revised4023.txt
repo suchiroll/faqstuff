@@ -1,0 +1,21 @@
+Title: MX150 Accessories
+Id: 4023
+Legacy Id: 4430
+
+Question:
+Please provide an accessory list for the MX150 miniature lavalier microphone.
+
+
+Answer:
+
+	Multi-position Tie Clip - black: RPM150TC (package of 3)
+	Snap-fit Windscreen - black: RPM150WS (package of 3)
+	Storage Pouch - black: WA150
+	In-line Preamp for use as a wired mic: RK100PK
+	Four-pin TA4F connector: WA330
+	Normal frequency response cap for MX150 Omnidirectional - silver grill: RPM213 (package of 5)
+	Boosted frequency response cap for MX150 Omnidirectional - black grill: RPM215 (package of 5)
+	Normal frequency response cap for MX150 Cardioid- gold grill: RPM208 (package of 5)
+
+	
+

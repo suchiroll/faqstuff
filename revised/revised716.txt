@@ -1,0 +1,30 @@
+Title: Choosing a wireless microphone
+Id: 716
+Legacy Id: 734
+
+Question:
+What is the best cordless mic for a church setting?
+
+
+What is the best lavalier mic for a church setting?
+
+
+Is there a system, that I can put both cordless and lavalier on the same receiver?
+
+
+Answer:
+
+	When choosing a wireless microphone system, there are two things that you need to choose. First, you must choose the appropriate system for your application. Secondly, you must choose the appropriate microphone cartridge (whether it be handheld or lavalier) for your application.
+	
+	So, lets deal with the first selection, a wireless system. If you are only going to use 2 wireless microphones, then the T or UT Series would be perfectly fine for you. If you need the receivers to be rack mounted or need them to have removable antennas for remote antenna placement or antenna distribution, then you may want to move up to the LX Series. You can see a feature comparison of all of our wireless systems at the following link:
+	
+	
+	
+	Now, for the second selection, the appropriate microphone. For a handheld microphone, it becomes a matter of personal taste. Different people like the sound of different microphones. You should try the different microphone cartridges that are available on the systems you are looking at to determine which one you like the sound of.
+	
+	For a lavalier microphone, if you are not having any problems getting enough gain before feedback, then we suggest the WL183 or WL93. The omnidirectional cartridges are more forgiving on other aspects such as clothing noise, proximity effect, wind noise, etc. If you are having problems getting enough gain before feedback, then we would recommend the use of the WL185. While it might have more fluctuation in level when the pastor moves his head around, that compromise is worthwhile to get more gain before feedback.
+	
+	If you are trying to operate two transmitters, such as the handheld and bodypack, at the same time, they will need to operate on separate frequencies. This means they will also need separate receivers. We do offer some systems where there are two receivers in the same physical box, but these are non-diversity systems (until you get to our top of the line system). We generally do not recommend non-diversity systems for your application.
+	
+	Also, read the following link:
+

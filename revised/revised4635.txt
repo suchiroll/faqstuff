@@ -1,0 +1,19 @@
+Title: GLX-D Modulation and Transmission Scheme
+Id: 4635
+Legacy Id: 5794
+
+Question:
+What is the modulation and transmission methods used by GLX-D?
+
+Answer:
+
+	Shure hasspent years developing and optimizing proprietary modulation schemes. Shure does not use an off the shelf modulation or transmission scheme, but a digital design thats unique and proprietary to Shure.
+	
+	GLX-D modulation is a proprietary version of Frequency-Shift Keying (FSK).
+	
+	GLX-D transmits via Frequency hopping where it hops among 3 active signals, and has 3 backups to choose from if needed.
+	
+	The sampling rate is 44.1 kHz. Extensive listening tests determined that there was no discernable audible difference between 44.1 kHz and 48 kHz sampling rates. By using 44.1 kHz instead of 48 kHz, the saved data bits are used to improve RF reliability.
+	
+	Additional information on GLX-D operational concepts is considered confidential intellectual property.
+

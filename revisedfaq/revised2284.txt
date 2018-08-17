@@ -1,0 +1,12 @@
+Title: DPA Mic to a Shure wireless transmitter?
+Id: 2284
+Legacy Id: 2366
+
+Question:
+How do I connect a DPA Mic to a Shure wireless transmitter?
+
+
+Answer:
+
+	Most of the DPA miniature mics use a Micro-Dot connector. To connect to a Shure transmitter with a TA4M input, use the DPA adapter DAD6010. This adapter has a Micro-Dot input and a TA4F output.
+

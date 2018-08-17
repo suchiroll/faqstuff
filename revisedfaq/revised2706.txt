@@ -1,0 +1,12 @@
+Title: V15 Type 1 Tracking Force
+Id: 2706
+Legacy Id: 2810
+
+Question:
+What is the recommended stylus pressure for an original V15 cartridge?
+
+
+Answer:
+
+	We surmise that you have V15 Type l. The tracking range was 0.75 to 1.5 grams.
+

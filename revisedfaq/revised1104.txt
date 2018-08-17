@@ -1,0 +1,12 @@
+Title: Terminatation of unused ports on antenna distribution amp
+Id: 1104
+Legacy Id: 1140
+
+Question:
+Is it important (and relevant) to terminate unused BNC inputs on a antenna distro? If so, why?
+
+
+Answer:
+
+	No, you do not need to terminate the unused connectors. The circuit design is such that it does not matter if the terminals are terminated.
+

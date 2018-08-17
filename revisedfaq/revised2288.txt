@@ -1,0 +1,15 @@
+Title: Microphones 8900 and C606
+Id: 2288
+Legacy Id: 2370
+
+Question:
+I own two C606 mics and a 8900. Which is the better mic?
+
+
+Answer:
+
+	The User Guide for the C series can be found at:
+	
+	http://www.shure.com/user-guides/us_pro_c_series_u...
+	
+	These microphones are equivalent to each other.

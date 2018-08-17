@@ -1,0 +1,22 @@
+Title: Updating ULXD6 and ULXD8 firmware
+Id: 5456
+Legacy Id: 
+
+Question:
+How do I update the ULXD6 or ULXD8 transmitters with the ULX-D or QLX-D receiver?
+
+Answer:
+To update firmware for ULXD6/8 transmitters with ULX-D or QLX-D receivers:
+
+	Update receivers to the following minimum versions:
+	
+		ULXD4, ULXD4D, ULXD4Q Receivers 2.1.16
+		QLXD4 Receivers 2.1.5 2
+	
+	Using Shure Update Utility, download ULXD6/8 transmitter firmware to the receivers.
+	
+		Check for firmware updates and download the ULX-D Boundary / Gooseneck Transmitter firmware in the Shure Update Utility.
+		On the Update Devices tab, double click “Version to install” and select the 2.1.16 (ULX-DBGTx) as the transmitter firmware to send to the ULXD4 receiver.
+	
+	Using the TX IR Firmware Update menu on a receiver, update transmitters.
+

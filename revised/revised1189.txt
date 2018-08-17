@@ -1,0 +1,20 @@
+Title: Shure 819 LPS
+Id: 1189
+Legacy Id: 1233
+
+Question:
+I just acquired a pair of 819LPS mics and have a couple of questions.
+
+
+These appear to be very similar in design to the Beta 91's although I beleive the intended purpose is a bit different. Judging by the datasheets it appears that the 819's and 91's have a similar mic element. The 819 was stated as having a permanent low-cut filter which would account for it's rolled off bass response. Am I correct in assuming that these are very similar mics with just a slight difference in the internal preamp?
+
+
+Also...is the pinout on the output connector the same as a standard XLR? If I get a "QG" connector and wire it like a standard XLR (to a XLR-M) will it interface properly with a mic pre?
+
+
+Answer:
+
+	The 819 used the same cartridge as the SM91. The Beta 91 uses a completely different and new cartridge.
+	
+	The pin out of the Tini-QG connector on the 819 is not the same as an XLR, and it cannot be plugged directly into a mixer. You must use the preamp that was supplied with the 819.
+

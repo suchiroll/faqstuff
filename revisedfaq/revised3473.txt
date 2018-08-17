@@ -1,0 +1,30 @@
+Title: MX395-LED and MX400SMP - function of each XLR pin
+Id: 3473
+Legacy Id: 3670
+
+Question:
+What is the function of each pin on the MX395-LED model and the MX400SMP? Each has a five pin XLR connector.
+
+Why is audio on pin 4 and pin 2?
+
+Must phantom power be applied for the LED - be it green or red?
+
+
+Answer:
+
+	Based on development research for the MX395-LED and MX400SMP, RFI immunity improved when XLR pin 4 and pin 2 were used for the audio signal.   +12 to +48 Vdc phantom power must be supplied to pin 2 and pin 4. 
+	
+	Pin 1: cable shield / phantom power return path
+	Pin 2: Audio - / phantom power supply path
+	Pin 3: Logic Ground for the LED
+	Pin 4: Audio + / phantom power supply path
+	Pin 5: Logic Input Control for the LED
+	Note 1: The LED operating voltage and current is provided by the phantom power.
+	A dim LED indicates insufficient current provided to pin 2 and pin 4.
+	
+	Note 2: The microphone always sends an audio signal no matter the color state of the LED.
+	To have the LED lit as Green, leave pin 3 and pin 5 unused.
+	
+	To have the LED lit as Red, connect pin 5 to +3 Vdc (or higher) TTL logic source; an example is the GATE OUT port on a Shure SCM810 or SCM820 automatic mixer.  (Without a +3 Vdc difference between pin 5 and pin 3, the LED will remain Green.)  To change back to Green, short pin 5 to pin 3, or remove the +3 Vdc TTL logic source.  If using a 3 to 5 Vdc power supply in place of a TTL logic source, install a current limiting resistor (10,000 ohms, 1/4 watt) in series with the positive voltage lead.
+	
+	Recommended cable type: a) twisted pair with a shield for the audio; b) a second twisted pair with its own shield for the logic; c) braided shield with 95% coverage.

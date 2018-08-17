@@ -1,0 +1,32 @@
+Title: How to remove grounding tab on a Shure phono cartridge
+Id: 5064
+Legacy Id: 6378
+
+Question:
+I want to remove the grounding tab (on the LG terminal pin) of my Shure cartridge.I am attempting to solve a ground loop issue. Instructions, please.
+
+
+Answer:
+
+	Tools:
+	Small needle nose pliers ordurable tweezers
+	Jeweler precision screwdriver set or eyeglasses screwdriver
+	Magnifying glass
+
+	Instructions:
+	01) Remove the stylus from the cartridge body. Set it aside in a safe location.
+	02) If the cartridge is installed, gently disconnect the wire leads. Take your time. The wire leads are fragile.
+	03) Remove the cartridge from the headshell.
+	04) Turn the cartridge with the terminal pins facing you.
+	05) Notefour pins with plastic colored rings and a small flat tab on the LG pin or RG pin.
+	06) Slide off the plastic colored ring on the pin where the tab is located. Do not bend or pull on the terminal pin.
+	07) Place the plastic ring in a safe location.
+	08) Note the metal tab positioned around the pin.
+	09) Using atiny screwdriver, pry gently under the tab and lift it away from the body.
+	10) The tab should slide out towards you and disconnect itself from the body as it rides up the pin. The tab has a smaller tab that is inserted into the seam alongside the body.
+	11) Save the grounding tab for future use.
+	12) Replace the colored ring on the terminal pin.
+	13) Reinstall the cartridge into the headshell.
+	14) Attach the headshell to the tone arm.
+	15) Replace the stylus into the cartridge body.
+

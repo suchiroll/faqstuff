@@ -1,0 +1,12 @@
+Title: Replacement Product for Conference One
+Id: 3674
+Legacy Id: 3883
+
+Question:
+With the Conference One system being discontinued (as of Summer 2009), where can I find other products that are similar?
+
+
+Answer:
+
+	The generic term for a Conference One type product is discussion system. Discussion systems are popular in Europe and most of the manufacturers are European. Shure offers the DIS products.
+

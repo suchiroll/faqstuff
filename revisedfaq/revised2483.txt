@@ -1,0 +1,69 @@
+Title: Difference between ULXP4 and ULXS4 Receivers
+Id: 2483
+Legacy Id: 2578
+
+Question:
+What is the difference between the ULXP4 (Professional) and ULXS4 (Standard) system?
+
+Answer:
+
+	The following table lists the differences between the two ULX receivers.
+	 
+	
+		
+			
+				ULXP4 Professional Receiver
+			
+				ULXS4 Standard Receiver
+		
+		
+			
+				Rack hardware included
+			
+				Rack hardware optional
+		
+		
+			
+				Group and channel frequency scan
+			
+				Channel frequency scan
+		
+		
+			
+				RF level and audio level meters
+			
+				Audio level meters
+		
+		
+			
+				Adjustable squelch
+			
+				Fixed squelch
+		
+		
+			
+				Metal receiver
+			
+				Plastic receiver
+		
+		
+			
+				Can lockout front panel
+			
+				Cannot lockout front panel
+		
+		
+			
+				Displays group/channel, TV channel, and frequency
+			
+				Displays group/channel and TV channel
+		
+		
+			
+				Includes 1/2 wave antennas
+			
+				Includes 1/4 wave antennas
+		
+	
+
+	The same ULX transmitter models are used with either receiver.

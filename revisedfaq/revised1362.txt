@@ -1,0 +1,12 @@
+Title: Using two wireless systems at once
+Id: 1362
+Legacy Id: 1414
+
+Question:
+Does Shure make a dual wireless system that includes a handheld mic and a headset on the same receiver?
+
+
+Answer:
+
+	If you intend to use the headset and the handheld at the same time, then each transmitter must have its own frequency and you must have two different receivers. If you intend to use the headset OR the handheld, then you can get two transmitters on the same frequency and one receiver tuned to that frequency.
+

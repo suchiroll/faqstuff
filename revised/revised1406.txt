@@ -1,0 +1,12 @@
+Title: Replacement for PS31 power supply
+Id: 1406
+Legacy Id: 1458
+
+Question:
+I have a Wireless system that uses the PS31 AC Adapter. Due to misuse, it has a short. Has this item been superceded by the PS40 AC adapter or is there another source for the PS31?
+
+
+Answer:
+
+	The PS40 has replaced the PS31. Contact Shure Parts at 800-516-2525.
+

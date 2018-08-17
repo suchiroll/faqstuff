@@ -1,0 +1,16 @@
+Title: R47EDT Phono Cartridge and N75EDT2 Upgrade Stylus
+Id: 2688
+Legacy Id: 2792
+
+Question:
+Can you tell me exactly how the N75EDT2 Stylus would upgrade my R47EDT Phono Cartridge over the original stylus that was supplied with the cartridge? Please include what the tip geometry and size is for both the original and upgrade stylus.
+
+
+Answer:
+
+	R47EDT original stylus = R5X
+	Biradial (0.4x 0.7 mils) - tracking weight 1.5 to 3 grams
+	
+	Upgrade stylus = N75ED-T2
+	Biradial (0.2x 0.7 mils) - tracking weight 0.75 to 1.5 grams
+

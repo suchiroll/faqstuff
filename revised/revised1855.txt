@@ -1,0 +1,12 @@
+Title: Replacement stylus for V15 Type III
+Id: 1855
+Legacy Id: 1915
+
+Question:
+I have to find a replacement micro ridge stylus for Shure V15III. What is the model number?
+
+
+Answer:
+
+	The replacement stylus is the model VN35MR. Sorry, Shure no longer has inventory.
+

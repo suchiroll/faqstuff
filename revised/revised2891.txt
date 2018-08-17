@@ -1,0 +1,12 @@
+Title: AMX or Crestron control with Conference ONE
+Id: 2891
+Legacy Id: 3015
+
+Question:
+Through the RS232 port, can an AMX or Crestron system obtain a control signal as to which mics are open?
+
+
+Answer:
+
+	No. The RS232 port does not link to the ConferenceOne microphones. The RS232 port on ConferenceOne C1-PS60i Power Supply only controls the audio input level, the audio input mute, the audio output level, and the audio output mute.
+

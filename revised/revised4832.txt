@@ -1,0 +1,14 @@
+Title: DIS-CCU features with legacy central units
+Id: 4832
+Legacy Id: 6018
+
+Question:
+Can any of the features of the DIS-CCU central control unit be added to an existing central unit?
+
+
+Answer:
+
+	Yes.As of 2016, updated firmware is available at no charge, and adds some new features to compatible legacy central units.The CU 5905 central unit adds the following features:1) additional browser pages for the Chairman and Display, and 2) Input 2 can be configured as a standard audio input instead of an Emergency Evacuation Message input.
+	
+	The CU 6105 and CU 6110 central units add the following features:1) control of conference units for up to 250 participants, 2) additional browser pages for the Chairman and Display, 3) microphone voice activation (VOX mode), 4) basic voting.
+

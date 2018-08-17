@@ -1,0 +1,18 @@
+Title: Polarity or phase cancellation of two microphones
+Id: 3106
+Legacy Id: 3239
+
+Question:
+I'd really enjoy finding the schematics for the XLR connections to achieve Polarity Cancellation. Yes, I realize that there are "post" ways but I like to start my guys out in the analog methods. Besides, it's fun AND now that I have a matched set of Shure hand helds I have everything else I need.
+
+
+Answer:
+
+	Phase cancellation happens whenever two (or more ) microphones are picking up the same source AND the diaphragms of the two mics are not the exact same distance from the source.
+	
+	Try this simple experiment: Place two identical mics in front of a sound source and mix these two mics to monaural using a mic mixer. Now re-position one mic 12 inches (or more) behind the other mic and note the tonal effect on the sound source; this is phase cancellation.
+	
+	If you are seeking polarity cancellation (one mic is 180 degrees out of polarity from the other mic), simply modify a mic cable: at the XLR male connector, unsolder the wire from pin 2 and the wire from pin 3. Interchange the wires and re-solder. Make certain to clearly mark the cable as having the polarity reversed.
+	
+	Now perform the simple experiment described above using the modified cable; the results will be far less subtle.
+

@@ -1,0 +1,14 @@
+Title: Prologue 16 - Balanced? Specs?
+Id: 1423
+Legacy Id: 1476
+
+Question:
+I recently bought a Shure Prologue 16L Lo Z Condenser Microphone, used, and I was looking for the specs and user guides on your website but couldn't find anything. And is the output balanced?
+
+
+Answer:
+
+	See the User Guide for the 16A
+	
+	It is the same as the 16L. And the XLR 600 ohm output is balanced.
+

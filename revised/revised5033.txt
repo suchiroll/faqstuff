@@ -1,0 +1,13 @@
+Title: Maximum channel count for ULX-D and QLX-D in the VHF band.
+Id: 5033
+Legacy Id: 6325
+
+Question:
+What is the maximum number of ULX-D or QLX-D channels I can use in the V50 VHF band?
+
+
+Answer:
+
+	Normal mode: 17 channels per 6 MHz TV channel
+	HD mode (ULX-D only): 47 channels per 6 MHz TV channel
+

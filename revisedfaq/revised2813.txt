@@ -1,0 +1,12 @@
+Title: DPA 4060 mic to Shure transmitter
+Id: 2813
+Legacy Id: 2923
+
+Question:
+How do I connect a DPA 4060 Miniature Mic to a SHURE transmitter?
+
+
+Answer:
+
+	DPA recommends the use of their adapter DAD6010 when connecting a DPA 4060 to a Shure transmitter. Please contact DPA to purchase the DAD6010
+

@@ -1,0 +1,13 @@
+Title: MX185 and the MX185BP - Difference
+Id: 2181
+Legacy Id: 2254
+
+Question:
+What is the difference between the MX185 and the MX185BP?
+
+
+Answer:
+
+	MX185 - operates only from phantom power
+	MX185BP- operates from phantom power or a 9V battery
+

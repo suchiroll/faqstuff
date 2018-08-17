@@ -1,0 +1,17 @@
+Title: Can I use UT and UC systems at the same time?
+Id: 1249
+Legacy Id: 1295
+
+Question:
+1) Our church is considering purchasing 4 UT Series mikes for our drama ministry and a UC series mike for vocals. We currently have 1 UC unit in use. Do you see any compatability problems outside of making sure there are no conflicts with frequency?
+
+
+2) Also, if we purchase 4 UT Series mikes, what would be our limitations on adding additional (1 to 4 units) UC Series mikes to the system.
+
+
+Answer:
+
+	1) There should be no problem.
+	
+	2) There should be no problem as the UC systems are in different frequency bands than the UT. However, the UT systems might become a weak link in your system if it eventually expands to over 10 wireless systems, and might need to be replaced. If that scenario is a possibility, we suggest saving your money until you can afford a system made up entirely UC components.
+

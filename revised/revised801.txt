@@ -1,0 +1,14 @@
+Title: Converting a UT handheld wireless to a headset
+Id: 801
+Legacy Id: 823
+
+Question:
+I have the UT series UHF "vocal artist" with a SM58 microphone. I wanted to know if it was possible to purchase the body pack transmitter and headset microphone separately so that I could use the receiver that I have and not have to purchase another entire system. If they are available separately, where can I obtain them. The dealers I have contacted do not sell individual parts, just the complete systems. Thanks for any info you can provide.
+
+
+Answer:
+
+	Yes, the components are available. The transmitter is the UT1. Make certain it matches the frequency of your receiver. The headworn mic is the WH20TQG. These components may be ordered by any Shure dealer.
+	
+	IMPORTANT - You can only use one transmitter at a time.
+

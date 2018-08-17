@@ -1,0 +1,13 @@
+Title: SM83A vs. MX183
+Id: 500
+Legacy Id: 510
+
+Question:
+Which of these mics is better?
+
+Answer:
+
+	The SM83A and the MX183 are different generations of omnidirectional lavalier mics. The SM83A is discontinued; MX183 is the current version. We think the MX183 sounds better than the SM83A.
+	
+	The WL83A and the WL183 are the wireless versions of these microphone.
+

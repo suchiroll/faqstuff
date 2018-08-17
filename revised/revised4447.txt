@@ -1,0 +1,16 @@
+Title: Shure Battle Announce Microphone
+Id: 4447
+Legacy Id: 5548
+
+Question:
+During World War II, Shure manufactured a "Battle Announce" microphone. What was unique about it?
+
+
+Answer:
+
+	The Battle Announce microphone was resistant to an explosive blast and the shock wave from the blast. The mic had to be physically rugged to withstand the vibration of the blast, but also had to operate properly after the blast.
+	
+	The mic element was controlled reluctance, alsocalled controlled magnetic. The mic diaphragm connects to a solid metal pin. The pin moves a ferrous armature that disturbs a magnetic field. The fluxuating magnetic field produces asignal voltage in a stationary coil of wire.
+	
+	To makesuch a mic element blast-resistant, a smallspring is inserted between the solidmetal pin and the armature. During normal operation, the spring is stiff enough to maintain constant contact between the pin and the armature. When a blast occurs, the spring is compressed and absorbs the shock wave, thus avoiding damage to the armature. 
+

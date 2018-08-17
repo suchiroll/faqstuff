@@ -1,0 +1,11 @@
+Title: Are automatic microphone mixers necessary with multiple microphones?
+Id: 17
+Legacy Id: 17
+
+Question:
+Are automatic microphone mixers necessary when there are 8 or more open microphones?
+
+Answer:
+
+	Yes. An automatic mixer will reduce amplification of background noise, increase gain before feedback, and reduce comb filtering. - more information -
+

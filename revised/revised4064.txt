@@ -1,0 +1,33 @@
+Title: Lithium Batteries ( Non Rechargeable ) in UR1
+Id: 4064
+Legacy Id: 4619
+
+Question:
+I have recently used a set of Lithium Batteries in my UR1 Beltpack transmitter and found them to last MUCH longer but my problem is when it died there was NO warning, I was reading 5 bars the whole time and even the 1 Hour before it died. I switched back to Alkaline Batteries but I noticed yesterday there is a "Batt" Menu option on the UHF-R Reciever and one option is "Lithium" or "Alkaline". Would the "Lithium" option give me a more accurate Battery Meter whan using a Lithium Battery" If so will it do the same on the Beltpack Battery Meter?
+
+
+Answer:
+
+	I have recently used a set of Lithium Batteries in my UR1 Beltpack transmitter and found them to last MUCH longer but my problem is when it died there was NO warning, I was reading 5 bars the whole time and even the 1 Hour before it died.
+	
+	*Yes.A lithium cell maintains its voltage level until the very end, then dies quickly.
+	
+
+	I switched back to Alkaline Batteries but I noticed yesterday there is a Batt Menu option on the UHF-R Reciever and one option is Lithium or Alkaline.
+	
+	* Correct.
+	
+
+	Would the Lithium option give me a more accurate Battery Meter whan using a Lithium Battery
+	
+	* No, because this option is used with the UR1M bodypack that also has the Lithium menu option.
+	
+
+	If so will it do the same on the Beltpack Battery Meter?
+	
+	* No.See previous answer.
+	
+	
+	* Recommend that you test a new set of lithium cells and time how long they last.The battery fuel gauge of the UR1 is scaled to alkaline cells and will not the track the lithium cell in useful manner.
+	
+

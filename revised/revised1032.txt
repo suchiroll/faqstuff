@@ -1,0 +1,22 @@
+Title: A95U - Connector Type, High Impedance End
+Id: 1032
+Legacy Id: 1062
+
+Question:
+I've lately bought an A95U, Line Matching Transformer, to use for connecting a condenser mounted inside a guitar to a PA system. It seems to work very well, and I'm almost delighted with it.
+
+Here's the rub: I use the A95U with the supplied 1/4" phone jack adapter, allowing me to connect the guitar with an off-the-shelf instrument cable with a 1/4" phone plug on each end. It works, but the resulting assembly of the A95U, it's phone jack, and the phone plug body is pretty long and unwieldy.
+
+Here's what I want: To buy or fabricate a cable that will connect directly to the screw-on connector of the A95U, thus eliminating the phone jack adapter and the phone plug body. I need to identify the screw-on connection on the A95U.
+
+Here's what I've gotten so far: I've located an old 1979 user's guide from Shure that says that the A95U "is fitted with an Amphenol MC1M connector," and that it connects to an "Amphenol MC1F connector." I've had no luck finding that connector. I've begun to suspect that Switchcraft makes a mating part, and calls it a "2501F." I may have some luck finding that connector.
+
+My question: Will the A95U accept a Switchcraft 2501F? If not, can I get a connector that will mate with the A95U?
+
+
+Answer:
+
+	For a source of the MC1F, call Connector World Supply at 206-789-7525.
+
+	Sorry, we are not familiar with the Switchcraft part.
+

@@ -1,0 +1,21 @@
+Title: KSM313 ribbon mic - storage and care
+Id: 3730
+Legacy Id: 3964
+
+Question:
+I've read that the ribbon in microphones can sag over time. Should I store the KSM313 vertically? How do I know (how long/ how many years) if the microphone needs to be re-ribboned? Is dust a problem?, And if it is, how can I do maintenance? 
+
+
+Answer:
+
+	Should I store the KSM313 vertically?
+	* Not required with the KSM313.  The ribbon sag was often a problem with a ribbon made of 100% aluminum.   The KSM313 ribbon is a patented material - part plastic / part metal.  Ribbon sag should not be a problem with the KSM313 ribbon material.   However, storing the KSM313 in a vertical position (or any ribbon microphone) certainly is the better idea.  Why fight gravity?
+	
+	How do I know (how long/ how many years) if the microphone needs to be re-ribboned?
+	* There are ribbon mics made in the 1940s that still operate perfectly as they were treated carefully by the owners.  So there is no correct answer to your question.  If the ribbon mic sounds good, the ribbon is OK.
+	
+	Is dust a problem?
+	* Not typically.  When the mic is not in use, keep it in the storage box and/or a cloth bag that can be closed.
+	
+	How can I do maintenance?
+	* Not required nor recommended.

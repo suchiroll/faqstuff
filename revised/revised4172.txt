@@ -1,0 +1,30 @@
+Title: Reduction of wind noise and popping
+Id: 4172
+Legacy Id: 5119
+
+Question:
+Please provide a primer on reducing wind noise in microphones.
+
+
+
+Answer:
+
+	A microphone responds to the movement of air and it does not care what caused the air to move.This means that a mic cannot distinguish between air movement originating from a talker, and air movement originating from local weather.Wind noise is a persistent problem with microphones but there are multiple ways to minimize unwanted noise.
+	
+	Method 1: Attenuation of Low Frequencies using Electronics
+	Wind noise has a large amount of low frequency (bass) content, often described as rumble.Cutting out the extreme bass from a microphone signal is an effective method to reduce audible wind noise.For example, the Shure SM81 has a three position low frequency cut (roll-off) switch.One setting is a steep roll-off, the second is a gentle roll-off, and the third is no roll-off.This switch effectively reduces low frequency wind noise.Or the Shure A15HP accessory can be added to a microphone output to roll-off low frequencies.
+	
+	Method 2: Layers of Metal, Cloth, or Plastic Mesh
+	Troublesome wind noise has a higher air speed than speech.A screen of very fine mesh or gauze will dissipate the energy of the wind air movement, and have minimal effect on speech.Essentially, the mesh takes a large gust of wind, and divides into numerous smaller gusts of wind, thus reducing the power of the gust.It is imperative that the mesh does not vibrate or rattle as this will cause unwanted mechanical noise.Layers of mesh, with different porosity, will increase effectiveness. The Shure SM57 has a fine metal mesh in the center of its rotating black grill. This mesh helps to minimize wind noise, including talker P-popping which is a type of wind noise.The Shure PS-6 Popper Stopper has nylon-like cloth mesh suspended in the middle of a rigid circle of plastic.Placed in front of a studio vocal mic such as the Shure KSM44A, the PS-6 slows down a blast of air from the singers mouth before the blast reaches the microphone.
+	
+	Method 3: Open Cell Foam
+	A specific type of foam rubber provides a function similar to the aforementioned mesh.Open-cell foam is required for a microphone windscreen.Open-cell means there is a meandering path for the air to move from the outer surface of the foam to the inner surface.[Close-cell foam, such as used for product packaging, cannot be used as air cannot pass through it.] The inside of the SM58 metal ball grill has a layer of open-cell foam.Open-cell foam is also used for an external windscreen like the Shure A58WS.The external windscreen shape must be aerodynamic (no sharp corners) to eliminate turbulence noise as wind moves over the windscreen.The Shure A81WS is a very effective windscreen as it has three different layers of open-cell foam, each with a different porosity.Each layer works to slow down the wind noise and dissipate the energy. The effectiveness of an open-cell foam windscreen is a direct function of its diameter: bigger is better. However, too many layers of foam will roll-off the higher frequencies, so a balance must be found between audio quality and wind noise attenuation.
+	
+	Method 4: Plastic Mesh Basket
+	Often referred to as a zeppelin, this device totally surrounds the microphone with still air and it often used for shotgun mics, like the Shure VP89 series.An example is the Shure A89LW-KIT.A mic zeppelin is a common sight on a movie production set - suspended on a long boom pole, floating above the heads of the actors.It does look like the Goodyear Blimp!
+	
+	Method 5: Artificial Fur
+	Fur made of very soft artificial fibers, 1 to 4 inches in length, attached to a fabric mesh, will absorb the energy of wind turbulence.This type of fur covering is typically installed over a zeppelin and secured with a zipper, an elastic band, or Velcro.The individual fur hairs must be kept untangled to remain effective; a plastic comb is provided to brush out the fur and eliminate mattingI am not making this up.
+	
+	Sincere thanks to Chris Woolf, a British expert on microphones. A portion of the material aboveis from his superb article How to reduce wind noise and vibration, copyright 2002, Rycote Windshields Ltd.
+

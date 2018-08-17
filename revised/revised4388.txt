@@ -1,0 +1,12 @@
+Title: SRH750DJ driver size
+Id: 4388
+Legacy Id: 5481
+
+Question:
+What is the driver size of the SRH750DJ?
+
+
+Answer:
+
+	50 mm (2 inches)
+

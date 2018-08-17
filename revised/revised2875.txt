@@ -1,0 +1,14 @@
+Title: PG microphones: sensitivity and impedance
+Id: 2875
+Legacy Id: 2990
+
+Question:
+What is the open circuit sensitivity (mvolt/Pascal) and impedance of PG series Microphones?
+
+
+Answer:
+
+	Specifications for the PG microphones can be found in the Specification Sheets at:
+	
+	http://www.shure.com/ProAudio/Downloads/UserGuidesAndTechSpecs/index.htm
+

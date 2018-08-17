@@ -1,0 +1,14 @@
+Title: What is the difference between signing up for an account or going through Guest Checkout?
+Id: 3276
+Legacy Id: 3436
+
+Question:
+What is the difference between signing up for an account or going through Guest Checkout?
+
+
+Answer:
+
+	Having a Shure.com account has definite advantages and only takes a moment. Youll automatically be eligible for special promotions and discounts. A history of what youve purchased will be available to you anytime. And, we store your shipping and billing address information, which will be ready for you next time.
+	
+	As a My Account member, you will also have early access to the latest product offerings and promotions from Shure and can quickly place future orders. Guest checkout feature does not store your shipping address or billing address information.
+

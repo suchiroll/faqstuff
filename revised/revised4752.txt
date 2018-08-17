@@ -1,0 +1,19 @@
+Title: Theater Audio - Pouches for Wireless Transmitter Sweat Protection
+Id: 4752
+Legacy Id: 5934
+
+Question:
+Is there a source for a wireless transmitter pouches made specifically for theatrical use?
+
+
+Answer:
+
+	http://wirelessmicbelts.com/main.sc
+	
+	Another recommendation is to seal the transmitter in a zip lock plastic bag. Cut two small holes in the bag: one of the antenna, one for the mic cable. Place the transmitterupside-downon the actor so the antenna and the mic cable face the floor.On many Shure transmitters, the body pack belt clip is a formed wire. This wire clip can be removed by pulling gently on the two ears that fit into holes on the body pack. Once removed, rotate the clip 180 degrees. Reinstall the ears into the holes on the body pack. Now, the clip holds the body pack upside down; the antennas and the mic connector face the floor. This helps to keep sweat from penetrating into the body pack.
+	Photos showing the clip reversal
+	
+	Source for zip lock bags with sizes to fit transmitters: http://www.uline.com
+	
+	Thanks to James Savage, Director of Audio for the Chicago Shakespeare Theater, for these tips.
+

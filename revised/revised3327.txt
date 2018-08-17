@@ -1,0 +1,12 @@
+Title: PG88 outputs
+Id: 3327
+Legacy Id: 3504
+
+Question:
+Are there two outputs on the PG88 two channel receiver?
+
+Answer:
+
+	The PG88 has two receiver sections. Each section has a balanced, XLR male, mic level output, and an unbalanced, 1/4" female phone jack output.
+	
+	So the rear of the PG88 has four output connectors: two XLR male plugs , and two 1/4" female phone jacks.

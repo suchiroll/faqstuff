@@ -1,0 +1,12 @@
+Title: Connecting a PSM transmitter to a power amp output
+Id: 2832
+Legacy Id: 2944
+
+Question:
+How can I connect my power amp output to a PSM transmitter input?
+
+
+Answer:
+
+	Although not the ideal way to hook up a PSM transmitter, the model PM52 from Rolls (http://www.rolls.com) converts a power amp output to a headphone level output with a volume control. The headphone output will be close enough to line level to match the input of a PSM transmitter. It also has loop jacks so the signal can still be connected to a loudspeaker.
+

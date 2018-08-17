@@ -1,0 +1,27 @@
+Title: Principles of Sound System Design
+Id: 3442
+Legacy Id: 3634
+
+Question:
+The sound system at our church is not loud enough; we purchased all of the equipment from a local music store. We are always fighting feedback problems and it's really hard to hear the minister talking. We've damaged several loudspeakers due to excessive feedback and it's costing the church thousands of dollars. Can you help us?
+
+
+
+Answer:
+
+	Designing and installing a sound system requires a great deal of knowledge, experience, and skill.  It appears that the system was not designed properly for the needs of the church. Unfortunately, the problems are serious and the entire sound system may need to be redesigned and/or reinstalled.
+
+	Below is a superb educational article that explains many aspects of sound system design. The author is Marshall Long, a renown consultant in the field of electro/acoustics.  Please do not expect to be able to design a sound system after reading the article, however the knowledge gained should help the church find a competent sound system designer. When looking for a new sound system designer, make certain that designer understands the principles laid out in this article.
+
+	Article:Sound System Design (pdf 779kb)
+
+	Author:  Marshall Long, Marshall Long/Acoustics, Sherman Oaks, CA 91423 USA
+
+	Journal:  Acoustics Today
+
+	Volume 4, Issue 1, pages 23-30
+
+	January 2008
+
+	A publication of the Acoustical Society of America
+

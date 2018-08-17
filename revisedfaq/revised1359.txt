@@ -1,0 +1,12 @@
+Title: What is the difference between the BG 4.1 and the SM94?
+Id: 1359
+Legacy Id: 1411
+
+Question:
+The BG4.1 and SM94 look the same. My question is, which is better when it comes to overhead stereo miking of a drum kit and church choir recording.
+
+
+Answer:
+
+	The SM94 is slightly quieter (less hiss), but the difference is very small.
+

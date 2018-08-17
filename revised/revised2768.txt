@@ -1,0 +1,14 @@
+Title: SHURE M95 G-LM with N95G stylus
+Id: 2768
+Legacy Id: 2876
+
+Question:
+I recently purchased a DUAL 604 turntable in nice condition. Mounted on it was a SHURE M95 G-LM cartridge with a 95G stylus.
+
+
+Answer:
+
+	The G designation meant a spherical stylus tip. A spherical replacement stylus is no longer made.
+	
+	We suggest you replace the M95G stylus with the N95ED elliptical stylus. This will upgrade the performance and return the cartridge to like new condition.
+

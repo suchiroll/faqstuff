@@ -1,0 +1,16 @@
+Title: Plug-on adapter for changing wired handheld microphone to wireless
+Id: 1049
+Legacy Id: 1082
+
+Question:
+I am in need of a wireless mic transmitter for a T3 Receiver. I would like to have a transmitter that would allow me to plug in any XLR type mic and convert it to a wireless mic transmitting on the frequency of the receiver that I have now.
+
+
+Answer:
+
+	We do offer the FP3 and the UR3 plug on transmitters. However, they will not work with theT3 receiver.
+	
+	The FP3 works with the FP5 or the SLX4 receiver.
+	
+	The UR3 works with any of the UR receivers.
+

@@ -1,0 +1,18 @@
+Title: Phono cartridge connections and wire color codes
+Id: 2913
+Legacy Id: 3038
+
+Question:
+If possible, I would like some guidance on the proper electrical connections for a Shure M912ED cartridge.
+
+
+I have four wires, red, white blue and green, and four connections: L, R, LG and RG. Two of the wires, the blue and white, have clear insulated sleeves around the actual metal connectors.
+
+
+Answer:
+
+	L (Left) = white
+	LG (Left Ground) = blue
+	R (Right) = red
+	RG (Right Ground) = green
+

@@ -1,0 +1,13 @@
+Title: LCD display not working
+Id: 2089
+Legacy Id: 2155
+
+Question:
+We have bought already 40 wireless microphones systems series UA and UB, both with handheld and bodypack! Recently we have had problems with the displays of both of them : handheld and bodypack. They don`t work at all! But the RF is OK!! We have 2 handhelds and 2 bodypacks.
+
+
+Answer:
+
+	The problem is the LCD display. The legs on some LCD displays are too short and they become disconnected from the PC board.
+	
+	This problem has been corrected in newer units.

@@ -1,0 +1,13 @@
+Title: PSM300 Signal Latency
+Id: 4630
+Legacy Id: 5789
+
+Question:
+What is the stated latency of the PSM300 system? That is, from analog in to analog out, what is the expected latency?
+
+As there is DSP in the signal path in both the transmitter and the receiver, there must be some (minimal) latency for this system. "24-bit digital audio" term raises the latency question because any signal path that includes DSP necessarily introduces some measurable latency.
+
+Answer:
+
+	End-to-end latency, using a 1kHz input signal, is less than 0.7millisecond / 0.0007 second.
+

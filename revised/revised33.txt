@@ -1,0 +1,20 @@
+Title: Specifications for a Shure R47XT
+Id: 33
+Legacy Id: 33
+
+Question:
+Could you tell me the specs for a Shure R47XT?
+
+
+Answer:
+
+	Output (1kHz at 5 cm/sec peak recorded velocity): 5.0 mV
+	Frequency Response: 20-20kHz
+	Channel Balance: within 2 dB
+	Channel Separation (minimum): 25 dB at 1,000 Hz
+	Tracking Force: 3/4 to 1 1/2 grams
+	Trackability @ 1 gram (cm/sec peak recorded velocity):
+	400 Hz - 22 cm/sec
+	1,000 Hz - 33 cm/sec
+	10,000 Hz - 19 cm/sec
+

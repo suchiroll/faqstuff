@@ -1,0 +1,13 @@
+Title: Interface from Shure Microphone into iPad, iPhone, or iPod
+Id: 4014
+Legacy Id: 4421
+
+Question:
+How can I connect my Shure professional mic, that has an XLR connector into my iPad, or iPhone, or iPod?
+
+
+
+Answer:
+
+	Check out the Shure MVi
+

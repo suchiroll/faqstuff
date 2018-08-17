@@ -1,0 +1,17 @@
+Title: Shure OEM Microphones for Heathkit
+Id: 5420
+Legacy Id: 6401
+
+Question:
+Did Shure ever make microphones for Heathkit?
+
+Answer:
+
+	Yes.A Heathkit catalog from October 1966 shows three Shure OEM, or Private Label, microphones.
+	
+	Model GDP-66 at $36.46 U.S. Retail - based on the standard model 533
+	Model GDP-76 at $45.28 U.S. Retail - based on the standard model 585
+	Model GDP-66 at $62.92 U.S. Retail - based on the standard model 565
+	
+	The catalog is attached below as a PDF file.
+

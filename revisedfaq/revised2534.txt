@@ -1,0 +1,13 @@
+Title: EZB Mics and Floor Noise
+Id: 2534
+Legacy Id: 2631
+
+Question:
+I am thinking about buy some EZBs for use on a stage floor micing dramas. How would I keep from picking up the sound when people are walking across the stage?
+
+
+Answer:
+
+	If the foot noise is acoustic (travels through the air), the mic will pick it up. It cannot tell the difference between air movement you want (speech) and air movement you do not want (the sound of footfalls).
+	
+	If the foot noise is mechanical (vibration of the floor), place the mic on a piece of foam rubber, or sponge, that is 1/4" to 1" thick. Experiment with different thicknesses and types of foam rubber to find the best isolation for the unique vibrational characteristics of your stage floor.

@@ -1,0 +1,31 @@
+Title: 78 RPM stylus for M95ED cartridge?
+Id: 2371
+Legacy Id: 2462
+
+Question:
+I have an old OLD heathkit turntable with a now-discontinued M95ED cartridge. The direct replacement is an N95ED, but I have some questions:
+
+
+1- Will the N95ED accommodate a wide stylus for 78 rpm records?
+
+2- If so, what is the cost of such a stylus?
+
+3- If not, is there a crossover cartridge that will fit in place of the discontinued M95ED that WILL accomodate a wide stylus, and
+
+4- If there is such a crossover cartridge, what is its designation and the designation of the wide stylus?
+
+
+Answer:
+
+	1- Will the N95ED accommodate a wide stylus for 78 rpm records?
+	* The N78S stylus for 78RPM records will fit IF you own a file or Dremel drill. The plastic grip on the stylus needs to be shaved down by less than one millimeter to make it fit the M95 body.
+	
+	2- If so, what is the cost of such a stylus?
+	* The U.S. retail is $40.00 (October 2008)
+	
+	3- If not, is there a crossover cartridge that will fit in place of the discontinued M95ED that WILL accommodate a wide stylus?
+	* We would suggest the M97xE as a replacement for the M95ED.
+	
+	4- If there is such a crossover cartridge, what is its designation and the designation of the wide stylus?
+	* The N78S fits the M97xE body.
+

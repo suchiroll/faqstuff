@@ -1,0 +1,11 @@
+Title: MXW Installation - Best Practices
+Id: 4468
+Legacy Id: 5578
+
+Question:
+Please provide material on the recommended installation methods and practices for MXW products.
+
+
+Answer:
+
+	Please refer to this link: https://shure-community.force.com/s/best-practices

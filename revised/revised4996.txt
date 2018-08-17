@@ -1,0 +1,12 @@
+Title: Other equipment needed when installing the MXA910 or MXA310?
+Id: 4996
+Legacy Id: 6264
+
+Question:
+What additional equipment might be needed when installing MXA microphones?
+
+
+Answer:
+
+	All you need is a single Ethernet cable (shielded Cat-5e or higher recommended) connected to a Gigabit, Power-over-Ethernet source (a network switch with PoE or PoE injector). This will give you Dante digital audio and network access to the browser-based control software on the mic. If the next device in the signal chain does not support Dante digital audio, then you will need a Dante-to-analog converter, such as the Shure ANI4OUT, or a Dante to USB converter, such as the Shure ANIUSB-MATRIX (for connection to a PC).
+

@@ -1,0 +1,16 @@
+Title: Adding another wireless mic
+Id: 1697
+Legacy Id: 1754
+
+Question:
+my church has a T series (T3 receiver) and sm58 wireless microphone setup. I want to get another wireless mic and was considering the TV58S. Would both microphones have their own frequency? Would their be any "conflict" with these two recievers / transmitters? thanks in advance for any help you could give me.
+
+
+
+Answer:
+
+	At 09/12/2001 10:15 PM we wrote - Each system would need to be on its own compatible frequency. As long as that occurs, they will work fine together.
+	
+	See the following links for more information:
+	
+

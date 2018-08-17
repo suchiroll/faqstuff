@@ -1,0 +1,16 @@
+Title: Mic for recording focus groups
+Id: 1463
+Legacy Id: 1516
+
+Question:
+I am hoping you can help me figure out which technology can help me successfully tape (audio) some focus groups (i.e., group interviews) I will be conducting. It is important that I clearly capture the comments of multiple participants. Is there a microphone that I can attach to a regular tape recorder? Or is there a relatively affordable tape recorder that would be ideal for this purpose?
+
+
+Answer:
+
+	1) For a professional tape recorder, consider a Marantz that has an XLR input for the microphone connection, such as the PMD222.
+	
+	2) For a mic, consider an omnidirectional boundary mic like the Shure MX391/O.
+	
+	3) If you have more technical questions, call 800-516-2525.
+

@@ -1,0 +1,13 @@
+Title: Background noise when DPA lapel mic is used with the UR1
+Id: 3319
+Legacy Id: 3490
+
+Question:
+When using a DPA miniature lapel mic with the UR1 transmitter, I noticed some low level background noise. This noise was not there with my Shure lapel mics. Any ideas?
+
+
+Answer:
+
+	The DPA lapel mic cable likely was wired with a microdot connector. DPA sells a microdot-to-TA4F adapter called the DAD6010. If you use that adapter, make certain the adapter's outer case/shell is connected to pin 1. (The mic cable shield is also connected to pin 1.)
+	
+	If you replaced the microdot connector with a TA4F, make certain the TA4F outer case/shell is connected to pin 1.

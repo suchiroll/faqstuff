@@ -1,0 +1,13 @@
+Title: Understand specs for input and output clipping
+Id: 639
+Legacy Id: 656
+
+Question:
+Help me to understand specs for input and output clipping.  Are you talking about low level clipping?  What is better an input clipping level of -30 dBV or -10 dBV?  Thanks!
+
+Answer:
+
+	We do not understand what you mean by low level clipping. When a signal becomes too high for the electronics that it is going through, it clips and causes distortion.
+	
+	Neither clipping level that you mention is better or worse than the other. They are simply different. Lets say we have mixer #1 that has an input clipping level of -30 dBV. Mixer #2 has an input clipping level of -10 dBV. We want to plug a tape deck into both of these mixers. We need to make certain that the output of the tape deck is below the clipping level for the different mixers. Neither one is better, but we would need to adjust the output level of the tape deck to be appropriate for whichever mixer we wanted to plug it in to. For mixer #1, we would want the maximum output of the tape deck to be -30 dBV. For mixer #2, we would want the maximum output of the tape deck to be -10 dBV.
+

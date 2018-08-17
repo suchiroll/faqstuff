@@ -1,0 +1,13 @@
+Title: MVL technical information and wiring diagram
+Id: 4656
+Legacy Id: 5820
+
+Question:
+What is the pin out of the Motiv MVL microphone and other relevant technical information?
+
+
+Answer:
+
+	As it is an impossible task to test the MVL with every device that calls for a microphone, the information below is provided. The manufacturer of a device should be able to confirm if the MVL will work with their device based on the technical data below:
+	
+	

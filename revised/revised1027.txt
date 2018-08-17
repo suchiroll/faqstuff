@@ -1,0 +1,12 @@
+Title: Shure 520 bullet mic resistor
+Id: 1027
+Legacy Id: 1057
+
+Question:
+Could you tell me the value of this resistor... (inside a green bullet mic) This one in parallel with the cartridge ?
+
+
+Answer:
+
+	39,000 ohms.
+

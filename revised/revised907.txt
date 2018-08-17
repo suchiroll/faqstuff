@@ -1,0 +1,12 @@
+Title: Headset with a longer mic arm?
+Id: 907
+Legacy Id: 935
+
+Question:
+I was needing to know if Shure makes a headset with a longer mic arm, then one that I have comes right in front of the mouth, not leaving much room between mouth and mic. Does Shure make a wireless headset that will interchange allowing the mic to be further away from mouth, that will work with the T Series wireless?
+
+
+Answer:
+
+	Sorry, we do not. The WH20QTR is the only Shure headset that will plug into the Shure T1G transmitter. Please note that the WH20QTR headworn mic operates properly only when the distance from mouth to mic is less than 1 inch (2.5 cm).
+

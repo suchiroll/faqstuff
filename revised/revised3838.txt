@@ -1,0 +1,15 @@
+Title: Shock Mount Stand Adapter for Handheld Wireless Mic / Transmitter
+Id: 3838
+Legacy Id: 4077
+
+Question:
+Please provide a source for a mic stand adapter, with a shock mount, for a handheld wireless transmitter. I need to isolate my handheld wireless mic from vibrations.
+
+
+Answer:
+
+	The SP-30 stand adapter / shock mount is designed to hold the large diameter handle [30 mm diameter or greater] of a wireless handheld transmitter. The SP-30 is available from: The Olsen Audio Group, U.S. telephone 480-998-7140.
+	
+	Or there is the shock mount model MY330 from On Stage Stands, available from Guitar Center.
+	
+	The Shure WA371 wireless mic clip does not have a shock mount.  It's diameter is 30 mm or 1.20"

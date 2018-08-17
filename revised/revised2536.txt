@@ -1,0 +1,30 @@
+Title: M97 cartridge
+Id: 2536
+Legacy Id: 2633
+
+Question:
+I own a Technics SL1600MK2 Direct Drive Automatic turntable, equipped with a Shure cartridge that has M97 stamped on the main body. The front of the stylus has a designation of N97HE, and includes a drop down dust collector brush that has a designation of ERA IV. I do not know how old the turntable/cartridge are, as I purchased both second hand in 1997. I can not locate either the cartridge or stylus units in your product lists, and am wondering if you can help me:
+
+
+A. Determine what tracking force would be best used in setting up my turntable for optimum tracking performance with this cartridge?
+
+
+B. Which currently available Shure replacement stylus is correct for my cartridge?
+
+
+C. Can you provide me with a general idea of how old this cartridge may be, how it ranked in the overall mix of Shure Cartridges that were available when it was a new product, and is it an adequate cartridge for my turntable, or would I be better served to replace it with a current offering, and if so which Shure cartridge would you recommend?
+
+
+The cartridge is operating well currently, but I am considering purchasing a back-up stylus replacement for it if keeping the cartridge for the long term is warranted. I listen to a mix of jazz, pop, rock, and classical music, and am most interested in ensuring that what ever cartridge I decide to use, is based on it's ability to accurately reproduce musical content, rather than what seems to be a current trend of todays generation of cartridges that are designed for DJ use, and "scratching". Any assistance you can give will be greatly appreciated.
+
+
+Answer:
+
+	A. The M97 is designed to track between .75 and 1.5 grams. 1 gram is typically the optimal setting. When using the brush, set the tracking weight on the arm 0.5 grams higher than desired, e.g. 1.5 gram setting on the arm equals 1.0 grams applied to the stylus.
+	
+	B. The NE97HE stylus will fit the M97 body.
+	
+	C. The M97 was introduced in the early 1980s. It was the second best product in the line, after the V15-IV. It should work very well with your turntable. An upgrade would be the M97xE, but it unlikely to make a noticeable difference.
+	
+	D. We suggest you keep the M97 and purchase one or two replacement styli - NE97HE.
+

@@ -1,0 +1,22 @@
+Title: Antenna distribution for 7-9 UC wireless receivers
+Id: 1572
+Legacy Id: 1627
+
+Question:
+How do I connect 7-9 UC wireless receivers up to an antenna distribution system?
+
+Answer:
+
+	Antenna Distribution - 7-9 UC Wireless Systems
+	
+		Connect (2) UA820 1/2 wave antennas to the front bulkhead adapters of the UA845, or to the (2) UA830 remote antenna mounts if you are remoting your antennas.
+	
+		Use UA825 coaxial antenna cable or equivalent (RG-8X) to connect UA830s to the front bulkhead adapters of one of the UA845 antenna distribution systems.
+	
+		Connect the rear of the bulkhead adapters to the Antenna In jacks of UA845 #1.
+	
+		Cascade one pair of antenna outputs from UA845 #1 to the Antenna In jacks of UA845 #2.
+	
+		Connect the antenna ouputs of the UA845s to each UC receiver.
+
+	

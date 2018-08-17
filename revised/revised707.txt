@@ -1,0 +1,12 @@
+Title: DFR11EQ Software and Windows 2000
+Id: 707
+Legacy Id: 725
+
+Question:
+Does your software support Windows 2000 or WindowsME?
+
+
+Answer:
+
+	Version 5.0.2 of the DFR11EQ software is compatible with Windows 2000 and Windows ME.
+

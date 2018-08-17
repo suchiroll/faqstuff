@@ -1,0 +1,15 @@
+Title: MV88 Headphone Cable - What is the purpose?
+Id: 4724
+Legacy Id: 5895
+
+Question:
+Why does the Motiv MV88 have a short headphone cable in the box?
+
+
+Answer:
+
+	Headphones or earphones with a large connector may not fit next to the MV88 base.  In that case, use the supplied 3.5mm headphone extension cable while monitoring.
+	
+	Note that the MV88 must be oriented so that it does not cover the iPhone's headphone output. Also, make certain the Input Monitor is enabled.  This setting is located under the "Info" tab when you open the menu at the top right of the Motiv app.
+	
+	An Apple device will default to the most recently connected microphone; this can be an issue if the earphones or headphones have a built-in mic and a TRRS (Tip-Ring 1-Ring 2-Sleeve) plug.  The 3.5mm extension cable has a TRS plug which "defeats" the earphone microphone connection; thus the Apple device will use the MV88.

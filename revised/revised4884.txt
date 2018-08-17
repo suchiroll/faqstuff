@@ -1,0 +1,18 @@
+Title: KSM8 Sensitivity Misprint
+Id: 4884
+Legacy Id: 6142
+
+Question:
+What is the sensitivity rating of the KSM8?
+
+
+Answer:
+
+	It is -51.5 dBV; 1 kHz at 94 dBSPL / (2.66 mV) Some KSM8 documentsincorrectly state (1.85 mV).
+	
+	Note: 94 dBSPL equals one Pascal.
+
+	
+
+	
+

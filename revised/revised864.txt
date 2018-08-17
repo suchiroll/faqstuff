@@ -1,0 +1,12 @@
+Title: UT Series Cordless Mic
+Id: 864
+Legacy Id: 891
+
+Question:
+I currently have the Shure UT receiver with the SM58 Mic, I would like to know if the Shure Lavalier Clip Mic will work with the same receiver.
+
+
+Answer:
+
+	Yes, it will work as long as the the UT bodypack transmitter has the same frequency as the UT handheld transmitter. Also, you can only use one transmitter at a time.
+

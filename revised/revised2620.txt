@@ -1,0 +1,65 @@
+Title: Vintage controlled reluctance elements
+Id: 2620
+Legacy Id: 2722
+
+Question:
+Hi,I am a collector and harmonica mic builder specializing in Shure mics. I am doing research on vintage Shure CR transducers and would like to know if anybody there can tell me how to use the pre 1960 date code method. There is a 3 digit code that follows the model #. I have a collection of black labeled CR transducers and it seems that the very early ones are clearly dated, (ex: 10-50) and then I have some black labeled ones with the 3 digits following the model #. I would also like to know when they switched from the black labels to the white ones, of which have the 3 digit codes too. I was told by someone at Shure that they started the 2 letter date code in 1961 with the first letter being the year beginning with 1961 and going for 20 years and starting with A again being 1981. The second letter being the month of production.Is this accurate information? I'm mostly interested in the 3 digit code. I've tried to figure it out without coming up with anything that makes sense. Could someone please help me out with this? I would also like to know exactly when production of the controlled reluctance transducers began. I have one dated 11-49.Were they made prior to 1949? I also would like to know if the controlled magnetic and the cont. reluctance are constructed the same way. I've noticed the very early CR's have larger transformer windings and the impedance is higher on these elements. Then when they went to the white labels the windings are smaller and impedance is less. Anybody know why? I was also told that they started calling them cont. magnetic in 1959 or 60. Is this correct? Do the model #'s represent different frequency responses or did they just designate different applications? I have elements with probably 6 or 7 different model #'s, they're all high impedance and sound basically the same and look the same. For example, I have a model 440 bullet with a 99B86 element, and a 520 with the same 99B86 element. Some guys swear to me that the 440's are higher gain and have different sound with better high end. I can't tell any difference in sound. The only difference I see is the 440 has a large hole in the bottom of the body. Will that affect freq. response? I was also told by someone that the holes in the shells are increasing feedback. Could that be true? I would also like to know if the CM transducers made for the 520D were made in the US and sent to Mexico for assembly, or were the transducers actually made and assembled in Mexico. Some say that they are inferior to the US made models. I have 1 element that says made in the USA on the top of the label and stamped mfg. in Mexico on the side. Any info on that? I would greatly appreciate any information you guys can come up with or point me to someone who is knowledgeable with the oldest Controlled reluctance transducers. I have a large collection of vintage Shure bullet mics and elements. I would also like to know about the old brown bullet 9822A's and the other models but I'll ask for that another time. For now I would appreciate anything on the early CR's and the 3 digit date code or was it a production # for a particular year? Any info will be helpful. Thank you very much.
+
+
+Answer:
+
+	if anybody there can tell me how to use the pre 1960 date code method?
+	* Shure has been in business since 1925. We have changed date code methods over 20 times. There are no reliable records available for older date codes.
+	
+	I would also like to know when they switched from the black labels to the white ones.
+	* Unknown. Every ten years, Shure deletes and archives Engineering records. Minor details likes label color changes are not archived. With 77 years of engineering history, not all details can be kept. It is simply too expensive.
+	
+	I was told by someone at Shure that they started the 2 letter date code in 1961 with the first letter being the year beginning with 1961 and going for 20 years and starting with A again being 1981. The second letter being the month of production.Is this accurate information?
+	* I am not aware of this method. Do you have the name of whom provided this information?
+	
+	Could someone please help me out with this?
+	* Let me restate: Shure has been in business since 1925. We have changed date code methods over 20 times. There are no reliable records available for older date codes.
+	
+	I would also like to know exactly when production of the controlled reluctance transducers began. I have one dated 11-49. Were they made prior to 1949?
+	* Approximately 1943, in communications microphones made exclusively for the military.
+	
+	I also would like to know if the controlled magnetic and the cont. reluctance are constructed the same way.
+	* Yes. Two different names for the same concept.
+	
+	Ive noticed the very early CRs have larger transformer windings and the impedance is higher on these elements. Then when they went to the white labels the windings are smaller and impedance is less. Anybody know why?
+	* Only a guess - more efficient transformer design.
+	
+	I was also told that they started calling them cont. magnetic in 1959 or 60. Is this correct?
+	* Our archives do not indicate this.
+	
+	Do the model #s represent different frequency responses or did they just designate different applications?
+	* Microphone model numbers indicate a different engineering design for different applications.
+	
+	Some guys swear to me that the 440s are higher gain and have different sound with better high end. I cant tell any difference in sound.
+	* This is subjective.
+	
+	The only difference I see is the 440 has a large hole in the bottom of the body. Will that affect freq. response?
+	* It is possible.
+	
+	I was also told by someone that the holes in the shells are increasing feedback. Could that be true?
+	* It can, but not always.
+	
+	I would also like to know if the CM transducers made for the 520D were made in the US and sent to Mexico for assembly, or were the transducers actually made and assembled in Mexico.
+	* Transducers were/are made in Mexico.
+	
+	Some say that they are inferior to the US made models.
+	* Completely false.
+	
+	I have 1 element that says made in the USA on the top of the label and stamped mfg. in Mexico on the side. Any info on that?
+	* Likely just a labeling error.
+	
+	I would greatly appreciate any information you guys can come up with or point me to someone who is knowledgeable with the oldest Controlled reluctance transducers.
+	* Tom Ellis at: tomsmics@flexcomp.com
+	* Bob Paquette Mic Museum, Milwaukee WI, 414-645-1600
+	
+	I have a large collection of vintage Shure bullet mics and elements. I would also like to know about the old brown bullet 9822As and the other models but Ill ask for that another time.
+	* You will find better information from mic collectors. Please understand: Shure is in business to sell new microphones, not buy back old ones or keep a detailed historical recordof every product we made. Once a product is discontinued, the only remaining record may be a data sheet.
+	
+	For now I would appreciate anything on the early CRs and the 3 digit date code or was it a production # for a particular year?
+	* Again, the mic collectors of the world will likely have more detailed information than Shure. For our current products, we have over 100,000 engineering drawings. Multiply that by 80+ years and perhaps you can understand why many vintage product details have been lost to history.
+

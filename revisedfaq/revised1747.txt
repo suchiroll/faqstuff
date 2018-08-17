@@ -1,0 +1,17 @@
+Title: Lifespan of M44G stylus
+Id: 1747
+Legacy Id: 1806
+
+Question:
+I was wondering how long Shure recommends the lifespan of the M44G stylus.. other cartridge companies have estimations in hours and I was wondering if I could get an approximation.
+
+
+I have been using my M44Gs for 7 months and they still work very well but I was told that replacing the stylus is a good idea to do before loss in sound quality is heard, as to not cause further record wear.
+
+
+Answer:
+
+	Typical diamond stylus life is 500 to 1,000 hours of playing time. The wear depends upon many factors including the tracking force, the anti-skate setting, the cleanliness of the record groove, etc. Using a specially designed microscope is the only scientific way to determine stylus wear.
+	
+	In your case, seven months is about 210 days. If you played records for 3 hours every day, the playing time would be 630 hours. In this case, a new stylus would be a good idea just to be safe.
+

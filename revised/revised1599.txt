@@ -1,0 +1,53 @@
+Title: Condenser mic for minidisc recorder w/ Plug-in-Power
+Id: 1599
+Legacy Id: 1655
+
+Question:
+I have a Sharp Minidisc recorder with a stereo mic jack that supplies a "Plug-in-Power". I've read in other questions posted that dynamic mics aren't to be used with this power source. So I'm wondering, can I use a "normal" size condenser mic(with an external power source to operate the condenser) with the mic jack? Will the "Plug-in-Power" have an adverse effect on the operation of the mic? I have a Sure SM57 but looking for a condenser or other mic for this recorder.
+
+
+---- 08/24/2001 09:03 AM ----------------------------------------------
+
+No, I just wanted to know if "Plug-in-power" or bias-power(meant for small electret mics) as it's called cause a condenser mic used with external battery supply function improperly.
+
+
+Answer:
+
+	Ive read in other questions posted that dynamic mics arent to be used with this power source.
+
+	* Using an isolation transformer like the Shure A96F will block the plug-in power, properly known as bias. http://www.shure.com/americas/products/accessories/microphones/microphone-problem-solvers/a96f-camcorder-interface
+
+	Can I use a normal size condenser mic (with an external power source to operate the condenser) with the mic jack?
+
+	* The bias might still be a problem. Use the A96F.
+	
+	Will the Plug-in-Power have an adverse effect on the operation of the mic?
+
+	* Perhaps, but it depends on the internal design of the mic.
+	
+	To understand more, please read the following:
+	
+	What specifications determine if a Shure microphone will properly operate with your camcorder or your mini-disc recorder or your radio or your computer sound card or your anything!
+	
+	Shure is often asked Will microphone model X work with my .? While we would love to have the microphone input specifications of each and every device in the world that needs a microphone, it is an impossible task. So for us to help you select the proper microphone, we need you to provide the following three vital specifications for the microphone input of your device. Typically, these specifications will be provided in the Owners Manual for your device or you may have to call the manufacturer of the device.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #1
+	Typically called Input Sensitivity or Nominal Input Level, this specification indicates how large of a signal the microphone must supply to satisfy the microphone input of your device. This specification might be given in millivolts (mV), or volts (V), or in a minus dB form (-dBV, -dBm, -dBu, -dBs).
+
+	In the Shure product line, there is a wide variation of signal levels available depending on the microphone model. If you select a microphone whose signal level is too low for your device, the audio will be noisy and low in level. If you select a microphone whose signal level is too great for your device, the audio will be distorted and unintelligible. Proper matching of the microphones signal level to your devices required input level is imperative.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #2
+	Typically called Input Impedance or Actual Input Impedance, this specification is important as it will determine the proper impedance range of the chosen microphone. This specification will be given in ohms. Contrary to popular audio mythology, the impedance of a microphone does not need to match the input impedance of your device.
+
+	In the Shure product line, there are multiple impedances available depending on the microphone model. If you select a microphone whose impedance is lower than or equal to your devices input impedance, the microphone will work if it provides the proper signal level (see #1 above). If you select a microphone whose impedance is greater than your devices input impedance, the microphone will not deliver its full signal level to your device and the audio will be noisy and low in level.
+	
+	VITAL MICROPHONE INPUT SPECIFICATION #3
+	This final specification is the type of microphone input connector on your device, how many connection points are in the connector, and what is the function of each connection point. This specification will be the name of the connector, such as: XLR female, 3.5mm mini-phone plug, TRS 1/4 female phone jack, screw terminals, TINI QG connector. Each of these has at least two connection points and most have three (or more) connection points. It is imperative that the function of each connection point be known so that the proper microphone wiring can be determined.
+
+	In the Shure product line, there are many wiring schemes available depending on the microphone model. If the microphone connections are not properly matched to your devices input connector, there may be no audio, or funny sounding audio, or the microphone might be damaged if there is an unknown voltage appearing on your devices connection points.
+	
+	CONCLUSION
+	As you can see, there are many variables that affect whether a particular microphone will work with your device. Shure will be happy to assist in your microphone selection, but to do the job correctly, we need you to provide the pieces of this technical puzzle that Shure does not have: the audio input specifications of your device.
+	
+	At 08/24/2001 12:50 PM we wrote - Your question is impossible to answer unless the schematic for the mini-disc player is available, as well as the schematic for the microphone. Using the A96F will block the bias power from reaching the microphone, and then there will not be a problem no matter what mic you use.
+

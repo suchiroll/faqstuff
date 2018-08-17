@@ -1,0 +1,30 @@
+Title: Putting an XLR on the Green Bullet
+Id: 1905
+Legacy Id: 1966
+
+Question:
+I'm interested to know if I can remove the 1/4" pin off the end of the cable and install an XLR connector to the cable. I have removed the shield from the 1/4" pin to find only 2 of the 3 wires are connected (black open).
+
+
+1. Can this be done?
+
+2. Do I have to connect any wires internally in the mic? Looking at the booklet that comes with the mic, it looks to be already wired.
+
+3. Will this affect the impedance going to an XLR connector?
+
+4. The reason for doing this mod is to plug direct into the sound board.
+
+
+Thanks in advance
+
+
+Answer:
+
+	1) Absolutely. There are a red and black wire in there. You might have to cut back the insulation a bit to find the other wire. See the following link for a wiring diagram:
+	
+	520DX rewired solution for low impedance
+	
+	2) Yes. See the above link for a wiring diagram.
+	
+	3) It needs to be rewired for low impedance. See the above link for a wiring diagram.
+

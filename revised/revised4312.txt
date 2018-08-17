@@ -1,0 +1,33 @@
+Title: Beta WB98H/C with AT2110 wireless transmitter
+Id: 4312
+Legacy Id: 5383
+
+Question:
+I'm looking to purchase a Beta 98H/C, and I have an Audio-Technica AT2110 UHF wireless system that I'd like to use. Should I purchase the WB98H/C with the Shure TA4F or the wired version? And how can I terminate it with the proper connector?
+
+
+
+Answer:
+
+	Get the wireless version of the Beta 98: WB98H/C
+	
+	Shure pin 1 to A-T pin 1
+	
+	Shure pin 2 to A-T pin 4
+	
+	Shure pin 3 to A-T pin 3
+
+	
+
+	
+
+	Here is pinout information for the A-T transmitter as provided by Audio Technica:
+	Pin 1 - Ground
+	Pin 2 - High Z (instrument)
+	Pin 3 - Low Z (mic)
+	Pin 4 - Bias voltage
+	**When wiring a microphone connect both Pin 1 and Pin 2 to shield.
+	
+	
+	
+

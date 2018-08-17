@@ -1,0 +1,41 @@
+Title: Info on battery use in BG 5.1
+Id: 2397
+Legacy Id: 2489
+
+Question:
+I've recently purchased BG 5.1 microphone.I have a few questions about it's battery:
+
+1. Is the battery active all the time when it's in the microphone, or only when the switch is "on"?
+
+2. How am I supposed to know when it's time to replace the battery (I suppose that I don't have to count the hours when I use it)?
+
+3. I've noticed that microphone changes it's characteristicts when I'm singing for 2-3 hours(it becomes less clear, and makes some strange "ringing"), and I don't know if it means that battery is weak?
+
+
+Maybe it's because I'm singing very close to the microphone(with my lips on the grille-I must, because I work very close to the speakers,don't ask why), and humidity from my mouth causes this problem?
+
+
+Can I damage the microphone this way (I've read in specifications that humidity over 95% could be a problem)?
+
+Does that mean that I can't use it for singing so close to mouth?
+
+
+Answer:
+
+	1. Is the battery active all the time when it's in the microphone, or only when the switch is "on"?
+	* The battery is always active.
+	
+	2. How am I supposed to know when it's time to replace the battery (I suppose that I don't have to count the hours when I use it)?
+	* Replace the battery once every year. The exact date is your decision. Use an alkaline battery.
+	
+	3. I've noticed that microphone changes it's characteristicts when I'm singing for 2-3 hours(it becomes less clear, and makes some strange "ringing"), and I don't know if it means that battery is weak?
+	* This has nothing to do with the battery. It could be the foam windscreen in the grill becoming saturated with moisture from your breath.
+	
+	Maybe it's because I'm singing very close to the microphone(with my lips on the grille-I must, because I work very close to the speakers,don't ask why), and humidity from my mouth causes this problem?
+	* This is the likely cause.
+	
+	Can i damage the microphone this way (I've read in specifications that humidity over 95% could be a problem)?
+	* No. Once it dries out, it will be fine.
+	
+	Does that mean that I can't use it for singing so close to mouth?
+	* No, but you may need a replacement grill so that you can change the grill after every set. This allows one to dry out while you are using the other grill.

@@ -1,0 +1,21 @@
+Title: KSM8 Dual Diaphragm Design - is it truly unique?
+Id: 4854
+Legacy Id: 6041
+
+Question:
+There was an AKG microphone in the 1970s that had two diaphragms. Does the KSM8 use the same technology?
+
+
+
+Answer:
+
+	No.
+	
+	AKG models D200, D202, D222, and D224 were introduced circa 1970. These models, denoted by AKG as Two-Way microphones utilized two separate cartridge elements: one for high frequencies and one for low frequencies.The two cartridge elements were passively combined with a crossover network. Technically, these AKG models did feature two diaphragms because there were two mic elements.
+	
+	The Shure KSM8 has one cartridge element with a primary active diaphragm and a secondary passive diaphragm that is part of the acoustical resistance networkwithin themicrophone. The resistance network determines the polar pattern of the mic, and with the second diaphragm provides the controlled proximity effect. To achieve this design, the traditional air flow within the dynamic mic is reversed in order to have a secondary diaphragm as part of a single element design - resulting in Dualdyne Cartridge Technology.
+	
+	In 2014, Shure Incorporated was granted U.S. Patent No. 8,818,009 entitled Dual Diaphragm Dynamic Microphone Transducer. The KSM8 handheld microphone was developed using the concept from this patent.
+	
+	The AKG D222Data Sheet is attached below as a PDF file.
+

@@ -1,0 +1,23 @@
+Title: European REACH directive
+Id: 4173
+Legacy Id: 5120
+
+Question:
+Does Shure have an official statement for European customers about the REACH directive?
+
+Answer:
+
+	December 23, 2009
+	
+	To: Shure Customers in the European Union
+	
+	Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorization and Restriction of Chemicals (REACH) entered into force on June I, 2007, although most of the operative provisions were to be phased in over a period of years. The policy of Shure Incorporated (Shure) is to comply with all applicable laws of all jurisdictions having authority over Shures business, including, as applicable, REACH.
+	
+	REACH places a general obligation on EU manufacturers and importers of substances to register with the European Chemicals Agency (ECHA) each substance that is manufactured or imported in quantities of one metric ton or more per year. This includes registration of substances that are intended to be released from articles (e.g., manufactured goods such as finished products) during normal and reasonably foreseeable conditions of use.
+	
+	Subject to certain conditions, Article 7(1) of REACH requires any EU producer or importer of articles to submit a registration to the ECHA for any substances that meet both of the following criteria: (i) the substances are intended to be released from those articles during normal and reasonably foreseeable conditions of use; and (ii) the substances are present in those articles in quantities totaling at least one metric ton per producer or importer per year.
+	
+	Article producers and importers may also have a notification obligation to the ECHA with respect to certain substances of very high concern (SVHCs). Notification is generally required under Article 7(2) of REACH for any SVHC present in articles and for which the following conditions are met: (1) the SVHC is present in those articles above a concentration of 0.1% by weight; (2) the total amount in those articles exceeds one metric ton per producer or importer per year; and (3) the SVHC has not yet been registered for that specific use.
+	
+	Shure has implemented a procedures designed to ensure Shures compliance with the applicable requirements of REACH. Based on Shures internal assessments using, among other things, available ECHA guidance and in consultation with Shures outside regulatory attorneys, Shure believes that no Shure products contain substances that are intended to be released under normal and reasonably foreseeable conditions of use. Therefore, Shure does not believe that it has any direct registration obligation under Article 7(1) of REACH. Shure is also unaware of any SVHC present in Shure products for which the conditions to notification under Article 7(2) of REACH have been met. However, Shure intends to continue to monitor and comply with all applicable requirements of REACH.
+

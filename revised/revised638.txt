@@ -1,0 +1,12 @@
+Title: 520DX - switchable impedance?
+Id: 638
+Legacy Id: 655
+
+Question:
+Does the 520DX use a separate transformer to obtain the high impedance, or is the element itself high impedance?
+
+
+Answer:
+
+	There is an internal transformer that determines the output impedance.
+

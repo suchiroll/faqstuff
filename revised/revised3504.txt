@@ -1,0 +1,435 @@
+Title: Which microphone should I use on ... ? (Selection Guides)
+Id: 3504
+Legacy Id: 3703
+
+Question:
+Which microphones do you recommend for various instruments?
+
+Answer:
+
+	The following are current Shure microphones as of March 2018.
+	
+		
+			
+				Vocals
+		
+		
+			
+				Live Vocals
+				
+					
+						KSM8 
+					
+						KSM9
+					
+						Beta 58A 
+					
+						SM58 
+					
+						Beta 87A
+					
+						Beta 87C
+					
+						SM86
+					
+						Super 55
+				
+			
+			
+				 
+			
+				Studio Vocals
+				
+					
+						KSM353/ED
+					
+						KSM313/NE
+					
+						KSM42
+					
+						KSM32
+					
+						KSM44A
+					
+						KSM8
+					
+						KSM9 
+					
+						SM27 
+					
+						SM7B
+					
+						SM58
+				
+			
+			
+				 
+			
+				Ensemble Vocals
+				
+					
+						KSM44A
+					
+						KSM32
+					
+						SM27
+					
+						PGA27
+					
+						KSM353/ED
+					
+						KSM313/NE
+				
+				
+			
+		
+		
+			
+				
+			
+		
+		
+			
+				Headworn/Speech 
+				
+					
+						MX153
+					
+						Beta53
+					
+						SM35
+					
+						WH20XLR
+				
+			
+			
+				 
+			
+				Headworn/Vocal 
+				
+					
+						Beta54
+					
+						Beta53
+					
+						SM35
+					
+						WH20XLR
+				
+			
+			
+				 
+			
+				Karaoke 
+				
+					
+						SM58 
+					
+						SM48
+					
+						PGA58
+					
+						PGA48
+					
+						565SD
+				
+			
+		
+		
+			
+				
+			
+		
+		
+			
+				Choirs
+				
+					
+						KSM137
+					
+						SM137
+					
+						SM81
+					
+						PGA81
+					
+						MX202
+					
+						CVO
+				
+			
+			
+				 
+			
+				Presentation (Handheld)
+				
+					
+						SM58
+					
+						SM48
+					
+						Beta 58A
+					
+						KSM9
+					
+						SM57
+					
+						SM86
+					
+						SM87A
+				
+			
+			
+				 
+			
+				Conference/Podium
+				
+					
+						MX412/C 
+					
+						CVG
+					
+						Beta 58A
+					
+						SM58
+					
+						SM48
+					
+						PGA58
+					
+						SM57
+				
+			
+		
+		
+			
+				
+			
+		
+		
+			
+				Studio Broadcast
+				
+					
+						SM7B
+					
+						SM58
+					
+						KSM42
+					
+						KSM9
+					
+						PGA27
+					
+						Super55
+				
+			
+			
+				 
+			
+				 
+			
+				 
+			
+				 
+		
+		
+		
+			
+				
+			
+		
+		
+			
+				Instrument
+		
+		
+			
+				Piano
+				
+					
+						KSM44A
+					
+						KSM32
+					
+						KSM137
+					
+						KSM141
+					
+						SM81
+					
+						SM137
+					
+						PGA81
+				
+			
+			
+				 
+			
+				Strings
+				
+					
+						KSM44A
+					
+						KSM32
+					
+						KSM137
+					
+						KSM141
+					
+						SM81
+					
+						SM137
+					
+						PGA81
+				
+			
+			
+				 
+			
+				Drums/Percussion
+				
+					
+						Beta 181
+					
+						Beta 98A
+					
+						Beta 52A/Beta 91A (kick)
+					
+						KSM137
+					
+						SM137
+					
+						SM81
+					
+						SM57
+					
+						PGA81
+					
+						PGA98D 
+				
+			
+		
+		
+			
+				
+			
+		
+		
+			
+				Woodwinds
+				
+					
+						KSM44A
+					
+						KSM32
+					
+						KSM137
+					
+						KSM141
+					
+						SM81
+					
+						SM137
+					
+						SM57 
+				
+			
+			
+				 
+			
+				Brass
+				
+					
+						KSM44A 
+					
+						KSM32
+					
+						KSM137
+					
+						KSM141
+					
+						SM81 
+					
+						SM137 
+					
+						SM57 
+					
+						Beta 98H/C
+					
+						PGA98H
+				
+			
+			
+				 
+			
+				Electric Guitar Amp 
+				
+					
+						Beta 27
+					
+						SM57
+					
+						Beta 181
+					
+						KSM313/NE
+					
+						KSM32
+					
+						Beta 57A
+					
+						KSM137 
+				
+			
+		
+		
+			
+				
+			
+		
+		
+			
+				Bass Amp 
+				
+					
+						Beta 27
+					
+						Beta 52A
+					
+						SM57
+					
+						Beta 181
+					
+						KSM32
+					
+						Beta 57A 
+				
+			
+			
+				 
+			
+				Stereo Recording
+				
+					
+						VP88
+					
+						KSM137/SL Stereo
+					
+						KSM141/SL Stereo
+					
+						SM81
+					
+						SM137
+					
+						PGA81
+					
+						KSM44A  
+				
+			
+			
+				 
+			
+				 
+		
+	
+

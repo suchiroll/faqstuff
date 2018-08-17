@@ -1,0 +1,16 @@
+Title: Wireless mic for violin and flute
+Id: 2150
+Legacy Id: 2221
+
+Question:
+I'd like to use a microphone attached to a violin and flute "C" plugged to an amplifier or to a tape recorder and/or connected to a sound system by wireless means.
+
+
+Answer:
+
+	Place the mic on your collar or as near to the instrument as possible. Miking the player, and not the instrument, keeps the instruments physical vibrations from shaking the mic and producing unwanted noise.
+	
+	Some flute players use a headworn mic and place the mic near the mouthpiece.
+	
+	To read more about instrument miking see our online book Microphone Techniques for Music - Sound Reinforcement at Shure Educational Booklets.
+

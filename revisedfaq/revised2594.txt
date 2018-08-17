@@ -1,0 +1,35 @@
+Title: VP88 M-S decoding with a software mixer/matrix
+Id: 2594
+Legacy Id: 2695
+
+Question:
+I want to use a VP88 in MS mode ( sans internal matrix) and since I'm using ProTools LE and I think I should be able to matrix this in the software. So I 'm trying to figure out how this should go.
+
+Would this be correct:
+
+Channel One is M output of mic.
+
+Channel Two and Three are grouped
+
+Channel two is S+
+
+Channel three is S- (phase reversed in software)
+
+
+WIll this work, as I push up the locked channels two and three I get increased spread.
+
+
+Or does Two need to be M+S
+
+and Three M-S
+
+
+Answer:
+
+	Input channel One is the M output of the VP88. This input must be panned to Left Output channel and the Right output channel.
+	
+	Input channel Two is the S output of the VP88 (in phase). This input must panned only to the Left output channel.
+	
+	Input channel Three is the S output of the VP88 (phase reversed). This input must panned only to the Right output channel.
+	
+	When inputs two and three are fully attenuated, the output is monaural only. As you add more input level from two and three, the stereo "spread" increases.

@@ -1,0 +1,22 @@
+Title: Microphone connected to a computer sound card
+Id: 38
+Legacy Id: 38
+
+Question:
+I connected my SM58 to my computer sound card microphone input for recording. The problem is that the sound is very quiet even with the computer volume control turned all the way up.
+
+
+
+Answer:
+
+	What you are experiencing is the difference in level between different devices. Low impedance microphones, like the SM58 have a very low output level. A guitar, on the other hand, has a much hotter output. The sound card on your computer requires a hotter level. 
+	
+	Computer has a USB port.
+	To connect a professional microphone to a computer, you will need to bypass the computer sound card and use a USB interface, such as the Shure MVi or X2u USB Adapter. These are high quality microphone preamps with a USB computer interface. They are an outboard audio interface. That is, you would no longer use the sound card that came in your computer. They do supply phantom power for condenser microphones. You can also purchase a microphone, such as the Shure MV5 or MV51, that have built-in USB ports.
+	
+	Computer does not have a USB port.
+	If you do not have a USB port on your computer, you can try one of the following solutions. The MVi and X2u USB adapters will work better than the following solutions.
+	
+	The first non-USB possibility is to interface a professional microphone with a computer soundcard through the use of a microphone preamp.
+	
+	The second non-USB possibility is to use a transformer, such as the Shure A96F, to help boost the level of your SM58 to something that would likely be appropriate for the sound card. The A96F has a female XLR on one end and an 1/8" connector on the other end. Place the transformer at the computer and use a standard XLR cable between it and your SM58. The transformer will be less expensive than the microphone preamp, but it may not provide enough gain for your particular sound card. The A96F will not work with a phantom powered condenser microphone.

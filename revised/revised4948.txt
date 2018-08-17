@@ -1,0 +1,16 @@
+Title: Motiv recording - intermittent loss of bass
+Id: 4948
+Legacy Id: 6210
+
+Question:
+The bass is dropping in and out of my Motiv recording - what's going on?
+
+
+
+Answer:
+
+	Check Motiv Settings in the Shure Motiv app and make sure that Wind Reduction is not enabled.This setting acts as a high-pass filter that responds to bursts of wind, reducing low-frequency pickup.Although this is helpful when recording speech in a windy environment, it usually is not desirable for other sound sources like music.
+	
+	When Wind Reduction is enabled, this icon will appear at the top right-hand corner of the Motiv app screen:
+	
+

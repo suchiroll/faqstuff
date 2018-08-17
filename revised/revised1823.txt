@@ -1,0 +1,16 @@
+Title: Our singer lacks volume in live situations.
+Id: 1823
+Legacy Id: 1883
+
+Question:
+Our singer as been asked by every soundman "is that how loud you sing?" She lacks volume. Some have suggested a microphone that would better pick-up her quiet singing voice. Which Shure mics would you recommend?
+
+
+Answer:
+
+	We doubt that a different microphone would help. We suggest that your singer consider voice lessons to strengthen her voice.
+	
+	Heres an analogy. If you have a little 4 cylinder, 100 horsepower car, it doesnt matter what kind of tires you put on it, it still wont be a race car.
+	
+	In general, a condenser mic will likely work best for her, such as the KSM9 or Beta 87.
+

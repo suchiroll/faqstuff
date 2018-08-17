@@ -1,0 +1,16 @@
+Title: Antenna efficiency improvement using a plastic straw
+Id: 4164
+Legacy Id: 5076
+
+Question:
+I have been told that placing a plastic straw over the flexible antenna of a bodypack transmitter can improve the RF signal transmission. Is this true?
+
+
+Answer:
+
+	It is true. The straw will extend the antenna to its full length and prevent the antenna from curling back on itself. This will improve the efficiency of the antenna.
+
+	
+
+	The same came be accomplished using several layers of heat shrink tubing.
+

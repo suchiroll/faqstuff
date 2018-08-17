@@ -1,0 +1,31 @@
+Title: Antenna distribution for 5 LX or SC wireless receivers
+Id: 181
+Legacy Id: 182
+
+Question:
+How do I connect 5 VHF wireless receivers up to an antenna distribution system?
+
+
+Answer:
+
+	Antenna Distribution  5 Diversity SC or LX Receivers
+
+	
+		In applications involving multiple rack-mounted wireless microphone receivers, an antenna distribution system offers several advantages over mounting antennas on each individual receiver:
+		
+			
+				Only 1 pair of antennas is required, making it more practical to remote-mount the antennas near the performance area.
+			
+				DC power can be distributed to each receiver, eliminating the need for multiple AC/DC power supplies.
+			
+				RF performance is improved by eliminating closely-spaced antennas on adjacent receivers, which interfere with each other.
+		
+	
+	
+		One pair of antennas is connected to the inputs of the WA470 Passive Antenna Splitter. One pair of outputs from the WA470 are connected to the inputs of a WA405 Antenna Distribution System. The RF outputs of the WA405 are connected to the antenna inputs on four diversity VHF receivers. DC output jacks on each WA405 feed operating voltage to the four receivers. The second pair of outputs from the WA470 feeds the inputs on the fifth diversity receiver.
+	
+		The standard 1/4-wave whip antennas supplied with most Shure VHF wireless systems may be used if they are connected directly to the inputs on the WA470s front panel. If the antennas are to be mounted remotely, the accessory WA380 1/2-wave antennas must be used.
+
+
+	
+

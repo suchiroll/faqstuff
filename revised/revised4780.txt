@@ -1,0 +1,22 @@
+Title: PG42 USB with Apple OS El Capitan
+Id: 4780
+Legacy Id: 5965
+
+Question:
+Loved the PG42 USB with my previous Macbook pro, but now have a new one that is running El Capitan. After a few minutes of recording, it gets an error where the recording repeats a small clip of audio over and over. This happens no matter the recording software (Garage band, ProTools, etc) so I believe it's a driver error. Is there anything I can do? I love this mic and want to continue using it.
+
+
+Answer:
+
+	The PG42USB is a driver-less plug and play microphone, so it doesnt require special software to use. It should work on any laptop/desktop with a USB port on it.
+	
+	That being said, OS El Capitan seems to have introduced a number of audio related issues across a variety of audio devices. The manufacturers in the following links have driver-based hardware / software and have been working on updated drivers for El Capitan:
+	
+	https://discussions.apple.com/docs/DOC-8801
+	
+	https://www.google.com/webhp?sourceid=chrome-instantion=1espv=2ie=UTF-8#q=el%20capitan%20audio%20issues
+	
+	http://www.sweetwater.com/sweetcare/articles/el-capitan-mac-os-x-10-11-compatibility-information/
+	
+	As the PG42USB is a driverless product, it cannot be updated with a firmware / driver fix. Perhaps as Apple addresses the audio issues that El Capitan has introduced, your PG42-USB issue will be resolved in the future.
+

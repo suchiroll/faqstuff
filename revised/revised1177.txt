@@ -1,0 +1,12 @@
+Title: Which mic cables should I use to be future-proof?
+Id: 1177
+Legacy Id: 1220
+
+Question:
+I will be rewiring church in house mic cable to mixer routes. Do you forsee any radical changes in mic cable requirements over the next few years? Is there a fibre optic cable sytem in the works or will I be all right with twisted pair and shielded cable for the next 10 years or so? Any recommendations appreciated.
+
+
+Answer:
+
+	We do not foresee any radical change in mic cables over the next 10 years. Fiber optic systems are still many years away. You will be all right with standard twisted pair, shielded mic cable.
+

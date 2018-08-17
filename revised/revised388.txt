@@ -1,0 +1,16 @@
+Title: Stereo recording of saxophone quartet
+Id: 388
+Legacy Id: 395
+
+Question:
+I require a pair of microphones to record a saxaphone quartet in stereo. The recording will be done at home using a pc with a soundblaster live sound card. Purpose of recording: to produce demo CD. I have done some initial tests using a pair of BG1.1 (borrowed) but the bass response was not ideal. Please Advise on choice of microphones, also guidance on location/setup of microphones would be much appreciated.
+
+
+Answer:
+
+	For a complete listing of microphones that we recommend for ensembles, see our online Selection Guides.
+	
+	You should know that the microphone inputs on a Soundblaster are less than adequate for professional recording. Connecting a Professional Microphone to a Computer
+	
+	You should use the microphones in an X-Y configuration. The best placement will probably be for the quartet to form a semi circle around the microphones. Experiment to see what sound you like. You can also find other mic placement recommendations as well as stereo microphone techniques in our online publication Microphone Techniques for Music - Studio Recording at Shure Technical Publications.
+

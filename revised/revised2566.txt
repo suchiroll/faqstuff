@@ -1,0 +1,21 @@
+Title: Logic Port specifications for UC4 receiver
+Id: 2566
+Legacy Id: 2664
+
+Question:
+What is the nature of the "Logic Ouput" (ie open collector, open collector with resistor to 5V, open collector with resistor and reverse current blocking diode to 5V, TTL totem pole, etc) and what are the associated electrical limits that apply to this port? The specs say it can sink 100mA but can it source current?, what is the maximum voltage that an external device can apply to the output without damaging the UC4 (ie can it pull down and input that supplies 24V (OC) 10mA (SC)) Thankyou.
+
+
+Answer:
+
+	What is the nature of the Logic Ouput (ie open collector, open collector with resistor to 5V, open collector with resistor and reverse current blocking diode to 5V, TTL totem pole, etc) and what are the associated electrical limits that apply to this port?
+	* Open collector with 10k ohm resistor to 5V.
+	
+	
+	The specs say it can sink 100mA but can it source current?
+	* It cannot source current.
+	
+	What is the maximum voltage that an external device can apply to the output without damaging the UC4 (ie can it pull down and input that supplies 24V (OC) 10mA (SC)
+	* 24 volt relays can be employed as along as the relay coil draws less then 100mA.
+	* 15 volt CMOS logic can be used if each UC logic output is pulled up to 15 volts by an external 15 volt supply through a 5.1k ohm resistor.
+

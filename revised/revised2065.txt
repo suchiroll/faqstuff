@@ -1,0 +1,15 @@
+Title: Tracking force range for V15VxMR
+Id: 2065
+Legacy Id: 2131
+
+Question:
+What isthe range of tracking force for the V15VxMR without the dynamic stabilizer (I know that optimum is 1.0 grams) and if 1.25 grams would be excessive. Thanks very much.
+
+
+
+Answer:
+
+	The tracking force range is 0.75 grams to 1.25 grams.
+	
+	If the stabilizer is in use, add 0.5 grams to the tracking force setting. This is because the upward force of the stabilizer decreases the tracking force by 0.5 grams.
+

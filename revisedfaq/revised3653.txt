@@ -1,0 +1,12 @@
+Title: A2WS dimensions
+Id: 3653
+Legacy Id: 3861
+
+Question:
+What are the specifications/dimensions are for the SM57 windscreen, the A2WS, specifically the diameter of the opening?
+
+
+Answer:
+
+	Length:  2 and 3/4 inchesMaximum outer diameter: 2 inchesInner diameter at mic opening: 1 and 5/16 inches
+	 

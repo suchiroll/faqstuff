@@ -1,0 +1,61 @@
+Title: QLX-D Key Features
+Id: 4556
+Legacy Id: 5680
+
+Question:
+What are the primary intended uses for QLX-D?
+
+
+Answer:
+
+	QLX-D is designed for corporate events, live music performances, higher education, high schools, houses of worship, hotels and conference centers. But so is ULX-D Digital - a higher-tier system. Which system to choose is a question of scale, so thats where the mid-size venues and installations designation becomes important.
+	
+	In a corporate context, mid-size means the use all the receivers on the same floor of a building, and on the same network. QLX-D is the right solution for this situation. If there are multiple floors and each has its own network, orif there are multiple corporate or university campuses, ULX-D is a better solution.
+	
+	For live music performances in a small- to medium-size concert hall, QLX-D is appropriate, but for live music performance in a huge stadium, then UHF-R or Axient is more appropriate because theyre designed with larger venues in mind. In designing QLX-D, the features for large-scale systems were minimized while retaining the same audio quality, reliability, and RF performance.
+	
+	Even though its streamlined compared to ULX-D, QLX-D has AES-256 encryption, IP networking capabilities, and rechargeable battery technology.
+	
+	
+	Network sophistication  RF flexibility: the key differences between QLX-D and ULX-D
+	
+	In terms of audio quality, reliability, and RF performance, QLX-D and ULX-D are the same. The key differences are in two categories: network sophistication and RF flexibility.
+	
+	Lets start with network sophistication. If using a third-party control device, most likely AMX or Crestron, then there is a console to control projectors, lights, microphoneseverythingin a corporate board room, for example. If you want to use that system to control devices across subnets, then use ULX-D. What does across subnets mean? It means across multiple networks, like if two floors are each on separate networks. QLX-D can only communicate within the same subnet: one network on one floor.
+	
+	An example in the education context: a centrally located control room is used for all the devices on multiple campuses of a university. Use ULX-D as each building will have its own network. QLX-D only allows control of devices within the same network. ULX-D also offers dual and quad receivers with audio summing, Dante digital audio networking, and dual Ethernet ports. QLX-D does not have these features. But for a simpler network environment, with the gear on one floor and using one network, then QLX-D is the approriate choice.
+	
+	Other differences related to network sophistication: ULX-D receivers have a flexible user interface. Without having to look at the user guide, one can change all the parameters, like IP address, subnet mask, and gateways, on the receivers themselves. The display on QLX-D is simplified, sothe usercan change the IP address and subnet mask, but will likely require a user guide. Also, with QLX-D, the gateway cannot be altered; this is why the control string cannot communicate across subnets.
+	
+	RF flexibility is another key difference between QLX-D and ULX-D. QLX-D transmitters have two levels of output power: 1 and 10 milliwatt (mW). ULX-D bodypack and handheld transmitters offer a 20 mW output option in addition to 1 mW and 10 mW. ULX-D at 20 mW output will provide a 3 dB hotter RFsignal than QLX-D. This is useful in exceptionally difficult RF environments as it provides a better carrier-to-noise ratio.
+	
+	Additionally, ULX-D offers a High-Density Mode feature not available with QLX-D. High-Density Mode allows ULX-D tohave up to 47 channels in a 6 MHz TV channel in the United States. In Europe, it can have up to 63 channels in an 8 MHz TV channel with High-Density Mode. This is useful for large-scale corporate conferences with a central location and breakout roomssay, 30, 40, or 50 breakout rooms in which every personis simultaneously using wireless microphones. In this scenario, ULX-D is the ideal choice.
+	
+	
+	Features that make QLX-D convenient: easy setup, networkability  rechargeability
+	
+	When audio professionals were asked about mid-size venues and installations, Shure discovered that their knowledge of RF frequency coordination varied widely. We realized that we needed to offer a product that customers could quickly set up and use, and that would make RF decisions automatically.
+	
+	For example, a user may have a general understanding of the Scan feature on a receiver, but may not know what to do with the information provided by the scan. QLX-D will perform a scan on a single receiver and find the compatible channel for that receiver. The user only needs to press a button two times: Menu, Enter, and done. This takes two or three seconds, and the QLX-D receiver makes the RF decisions. Using QLX-D is simple for RF coordination.
+	
+	QLX-D Network Scan allows a user to coordinate the frequencies of up to 60 channels in 15 seconds. This isuseful for live performance applications in which the users find the open channels and assign all the frequencies to the receivers the day before. Then, a half-hour before the show, the users find that some frequencies do not work anymore because the RF environment has changed because newly introduceddevices in use by security personnel, TV stations, and others who werent there the day before. The user can do a network scan and the receiver automatically coordinates the frequencies based on the new RF environment.
+	
+	About rechargeability: QLX-D can use two AAcells or the SB900 Shure Lithium-ion Rechargeable Battery. The user can charge the SB900 at any time without discharging it first. Theres no memory effect. There are also a variety of charging options: an eight-bay charger, a single-battery USB charger, and the dual docking station to charge the transmitter with the SB900 installed. The SBC900 charges quickly, too: 15 minutes of charging provides an hour of use. One hour provides approximately 5 hours of operation. Three hours provides the full charge of 10 hours. With AA cells, get up to 9 hours of use.
+	
+	Besides the longer runtime and the cost savings on AA cells over time, the rechargeable battery has another advantage. The QLX-D receiver displays remaining runtime in hours and minutes with an accuracy window of 15 minutes. With AA cells, theres a five-bar display. With the SB900, the user will know how much run-time is available.
+	
+	
+	Exceptional RF spectrum efficiency
+	
+	In the U.S., where QLX-D has a 64 MHz tuning bandwidth, one can use 17 channels within 6 MHz of RF spectrum. QLX-D has 67 preset compatible channels. Using Shure Wireless Workbench software with QLX-D, one can calculate a large QLX-D system with 100 channels. The typical QLX-D user most likely wont need that many channels, but the capability is there.
+	
+	
+	Top-tier encryption capabilities
+	
+	QLX-D offers AES-256 encryption. It use could be in a boardroom where confidential information is being shared. Or in a government application where sensitive information is being discussed. Universities have also gravitated toward using encryption. AES-256 encryption is the highest standard of encryption available to the public. The National Institute of Standards and Technology has validated the encryption technology in QLX-D and ULX-D.
+	
+	
+	Metal Construction
+	
+	The QLX-D features metal construction of the tranmitters and receiver chassis. Note that the handheld transmitter does have a plastic battery cover and antenna dome, but the rest is metal. Also, the newly designedrack hardware is extremely sturdy and included with the system.
+

@@ -1,0 +1,13 @@
+Title: SM58LC and SM58 CN - differences
+Id: 2782
+Legacy Id: 2890
+
+Question:
+The SM58 spec sheet lists several model numbers. I can find nothing which tells me what distinguishes a -LC from a -CN or why I would care which one to get. Can you point me to the relevant information?
+
+
+Answer:
+
+	LC = less cable...no cable is provided
+	
+	CN = connector...a cable is provided with XLR connectors at both ends

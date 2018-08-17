@@ -1,0 +1,19 @@
+Title: M104E cartridge replacement stylus
+Id: 286
+Legacy Id: 293
+
+Question:
+I have recently damaged the stylus on my M104E cartridge. Are replacement stylus's still available and if so, what is the part number. I have spoken to several dealers and they have no information on this cartridge, also there is no information on the site apart for a tech support reply stating the M104E is the same as an RPX-3.
+
+Answer:
+
+	The following page shows a complete Cartridge/Stylus Cross Reference (along with availability):
+	
+	http://www.shure.com/files/us_pro_stylus_cross_reference.pdf
+
+	
+
+	The N104E is the replacement stylus for the M104E. Our Parts Department still has stock of the N104E. Contact our Distributor in the UK to purchase one. Their contact information is:
+	
+	http://www.shure.co.uk/index.htm
+

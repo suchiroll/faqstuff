@@ -1,0 +1,16 @@
+Title: Microphone for telephone and computer use
+Id: 1263
+Legacy Id: 1310
+
+Question:
+Which michophone should I buy in order to have both hands free for typing in a computer and be able to use a telephone at the same time? The telephone has a normal female plug. Are there any accessories for me to hang up the phone directly from the microphone?
+
+
+Answer:
+
+	If your question is about connecting a professional microphone into a computer sound card, please read the following.
+	
+	Microphone connected to a computer sound card
+	
+	For your specific needs, we suggest you contact Plantronics.
+

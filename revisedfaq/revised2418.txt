@@ -1,0 +1,18 @@
+Title: Replacement Stylus for R47XT
+Id: 2418
+Legacy Id: 2511
+
+Question:
+I have a R47XT cartridge that I would like to try and locate a stylus for. I'm sure you no longer carry a stylus that will work, but can you tell me what styus/replacement stylus were used in this cartridge? If I know that it might be possible to track one down. I found the specs in another faq, when was this cartridge introduced and when discontinued?
+
+
+Answer:
+
+	The styli that fit the R47XT were the RX5 and the RX8. If Radio Shack no longer carries these styli, the Shure NE95ED stylus will fit.
+	
+	Sorry, we have no records on when the R47XT was introduced and discontinued. Maintenance of such a record is the responsibility of the company that sold the cartridge: Radio Shack. We suggest you contact them.
+	
+	Shure did not sell or distribute the R47XT. We were an OEM supplier to Radio Shack. All sales and marketing issues were/are the responsibility of Radio Shack.
+	
+	If you want to replace the Radio Shack R47XT, consider a Shure M97xE.
+

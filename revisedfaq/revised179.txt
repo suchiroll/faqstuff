@@ -1,0 +1,35 @@
+Title: Can I parallel microphones into one input of my mixer?
+Id: 179
+Legacy Id: 180
+
+Question:
+I'm creating a paging system and want to parallel wire multiple microphones into a single channel of my mixer. Is that ok?
+
+
+Answer:
+
+	Wiring Microphones in Parallel
+
+	
+		Connecting microphones in parallel allows more than one microphone to be connected to the same microphone input of a mixer. This reduces the cost and complexity of the sound system, since fewer mixers and microphone-to-mixer cables are required. There are tradeoffs, however:
+		
+			
+				It is not possible to adjust the level of one individual microphone. Therefore, individual soft or loud talkers cannot be accommodated.
+			
+				Only dynamic microphones may be used. Condenser microphones requiring phantom power cannot be connected in parallel, because their cumulative current draw would exceed the capacity of most mixer inputs.
+			
+				In Push-to-Talk applications, the switches on the microphones must be of the Normally Open type. If any microphone uses a Normally Closed switch, it will short out all of the microphones that are connected together and none of the mics will operate.
+			
+				If two or more mics are activated at the same time, the output level of each mic will be less than if only one mic is activated.
+		
+	
+	
+		The connection from each microphone to the audio cable leading to the mixer should be made inside of a shielded enclosure to prevent pickup of hum and interference. Passive 2-into-1 microphone combiners can be used, and provide transformer isolation between microphones.
+	
+		The end of the cable that is farthest from the mixer input must be terminated with a resistor. The resistor produces no audio signal, but emulates the load presented by a microphone. This reduces pickup of hum and radio or electromagnetic interference when no mics are activated.
+	
+		Again, make certain the microphonesto be usedhave Normally Open switches for the mic circuit; some models have Normally Closed but can be modified to be Normally Open.
+
+
+	
+

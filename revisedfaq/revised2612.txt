@@ -1,0 +1,15 @@
+Title: Stylus for "Zenith Allegro Solid-State Modular Stereo"
+Id: 2612
+Legacy Id: 2714
+
+Question:
+My family owns a Zenith Allegro Stereo system (ca. l978), and we were wondering which stylus would replace the one we are currently using for LP and 45-speed records. We have been unable to locate a precise replacement at any of the electronics stores in our home area (Olympia, WA), and the owner's manual for the stereo lists the needle we need as simply "Zenith Part No. 56-641 (for 33 1/3 and 45 RPM records)" without giving the part number for the specific Shure stylus that we want to find. (The only other thing we know is a number we found on the inside of the cartridge that is currently attached to the tone arm on our machine, and it reads "A106775.") Any assistance that we could receive regarding this matter would be much appreciated!
+
+
+Two things I forgot to mention earlier (in case they help): My Zenith Allegro Stereo system has the following codes: Model No. JR596W and Serial No. 9405744.
+
+
+Answer:
+
+	Your Zenith system likely requires a crystal or ceramic cartridge instead of the magnetic cartridges made by Shure; only Zenith can tell you for certain. In that case, see: Replacement Styli for ceramic or crystal cartridges
+
